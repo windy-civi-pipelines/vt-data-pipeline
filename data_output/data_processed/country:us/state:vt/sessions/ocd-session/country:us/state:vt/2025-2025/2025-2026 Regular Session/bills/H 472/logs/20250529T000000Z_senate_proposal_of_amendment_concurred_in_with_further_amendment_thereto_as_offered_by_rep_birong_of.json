@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate proposal of amendment concurred in with further amendment thereto, as offered by Rep. Birong of Vergennes, Coffin of Cavendish, Hango of Berkshire, Hooper of Burlington, Morgan, M. of Milton, Nugent of South Burlington, Pinsonault of Dorset, and Stone of Burlington, as amended",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 472"
+}

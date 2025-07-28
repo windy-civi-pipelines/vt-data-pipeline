@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed on roll call, requested by Senator Ram Hinsdale, Passed -- Needed 15 of 30 to Pass -- Yeas = 20, Nays = 10",
+    "date": "2025-05-01",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "H 493"
+}
