@@ -1,0 +1,329 @@
+Title: BILL AS INTRODUCED H.163
+Official Title: BILL AS INTRODUCED H.163
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.163
+2 Introduced by Representatives Priestley of Bradford, Carris-Duncan of
+3 Whitingham, Duke of Burlington, Marcotte of Coventry, Olson
+4 of Starksboro, and White of Bethel
+5 Referred to Committee on
+6 Date:
+7 Subject: Labor; workersʼ compensation; definitions; translation services;
+8 preauthorization; penalties
+9 Statement of purpose of bill as introduced: This bill proposes to include health
+10 insurance benefits in the definition of wages for workers’ compensation
+11 claims; to require carriers to pay for translation services; to allow claimants to
+12 request medical case management services; and to increase penalties for late
+13 payments of workers’ compensation benefits.
+14 An act relating to workersʼ compensation
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 21 V.S.A § 601 is amended to read:
+17 § 601. DEFINITIONS
+18 As used in this chapter:
+19 * * *
+VT LEG #380351 v.1
+BILL AS INTRODUCED H.163
+2025 Page 2 of 7
+1 (13) “Wages” includes bonuses and the market value of health
+2 insurance, board, lodging, fuel, and other advantages that can be estimated in
+3 money and that the employee receives from the employer as a part of the
+4 employee’s remuneration, but does not include any sum paid by the employer
+5 to the employee to cover any special expenses entailed on the employee by the
+6 nature of the employment.
+7 * * *
+8 (31) “Medical case management” means the planning and coordination
+9 of health care services appropriate to achieve the goal of medical
+10 rehabilitation.
+11 (A) Medical case management may include medical case assessment,
+12 including a personal interview with the injured employee; assistance in
+13 developing, implementing, and coordinating a medical care plan with health
+14 care providers in consultation with the injured employee and the employees’
+15 family; and an evaluation of treatment results. The goal of medical case
+16 management is to provide the injured employee with reasonable treatment
+17 options to ensure that the injured employee can make an informed choice.
+18 (B) Medical Case Managers shall not provide medical care or adjust
+19 claims.
+20 (C) An injured employee shall be entitled to medical case
+21 management services if reasonably supported. Reasonable support includes a
+VT LEG #380351 v.1
+BILL AS INTRODUCED H.163
+2025 Page 3 of 7
+1 recommendation made by a health care provider or evidence demonstrating the
+2 injured employee’s medical recovery would benefit from the services, or both.
+3 Sec. 2 21 V.S.A. § 602 is amended to read:
+4 § 602. PROCESS AND PROCEDURE
+5 * * *
+6 (d) When an injured employee does not speak English fluently, the
+7 employer shall pay for translation services to ensure the injured employee fully
+8 understands the employee’s rights and can effectively participate in the
+9 employee’s medical recovery and the workers’ compensation claims process.
+10 Sec. 3. 21 V.S.A. 640b is amended to read:
+11 § 640b. REQUEST FOR PREAUTHORIZATION TO DETERMINE IF
+12 PROPOSED BENEFITS OR SERVICES ARE NECESSARY
+13 (a) As used in this section,
+14 (1) “benefits” means medical treatment and surgical, medical, and
+15 nursing services and supplies, including prescription drugs and durable
+16 medical equipment; and
+17 (2) “services” means medical case management services.
+18 * * *
+19 (e) Within 14 days after receiving a request for preauthorization of
+20 proposed medical case management services, the insurer shall do one of the
+21 following, in writing:
+VT LEG #380351 v.1
+BILL AS INTRODUCED H.163
+2025 Page 4 of 7
+1 (1) Authorize the services and notify the injured employee, the
+2 Department, and the treating provider recommending the services, if
+3 applicable.
+4 (2) Deny the services because the entire claim is disputed, and the
+5 Commissioner has not issued an interim order to pay benefits. The insurer
+6 shall notify the injured employee, the Department, and the treating provider
+7 recommending the services, if applicable, of the decision to deny benefits.
+8 (3) Deny the request if there is not reasonable support for the requested
+9 services. The insurer shall notify the injured employee, the Department, and
+10 the treating provider recommending the services, if applicable, of the decision
+11 to deny benefits.
+12 (4) Notify the injured employee, the Department, and the treating
+13 provider recommending the services, if applicable, that the insurer has
+14 scheduled an examination of the injured employee pursuant to section 655 of
+15 this title or ordered a medical record review pursuant to section 655a of this
+16 title. Based on the examination or review, the insurer shall notify the injured
+17 employee and the Department of the decision within 45 days after a request for
+18 preauthorization. The Commissioner may, in the Commissioner’s sole
+19 discretion, grant a 10-day extension to the insurer to authorize or deny the
+20 services, and such an extension shall not be subject to appeal.
+VT LEG #380351 v.1
+BILL AS INTRODUCED H.163
+2025 Page 5 of 7
+1 (f) If the insurer fails to authorize or deny the services pursuant to
+2 subsection (e) of this section within 14 days after receiving a request, the
+3 injured employee or the injured employee’s treating provider, if applicable,
+4 may request that the Department issue an order authorizing services. After
+5 receipt of the request, the Department shall issue an interim order within five
+6 days after notice to the insurer, and five days in which to respond, absent
+7 evidence that the entire claim is disputed. Upon request of a party, the
+8 Commissioner shall notify the parties that the services have been authorized by
+9 operation of law.
+10 (g) If the insurer denies the preauthorization of the services pursuant to
+11 subdivision (e)(2), (3), or (4) of this section, the Commissioner may, on the
+12 Commissioner’s own initiative or upon a request by the injured worker, issue
+13 an order authorizing the services if the Commissioner finds that the evidence
+14 shows that the services are reasonably supported.
+15 Sec. 4. 21 V.S.A. § 650 is amended to read:
+16 § 650. PAYMENT; AVERAGE WAGE; COMPUTATION
+17 * * *
+18 (f)(1)(A) When benefits have been awarded or are not in dispute as
+19 provided in subsection (e) of this section, the employer shall establish a
+20 weekday on which payment shall be mailed or deposited and notify the
+VT LEG #380351 v.1
+BILL AS INTRODUCED H.163
+2025 Page 6 of 7
+1 claimant and the Department of that day. The employer shall ensure that each
+2 weekly payment is mailed or deposited on or before the day established.
+3 (B) Payment shall be made by direct deposit to a claimant who elects
+4 that payment method. The employer shall notify the claimant of the claimant’s
+5 right to payment by direct deposit.
+6 (2) If the benefit payment is not mailed or deposited on the day
+7 established, or if the payment is not mailed or deposited within five business
+8 days of the end of the pay period the payment covers, the employer shall pay to
+9 the claimant a late fee equal to the greater of $10.00 or;
+10 (A) five percent of the benefit amount, whichever is greater, for each
+11 weekly the first payment that is made after the established day;
+12 (B) 10 percent of the benefit amount for the second payment that is
+13 made after the established day;
+14 (C) 15 percent of the benefit amount for the third payment that is
+15 made after the established day;
+16 (D) 20 percent of the benefit amount for the fourth payment that is
+17 made after the established day; and
+18 (E) 25 percent of the benefit amount for the fifth and any subsequent
+19 payments that are made after the established day.
+20 (3) As used in this subsection, “paid” means the payment is mailed to
+21 the claimant’s mailing address or, in the case of direct deposit, transferred into
+VT LEG #380351 v.1
+BILL AS INTRODUCED H.163
+2025 Page 7 of 7
+1 the designated account. In the event of a dispute, proof of payment shall be
+2 established by affidavit.
+3 Sec. 5. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #380351 v.1
+[DELETED:  H P H I R W o R D S p S i c r p A I S § A *]
+[DELETED:  H P ( i m e t n * ( o r ( i d c f m o ( c ( m]
+[DELETED:  H P r i S § * ( e u e S §   ( ( n m ( * ( p f]
+[DELETED:  H P ( D a ( C s r ( s t t ( p s t t e p d s]
+[DELETED:  H P ( s i m r d e C o ( s C a s S § * ( p w]
+[DELETED:  H P c w ( t r ( e d t ( w ( m ( m ( m ( p ( t]
+[DELETED:  H P t e S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.163
+2025 Page 1 of 7
+1 H.163
+2 Introduced by Representatives Priestley of Bradford, Carris-Duncan of
+3 Whitingham, Duke of Burlington, Marcotte of Coventry, Olson
+4 of Starksboro, and White of Bethel
+5 Referred to Committee on
+6 Date:
+7 Subject: Labor; workersʼ compensation; definitions; translation services;
+8 preauthorization; penalties
+9 Statement of purpose of bill as introduced: This bill proposes to include health
+10 insurance benefits in the definition of wages for workers’ compensation
+11 claims; to require carriers to pay for translation services; to allow claimants to
+12 request medical case management services; and to increase penalties for late
+13 payments of workers’ compensation benefits.
+14 An act relating to workersʼ compensation
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 21 V.S.A § 601 is amended to read:
+17 § 601. DEFINITIONS
+18 As used in this chapter:
+19 * * *
+VT LEG #380351 v.1
+
+BILL AS INTRODUCED H.163
+2025 Page 2 of 7
+1 (13) “Wages” includes bonuses and the market value of health
+2 insurance, board, lodging, fuel, and other advantages that can be estimated in
+3 money and that the employee receives from the employer as a part of the
+4 employee’s remuneration, but does not include any sum paid by the employer
+5 to the employee to cover any special expenses entailed on the employee by the
+6 nature of the employment.
+7 * * *
+8 (31) “Medical case management” means the planning and coordination
+9 of health care services appropriate to achieve the goal of medical
+10 rehabilitation.
+11 (A) Medical case management may include medical case assessment,
+12 including a personal interview with the injured employee; assistance in
+13 developing, implementing, and coordinating a medical care plan with health
+14 care providers in consultation with the injured employee and the employees’
+15 family; and an evaluation of treatment results. The goal of medical case
+16 management is to provide the injured employee with reasonable treatment
+17 options to ensure that the injured employee can make an informed choice.
+18 (B) Medical Case Managers shall not provide medical care or adjust
+19 claims.
+20 (C) An injured employee shall be entitled to medical case
+21 management services if reasonably supported. Reasonable support includes a
+VT LEG #380351 v.1
+
+BILL AS INTRODUCED H.163
+2025 Page 3 of 7
+1 recommendation made by a health care provider or evidence demonstrating the
+2 injured employee’s medical recovery would benefit from the services, or both.
+3 Sec. 2 21 V.S.A. § 602 is amended to read:
+4 § 602. PROCESS AND PROCEDURE
+5 * * *
+6 (d) When an injured employee does not speak English fluently, the
+7 employer shall pay for translation services to ensure the injured employee fully
+8 understands the employee’s rights and can effectively participate in the
+9 employee’s medical recovery and the workers’ compensation claims process.
+10 Sec. 3. 21 V.S.A. 640b is amended to read:
+11 § 640b. REQUEST FOR PREAUTHORIZATION TO DETERMINE IF
+12 PROPOSED BENEFITS OR SERVICES ARE NECESSARY
+13 (a) As used in this section,
+14 (1) “benefits” means medical treatment and surgical, medical, and
+15 nursing services and supplies, including prescription drugs and durable
+16 medical equipment; and
+17 (2) “services” means medical case management services.
+18 * * *
+19 (e) Within 14 days after receiving a request for preauthorization of
+20 proposed medical case management services, the insurer shall do one of the
+21 following, in writing:
+VT LEG #380351 v.1
+
+BILL AS INTRODUCED H.163
+2025 Page 4 of 7
+1 (1) Authorize the services and notify the injured employee, the
+2 Department, and the treating provider recommending the services, if
+3 applicable.
+4 (2) Deny the services because the entire claim is disputed, and the
+5 Commissioner has not issued an interim order to pay benefits. The insurer
+6 shall notify the injured employee, the Department, and the treating provider
+7 recommending the services, if applicable, of the decision to deny benefits.
+8 (3) Deny the request if there is not reasonable support for the requested
+9 services. The insurer shall notify the injured employee, the Department, and
+10 the treating provider recommending the services, if applicable, of the decision
+11 to deny benefits.
+12 (4) Notify the injured employee, the Department, and the treating
+13 provider recommending the services, if applicable, that the insurer has
+14 scheduled an examination of the injured employee pursuant to section 655 of
+15 this title or ordered a medical record review pursuant to section 655a of this
+16 title. Based on the examination or review, the insurer shall notify the injured
+17 employee and the Department of the decision within 45 days after a request for
+18 preauthorization. The Commissioner may, in the Commissioner’s sole
+19 discretion, grant a 10-day extension to the insurer to authorize or deny the
+20 services, and such an extension shall not be subject to appeal.
+VT LEG #380351 v.1
+
+BILL AS INTRODUCED H.163
+2025 Page 5 of 7
+1 (f) If the insurer fails to authorize or deny the services pursuant to
+2 subsection (e) of this section within 14 days after receiving a request, the
+3 injured employee or the injured employee’s treating provider, if applicable,
+4 may request that the Department issue an order authorizing services. After
+5 receipt of the request, the Department shall issue an interim order within five
+6 days after notice to the insurer, and five days in which to respond, absent
+7 evidence that the entire claim is disputed. Upon request of a party, the
+8 Commissioner shall notify the parties that the services have been authorized by
+9 operation of law.
+10 (g) If the insurer denies the preauthorization of the services pursuant to
+11 subdivision (e)(2), (3), or (4) of this section, the Commissioner may, on the
+12 Commissioner’s own initiative or upon a request by the injured worker, issue
+13 an order authorizing the services if the Commissioner finds that the evidence
+14 shows that the services are reasonably supported.
+15 Sec. 4. 21 V.S.A. § 650 is amended to read:
+16 § 650. PAYMENT; AVERAGE WAGE; COMPUTATION
+17 * * *
+18 (f)(1)(A) When benefits have been awarded or are not in dispute as
+19 provided in subsection (e) of this section, the employer shall establish a
+20 weekday on which payment shall be mailed or deposited and notify the
+VT LEG #380351 v.1
+
+BILL AS INTRODUCED H.163
+2025 Page 6 of 7
+1 claimant and the Department of that day. The employer shall ensure that each
+2 weekly payment is mailed or deposited on or before the day established.
+3 (B) Payment shall be made by direct deposit to a claimant who elects
+4 that payment method. The employer shall notify the claimant of the claimant’s
+5 right to payment by direct deposit.
+6 (2) If the benefit payment is not mailed or deposited on the day
+7 established, or if the payment is not mailed or deposited within five business
+8 days of the end of the pay period the payment covers, the employer shall pay to
+9 the claimant a late fee equal to the greater of $10.00 or;
+10 (A) five percent of the benefit amount, whichever is greater, for each
+11 weekly the first payment that is made after the established day;
+12 (B) 10 percent of the benefit amount for the second payment that is
+13 made after the established day;
+14 (C) 15 percent of the benefit amount for the third payment that is
+15 made after the established day;
+16 (D) 20 percent of the benefit amount for the fourth payment that is
+17 made after the established day; and
+18 (E) 25 percent of the benefit amount for the fifth and any subsequent
+19 payments that are made after the established day.
+20 (3) As used in this subsection, “paid” means the payment is mailed to
+21 the claimant’s mailing address or, in the case of direct deposit, transferred into
+VT LEG #380351 v.1
+
+BILL AS INTRODUCED H.163
+2025 Page 7 of 7
+1 the designated account. In the event of a dispute, proof of payment shall be
+2 established by affidavit.
+3 Sec. 5. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #380351 v.1
+
+[DELETED:  H P H I R W o R D S p S i c r p A I S § A *]
+[DELETED:  H P ( i m e t n * ( o r ( i d c f m o ( c ( m]
+[DELETED:  H P r i S § * ( e u e S §   ( ( n m ( * ( p f]
+[DELETED:  H P ( D a ( C s r ( s t t ( p s t t e p d s]
+[DELETED:  H P ( s i m r d e C o ( s C a s S § * ( p w]
+[DELETED:  H P c w ( t r ( e d t ( w ( m ( m ( m ( p ( t]
+[DELETED:  H P t e S T]

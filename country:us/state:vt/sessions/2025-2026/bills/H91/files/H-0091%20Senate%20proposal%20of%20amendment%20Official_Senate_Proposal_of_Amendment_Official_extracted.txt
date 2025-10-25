@@ -1,0 +1,1505 @@
+Title: An act relating to the Vermont Homeless Emergency Assistance and
+Official Title: An act relating to the Vermont Homeless Emergency Assistance and
+Number of Sections: 24
+Source: versions - Senate Proposal of Amendment (Official)
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+Senate proposal of amendment
+H. 91
+Responsive Transition to Housing Program
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+* * * Findings and Legislative Intent * * *
+Sec. 1. FINDINGS
+The General Assembly finds that:
+(1) according to the U.S. Department of Housing and Urban
+Development’s 2024 Annual Homelessness Assessment Report, Vermont had
+the fourth highest rate of homelessness in 2024 in that 53 of every 10,000
+Vermonters are experiencing homelessness, with only Hawaii, New York, and
+Oregon experiencing higher rates;
+(2) in 2023, according to the same Annual Homelessness Assessment
+Report, 51 of every 10,000 Vermonters were experiencing homelessness;
+(3) according to the Vermont 2024 Point-in-Time Count, there were
+approximately 3,458 unhoused individuals in Vermont, which represents a 300
+percent increase over the 1,110 unhoused individuals prior to the COVID-19
+pandemic in 2020;
+(4) of the 3,458 unhoused individuals in Vermont identified by the
+Vermont 2024 Point-in-Time Count, 166 experienced unsheltered
+homelessness, which is the highest count of unsheltered homeless individuals
+in Vermont within the past decade;
+(5) according to the Vermont 2024 Point-in-Time Count, over 35
+percent of those Vermonters experiencing homelessness were unhoused for
+more than one year and over 72 percent were unhoused for more than 90 days;
+(6) according to the Vermont 2024 Point-in-Time Count, 737 of those
+Vermonters experiencing homelessness were children and youth under 18 years
+of age and 646 were 55 years of age or older;
+(7) according to the Vermont 2024 Point-in-Time Count, Black
+Vermonters are 5.6 times more likely to be unhoused as compared to white
+Vermonters;
+(8) the 2024 Vermont Housing Needs Assessment notes that 36,000
+primary homes are needed in Vermont between 2025–2029, 3,295 of which are
+needed to address homelessness;
+(9) the 2024 Vermont Housing Needs Assessment notes that “[h]alf of
+all Vermont renters are cost-burdened, and one-in-four pay more than 50
+[percent] of their income on housing costs, putting them at high risk of
+eviction,” which “is heightened by Vermont’s rental vacancy rate of 3
+[percent], which is well below the 5 [percent] rate of a healthy market”; and
+(10) since 2020, the Vermont Housing and Conservation Board has
+constructed 170 new single-family homeownership units and 269 new shelter
+beds.
+Sec. 2. LEGISLATIVE INTENT
+(a) It is the intent of the General Assembly that unsheltered homelessness
+be eliminated and that homelessness in Vermont be rare, brief, and
+nonrecurring.
+(b) It is the intent of the General Assembly that the Vermont Homeless
+Emergency Assistance and Responsive Transition to Housing Program
+established in 33 V.S.A. chapter 22 is a step toward ensuring that:
+(1) homelessness be reduced in Vermont and interim shelter
+opportunities be available to provide a stable pathway to permanent housing
+for all Vermonters experiencing homelessness, including safe shelter options
+for individuals living in unsheltered homelessness;
+(2) Vermont increase the supply of emergency shelter as well as
+permanent supportive housing that meets the specific needs of individuals;
+(3) community components of all shelter types are integrated in a
+systemic manner;
+(4) time limits, night-by-night shelter, relocation between interim shelter
+sites, and other disruptions in housing stability be eliminated to the extent
+possible;
+(5) Vermont’s emergency housing statutes, rules, policies, procedures,
+and practices be modeled on Housing First principles where appropriate;
+(6) noncongregate shelter be used to the extent possible; and
+(7) Vermont reduce reliance on the inefficient use of hotel and motel
+rooms to shelter participating households and expand the use of emergency
+shelters throughout the State for this purpose.
+(c) It is the intent of the General Assembly that the Vermont Homeless
+Emergency Assistance and Responsive Transition to Housing Program
+established in 33 V.S.A. chapter 22 replaces the provision of emergency
+housing through the General Assistance Program established in 33 V.S.A.
+chapter 21 beginning in fiscal year 2027 and the Housing Opportunity Grant
+Program beginning in fiscal year 2028.
+* * * Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program; Effective July 1, 2025 * * *
+Sec. 3. 33 V.S.A. chapter 22 is added to read:
+CHAPTER 22. VERMONT HOMELESS EMERGENCY ASSISTANCE
+AND RESPONSIVE TRANSITION TO HOUSING PROGRAM
+
+Section 2:
+§ 2201. SHORT TITLE
+The Program established in this chapter may be cited as “VHEARTH” or
+the “VHEARTH Program.”
+
+Section 3:
+§ 2202. PURPOSE
+It is the purpose of the General Assembly to:
+(1) replace the provision of emergency housing through the General
+Assistance Program established in chapter 21 of this title and use funds and
+resources previously attributed to this program, and any other identified State
+and federal monies, to fund the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program established in this chapter;
+(2) reduce reliance on the inefficient use of hotel and motel rooms to
+shelter participating households and expand the use of emergency shelters
+throughout the State for this purpose; and
+(3) assist in maintaining housing for households at-risk of homelessness
+and transition households experiencing homelessness to permanent housing.
+
+Section 4:
+§ 2203. DEFINITIONS
+As used in this chapter:
+(1) “At-risk of homelessness” means precariously housed without
+sufficient income, resources, or support to prevent homelessness.
+(2) “Community action agency” means an agency designated pursuant
+to 3 V.S.A. chapter 59.
+(3) “Community-based shelter” means a shelter that meets the
+Department’s standards for the operation of shelters.
+(4) “Department” means the Department for Children and Families.
+(5) “Extreme weather event” means extreme hot or cold temperatures or
+weather events, such as hurricanes, flooding, or blizzards, that create
+hazardous conditions for outdoor habitation by humans.
+(6) “Homeless” means:
+(A) lacking a fixed, regular, and adequate nighttime residence;
+(B) facing imminent loss of primary nighttime residence;
+(C) fleeing or attempting to flee domestic violence; or
+(D) otherwise defined as homeless under federal law.
+(7) “Household” means an individual and any dependents for whom the
+individual is legally responsible who are domiciled in Vermont as evidenced
+by an intent to dwell in Vermont and to return to Vermont if temporarily
+absent, coupled with an act or acts consistent with that intent. “Household”
+includes individuals who reside together as one economic unit, including those
+who are married, parties to a civil union, or unmarried.
+(8) “Unsheltered homelessness” means sleeping in a location not
+designed for or ordinarily used as a regular sleeping accommodation.
+
+Section 5:
+§ 2204. REGIONALADVISORY COUNCILS
+(a) Each community action agency shall convene a regional advisory
+council whose membership reflects, to the extent possible, the growing
+diversity among Vermonters, including individuals who are Black, Indigenous,
+and Persons of Color, as well as with regards to socioeconomic status,
+geographic location, gender, sexual identity, and disability status. Members of
+an advisory council shall include organizations providing services in the
+region, the Department, and representatives of the Agency and each
+department of the Agency, as needed. A regional advisory council may
+collaborate with individuals with lived experience of homelessness,
+community partners, State partners, housing providers, local housing
+coalitions, statewide homelessness organizations, providers of coordinated
+entry, continuums of care, faith-based organizations, and municipalities in the
+region served by the community action agency.
+(b) Each regional advisory council shall provide advice and
+recommendations to the community action agency in its region regarding the
+design and implementation of the Program. The work of each regional
+advisory council shall be informed by regional planning commissions’ housing
+targets.
+(c) Each regional advisory council shall meet on at least a quarterly basis.
+(d) The regional advisory councils shall have the legal and technical
+support of the Department.
+* * * Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program; Effective July 1, 2026 * * *
+Sec. 4. 33 V.S.A. chapter 22 is amended to read:
+CHAPTER 22. VERMONT HOMELESS EMERGENCY ASSISTANCE
+AND RESPONSIVE TRANSITION TO HOUSING PROGRAM
+* * *
+
+Section 6:
+§ 2203. DEFINITIONS
+As used in this chapter:
+* * *
+(2) “Community action agency” means an agency designated pursuant
+to 3 V.S.A. chapter 59 or the entity or entities otherwise authorized by the
+Department pursuant to section 2205 of this chapter to fulfill the duties of a
+community action agency under this chapter.
+* * *
+
+Section 7:
+§ 2204. ESTABLISHMENT; VERMONT HOMELESS EMERGENCY
+ASSISTANCE AND RESPONSIVE TRANSITION TO HOUSING
+PROGRAM
+The Vermont Homeless Emergency Assistance and Responsive Transition
+to Housing Program is established in the Department to provide services to
+households that are homeless or at risk of becoming homeless, to the extent
+funds exist.
+(1) The Department shall select and enter into an agreement with a
+statewide organization that has population-specific service experience to
+provide or cause to be provided supportive services and shelter to those
+households that are experiencing or that have experienced domestic or sexual
+violence.
+(2) All other participating households shall be served by or through a
+community action agency responsible for a geographically distinct region of
+the State. Community action agencies participating in the Program shall
+provide or cause to be provided supportive services, extreme weather event
+shelter, and emergency shelter.
+
+Section 8:
+§ 2205. AUTHORIZATION PROCESS; REAUTHORIZATION REVIEW
+(a) The Department shall select and enter into an agreement with a
+statewide organization to provide or cause to be provided supportive services
+and shelter to those households that are experiencing or that have experienced
+domestic or sexual violence. The Department shall conduct regular reviews of
+the statewide organization to ensure compliance with this chapter. The
+statewide organization may be subject to corrective actions by the Department
+if, within the constraint of appropriated resources, it no longer meets the
+requirements of this chapter or has failed to adequately meet the needs of
+households that are experiencing or that have experienced domestic or sexual
+violence. If the statewide organization cannot fulfill its responsibilities under
+this chapter, the Department shall work with another entity to ensure that there
+is not a gap in services.
+(b)(1) The Department shall authorize a community action agency to serve
+or cause to be served households that are homeless or at risk of becoming
+homeless in a geographically distinct region of the State if it meets the criteria
+in this section. If a community action agency cannot fulfill its responsibilities
+under this chapter, the Department shall work with other community action
+agencies or other appropriate community entities to ensure that there is not a
+gap in services in a community action agency’s region.
+(2) A community action agency providing or causing to provide services
+in accordance with this chapter shall have:
+(A) existing or planned infrastructure to support households in the
+region, including an established leadership team, a human resources staff, and
+the ability to receive grant funding and issue subgrants;
+(B) the ability to meet the Department’s reporting requirements,
+including having a past history of reporting compliance;
+(C) the capacity to perform the core services required pursuant to
+
+Section 9:
+section 2206 of this chapter;
+(D) the capacity to seek and accept charitable contributions, grants,
+and services of volunteers, including money, clothing, and furniture;
+(E) any outcome measures established in this chapter;
+(F) community connections with other providers in the region,
+including local housing coalitions, housing providers, providers of coordinated
+entry, continuums of care, faith-based organizations, and providers of services
+to individuals who are older Vermonters; individuals who have disabilities, a
+substance use disorder, or a mental health condition; individuals reentering the
+community after incarceration; individuals transitioning from the care and
+custody of the Commissioner for Children and Families; and families with
+children; and
+(G) the ability to provide plain language communications to
+households receiving services.
+(3) Not less than every three years, the Department shall conduct a
+reauthorization review of each community action agency providing or causing
+to provide services pursuant to this chapter. An organization may be subject to
+corrective actions by the Department if, within the constraint of appropriated
+resources, it no longer meets the requirements in subdivision (2) of this
+subsection or has failed to adequately meet the needs of households in its
+region that are homeless or at risk of homelessness. Lack of compliance may
+result in the Department deciding not to reauthorize the community action
+agency. The Department may review progress of any previously required
+corrective actions and may review community action agency performance
+between reauthorization reviews.
+
+Section 10:
+§ 2206. VHEARTH CORE SERVICES
+(a) The Department shall enter into an agreement with a statewide
+organization with population-specific experience serving households that are
+experiencing or that have experienced domestic or sexual violence. The
+organization shall provide or cause to be provided various shelter and case
+management services that support households.
+(b) Each community action agency shall offer or cause to be offered, in
+collaboration with community partners, each of the following services within
+its region:
+(1) supportive services, including:
+(A) intake assessments and services for diversion from homelessness,
+which shall include regional intake shelters;
+(B) household needs assessments;
+(C) individualized household plans to address identified needs;
+(D) housing navigation and retention services;
+(E) assistance obtaining and retaining housing, including financial
+assistance;
+(F) landlord-tenant outreach, education, and conflict resolution;
+(G) navigation to other services and supports as identified in the
+household’s housing plan, including economic benefits, peer-supported
+services, job training and employment services, services related to disability
+and independent living, and referral to health care assistance such as treatment
+for mental health conditions and substance use disorder as provided by the
+designated and specialized services agencies and preferred providers,
+respectively;
+(H) advocacy; and
+(I) progress monitoring and interventions; and
+(2) the operation of extreme weather event shelters, which may include
+time-limited congregate accommodations and may be provided through
+agreements with municipalities or other entities, utilizing available data and
+considering geographic access to prioritize funding for this purpose; and
+(3) the operation of emergency shelters in a manner that builds upon the
+federally required community planning process and prioritizes households in
+need of the services of an emergency shelter, which may include community-
+based shelters, temporary use of hotels or motels, lease agreements for full or
+partial use of an existing building, need-specific shelter arrangements, master
+grant leases, the development of shelter capacity, or other arrangements or
+combinations of arrangements that comply with the intent of this chapter.
+
+Section 11:
+§ 2207. USE OF HOTELAND MOTELROOMS
+(a) It is the intent of the General Assembly to decrease reliance on hotel
+and motel rooms for emergency housing. Annually, as shelter capacity
+increases in each region of the State, the use of hotel and motel rooms for
+emergency housing in that region shall decrease. Annually, as part of the
+Department’s budget presentation, the Department shall set goals for increased
+housing capacity, including shelter beds, permanent supportive housing, and
+permanent affordable housing, in addition to proposed corresponding
+decreases in the use of hotel and motel rooms. The Department shall provide
+data pertaining to the percentage of increased shelter capacity from the
+previous fiscal year in each region and how that increase impacts the
+corresponding hotel and motel room usage for emergency housing in each
+region pursuant to this subsection for the purpose of informing regional
+planning and expectations.
+(b) If hotels and motels are used to provide emergency shelter pursuant to
+this chapter, the hotel and motel operators shall comply with Program rules
+and the following rules:
+(1) Department of Health, Licensed Lodging Establishment Rule (CVR
+13-140-023); and
+(2) Department of Public Safety, Vermont Fire and Building Safety
+Code (CVR 28-070-001).
+(c) Annually, the Department shall propose hotel and motel rates as part of
+its budget presentation for approval by the General Assembly. A community
+action agency shall not pay or cause to be paid with State monies a per room,
+per night basis that exceeds the rate approved by the General Assembly.
+(d) If a hotel or motel is being utilized, a community action agency:
+(1) shall enter into agreements for the use of blocks of hotel and motel
+rooms and negotiate the conditions of use for those blocks, including access
+for providers of case management or other supportive services;
+(2) shall prioritize the use of hotel and motel room agreements over
+individual per room, per night hotel or motel room use, unless it is not
+appropriate to a household’s needs; and
+(3) may use strategic placements to the extent certain populations are
+not isolated from the wider community served through the Program.
+
+Section 12:
+§ 2208. VHEARTH; DUTIES OF THE DEPARTMENT
+(a) The Department and the Agency of Human Services shall have
+statewide responsibility for meeting the intent of this chapter, including
+statewide planning, system development, proposing adequate funding, and the
+involvement of all the Agency’s departments.
+(b) For the purpose of providing administrative oversight and monitoring
+of the Program established in this chapter, the Department shall:
+(1)(A) maintain guidance regarding when extreme weather event
+shelters shall be operated, including flexibility for regional weather conditions;
+and
+(B) maintain a website with the locations of all extreme weather
+event shelters;
+(2) include as part of any review of a community action agency required
+pursuant to 3 V.S.A. chapter 59 the community action agency’s ability to
+perform the requirements of this chapter;
+(3)(A) consult with the community action agencies and the statewide
+organization serving households that are experiencing or that have experienced
+domestic or sexual violence to develop appropriate resource allocations and
+methods for adjustment that take into account available data, the presence of
+community-based providers, and customary resource allocation methods,
+economic indicators, rate of homelessness, rental vacancy rates, and other
+variables, as appropriate; and
+(B) annually, distribute funding to each community action agency
+and the statewide organization serving households that are experiencing or that
+have experienced domestic or sexual violence using the allocation formula
+developed pursuant to subdivision (A) of this subdivision (b)(3), or if the
+Department and community action agencies agree, disperse a joint allocation
+for all community action agencies, which the community action agencies shall
+determine how to distribute amongst themselves;
+(4) provide support and technical assistance to the community action
+agencies, other community partners, and the statewide organization serving
+households that are experiencing or that have experienced domestic or sexual
+violence;
+(5) identify specific administrative resources that could be transitioned
+to community operations;
+(6) develop and maintain standards for the core services listed in section
+2206 of this chapter, including the operation of community-based shelters; and
+(7) adopt rules pursuant to 3 V.S.A. chapter 25, in consultation with the
+community action agencies and the statewide organization serving households
+that are experiencing or that have experienced domestic or sexual violence, as
+appropriate, for the implementation of this chapter, including accommodations
+for individuals with a disability.
+
+Section 13:
+§ 2209. REGIONALPLANNING; NEEDS ASSESSMENTS
+(a) As part of the plan required every three years pursuant to 3 V.S.A.
+
+Section 14:
+§ 3904 and the federally required planning and needs assessments for the
+continuums of care, the community action agencies shall develop a regional
+needs assessment and planning process, in collaboration with community and
+State partners, for use in each community action agency’s region to inform
+future plans addressing housing and homelessness in each region of the State.
+The regional needs assessment and planning process plans shall include:
+(1) addressing progress in reducing the number of households
+experiencing homelessness in a region;
+(2) assessing the rate households placed in permanent housing return to
+homelessness and the underlying reasons;
+(3) identifying resources developed and utilized in the region to address
+homelessness and efforts to improve the equitable distribution of these
+resources in the region;
+(4) reporting the rate of household participation with coordinated entry
+processes and case management services;
+(5) identifying system gaps and the funding needed to address those
+gaps, including periodic inflationary adjustments; and
+(6) utilizing data, including Vermont’s Point-in-Time Count,
+coordinated entry assessment results, and community conversations.
+(b) Every three years, each community action agency shall submit plans
+developed pursuant to this section to the Department in a format prescribed by
+the Department. Upon receipt of the plans, the Department shall consolidate
+the results of these reports and submit the consolidated report to the House
+Committee on Human Services and to the Senate Committee on Health and
+Welfare.
+
+Section 15:
+§ 2210. REPORTING REQUIREMENTS
+On or before the last day of every third month, the Department shall submit
+a report, in consultation with the community action agencies and the statewide
+organization serving households experiencing domestic or sexual violence, to
+the House Committee on Human Services, the Senate Committee on Health
+and Welfare, and the Joint Fiscal Committee addressing:
+(1) the number of households served through the Program, by household
+size and, if applicable, by eligibility category, region, service provider, and
+type of service;
+(2) the number of household members employed on a part-time and full-
+time basis and the number of household members receiving Supplemental
+Security Income or Social Security disability insurance;
+(3) changes in capacity for shelter beds, nursing homes, and residential
+care homes since the previous reporting period;
+(4) the number of diversions made during the previous reporting period;
+(5) the number of households whose intake assessment indicated a
+potential need for services from each department within the Agency;
+(6) the number of households that have been successfully transitioned to
+permanent housing since the previous reporting period, the types of housing
+settings in which they have been placed, and any supportive services they are
+receiving in conjunction with their housing;
+(7) the number of households that may be transitioned to permanent
+housing in the coming months;
+(8) any State rules and local regulations and ordinances that are
+impeding the timely development of safe, decent, affordable housing in
+Vermont communities in order to:
+(A) identify areas in which flexibility or discretion are available; and
+(B) advise whether the temporary suspension of relevant State rules
+and local regulations and ordinances, or the adoption or amendment of State
+rules, would facilitate faster and less costly revitalization of existing housing
+and construction of new housing units; and
+(9) an inventory of all subgrants issued by the statewide organization
+serving households experiencing or who have experienced domestic or sexual
+violence and by each community action agency.
+
+Section 16:
+§ 2204 2211. REGIONALADVISORY COUNCILS
+(a) Each community action agency shall convene a regional advisory
+council whose membership reflects, to the extent possible, the growing
+diversity among Vermonters, including individuals who are Black, Indigenous,
+and Persons of Color, as well as with regards to socioeconomic status,
+geographic location, gender, sexual identity, and disability status. Members of
+an advisory council shall include organizations providing services in the
+region, the Department, and representatives of the Agency and each
+department of the Agency, as needed. A regional advisory council may
+collaborate with individuals with lived experience of homelessness,
+community partners, State partners, housing providers, local housing
+coalitions, statewide homelessness organizations, providers of coordinated
+entry, continuums of care, faith-based organizations, and municipalities in the
+region served by the community action agency.
+* * *
+* * * Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program; Effective July 1, 2027 * * *
+Sec. 5. 33 V.S.A. § 2202 is amended to read:
+
+Section 17:
+§ 2202. PURPOSE
+It is the purpose of the General Assembly to:
+(1) replace the provision of emergency housing through the General
+Assistance Program established in chapter 21 of this title and the Housing
+Opportunity Grant Program and use funds and resources previously attributed
+to those programs, and any other identified State and federal monies, to fund
+the Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program established in this chapter; and
+(2) reduce reliance on the use of hotel and motel rooms to shelter
+participating households and expand the use of emergency shelters throughout
+the State for this purpose.
+* * * Implementation Planning and Initial Regional Assessments * * *
+Sec. 6. VHEARTH IMPLEMENTATION PLANNING
+(a) On or before October 1, 2025, the Department for Children and
+Families, in collaboration with the community action agencies, and the
+statewide organization serving households that are experiencing or that have
+experienced domestic or sexual violence, shall submit the first of two written
+implementation plans to the House Committee on Human Services, the Senate
+Committee on Health and Welfare, and the Joint Fiscal Committee outlining its
+initial plans for the implementation of the Vermont Homeless Emergency
+Assistance and Responsive Transition to Housing Program established by 33
+V.S.A. chapter 22 on or before July 1, 2026. Specifically, the first
+implementation plan shall include:
+(1) a process that community action agencies, in coordination with the
+Department, shall use to conduct regularly occurring regional needs
+assessments and develop future regional plans, including consideration of
+municipal needs;
+(2) recommended performance measures to evaluate the community
+action agencies and the statewide organization serving households that are
+experiencing or that have experienced domestic or sexual violence in carrying
+out their duties under 33 V.S.A. chapter 22, including:
+(A) the provision of any previously agreed upon information to
+enable the Department to evaluate the services provided through grant funds,
+the effect on households receiving services, and an accounting of expended
+grant funds; and
+(B) performance measures that may be specific to an individual
+region of the State or provider;
+(3) recommended eligibility for each of the services offered through 33
+V.S.A. chapter 22;
+(4) guidance regarding when extreme weather event shelters shall be
+operated, including flexibility for regional weather conditions;
+(5) a timeline for the implementation of core services listed in 33 V.S.A.
+
+Section 18:
+§ 2206 for the first sixmonths of fiscal year 2027;
+(6) recommended intake and assessment processes to determine
+appropriate shelter and services for households based on Program eligibility;
+and
+(7) a recommended process to enable an unwilling community action
+agency to opt-out of participation in the Program in a manner that gives the
+State adequate notice.
+(b) On or before January 15, 2026, the Department for Children and
+Families, in collaboration with the community action agencies, regional
+advisory councils established pursuant to 33 V.S.A. § 2204, and the statewide
+organization serving households that are experiencing or that have experienced
+domestic or sexual violence, shall submit the second of two written
+implementation plans to the House Committee on Human Services and the
+Senate Committee on Health and Welfare outlining its initial plans for the
+implementation of the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program established by 33 V.S.A. chapter
+22 on or before July 1, 2026. Specifically, the second implementation plan
+shall include recommendations on the following:
+(1) funding allocations among the community action agencies and other
+providers, including for services specific to households that are experiencing
+or that have experienced domestic or sexual violence;
+(2) additional State and federal funding and other resources identified
+for the Program;
+(3) establishing an appeals process that includes a hearing before the
+Human Services Board and an option for an expedited appeals process;
+(4) the role of 211 within the intake system;
+(5) whether access to all or some services should include an expectation
+regarding household participation in case management services or other
+expectations such as night limits on the use of hotels and motels, and, if so,
+what elements and in what circumstances participation in case management
+services or other expectations should be applied;
+(6) whether the use of emergency shelter should include financial
+participation, and, if so, what that participation should include;
+(7) whether intake and assessment processes should include verification
+of residency, homelessness, and household income;
+(8) how to best ensure that there is equitable access to shelter and
+supportive services for households experiencing homelessness;
+(9) the number of housing vouchers that Vermont lost in the past year, if
+the data is available; and
+(10) any anticipated challenges requiring a legislative solution.
+Sec. 7. INTERIM AND FINALNEEDS ASSESSMENT PLANS
+Prior to the enactment of the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program on July 1, 2026, the statewide
+organization serving households experiencing or that have experienced
+domestic or sexual violence and community action agencies shall conduct
+initial needs assessments in accordance with the process developed in Sec.
+6(a)(1) of this act. On or before January 15, 2026, the community action
+agencies shall submit one comprehensive progress report and the statewide
+organization shall submit a separate report to the House Committees on
+Appropriations and on Human Services and the Senate Committees on
+Appropriations and on Health and Welfare, including estimated fiscal year
+2027 budget proposals, estimated costs of administering the Program, and an
+analysis of any barriers to generating additional shelter and permanent housing
+in the region. On or before April 1, 2026, the statewide organization shall
+submit a report and the community action agencies shall submit a separate
+comprehensive report detailing the results of each region’s needs assessment
+and implementation plans, which shall not exceed the budgetary proposals
+provided in the January 15, 2026 progress report, to the House Committees on
+Appropriations and on Human Services and the Senate Committees on
+Appropriations and on Health and Welfare. The initial needs assessment
+conducted pursuant to this section shall include:
+(1) addressing progress in reducing the number of households
+experiencing homelessness in a region;
+(2) assessing the rate households placed in permanent housing return to
+homelessness and the underlying reasons;
+(3) identifying resources developed and utilized in the region to address
+homelessness and efforts to improve the equitable distribution of these
+resources in the region;
+(4) reporting the rate of household participation with coordinated entry
+processes and case management services;
+(5) identifying system gaps and the funding needed to address those
+gaps, including periodic inflationary adjustments; and
+(6) utilizing data, including Vermont’s Point-in-Time Count,
+coordinated entry assessment results, and community conversations.
+Sec. 8. ACCELERATED IMPLEMENTATION PATHWAY
+On or before November 1, 2025, the Department for Children and Families
+shall submit for consideration a detailed written plan, including a timeline, to
+accelerate implementation of the Vermont Homeless Emergency Assistance
+and Responsive Transition to Housing Program as part of the fiscal year 2026
+budget adjustment process to the Joint Fiscal Committee, to the House
+Committees on Appropriations and on Human Services, and to the Senate
+Committees on Appropriations and on Health and Welfare. The plan shall
+address the readiness of community providers to implement the Program prior
+to July 1, 2026, fiscal estimates for the remainder of fiscal year 2026, and an
+assessment as to whether the Program is anticipated to be operable on or
+before July 1, 2026.
+* * * Community Action Agencies * * *
+Sec. 9. 3 V.S.A. chapter 59 is amended to read:
+CHAPTER 59. COMMUNITY SERVICES ACTION AGENCIES
+
+Section 19:
+§ 3901. FINDINGS AND PURPOSE
+(a) Recognizing that the economic well-being and social equity of every
+Vermonter has long been a fundamental concern of the State, it remains
+evident that poverty continues to be the lot of a substantial number of
+Vermont’s population continues to experience poverty. It is the policy of this
+the State to help develop the full potential of each of its citizens so they can
+contribute to the fullest extent possible to the life of our communities and the
+State as a whole.
+(b) It is the purpose of this chapter to strengthen, supplement, and
+coordinate efforts that further this policy through:
+(1) the strengthening of community capabilities for planning,
+coordinating, and managing federal, State, and other sources of assistance
+related to the problem of poverty;
+(2) the better organization and utilization of a range of services related
+to the needs of the poor individuals with low income; and
+(3) the broadening of the resource base of programs to secure a more
+active role in assisting the poor individuals with low income from business,
+labor, and other groups from the private sector.
+
+Section 20:
+§ 3902. OFFICE OF ECONOMIC OPPORTUNITY
+(a) The Director of the Office of Economic Opportunity is hereby
+authorized to allocate available financial assistance for community services
+action agencies and programs in accordance with State and federal law and
+regulation.
+(b) The Director may provide financial assistance to community services
+action agencies for the planning, conduct, administration, and evaluation of
+community service action programs to provide a range of services and
+activities having a measurable and potentially major impact on causes of
+poverty in the community or in areas of the community where poverty is a
+particularly acute problem. Components of those services and activities may
+involve, without limitation of other activities and supporting facilities designed
+to assist low income participants with low income:
+(1) to secure and retain meaningful employment;
+(2) to obtain adequate education;
+(3) to make better use of available income;
+(4) to provide and maintain adequate housing and a suitable living
+environment have access to safe, secure, permanent housing;
+(5) to obtain prevention, intervention, treatment, and recovery services
+for the prevention of narcotics addiction, alcoholism, and for the rehabilitation
+of narcotic addicts and alcoholics individuals with substance use disorder;
+(6) to obtain emergency assistance through loans and grants to meet
+immediate and urgent individual and family needs, including the need for
+health services, nutritious food, housing, and unemployment-related assistance;
+(7) to remove obstacles and solve personal and family problems which
+that block achievement of self-sufficiency;
+(8) to achieve greater participation in the affairs of the community;
+(9) to make more frequent and effective use of other programs related to
+the purposes of this chapter; and
+(10) to coordinate and establish linkages between governmental and
+other social service programs to assure ensure the effective delivery of such
+services to low-income persons; with low income and to encourage the use of
+entities in the private sector of the community in efforts to ameliorate poverty
+in the community.
+(c) The Director is authorized to adopt rules pursuant to chapter 25 of this
+title appropriate to the carrying out of this chapter and the purposes thereof.
+
+Section 21:
+§ 3903. DESIGNATION OF AGENCIES TO PROVIDE SERVICES AND
+ACTIVITIES TO AMELIORATE OR ELIMINATE POVERTY
+The Director shall designate private nonprofit community based
+community-based organizations who that have demonstrated or who that can
+demonstrate the ability to provide services and activities as defined in
+subsection 3902(b) of this title as community services action agencies.
+
+Section 22:
+§ 3904. COMMUNITY SERVICES ACTION AGENCY PLAN
+Each designated community services action agency shall determine the need
+for activities and services within the area served by the agency and shall
+thereafter prepare a community services plan which that describes the method
+by which the agency will provide those services. The plan shall include a
+schedule for the anticipated provision of new or additional services and shall
+specify the resources which that are needed by and available to the agency to
+implement the plan. The community services plan shall be completed every
+three years and updated annually. The plan shall include the regional needs
+assessment required under 33 V.S.A. § 2209.
+
+Section 23:
+§ 3905. COMMUNITY SERVICES ACTION AGENCIES;
+ADMINISTRATION
+(a) Each community services action agency shall administer its programs
+as set out in the community services plan and as approved by its board of
+directors.
+(b) Each board of a nonprofit community based community-based
+organization that is designated a community services action agency under
+
+Section 24:
+section 3903 of this chapter shall have an executive committee of not more
+than seven members who shall be representative of the composition of the
+board and the board shall be so constituted that:
+* * *
+(2) one-third of the members of the board are persons chosen in
+accordance with election procedures adequate to assure ensure that they are
+representative of the poor individuals with low income in the area served; and
+(3) the remainder of the members of the board are officials or members
+of business, industry, labor, religious, welfare, education, or other major
+groups and interests in the community.
+(c) Each member of the a board selected to represent a specific geographic
+area within a community shall reside in the area he or she the member
+represents. No person selected under subdivisions (2) or (3) of subsection (b)
+as a member of a board shall serve on such board for more than five
+consecutive years, or more than a total of 10 years Each board shall adopt term
+limits to govern its members.
+* * * Appropriations * * *
+Sec. 10. APPROPRIATION; TRANSITION PLANNING
+In fiscal year 2026, $10,000,000.00 of one-time funding is appropriated
+from the General Fund as follows:
+(1) $5,085,000.00 to the Department for Children and Families to plan
+for the implementation of the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program as needed, which may be
+distributed to entities such as the community action agencies;
+(2) $400,000.00 to the Department for Children and Families for
+distribution to the statewide organization serving households experiencing or
+who have experienced domestic or sexual violence;
+(3) $515,000.00 to the Department of Health for distribution to Bridges
+to Health for services to individuals who are experiencing homelessness or at
+risk of becoming homeless;
+(4) $1,000,000.00 to the Department for Children and Families for the
+distribution of grants to municipalities planning and implementing services for
+households that are at risk of homelessness or experiencing homelessness, in
+collaboration with the community action agency serving a municipality’s
+region; and
+(5) $3,000,000.00 to the Department for Children and Families to
+enhance capacity for the creation and expansion of emergency shelters and
+permanent supportive housing capacity, a subset of which shall be distributed
+to the Vermont Housing and Conservation Board for infrastructure investments
+and administered in consultation with the Department to ensure new
+investments are paired with appropriate support services.
+Sec. 11. FUTURE APPROPRIATIONS; LEGISLATIVE INTENT
+It is the intent of the General Assembly that:
+(1) in fiscal year 2027 and thereafter, funds and resources previously
+appropriated for General Assistance emergency housing be redesignated for
+the Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program pursuant to 33 V.S.A. chapter 22; and
+(2) in fiscal year 2028 and thereafter, funds and resources previously
+appropriated for the Housing Opportunity Grant program be redesignated for
+the Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program pursuant to 33 V.S.A. chapter 22.
+Sec. 12. TRANSITION; HOUSING OPPORTUNITY GRANT PROGRAM
+As part of its fiscal year 2028 budget presentation, the Department for
+Children and Families shall present a plan for transitioning Housing
+Opportunity Grant Program funding and duties to the Vermont Homeless
+Emergency Assistance and Responsive Transition to Housing Program
+established in 33 V.S.A. chapter 22.
+* * * Effective Dates * * *
+Sec. 13. EFFECTIVE DATES
+This act shall take effect on July 1, 2025, except that:
+(1) Secs. 4 (Vermont Homeless Emergency Assistance and Responsive
+Transition to Housing Program) and 9 (community action agencies) shall take
+effect on July 1, 2026;
+(2) Sec. 5 (Vermont Homeless Emergency Assistance and Responsive
+Transition to Housing Program) shall take effect on July 1, 2027; and
+(3) the Department for Children and Families shall commence the
+rulemaking process prior July 1, 2026 in order to have rules in place on that
+date.
+[DELETED: eplofa.9natrgtoteVtHsEyAeaeTntoHgPeSepstoteHetoadteblbysgotalaeegceadiginlutftef**FsadLeIt**.1.FeGlAyfst)agtoteU.DtofHgadUs24AlHsAtR,Vthefhhtreofhsin24intt53ofey1saeegh,whoyH,NwY,aneghrr)in2,agtoteseAlHsA,51ofey10Vsweegh)agtoteVt24PeC,tewy38udisinV,whrsa3tieorte10udisprtoteCcin2)ofte38udisinVtidbytt24PeC,16edu,whistehtctofudhsinVtwnteptd)agtoteVt24PeC,or3tofteVseghsweudfetnoeyrador72ptweudfrmetn90d)agtoteVt24PeC,77oftseghswecnadyhur18yfaead66we55ysofaeoro)agtoteVt24PeC,Bsae56tsmelytobeudascdtow)te24VtHgNsAtnstt3yhsaendinVtbn2,35ofwhadtoash]
+[DELETED: )te24VtHgNsAtnstt“folVtrsaec,adorpymetn5]oftrieonhgc,pgtmathhrko”wh“shdbyVsrlvyreof,whiswlbwte5[]reofahym;a)se2,teVtHgadCnBdhd10nwsyhpusad29nws.2.LEI)ItisteitofteGlAyttudheedadtthsinVtber,b,a)ItisteitofteGlAyttteVtHyAeadReTntoHgPdin33V.cr22isasptdegt)hsberdinVtadimssbeaetopeasepytopthralVsegh,igsesrorislginudh)Vtietesyofeysraswlatsehgttmstescnsofi)cycsofalsrtsaeidincm)tel,nts,rnbnims,adordsinhgsybeedtotee)Vseyhgs,r,p,pdpsbemdonHgFtpswea)nesrbeudtoteetp;a)VtrereonteitueofhladmstosrpghsadedteueofesttteSefrtsp)ItisteitofteGlAyttteVtHyAeadReTntoHgPdin33V.cr22rstepnofegthteGlAePmedin33Vr21bginflyr27adteHgOyGmbginflyr2]
+[DELETED: **VtHsEyAeadReTntgP;EeJy1,25**.3.33V.cr22isadtorR2.VTHSEYADRETNTOHGP.STTePmedintscrmybecdas“”oe“HP.PtistepeofteGlAyt)retepnofeyhgthteGePmedincr21oftsteaduefsaspyadtotsp,adayoridSdflm,tofdteVtHsEyAeaeTntoHgPmedintsc)rereonteitueofhladmlrstrpghsadedteueofeystteSefrtsp;a)atinmghgfrhsakofhdtnhseghstopth.Dsudintsc)“kofh”mspyhdwti,r,orsttopth)“yana”msanayddpo3V.cr5)“ds”msasrttmstsssfrteonofs)“”msteDtfrCnadF)“ewre”mseehtorcdtsore,shash,f,orb,ttcscsfrorhnbyh)“”m)lgaf,r,adaener)fgitlsofpyner]
+[DELETED: )fgoragtofedcv;o)oeddashsurfll)“”msaniladaydsfrwmtlislyrewoaeddinVtaseyanittodlinVtadtorntoVtift,cdwhanatorasctwhtti.“sisworetrasoeecu,igtoaem,pstoaclu,oru)“dh”mssginalnndfroroyudasarrsga.RLAYC)Ehcyanayslcearlalwempr,toteetp,tegyagV,igiswoaeB,IdPsofC,aswlaswhrstoscscl,g,sli,addys.Msonayclslieospgssint,teD,adrsofteAyadetofteA,asn.Arlayclmewhiswhldeeofhyp,Sep,hgp,llh,sehso,psofc,csofc,fdo,admsintnsdbytecyana)EhrlayclslpeaeastotecyanayinisrnrgtnadinofteP.Tewkofehryclslbeidbyrlpgc’h)Ehrlayclslmtonatltaqyb)TerlaycsslhetelladttofteD**VtHsEyAeadReTntgP;EeJy1,26**.4.33V.cr22isadtorR2.VTHSEYADRETNTOHGP*]
+[DELETED: .Dsudintsc*)“yana”msanayddpo3V.cr59orteeyoresoeadbyttpttosn25oftscrtofltedsofyanayurtsc*.E;VTHSEEADRETNTOHeVtHsEyAeadReToHgPmisedinteDttopesststtaehsoratrkofbgh,toteese)TeDtslstaderioanatwheontthspcseeeteorcetobepdsessadsrtotsttaeegorttheeddcors)AlorpghsslbesdbyorthyanayrefragydtrnoeS.CyanaspgintePmseorcetobepdses,eewre,adeys.ANP;RNR)TeDtslstaderioanatwheontopeorcetobepdsesdsrtotehsttaeegorttheecorslv.TeDtslctrrrsoeseontoeecewhtsc.TeonmybesttoceasbyteD,wntectofadr,itnolrmstsoftscrorhsfdtoaymttensosttaeegorttheeddcors.Ifteseonctflisrsusc,teDtslwkwhareytoeetttsntagpins]
+[DELETED: )TeDtslaeacyanaytosrcetobesdhsttaehsoratrkofbsinagydtrnofteSeifitmstecntss.Ifacyanayctflisrrtsc,teDtslwkwhorcyasororaecyestoeettteisntpinssinacyanasr)Acyanaypgorcgtopesnaewhtscrslh)egorpdietosthsint,iganedlpt,ahnrss,aeaytoregtfgadies)teaytomtteDsrgrghgapthyofrgc)tecytopmtecessrdpttn26oftsc)tecytoskadatcec,gdssofv,igm,c,adf)ayoemsedintsc)cycswhorpsintergllhgc,hgp,psofc,csofc,fdo,adpsofsoiswoaeorV;iswohed,eued,oramlhhc;isrgtyari;istgfmteceayofteCrfrCnadF;adfsw;a)teaytopepnlecstsrgs)Ntlstneytey,teDtslctnrwofehcyanaypgorcopesspttotsc.AnonmybestteasbyteDti,wntectofa,itnolrmstersinsn()oftnorhsfdtoaymttensofhsininttaehsoratrkofh.LkofcemtinteDtdgnttoretecya.TeDtmyrwpsofaypyreasadmyrwcyanaypnrnr]
+[DELETED: .VHCES)TeDtslerioanatwhasnwhpceesghsttagorttheeddcorslv.Tnslpeorcetobepdvssradctssttsth)Ehcyanayslororcetobeo,inwhcyp,ehoftefgsswsr)ses,i)ieasadssfrdnfmhhslierlies)hdnsa)idhdpstoasidn)hgnnadrns)aeogadrgh,igf)lto,e,adctr)nntoorssadssasidintshgp,igecb,p,jbtgadets,ssrdtodditl,adrltohhceaeshastrmlhhcsadseuedraspdbytdadsdssasadpdp)a;a)psmgadi;a)teonofeewrets,whmyidceasadmybepdtswhmsorore,ugaedaaggcastopefgfrtsp;a)teonofeyssinamrttbsuntyrdcypgpsadpshsidoftessofaneys,whmyiecds,tyueofhsorm,leasfrflolueofanegb,ncsra,m]
+[DELETED: tl,tedtofsrc,ororasosofasttcywhteitoftsc.UEOFHLADMLR)ItisteitofteGlAytodereonhdmlrsfreyh.A,assrcsinehrnofteS,teueofhladmlrsfyhginttrnsld.A,asptoftsbtp,teDtslstgsfrigc,igsrb,ptseh,ataeh,inantopdcsinteueofhladmlr.TeDtslpapgtotepeofidsrcyfmtsflyrinehrnadhwttieistghladmlrmuefreyhginenpttotssnfrtepeofigrgade)Ifhsadmsaeudtopeeysrpttsc,tehladmlosslcywhPmrdtefgr)DtofH,LdLgEtRe(;a)DtofPcS,VtFeadBgSe(R2)A,teDtslpehladmlrsasptosbtpnfralbyteGlA.AcnayslntpyorcetobepdwhSemsaprrrntbsttestereadbyteGlA)Ifahlormlisbgu,acyana)slerioasfrteueofbsofhladmsadnetecsofuefrteb,igarpsofcemtororses)slpeteueofhladmlrmasolprr,prnthlormlrmu,usitisnetoahsn;a)myuescpstoteetcnpsatidfmtewrcysdthteP.V;DSOFTED]
+[DELETED: )TeDtadteAyofHnSsslheryfrmgteitoftsc,iep,smd,pgaef,adttofalteAsd)FrtepeofpgaeotadmftePmedintsc,teDts)mngergwneewresslbeo,igfyfrrlwrc)mnawewhtelsofaleewts)ieasptofayrwofacyanayrtto3V.cr59tecyanasaytmtersoftsc)ctwhtecyanasadtesnsghsttaeegorttheecorslvetodpaereasasfratttteioataed,tepeodp,adcyreanmci,reofh,rlvyr,ado,asa;a)a,defgtoehcyanadteseonsghsttaeegorteeddcorslveugteanfdpttosn()oftssn(,orifttadcyanasa,deajtaralcyana,whtecyanassehwtodeatt)pestadtlaetotecya,orcyp,adteseonssttaeegorttheeddcors)iyscaersttcdbetocyo)dpadmnssfrtecessldins6oftsc,igteonofcds;a)atrsptto3V.cr2,incnwhtyanasadteseonsghtaeegorttheeddcorslv,a]
+[DELETED: ,frteinoftsc,igariswhad.RLP;NSA)Asptoftepnrdeyteysptto3V4adtefyrdpgadnsasfrtsofc,tecyanassldparsatadpgp,incnwhcyaep,frueinehcyanasrntoiepsaghgadhsinehrnofteSerlnsatadpgpspssli)agpsinrgtenrofhghsinar)agterehspdinpthgrntsadteugr)igrsddadudinterntoasadestoieteeednoftsinter)rgtereofhdpnwhcdesadcemts)igsmgsadtefgndtoast,igpciya;a)ugd,igVsPeCdeyatr,adcyc)Eytey,ehcyanayslstpdpttotssntoteDtinaftpdbeD.Unrtoftep,teDtslcersoftersadsttecdrttoteHeonHnSsadtoteSeCeonHha.RGRnorbeteltdyofeytdm,teDtslsr,incnwhtecyanasadtesnsghsegdcorslv,teHeCeonHnS,teSeCeonHdW,adteJtFlCea)tenrofhssdthteP,byhea,ifa,byeyc,r,sep,aeofs]
+[DELETED: )tenrofhdmsedonapeadfebsadtenrofhdmsrgSyIeorSlSydyi)csincyfrsrb,ngh,adrehssetepsrgp)tenrofdsmedgtepsrgp)tenrofhsweieatidlndfrssfmehdtwnteA)tenrofhstthebnsytdtthgsetepsrgp,tetsofhsinwhtyhebnp,adaysesstyagincnwhtrh)tenrofhsttmybetdtopgintecgm)aySersadllrsadosttagtetydtofs,d,aehgitcsinort)iyasinwhfyordnaea;a)aewrtetysnofrtSerdllrsado,orteanoratofS,wdfefradlscyrnofeghdcnofnwhgu;a)aniyofalssidbyteseoghsegorwoheeddcorseadbyehcyana42.RLAYC)Ehcyanayslcearlalwempr,toteetp,tegyagV,igiswoaeB,IdPsofC,aswlaswhrstoscscl,g,sli,addys.Msonayclslieospgssint,teD,adrsofteAyadetofteA,asn.Arlayclmewhiswhldeeofhyp,Sep,hgp,llh,sehso,psofc,csofc,fdo,admsintnsdbytecyana]
+[DELETED: ***VtHsEyAeadReTntgP;EeJy1,27**.5.33V.§2isadtor.PtistepeofteGlAyt)retepnofeyhgthteGePmedincr21oftsteadteHyGtPmaduefsadrspyaotep,adayoridSeadflm,tofeVtHsEyAeadReTntgPmedintsc;a)rereonteueofhladmlrstosghsadedteueofeyssteSefrtsp**InPgadIlRlAs**.6.VHINP)OnorbeOr1,2,teDtfrCna,incnwhtecyana,adteonsghsttaeegortthddcorslv,slstteftoftownpstoteHeCeonHnS,teSeonHhadW,adteJtFlCeogilpsfrteinofteVtHsEeadReTntoHgPmedby3.cr22onorbeJy1,2.S,tefnpnsli)apsttcyana,incnwht,sluetoctryogrlnsaddpferlp,igcnoln)rdpemstoeetecnasadteseonsghsttagorttheeddcorslveincttrdsur33V.cr2,i)tepnofaypyaduninteteDttoeetesspdthgtf]
+[DELETED: eetonhsrgs,adanagofetf;a)pemsttmybesctoaninofteSeorp)rdeyfrehoftessodth3.cr2)gergwneewretssslb,igfyfrrlwrc)atefrteinofcessldin33V6frteftsxmsofflyr2)rdieadatpstodesradssfrhsbdonPme)ardpstoeeanugcyaytootofpnintePminamrttgsteaen)OnorbeJy1,2,teDtfrCna,incnwhtecyana,rycsedptto33V.§,adtesnsghsttaeegorttheecorslv,slsttesdoftownpstoteHeCeonHnSsadteCeonHhadWeogisilpsfrtnofteVtHsEyAeaeTntoHgPmedby33V.c2onorbeJy1,2.S,tesdinpliersontef)fgasagtecyanasado,igfrsssctohsttaeerttheeddcorslv)alSeadflfgadorrsirteP)eganaspsttisahgbetnSsBdadanonfranedasp)tereof21wnteies)wrastoalorsesssdieaneghdpnincemtssorosshasntlsonteueofhsadm,a,ifs]
+[DELETED: tesadinwtcspnincemsororessdbea)wrteueofeysrsdief,a,ifs,wtttpnsdi)wrieadatpssdievfr,h,adhdi)hwtobteettteiseeastosraessfrhsegh)tenrofhgvsttVtltintepty,iedaisa;a)ayadcsrgales.7.IMADFLNSATPrtoteetofteVtHsEyAeaeTntoHgPmonJy1,2,tesnsghsegorttheecorslveadcyanasslclnsasinaewhtepsddinS)oftsa.OnorbeJy1,2,tecyasslstoecepsrtadtesnslstaserttoteHeCsosadonHnSsadteSeCsosadonHhadW,igedfly7btp,edcsofagteP,adasofaybstoggalsradpthnter.OnorbeAl1,2,teseonstartadtecyanasslstasertdgtersofehrsnsadinp,whslntedtebypdinteJy1,26psr,toteHeCsosadonHnSsadteSeCsosadonHhadW.Teilnsadpttotssnsli)agpsinrgtenrofhghsinar)agterehspdinpthgrntsadteugr)igrsddadudinterntoasadestoieteeednoftsinter]
+[DELETED: )rgtereofhdpnwhcdesadcemts)igsmgsadtefgndtoast,igpciya;a)ugd,igVsPeCdeyatr,adcyc.8.ADINPnorbeNr1,2,teDtfrCnadFlstfrcnaddwnp,igat,teinofteVtHsEyAdReTntoHgPmasptofteflyr2tatpstoteJtFlC,toteHsonAsadonHnS,adtoteSsonAsadonHhadW.TepnsstersofcypstoittePmpoJy1,2,flesfrterrofflyr2,adatastowrtePmisadtobeoeonoeJy1,2**CyAnAs**.9.3V.cr59isadtorR5.CYSSANA3.FSADP)RgttteecwgadsleyoferhslgbnaflcnofteS,itrtttpycstobeteltofaslnrospncstoeep.ItistepyofteSetohpdpteflplofehofiscssotycetoteftetpetoteleoforcsadteasaw)Itistepeoftscrtos,s,aeesttfrtspyt)tesgofcycsfrp,admgf,S,adorssofadtotepmofp)tebronadunofareofssrotensoftepriswhlwi;a]
+[DELETED: )tebgofterebeofpstoseamereinagtepriswhlwiefmb,adorgsfmtepes3.OEOFECO)TeDrofteOeofEcOyishdtoaeaeflaefrcysnasadpsinaewhSeadfllwa)TeDrmypeflaetocysnasfrtep,c,a,adenoyseanpstopeareofssashgameadpymritoncsoyintecyorinasoftecywepyisyaep.Csoftessadasm,wtlnoforasadsgfsdoatlwiepswhlwi)toseadrnmle)toonaee)tomebrueofaei)topeadmnaehgadaseltheastos,s,pth)toonp,i,t,adrysrtepnofnsa,a,adfrterfncasadasiswhseued)tooneyaethlsadgstomeadutiladfyn,igtendfhs,nsf,h,aduda)toreosadsepladfypswtbkatofs)toaegrpninteasoftec)tomemeftadeeueoforpsrdtepsoftsc;a)toceadehlsbnglarslsepstoaeeeteeedyofsstolep;whlwieadtoeeteueosintepesroftecyinestoaepntec]
+[DELETED: )TeDrisadtoatrspttocr25ofteaetotecgotoftscradtepst3.DNOFASTOPESSASTOAEOREEPeDrsldepentcybdoswottheddorwottceteaytopessadasasddin3)oftsteascyssana3.CYSSANAYPhddcyssanaysldetenrasadsswnteaasdbyteayadsrpeacysspnwhttdstemywhteaywlpetes.Tepnslieefrteadpnofnworalssadsyterswhttaendbyadaetoteaytttep.Tecysspnslbecdeeysaduda.Tepnslieterlntrdur33V.§3.CYSSANA)Ehcyssanayslarispsstotintecysspnadasadbyisbdo)Ehbdofantcybdcnttisddacyssanayun33oftscrslheaneeceofntmnsnmswoslbereoftecnoftdadtebdslbesocdt*)odoftemsoftebdaepscniewhenpsaetoaeeetttyaeoftepriswhlwieinteaas;a)terroftemsoftebdaeosormfb,i,l,r,w,e,orormsadisintec)Ehmrofteabdsdtortascgawnacyslreinteaaheorsetem.Nopnsdurss()or()ofsn(samrofabdslseonshbdfrmetnf]
+[DELETED: ey,ormetnatlof10ysEhbdslattstognism**As**.1.A;TNPnflyr2,$0ofoefgisamteGlFdasf)$0toteDtfrCnadFstoprteinofteVtHsEyAeaeTntoHgPmasn,whmybdtoesshastecyana)$0toteDtfrCnadFsfntoteseonsghsegooheeddcorslv)$0toteDtofHhfrdntoBoHhfrsstoiswoaeeghsorakofbgh)$0toteDtfrCnadFsfrtnofgstomspgadigssfsttaeatrkofhsoregh,inwhtecyanaysgam;a)$0toteDtfrCnadFstecyfrtecnadenofeyssatsehgc,astofwhslbedoteVtHgadCnBdfrieidadincnwhteDttoeensaepdwhaests.1.FEA;LEItisteitofteGlAyt)inflyr27adt,fsadrspdfrGlAeeyhgberdfeVtHsEyAeadReTntgPmptto33V.cr2;a)inflyr28adt,fsadrspdfrteHgOyGtpmberdfeVtHsEyAeadReTntgPmptto33V.cr2]
+[DELETED: .1.T;HGOYGTPsptofisflyr28btp,teDtfnadFsslptapnfrtgHyGtPmfgaddstoteVtHyAeadReTntoHgPdin33V.cr2**EeDs**.1.EEDsatslteetonJy1,2,ett)S.4(tHsEyAeadRntoHgP)ad9(yana)slttonJy1,2)S.5(tHsEyAeadRntoHgP)slteetonJy1,2;a)teDtfrCnadFsslcetgpsprJy1,26inortohersinpeont]
+
+
+================================================================================
+
+Raw Text:
+Senate proposal of amendment
+H. 91
+An act relating to the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+* * * Findings and Legislative Intent * * *
+Sec. 1. FINDINGS
+The General Assembly finds that:
+(1) according to the U.S. Department of Housing and Urban
+Development’s 2024 Annual Homelessness Assessment Report, Vermont had
+the fourth highest rate of homelessness in 2024 in that 53 of every 10,000
+Vermonters are experiencing homelessness, with only Hawaii, New York, and
+Oregon experiencing higher rates;
+(2) in 2023, according to the same Annual Homelessness Assessment
+Report, 51 of every 10,000 Vermonters were experiencing homelessness;
+(3) according to the Vermont 2024 Point-in-Time Count, there were
+approximately 3,458 unhoused individuals in Vermont, which represents a 300
+percent increase over the 1,110 unhoused individuals prior to the COVID-19
+pandemic in 2020;
+(4) of the 3,458 unhoused individuals in Vermont identified by the
+Vermont 2024 Point-in-Time Count, 166 experienced unsheltered
+homelessness, which is the highest count of unsheltered homeless individuals
+in Vermont within the past decade;
+(5) according to the Vermont 2024 Point-in-Time Count, over 35
+percent of those Vermonters experiencing homelessness were unhoused for
+more than one year and over 72 percent were unhoused for more than 90 days;
+(6) according to the Vermont 2024 Point-in-Time Count, 737 of those
+Vermonters experiencing homelessness were children and youth under 18 years
+of age and 646 were 55 years of age or older;
+(7) according to the Vermont 2024 Point-in-Time Count, Black
+Vermonters are 5.6 times more likely to be unhoused as compared to white
+Vermonters;
+(8) the 2024 Vermont Housing Needs Assessment notes that 36,000
+primary homes are needed in Vermont between 2025–2029, 3,295 of which are
+needed to address homelessness;
+
+(9) the 2024 Vermont Housing Needs Assessment notes that “[h]alf of
+all Vermont renters are cost-burdened, and one-in-four pay more than 50
+[percent] of their income on housing costs, putting them at high risk of
+eviction,” which “is heightened by Vermont’s rental vacancy rate of 3
+[percent], which is well below the 5 [percent] rate of a healthy market”; and
+(10) since 2020, the Vermont Housing and Conservation Board has
+constructed 170 new single-family homeownership units and 269 new shelter
+beds.
+Sec. 2. LEGISLATIVE INTENT
+(a) It is the intent of the General Assembly that unsheltered homelessness
+be eliminated and that homelessness in Vermont be rare, brief, and
+nonrecurring.
+(b) It is the intent of the General Assembly that the Vermont Homeless
+Emergency Assistance and Responsive Transition to Housing Program
+established in 33 V.S.A. chapter 22 is a step toward ensuring that:
+(1) homelessness be reduced in Vermont and interim shelter
+opportunities be available to provide a stable pathway to permanent housing
+for all Vermonters experiencing homelessness, including safe shelter options
+for individuals living in unsheltered homelessness;
+(2) Vermont increase the supply of emergency shelter as well as
+permanent supportive housing that meets the specific needs of individuals;
+(3) community components of all shelter types are integrated in a
+systemic manner;
+(4) time limits, night-by-night shelter, relocation between interim shelter
+sites, and other disruptions in housing stability be eliminated to the extent
+possible;
+(5) Vermont’s emergency housing statutes, rules, policies, procedures,
+and practices be modeled on Housing First principles where appropriate;
+(6) noncongregate shelter be used to the extent possible; and
+(7) Vermont reduce reliance on the inefficient use of hotel and motel
+rooms to shelter participating households and expand the use of emergency
+shelters throughout the State for this purpose.
+(c) It is the intent of the General Assembly that the Vermont Homeless
+Emergency Assistance and Responsive Transition to Housing Program
+established in 33 V.S.A. chapter 22 replaces the provision of emergency
+housing through the General Assistance Program established in 33 V.S.A.
+chapter 21 beginning in fiscal year 2027 and the Housing Opportunity Grant
+Program beginning in fiscal year 2028.
+
+* * * Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program; Effective July 1, 2025 * * *
+Sec. 3. 33 V.S.A. chapter 22 is added to read:
+CHAPTER 22. VERMONT HOMELESS EMERGENCY ASSISTANCE
+AND RESPONSIVE TRANSITION TO HOUSING PROGRAM
+§ 2201. SHORT TITLE
+The Program established in this chapter may be cited as “VHEARTH” or
+the “VHEARTH Program.”
+§ 2202. PURPOSE
+It is the purpose of the General Assembly to:
+(1) replace the provision of emergency housing through the General
+Assistance Program established in chapter 21 of this title and use funds and
+resources previously attributed to this program, and any other identified State
+and federal monies, to fund the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program established in this chapter;
+(2) reduce reliance on the inefficient use of hotel and motel rooms to
+shelter participating households and expand the use of emergency shelters
+throughout the State for this purpose; and
+(3) assist in maintaining housing for households at-risk of homelessness
+and transition households experiencing homelessness to permanent housing.
+§ 2203. DEFINITIONS
+As used in this chapter:
+(1) “At-risk of homelessness” means precariously housed without
+sufficient income, resources, or support to prevent homelessness.
+(2) “Community action agency” means an agency designated pursuant
+to 3 V.S.A. chapter 59.
+(3) “Community-based shelter” means a shelter that meets the
+Department’s standards for the operation of shelters.
+(4) “Department” means the Department for Children and Families.
+(5) “Extreme weather event” means extreme hot or cold temperatures or
+weather events, such as hurricanes, flooding, or blizzards, that create
+hazardous conditions for outdoor habitation by humans.
+(6) “Homeless” means:
+(A) lacking a fixed, regular, and adequate nighttime residence;
+(B) facing imminent loss of primary nighttime residence;
+
+(C) fleeing or attempting to flee domestic violence; or
+(D) otherwise defined as homeless under federal law.
+(7) “Household” means an individual and any dependents for whom the
+individual is legally responsible who are domiciled in Vermont as evidenced
+by an intent to dwell in Vermont and to return to Vermont if temporarily
+absent, coupled with an act or acts consistent with that intent. “Household”
+includes individuals who reside together as one economic unit, including those
+who are married, parties to a civil union, or unmarried.
+(8) “Unsheltered homelessness” means sleeping in a location not
+designed for or ordinarily used as a regular sleeping accommodation.
+§ 2204. REGIONALADVISORY COUNCILS
+(a) Each community action agency shall convene a regional advisory
+council whose membership reflects, to the extent possible, the growing
+diversity among Vermonters, including individuals who are Black, Indigenous,
+and Persons of Color, as well as with regards to socioeconomic status,
+geographic location, gender, sexual identity, and disability status. Members of
+an advisory council shall include organizations providing services in the
+region, the Department, and representatives of the Agency and each
+department of the Agency, as needed. A regional advisory council may
+collaborate with individuals with lived experience of homelessness,
+community partners, State partners, housing providers, local housing
+coalitions, statewide homelessness organizations, providers of coordinated
+entry, continuums of care, faith-based organizations, and municipalities in the
+region served by the community action agency.
+(b) Each regional advisory council shall provide advice and
+recommendations to the community action agency in its region regarding the
+design and implementation of the Program. The work of each regional
+advisory council shall be informed by regional planning commissions’ housing
+targets.
+(c) Each regional advisory council shall meet on at least a quarterly basis.
+(d) The regional advisory councils shall have the legal and technical
+support of the Department.
+* * * Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program; Effective July 1, 2026 * * *
+Sec. 4. 33 V.S.A. chapter 22 is amended to read:
+CHAPTER 22. VERMONT HOMELESS EMERGENCY ASSISTANCE
+AND RESPONSIVE TRANSITION TO HOUSING PROGRAM
+* * *
+
+§ 2203. DEFINITIONS
+As used in this chapter:
+* * *
+(2) “Community action agency” means an agency designated pursuant
+to 3 V.S.A. chapter 59 or the entity or entities otherwise authorized by the
+Department pursuant to section 2205 of this chapter to fulfill the duties of a
+community action agency under this chapter.
+* * *
+§ 2204. ESTABLISHMENT; VERMONT HOMELESS EMERGENCY
+ASSISTANCE AND RESPONSIVE TRANSITION TO HOUSING
+PROGRAM
+The Vermont Homeless Emergency Assistance and Responsive Transition
+to Housing Program is established in the Department to provide services to
+households that are homeless or at risk of becoming homeless, to the extent
+funds exist.
+(1) The Department shall select and enter into an agreement with a
+statewide organization that has population-specific service experience to
+provide or cause to be provided supportive services and shelter to those
+households that are experiencing or that have experienced domestic or sexual
+violence.
+(2) All other participating households shall be served by or through a
+community action agency responsible for a geographically distinct region of
+the State. Community action agencies participating in the Program shall
+provide or cause to be provided supportive services, extreme weather event
+shelter, and emergency shelter.
+§ 2205. AUTHORIZATION PROCESS; REAUTHORIZATION REVIEW
+(a) The Department shall select and enter into an agreement with a
+statewide organization to provide or cause to be provided supportive services
+and shelter to those households that are experiencing or that have experienced
+domestic or sexual violence. The Department shall conduct regular reviews of
+the statewide organization to ensure compliance with this chapter. The
+statewide organization may be subject to corrective actions by the Department
+if, within the constraint of appropriated resources, it no longer meets the
+requirements of this chapter or has failed to adequately meet the needs of
+households that are experiencing or that have experienced domestic or sexual
+violence. If the statewide organization cannot fulfill its responsibilities under
+this chapter, the Department shall work with another entity to ensure that there
+is not a gap in services.
+
+(b)(1) The Department shall authorize a community action agency to serve
+or cause to be served households that are homeless or at risk of becoming
+homeless in a geographically distinct region of the State if it meets the criteria
+in this section. If a community action agency cannot fulfill its responsibilities
+under this chapter, the Department shall work with other community action
+agencies or other appropriate community entities to ensure that there is not a
+gap in services in a community action agency’s region.
+(2) A community action agency providing or causing to provide services
+in accordance with this chapter shall have:
+(A) existing or planned infrastructure to support households in the
+region, including an established leadership team, a human resources staff, and
+the ability to receive grant funding and issue subgrants;
+(B) the ability to meet the Department’s reporting requirements,
+including having a past history of reporting compliance;
+(C) the capacity to perform the core services required pursuant to
+section 2206 of this chapter;
+(D) the capacity to seek and accept charitable contributions, grants,
+and services of volunteers, including money, clothing, and furniture;
+(E) any outcome measures established in this chapter;
+(F) community connections with other providers in the region,
+including local housing coalitions, housing providers, providers of coordinated
+entry, continuums of care, faith-based organizations, and providers of services
+to individuals who are older Vermonters; individuals who have disabilities, a
+substance use disorder, or a mental health condition; individuals reentering the
+community after incarceration; individuals transitioning from the care and
+custody of the Commissioner for Children and Families; and families with
+children; and
+(G) the ability to provide plain language communications to
+households receiving services.
+(3) Not less than every three years, the Department shall conduct a
+reauthorization review of each community action agency providing or causing
+to provide services pursuant to this chapter. An organization may be subject to
+corrective actions by the Department if, within the constraint of appropriated
+resources, it no longer meets the requirements in subdivision (2) of this
+subsection or has failed to adequately meet the needs of households in its
+region that are homeless or at risk of homelessness. Lack of compliance may
+result in the Department deciding not to reauthorize the community action
+agency. The Department may review progress of any previously required
+corrective actions and may review community action agency performance
+between reauthorization reviews.
+
+§ 2206. VHEARTH CORE SERVICES
+(a) The Department shall enter into an agreement with a statewide
+organization with population-specific experience serving households that are
+experiencing or that have experienced domestic or sexual violence. The
+organization shall provide or cause to be provided various shelter and case
+management services that support households.
+(b) Each community action agency shall offer or cause to be offered, in
+collaboration with community partners, each of the following services within
+its region:
+(1) supportive services, including:
+(A) intake assessments and services for diversion from homelessness,
+which shall include regional intake shelters;
+(B) household needs assessments;
+(C) individualized household plans to address identified needs;
+(D) housing navigation and retention services;
+(E) assistance obtaining and retaining housing, including financial
+assistance;
+(F) landlord-tenant outreach, education, and conflict resolution;
+(G) navigation to other services and supports as identified in the
+household’s housing plan, including economic benefits, peer-supported
+services, job training and employment services, services related to disability
+and independent living, and referral to health care assistance such as treatment
+for mental health conditions and substance use disorder as provided by the
+designated and specialized services agencies and preferred providers,
+respectively;
+(H) advocacy; and
+(I) progress monitoring and interventions; and
+(2) the operation of extreme weather event shelters, which may include
+time-limited congregate accommodations and may be provided through
+agreements with municipalities or other entities, utilizing available data and
+considering geographic access to prioritize funding for this purpose; and
+(3) the operation of emergency shelters in a manner that builds upon the
+federally required community planning process and prioritizes households in
+need of the services of an emergency shelter, which may include community-
+based shelters, temporary use of hotels or motels, lease agreements for full or
+partial use of an existing building, need-specific shelter arrangements, master
+
+grant leases, the development of shelter capacity, or other arrangements or
+combinations of arrangements that comply with the intent of this chapter.
+§ 2207. USE OF HOTELAND MOTELROOMS
+(a) It is the intent of the General Assembly to decrease reliance on hotel
+and motel rooms for emergency housing. Annually, as shelter capacity
+increases in each region of the State, the use of hotel and motel rooms for
+emergency housing in that region shall decrease. Annually, as part of the
+Department’s budget presentation, the Department shall set goals for increased
+housing capacity, including shelter beds, permanent supportive housing, and
+permanent affordable housing, in addition to proposed corresponding
+decreases in the use of hotel and motel rooms. The Department shall provide
+data pertaining to the percentage of increased shelter capacity from the
+previous fiscal year in each region and how that increase impacts the
+corresponding hotel and motel room usage for emergency housing in each
+region pursuant to this subsection for the purpose of informing regional
+planning and expectations.
+(b) If hotels and motels are used to provide emergency shelter pursuant to
+this chapter, the hotel and motel operators shall comply with Program rules
+and the following rules:
+(1) Department of Health, Licensed Lodging Establishment Rule (CVR
+13-140-023); and
+(2) Department of Public Safety, Vermont Fire and Building Safety
+Code (CVR 28-070-001).
+(c) Annually, the Department shall propose hotel and motel rates as part of
+its budget presentation for approval by the General Assembly. A community
+action agency shall not pay or cause to be paid with State monies a per room,
+per night basis that exceeds the rate approved by the General Assembly.
+(d) If a hotel or motel is being utilized, a community action agency:
+(1) shall enter into agreements for the use of blocks of hotel and motel
+rooms and negotiate the conditions of use for those blocks, including access
+for providers of case management or other supportive services;
+(2) shall prioritize the use of hotel and motel room agreements over
+individual per room, per night hotel or motel room use, unless it is not
+appropriate to a household’s needs; and
+(3) may use strategic placements to the extent certain populations are
+not isolated from the wider community served through the Program.
+§ 2208. VHEARTH; DUTIES OF THE DEPARTMENT
+
+(a) The Department and the Agency of Human Services shall have
+statewide responsibility for meeting the intent of this chapter, including
+statewide planning, system development, proposing adequate funding, and the
+involvement of all the Agency’s departments.
+(b) For the purpose of providing administrative oversight and monitoring
+of the Program established in this chapter, the Department shall:
+(1)(A) maintain guidance regarding when extreme weather event
+shelters shall be operated, including flexibility for regional weather conditions;
+and
+(B) maintain a website with the locations of all extreme weather
+event shelters;
+(2) include as part of any review of a community action agency required
+pursuant to 3 V.S.A. chapter 59 the community action agency’s ability to
+perform the requirements of this chapter;
+(3)(A) consult with the community action agencies and the statewide
+organization serving households that are experiencing or that have experienced
+domestic or sexual violence to develop appropriate resource allocations and
+methods for adjustment that take into account available data, the presence of
+community-based providers, and customary resource allocation methods,
+economic indicators, rate of homelessness, rental vacancy rates, and other
+variables, as appropriate; and
+(B) annually, distribute funding to each community action agency
+and the statewide organization serving households that are experiencing or that
+have experienced domestic or sexual violence using the allocation formula
+developed pursuant to subdivision (A) of this subdivision (b)(3), or if the
+Department and community action agencies agree, disperse a joint allocation
+for all community action agencies, which the community action agencies shall
+determine how to distribute amongst themselves;
+(4) provide support and technical assistance to the community action
+agencies, other community partners, and the statewide organization serving
+households that are experiencing or that have experienced domestic or sexual
+violence;
+(5) identify specific administrative resources that could be transitioned
+to community operations;
+(6) develop and maintain standards for the core services listed in section
+2206 of this chapter, including the operation of community-based shelters; and
+(7) adopt rules pursuant to 3 V.S.A. chapter 25, in consultation with the
+community action agencies and the statewide organization serving households
+that are experiencing or that have experienced domestic or sexual violence, as
+
+appropriate, for the implementation of this chapter, including accommodations
+for individuals with a disability.
+§ 2209. REGIONALPLANNING; NEEDS ASSESSMENTS
+(a) As part of the plan required every three years pursuant to 3 V.S.A.
+§ 3904 and the federally required planning and needs assessments for the
+continuums of care, the community action agencies shall develop a regional
+needs assessment and planning process, in collaboration with community and
+State partners, for use in each community action agency’s region to inform
+future plans addressing housing and homelessness in each region of the State.
+The regional needs assessment and planning process plans shall include:
+(1) addressing progress in reducing the number of households
+experiencing homelessness in a region;
+(2) assessing the rate households placed in permanent housing return to
+homelessness and the underlying reasons;
+(3) identifying resources developed and utilized in the region to address
+homelessness and efforts to improve the equitable distribution of these
+resources in the region;
+(4) reporting the rate of household participation with coordinated entry
+processes and case management services;
+(5) identifying system gaps and the funding needed to address those
+gaps, including periodic inflationary adjustments; and
+(6) utilizing data, including Vermont’s Point-in-Time Count,
+coordinated entry assessment results, and community conversations.
+(b) Every three years, each community action agency shall submit plans
+developed pursuant to this section to the Department in a format prescribed by
+the Department. Upon receipt of the plans, the Department shall consolidate
+the results of these reports and submit the consolidated report to the House
+Committee on Human Services and to the Senate Committee on Health and
+Welfare.
+§ 2210. REPORTING REQUIREMENTS
+On or before the last day of every third month, the Department shall submit
+a report, in consultation with the community action agencies and the statewide
+organization serving households experiencing domestic or sexual violence, to
+the House Committee on Human Services, the Senate Committee on Health
+and Welfare, and the Joint Fiscal Committee addressing:
+(1) the number of households served through the Program, by household
+size and, if applicable, by eligibility category, region, service provider, and
+type of service;
+
+(2) the number of household members employed on a part-time and full-
+time basis and the number of household members receiving Supplemental
+Security Income or Social Security disability insurance;
+(3) changes in capacity for shelter beds, nursing homes, and residential
+care homes since the previous reporting period;
+(4) the number of diversions made during the previous reporting period;
+(5) the number of households whose intake assessment indicated a
+potential need for services from each department within the Agency;
+(6) the number of households that have been successfully transitioned to
+permanent housing since the previous reporting period, the types of housing
+settings in which they have been placed, and any supportive services they are
+receiving in conjunction with their housing;
+(7) the number of households that may be transitioned to permanent
+housing in the coming months;
+(8) any State rules and local regulations and ordinances that are
+impeding the timely development of safe, decent, affordable housing in
+Vermont communities in order to:
+(A) identify areas in which flexibility or discretion are available; and
+(B) advise whether the temporary suspension of relevant State rules
+and local regulations and ordinances, or the adoption or amendment of State
+rules, would facilitate faster and less costly revitalization of existing housing
+and construction of new housing units; and
+(9) an inventory of all subgrants issued by the statewide organization
+serving households experiencing or who have experienced domestic or sexual
+violence and by each community action agency.
+§ 2204 2211. REGIONALADVISORY COUNCILS
+(a) Each community action agency shall convene a regional advisory
+council whose membership reflects, to the extent possible, the growing
+diversity among Vermonters, including individuals who are Black, Indigenous,
+and Persons of Color, as well as with regards to socioeconomic status,
+geographic location, gender, sexual identity, and disability status. Members of
+an advisory council shall include organizations providing services in the
+region, the Department, and representatives of the Agency and each
+department of the Agency, as needed. A regional advisory council may
+collaborate with individuals with lived experience of homelessness,
+community partners, State partners, housing providers, local housing
+coalitions, statewide homelessness organizations, providers of coordinated
+entry, continuums of care, faith-based organizations, and municipalities in the
+region served by the community action agency.
+
+* * *
+* * * Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program; Effective July 1, 2027 * * *
+Sec. 5. 33 V.S.A. § 2202 is amended to read:
+§ 2202. PURPOSE
+It is the purpose of the General Assembly to:
+(1) replace the provision of emergency housing through the General
+Assistance Program established in chapter 21 of this title and the Housing
+Opportunity Grant Program and use funds and resources previously attributed
+to those programs, and any other identified State and federal monies, to fund
+the Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program established in this chapter; and
+(2) reduce reliance on the use of hotel and motel rooms to shelter
+participating households and expand the use of emergency shelters throughout
+the State for this purpose.
+* * * Implementation Planning and Initial Regional Assessments * * *
+Sec. 6. VHEARTH IMPLEMENTATION PLANNING
+(a) On or before October 1, 2025, the Department for Children and
+Families, in collaboration with the community action agencies, and the
+statewide organization serving households that are experiencing or that have
+experienced domestic or sexual violence, shall submit the first of two written
+implementation plans to the House Committee on Human Services, the Senate
+Committee on Health and Welfare, and the Joint Fiscal Committee outlining its
+initial plans for the implementation of the Vermont Homeless Emergency
+Assistance and Responsive Transition to Housing Program established by 33
+V.S.A. chapter 22 on or before July 1, 2026. Specifically, the first
+implementation plan shall include:
+(1) a process that community action agencies, in coordination with the
+Department, shall use to conduct regularly occurring regional needs
+assessments and develop future regional plans, including consideration of
+municipal needs;
+(2) recommended performance measures to evaluate the community
+action agencies and the statewide organization serving households that are
+experiencing or that have experienced domestic or sexual violence in carrying
+out their duties under 33 V.S.A. chapter 22, including:
+(A) the provision of any previously agreed upon information to
+enable the Department to evaluate the services provided through grant funds,
+
+the effect on households receiving services, and an accounting of expended
+grant funds; and
+(B) performance measures that may be specific to an individual
+region of the State or provider;
+(3) recommended eligibility for each of the services offered through 33
+V.S.A. chapter 22;
+(4) guidance regarding when extreme weather event shelters shall be
+operated, including flexibility for regional weather conditions;
+(5) a timeline for the implementation of core services listed in 33 V.S.A.
+§ 2206 for the first sixmonths of fiscal year 2027;
+(6) recommended intake and assessment processes to determine
+appropriate shelter and services for households based on Program eligibility;
+and
+(7) a recommended process to enable an unwilling community action
+agency to opt-out of participation in the Program in a manner that gives the
+State adequate notice.
+(b) On or before January 15, 2026, the Department for Children and
+Families, in collaboration with the community action agencies, regional
+advisory councils established pursuant to 33 V.S.A. § 2204, and the statewide
+organization serving households that are experiencing or that have experienced
+domestic or sexual violence, shall submit the second of two written
+implementation plans to the House Committee on Human Services and the
+Senate Committee on Health and Welfare outlining its initial plans for the
+implementation of the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program established by 33 V.S.A. chapter
+22 on or before July 1, 2026. Specifically, the second implementation plan
+shall include recommendations on the following:
+(1) funding allocations among the community action agencies and other
+providers, including for services specific to households that are experiencing
+or that have experienced domestic or sexual violence;
+(2) additional State and federal funding and other resources identified
+for the Program;
+(3) establishing an appeals process that includes a hearing before the
+Human Services Board and an option for an expedited appeals process;
+(4) the role of 211 within the intake system;
+(5) whether access to all or some services should include an expectation
+regarding household participation in case management services or other
+expectations such as night limits on the use of hotels and motels, and, if so,
+
+what elements and in what circumstances participation in case management
+services or other expectations should be applied;
+(6) whether the use of emergency shelter should include financial
+participation, and, if so, what that participation should include;
+(7) whether intake and assessment processes should include verification
+of residency, homelessness, and household income;
+(8) how to best ensure that there is equitable access to shelter and
+supportive services for households experiencing homelessness;
+(9) the number of housing vouchers that Vermont lost in the past year, if
+the data is available; and
+(10) any anticipated challenges requiring a legislative solution.
+Sec. 7. INTERIM AND FINALNEEDS ASSESSMENT PLANS
+Prior to the enactment of the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program on July 1, 2026, the statewide
+organization serving households experiencing or that have experienced
+domestic or sexual violence and community action agencies shall conduct
+initial needs assessments in accordance with the process developed in Sec.
+6(a)(1) of this act. On or before January 15, 2026, the community action
+agencies shall submit one comprehensive progress report and the statewide
+organization shall submit a separate report to the House Committees on
+Appropriations and on Human Services and the Senate Committees on
+Appropriations and on Health and Welfare, including estimated fiscal year
+2027 budget proposals, estimated costs of administering the Program, and an
+analysis of any barriers to generating additional shelter and permanent housing
+in the region. On or before April 1, 2026, the statewide organization shall
+submit a report and the community action agencies shall submit a separate
+comprehensive report detailing the results of each region’s needs assessment
+and implementation plans, which shall not exceed the budgetary proposals
+provided in the January 15, 2026 progress report, to the House Committees on
+Appropriations and on Human Services and the Senate Committees on
+Appropriations and on Health and Welfare. The initial needs assessment
+conducted pursuant to this section shall include:
+(1) addressing progress in reducing the number of households
+experiencing homelessness in a region;
+(2) assessing the rate households placed in permanent housing return to
+homelessness and the underlying reasons;
+(3) identifying resources developed and utilized in the region to address
+homelessness and efforts to improve the equitable distribution of these
+resources in the region;
+
+(4) reporting the rate of household participation with coordinated entry
+processes and case management services;
+(5) identifying system gaps and the funding needed to address those
+gaps, including periodic inflationary adjustments; and
+(6) utilizing data, including Vermont’s Point-in-Time Count,
+coordinated entry assessment results, and community conversations.
+Sec. 8. ACCELERATED IMPLEMENTATION PATHWAY
+On or before November 1, 2025, the Department for Children and Families
+shall submit for consideration a detailed written plan, including a timeline, to
+accelerate implementation of the Vermont Homeless Emergency Assistance
+and Responsive Transition to Housing Program as part of the fiscal year 2026
+budget adjustment process to the Joint Fiscal Committee, to the House
+Committees on Appropriations and on Human Services, and to the Senate
+Committees on Appropriations and on Health and Welfare. The plan shall
+address the readiness of community providers to implement the Program prior
+to July 1, 2026, fiscal estimates for the remainder of fiscal year 2026, and an
+assessment as to whether the Program is anticipated to be operable on or
+before July 1, 2026.
+* * * Community Action Agencies * * *
+Sec. 9. 3 V.S.A. chapter 59 is amended to read:
+CHAPTER 59. COMMUNITY SERVICES ACTION AGENCIES
+§ 3901. FINDINGS AND PURPOSE
+(a) Recognizing that the economic well-being and social equity of every
+Vermonter has long been a fundamental concern of the State, it remains
+evident that poverty continues to be the lot of a substantial number of
+Vermont’s population continues to experience poverty. It is the policy of this
+the State to help develop the full potential of each of its citizens so they can
+contribute to the fullest extent possible to the life of our communities and the
+State as a whole.
+(b) It is the purpose of this chapter to strengthen, supplement, and
+coordinate efforts that further this policy through:
+(1) the strengthening of community capabilities for planning,
+coordinating, and managing federal, State, and other sources of assistance
+related to the problem of poverty;
+(2) the better organization and utilization of a range of services related
+to the needs of the poor individuals with low income; and
+
+(3) the broadening of the resource base of programs to secure a more
+active role in assisting the poor individuals with low income from business,
+labor, and other groups from the private sector.
+§ 3902. OFFICE OF ECONOMIC OPPORTUNITY
+(a) The Director of the Office of Economic Opportunity is hereby
+authorized to allocate available financial assistance for community services
+action agencies and programs in accordance with State and federal law and
+regulation.
+(b) The Director may provide financial assistance to community services
+action agencies for the planning, conduct, administration, and evaluation of
+community service action programs to provide a range of services and
+activities having a measurable and potentially major impact on causes of
+poverty in the community or in areas of the community where poverty is a
+particularly acute problem. Components of those services and activities may
+involve, without limitation of other activities and supporting facilities designed
+to assist low income participants with low income:
+(1) to secure and retain meaningful employment;
+(2) to obtain adequate education;
+(3) to make better use of available income;
+(4) to provide and maintain adequate housing and a suitable living
+environment have access to safe, secure, permanent housing;
+(5) to obtain prevention, intervention, treatment, and recovery services
+for the prevention of narcotics addiction, alcoholism, and for the rehabilitation
+of narcotic addicts and alcoholics individuals with substance use disorder;
+(6) to obtain emergency assistance through loans and grants to meet
+immediate and urgent individual and family needs, including the need for
+health services, nutritious food, housing, and unemployment-related assistance;
+(7) to remove obstacles and solve personal and family problems which
+that block achievement of self-sufficiency;
+(8) to achieve greater participation in the affairs of the community;
+(9) to make more frequent and effective use of other programs related to
+the purposes of this chapter; and
+(10) to coordinate and establish linkages between governmental and
+other social service programs to assure ensure the effective delivery of such
+services to low-income persons; with low income and to encourage the use of
+entities in the private sector of the community in efforts to ameliorate poverty
+in the community.
+
+(c) The Director is authorized to adopt rules pursuant to chapter 25 of this
+title appropriate to the carrying out of this chapter and the purposes thereof.
+§ 3903. DESIGNATION OF AGENCIES TO PROVIDE SERVICES AND
+ACTIVITIES TO AMELIORATE OR ELIMINATE POVERTY
+The Director shall designate private nonprofit community based
+community-based organizations who that have demonstrated or who that can
+demonstrate the ability to provide services and activities as defined in
+subsection 3902(b) of this title as community services action agencies.
+§ 3904. COMMUNITY SERVICES ACTION AGENCY PLAN
+Each designated community services action agency shall determine the need
+for activities and services within the area served by the agency and shall
+thereafter prepare a community services plan which that describes the method
+by which the agency will provide those services. The plan shall include a
+schedule for the anticipated provision of new or additional services and shall
+specify the resources which that are needed by and available to the agency to
+implement the plan. The community services plan shall be completed every
+three years and updated annually. The plan shall include the regional needs
+assessment required under 33 V.S.A. § 2209.
+§ 3905. COMMUNITY SERVICES ACTION AGENCIES;
+ADMINISTRATION
+(a) Each community services action agency shall administer its programs
+as set out in the community services plan and as approved by its board of
+directors.
+(b) Each board of a nonprofit community based community-based
+organization that is designated a community services action agency under
+section 3903 of this chapter shall have an executive committee of not more
+than seven members who shall be representative of the composition of the
+board and the board shall be so constituted that:
+* * *
+(2) one-third of the members of the board are persons chosen in
+accordance with election procedures adequate to assure ensure that they are
+representative of the poor individuals with low income in the area served; and
+(3) the remainder of the members of the board are officials or members
+of business, industry, labor, religious, welfare, education, or other major
+groups and interests in the community.
+(c) Each member of the a board selected to represent a specific geographic
+area within a community shall reside in the area he or she the member
+represents. No person selected under subdivisions (2) or (3) of subsection (b)
+as a member of a board shall serve on such board for more than five
+
+consecutive years, or more than a total of 10 years Each board shall adopt term
+limits to govern its members.
+* * * Appropriations * * *
+Sec. 10. APPROPRIATION; TRANSITION PLANNING
+In fiscal year 2026, $10,000,000.00 of one-time funding is appropriated
+from the General Fund as follows:
+(1) $5,085,000.00 to the Department for Children and Families to plan
+for the implementation of the Vermont Homeless Emergency Assistance and
+Responsive Transition to Housing Program as needed, which may be
+distributed to entities such as the community action agencies;
+(2) $400,000.00 to the Department for Children and Families for
+distribution to the statewide organization serving households experiencing or
+who have experienced domestic or sexual violence;
+(3) $515,000.00 to the Department of Health for distribution to Bridges
+to Health for services to individuals who are experiencing homelessness or at
+risk of becoming homeless;
+(4) $1,000,000.00 to the Department for Children and Families for the
+distribution of grants to municipalities planning and implementing services for
+households that are at risk of homelessness or experiencing homelessness, in
+collaboration with the community action agency serving a municipality’s
+region; and
+(5) $3,000,000.00 to the Department for Children and Families to
+enhance capacity for the creation and expansion of emergency shelters and
+permanent supportive housing capacity, a subset of which shall be distributed
+to the Vermont Housing and Conservation Board for infrastructure investments
+and administered in consultation with the Department to ensure new
+investments are paired with appropriate support services.
+Sec. 11. FUTURE APPROPRIATIONS; LEGISLATIVE INTENT
+It is the intent of the General Assembly that:
+(1) in fiscal year 2027 and thereafter, funds and resources previously
+appropriated for General Assistance emergency housing be redesignated for
+the Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program pursuant to 33 V.S.A. chapter 22; and
+(2) in fiscal year 2028 and thereafter, funds and resources previously
+appropriated for the Housing Opportunity Grant program be redesignated for
+the Vermont Homeless Emergency Assistance and Responsive Transition to
+Housing Program pursuant to 33 V.S.A. chapter 22.
+
+Sec. 12. TRANSITION; HOUSING OPPORTUNITY GRANT PROGRAM
+As part of its fiscal year 2028 budget presentation, the Department for
+Children and Families shall present a plan for transitioning Housing
+Opportunity Grant Program funding and duties to the Vermont Homeless
+Emergency Assistance and Responsive Transition to Housing Program
+established in 33 V.S.A. chapter 22.
+* * * Effective Dates * * *
+Sec. 13. EFFECTIVE DATES
+This act shall take effect on July 1, 2025, except that:
+(1) Secs. 4 (Vermont Homeless Emergency Assistance and Responsive
+Transition to Housing Program) and 9 (community action agencies) shall take
+effect on July 1, 2026;
+(2) Sec. 5 (Vermont Homeless Emergency Assistance and Responsive
+Transition to Housing Program) shall take effect on July 1, 2027; and
+(3) the Department for Children and Families shall commence the
+rulemaking process prior July 1, 2026 in order to have rules in place on that
+date.
+
+[DELETED: eplofa.9natrgtoteVtHsEyAeaeTntoHgPeSepstoteHetoadteblbysgotalaeegceadiginlutftef**FsadLeIt**.1.FeGlAyfst)agtoteU.DtofHgadUs24AlHsAtR,Vthefhhtreofhsin24intt53ofey1saeegh,whoyH,NwY,aneghrr)in2,agtoteseAlHsA,51ofey10Vsweegh)agtoteVt24PeC,tewy38udisinV,whrsa3tieorte10udisprtoteCcin2)ofte38udisinVtidbytt24PeC,16edu,whistehtctofudhsinVtwnteptd)agtoteVt24PeC,or3tofteVseghsweudfetnoeyrador72ptweudfrmetn90d)agtoteVt24PeC,77oftseghswecnadyhur18yfaead66we55ysofaeoro)agtoteVt24PeC,Bsae56tsmelytobeudascdtow)te24VtHgNsAtnstt3yhsaendinVtbn2,35ofwhadtoash]
+[DELETED: )te24VtHgNsAtnstt“folVtrsaec,adorpymetn5]oftrieonhgc,pgtmathhrko”wh“shdbyVsrlvyreof,whiswlbwte5[]reofahym;a)se2,teVtHgadCnBdhd10nwsyhpusad29nws.2.LEI)ItisteitofteGlAyttudheedadtthsinVtber,b,a)ItisteitofteGlAyttteVtHyAeadReTntoHgPdin33V.cr22isasptdegt)hsberdinVtadimssbeaetopeasepytopthralVsegh,igsesrorislginudh)Vtietesyofeysraswlatsehgttmstescnsofi)cycsofalsrtsaeidincm)tel,nts,rnbnims,adordsinhgsybeedtotee)Vseyhgs,r,p,pdpsbemdonHgFtpswea)nesrbeudtoteetp;a)VtrereonteitueofhladmstosrpghsadedteueofesttteSefrtsp)ItisteitofteGlAyttteVtHyAeadReTntoHgPdin33V.cr22rstepnofegthteGlAePmedin33Vr21bginflyr27adteHgOyGmbginflyr2]
+[DELETED: **VtHsEyAeadReTntgP;EeJy1,25**.3.33V.cr22isadtorR2.VTHSEYADRETNTOHGP.STTePmedintscrmybecdas“”oe“HP.PtistepeofteGlAyt)retepnofeyhgthteGePmedincr21oftsteaduefsaspyadtotsp,adayoridSdflm,tofdteVtHsEyAeaeTntoHgPmedintsc)rereonteitueofhladmlrstrpghsadedteueofeystteSefrtsp;a)atinmghgfrhsakofhdtnhseghstopth.Dsudintsc)“kofh”mspyhdwti,r,orsttopth)“yana”msanayddpo3V.cr5)“ds”msasrttmstsssfrteonofs)“”msteDtfrCnadF)“ewre”mseehtorcdtsore,shash,f,orb,ttcscsfrorhnbyh)“”m)lgaf,r,adaener)fgitlsofpyner]
+[DELETED: )fgoragtofedcv;o)oeddashsurfll)“”msaniladaydsfrwmtlislyrewoaeddinVtaseyanittodlinVtadtorntoVtift,cdwhanatorasctwhtti.“sisworetrasoeecu,igtoaem,pstoaclu,oru)“dh”mssginalnndfroroyudasarrsga.RLAYC)Ehcyanayslcearlalwempr,toteetp,tegyagV,igiswoaeB,IdPsofC,aswlaswhrstoscscl,g,sli,addys.Msonayclslieospgssint,teD,adrsofteAyadetofteA,asn.Arlayclmewhiswhldeeofhyp,Sep,hgp,llh,sehso,psofc,csofc,fdo,admsintnsdbytecyana)EhrlayclslpeaeastotecyanayinisrnrgtnadinofteP.Tewkofehryclslbeidbyrlpgc’h)Ehrlayclslmtonatltaqyb)TerlaycsslhetelladttofteD**VtHsEyAeadReTntgP;EeJy1,26**.4.33V.cr22isadtorR2.VTHSEYADRETNTOHGP*]
+[DELETED: .Dsudintsc*)“yana”msanayddpo3V.cr59orteeyoresoeadbyttpttosn25oftscrtofltedsofyanayurtsc*.E;VTHSEEADRETNTOHeVtHsEyAeadReToHgPmisedinteDttopesststtaehsoratrkofbgh,toteese)TeDtslstaderioanatwheontthspcseeeteorcetobepdsessadsrtotsttaeegorttheeddcors)AlorpghsslbesdbyorthyanayrefragydtrnoeS.CyanaspgintePmseorcetobepdses,eewre,adeys.ANP;RNR)TeDtslstaderioanatwheontopeorcetobepdsesdsrtotehsttaeegorttheecorslv.TeDtslctrrrsoeseontoeecewhtsc.TeonmybesttoceasbyteD,wntectofadr,itnolrmstsoftscrorhsfdtoaymttensosttaeegorttheeddcors.Ifteseonctflisrsusc,teDtslwkwhareytoeetttsntagpins]
+[DELETED: )TeDtslaeacyanaytosrcetobesdhsttaehsoratrkofbsinagydtrnofteSeifitmstecntss.Ifacyanayctflisrrtsc,teDtslwkwhorcyasororaecyestoeettteisntpinssinacyanasr)Acyanaypgorcgtopesnaewhtscrslh)egorpdietosthsint,iganedlpt,ahnrss,aeaytoregtfgadies)teaytomtteDsrgrghgapthyofrgc)tecytopmtecessrdpttn26oftsc)tecytoskadatcec,gdssofv,igm,c,adf)ayoemsedintsc)cycswhorpsintergllhgc,hgp,psofc,csofc,fdo,adpsofsoiswoaeorV;iswohed,eued,oramlhhc;isrgtyari;istgfmteceayofteCrfrCnadF;adfsw;a)teaytopepnlecstsrgs)Ntlstneytey,teDtslctnrwofehcyanaypgorcopesspttotsc.AnonmybestteasbyteDti,wntectofa,itnolrmstersinsn()oftnorhsfdtoaymttensofhsininttaehsoratrkofh.LkofcemtinteDtdgnttoretecya.TeDtmyrwpsofaypyreasadmyrwcyanaypnrnr]
+[DELETED: .VHCES)TeDtslerioanatwhasnwhpceesghsttagorttheeddcorslv.Tnslpeorcetobepdvssradctssttsth)Ehcyanayslororcetobeo,inwhcyp,ehoftefgsswsr)ses,i)ieasadssfrdnfmhhslierlies)hdnsa)idhdpstoasidn)hgnnadrns)aeogadrgh,igf)lto,e,adctr)nntoorssadssasidintshgp,igecb,p,jbtgadets,ssrdtodditl,adrltohhceaeshastrmlhhcsadseuedraspdbytdadsdssasadpdp)a;a)psmgadi;a)teonofeewrets,whmyidceasadmybepdtswhmsorore,ugaedaaggcastopefgfrtsp;a)teonofeyssinamrttbsuntyrdcypgpsadpshsidoftessofaneys,whmyiecds,tyueofhsorm,leasfrflolueofanegb,ncsra,m]
+[DELETED: tl,tedtofsrc,ororasosofasttcywhteitoftsc.UEOFHLADMLR)ItisteitofteGlAytodereonhdmlrsfreyh.A,assrcsinehrnofteS,teueofhladmlrsfyhginttrnsld.A,asptoftsbtp,teDtslstgsfrigc,igsrb,ptseh,ataeh,inantopdcsinteueofhladmlr.TeDtslpapgtotepeofidsrcyfmtsflyrinehrnadhwttieistghladmlrmuefreyhginenpttotssnfrtepeofigrgade)Ifhsadmsaeudtopeeysrpttsc,tehladmlosslcywhPmrdtefgr)DtofH,LdLgEtRe(;a)DtofPcS,VtFeadBgSe(R2)A,teDtslpehladmlrsasptosbtpnfralbyteGlA.AcnayslntpyorcetobepdwhSemsaprrrntbsttestereadbyteGlA)Ifahlormlisbgu,acyana)slerioasfrteueofbsofhladmsadnetecsofuefrteb,igarpsofcemtororses)slpeteueofhladmlrmasolprr,prnthlormlrmu,usitisnetoahsn;a)myuescpstoteetcnpsatidfmtewrcysdthteP.V;DSOFTED]
+[DELETED: )TeDtadteAyofHnSsslheryfrmgteitoftsc,iep,smd,pgaef,adttofalteAsd)FrtepeofpgaeotadmftePmedintsc,teDts)mngergwneewresslbeo,igfyfrrlwrc)mnawewhtelsofaleewts)ieasptofayrwofacyanayrtto3V.cr59tecyanasaytmtersoftsc)ctwhtecyanasadtesnsghsttaeegorttheecorslvetodpaereasasfratttteioataed,tepeodp,adcyreanmci,reofh,rlvyr,ado,asa;a)a,defgtoehcyanadteseonsghsttaeegorteeddcorslveugteanfdpttosn()oftssn(,orifttadcyanasa,deajtaralcyana,whtecyanassehwtodeatt)pestadtlaetotecya,orcyp,adteseonssttaeegorttheeddcors)iyscaersttcdbetocyo)dpadmnssfrtecessldins6oftsc,igteonofcds;a)atrsptto3V.cr2,incnwhtyanasadteseonsghtaeegorttheeddcorslv,a]
+[DELETED: ,frteinoftsc,igariswhad.RLP;NSA)Asptoftepnrdeyteysptto3V4adtefyrdpgadnsasfrtsofc,tecyanassldparsatadpgp,incnwhcyaep,frueinehcyanasrntoiepsaghgadhsinehrnofteSerlnsatadpgpspssli)agpsinrgtenrofhghsinar)agterehspdinpthgrntsadteugr)igrsddadudinterntoasadestoieteeednoftsinter)rgtereofhdpnwhcdesadcemts)igsmgsadtefgndtoast,igpciya;a)ugd,igVsPeCdeyatr,adcyc)Eytey,ehcyanayslstpdpttotssntoteDtinaftpdbeD.Unrtoftep,teDtslcersoftersadsttecdrttoteHeonHnSsadtoteSeCeonHha.RGRnorbeteltdyofeytdm,teDtslsr,incnwhtecyanasadtesnsghsegdcorslv,teHeCeonHnS,teSeCeonHdW,adteJtFlCea)tenrofhssdthteP,byhea,ifa,byeyc,r,sep,aeofs]
+[DELETED: )tenrofhdmsedonapeadfebsadtenrofhdmsrgSyIeorSlSydyi)csincyfrsrb,ngh,adrehssetepsrgp)tenrofdsmedgtepsrgp)tenrofhsweieatidlndfrssfmehdtwnteA)tenrofhstthebnsytdtthgsetepsrgp,tetsofhsinwhtyhebnp,adaysesstyagincnwhtrh)tenrofhsttmybetdtopgintecgm)aySersadllrsadosttagtetydtofs,d,aehgitcsinort)iyasinwhfyordnaea;a)aewrtetysnofrtSerdllrsado,orteanoratofS,wdfefradlscyrnofeghdcnofnwhgu;a)aniyofalssidbyteseoghsegorwoheeddcorseadbyehcyana42.RLAYC)Ehcyanayslcearlalwempr,toteetp,tegyagV,igiswoaeB,IdPsofC,aswlaswhrstoscscl,g,sli,addys.Msonayclslieospgssint,teD,adrsofteAyadetofteA,asn.Arlayclmewhiswhldeeofhyp,Sep,hgp,llh,sehso,psofc,csofc,fdo,admsintnsdbytecyana]
+[DELETED: ***VtHsEyAeadReTntgP;EeJy1,27**.5.33V.§2isadtor.PtistepeofteGlAyt)retepnofeyhgthteGePmedincr21oftsteadteHyGtPmaduefsadrspyaotep,adayoridSeadflm,tofeVtHsEyAeadReTntgPmedintsc;a)rereonteueofhladmlrstosghsadedteueofeyssteSefrtsp**InPgadIlRlAs**.6.VHINP)OnorbeOr1,2,teDtfrCna,incnwhtecyana,adteonsghsttaeegortthddcorslv,slstteftoftownpstoteHeCeonHnS,teSeonHhadW,adteJtFlCeogilpsfrteinofteVtHsEeadReTntoHgPmedby3.cr22onorbeJy1,2.S,tefnpnsli)apsttcyana,incnwht,sluetoctryogrlnsaddpferlp,igcnoln)rdpemstoeetecnasadteseonsghsttagorttheeddcorslveincttrdsur33V.cr2,i)tepnofaypyaduninteteDttoeetesspdthgtf]
+[DELETED: eetonhsrgs,adanagofetf;a)pemsttmybesctoaninofteSeorp)rdeyfrehoftessodth3.cr2)gergwneewretssslb,igfyfrrlwrc)atefrteinofcessldin33V6frteftsxmsofflyr2)rdieadatpstodesradssfrhsbdonPme)ardpstoeeanugcyaytootofpnintePminamrttgsteaen)OnorbeJy1,2,teDtfrCna,incnwhtecyana,rycsedptto33V.§,adtesnsghsttaeegorttheecorslv,slsttesdoftownpstoteHeCeonHnSsadteCeonHhadWeogisilpsfrtnofteVtHsEyAeaeTntoHgPmedby33V.c2onorbeJy1,2.S,tesdinpliersontef)fgasagtecyanasado,igfrsssctohsttaeerttheeddcorslv)alSeadflfgadorrsirteP)eganaspsttisahgbetnSsBdadanonfranedasp)tereof21wnteies)wrastoalorsesssdieaneghdpnincemtssorosshasntlsonteueofhsadm,a,ifs]
+[DELETED: tesadinwtcspnincemsororessdbea)wrteueofeysrsdief,a,ifs,wtttpnsdi)wrieadatpssdievfr,h,adhdi)hwtobteettteiseeastosraessfrhsegh)tenrofhgvsttVtltintepty,iedaisa;a)ayadcsrgales.7.IMADFLNSATPrtoteetofteVtHsEyAeaeTntoHgPmonJy1,2,tesnsghsegorttheecorslveadcyanasslclnsasinaewhtepsddinS)oftsa.OnorbeJy1,2,tecyasslstoecepsrtadtesnslstaserttoteHeCsosadonHnSsadteSeCsosadonHhadW,igedfly7btp,edcsofagteP,adasofaybstoggalsradpthnter.OnorbeAl1,2,teseonstartadtecyanasslstasertdgtersofehrsnsadinp,whslntedtebypdinteJy1,26psr,toteHeCsosadonHnSsadteSeCsosadonHhadW.Teilnsadpttotssnsli)agpsinrgtenrofhghsinar)agterehspdinpthgrntsadteugr)igrsddadudinterntoasadestoieteeednoftsinter]
+[DELETED: )rgtereofhdpnwhcdesadcemts)igsmgsadtefgndtoast,igpciya;a)ugd,igVsPeCdeyatr,adcyc.8.ADINPnorbeNr1,2,teDtfrCnadFlstfrcnaddwnp,igat,teinofteVtHsEyAdReTntoHgPmasptofteflyr2tatpstoteJtFlC,toteHsonAsadonHnS,adtoteSsonAsadonHhadW.TepnsstersofcypstoittePmpoJy1,2,flesfrterrofflyr2,adatastowrtePmisadtobeoeonoeJy1,2**CyAnAs**.9.3V.cr59isadtorR5.CYSSANA3.FSADP)RgttteecwgadsleyoferhslgbnaflcnofteS,itrtttpycstobeteltofaslnrospncstoeep.ItistepyofteSetohpdpteflplofehofiscssotycetoteftetpetoteleoforcsadteasaw)Itistepeoftscrtos,s,aeesttfrtspyt)tesgofcycsfrp,admgf,S,adorssofadtotepmofp)tebronadunofareofssrotensoftepriswhlwi;a]
+[DELETED: )tebgofterebeofpstoseamereinagtepriswhlwiefmb,adorgsfmtepes3.OEOFECO)TeDrofteOeofEcOyishdtoaeaeflaefrcysnasadpsinaewhSeadfllwa)TeDrmypeflaetocysnasfrtep,c,a,adenoyseanpstopeareofssashgameadpymritoncsoyintecyorinasoftecywepyisyaep.Csoftessadasm,wtlnoforasadsgfsdoatlwiepswhlwi)toseadrnmle)toonaee)tomebrueofaei)topeadmnaehgadaseltheastos,s,pth)toonp,i,t,adrysrtepnofnsa,a,adfrterfncasadasiswhseued)tooneyaethlsadgstomeadutiladfyn,igtendfhs,nsf,h,aduda)toreosadsepladfypswtbkatofs)toaegrpninteasoftec)tomemeftadeeueoforpsrdtepsoftsc;a)toceadehlsbnglarslsepstoaeeeteeedyofsstolep;whlwieadtoeeteueosintepesroftecyinestoaepntec]
+[DELETED: )TeDrisadtoatrspttocr25ofteaetotecgotoftscradtepst3.DNOFASTOPESSASTOAEOREEPeDrsldepentcybdoswottheddorwottceteaytopessadasasddin3)oftsteascyssana3.CYSSANAYPhddcyssanaysldetenrasadsswnteaasdbyteayadsrpeacysspnwhttdstemywhteaywlpetes.Tepnslieefrteadpnofnworalssadsyterswhttaendbyadaetoteaytttep.Tecysspnslbecdeeysaduda.Tepnslieterlntrdur33V.§3.CYSSANA)Ehcyssanayslarispsstotintecysspnadasadbyisbdo)Ehbdofantcybdcnttisddacyssanayun33oftscrslheaneeceofntmnsnmswoslbereoftecnoftdadtebdslbesocdt*)odoftemsoftebdaepscniewhenpsaetoaeeetttyaeoftepriswhlwieinteaas;a)terroftemsoftebdaeosormfb,i,l,r,w,e,orormsadisintec)Ehmrofteabdsdtortascgawnacyslreinteaaheorsetem.Nopnsdurss()or()ofsn(samrofabdslseonshbdfrmetnf]
+[DELETED: ey,ormetnatlof10ysEhbdslattstognism**As**.1.A;TNPnflyr2,$0ofoefgisamteGlFdasf)$0toteDtfrCnadFstoprteinofteVtHsEyAeaeTntoHgPmasn,whmybdtoesshastecyana)$0toteDtfrCnadFsfntoteseonsghsegooheeddcorslv)$0toteDtofHhfrdntoBoHhfrsstoiswoaeeghsorakofbgh)$0toteDtfrCnadFsfrtnofgstomspgadigssfsttaeatrkofhsoregh,inwhtecyanaysgam;a)$0toteDtfrCnadFstecyfrtecnadenofeyssatsehgc,astofwhslbedoteVtHgadCnBdfrieidadincnwhteDttoeensaepdwhaests.1.FEA;LEItisteitofteGlAyt)inflyr27adt,fsadrspdfrGlAeeyhgberdfeVtHsEyAeadReTntgPmptto33V.cr2;a)inflyr28adt,fsadrspdfrteHgOyGtpmberdfeVtHsEyAeadReTntgPmptto33V.cr2]
+[DELETED: .1.T;HGOYGTPsptofisflyr28btp,teDtfnadFsslptapnfrtgHyGtPmfgaddstoteVtHyAeadReTntoHgPdin33V.cr2**EeDs**.1.EEDsatslteetonJy1,2,ett)S.4(tHsEyAeadRntoHgP)ad9(yana)slttonJy1,2)S.5(tHsEyAeadRntoHgP)slteetonJy1,2;a)teDtfrCnadFsslcetgpsprJy1,26inortohersinpeont]

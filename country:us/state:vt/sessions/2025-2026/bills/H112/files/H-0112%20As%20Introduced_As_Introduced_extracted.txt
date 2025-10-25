@@ -1,0 +1,298 @@
+Title: BILL AS INTRODUCED H.112
+Official Title: BILL AS INTRODUCED H.112
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 6
+1 H.112
+2 Introduced by Representatives Black of Essex, Arsenault of Williston,
+3 Berbeco of Winooski, Birong of Vergennes, Bishop of
+4 Colchester, Bluemle of Burlington, Bos-Lun of Westminster,
+5 Brown of Richmond, Burkhardt of South Burlington, Burrows
+6 of West Windsor, Campbell of St. Johnsbury, Carris-Duncan of
+7 Whitingham, Casey of Montpelier, Cina of Burlington, Coffin
+8 of Cavendish, Cole of Hartford, Critchlow of Colchester, Demar
+9 of Enosburgh, Eastes of Guilford, Garofano of Essex, Goldman
+10 of Rockingham, Graning of Jericho, Greer of Bennington,
+11 Holcombe of Norwich, Hooper of Randolph, Hooper of
+12 Burlington, Howard of Rutland City, Hunter of Manchester,
+13 Kleppner of Burlington, Krasnow of South Burlington, LaMont
+14 of Morristown, Logan of Burlington, Long of Newfane,
+15 McFaun of Barre Town, McGill of Bridport, Mrowicki of
+16 Putney, Noyes of Wolcott, Nugent of South Burlington, O'Brien
+17 of Tunbridge, Ode of Burlington, Page of Newport City, Pouech
+18 of Hinesburg, Powers of Waterford, Rachelson of Burlington,
+19 Satcowitz of Randolph, Stevens of Waterbury, Stone of
+20 Burlington, Tomlinson of Winooski, Torre of Moretown,
+VT LEG #379996 v.1
+BILL AS INTRODUCED H.112
+2025 Page 2 of 6
+1 Waszazak of Barre City, Waters Evans of Charlotte, Wood of
+2 Waterbury, and Yacovone of Morristown
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; consumer protection; credit reporting; medical debt
+6 Statement of purpose of bill as introduced: This bill proposes to direct the
+7 State Treasurer to contract with an entity to acquire and abolish certain medical
+8 debts for Vermonters with incomes at or below 400 percent of the federal
+9 poverty level or who owe medical debt equal to five percent or more of their
+10 household income. The bill would also prohibit credit reporting agencies from
+11 reporting or maintaining information on Vermonters’ medical debt and would
+12 prohibit health care providers from reporting medical debt to credit reporting
+13 agencies.
+14 An act relating to medical debt relief and excluding medical debt from
+15 credit reports
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. STATE TREASURER; MEDICAL DEBT RELIEF;
+18 APPROPRIATION
+19 (a) The sum of $1,000,000.00 is appropriated to the State Treasurer from
+20 the General Fund in fiscal year 2026 for the purpose of contracting with a
+VT LEG #379996 v.1
+BILL AS INTRODUCED H.112
+2025 Page 3 of 6
+1 nonprofit entity to acquire and repay certain medical debts incurred by
+2 Vermont residents as set forth in this section.
+3 (b) The State Treasurer shall ensure that the entity with which the Treasurer
+4 contracts under this section will:
+5 (1) purchase the medical debt of eligible debtors from health care
+6 providers at fair market value;
+7 (2) abolish the debt with no cost or tax consequences for the debtor; and
+8 (3) coordinate with the health care provider or collections agency to
+9 ensure that any adverse information resulting from the medical debt is removed
+10 from the debtor’s consumer credit report following the contractor’s purchase
+11 and abolition of the debt.
+12 (c) In order to be eligible for repayment of medical debt under this section,
+13 the following conditions must be met:
+14 (1) the debtor shall be a Vermont resident who either has a household
+15 income that is at or below 400 percent of the federal poverty level for the
+16 applicable household size or who owes medical debt in an amount that is five
+17 percent or more of the debtor’s household income; and
+18 (2) the debtor’s patient account still maintains an outstanding balance
+19 even after the health care provider has completed its routine efforts to collect
+20 the amounts due.
+VT LEG #379996 v.1
+BILL AS INTRODUCED H.112
+2025 Page 4 of 6
+1 Sec. 2. 2022 Acts and Resolves No. 83, Sec. 53(b)(5)(B), as amended by 2022
+2 Acts and Resolves No. 185, Sec. C.102 and 2023 Acts and Resolves No. 78,
+3 Sec. E.1000, is further amended to read:
+4 (B) $20,000,000 $19,000,000 shall be appropriated to the State
+5 Treasurer’s Office and used for redeeming State of Vermont general obligation
+6 bonds prior to maturity.
+7 Sec. 3. 9 V.S.A. § 2466d is added to read:
+8 § 2466d. REPORTING OF MEDICAL DEBT INFORMATION
+9 PROHIBITED
+10 A credit reporting agency shall not report or maintain in the file on a
+11 consumer information relating to a medical debt, as defined in 18 V.S.A.
+12 § 9481.
+13 Sec. 4. 9 V.S.A. § 2480b is amended to read:
+14 § 2480b. DISCLOSURES TO CONSUMERS
+15 * * *
+16 (c) Any time a credit reporting agency is required to make a written
+17 disclosure to consumers pursuant to 15 U.S.C. § 1681g, it shall disclose, in at
+18 least 12-point type, and in bold type as indicated, the following notice:
+19 “NOTICE TO VERMONT CONSUMERS
+20 * * *
+VT LEG #379996 v.1
+BILL AS INTRODUCED H.112
+2025 Page 5 of 6
+1 (2) Under Vermont law, no one may access your credit report without
+2 your permission except under the following limited circumstances:
+3 * * *
+4 (F) where the request for a credit report is related to a credit
+5 transaction entered into prior to January 1, 1993; or
+6 (G) where the request for a credit report is by the Vermont
+7 Department of Taxes and is used for the purpose of collecting or investigating
+8 delinquent taxes; or
+9 (H) where the request for a credit report is by an organization that is
+10 exempt from taxation under Section 501(c)(3) of the Internal Revenue Code
+11 for the purpose of determining eligibility for the abolition of medical debt.
+12 * * *
+13 Sec. 5. 9 V.S.A. § 2480g is amended to read:
+14 § 2480g. EXEMPTIONS
+15 * * *
+16 (e) The provisions of section 2480e of this title shall not apply to an
+17 organization that is exempt from taxation under Section 501(c)(3) of the
+18 Internal Revenue Code when determining eligibility for the abolition of
+19 medical debt.
+VT LEG #379996 v.1
+BILL AS INTRODUCED H.112
+2025 Page 6 of 6
+1 Sec. 6. 18 V.S.A. chapter 221, subchapter 10 is amended to read:
+2 Subchapter 10. Patient Financial Assistance and Medical Debt
+3 * * *
+4 § 9485. PROHIBITION ON SALE OR REPORTING OF MEDICAL DEBT
+5 (a)(1) No large health care facility shall sell its medical debt except as
+6 provided in subdivision (2) of this subsection.
+7 (2) A large health care facility may sell or otherwise transfer its medical
+8 debt to an organization that is exempt from taxation under Section 501(c)(3) of
+9 the Internal Revenue Code for the specific purpose of the tax-exempt
+10 organization abolishing the medical debt of one or more patients by
+11 cancellation of the indebtedness.
+12 (b) No large health care facility or medical debt collector shall report or
+13 otherwise furnish any portion of a medical debt to a credit reporting agency.
+14 * * *
+15 Sec. 7. EFFECTIVE DATE
+16 This act shall take effect on July 1, 2025.
+VT LEG #379996 v.1
+[DELETED:  H P H I R B C B o W o o o H B K o M P o o S B]
+[DELETED:  H P W W R D S S S d p h r p a A c I S   ( t]
+[DELETED:  H P n V ( c ( p ( ( e f a ( t ( i a p ( e t]
+[DELETED:  H P S A S ( T b S §   A c § S   * ( d l “ *]
+[DELETED:  H P ( y * ( t ( D d ( e f * S § * ( o I m]
+[DELETED:  H P S S * § ( p ( d t o c ( o * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.112
+2025 Page 1 of 6
+1 H.112
+2 Introduced by Representatives Black of Essex, Arsenault of Williston,
+3 Berbeco of Winooski, Birong of Vergennes, Bishop of
+4 Colchester, Bluemle of Burlington, Bos-Lun of Westminster,
+5 Brown of Richmond, Burkhardt of South Burlington, Burrows
+6 of West Windsor, Campbell of St. Johnsbury, Carris-Duncan of
+7 Whitingham, Casey of Montpelier, Cina of Burlington, Coffin
+8 of Cavendish, Cole of Hartford, Critchlow of Colchester, Demar
+9 of Enosburgh, Eastes of Guilford, Garofano of Essex, Goldman
+10 of Rockingham, Graning of Jericho, Greer of Bennington,
+11 Holcombe of Norwich, Hooper of Randolph, Hooper of
+12 Burlington, Howard of Rutland City, Hunter of Manchester,
+13 Kleppner of Burlington, Krasnow of South Burlington, LaMont
+14 of Morristown, Logan of Burlington, Long of Newfane,
+15 McFaun of Barre Town, McGill of Bridport, Mrowicki of
+16 Putney, Noyes of Wolcott, Nugent of South Burlington, O'Brien
+17 of Tunbridge, Ode of Burlington, Page of Newport City, Pouech
+18 of Hinesburg, Powers of Waterford, Rachelson of Burlington,
+19 Satcowitz of Randolph, Stevens of Waterbury, Stone of
+20 Burlington, Tomlinson of Winooski, Torre of Moretown,
+VT LEG #379996 v.1
+
+BILL AS INTRODUCED H.112
+2025 Page 2 of 6
+1 Waszazak of Barre City, Waters Evans of Charlotte, Wood of
+2 Waterbury, and Yacovone of Morristown
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; consumer protection; credit reporting; medical debt
+6 Statement of purpose of bill as introduced: This bill proposes to direct the
+7 State Treasurer to contract with an entity to acquire and abolish certain medical
+8 debts for Vermonters with incomes at or below 400 percent of the federal
+9 poverty level or who owe medical debt equal to five percent or more of their
+10 household income. The bill would also prohibit credit reporting agencies from
+11 reporting or maintaining information on Vermonters’ medical debt and would
+12 prohibit health care providers from reporting medical debt to credit reporting
+13 agencies.
+14 An act relating to medical debt relief and excluding medical debt from
+15 credit reports
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. STATE TREASURER; MEDICAL DEBT RELIEF;
+18 APPROPRIATION
+19 (a) The sum of $1,000,000.00 is appropriated to the State Treasurer from
+20 the General Fund in fiscal year 2026 for the purpose of contracting with a
+VT LEG #379996 v.1
+
+BILL AS INTRODUCED H.112
+2025 Page 3 of 6
+1 nonprofit entity to acquire and repay certain medical debts incurred by
+2 Vermont residents as set forth in this section.
+3 (b) The State Treasurer shall ensure that the entity with which the Treasurer
+4 contracts under this section will:
+5 (1) purchase the medical debt of eligible debtors from health care
+6 providers at fair market value;
+7 (2) abolish the debt with no cost or tax consequences for the debtor; and
+8 (3) coordinate with the health care provider or collections agency to
+9 ensure that any adverse information resulting from the medical debt is removed
+10 from the debtor’s consumer credit report following the contractor’s purchase
+11 and abolition of the debt.
+12 (c) In order to be eligible for repayment of medical debt under this section,
+13 the following conditions must be met:
+14 (1) the debtor shall be a Vermont resident who either has a household
+15 income that is at or below 400 percent of the federal poverty level for the
+16 applicable household size or who owes medical debt in an amount that is five
+17 percent or more of the debtor’s household income; and
+18 (2) the debtor’s patient account still maintains an outstanding balance
+19 even after the health care provider has completed its routine efforts to collect
+20 the amounts due.
+VT LEG #379996 v.1
+
+BILL AS INTRODUCED H.112
+2025 Page 4 of 6
+1 Sec. 2. 2022 Acts and Resolves No. 83, Sec. 53(b)(5)(B), as amended by 2022
+2 Acts and Resolves No. 185, Sec. C.102 and 2023 Acts and Resolves No. 78,
+3 Sec. E.1000, is further amended to read:
+4 (B) $20,000,000 $19,000,000 shall be appropriated to the State
+5 Treasurer’s Office and used for redeeming State of Vermont general obligation
+6 bonds prior to maturity.
+7 Sec. 3. 9 V.S.A. § 2466d is added to read:
+8 § 2466d. REPORTING OF MEDICAL DEBT INFORMATION
+9 PROHIBITED
+10 A credit reporting agency shall not report or maintain in the file on a
+11 consumer information relating to a medical debt, as defined in 18 V.S.A.
+12 § 9481.
+13 Sec. 4. 9 V.S.A. § 2480b is amended to read:
+14 § 2480b. DISCLOSURES TO CONSUMERS
+15 * * *
+16 (c) Any time a credit reporting agency is required to make a written
+17 disclosure to consumers pursuant to 15 U.S.C. § 1681g, it shall disclose, in at
+18 least 12-point type, and in bold type as indicated, the following notice:
+19 “NOTICE TO VERMONT CONSUMERS
+20 * * *
+VT LEG #379996 v.1
+
+BILL AS INTRODUCED H.112
+2025 Page 5 of 6
+1 (2) Under Vermont law, no one may access your credit report without
+2 your permission except under the following limited circumstances:
+3 * * *
+4 (F) where the request for a credit report is related to a credit
+5 transaction entered into prior to January 1, 1993; or
+6 (G) where the request for a credit report is by the Vermont
+7 Department of Taxes and is used for the purpose of collecting or investigating
+8 delinquent taxes; or
+9 (H) where the request for a credit report is by an organization that is
+10 exempt from taxation under Section 501(c)(3) of the Internal Revenue Code
+11 for the purpose of determining eligibility for the abolition of medical debt.
+12 * * *
+13 Sec. 5. 9 V.S.A. § 2480g is amended to read:
+14 § 2480g. EXEMPTIONS
+15 * * *
+16 (e) The provisions of section 2480e of this title shall not apply to an
+17 organization that is exempt from taxation under Section 501(c)(3) of the
+18 Internal Revenue Code when determining eligibility for the abolition of
+19 medical debt.
+VT LEG #379996 v.1
+
+BILL AS INTRODUCED H.112
+2025 Page 6 of 6
+1 Sec. 6. 18 V.S.A. chapter 221, subchapter 10 is amended to read:
+2 Subchapter 10. Patient Financial Assistance and Medical Debt
+3 * * *
+4 § 9485. PROHIBITION ON SALE OR REPORTING OF MEDICAL DEBT
+5 (a)(1) No large health care facility shall sell its medical debt except as
+6 provided in subdivision (2) of this subsection.
+7 (2) A large health care facility may sell or otherwise transfer its medical
+8 debt to an organization that is exempt from taxation under Section 501(c)(3) of
+9 the Internal Revenue Code for the specific purpose of the tax-exempt
+10 organization abolishing the medical debt of one or more patients by
+11 cancellation of the indebtedness.
+12 (b) No large health care facility or medical debt collector shall report or
+13 otherwise furnish any portion of a medical debt to a credit reporting agency.
+14 * * *
+15 Sec. 7. EFFECTIVE DATE
+16 This act shall take effect on July 1, 2025.
+VT LEG #379996 v.1
+
+[DELETED:  H P H I R B C B o W o o o H B K o M P o o S B]
+[DELETED:  H P W W R D S S S d p h r p a A c I S   ( t]
+[DELETED:  H P n V ( c ( p ( ( e f a ( t ( i a p ( e t]
+[DELETED:  H P S A S ( T b S §   A c § S   * ( d l “ *]
+[DELETED:  H P ( y * ( t ( D d ( e f * S § * ( o I m]
+[DELETED:  H P S S * § ( p ( d t o c ( o * S T]

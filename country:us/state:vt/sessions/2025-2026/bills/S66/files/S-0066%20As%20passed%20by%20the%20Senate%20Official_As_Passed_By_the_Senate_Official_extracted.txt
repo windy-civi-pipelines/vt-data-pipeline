@@ -1,0 +1,580 @@
+Title: BILLAS INTRODUCED AND PASSED BY SENATE S.66
+Official Title: BILLAS INTRODUCED AND PASSED BY SENATE S.66
+Number of Sections: 5
+Source: versions - As Passed By the Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 10
+1 S.66
+2 Introduced by Senators White, Clarkson, Gulick, Major and Watson
+3 Referred to Committee on Transportation
+4 Date: February 11, 2025
+5 Subject: Motor vehicles; noise; exhaust; exhaust system modification; engine
+6 compression brakes
+7 Statement of purpose of bill as introduced: This bill proposes to establish
+8 limits for noise from motor vehicles; to prohibit the modification of vehicle
+9 exhaust systems in a manner that results in excess noise or smoke emissions;
+10 and to prohibit the use of engine compression brake devices without a muffler.
+11 An act relating to motor vehicle noise, exhaust modifications, and engine
+12 compression brakes
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 23 V.S.A. § 1221 is amended to read:
+15 § 1221. CONDITION OF VEHICLE; EXCESSIVE NOISE
+16 (a) A motor vehicle, operated on any highway, shall be in good mechanical
+17 condition and shall be properly equipped.
+18 (b)(1) An individual shall not operate on a highway a motor vehicle
+19 equipped with a muffler lacking interior baffle plates or other effective
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 2 of 10
+1 muffling devices, a gutted muffler, a muffler cutout, a straight pipe exhaust, or
+2 a device or modification that amplifies the noise emitted by the vehicle.
+3 (2) An individual shall not operate on a highway a motorcycle
+4 manufactured after December 31, 1985 that is not labeled in compliance with
+5 40 C.F.R. § 205.158 and equipped with a muffler that meets the requirements
+6 of 40 C.F.R. § 205.169.
+7 (3) The prohibition of subdivisions (1) and (2) of this subsection shall
+8 not apply when a motor vehicle or motorcycle is operated in a race, contest, or
+9 demonstration of speed or skill at an authorized public exhibition held in
+10 accordance with applicable State or municipal law and land use permits.
+11 (c) An individual shall not operate a motor vehicle with an exhaust system
+12 that has been modified when the result of that modification is the emission of
+13 increased exhaust fumes or smoke.
+14 (d)(1) A motor vehicle equipped or modified as described in subdivision
+15 (b)(1) of this section or that has been modified as described in subsection (c)
+16 of this section shall not pass an inspection required under section 1222 of this
+17 title.
+18 (2) A motorcycle that does not meet the requirements of subdivision
+19 (b)(2) of this section shall not pass an inspection required under section 1222
+20 of this title.
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 3 of 10
+1 (e)(1) An individual who violates subsection (b) or (c) of this section shall
+2 be subject to a civil penalty of not less than:
+3 (A) $100.00 for a first violation;
+4 (B) $200.00 for a second violation; and
+5 (C) $350.00 for a third or subsequent violation.
+6 (2) Penalties collected pursuant to the provisions of this subsection shall
+7 be deposited in the Transportation Fund and used for costs related to enforcing
+8 the provisions of this section and sections 1260 and 1309 of this chapter.
+9 Sec. 2. 23 V.S.A. § 1260 is added to read:
+10 § 1260. MOTOR VEHICLE SOUND LIMITS
+11 (a) A person shall not operate or cause to be operated on a highway any
+12 motor vehicle or combination of vehicles with a gross vehicle weight rating of
+13 10,000 pounds or less, except a motorcycle, with a sound level in excess of:
+14 (1) when the motor vehicle or combination of vehicles is traveling at 35
+15 miles per hour or less, 72 decibels on the A scale at 50 feet; and
+16 (2) when the motor vehicle or combination of vehicles is traveling at
+17 more than 35 miles per hour, 80 decibels on the A scale at 50 feet.
+18 (b) A person shall not operate or cause to be operated on a highway any
+19 motor vehicle or combination of vehicles with a gross vehicle weight rating of
+20 more than 10,000 pounds with a sound level in excess of:
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 4 of 10
+1 (1) when the motor vehicle or combination of vehicles is traveling at 35
+2 miles per hour or less, 80 decibels on the A scale at 50 feet; and
+3 (2) when the motor vehicle or combination of vehicles is traveling at
+4 more than 35 miles per hour, 87 decibels on the A scale at 50 feet.
+5 (c)(1) For purposes of determining compliance with the provisions of
+6 subsections (a) and (b) of this section, a law enforcement office may measure a
+7 vehicle’s sound level with a sound meter, noise camera, or other appropriate
+8 device approved by the Secretary of Transportation by rule.
+9 (2) Measurements taken pursuant to subdivision (1) of this subsection
+10 from a distance other than 50 feet shall be adjusted to determine the equivalent
+11 sound level at 50 feet.
+12 (d)(1) The Secretary of Transportation shall adopt rules pursuant to the
+13 provisions of 3 V.S.A. chapter 25 as necessary to implement the provisions of
+14 this section.
+15 (2) The Secretary of Transportation shall establish a training program
+16 for law enforcement officers regarding procedure for measuring vehicle sound
+17 and the proper use of sound level measurement devices.
+18 (e)(1) A person who violates subsection (a) or (b) of this section shall be
+19 subject to a civil penalty of not less than:
+20 (A) $100.00 for a first violation;
+21 (B) $200.00 for a second violation; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 5 of 10
+1 (C) $350.00 for a third or subsequent violation.
+2 (2) Penalties collected pursuant to the provisions of this subsection shall
+3 be deposited in the Transportation Fund and used for costs related to enforcing
+4 the provisions of this section and sections 1221 and 1309 of this chapter.
+5 Sec. 3. 23 V.S.A. § 1309 is added to read:
+6 § 1309. ENGINE COMPRESSION BRAKE DEVICES; REQUIREMENTS
+7 (a)(1) An individual shall not operate a motor truck or truck tractor
+8 equipped with an engine compression brake device unless the motor truck or
+9 truck tractor is also equipped with a muffler to prevent excessive noise from
+10 the device.
+11 (2) It shall not be a violation of subdivision (1) of this section to use an
+12 engine compression brake device in a motor truck or truck tractor that is not
+13 equipped with a muffler to prevent excessive noise from the device if the
+14 device is used to slow down or stop the motor truck or truck tractor in an
+15 emergency.
+16 (b) A motor truck or truck tractor that is equipped with an engine
+17 compression brake device but is not equipped with a working muffler to
+18 prevent excessive noise from the device shall fail inspection pursuant to
+19 section 1222 of this title.
+20 (c)(1) An individual who violates subdivision (a)(1) of this section shall be
+21 subject to a civil penalty of not less than:
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 6 of 10
+1 (A) $250.00 for a first violation;
+2 (B) $500.00 for a second violation; and
+3 (C) $750.00 for a third or subsequent violation.
+4 (2) Penalties collected pursuant to the provisions of this subsection shall
+5 be deposited in the Transportation Fund and used for costs related to enforcing
+6 the provisions of this section and sections 1221 and 1260 of this chapter.
+7 (d) As used in this section, “engine compression brake device” means a
+8 device that slows a motor truck or truck tractor by utilizing engine
+9 compression and the release of compressed air. “Engine compression brake
+10 device” includes compression brakes, decompression brakes, engine
+11 compression release brakes, “Jake” brakes, and “Jacobs” brakes.
+12 (e) Nothing in this section shall be construed to prevent a municipality
+13 from adopting an ordinance that prohibits the operation of engine compression
+14 brake devices within the municipality or in specific parts of the municipality.
+15 Sec. 4. 23 V.S.A. § 1223 is amended to read:
+16 § 1223. PROHIBITIONS
+17 (a) A person shall not affixor cause to be affixed to a motor vehicle,
+18 trailer, or semi-trailer a certification of inspection that was not assigned to the
+19 motor vehicle, trailer, or semi-trailer by an official inspection station to such
+20 motor vehicle, trailer, or semi-trailer.
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 7 of 10
+1 (b) No person shall A person shall not reaffixor cause to be reaffixed an
+2 official sticker once the sticker has been removed; instead, replacement.
+3 Replacement stickers shall be affixed as prescribed by the rules for
+4 replacement sticker agents.
+5 (c) A person shall not knowingly operate a motor vehicle, trailer, or semi-
+6 trailer to which a certification of inspection is affixed if the certification of
+7 inspection was not assigned by an official station to that vehicle, trailer, or
+8 semi-trailer.
+9 (d) An official inspection station shall not inspect any motor vehicle,
+10 trailer, or semi-trailer owned or operated by the owner or operator of the
+11 inspection station or by a certified inspection mechanic employed by the
+12 inspection station.
+13 Sec. 5. AGENCY OF TRANSPORTATION; MOTOR VEHICLE NOISE;
+14 CITIZEN REPORTING SYSTEM
+15 The Agency of Transportation shall establish on its website a motor vehicle
+16 noise reporting system through which individuals can report motor vehicles
+17 that the individual believes are emitting noise at sound levels in violation of
+18 the provisions of 23 V.S.A. §§ 1221 and 1260, and motor trucks and truck
+19 tractors that are using a engine compression brake device without an
+20 appropriate muffler in violation of 23 V.S.A. § 1309. The Agency shall share
+21 reports received through the system with appropriate law enforcement agencies
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 8 of 10
+1 to enable the agencies to investigate whether the reported vehicle is in
+2 compliance with the provisions of 23 V.S.A. §§ 1221, 1260, and 1309.
+3 Sec. 6. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+Sec. 1. 23 V.S.A. § 1221 is amended to read:
+
+Section 2:
+§ 1221. CONDITION OF VEHICLE; EXCESSIVE NOISE
+(a) A motor vehicle, operated on any highway, shall be in good mechanical
+condition and shall be properly equipped.
+(b)(1) An individual shall not operate on a highway a motor vehicle
+equipped with a muffler lacking interior baffle plates or other effective
+muffling devices, a gutted muffler, a muffler cutout, or a straight pipe exhaust.
+(2) An individual shall not operate on a highway a motorcycle
+manufactured after December 31, 1985 that is not labeled in compliance with
+40 C.F.R. § 205.158 and equipped with a muffler that meets the requirements
+of 40 C.F.R. § 205.169.
+(3) The prohibition of subdivisions (1) and (2) of this subsection shall
+not apply when a motor vehicle or motorcycle is operated in a race, contest, or
+demonstration of speed or skill at an authorized public exhibition held in
+accordance with applicable State or municipal law and land use permits.
+(c)(1) A motor vehicle equipped or modified as described in subdivision
+(b)(1) of this section shall not pass an inspection required under section 1222
+of this title.
+(2) A motorcycle that does not meet the requirements of subdivision
+(b)(2) of this section shall not pass an inspection required under section 1222
+of this title.
+Sec. 2. 23 V.S.A. § 1309 is added to read:
+
+Section 3:
+§ 1309. ENGINE COMPRESSION BRAKE DEVICES; REQUIREMENTS
+(a)(1) An individual shall not operate a motor truck or truck tractor
+equipped with an engine compression brake device unless the motor truck or
+truck tractor is also equipped with a muffler to prevent excessive noise from
+the device.
+(2) It shall not be a violation of subdivision (1) of this subsection to use
+an engine compression brake device in a motor truck or truck tractor that is
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 9 of 10
+not equipped with a muffler to prevent excessive noise from the device if the
+device is used to slow down or stop the motor truck or truck tractor in an
+emergency.
+(b) A motor truck or truck tractor that is equipped with an engine
+compression brake device but is not equipped with a working muffler to
+prevent excessive noise from the device shall fail inspection pursuant to section
+1222 of this title.
+(c) As used in this section, “engine compression brake device” means a
+device that slows a motor truck or truck tractor by utilizing engine
+compression and the release of compressed air. “Engine compression brake
+device” includes compression brakes, decompression brakes, engine
+compression release brakes, “Jake” brakes, and “Jacobs” brakes.
+(d) Nothing in this section shall be construed to prevent a municipality
+from adopting an ordinance that prohibits the operation of an engine
+compression brake devices within the municipality or in specific parts of the
+municipality.
+Sec. 3. RULEMAKING; PERIODIC INSPECTION MANUAL; EXHAUST
+MODIFICATIONS; ENGINE COMPRESSION BRAKE
+MUFFLERS; OUTREACH
+(a) The Department of Motor Vehicles shall, unless extended by the
+Legislative Committee on Administrative Rules, adopt amendments to
+Department of Motor Vehicles, Inspection of Motor Vehicles (CVR 14-050-
+022) to implement the provisions of Secs. 1 and 2 of this act that shall take
+effect on or before July 1, 2026.
+(b) The Department of Motor Vehicles shall implement a public outreach
+campaign regarding prohibited exhaust modifications pursuant to 23 V.S.A.
+
+Section 4:
+§ 1221 and the requirement for engine compression brakes to be equipped with
+a muffler pursuant to 23 V.S.A. § 1309. The public outreach campaign shall
+include information on the provisions of the rules for Inspection of Motor
+Vehicles (CVR 14-050-022), related to exhaust modifications and engine
+compression brake mufflers, including the amendments adopted under the
+Administrative Procedure Act pursuant to subsection (a) of this section. The
+Department of Motor Vehicles shall begin to disseminate information pursuant
+to this subsection not later than two months prior to the effective date of Secs.
+1 and 2 of this act and shall disseminate information pursuant to this
+subsection through email, bulletins, software updates, and the Department of
+Motor Vehicles’ website.
+Sec. 4. MOTOR VEHICLE NOISE LEVELS; REPORT
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 10 of 10
+(a) On or before December 15, 2025, the Commissioner of Motor Vehicles
+shall submit a written report to the Senate and House Committees on
+Transportation with a proposal for limits on motor vehicle noise and proposed
+procedures for the enforcement of those limits.
+(b) The report shall examine laws and procedures in Maine and other New
+England states regarding:
+(1) maximum sound levels for motor vehicles and trucks;
+(2) enforcement of maximum sound levels for motor vehicles and trucks;
+(3) procedures for a person to challenge a determination that the
+person’s vehicle was operating in excess of the applicable maximum sound
+level; and
+(4) procedures for a citizen to report a suspected violation of the
+maximum sound levels for motor vehicles and trucks to law enforcement.
+(c) The report shall include proposals for:
+(1) maximum sound levels above which motor vehicles and trucks would
+not be permitted to operate on highways in Vermont, which may vary
+depending on the type of vehicle, vehicle weight, and vehicle speed;
+(2) methods for determining whether a vehicle is operating on a
+highway in excess of the maximum sound levels;
+(3) procedures for enforcing the maximum sound levels;
+(4) procedures for a person to challenge a determination that the
+person’s vehicle was operating in excess of the applicable maximum sound
+level; and
+(5) procedures for allowing citizens to report a suspected violation of
+the maximum sound levels for motor vehicles and trucks to law enforcement.
+(d) The report shall identify any legislative action necessary to implement
+the proposals included pursuant to subsection (c) of this section.
+Sec. 5. EFFECTIVE DATES
+(a) This section and Secs. 3 and 4 of this act shall take effect on July 1,
+
+Section 5:
+2025.
+(b) Secs. 1 and 2 of this act shall take effect on July 1, 2026.
+[DELETED: LASIDADPDBYSES5Pe1of1SIdbySsW,C,G,MradWRdtoCeonTD:Fy1,2S:Mrv;n;e;etsmm;ecnbStofpeofblasi:Tsblpstoelsfrnefmmrv;topttemnofvetssinamrttrsinesneorsee0adtoptteueofeecnbedswtam1Anatrgtomrven,etm,ade2cnb3ItishyedbyteGlAyofteSeofV4S.1.23V.§1isadtor5§1.CNOFV;EEN6()Amrv,odonayh,slbeingdm7cnadslbepye8()Anilslntoeonahyamrv9edwhamrlgirbepsorore]
+[DELETED: LASIDADPDBYSES5Pe2of1mgd,agdm,amrc,astpee,oadeormnttasteneedbytev()AnilslntoeonahyammdarDr3,15ttisntldincew40C.§8adedwhamrttmsterof40C.§()Tepnofss()ad()oftssnsntaywnamrveormeisodinar,c,odnofsdorslatanadpcenhdi0aewhaeSeormllwadlduep1()Anilslntoeamrvewhanets2tthsbnmdwntertofttmnisteeno3idetfsors4()Amrveedormdasddins5()oftssnortthsbnmdasddinsn(6oftssnslntpsaninrdursn12oft7t8()Amettdsntmttersofs9()oftssnslntpsaninrdursn10oftst]
+[DELETED: LASIDADPDBYSES5Pe3of1()Anilwovssn()or()oftssnsbesttoaclpyofntlst()$0fraftv()$0frasdv;a()$0fratdorstv()PscdpttotepsoftssnsbeddinteTnFdadudfrcsrdtoetepsoftssnadss10ad19oftscS.2.23V.§0isadtor0§.MRVESDL1()Apnslntoeorcetobeodonahya2mrveorcnofvswhagsvewtrgo310psorl,etam,whasdllineso4()wntemrveorcnofvsistgat35msprhrorl,72dsonteAseat50f;a6()wntemrveorcnofvsistga7metn35msprh,80dsonteAseat50f8()Apnslntoeorcetobeodonahya9mrveorcnofvswhagsvewtrgo0metn10pswhasdllineso]
+[DELETED: LASIDADPDBYSES5Pe4of1()wntemrveorcnofvsistgat3msprhrorl,80dsonteAseat50f;a()wntemrveorcnofvsistgametn35msprh,87dsonteAseat50f()Frpsofdgcewhtepsoss()ad()oftss,alwetoemymevssdllwhasdm,nec,ororadeadbyteSyofTnbyr()Mstnpttosn()oftss0fmadeortn50ftslbeadtodetee1sdllat50f2()TeSyofTnslatrspttot3psof3V.cr25asnytoittepso4tss5()TeSyofTnslehatgp6frlwetosrgpefrmgves7adteprueofsdllmtd8()Apnwovssn()or()oftssnslb9sttoaclpyofntlst0()$0fraftv1()$0frasdv;a]
+[DELETED: LASIDADPDBYSES5Pe5of1()$0fratdorstv()PscdpttotepsoftssnsbeddinteTnFdadudfrcsrdtoetepsoftssnadss11ad19oftscS.3.23V.§9isadtor§.EECNBED;R()Anilslntoeamrtkortktedwhaneecnbedeustemrtkotktrisaoedwhamrtopteenef0ted1()Itslntbeavnofsn()oftssntouea2eecnbedeinamrtkortktrttisn3edwhamrtopteenefmtedeift4deisudtoswdnorsptemrtkortktrina5e6()Amrtkortktrttisedwhane7cnbedebtisntedwhawgmrt8pteenefmtedeslflinptt9sn12oftst0()Anilwovssn()oftssnslb1sttoaclpyofntlst]
+[DELETED: LASIDADPDBYSES5Pe6of1()$0fraftv()$0frasdv;a()$0fratdorstv()PscdpttotepsoftssnsbeddinteTnFdadudfrcsrdtoetepsoftssnadss11ad10oftsc()Asudintss,“ecnbed”msdettssamrtkortktrbyugecnadtereofcda.“ecnb0d”iscnb,dnb,e1cnreb,“”b,ad“”b2()Ngintssnslbecdtoptam3fmaganoettpsteonofeec4bedswntemyorinscpsoftem5S.4.23V.§3isadtor6§1.P7()Apnslntaxorcetobeadtoamrv8t,orsracnofinttwsntadtot9mrv,t,orsrbyanolinsntos0mrv,t,ors]
+[DELETED: LASIDADPDBYSES5Pe7of1()NopnslApnslntrxorcetoberdaolsroetesrhsbnr;i,rRtssslbeadaspdbytersfrtsra()Apnslntkyoeamrv,t,orstrtowhacnofinisadiftecnoinwsntadbyanolsntottv,t,os()Anolinsnslntitaymrv0t,orsrodorodbyteorororoft1insnorbyacdinmcedbyt2ins3S.5.AYOFT;MRVEN4CNRGS5TeAyofTnslehonisweamrv6nergsmthwhiscnrtmrv7ttteilbsaeegneatsdlsinvno8tepsof23V.§1ad1,admrtsadt9tsttaeugaeecnbedewta0aemrinvnof23V.§.TeAysls1rsrdthtesmwhaelweta]
+[DELETED: LASIDADPDBYSES5Pe8of1toeeteastoiewrterdveisicewhtepsof23V.§,1,ad1S.6.EEDTsatslteetonJy1,2.1.23V.§1isadtor1.CNOFV;EEN)Amrv,odonayh,slbeingdmnadslbepye)Anilslntoeonahyamrvdwhamrlgirbepsororegd,agdm,amrc,orastpee)AnilslntoeonahyamdarDr3,15ttisntldincew0C.§8adedwhamrttmsterf40C.§)Tepnofss()ad()oftssnstaywnamrveormeisodinar,c,onofsdorslatanadpcenhdiewhaeSeormllwadlduep)Amrveedormdasddins)oftssnslntpsaninrdursn1ftst)Amettdsntmttersofs)oftssnslntpsaninrdursn1ftst.2.23V.§9isadtor.EECNBED;R)Anilslntoeamrtkortktdwhaneecnbedeustemrtkoktrisaoedwhamrtopteenefed)Itslntbeavnofsn()oftssntouneecnbedeinamrtkortktrtti]
+[DELETED: LASIDADPDBYSES5Pe9of1tedwhamrtopteenefmtedeifteisudtoswdnorsptemrtkortktrina)Amrtkortktrttisedwhanenbedebtisntedwhawgmrtteenefmtedeslflinpttos2oftst)Asudintss,“ecnbed”msettssamrtkortktrbyugenadtereofcda.“ecnb”iscnb,dnb,enreb,“”b,ad“”b)Ngintssnslbecdtoptammaganoettpsteonofanenbedswntemyorinscpsoft.3.R;PCINM;E;EECNB;O)TeDtofMrVss,usedbyteCeonAeR,atasttofMrV,InofMrVs(R1)toittepsofS.1ad2oftsatttslttonorbeJy1,2)TeDtofMrVsslitapconrgpdetmsptto23V1adtertfreecnbstobeedwmrptto23V.§.TepcohcnseinontepsoftersfrInofMs(R1,rdtoetmsadenbem,igteasadurtePeAtpttosn()oftss.TtofMrVsslbntodeinpotssnntlrtntomsprtoteeedeofSad2oftsatadsldeinpttotnthe,b,seu,adteDtorV’w.4.MRVENEL;R]
+[DELETED: LASIDADPDBYSES5Pe10of1)OnorbeDr1,2,teCrofMrVlstawnrttoteSeadHeCsonwhaplfrlsonmrveneadpsfrteetoftel)TertsleelsadpsinMeadorNdssr)mmsdlsfrmrvsadt)etofmmsdlsfrmrvsadt)psfrapntoceadntttsvewsoginesofteaemms;a)psfracntortasdvnoftmsdlsfrmrvsadtstolwe)Tertsliepsf)mmsdlsaewhmrvsadtswtbepdtooeonhsinV,whmyvgonteteofv,vew,adves)msfrdgwraveisogonyinesoftemmsdl)psfregtemmsdl)psfrapntoceadntttsvewsoginesofteaemms;a)psfragcstortasdvnoemmsdlsfrmrvsadtstolwe)Tertsliyayleannytoiepsidpttosn()oftss.5.EED)TssnadS.3ad4oftsatslteetonJy1)S.1ad2oftsatslteetonJy1,2]
+
+
+================================================================================
+
+Raw Text:
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 1 of 10
+1 S.66
+2 Introduced by Senators White, Clarkson, Gulick, Major and Watson
+3 Referred to Committee on Transportation
+4 Date: February 11, 2025
+5 Subject: Motor vehicles; noise; exhaust; exhaust system modification; engine
+6 compression brakes
+7 Statement of purpose of bill as introduced: This bill proposes to establish
+8 limits for noise from motor vehicles; to prohibit the modification of vehicle
+9 exhaust systems in a manner that results in excess noise or smoke emissions;
+10 and to prohibit the use of engine compression brake devices without a muffler.
+11 An act relating to motor vehicle noise, exhaust modifications, and engine
+12 compression brakes
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 23 V.S.A. § 1221 is amended to read:
+15 § 1221. CONDITION OF VEHICLE; EXCESSIVE NOISE
+16 (a) A motor vehicle, operated on any highway, shall be in good mechanical
+17 condition and shall be properly equipped.
+18 (b)(1) An individual shall not operate on a highway a motor vehicle
+19 equipped with a muffler lacking interior baffle plates or other effective
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 2 of 10
+1 muffling devices, a gutted muffler, a muffler cutout, a straight pipe exhaust, or
+2 a device or modification that amplifies the noise emitted by the vehicle.
+3 (2) An individual shall not operate on a highway a motorcycle
+4 manufactured after December 31, 1985 that is not labeled in compliance with
+5 40 C.F.R. § 205.158 and equipped with a muffler that meets the requirements
+6 of 40 C.F.R. § 205.169.
+7 (3) The prohibition of subdivisions (1) and (2) of this subsection shall
+8 not apply when a motor vehicle or motorcycle is operated in a race, contest, or
+9 demonstration of speed or skill at an authorized public exhibition held in
+10 accordance with applicable State or municipal law and land use permits.
+11 (c) An individual shall not operate a motor vehicle with an exhaust system
+12 that has been modified when the result of that modification is the emission of
+13 increased exhaust fumes or smoke.
+14 (d)(1) A motor vehicle equipped or modified as described in subdivision
+15 (b)(1) of this section or that has been modified as described in subsection (c)
+16 of this section shall not pass an inspection required under section 1222 of this
+17 title.
+18 (2) A motorcycle that does not meet the requirements of subdivision
+19 (b)(2) of this section shall not pass an inspection required under section 1222
+20 of this title.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 3 of 10
+1 (e)(1) An individual who violates subsection (b) or (c) of this section shall
+2 be subject to a civil penalty of not less than:
+3 (A) $100.00 for a first violation;
+4 (B) $200.00 for a second violation; and
+5 (C) $350.00 for a third or subsequent violation.
+6 (2) Penalties collected pursuant to the provisions of this subsection shall
+7 be deposited in the Transportation Fund and used for costs related to enforcing
+8 the provisions of this section and sections 1260 and 1309 of this chapter.
+9 Sec. 2. 23 V.S.A. § 1260 is added to read:
+10 § 1260. MOTOR VEHICLE SOUND LIMITS
+11 (a) A person shall not operate or cause to be operated on a highway any
+12 motor vehicle or combination of vehicles with a gross vehicle weight rating of
+13 10,000 pounds or less, except a motorcycle, with a sound level in excess of:
+14 (1) when the motor vehicle or combination of vehicles is traveling at 35
+15 miles per hour or less, 72 decibels on the A scale at 50 feet; and
+16 (2) when the motor vehicle or combination of vehicles is traveling at
+17 more than 35 miles per hour, 80 decibels on the A scale at 50 feet.
+18 (b) A person shall not operate or cause to be operated on a highway any
+19 motor vehicle or combination of vehicles with a gross vehicle weight rating of
+20 more than 10,000 pounds with a sound level in excess of:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 4 of 10
+1 (1) when the motor vehicle or combination of vehicles is traveling at 35
+2 miles per hour or less, 80 decibels on the A scale at 50 feet; and
+3 (2) when the motor vehicle or combination of vehicles is traveling at
+4 more than 35 miles per hour, 87 decibels on the A scale at 50 feet.
+5 (c)(1) For purposes of determining compliance with the provisions of
+6 subsections (a) and (b) of this section, a law enforcement office may measure a
+7 vehicle’s sound level with a sound meter, noise camera, or other appropriate
+8 device approved by the Secretary of Transportation by rule.
+9 (2) Measurements taken pursuant to subdivision (1) of this subsection
+10 from a distance other than 50 feet shall be adjusted to determine the equivalent
+11 sound level at 50 feet.
+12 (d)(1) The Secretary of Transportation shall adopt rules pursuant to the
+13 provisions of 3 V.S.A. chapter 25 as necessary to implement the provisions of
+14 this section.
+15 (2) The Secretary of Transportation shall establish a training program
+16 for law enforcement officers regarding procedure for measuring vehicle sound
+17 and the proper use of sound level measurement devices.
+18 (e)(1) A person who violates subsection (a) or (b) of this section shall be
+19 subject to a civil penalty of not less than:
+20 (A) $100.00 for a first violation;
+21 (B) $200.00 for a second violation; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 5 of 10
+1 (C) $350.00 for a third or subsequent violation.
+2 (2) Penalties collected pursuant to the provisions of this subsection shall
+3 be deposited in the Transportation Fund and used for costs related to enforcing
+4 the provisions of this section and sections 1221 and 1309 of this chapter.
+5 Sec. 3. 23 V.S.A. § 1309 is added to read:
+6 § 1309. ENGINE COMPRESSION BRAKE DEVICES; REQUIREMENTS
+7 (a)(1) An individual shall not operate a motor truck or truck tractor
+8 equipped with an engine compression brake device unless the motor truck or
+9 truck tractor is also equipped with a muffler to prevent excessive noise from
+10 the device.
+11 (2) It shall not be a violation of subdivision (1) of this section to use an
+12 engine compression brake device in a motor truck or truck tractor that is not
+13 equipped with a muffler to prevent excessive noise from the device if the
+14 device is used to slow down or stop the motor truck or truck tractor in an
+15 emergency.
+16 (b) A motor truck or truck tractor that is equipped with an engine
+17 compression brake device but is not equipped with a working muffler to
+18 prevent excessive noise from the device shall fail inspection pursuant to
+19 section 1222 of this title.
+20 (c)(1) An individual who violates subdivision (a)(1) of this section shall be
+21 subject to a civil penalty of not less than:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 6 of 10
+1 (A) $250.00 for a first violation;
+2 (B) $500.00 for a second violation; and
+3 (C) $750.00 for a third or subsequent violation.
+4 (2) Penalties collected pursuant to the provisions of this subsection shall
+5 be deposited in the Transportation Fund and used for costs related to enforcing
+6 the provisions of this section and sections 1221 and 1260 of this chapter.
+7 (d) As used in this section, “engine compression brake device” means a
+8 device that slows a motor truck or truck tractor by utilizing engine
+9 compression and the release of compressed air. “Engine compression brake
+10 device” includes compression brakes, decompression brakes, engine
+11 compression release brakes, “Jake” brakes, and “Jacobs” brakes.
+12 (e) Nothing in this section shall be construed to prevent a municipality
+13 from adopting an ordinance that prohibits the operation of engine compression
+14 brake devices within the municipality or in specific parts of the municipality.
+15 Sec. 4. 23 V.S.A. § 1223 is amended to read:
+16 § 1223. PROHIBITIONS
+17 (a) A person shall not affixor cause to be affixed to a motor vehicle,
+18 trailer, or semi-trailer a certification of inspection that was not assigned to the
+19 motor vehicle, trailer, or semi-trailer by an official inspection station to such
+20 motor vehicle, trailer, or semi-trailer.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 7 of 10
+1 (b) No person shall A person shall not reaffixor cause to be reaffixed an
+2 official sticker once the sticker has been removed; instead, replacement.
+3 Replacement stickers shall be affixed as prescribed by the rules for
+4 replacement sticker agents.
+5 (c) A person shall not knowingly operate a motor vehicle, trailer, or semi-
+6 trailer to which a certification of inspection is affixed if the certification of
+7 inspection was not assigned by an official station to that vehicle, trailer, or
+8 semi-trailer.
+9 (d) An official inspection station shall not inspect any motor vehicle,
+10 trailer, or semi-trailer owned or operated by the owner or operator of the
+11 inspection station or by a certified inspection mechanic employed by the
+12 inspection station.
+13 Sec. 5. AGENCY OF TRANSPORTATION; MOTOR VEHICLE NOISE;
+14 CITIZEN REPORTING SYSTEM
+15 The Agency of Transportation shall establish on its website a motor vehicle
+16 noise reporting system through which individuals can report motor vehicles
+17 that the individual believes are emitting noise at sound levels in violation of
+18 the provisions of 23 V.S.A. §§ 1221 and 1260, and motor trucks and truck
+19 tractors that are using a engine compression brake device without an
+20 appropriate muffler in violation of 23 V.S.A. § 1309. The Agency shall share
+21 reports received through the system with appropriate law enforcement agencies
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 8 of 10
+1 to enable the agencies to investigate whether the reported vehicle is in
+2 compliance with the provisions of 23 V.S.A. §§ 1221, 1260, and 1309.
+3 Sec. 6. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+Sec. 1. 23 V.S.A. § 1221 is amended to read:
+§ 1221. CONDITION OF VEHICLE; EXCESSIVE NOISE
+(a) A motor vehicle, operated on any highway, shall be in good mechanical
+condition and shall be properly equipped.
+(b)(1) An individual shall not operate on a highway a motor vehicle
+equipped with a muffler lacking interior baffle plates or other effective
+muffling devices, a gutted muffler, a muffler cutout, or a straight pipe exhaust.
+(2) An individual shall not operate on a highway a motorcycle
+manufactured after December 31, 1985 that is not labeled in compliance with
+40 C.F.R. § 205.158 and equipped with a muffler that meets the requirements
+of 40 C.F.R. § 205.169.
+(3) The prohibition of subdivisions (1) and (2) of this subsection shall
+not apply when a motor vehicle or motorcycle is operated in a race, contest, or
+demonstration of speed or skill at an authorized public exhibition held in
+accordance with applicable State or municipal law and land use permits.
+(c)(1) A motor vehicle equipped or modified as described in subdivision
+(b)(1) of this section shall not pass an inspection required under section 1222
+of this title.
+(2) A motorcycle that does not meet the requirements of subdivision
+(b)(2) of this section shall not pass an inspection required under section 1222
+of this title.
+Sec. 2. 23 V.S.A. § 1309 is added to read:
+§ 1309. ENGINE COMPRESSION BRAKE DEVICES; REQUIREMENTS
+(a)(1) An individual shall not operate a motor truck or truck tractor
+equipped with an engine compression brake device unless the motor truck or
+truck tractor is also equipped with a muffler to prevent excessive noise from
+the device.
+(2) It shall not be a violation of subdivision (1) of this subsection to use
+an engine compression brake device in a motor truck or truck tractor that is
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 9 of 10
+not equipped with a muffler to prevent excessive noise from the device if the
+device is used to slow down or stop the motor truck or truck tractor in an
+emergency.
+(b) A motor truck or truck tractor that is equipped with an engine
+compression brake device but is not equipped with a working muffler to
+prevent excessive noise from the device shall fail inspection pursuant to section
+1222 of this title.
+(c) As used in this section, “engine compression brake device” means a
+device that slows a motor truck or truck tractor by utilizing engine
+compression and the release of compressed air. “Engine compression brake
+device” includes compression brakes, decompression brakes, engine
+compression release brakes, “Jake” brakes, and “Jacobs” brakes.
+(d) Nothing in this section shall be construed to prevent a municipality
+from adopting an ordinance that prohibits the operation of an engine
+compression brake devices within the municipality or in specific parts of the
+municipality.
+Sec. 3. RULEMAKING; PERIODIC INSPECTION MANUAL; EXHAUST
+MODIFICATIONS; ENGINE COMPRESSION BRAKE
+MUFFLERS; OUTREACH
+(a) The Department of Motor Vehicles shall, unless extended by the
+Legislative Committee on Administrative Rules, adopt amendments to
+Department of Motor Vehicles, Inspection of Motor Vehicles (CVR 14-050-
+022) to implement the provisions of Secs. 1 and 2 of this act that shall take
+effect on or before July 1, 2026.
+(b) The Department of Motor Vehicles shall implement a public outreach
+campaign regarding prohibited exhaust modifications pursuant to 23 V.S.A.
+§ 1221 and the requirement for engine compression brakes to be equipped with
+a muffler pursuant to 23 V.S.A. § 1309. The public outreach campaign shall
+include information on the provisions of the rules for Inspection of Motor
+Vehicles (CVR 14-050-022), related to exhaust modifications and engine
+compression brake mufflers, including the amendments adopted under the
+Administrative Procedure Act pursuant to subsection (a) of this section. The
+Department of Motor Vehicles shall begin to disseminate information pursuant
+to this subsection not later than two months prior to the effective date of Secs.
+1 and 2 of this act and shall disseminate information pursuant to this
+subsection through email, bulletins, software updates, and the Department of
+Motor Vehicles’ website.
+Sec. 4. MOTOR VEHICLE NOISE LEVELS; REPORT
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.66
+2025 Page 10 of 10
+(a) On or before December 15, 2025, the Commissioner of Motor Vehicles
+shall submit a written report to the Senate and House Committees on
+Transportation with a proposal for limits on motor vehicle noise and proposed
+procedures for the enforcement of those limits.
+(b) The report shall examine laws and procedures in Maine and other New
+England states regarding:
+(1) maximum sound levels for motor vehicles and trucks;
+(2) enforcement of maximum sound levels for motor vehicles and trucks;
+(3) procedures for a person to challenge a determination that the
+person’s vehicle was operating in excess of the applicable maximum sound
+level; and
+(4) procedures for a citizen to report a suspected violation of the
+maximum sound levels for motor vehicles and trucks to law enforcement.
+(c) The report shall include proposals for:
+(1) maximum sound levels above which motor vehicles and trucks would
+not be permitted to operate on highways in Vermont, which may vary
+depending on the type of vehicle, vehicle weight, and vehicle speed;
+(2) methods for determining whether a vehicle is operating on a
+highway in excess of the maximum sound levels;
+(3) procedures for enforcing the maximum sound levels;
+(4) procedures for a person to challenge a determination that the
+person’s vehicle was operating in excess of the applicable maximum sound
+level; and
+(5) procedures for allowing citizens to report a suspected violation of
+the maximum sound levels for motor vehicles and trucks to law enforcement.
+(d) The report shall identify any legislative action necessary to implement
+the proposals included pursuant to subsection (c) of this section.
+Sec. 5. EFFECTIVE DATES
+(a) This section and Secs. 3 and 4 of this act shall take effect on July 1,
+2025.
+(b) Secs. 1 and 2 of this act shall take effect on July 1, 2026.
+
+[DELETED: LASIDADPDBYSES5Pe1of1SIdbySsW,C,G,MradWRdtoCeonTD:Fy1,2S:Mrv;n;e;etsmm;ecnbStofpeofblasi:Tsblpstoelsfrnefmmrv;topttemnofvetssinamrttrsinesneorsee0adtoptteueofeecnbedswtam1Anatrgtomrven,etm,ade2cnb3ItishyedbyteGlAyofteSeofV4S.1.23V.§1isadtor5§1.CNOFV;EEN6()Amrv,odonayh,slbeingdm7cnadslbepye8()Anilslntoeonahyamrv9edwhamrlgirbepsorore]
+[DELETED: LASIDADPDBYSES5Pe2of1mgd,agdm,amrc,astpee,oadeormnttasteneedbytev()AnilslntoeonahyammdarDr3,15ttisntldincew40C.§8adedwhamrttmsterof40C.§()Tepnofss()ad()oftssnsntaywnamrveormeisodinar,c,odnofsdorslatanadpcenhdi0aewhaeSeormllwadlduep1()Anilslntoeamrvewhanets2tthsbnmdwntertofttmnisteeno3idetfsors4()Amrveedormdasddins5()oftssnortthsbnmdasddinsn(6oftssnslntpsaninrdursn12oft7t8()Amettdsntmttersofs9()oftssnslntpsaninrdursn10oftst]
+[DELETED: LASIDADPDBYSES5Pe3of1()Anilwovssn()or()oftssnsbesttoaclpyofntlst()$0fraftv()$0frasdv;a()$0fratdorstv()PscdpttotepsoftssnsbeddinteTnFdadudfrcsrdtoetepsoftssnadss10ad19oftscS.2.23V.§0isadtor0§.MRVESDL1()Apnslntoeorcetobeodonahya2mrveorcnofvswhagsvewtrgo310psorl,etam,whasdllineso4()wntemrveorcnofvsistgat35msprhrorl,72dsonteAseat50f;a6()wntemrveorcnofvsistga7metn35msprh,80dsonteAseat50f8()Apnslntoeorcetobeodonahya9mrveorcnofvswhagsvewtrgo0metn10pswhasdllineso]
+[DELETED: LASIDADPDBYSES5Pe4of1()wntemrveorcnofvsistgat3msprhrorl,80dsonteAseat50f;a()wntemrveorcnofvsistgametn35msprh,87dsonteAseat50f()Frpsofdgcewhtepsoss()ad()oftss,alwetoemymevssdllwhasdm,nec,ororadeadbyteSyofTnbyr()Mstnpttosn()oftss0fmadeortn50ftslbeadtodetee1sdllat50f2()TeSyofTnslatrspttot3psof3V.cr25asnytoittepso4tss5()TeSyofTnslehatgp6frlwetosrgpefrmgves7adteprueofsdllmtd8()Apnwovssn()or()oftssnslb9sttoaclpyofntlst0()$0fraftv1()$0frasdv;a]
+[DELETED: LASIDADPDBYSES5Pe5of1()$0fratdorstv()PscdpttotepsoftssnsbeddinteTnFdadudfrcsrdtoetepsoftssnadss11ad19oftscS.3.23V.§9isadtor§.EECNBED;R()Anilslntoeamrtkortktedwhaneecnbedeustemrtkotktrisaoedwhamrtopteenef0ted1()Itslntbeavnofsn()oftssntouea2eecnbedeinamrtkortktrttisn3edwhamrtopteenefmtedeift4deisudtoswdnorsptemrtkortktrina5e6()Amrtkortktrttisedwhane7cnbedebtisntedwhawgmrt8pteenefmtedeslflinptt9sn12oftst0()Anilwovssn()oftssnslb1sttoaclpyofntlst]
+[DELETED: LASIDADPDBYSES5Pe6of1()$0fraftv()$0frasdv;a()$0fratdorstv()PscdpttotepsoftssnsbeddinteTnFdadudfrcsrdtoetepsoftssnadss11ad10oftsc()Asudintss,“ecnbed”msdettssamrtkortktrbyugecnadtereofcda.“ecnb0d”iscnb,dnb,e1cnreb,“”b,ad“”b2()Ngintssnslbecdtoptam3fmaganoettpsteonofeec4bedswntemyorinscpsoftem5S.4.23V.§3isadtor6§1.P7()Apnslntaxorcetobeadtoamrv8t,orsracnofinttwsntadtot9mrv,t,orsrbyanolinsntos0mrv,t,ors]
+[DELETED: LASIDADPDBYSES5Pe7of1()NopnslApnslntrxorcetoberdaolsroetesrhsbnr;i,rRtssslbeadaspdbytersfrtsra()Apnslntkyoeamrv,t,orstrtowhacnofinisadiftecnoinwsntadbyanolsntottv,t,os()Anolinsnslntitaymrv0t,orsrodorodbyteorororoft1insnorbyacdinmcedbyt2ins3S.5.AYOFT;MRVEN4CNRGS5TeAyofTnslehonisweamrv6nergsmthwhiscnrtmrv7ttteilbsaeegneatsdlsinvno8tepsof23V.§1ad1,admrtsadt9tsttaeugaeecnbedewta0aemrinvnof23V.§.TeAysls1rsrdthtesmwhaelweta]
+[DELETED: LASIDADPDBYSES5Pe8of1toeeteastoiewrterdveisicewhtepsof23V.§,1,ad1S.6.EEDTsatslteetonJy1,2.1.23V.§1isadtor1.CNOFV;EEN)Amrv,odonayh,slbeingdmnadslbepye)Anilslntoeonahyamrvdwhamrlgirbepsororegd,agdm,amrc,orastpee)AnilslntoeonahyamdarDr3,15ttisntldincew0C.§8adedwhamrttmsterf40C.§)Tepnofss()ad()oftssnstaywnamrveormeisodinar,c,onofsdorslatanadpcenhdiewhaeSeormllwadlduep)Amrveedormdasddins)oftssnslntpsaninrdursn1ftst)Amettdsntmttersofs)oftssnslntpsaninrdursn1ftst.2.23V.§9isadtor.EECNBED;R)Anilslntoeamrtkortktdwhaneecnbedeustemrtkoktrisaoedwhamrtopteenefed)Itslntbeavnofsn()oftssntouneecnbedeinamrtkortktrtti]
+[DELETED: LASIDADPDBYSES5Pe9of1tedwhamrtopteenefmtedeifteisudtoswdnorsptemrtkortktrina)Amrtkortktrttisedwhanenbedebtisntedwhawgmrtteenefmtedeslflinpttos2oftst)Asudintss,“ecnbed”msettssamrtkortktrbyugenadtereofcda.“ecnb”iscnb,dnb,enreb,“”b,ad“”b)Ngintssnslbecdtoptammaganoettpsteonofanenbedswntemyorinscpsoft.3.R;PCINM;E;EECNB;O)TeDtofMrVss,usedbyteCeonAeR,atasttofMrV,InofMrVs(R1)toittepsofS.1ad2oftsatttslttonorbeJy1,2)TeDtofMrVsslitapconrgpdetmsptto23V1adtertfreecnbstobeedwmrptto23V.§.TepcohcnseinontepsoftersfrInofMs(R1,rdtoetmsadenbem,igteasadurtePeAtpttosn()oftss.TtofMrVsslbntodeinpotssnntlrtntomsprtoteeedeofSad2oftsatadsldeinpttotnthe,b,seu,adteDtorV’w.4.MRVENEL;R]
+[DELETED: LASIDADPDBYSES5Pe10of1)OnorbeDr1,2,teCrofMrVlstawnrttoteSeadHeCsonwhaplfrlsonmrveneadpsfrteetoftel)TertsleelsadpsinMeadorNdssr)mmsdlsfrmrvsadt)etofmmsdlsfrmrvsadt)psfrapntoceadntttsvewsoginesofteaemms;a)psfracntortasdvnoftmsdlsfrmrvsadtstolwe)Tertsliepsf)mmsdlsaewhmrvsadtswtbepdtooeonhsinV,whmyvgonteteofv,vew,adves)msfrdgwraveisogonyinesoftemmsdl)psfregtemmsdl)psfrapntoceadntttsvewsoginesofteaemms;a)psfragcstortasdvnoemmsdlsfrmrvsadtstolwe)Tertsliyayleannytoiepsidpttosn()oftss.5.EED)TssnadS.3ad4oftsatslteetonJy1)S.1ad2oftsatslteetonJy1,2]

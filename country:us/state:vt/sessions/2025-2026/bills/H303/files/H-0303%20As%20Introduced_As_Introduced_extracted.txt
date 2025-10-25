@@ -1,0 +1,331 @@
+Title: BILL AS INTRODUCED H.303
+Official Title: BILL AS INTRODUCED H.303
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.303
+2 Introduced by Representatives Burtt of Cabot, Bos-Lun of Westminster,
+3 Branagan of Georgia, Burditt of West Rutland, Charlton of
+4 Chester, Cole of Hartford, Dolgin of St. Johnsbury, Harvey of
+5 Castleton, Higley of Lowell, Lipsky of Stowe, McGill of
+6 Bridport, Morgan, L. of Milton, Nelson of Derby, North of
+7 Ferrisburgh, O'Brien of Tunbridge, Ode of Burlington,
+8 Surprenant of Barnard, Tagliavia of Corinth, and Toof of St.
+9 Albans Town
+10 Referred to Committee on
+11 Date:
+12 Subject: Conservation and development; solid waste; septage; sludge;
+13 biosolids; prohibition on land application
+14 Statement of purpose of bill as introduced: This bill proposes to ban the land
+15 application of septage, sludge, and biosolids. The bill also would prohibit the
+16 sale of compost or other agricultural products containing or produced from
+17 septage, sludge, or biosolids.
+18 An act relating to the use of septage, sludge, and biosolids
+VT LEG #380577 v.1
+BILL AS INTRODUCED H.303
+2025 Page 2 of 7
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 10 V.S.A. § 6602 is amended to read:
+3 § 6602. DEFINITIONS
+4 As used in this chapter:
+5 (1) “Secretary” means the Secretary of Natural Resources or his or her
+6 duly authorized representative.
+7 * * *
+8 (50) “Biosolids” means septage or sewage sludge derived, in whole or in
+9 part, from domestic wastes that have been subjected to a treatment process for
+10 the reduction of pathogens and have been demonstrated to meet the applicable
+11 requirements in Agency rules for vector attraction reduction and pathogen
+12 reduction.
+13 (51) “Septage” means the liquid and solid materials pumped from a
+14 septic tank, portable toilet, or cesspool during cleaning.
+15 (52) “Sludge” means any solid, semisolid, or liquid generated from a
+16 municipal, commercial, or industrial wastewater treatment facility or process,
+17 water supply treatment plant, air pollution control facility, or any other such
+18 waste having similar characteristics and effects. “Sludge” includes Class A
+19 and Class B sewage sludge as those terms are defined under 40 C.F.R. Part
+20 503.
+VT LEG #380577 v.1
+BILL AS INTRODUCED H.303
+2025 Page 3 of 7
+1 (53) “Wastewater treatment facility” has the same meaning as in section
+2 1295 of this title.
+3 Sec. 2. 10 V.S.A. § 6604b is amended to read:
+4 § 6604b. TESTING OF SOLID WASTES PRIOR TO BENEFICIAL USE
+5 ON LAND OR DISTRIBUTION AND MARKETING
+6 PROHIBITION ON LAND APPLICATION OF SLUDGE,
+7 SEPTAGE, AND BIOSOLIDS AND SALE OF COMPOST AND
+8 OTHER AGRICULTURAL PRODUCTS AND MATERIALS
+9 CONTAINING SLUDGE, SEPTAGE, AND BIOSOLIDS
+10 (a) The Secretary of Natural Resources, in consultation with the Secretary
+11 of Agriculture, Food and Markets and with the Commissioner of Health, shall
+12 adopt rules to establish a testing program for all sewage sludge, or similar
+13 liquid wastes, prior to their beneficial use on land or prior to distribution and
+14 marketing of those wastes in liquid or solid form. The testing program shall
+15 establish a process for the determination of minimum testing frequencies and
+16 specific parameters for which analysis must be completed and shall detail
+17 procedures by which samples are collected, stored, and tested.
+18 (b) In establishing the process for the determination of test parameters and
+19 frequency, the rules shall take into account the size and complexity of the
+20 facility, the nature of the service area or collection system, including industrial
+VT LEG #380577 v.1
+BILL AS INTRODUCED H.303
+2025 Page 4 of 7
+1 contributions, the frequency of sewage sludge use on the land, and any existing
+2 data that is pertinent to the facility.
+3 (c) Rules regarding the application of waste to fields shall take into
+4 consideration the characteristics of the specific waste involved and shall
+5 calculate the heavy metal or micronutrient soil holding capacity based on a pH
+6 of 5.5 for the soil type at the application site, as appropriate.
+7 (d) A person subject to this section shall make all analytical results derived
+8 from the testing program provided for in this section available to the public
+9 upon request.
+10 (a) Notwithstanding any provision of law to the contrary, a person shall not
+11 apply to or spread on any land in the State:
+12 (1) septage, sludge, or biosolids;
+13 (2) compost material that includes in its production the use of septage,
+14 sludge, or biosolids; or
+15 (3) any other product or material that is intended for use as a fertilizer,
+16 soil amendment, topsoil replacement, or mulch or for other similar agricultural
+17 purpose that is derived from or contains septage, sludge, or biosolids.
+18 (b) Notwithstanding any provision of law to the contrary, a person shall not
+19 sell or distribute in the State:
+20 (1) compost material that includes in its production the use of septage,
+21 sludge, or biosolids; or
+VT LEG #380577 v.1
+BILL AS INTRODUCED H.303
+2025 Page 5 of 7
+1 (2) any other product or material that is intended for use as a fertilizer,
+2 soil amendment, topsoil replacement, or mulch or for other similar agricultural
+3 purpose that is derived from or contains septage, sludge, or biosolids.
+4 Sec. 3. 10 V.S.A. § 6605 is amended to read:
+5 § 6605. SOLID WASTE MANAGEMENT FACILITY CERTIFICATION
+6 (a)(1) No person shall construct, substantially alter, or operate any solid
+7 waste management facility without first obtaining certification from the
+8 Secretary for such the facility, site, or activity, except for sludge or septage
+9 treatment or storage facilities located within the fenced area of a domestic
+10 wastewater treatment plant facility permitted under chapter 47 of this title.
+11 This exemption for sludge or septage treatment or storage facilities shall exist
+12 only if both of the following are met:
+13 (A) the treatment facility does not use a process to reduce pathogens
+14 further in order to qualify for marketing and distribution; and
+15 (B) the The facility is not a drying bed, lagoon, or nonconcrete
+16 bunker; and.
+17 (C)(B) the The owner of the facility has submitted a sludge and
+18 septage management plan to the Secretary and the Secretary has approved the
+19 plan as conforming with the requirements and established standard for proper
+20 management of these materials. Noncompliance with an approved sludge and
+VT LEG #380577 v.1
+BILL AS INTRODUCED H.303
+2025 Page 6 of 7
+1 septage management plan shall constitute a violation of the terms of this
+2 chapter, as well as a violation under chapters 201 and 211 of this title.
+3 (2) Certification shall be valid for a period not to exceed 10 years.
+4 * * *
+5 (g)(1) Notwithstanding any contrary provision of this section, the Secretary
+6 may authorize the land disposal or management of sludge or septage by an
+7 applicant at any certified site or facility with available capacity, provided the
+8 Secretary finds:
+9 (A) that the applicant needs to dispose of accumulated sludge or
+10 septage promptly, and that delay would likely cause public health, or
+11 environmental damage, or nuisance conditions, or would result in excessive
+12 and unnecessary cost to the public, and that the applicant has lost authority to
+13 use previously certified sites through no act or omission of the applicant; and
+14 (B) that at the certified site or facility to be used:
+15 (i) the certificate holder agrees in writing to allow use of the site
+16 or facility by the applicant;
+17 (ii) management of the applicant’s sludge or septage is compatible
+18 with the site or facility certificate;
+19 (iii) all terms and conditions of the original certification will
+20 continue to be met with addition of the applicant’s sludge or septage; and
+VT LEG #380577 v.1
+BILL AS INTRODUCED H.303
+2025 Page 7 of 7
+1 (iv) beginning January 1, 2013, any sludge or septage applied to
+2 land shall be applied according to a nutrient management plan approved by the
+3 Secretary.
+4 (2) Issuance of an approval under this subsection shall comply with
+5 section 7716 of this title. [Repealed.]
+6 * * *
+7 Sec. 4. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #380577 v.1
+[DELETED:  H P H I R B C C B F S A R D S b S a s s A]
+[DELETED:  H P I S § A ( d * ( p t r r ( s ( m w w a 5]
+[DELETED:  H P ( 1 S §           ( o a l m e s p ( f f]
+[DELETED:  H P c d ( c c o ( f u ( a ( ( s ( s p ( s ( s]
+[DELETED:  H P ( s p S § ( w S t w T o ( f ( b ( s p m]
+[DELETED:  H P s c ( * ( m a S ( s e a u ( ( o ( w ( c]
+[DELETED:  H P ( l S ( s * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.303
+2025 Page 1 of 7
+1 H.303
+2 Introduced by Representatives Burtt of Cabot, Bos-Lun of Westminster,
+3 Branagan of Georgia, Burditt of West Rutland, Charlton of
+4 Chester, Cole of Hartford, Dolgin of St. Johnsbury, Harvey of
+5 Castleton, Higley of Lowell, Lipsky of Stowe, McGill of
+6 Bridport, Morgan, L. of Milton, Nelson of Derby, North of
+7 Ferrisburgh, O'Brien of Tunbridge, Ode of Burlington,
+8 Surprenant of Barnard, Tagliavia of Corinth, and Toof of St.
+9 Albans Town
+10 Referred to Committee on
+11 Date:
+12 Subject: Conservation and development; solid waste; septage; sludge;
+13 biosolids; prohibition on land application
+14 Statement of purpose of bill as introduced: This bill proposes to ban the land
+15 application of septage, sludge, and biosolids. The bill also would prohibit the
+16 sale of compost or other agricultural products containing or produced from
+17 septage, sludge, or biosolids.
+18 An act relating to the use of septage, sludge, and biosolids
+VT LEG #380577 v.1
+
+BILL AS INTRODUCED H.303
+2025 Page 2 of 7
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 10 V.S.A. § 6602 is amended to read:
+3 § 6602. DEFINITIONS
+4 As used in this chapter:
+5 (1) “Secretary” means the Secretary of Natural Resources or his or her
+6 duly authorized representative.
+7 * * *
+8 (50) “Biosolids” means septage or sewage sludge derived, in whole or in
+9 part, from domestic wastes that have been subjected to a treatment process for
+10 the reduction of pathogens and have been demonstrated to meet the applicable
+11 requirements in Agency rules for vector attraction reduction and pathogen
+12 reduction.
+13 (51) “Septage” means the liquid and solid materials pumped from a
+14 septic tank, portable toilet, or cesspool during cleaning.
+15 (52) “Sludge” means any solid, semisolid, or liquid generated from a
+16 municipal, commercial, or industrial wastewater treatment facility or process,
+17 water supply treatment plant, air pollution control facility, or any other such
+18 waste having similar characteristics and effects. “Sludge” includes Class A
+19 and Class B sewage sludge as those terms are defined under 40 C.F.R. Part
+20 503.
+VT LEG #380577 v.1
+
+BILL AS INTRODUCED H.303
+2025 Page 3 of 7
+1 (53) “Wastewater treatment facility” has the same meaning as in section
+2 1295 of this title.
+3 Sec. 2. 10 V.S.A. § 6604b is amended to read:
+4 § 6604b. TESTING OF SOLID WASTES PRIOR TO BENEFICIAL USE
+5 ON LAND OR DISTRIBUTION AND MARKETING
+6 PROHIBITION ON LAND APPLICATION OF SLUDGE,
+7 SEPTAGE, AND BIOSOLIDS AND SALE OF COMPOST AND
+8 OTHER AGRICULTURAL PRODUCTS AND MATERIALS
+9 CONTAINING SLUDGE, SEPTAGE, AND BIOSOLIDS
+10 (a) The Secretary of Natural Resources, in consultation with the Secretary
+11 of Agriculture, Food and Markets and with the Commissioner of Health, shall
+12 adopt rules to establish a testing program for all sewage sludge, or similar
+13 liquid wastes, prior to their beneficial use on land or prior to distribution and
+14 marketing of those wastes in liquid or solid form. The testing program shall
+15 establish a process for the determination of minimum testing frequencies and
+16 specific parameters for which analysis must be completed and shall detail
+17 procedures by which samples are collected, stored, and tested.
+18 (b) In establishing the process for the determination of test parameters and
+19 frequency, the rules shall take into account the size and complexity of the
+20 facility, the nature of the service area or collection system, including industrial
+VT LEG #380577 v.1
+
+BILL AS INTRODUCED H.303
+2025 Page 4 of 7
+1 contributions, the frequency of sewage sludge use on the land, and any existing
+2 data that is pertinent to the facility.
+3 (c) Rules regarding the application of waste to fields shall take into
+4 consideration the characteristics of the specific waste involved and shall
+5 calculate the heavy metal or micronutrient soil holding capacity based on a pH
+6 of 5.5 for the soil type at the application site, as appropriate.
+7 (d) A person subject to this section shall make all analytical results derived
+8 from the testing program provided for in this section available to the public
+9 upon request.
+10 (a) Notwithstanding any provision of law to the contrary, a person shall not
+11 apply to or spread on any land in the State:
+12 (1) septage, sludge, or biosolids;
+13 (2) compost material that includes in its production the use of septage,
+14 sludge, or biosolids; or
+15 (3) any other product or material that is intended for use as a fertilizer,
+16 soil amendment, topsoil replacement, or mulch or for other similar agricultural
+17 purpose that is derived from or contains septage, sludge, or biosolids.
+18 (b) Notwithstanding any provision of law to the contrary, a person shall not
+19 sell or distribute in the State:
+20 (1) compost material that includes in its production the use of septage,
+21 sludge, or biosolids; or
+VT LEG #380577 v.1
+
+BILL AS INTRODUCED H.303
+2025 Page 5 of 7
+1 (2) any other product or material that is intended for use as a fertilizer,
+2 soil amendment, topsoil replacement, or mulch or for other similar agricultural
+3 purpose that is derived from or contains septage, sludge, or biosolids.
+4 Sec. 3. 10 V.S.A. § 6605 is amended to read:
+5 § 6605. SOLID WASTE MANAGEMENT FACILITY CERTIFICATION
+6 (a)(1) No person shall construct, substantially alter, or operate any solid
+7 waste management facility without first obtaining certification from the
+8 Secretary for such the facility, site, or activity, except for sludge or septage
+9 treatment or storage facilities located within the fenced area of a domestic
+10 wastewater treatment plant facility permitted under chapter 47 of this title.
+11 This exemption for sludge or septage treatment or storage facilities shall exist
+12 only if both of the following are met:
+13 (A) the treatment facility does not use a process to reduce pathogens
+14 further in order to qualify for marketing and distribution; and
+15 (B) the The facility is not a drying bed, lagoon, or nonconcrete
+16 bunker; and.
+17 (C)(B) the The owner of the facility has submitted a sludge and
+18 septage management plan to the Secretary and the Secretary has approved the
+19 plan as conforming with the requirements and established standard for proper
+20 management of these materials. Noncompliance with an approved sludge and
+VT LEG #380577 v.1
+
+BILL AS INTRODUCED H.303
+2025 Page 6 of 7
+1 septage management plan shall constitute a violation of the terms of this
+2 chapter, as well as a violation under chapters 201 and 211 of this title.
+3 (2) Certification shall be valid for a period not to exceed 10 years.
+4 * * *
+5 (g)(1) Notwithstanding any contrary provision of this section, the Secretary
+6 may authorize the land disposal or management of sludge or septage by an
+7 applicant at any certified site or facility with available capacity, provided the
+8 Secretary finds:
+9 (A) that the applicant needs to dispose of accumulated sludge or
+10 septage promptly, and that delay would likely cause public health, or
+11 environmental damage, or nuisance conditions, or would result in excessive
+12 and unnecessary cost to the public, and that the applicant has lost authority to
+13 use previously certified sites through no act or omission of the applicant; and
+14 (B) that at the certified site or facility to be used:
+15 (i) the certificate holder agrees in writing to allow use of the site
+16 or facility by the applicant;
+17 (ii) management of the applicant’s sludge or septage is compatible
+18 with the site or facility certificate;
+19 (iii) all terms and conditions of the original certification will
+20 continue to be met with addition of the applicant’s sludge or septage; and
+VT LEG #380577 v.1
+
+BILL AS INTRODUCED H.303
+2025 Page 7 of 7
+1 (iv) beginning January 1, 2013, any sludge or septage applied to
+2 land shall be applied according to a nutrient management plan approved by the
+3 Secretary.
+4 (2) Issuance of an approval under this subsection shall comply with
+5 section 7716 of this title. [Repealed.]
+6 * * *
+7 Sec. 4. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #380577 v.1
+
+[DELETED:  H P H I R B C C B F S A R D S b S a s s A]
+[DELETED:  H P I S § A ( d * ( p t r r ( s ( m w w a 5]
+[DELETED:  H P ( 1 S §           ( o a l m e s p ( f f]
+[DELETED:  H P c d ( c c o ( f u ( a ( ( s ( s p ( s ( s]
+[DELETED:  H P ( s p S § ( w S t w T o ( f ( b ( s p m]
+[DELETED:  H P s c ( * ( m a S ( s e a u ( ( o ( w ( c]
+[DELETED:  H P ( l S ( s * S T]

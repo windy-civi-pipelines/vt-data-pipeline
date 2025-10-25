@@ -1,0 +1,280 @@
+Title: BILL AS INTRODUCED H.363
+Official Title: BILL AS INTRODUCED H.363
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 6
+1 H.363
+2 Introduced by Representatives Hooper of Burlington and Nugent of South
+3 Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Elections; local elections; ranked-choice voting
+7 Statement of purpose of bill as introduced: This bill proposes to permit towns,
+8 cities, and villages to opt-in to a uniform ranked-choice voting system for
+9 elections of candidates running for single-seat offices.
+10 An act relating to town, city, and village elections for single-seat offices
+11 using ranked-choice voting
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 17 V.S.A. chapter 55, subchapter 4 is added to read:
+14 Subchapter 4. Ranked-Choice Voting
+15 § 2691a. DEFINITIONS
+16 As used in this subchapter:
+17 (1) “Candidate” means a candidate running for a single-seat office in a
+18 town, city, or village that has adopted the ranked-choice voting system
+19 pursuant to section 2691b of this title.
+VT LEG #380426 v.1
+BILL AS INTRODUCED H.363
+2025 Page 2 of 6
+1 (2) “Candidate pairing” means a unique dyadic arrangement of two
+2 different candidates contending for an office in an election. If N is the number
+3 of candidates contending for an office, then the number of candidate pairings is
+4 N(N-1)/2.
+5 (3) “Consistent majority winner” means the sole candidate who is the
+6 winning candidate in every paired comparison among all candidates.
+7 (4) “Paired comparison” or “head-to-head comparison” means an
+8 evaluation of two candidates for the purpose of determining which candidate
+9 has the greater number of ballots ranking that candidate over the other
+10 candidate in the pair.
+11 (5) “Plurality” means the election outcome in which one candidate
+12 receives more votes than any other candidate, but not necessarily a majority of
+13 the votes cast.
+14 (6) “Presiding officer” means the town clerk or an alternative official as
+15 provided for in section 2452 of this title.
+16 § 2691b. RANKED-CHOICE VOTING SYSTEM; APPLICATION
+17 (a) Application. Unless otherwise specified by State law, the provisions of
+18 the ranked-choice voting system described in this subchapter shall not apply to
+19 the election of a candidate running for a single-seat office in a town, city, or
+20 village unless that town, city, or village votes, at its annual meeting or at a
+21 special meeting called for that purpose, to have those provisions apply.
+VT LEG #380426 v.1
+BILL AS INTRODUCED H.363
+2025 Page 3 of 6
+1 (b) Duration. Once a town, city, or village votes to adopt the ranked-choice
+2 voting system described in this subchapter, this ranked-choice voting system
+3 shall be used in that manner until the town, city, or village votes to discontinue
+4 use of the system.
+5 (c) Australian ballot system. In order to begin using a ranked-choice
+6 voting system, a town, city, or village must be using the Australian ballot
+7 system, pursuant to section 2680 of this title, at the time of an election using a
+8 ranked-choice voting system.
+9 § 2691c. RANKED-CHOICE VOTING SYSTEM; BALLOTS
+10 (a) Form of ballot. Notwithstanding any contrary provisions in section
+11 2681a of this title, a ballot for an election using the ranked-choice system in a
+12 town, city, or village shall allow voters to rank candidates in order of ordinal
+13 preference. The names of all candidates on the ballot shall be listed in
+14 alphabetical order. The ballot shall allow voters to assign rankings to
+15 candidates that are equal to the number of printed candidate names and blank
+16 write-in lines.
+17 (b) Counting votes.
+18 (1) A ballot assigning a candidate a lower ordinal preference shall be
+19 considered to have assigned a higher ranking to that candidate than to a
+20 candidate who was assigned a higher ordinal preference. A ballot assigning a
+21 candidate with the lowest ordinal rank shall be considered to have designated
+VT LEG #380426 v.1
+BILL AS INTRODUCED H.363
+2025 Page 4 of 6
+1 that candidate as the highest-ranked candidate on that ballot and the voter’s
+2 first-ranked preference.
+3 (2) A voter may assign multiple candidates the same ranking.
+4 (3) Any candidate not assigned a ranking on a ballot shall be considered
+5 to have a lower ranking than every candidate assigned with any ordinal
+6 ranking.
+7 § 2691d. RANKED-CHOICE VOTING SYSTEM; IMPLEMENTATION
+8 (a) Implementation. A town, city, or village that has adopted the ranked-
+9 choice voting system pursuant to section 2691b of this title shall implement its
+10 elections of candidates running for single-seat offices in that town, city, or
+11 village in accordance with this section.
+12 (b) Tabulation at polling places. All elections using the ranked-choice
+13 voting system shall be tabulated at polling places by the presiding officer.
+14 (c) Initial tabulation. Upon tabulation of the ballots, if a candidate receives
+15 a majority of first-ranked preferences, that candidate is declared the winner of
+16 the election.
+17 (d) Additional tabulation.
+18 (1) Upon tabulation of the ballots, if no candidate receives a majority of
+19 first-ranked preferences, the ballots shall be tabulated again by paired
+20 comparison and examining every possible paired comparison. In each paired
+VT LEG #380426 v.1
+BILL AS INTRODUCED H.363
+2025 Page 5 of 6
+1 comparison, the presiding officer shall note the winning candidate in each
+2 paired comparison or if there is instead a tie.
+3 (2) Consistent majority winner. If a candidate is the winning candidate
+4 in every paired comparison, the candidate shall be declared the winner of the
+5 election.
+6 (3) No consistent majority winner. If there is no candidate who is the
+7 winning candidate in every paired comparison, then the winning candidate of
+8 the paired comparison involving the two candidates having the most first-
+9 ranking preferences is declared the winner.
+10 § 2691e. RESULTS REPORTING
+11 Results for an election using the ranked-choice voting system shall be
+12 published at polling places on the day of the election as soon as practicable
+13 after the closing of polling places. Results shall indicate:
+14 (1) the number of first-ranked preference ballots each candidate received
+15 in the initial tabulation; and
+16 (2) an accounting of the paired comparisons, including a list of all paired
+17 comparisons, the candidates in each paired comparison, the number of ballots
+18 assigned ranking each candidate over the other candidate in each paired
+19 comparison, and the winner of each paired comparison.
+VT LEG #380426 v.1
+BILL AS INTRODUCED H.363
+2025 Page 6 of 6
+1 § 2691f. RULEMAKING
+2 The Secretary of State shall adopt rules pursuant to 3 V.S.A. chapter 25 for
+3 the proper and efficient administration of the ranked-choice system in towns,
+4 cities, and villages.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect on passage.
+VT LEG #380426 v.1
+[DELETED:  H P H I R B R D S S c e A u I S S § A ( t p]
+[DELETED:  H P ( d o N ( w ( e h c ( r t ( p § ( t t v s]
+[DELETED:  H P ( v s u ( v s r § ( 2 t p a c w ( ( c c c]
+[DELETED:  H P t f ( ( t r § ( c e v ( v ( a t ( ( f c]
+[DELETED:  H P c p ( i e ( w t r § R p a ( i ( c a c]
+[DELETED:  H P § T t c S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.363
+2025 Page 1 of 6
+1 H.363
+2 Introduced by Representatives Hooper of Burlington and Nugent of South
+3 Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Elections; local elections; ranked-choice voting
+7 Statement of purpose of bill as introduced: This bill proposes to permit towns,
+8 cities, and villages to opt-in to a uniform ranked-choice voting system for
+9 elections of candidates running for single-seat offices.
+10 An act relating to town, city, and village elections for single-seat offices
+11 using ranked-choice voting
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 17 V.S.A. chapter 55, subchapter 4 is added to read:
+14 Subchapter 4. Ranked-Choice Voting
+15 § 2691a. DEFINITIONS
+16 As used in this subchapter:
+17 (1) “Candidate” means a candidate running for a single-seat office in a
+18 town, city, or village that has adopted the ranked-choice voting system
+19 pursuant to section 2691b of this title.
+VT LEG #380426 v.1
+
+BILL AS INTRODUCED H.363
+2025 Page 2 of 6
+1 (2) “Candidate pairing” means a unique dyadic arrangement of two
+2 different candidates contending for an office in an election. If N is the number
+3 of candidates contending for an office, then the number of candidate pairings is
+4 N(N-1)/2.
+5 (3) “Consistent majority winner” means the sole candidate who is the
+6 winning candidate in every paired comparison among all candidates.
+7 (4) “Paired comparison” or “head-to-head comparison” means an
+8 evaluation of two candidates for the purpose of determining which candidate
+9 has the greater number of ballots ranking that candidate over the other
+10 candidate in the pair.
+11 (5) “Plurality” means the election outcome in which one candidate
+12 receives more votes than any other candidate, but not necessarily a majority of
+13 the votes cast.
+14 (6) “Presiding officer” means the town clerk or an alternative official as
+15 provided for in section 2452 of this title.
+16 § 2691b. RANKED-CHOICE VOTING SYSTEM; APPLICATION
+17 (a) Application. Unless otherwise specified by State law, the provisions of
+18 the ranked-choice voting system described in this subchapter shall not apply to
+19 the election of a candidate running for a single-seat office in a town, city, or
+20 village unless that town, city, or village votes, at its annual meeting or at a
+21 special meeting called for that purpose, to have those provisions apply.
+VT LEG #380426 v.1
+
+BILL AS INTRODUCED H.363
+2025 Page 3 of 6
+1 (b) Duration. Once a town, city, or village votes to adopt the ranked-choice
+2 voting system described in this subchapter, this ranked-choice voting system
+3 shall be used in that manner until the town, city, or village votes to discontinue
+4 use of the system.
+5 (c) Australian ballot system. In order to begin using a ranked-choice
+6 voting system, a town, city, or village must be using the Australian ballot
+7 system, pursuant to section 2680 of this title, at the time of an election using a
+8 ranked-choice voting system.
+9 § 2691c. RANKED-CHOICE VOTING SYSTEM; BALLOTS
+10 (a) Form of ballot. Notwithstanding any contrary provisions in section
+11 2681a of this title, a ballot for an election using the ranked-choice system in a
+12 town, city, or village shall allow voters to rank candidates in order of ordinal
+13 preference. The names of all candidates on the ballot shall be listed in
+14 alphabetical order. The ballot shall allow voters to assign rankings to
+15 candidates that are equal to the number of printed candidate names and blank
+16 write-in lines.
+17 (b) Counting votes.
+18 (1) A ballot assigning a candidate a lower ordinal preference shall be
+19 considered to have assigned a higher ranking to that candidate than to a
+20 candidate who was assigned a higher ordinal preference. A ballot assigning a
+21 candidate with the lowest ordinal rank shall be considered to have designated
+VT LEG #380426 v.1
+
+BILL AS INTRODUCED H.363
+2025 Page 4 of 6
+1 that candidate as the highest-ranked candidate on that ballot and the voter’s
+2 first-ranked preference.
+3 (2) A voter may assign multiple candidates the same ranking.
+4 (3) Any candidate not assigned a ranking on a ballot shall be considered
+5 to have a lower ranking than every candidate assigned with any ordinal
+6 ranking.
+7 § 2691d. RANKED-CHOICE VOTING SYSTEM; IMPLEMENTATION
+8 (a) Implementation. A town, city, or village that has adopted the ranked-
+9 choice voting system pursuant to section 2691b of this title shall implement its
+10 elections of candidates running for single-seat offices in that town, city, or
+11 village in accordance with this section.
+12 (b) Tabulation at polling places. All elections using the ranked-choice
+13 voting system shall be tabulated at polling places by the presiding officer.
+14 (c) Initial tabulation. Upon tabulation of the ballots, if a candidate receives
+15 a majority of first-ranked preferences, that candidate is declared the winner of
+16 the election.
+17 (d) Additional tabulation.
+18 (1) Upon tabulation of the ballots, if no candidate receives a majority of
+19 first-ranked preferences, the ballots shall be tabulated again by paired
+20 comparison and examining every possible paired comparison. In each paired
+VT LEG #380426 v.1
+
+BILL AS INTRODUCED H.363
+2025 Page 5 of 6
+1 comparison, the presiding officer shall note the winning candidate in each
+2 paired comparison or if there is instead a tie.
+3 (2) Consistent majority winner. If a candidate is the winning candidate
+4 in every paired comparison, the candidate shall be declared the winner of the
+5 election.
+6 (3) No consistent majority winner. If there is no candidate who is the
+7 winning candidate in every paired comparison, then the winning candidate of
+8 the paired comparison involving the two candidates having the most first-
+9 ranking preferences is declared the winner.
+10 § 2691e. RESULTS REPORTING
+11 Results for an election using the ranked-choice voting system shall be
+12 published at polling places on the day of the election as soon as practicable
+13 after the closing of polling places. Results shall indicate:
+14 (1) the number of first-ranked preference ballots each candidate received
+15 in the initial tabulation; and
+16 (2) an accounting of the paired comparisons, including a list of all paired
+17 comparisons, the candidates in each paired comparison, the number of ballots
+18 assigned ranking each candidate over the other candidate in each paired
+19 comparison, and the winner of each paired comparison.
+VT LEG #380426 v.1
+
+BILL AS INTRODUCED H.363
+2025 Page 6 of 6
+1 § 2691f. RULEMAKING
+2 The Secretary of State shall adopt rules pursuant to 3 V.S.A. chapter 25 for
+3 the proper and efficient administration of the ranked-choice system in towns,
+4 cities, and villages.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect on passage.
+VT LEG #380426 v.1
+
+[DELETED:  H P H I R B R D S S c e A u I S S § A ( t p]
+[DELETED:  H P ( d o N ( w ( e h c ( r t ( p § ( t t v s]
+[DELETED:  H P ( v s u ( v s r § ( 2 t p a c w ( ( c c c]
+[DELETED:  H P t f ( ( t r § ( c e v ( v ( a t ( ( f c]
+[DELETED:  H P c p ( i e ( w t r § R p a ( i ( c a c]
+[DELETED:  H P § T t c S T]

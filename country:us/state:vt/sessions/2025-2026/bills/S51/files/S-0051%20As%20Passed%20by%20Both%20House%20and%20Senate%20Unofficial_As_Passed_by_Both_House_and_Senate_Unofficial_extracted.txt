@@ -1,0 +1,524 @@
+Title: 2 An act relating to Vermont income tax exclusions and tax credits
+Official Title: 2 An act relating to Vermont income tax exclusions and tax credits
+Number of Sections: 1
+Source: versions - As Passed by Both House and Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 1 of 10
+1 S.51
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 32 V.S.A. § 5830f is amended to read:
+5 § 5830f. VERMONT CHILD TAX CREDIT
+6 (a) A resident individual or part-year resident individual who is entitled to a
+7 child tax credit under the laws of the United States or who would have been
+8 entitled to a child tax credit under the laws of the United States but for the fact
+9 that the individual or the individual’s spouse does not have a taxpayer
+10 identification number shall be entitled to a refundable credit against the tax
+11 imposed by section 5822 of this title for the taxable year. The total credit per
+12 taxable year shall be in the amount of $1,000.00 per qualifying child, as
+13 defined under 26 U.S.C. § 152(c) but notwithstanding the taxpayer
+14 identification number requirements under 26 U.S.C. § 24(e) and (h)(7), who is
+15 five six years of age or younger as of the close of the calendar year in which
+16 the taxable year of the taxpayer begins. For a part-year resident individual, the
+17 amount of the credit shall be multiplied by the percentage that the individual’s
+18 income that is earned or received during the period of the individual’s
+19 residency in this State bears to the individual’s total income. An otherwise
+20 eligible individual shall be entitled to the credit under this section without
+21 regard for the laws of the United States pertaining to the amount of federal
+22 child tax credit that may be refunded.
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 2 of 10
+1 * * *
+2 Sec. 2. 32 V.S.A. § 5828b is amended to read:
+3 § 5828b. EARNED INCOME TAX CREDIT
+4 (a) A resident individual or part-year resident individual who is entitled to
+5 an earned income tax credit granted under the laws of the United States or who
+6 would have been entitled to an earned income tax credit under the laws of the
+7 United States but for the fact that the individual, the individual’s spouse, or one
+8 or more of the individual’s children does not have a qualifying taxpayer
+9 identification number shall be entitled to a credit against the tax imposed for
+10 each year by section 5822 of this title. The credit shall be for an individual
+11 who claims one or more qualifying children 38 percent or for an individual
+12 who does not claim one or more qualifying children 100 percent of the earned
+13 income tax credit granted to the individual under the laws of the United States
+14 or that would have been granted to the individual under the laws of the United
+15 States but for the fact that the individual, the individual’s spouse, or one or
+16 more of the individual’s children does not have a qualifying taxpayer
+17 identification number, multiplied by the percentage that the individual’s
+18 income that is earned or received during the period of the individual’s
+19 residency in this State bears to the individual’s total income. A resident
+20 individual or part-year resident individual who would have been entitled to or
+21 granted an earned income tax credit under the laws of the United States but for
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 3 of 10
+1 the fact that the individual, the individual’s spouse, or one or more of the
+2 individual’s children does not have a qualifying taxpayer identification number
+3 shall be entitled to a credit under this section.
+4 * * *
+5 Sec. 3. 32 V.S.A. § 5830e is amended to read:
+6 § 5830e. RETIREMENT INCOME; SOCIAL SECURITY INCOME
+7 (a) Social Security income. The portion of federally taxable Social
+8 Security benefits excluded from taxable income under subdivision
+9 5811(21)(B)(iv) of this chapter shall be as follows:
+10 (1) For taxpayers whose filing status is single, married filing separately,
+11 head of household, or surviving spouse:
+12 (A) If the federal adjusted gross income of the taxpayer is less than or
+13 equal to $50,000.00 $55,000.00, all federally taxable benefits received under
+14 the federal Social Security Act shall be excluded.
+15 (B) If the federal adjusted gross income of the taxpayer is greater than
+16 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+17 federally taxable benefits received under the Social Security Act to be
+18 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+19 gross income over $50,000.00 $55,000.00, determined by:
+20 (i) subtracting the federal adjusted gross income of the taxpayer
+21 from $60,000.00 $65,000.00;
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 4 of 10
+1 (ii) dividing the value under subdivision (i) of this subdivision (B)
+2 by $10,000.00; and
+3 (iii) multiplying the value under subdivision (ii) of this subdivision
+4 (B) by the federally taxable benefits received under the Social Security Act.
+5 (C) If the federal adjusted gross income of the taxpayer is equal to or
+6 greater than $60,000.00 $65,000.00, no amount of the federally taxable
+7 benefits received under the Social Security Act shall be excluded under this
+8 section.
+9 (2) For taxpayers whose filing status is married filing jointly:
+10 (A) If the federal adjusted gross income of the taxpayer is less than or
+11 equal to $65,000.00 $70,000.00, all federally taxable benefits received under
+12 the Social Security Act shall be excluded.
+13 (B) If the federal adjusted gross income of the taxpayer is greater than
+14 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+15 federally taxable benefits received under the Social Security Act to be
+16 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+17 gross income over $65,000.00 $70,000.00, determined by:
+18 (i) subtracting the federal adjusted gross income of the taxpayer
+19 from $75,000.00 $80,000.00;
+20 (ii) dividing the value under subdivision (i) of this subdivision (B)
+21 by $10,000.00; and
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 5 of 10
+1 (iii) multiplying the value under subdivision (ii) of this subdivision
+2 (B) by the federally taxable benefits received under the Social Security Act.
+3 (C) If the federal adjusted gross income of the taxpayer is equal to or
+4 greater than $75,000.00 $80,000.00, no amount of the federally taxable
+5 benefits received under the Social Security Act shall be excluded under this
+6 section.
+7 (b) Civil Service Retirement System income. The portion of income
+8 received from the Civil Service Retirement System excluded from taxable
+9 income under subdivision 5811(21)(B)(iv) of this title shall be subject to the
+10 limitations under subsection (e) of this section and shall be determined as
+11 follows:
+12 (1) For taxpayers whose filing status is single, married filing separately,
+13 head of household, or surviving spouse:
+14 (A) If the federal adjusted gross income of the taxpayer is less than or
+15 equal to $50,000.00 $55,000.00, the first $10,000.00 of income received from
+16 the Civil Service Retirement System shall be excluded.
+17 (B) If the federal adjusted gross income of the taxpayer is greater than
+18 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+19 the first $10,000.00 of income received from the Civil Service Retirement
+20 System to be excluded shall be proportional to the amount of the taxpayer’s
+21 federal adjusted gross income over $50,000.00 $55,000.00, determined by:
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 6 of 10
+1 (i) subtracting the federal adjusted gross income of the taxpayer
+2 from $60,000.00 $65,000.00;
+3 (ii) dividing the value under subdivision (i) of this subdivision (B)
+4 by $10,000.00; and
+5 (iii) multiplying the value under subdivision (ii) of this subdivision
+6 (B) by the first $10,000.00 of income received from the Civil Service
+7 Retirement System.
+8 (C) If the federal adjusted gross income of the taxpayer is equal to or
+9 greater than $60,000.00 $65,000.00, no amount of the income received from
+10 the Civil Service Retirement System shall be excluded under this section.
+11 (2) For taxpayers whose filing status is married filing jointly:
+12 (A) If the federal adjusted gross income of the taxpayer is less than or
+13 equal to $65,000.00 $70,000.00, the first $10,000.00 of income received from
+14 the Civil Service Retirement System shall be excluded.
+15 (B) If the federal adjusted gross income of the taxpayer is greater than
+16 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+17 the first $10,000.00 of income received from the Civil Service Retirement
+18 System to be excluded shall be proportional to the amount of the taxpayer’s
+19 federal adjusted gross income over $65,000.00 $70,000.00, determined by:
+20 (i) subtracting the federal adjusted gross income of the taxpayer
+21 from $75,000.00 $80,000.00;
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 7 of 10
+1 (ii) dividing the value under subdivision (i) of this subdivision (B)
+2 by $10,000.00; and
+3 (iii) multiplying the value under subdivision (ii) of this subdivision
+4 (B) by the first $10,000.00 of income received from the Civil Service
+5 Retirement System.
+6 (C) If the federal adjusted gross income of the taxpayer is equal to or
+7 greater than $75,000.00 $80,000.00, no amount of the income received from
+8 the Civil Service Retirement System shall be excluded under this section.
+9 (c) Other contributory retirement systems; earnings not covered by Social
+10 Security. Other retirement income, except U.S. military retirement income
+11 pursuant to subsection (d) of this section, received by a taxpayer of this State
+12 shall be excluded pursuant to subsection (b) of this section as though the
+13 income were received from the Civil Service Retirement System and shall be
+14 subject to the limitations under subsection (e) of this section, provided that:
+15 * * *
+16 (d) U.S. military retirement income and U.S. military survivor benefit
+17 income. For taxpayers of any filing status, U.S. military retirement income,
+18 and U.S. military survivor benefit income received by an eligible beneficiary,
+19 received by a taxpayer of this State shall be excluded from taxable income
+20 under subdivision 5811(21)(B)(iv) of this chapter as follows:
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 8 of 10
+1 (1) If the federal adjusted gross income of the taxpayer is less than or
+2 equal to $125,000.00, all federally taxable U.S. military retirement income and
+3 survivor benefit income shall be excluded.
+4 (2) If the federal adjusted gross income of the taxpayer is greater than
+5 $125,000.00 but less than $175,000.00, the percentage of federally taxable
+6 U.S. military retirement income and survivor benefit income to be excluded
+7 shall be proportional to the amount of the taxpayer’s federal adjusted gross
+8 income over $125,000.00, determined by:
+9 (A) subtracting the federal adjusted gross income of the taxpayer
+10 from $175,000.00;
+11 (B) dividing the value under subdivision (A) of this subdivision (2)
+12 by $50,000.00; and
+13 (C) multiplying the value under subdivision (B) of this subdivision
+14 (2) by the federally taxable U.S. military retirement income and survivor
+15 benefit income received.
+16 (3) pursuant to subsection (b) of this section as though the income were
+17 received from the Civil Service Retirement System and shall be subject to the
+18 limitations under subsection (e) of this section If the federal adjusted gross
+19 income of the taxpayer is equal to or greater than $175,000.00, no amount of
+20 the federally taxable U.S. military retirement income and survivor benefit
+21 income received shall be excluded under this section.
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 9 of 10
+1 (e)(1) Requirement to elect one exclusion. A taxpayer of this State who is
+2 eligible during the taxable year for more than one of the exclusions under
+3 subsections (a), (b), and (c) of this section the Social Security income
+4 exclusion under subsection (a) of this section and any of the exclusions under
+5 subsections (b)–(d) of this section shall elect either only one of the exclusions
+6 for which the taxpayer is eligible under subsections (b)–(d) of this section or
+7 the Social Security income exclusion under subsection (a) of this section, but
+8 not both, for the taxable year. A taxpayer of this State who is eligible during
+9 the taxable year for more than one of the exclusions under subsections (b)–(d)
+10 of this section shall elect only one of the exclusions for which the taxpayer is
+11 eligible for the taxable year.
+12 (2) A taxpayer of this State who is eligible during the taxable year for
+13 the military retirement and survivor benefit exclusion under subsection (d) of
+14 this section may elect that exclusion regardless of whether the taxpayer also
+15 elects an exclusion under subsections (a)–(c) of this section.
+16 Sec. 4. 32 V.S.A. § 5813 is amended to read:
+17 § 5813. STATUTORY PURPOSES
+18 * * *
+19 (aa) The statutory purpose of the Vermont veteran tax credit in section
+20 5830g of this title is to provide financial support to Vermonters who served in
+21 the U.S. uniformed services.
+VT LEG #384261 v.1
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 10 of 10
+1 Sec. 5. 32 V.S.A. § 5830g is added to read:
+2 § 5830g. VERMONT VETERAN TAX CREDIT
+3 (a) A resident individual or part-year resident individual who served in the
+4 uniformed services shall be entitled to a refundable credit against the tax
+5 imposed by section 5822 of this title for the taxable year.
+6 (b) A taxpayer shall be eligible for the credit under this section provided
+7 the taxpayer has a discharge record, or other record of separation from active
+8 duty, verifying service in the uniformed services.
+9 (c)(1) If the federal adjusted gross income of the taxpayer is less than or
+10 equal to $25,000.00, the amount of tax credit provided under this section shall
+11 be $250.00.
+12 (2) If the federal adjusted gross income of the taxpayer is greater than
+13 $25,000.00 but less than $30,000.00, the amount of credit shall be $250.00 less
+14 $5.00 per $100.00 of federal adjusted gross income exceeding $25,000.00 of
+15 federal adjusted gross income.
+16 (3) If the federal adjusted gross income of the taxpayer is $30,000.00 or
+17 greater, no amount of credit shall be provided under this section.
+18 Sec. 6. EFFECTIVE DATE
+19 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+20 January 1, 2025 and apply to taxable years beginning on and after January 1,
+21 2025.
+VT LEG #384261 v.1
+[DELETED:  S P S A I S § ( c e t i i t d i f t a i r e r c]
+[DELETED:  S P * S § ( a w U o i e w w i o S m i i r i g]
+[DELETED:  S P t i s * S § ( S 5 ( h ( e t ( $ f e g ( f]
+[DELETED:  S P ( b ( ( ( g b s ( ( e t ( $ f e g ( f ( b]
+[DELETED:  S P ( ( ( g b s ( r i l f ( h ( e t ( $ t S f]
+[DELETED:  S P ( f ( b ( ( R ( g t ( ( e t ( $ t S f ( f]
+[DELETED:  S P ( b ( ( R ( g t ( S p s i s * ( i a r u]
+[DELETED:  S P ( e s ( $ U s i ( f ( b ( ( b ( r l i t i]
+[DELETED:  S P ( e s e s f t n t o e ( t t e S § * ( 5 t]
+[DELETED:  S P S § ( u i ( t d ( e b ( $ $ f ( g S N J 2]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 1 of 10
+1 S.51
+2 An act relating to Vermont income tax exclusions and tax credits
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 32 V.S.A. § 5830f is amended to read:
+5 § 5830f. VERMONT CHILD TAX CREDIT
+6 (a) A resident individual or part-year resident individual who is entitled to a
+7 child tax credit under the laws of the United States or who would have been
+8 entitled to a child tax credit under the laws of the United States but for the fact
+9 that the individual or the individual’s spouse does not have a taxpayer
+10 identification number shall be entitled to a refundable credit against the tax
+11 imposed by section 5822 of this title for the taxable year. The total credit per
+12 taxable year shall be in the amount of $1,000.00 per qualifying child, as
+13 defined under 26 U.S.C. § 152(c) but notwithstanding the taxpayer
+14 identification number requirements under 26 U.S.C. § 24(e) and (h)(7), who is
+15 five six years of age or younger as of the close of the calendar year in which
+16 the taxable year of the taxpayer begins. For a part-year resident individual, the
+17 amount of the credit shall be multiplied by the percentage that the individual’s
+18 income that is earned or received during the period of the individual’s
+19 residency in this State bears to the individual’s total income. An otherwise
+20 eligible individual shall be entitled to the credit under this section without
+21 regard for the laws of the United States pertaining to the amount of federal
+22 child tax credit that may be refunded.
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 2 of 10
+1 * * *
+2 Sec. 2. 32 V.S.A. § 5828b is amended to read:
+3 § 5828b. EARNED INCOME TAX CREDIT
+4 (a) A resident individual or part-year resident individual who is entitled to
+5 an earned income tax credit granted under the laws of the United States or who
+6 would have been entitled to an earned income tax credit under the laws of the
+7 United States but for the fact that the individual, the individual’s spouse, or one
+8 or more of the individual’s children does not have a qualifying taxpayer
+9 identification number shall be entitled to a credit against the tax imposed for
+10 each year by section 5822 of this title. The credit shall be for an individual
+11 who claims one or more qualifying children 38 percent or for an individual
+12 who does not claim one or more qualifying children 100 percent of the earned
+13 income tax credit granted to the individual under the laws of the United States
+14 or that would have been granted to the individual under the laws of the United
+15 States but for the fact that the individual, the individual’s spouse, or one or
+16 more of the individual’s children does not have a qualifying taxpayer
+17 identification number, multiplied by the percentage that the individual’s
+18 income that is earned or received during the period of the individual’s
+19 residency in this State bears to the individual’s total income. A resident
+20 individual or part-year resident individual who would have been entitled to or
+21 granted an earned income tax credit under the laws of the United States but for
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 3 of 10
+1 the fact that the individual, the individual’s spouse, or one or more of the
+2 individual’s children does not have a qualifying taxpayer identification number
+3 shall be entitled to a credit under this section.
+4 * * *
+5 Sec. 3. 32 V.S.A. § 5830e is amended to read:
+6 § 5830e. RETIREMENT INCOME; SOCIAL SECURITY INCOME
+7 (a) Social Security income. The portion of federally taxable Social
+8 Security benefits excluded from taxable income under subdivision
+9 5811(21)(B)(iv) of this chapter shall be as follows:
+10 (1) For taxpayers whose filing status is single, married filing separately,
+11 head of household, or surviving spouse:
+12 (A) If the federal adjusted gross income of the taxpayer is less than or
+13 equal to $50,000.00 $55,000.00, all federally taxable benefits received under
+14 the federal Social Security Act shall be excluded.
+15 (B) If the federal adjusted gross income of the taxpayer is greater than
+16 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+17 federally taxable benefits received under the Social Security Act to be
+18 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+19 gross income over $50,000.00 $55,000.00, determined by:
+20 (i) subtracting the federal adjusted gross income of the taxpayer
+21 from $60,000.00 $65,000.00;
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 4 of 10
+1 (ii) dividing the value under subdivision (i) of this subdivision (B)
+2 by $10,000.00; and
+3 (iii) multiplying the value under subdivision (ii) of this subdivision
+4 (B) by the federally taxable benefits received under the Social Security Act.
+5 (C) If the federal adjusted gross income of the taxpayer is equal to or
+6 greater than $60,000.00 $65,000.00, no amount of the federally taxable
+7 benefits received under the Social Security Act shall be excluded under this
+8 section.
+9 (2) For taxpayers whose filing status is married filing jointly:
+10 (A) If the federal adjusted gross income of the taxpayer is less than or
+11 equal to $65,000.00 $70,000.00, all federally taxable benefits received under
+12 the Social Security Act shall be excluded.
+13 (B) If the federal adjusted gross income of the taxpayer is greater than
+14 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+15 federally taxable benefits received under the Social Security Act to be
+16 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+17 gross income over $65,000.00 $70,000.00, determined by:
+18 (i) subtracting the federal adjusted gross income of the taxpayer
+19 from $75,000.00 $80,000.00;
+20 (ii) dividing the value under subdivision (i) of this subdivision (B)
+21 by $10,000.00; and
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 5 of 10
+1 (iii) multiplying the value under subdivision (ii) of this subdivision
+2 (B) by the federally taxable benefits received under the Social Security Act.
+3 (C) If the federal adjusted gross income of the taxpayer is equal to or
+4 greater than $75,000.00 $80,000.00, no amount of the federally taxable
+5 benefits received under the Social Security Act shall be excluded under this
+6 section.
+7 (b) Civil Service Retirement System income. The portion of income
+8 received from the Civil Service Retirement System excluded from taxable
+9 income under subdivision 5811(21)(B)(iv) of this title shall be subject to the
+10 limitations under subsection (e) of this section and shall be determined as
+11 follows:
+12 (1) For taxpayers whose filing status is single, married filing separately,
+13 head of household, or surviving spouse:
+14 (A) If the federal adjusted gross income of the taxpayer is less than or
+15 equal to $50,000.00 $55,000.00, the first $10,000.00 of income received from
+16 the Civil Service Retirement System shall be excluded.
+17 (B) If the federal adjusted gross income of the taxpayer is greater than
+18 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+19 the first $10,000.00 of income received from the Civil Service Retirement
+20 System to be excluded shall be proportional to the amount of the taxpayer’s
+21 federal adjusted gross income over $50,000.00 $55,000.00, determined by:
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 6 of 10
+1 (i) subtracting the federal adjusted gross income of the taxpayer
+2 from $60,000.00 $65,000.00;
+3 (ii) dividing the value under subdivision (i) of this subdivision (B)
+4 by $10,000.00; and
+5 (iii) multiplying the value under subdivision (ii) of this subdivision
+6 (B) by the first $10,000.00 of income received from the Civil Service
+7 Retirement System.
+8 (C) If the federal adjusted gross income of the taxpayer is equal to or
+9 greater than $60,000.00 $65,000.00, no amount of the income received from
+10 the Civil Service Retirement System shall be excluded under this section.
+11 (2) For taxpayers whose filing status is married filing jointly:
+12 (A) If the federal adjusted gross income of the taxpayer is less than or
+13 equal to $65,000.00 $70,000.00, the first $10,000.00 of income received from
+14 the Civil Service Retirement System shall be excluded.
+15 (B) If the federal adjusted gross income of the taxpayer is greater than
+16 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+17 the first $10,000.00 of income received from the Civil Service Retirement
+18 System to be excluded shall be proportional to the amount of the taxpayer’s
+19 federal adjusted gross income over $65,000.00 $70,000.00, determined by:
+20 (i) subtracting the federal adjusted gross income of the taxpayer
+21 from $75,000.00 $80,000.00;
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 7 of 10
+1 (ii) dividing the value under subdivision (i) of this subdivision (B)
+2 by $10,000.00; and
+3 (iii) multiplying the value under subdivision (ii) of this subdivision
+4 (B) by the first $10,000.00 of income received from the Civil Service
+5 Retirement System.
+6 (C) If the federal adjusted gross income of the taxpayer is equal to or
+7 greater than $75,000.00 $80,000.00, no amount of the income received from
+8 the Civil Service Retirement System shall be excluded under this section.
+9 (c) Other contributory retirement systems; earnings not covered by Social
+10 Security. Other retirement income, except U.S. military retirement income
+11 pursuant to subsection (d) of this section, received by a taxpayer of this State
+12 shall be excluded pursuant to subsection (b) of this section as though the
+13 income were received from the Civil Service Retirement System and shall be
+14 subject to the limitations under subsection (e) of this section, provided that:
+15 * * *
+16 (d) U.S. military retirement income and U.S. military survivor benefit
+17 income. For taxpayers of any filing status, U.S. military retirement income,
+18 and U.S. military survivor benefit income received by an eligible beneficiary,
+19 received by a taxpayer of this State shall be excluded from taxable income
+20 under subdivision 5811(21)(B)(iv) of this chapter as follows:
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 8 of 10
+1 (1) If the federal adjusted gross income of the taxpayer is less than or
+2 equal to $125,000.00, all federally taxable U.S. military retirement income and
+3 survivor benefit income shall be excluded.
+4 (2) If the federal adjusted gross income of the taxpayer is greater than
+5 $125,000.00 but less than $175,000.00, the percentage of federally taxable
+6 U.S. military retirement income and survivor benefit income to be excluded
+7 shall be proportional to the amount of the taxpayer’s federal adjusted gross
+8 income over $125,000.00, determined by:
+9 (A) subtracting the federal adjusted gross income of the taxpayer
+10 from $175,000.00;
+11 (B) dividing the value under subdivision (A) of this subdivision (2)
+12 by $50,000.00; and
+13 (C) multiplying the value under subdivision (B) of this subdivision
+14 (2) by the federally taxable U.S. military retirement income and survivor
+15 benefit income received.
+16 (3) pursuant to subsection (b) of this section as though the income were
+17 received from the Civil Service Retirement System and shall be subject to the
+18 limitations under subsection (e) of this section If the federal adjusted gross
+19 income of the taxpayer is equal to or greater than $175,000.00, no amount of
+20 the federally taxable U.S. military retirement income and survivor benefit
+21 income received shall be excluded under this section.
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 9 of 10
+1 (e)(1) Requirement to elect one exclusion. A taxpayer of this State who is
+2 eligible during the taxable year for more than one of the exclusions under
+3 subsections (a), (b), and (c) of this section the Social Security income
+4 exclusion under subsection (a) of this section and any of the exclusions under
+5 subsections (b)–(d) of this section shall elect either only one of the exclusions
+6 for which the taxpayer is eligible under subsections (b)–(d) of this section or
+7 the Social Security income exclusion under subsection (a) of this section, but
+8 not both, for the taxable year. A taxpayer of this State who is eligible during
+9 the taxable year for more than one of the exclusions under subsections (b)–(d)
+10 of this section shall elect only one of the exclusions for which the taxpayer is
+11 eligible for the taxable year.
+12 (2) A taxpayer of this State who is eligible during the taxable year for
+13 the military retirement and survivor benefit exclusion under subsection (d) of
+14 this section may elect that exclusion regardless of whether the taxpayer also
+15 elects an exclusion under subsections (a)–(c) of this section.
+16 Sec. 4. 32 V.S.A. § 5813 is amended to read:
+17 § 5813. STATUTORY PURPOSES
+18 * * *
+19 (aa) The statutory purpose of the Vermont veteran tax credit in section
+20 5830g of this title is to provide financial support to Vermonters who served in
+21 the U.S. uniformed services.
+VT LEG #384261 v.1
+
+AS PASSED BY HOUSE AND SENATE S.51
+2025 Page 10 of 10
+1 Sec. 5. 32 V.S.A. § 5830g is added to read:
+2 § 5830g. VERMONT VETERAN TAX CREDIT
+3 (a) A resident individual or part-year resident individual who served in the
+4 uniformed services shall be entitled to a refundable credit against the tax
+5 imposed by section 5822 of this title for the taxable year.
+6 (b) A taxpayer shall be eligible for the credit under this section provided
+7 the taxpayer has a discharge record, or other record of separation from active
+8 duty, verifying service in the uniformed services.
+9 (c)(1) If the federal adjusted gross income of the taxpayer is less than or
+10 equal to $25,000.00, the amount of tax credit provided under this section shall
+11 be $250.00.
+12 (2) If the federal adjusted gross income of the taxpayer is greater than
+13 $25,000.00 but less than $30,000.00, the amount of credit shall be $250.00 less
+14 $5.00 per $100.00 of federal adjusted gross income exceeding $25,000.00 of
+15 federal adjusted gross income.
+16 (3) If the federal adjusted gross income of the taxpayer is $30,000.00 or
+17 greater, no amount of credit shall be provided under this section.
+18 Sec. 6. EFFECTIVE DATE
+19 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+20 January 1, 2025 and apply to taxable years beginning on and after January 1,
+21 2025.
+VT LEG #384261 v.1
+
+[DELETED:  S P S A I S § ( c e t i i t d i f t a i r e r c]
+[DELETED:  S P * S § ( a w U o i e w w i o S m i i r i g]
+[DELETED:  S P t i s * S § ( S 5 ( h ( e t ( $ f e g ( f]
+[DELETED:  S P ( b ( ( ( g b s ( ( e t ( $ f e g ( f ( b]
+[DELETED:  S P ( ( ( g b s ( r i l f ( h ( e t ( $ t S f]
+[DELETED:  S P ( f ( b ( ( R ( g t ( ( e t ( $ t S f ( f]
+[DELETED:  S P ( b ( ( R ( g t ( S p s i s * ( i a r u]
+[DELETED:  S P ( e s ( $ U s i ( f ( b ( ( b ( r l i t i]
+[DELETED:  S P ( e s e s f t n t o e ( t t e S § * ( 5 t]
+[DELETED:  S P S § ( u i ( t d ( e b ( $ $ f ( g S N J 2]

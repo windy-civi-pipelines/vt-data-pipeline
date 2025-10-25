@@ -1,0 +1,100 @@
+Title: BILL AS INTRODUCED H.358
+Official Title: BILL AS INTRODUCED H.358
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.358
+2 Introduced by Representative Boutin of Barre City
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; operation of vehicles; equipment; inspection
+6 Statement of purpose of bill as introduced: This bill proposes to limit the
+7 instances in which a noncommercial motor vehicle would fail an annual safety
+8 inspection and to require inspection station to notify owners of vehicle
+9 conditions that may affect safety.
+10 An act relating to motor vehicle inspections
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 23 V.S.A. § 1222 is amended to read:
+13 § 1222. INSPECTION OF REGISTERED VEHICLES
+14 * * *
+15 (b)(1)(A) The inspections shall be made at garages or qualified service
+16 stations, designated by the Commissioner as inspection stations, for the
+17 purpose of determining whether those motor vehicles are properly equipped
+18 and maintained in good mechanical condition; provided, however, the.
+19 (B)(i) The scope of the safety inspection of a motor vehicle other
+20 than a school bus or a commercial motor vehicle shall be limited to parts or
+VT LEG #381063 v.1
+BILL AS INTRODUCED H.358
+2025 Page 2 of 2
+1 systems that are relevant to the vehicle’s safe operation, and such vehicles shall
+2 not fail the safety portion of the inspection unless the condition of the part or
+3 system poses or may pose a an imminent danger to the operator or to other
+4 highway users.
+5 (ii) If a part or system is not in good mechanical condition but
+6 does not pose an imminent danger to the operator or other highway users, the
+7 inspection station shall provide the owner or operator of the vehicle with
+8 written documentation of the condition of the part or system and recommended
+9 actions that may be taken to restore the part or system to good mechanical
+10 condition. The written documentation shall be signed by the vehicle operator
+11 or owner and a copy shall be kept in the motor vehicle.
+12 * * *
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2025.
+VT LEG #381063 v.1
+[DELETED:  H P H I R R D S S i i c A I S § * ( s p a ( t]
+[DELETED:  H P s n s h ( d i w a c o * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.358
+2025 Page 1 of 2
+1 H.358
+2 Introduced by Representative Boutin of Barre City
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; operation of vehicles; equipment; inspection
+6 Statement of purpose of bill as introduced: This bill proposes to limit the
+7 instances in which a noncommercial motor vehicle would fail an annual safety
+8 inspection and to require inspection station to notify owners of vehicle
+9 conditions that may affect safety.
+10 An act relating to motor vehicle inspections
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 23 V.S.A. § 1222 is amended to read:
+13 § 1222. INSPECTION OF REGISTERED VEHICLES
+14 * * *
+15 (b)(1)(A) The inspections shall be made at garages or qualified service
+16 stations, designated by the Commissioner as inspection stations, for the
+17 purpose of determining whether those motor vehicles are properly equipped
+18 and maintained in good mechanical condition; provided, however, the.
+19 (B)(i) The scope of the safety inspection of a motor vehicle other
+20 than a school bus or a commercial motor vehicle shall be limited to parts or
+VT LEG #381063 v.1
+
+BILL AS INTRODUCED H.358
+2025 Page 2 of 2
+1 systems that are relevant to the vehicle’s safe operation, and such vehicles shall
+2 not fail the safety portion of the inspection unless the condition of the part or
+3 system poses or may pose a an imminent danger to the operator or to other
+4 highway users.
+5 (ii) If a part or system is not in good mechanical condition but
+6 does not pose an imminent danger to the operator or other highway users, the
+7 inspection station shall provide the owner or operator of the vehicle with
+8 written documentation of the condition of the part or system and recommended
+9 actions that may be taken to restore the part or system to good mechanical
+10 condition. The written documentation shall be signed by the vehicle operator
+11 or owner and a copy shall be kept in the motor vehicle.
+12 * * *
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2025.
+VT LEG #381063 v.1
+
+[DELETED:  H P H I R R D S S i i c A I S § * ( s p a ( t]
+[DELETED:  H P s n s h ( d i w a c o * S T]

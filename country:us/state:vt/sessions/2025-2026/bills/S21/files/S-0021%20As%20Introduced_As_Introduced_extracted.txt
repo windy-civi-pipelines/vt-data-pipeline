@@ -1,0 +1,321 @@
+Title: BILL AS INTRODUCED S.21
+Official Title: BILL AS INTRODUCED S.21
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 S.21
+2 Introduced by Senators Williams, Brennan, Collamore, Cummings, Douglass,
+3 Hart, Ingalls, Lyons, Norris, Perchlik and White
+4 Referred to Committee on
+5 Date:
+6 Subject: Education; cell phone-free schools
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+8 use of cell phones and personal electronic devices during the school day in
+9 public schools, independent schools, career and technical education centers,
+10 and prequalified private prekindergarten programs, as well as to prohibit
+11 schools from communicating with students through social media.
+12 An act relating to cell phone-free schools
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. FINDINGS
+15 (a) Findings. The General Assembly finds that:
+16 (1) The National Education Association reported in August 2024 that 83
+17 percent of its members support a policy to prohibit use of cell phones and
+18 personal electronic devices for the entire school day.
+19 (2) In June 2024, U.S. Surgeon General Dr. Vivek Murthy called on
+20 Congress to pass legislation requiring warning labels on social media because
+VT LEG #379276 v.1
+BILL AS INTRODUCED S.21
+2025 Page 2 of 7
+1 these products have not been proven safe for children. He also called on
+2 schools to “ensure that classroom learning and social time are phone-free
+3 experiences.”
+4 (3) Youth in Vermont are in a mental health crisis. According to the
+5 2023 Vermont Youth Risk Behavior Survey (YRBS), 63 percent of high
+6 school students said that their mental health was sometimes to always “not
+7 good.” Suicide is the second leading cause of death for Vermont’s youth.
+8 (4) The youth mental health crisis is driving up education costs in
+9 Vermont. A 2024 Legislative Education Costs Survey conducted by the
+10 Vermont Agency of Education found that the number of positions dedicated to
+11 mental and behavioral health in the 48 responding supervisory unions and
+12 districts was 142 in fiscal year 2022. By fiscal year 2025, that number had
+13 risen to 790. Extrapolated to include the remaining four remaining supervisory
+14 unions, those positions account for close to $53,000,000.00 of education
+15 spending.
+16 (5) The Vermont YRBS also found that 80 percent of high school
+17 students use social media several times a day, with 40 percent using social
+18 media at least one time every hour. 60 percent of middle school students
+19 reported using social media several times a day, with 32 percent using it at
+20 least once per hour.
+VT LEG #379276 v.1
+BILL AS INTRODUCED S.21
+2025 Page 3 of 7
+1 (6) Phone-free policies have been shown to reduce the incidence of
+2 hazing, harassment, and bullying in some schools. Lamoille South
+3 Supervisory Union instituted a phone-free school day policy in August 2024.
+4 Data from one of the supervisory union’s high schools showed nine hazing,
+5 harassment, and bullying claims from August to October 2023, before the
+6 policy, and just two such claims during the same period in 2024, after the
+7 policy was enacted.
+8 (7) Use of social media by school employees runs the risk of violating
+9 the Family Educational Rights and Privacy Act. Given this risk, as well as the
+10 growing body of research that shows social media is not safe for kids, schools
+11 and students are best served by utilizing communication tools other than social
+12 media.
+13 (8) As of November 2024, eight states have passed laws that ban or
+14 restrict cell phone use in schools.
+15 (b) Intent. It is the intent of the General Assembly for all students in
+16 Vermont to access the benefits of a phone- and social media-free school
+17 environment, which promotes focus, improved mental health, and increased
+18 social cohesion.
+VT LEG #379276 v.1
+BILL AS INTRODUCED S.21
+2025 Page 4 of 7
+1 Sec. 2. 16 V.S.A. chapter 9, subchapter 7 is added to read:
+2 Subchapter 7. Cell Phone and Personal Electronic Device Use in Schools
+3 § 581. DEFINITIONS
+4 As used in this subchapter:
+5 (1) “Cell phone” means any device capable of using cellular technology
+6 to facilitate voice service through a commercial telecommunications company,
+7 regardless of whether the device can access internet services and electronic
+8 mail.
+9 (2) “Electronic device” means any device that:
+10 (A) transmits sounds, images, texts, messages, videos, or electronic
+11 information;
+12 (B) electronically records, plays, or stores information; or
+13 (C) accesses the internet or private communication or information
+14 networks.
+15 (3) “Parent” means a parent of a student and includes legal guardians
+16 who are legally authorized to make education decisions for the student.
+17 (4) “School” means any public school, independent school, career and
+18 technical center, or prequalified private prekindergarten provider located in
+19 Vermont.
+20 (5) “Social media” means a website or internet medium that:
+VT LEG #379276 v.1
+BILL AS INTRODUCED S.21
+2025 Page 5 of 7
+1 (A) permits a person to become a registered user, establish an
+2 account, or create a profile for the purpose of allowing users to create, share,
+3 and view user-generated content through such an account or profile;
+4 (B) enables one or more users to generate content that can be viewed
+5 by other users of the medium; and
+6 (C) primarily serves as a medium for users to interact with content
+7 generated by other users of the medium.
+8 (6) “Student” means an individual currently enrolled or registered at a
+9 school located in Vermont, as defined under subdivision (4) of this section.
+10 § 582. PERSONAL ELECTRONIC DEVICES
+11 (a) Policy requirement. Each school board or governing body of an
+12 independent school or prequalified private prekindergarten provider shall
+13 develop, adopt, and ensure implementation of, and make available in the
+14 manner described under subdivision 563(1) of this title, a policy to prohibit
+15 student use of cell phones and personal electronic devices at school from
+16 arrival to dismissal. The policy may prohibit a student from bringing a
+17 personal electronic device to school, require personal electronic devices to be
+18 placed in a designated area on school property, or allow for utilization of a
+19 product that functions to secure the personal electronic device such as a device
+20 locker or lockable pouch.
+21 (b) Exceptions.
+VT LEG #379276 v.1
+BILL AS INTRODUCED S.21
+2025 Page 6 of 7
+1 (1) The policy shall provide an exception for students to possess and use
+2 a cell phone or personal electronic device if a licensed physician or licensed
+3 advanced practice registered nurse determines such possession or use is
+4 necessary for the health of the student. A school may require documentation to
+5 support an exception under this subdivision.
+6 (2) The policy shall also provide an exception for students to possess
+7 and use a cell phone or personal electronic device if such possession or use is
+8 required as part of a student’s individualized education program or 504 plan,
+9 which shall be documented according to applicable State and federal law.
+10 § 583. PROHIBITION OF INTEGRATION OF SOCIAL MEDIA
+11 PLATFORMS INTO EDUCATION
+12 (a) Schools, school districts, and supervisory unions are prohibited from:
+13 (1) utilizing social media for communication with students directly; and
+14 (2) asking, requiring, or permitting students’ use of social media for
+15 school activities, out-of-school academic work, homework, school sports, or
+16 extracurricular clubs and any other school-sponsored activities.
+17 (b) Schools shall have in place measures to prevent students from accessing
+18 social media while on school-issued electronic devices and while under the
+19 supervision of the school.
+20 Sec. 3. EFFECTIVE DATES
+21 (a) This section and Sec. 1 (findings) shall take effect on July 1, 2025.
+VT LEG #379276 v.1
+BILL AS INTRODUCED S.21
+2025 Page 7 of 7
+1 (b) Sec. 2 (cell phone and personal electronic device use in schools) shall
+2 take effect on December 1, 2025.
+VT LEG #379276 v.1
+[DELETED:  S P S I S H R D S S u p a s A I S ( ( p p ( C]
+[DELETED:  S P t s e ( 2 s g ( V V m d r u s ( s m r l]
+[DELETED:  S P ( h S D h p p ( t g a m ( r ( V e s]
+[DELETED:  S P S S § A ( t r m ( ( i ( ( n ( w ( t V (]
+[DELETED:  S P ( a a ( b ( g ( s § ( i d m s a p p p l (]
+[DELETED:  S P ( a a n s ( a r w §   ( ( ( s e ( s s S (]
+[DELETED:  S P ( t]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.21
+2025 Page 1 of 7
+1 S.21
+2 Introduced by Senators Williams, Brennan, Collamore, Cummings, Douglass,
+3 Hart, Ingalls, Lyons, Norris, Perchlik and White
+4 Referred to Committee on
+5 Date:
+6 Subject: Education; cell phone-free schools
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+8 use of cell phones and personal electronic devices during the school day in
+9 public schools, independent schools, career and technical education centers,
+10 and prequalified private prekindergarten programs, as well as to prohibit
+11 schools from communicating with students through social media.
+12 An act relating to cell phone-free schools
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. FINDINGS
+15 (a) Findings. The General Assembly finds that:
+16 (1) The National Education Association reported in August 2024 that 83
+17 percent of its members support a policy to prohibit use of cell phones and
+18 personal electronic devices for the entire school day.
+19 (2) In June 2024, U.S. Surgeon General Dr. Vivek Murthy called on
+20 Congress to pass legislation requiring warning labels on social media because
+VT LEG #379276 v.1
+
+BILL AS INTRODUCED S.21
+2025 Page 2 of 7
+1 these products have not been proven safe for children. He also called on
+2 schools to “ensure that classroom learning and social time are phone-free
+3 experiences.”
+4 (3) Youth in Vermont are in a mental health crisis. According to the
+5 2023 Vermont Youth Risk Behavior Survey (YRBS), 63 percent of high
+6 school students said that their mental health was sometimes to always “not
+7 good.” Suicide is the second leading cause of death for Vermont’s youth.
+8 (4) The youth mental health crisis is driving up education costs in
+9 Vermont. A 2024 Legislative Education Costs Survey conducted by the
+10 Vermont Agency of Education found that the number of positions dedicated to
+11 mental and behavioral health in the 48 responding supervisory unions and
+12 districts was 142 in fiscal year 2022. By fiscal year 2025, that number had
+13 risen to 790. Extrapolated to include the remaining four remaining supervisory
+14 unions, those positions account for close to $53,000,000.00 of education
+15 spending.
+16 (5) The Vermont YRBS also found that 80 percent of high school
+17 students use social media several times a day, with 40 percent using social
+18 media at least one time every hour. 60 percent of middle school students
+19 reported using social media several times a day, with 32 percent using it at
+20 least once per hour.
+VT LEG #379276 v.1
+
+BILL AS INTRODUCED S.21
+2025 Page 3 of 7
+1 (6) Phone-free policies have been shown to reduce the incidence of
+2 hazing, harassment, and bullying in some schools. Lamoille South
+3 Supervisory Union instituted a phone-free school day policy in August 2024.
+4 Data from one of the supervisory union’s high schools showed nine hazing,
+5 harassment, and bullying claims from August to October 2023, before the
+6 policy, and just two such claims during the same period in 2024, after the
+7 policy was enacted.
+8 (7) Use of social media by school employees runs the risk of violating
+9 the Family Educational Rights and Privacy Act. Given this risk, as well as the
+10 growing body of research that shows social media is not safe for kids, schools
+11 and students are best served by utilizing communication tools other than social
+12 media.
+13 (8) As of November 2024, eight states have passed laws that ban or
+14 restrict cell phone use in schools.
+15 (b) Intent. It is the intent of the General Assembly for all students in
+16 Vermont to access the benefits of a phone- and social media-free school
+17 environment, which promotes focus, improved mental health, and increased
+18 social cohesion.
+VT LEG #379276 v.1
+
+BILL AS INTRODUCED S.21
+2025 Page 4 of 7
+1 Sec. 2. 16 V.S.A. chapter 9, subchapter 7 is added to read:
+2 Subchapter 7. Cell Phone and Personal Electronic Device Use in Schools
+3 § 581. DEFINITIONS
+4 As used in this subchapter:
+5 (1) “Cell phone” means any device capable of using cellular technology
+6 to facilitate voice service through a commercial telecommunications company,
+7 regardless of whether the device can access internet services and electronic
+8 mail.
+9 (2) “Electronic device” means any device that:
+10 (A) transmits sounds, images, texts, messages, videos, or electronic
+11 information;
+12 (B) electronically records, plays, or stores information; or
+13 (C) accesses the internet or private communication or information
+14 networks.
+15 (3) “Parent” means a parent of a student and includes legal guardians
+16 who are legally authorized to make education decisions for the student.
+17 (4) “School” means any public school, independent school, career and
+18 technical center, or prequalified private prekindergarten provider located in
+19 Vermont.
+20 (5) “Social media” means a website or internet medium that:
+VT LEG #379276 v.1
+
+BILL AS INTRODUCED S.21
+2025 Page 5 of 7
+1 (A) permits a person to become a registered user, establish an
+2 account, or create a profile for the purpose of allowing users to create, share,
+3 and view user-generated content through such an account or profile;
+4 (B) enables one or more users to generate content that can be viewed
+5 by other users of the medium; and
+6 (C) primarily serves as a medium for users to interact with content
+7 generated by other users of the medium.
+8 (6) “Student” means an individual currently enrolled or registered at a
+9 school located in Vermont, as defined under subdivision (4) of this section.
+10 § 582. PERSONAL ELECTRONIC DEVICES
+11 (a) Policy requirement. Each school board or governing body of an
+12 independent school or prequalified private prekindergarten provider shall
+13 develop, adopt, and ensure implementation of, and make available in the
+14 manner described under subdivision 563(1) of this title, a policy to prohibit
+15 student use of cell phones and personal electronic devices at school from
+16 arrival to dismissal. The policy may prohibit a student from bringing a
+17 personal electronic device to school, require personal electronic devices to be
+18 placed in a designated area on school property, or allow for utilization of a
+19 product that functions to secure the personal electronic device such as a device
+20 locker or lockable pouch.
+21 (b) Exceptions.
+VT LEG #379276 v.1
+
+BILL AS INTRODUCED S.21
+2025 Page 6 of 7
+1 (1) The policy shall provide an exception for students to possess and use
+2 a cell phone or personal electronic device if a licensed physician or licensed
+3 advanced practice registered nurse determines such possession or use is
+4 necessary for the health of the student. A school may require documentation to
+5 support an exception under this subdivision.
+6 (2) The policy shall also provide an exception for students to possess
+7 and use a cell phone or personal electronic device if such possession or use is
+8 required as part of a student’s individualized education program or 504 plan,
+9 which shall be documented according to applicable State and federal law.
+10 § 583. PROHIBITION OF INTEGRATION OF SOCIAL MEDIA
+11 PLATFORMS INTO EDUCATION
+12 (a) Schools, school districts, and supervisory unions are prohibited from:
+13 (1) utilizing social media for communication with students directly; and
+14 (2) asking, requiring, or permitting students’ use of social media for
+15 school activities, out-of-school academic work, homework, school sports, or
+16 extracurricular clubs and any other school-sponsored activities.
+17 (b) Schools shall have in place measures to prevent students from accessing
+18 social media while on school-issued electronic devices and while under the
+19 supervision of the school.
+20 Sec. 3. EFFECTIVE DATES
+21 (a) This section and Sec. 1 (findings) shall take effect on July 1, 2025.
+VT LEG #379276 v.1
+
+BILL AS INTRODUCED S.21
+2025 Page 7 of 7
+1 (b) Sec. 2 (cell phone and personal electronic device use in schools) shall
+2 take effect on December 1, 2025.
+VT LEG #379276 v.1
+
+[DELETED:  S P S I S H R D S S u p a s A I S ( ( p p ( C]
+[DELETED:  S P t s e ( 2 s g ( V V m d r u s ( s m r l]
+[DELETED:  S P ( h S D h p p ( t g a m ( r ( V e s]
+[DELETED:  S P S S § A ( t r m ( ( i ( ( n ( w ( t V (]
+[DELETED:  S P ( a a ( b ( g ( s § ( i d m s a p p p l (]
+[DELETED:  S P ( a a n s ( a r w §   ( ( ( s e ( s s S (]
+[DELETED:  S P ( t]

@@ -1,0 +1,684 @@
+Title: BILL AS INTRODUCED H.323
+Official Title: BILL AS INTRODUCED H.323
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 14
+1 H.323
+2 Introduced by Representatives Berbeco of Winooski, Black of Essex, and
+3 McFaun of Barre Town
+4 Referred to Committee on
+5 Date:
+6 Subject: Health; mental health; education; youth mental health screenings;
+7 curriculum; student peer support
+8 Statement of purpose of bill as introduced: This bill proposes to establish the
+9 Mental Health Innovation Special Fund for the purpose of funding various
+10 programs proposed by this bill, such as the behavioral health innovation
+11 program, a mental health screening program in schools, and a pilot peer-to-
+12 peer mental health support program in schools. This bill further proposes a
+13 mental health and substance misuse literacy curriculum.
+14 An act relating to mental health programming funded by the Mental Health
+15 Innovation Special Fund
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 * * * Mental Health Innovation Special Fund * * *
+18 Sec. 1. 18 V.S.A. § 7116 is added to read:
+19 § 7116. MENTAL HEALTH INNOVATION SPECIAL FUND
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 2 of 14
+1 (a) There is created the Mental Health Innovation Special Fund, a special
+2 fund established and managed pursuant to 32 V.S.A. chapter 7, subchapter 5
+3 and administered by the Department. The Mental Health Innovation Special
+4 Fund shall consist of:
+5 (1) all revenues raised by the Department of Taxes pursuant to 32
+6 V.S.A. § 5862g; and
+7 (2) monies received from public and private sources, including, gifts,
+8 grants, donations, bequests, contributions of cash or securities, contributions of
+9 property in kind from persons or governmental, nongovernmental, quasi-
+10 governmental, or local government entities.
+11 (b) Monies in the Mental Health Innovation Special Fund shall be utilized
+12 exclusively for the mental health screening program established in 16 V.S.A.
+13 § 1433, the behavioral health innovation grant program established in section
+14 7115 of this title, and any other program or service specified in statute.
+15 (c) Revenues deposited in the Mental Health Innovation Special Fund that
+16 are unexpended at the end of the fiscal year shall not revert to the General
+17 Fund and shall be available for expenditure in the following fiscal year.
+18 Sec. 2. 32 V.S.A. § 5862g is added to read:
+19 § 5862g. MENTAL HEALTH INNOVATION SPECIAL FUND CHECKOFF
+20 (a) Returns filed by individuals shall include, on a form prescribed by the
+21 Commissioner of Taxes, an opportunity for the taxpayer to designate funds to
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 3 of 14
+1 the Mental Health Innovation Special Fund established under 18 V.S.A.
+2 § 7116.
+3 (b) Amounts designated under subsection (a) of this section shall be
+4 deducted from refunds due to, or overpayment made by, the designating
+5 taxpayer. All amounts so designated and deducted shall be deposited in an
+6 account by the Commissioner of Taxes for payment to the Mental Health
+7 Innovation Special Fund. If at any time after the payment of amounts
+8 designated to the account it is determined that the taxpayer was not entitled to
+9 all or any part of the amount designated, the Commissioner may assess, and the
+10 account shall then pay to the Commissioner, the amount received, together
+11 with interest at the rate prescribed by section 3108 of this title, from the date
+12 the payment was made until the date of repayment.
+13 (c) The Commissioner of Taxes shall:
+14 (1) explain to taxpayers the purpose of the Mental Health Innovation
+15 Special Fund and how to contribute to it; and
+16 (2) provide notice regarding how to obtain a copy of the annual income
+17 and expense report for the Mental Health Innovation Special Fund.
+18 (d) If amounts paid with respect to a return are insufficient to cover both
+19 the amount owed on the return under this chapter and the amount designated as
+20 a contribution to the Mental Health Innovation Special Fund, the payment shall
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 4 of 14
+1 first be applied to the amount owed on the return under this chapter and the
+2 balance, if any, shall be deposited in the Special Fund.
+3 (e) Nothing in this section shall be construed to require the Commissioner
+4 to collect any amount designated as a contribution to the Mental Health
+5 Innovation Special Fund.
+6 * * * Behavioral Health Innovation Grant Program * * *
+7 Sec. 3. 18 V.S.A. § 7115 is added to read:
+8 § 7115. BEHAVIORAL HEALTH INNOVATION GRANT PROGRAM
+9 (a) To the extent funds permit, the Agency of Human Services shall
+10 establish and administer a behavioral health innovation grant program to
+11 support qualified care providers working in the mental health and substance
+12 misuse treatment fields using available monies from the Mental Health
+13 Innovation Special Fund established in section 7116 of this title. Grants issued
+14 by the Agency in accordance with this section shall enhance innovation in the
+15 workforce and foster quality improvements among qualified care providers.
+16 (b) The Agency shall accept applications for a behavioral health innovation
+17 grant in a format prescribed by the Agency in rule on a rolling basis beginning
+18 on January 1, 2026. In awarding grants pursuant to this section, priority shall
+19 be given to applications proposing to:
+20 (1) develop or expand youth and school-based services;
+21 (2) improve workforce development, training, and education;
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 5 of 14
+1 (3) increase technical assistance to implement best practices;
+2 (4) pilot promising, emerging best practices; or
+3 (5) pilot workforce retention incentives.
+4 (c) Annually on December 15, the Agency shall submit a report on the
+5 expenditures of the behavioral health innovation grant program established in
+6 this section to the House Committees on Health Care and on Human Services
+7 and to the Senate Committee on Health and Welfare. Specifically, the report
+8 shall address:
+9 (1) the revenue credited to the Mental Health Innovation Special Fund;
+10 (2) the amount of fund expenditures attributable to administrative costs;
+11 (3) an itemized list of the funds expended through the grant process and
+12 a description of the grantee activities; and
+13 (4) the effectiveness of the activities funded though the program
+14 established in this section.
+15 (d) The Agency shall adopt rules pursuant to 3 V.S.A. chapter 25 for the
+16 purpose of administering the program established in this section.
+17 (e) As used in this section, “qualified care provider” means an individual
+18 licensed as a psychologist pursuant to 26 V.S.A. chapter 55, an individual
+19 licensed as an alcohol and drug abuse counselor pursuant to 26 V.S.A. chapter
+20 62, an individual licensed as a clinical mental health counselor pursuant to 26
+21 V.S.A. chapter 65, an individual licensed as a psychoanalyst pursuant to 26
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 6 of 14
+1 V.S.A. chapter 77, or an organization accredited by a national accrediting
+2 entity to provide mental health or substance misuse treatment in the State.
+3 Sec. 4. APPROPRIATION; BEHAVIORAL HEALTH INNOVATION
+4 GRANT PROGRAM
+5 In fiscal year 2026, $10,000.00 is appropriated from the General Fund for
+6 the behavioral health innovation grant program established in 18 V.S.A.
+7 § 7115. It is the intent of the General Assembly that the behavioral health
+8 innovation grant program shall be funded by the Mental Health Innovation
+9 Special Fund established in 18 V.S.A. § 7116 in future fiscal years.
+10 * * * Mental Health and Substance Misuse Literacy * * *
+11 Sec. 5. 16 V.S.A. § 914 is added to read:
+12 § 914. MENTAL HEALTH AND SUBSTANCE MISUSE LITERACY
+13 (a) The Agency of Education, in collaboration with the Departments of
+14 Health and of Mental Health, shall select a curriculum to increase awareness
+15 about mental health and substance misuse challenges facing youth throughout
+16 the State. The curriculum shall include age-appropriate information on:
+17 (1) the connection and importance of mental health to an individual’s
+18 physical health and overall well-being;
+19 (2) resources and tools for maintaining mental wellness, including
+20 evidence-based practices used to overcome mental health and substance misuse
+21 challenges;
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 7 of 14
+1 (3) signs and symptoms of common mental health and substance misuse
+2 challenges and strategies for responding to those signs and symptoms;
+3 (4) the prevalence of mental health and substance misuse challenges
+4 across all populations;
+5 (5) common mental health and substance misuse conditions and
+6 evidence-based treatments for common conditions; and
+7 (6) how to seek assistance or support for a mental health or substance
+8 misuse challenge in school and the community at large.
+9 (b) The Agency shall post the selected mental health and substance misuse
+10 curriculum on its website.
+11 (c) The Agency shall distribute the curriculum to school districts, parents
+12 and guardians, and organizations serving youth in the State.
+13 * * * Mental Health Screening Program in Schools * * *
+14 Sec. 6. 16 V.S.A. § 1433 is added to read:
+15 § 1433. MENTAL HEALTH SCREENING PROGRAM
+16 (a) As used in this subchapter:
+17 (1) “Agency” means the Agency of Education.
+18 (2) “Department” means the Department of Mental Health.
+19 (b) The Agency, in collaboration with the Department, shall develop and
+20 administer a program authorizing each supervisory union to provide or arrange
+21 for the provision of evidence-based mental health screening services within the
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 8 of 14
+1 schools it oversees. The mental health screening services provided pursuant to
+2 this section shall be approved by the Agency, in consultation with the
+3 Department. Mental health screening services provided by a supervisory union
+4 shall:
+5 (1) be age appropriate for each grade served;
+6 (2) screen for those mental health conditions determined by the Agency
+7 in rule; and
+8 (3) effectively identify whether a student has a mental health condition
+9 requiring intervention or treatment.
+10 (c) Pursuant to 3 V.S.A. chapter 25, the State Board of Education, in
+11 collaboration with the Department, shall adopt rules for the administration of
+12 this program that address the following:
+13 (1) the process for a supervisory union to notify the Agency of its
+14 decision to participate in the mental health screening program;
+15 (2) access to and use of a participating student’s screening data
+16 consistent with the federal Family Educational Rights and Privacy Act, 20
+17 U.S.C. § 1232g and 34 C.F.R. part 99 (FERPA), and any relevant provisions of
+18 State law;
+19 (3) annual training requirements related to the mental health screening
+20 program;
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 9 of 14
+1 (4) specific mental health conditions that the mental health screening
+2 services seek to identify; and
+3 (5) the process and specific criteria for distribution of financial support
+4 pursuant to subsection (e) of this section.
+5 (d) On or before July 1 of each year, a supervisory union shall notify the
+6 Agency, in a manner specified in rule, as to whether the supervisory union
+7 intends to participate in the mental health screening program for the following
+8 academic year. A participating supervisory union shall:
+9 (1) select and seek approval from the Department regarding the mental
+10 health screening services it plans to offer as part of its participation in the
+11 program;
+12 (2) annually notify parents and guardians with a student in the
+13 supervisory union that the parent or guardian may choose to have the student
+14 screened for mental health conditions;
+15 (3) obtain prior written consent from a student’s parent or guardian prior
+16 to conducting a mental health screening in manner that complies with FERPA;
+17 (4) provide or cause to be provided the approved mental health
+18 screening services to participating students;
+19 (5) notify parents and guardians of the results of a participating student’s
+20 mental health screening;
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 10 of 14
+1 (6) discuss resources with the parents and guardians of a participating
+2 student who screens positive for a potential mental health condition; and
+3 (7) use funds distributed by the Agency for expenses related to
+4 participation in the program pursuant to subsection (e) of this section,
+5 including services for certain students screening positive for a mental health
+6 condition.
+7 (e) To the extent funds permit, the Agency shall distribute funds
+8 appropriated for this purpose from the Mental Health Innovation Special Fund
+9 established in 18 V.S.A. § 7116 to supervisory unions participating in the
+10 mental health screening program established in this section. Of the funds
+11 available for the mental health screening program, 90 percent shall be
+12 distributed to participating supervisory unions based on the previous year’s
+13 average daily membership count and 10 percent shall be available as needed to
+14 participating supervisory unions that have exhausted other funds distributed for
+15 this purpose. Funds distributed pursuant to this subsection shall be used to
+16 fund mental health screening services, trainings for school personnel, and for
+17 those services recommended to a student screening positive for a potential
+18 mental health condition when a parent or guardian does not have the financial
+19 resources to provide the recommended services.
+20 (f) A school employee receiving training pursuant to this chapter shall be
+21 immune from civil or criminal liability with regard to mental health screening
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 11 of 14
+1 services, unless the employee’s actions constituted recklessness, gross
+2 negligence, or intentional misconduct.
+3 (g) Annually on July 1, the Agency, in collaboration with the Department,
+4 shall submit a report to the House Committee on Health Care and to the Senate
+5 Committee on Health and Welfare describing:
+6 (1) the number of participating students who received a mental health
+7 screening pursuant to this section during the previous school year;
+8 (2) the number of participating students referred to additional services or
+9 for whom intervention was required;
+10 (3) how funds distributed to participating supervisory unions were used;
+11 and
+12 (4) whether the distributed funds were sufficient to meet supervisory
+13 union needs under this section.
+14 Sec. 7. APPROPRIATION; MENTAL HEALTH SCREENING PROGRAM
+15 In fiscal year 2026, $10,000.00 is appropriated from the General Fund for
+16 the mental health screening program established in 16 V.S.A. § 1433. It is the
+17 intent of the General Assembly that the mental health screening program shall
+18 be funded by the Mental Health Innovation Special Fund established in 18
+19 V.S.A. § 7116 in future fiscal years.
+20 * * * Peer-to-Peer Mental Health Support in Schools * * *
+21 Sec. 8. PEER-TO-PEER MENTAL HEALTH SUPPORT PROGRAM
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 12 of 14
+1 (a) The Agency of Education, in collaboration with the Department of
+2 Mental Health, shall establish a four-year pilot program for the distribution of
+3 grants that fund peer-to-peer mental health support programs in public and
+4 approved independent schools. Peer-to-peer mental health support programs
+5 shall enable students to provide and receive peer support and coaching from
+6 other students in relation to mental health challenges. Each program shall have
+7 the oversight of a certified peer support provider and guidance from a school-
+8 based mental health service provider.
+9 (b) The Agency of Education shall accept grant applications for peer-to-
+10 peer mental health services programs on a rolling basis beginning on August 1,
+11 2026. In awarding grants pursuant to this section, priority shall be given to
+12 applications submitted by a public or an approved independent school that:
+13 (1) propose using the grant for a peer-to-peer mental health program
+14 with a suicide prevention component; or
+15 (2) are located in an area of the State that has high rates of suicide or has
+16 experienced a recent traumatic event.
+17 (c) Certified peer support specialists and school employees assisting with a
+18 peer-to-peer mental health support program that is awarded a grant pursuant to
+19 this section shall receive training in the following:
+20 (1) empathetic listening;
+21 (2) enhancing protective mental health factors;
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 13 of 14
+1 (3) recognizing and appropriately responding to risk factors and warning
+2 signs associated with mental health and substance misuse challenges, including
+3 co-occurring challenges;
+4 (4) connecting students with professional mental health services and
+5 recovery supports, as necessary; and
+6 (5) any other areas included in the National Model Standards for Peer
+7 Support Certification of Substance Abuse and Mental Health Services
+8 Administration.
+9 (d) On or before January 1, 2030, the Agency of Education, in
+10 collaboration with the Department of Mental Health, shall submit a report to
+11 the House Committee on Health Care and to the Senate Committee on Health
+12 and Welfare evaluating the efficacy of the program, including:
+13 (1) student participation in the program;
+14 (2) the efficacy of the training provided to participating certified peer
+15 support specialists and school employees assisting with the program;
+16 (3) the percentage of students participating in the program who reported
+17 improved mental health outcomes; and
+18 (4) the number of participating students connected with professional
+19 mental services due to program participation.
+VT LEG #380239 v.1
+BILL AS INTRODUCED H.323
+2025 Page 14 of 14
+1 (e) In fiscal year 2027, $10,000.00 is appropriated from the Mental Health
+2 Innovation Special Fund established pursuant to 18 V.S.A. § 7116 to fund the
+3 grants awarded pursuant to this section.
+4 * * * Effective Date * * *
+5 Sec. 9. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #380239 v.1
+[DELETED:  H P H I R M R D S c S M p p p m A I I * S §]
+[DELETED:  H P ( f a F ( V ( g p g ( e § 7 ( a F S § ( C]
+[DELETED:  H P t § ( d t a I d a a w t ( ( S ( a ( t a]
+[DELETED:  H P f b ( t I * S § ( e s m I b w ( g o b ( (]
+[DELETED:  H P ( ( ( ( e t a s ( ( ( a ( e ( p ( l l 6 V]
+[DELETED:  H P V e S   I t § i S * S § ( H a t ( p ( e c]
+[DELETED:  H P ( c ( a ( e ( m ( c ( a * S § ( ( ( ( a f]
+[DELETED:  H P s t D s ( ( i ( r ( c t ( d ( c U S ( p]
+[DELETED:  H P ( s ( p ( A i a ( h p ( s s ( t ( s ( m]
+[DELETED:  H P ( s ( p i c ( a e m a d a p t f t m r ( i]
+[DELETED:  H P s n ( s C ( s ( f ( a ( u S I t i b V * S]
+[DELETED:  H P ( M g a s o t b ( p 2 a ( w ( e ( p t ( (]
+[DELETED:  H P ( s c ( r ( S A ( c t a ( ( s ( i ( m]
+[DELETED:  H P ( I g * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.323
+2025 Page 1 of 14
+1 H.323
+2 Introduced by Representatives Berbeco of Winooski, Black of Essex, and
+3 McFaun of Barre Town
+4 Referred to Committee on
+5 Date:
+6 Subject: Health; mental health; education; youth mental health screenings;
+7 curriculum; student peer support
+8 Statement of purpose of bill as introduced: This bill proposes to establish the
+9 Mental Health Innovation Special Fund for the purpose of funding various
+10 programs proposed by this bill, such as the behavioral health innovation
+11 program, a mental health screening program in schools, and a pilot peer-to-
+12 peer mental health support program in schools. This bill further proposes a
+13 mental health and substance misuse literacy curriculum.
+14 An act relating to mental health programming funded by the Mental Health
+15 Innovation Special Fund
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 * * * Mental Health Innovation Special Fund * * *
+18 Sec. 1. 18 V.S.A. § 7116 is added to read:
+19 § 7116. MENTAL HEALTH INNOVATION SPECIAL FUND
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 2 of 14
+1 (a) There is created the Mental Health Innovation Special Fund, a special
+2 fund established and managed pursuant to 32 V.S.A. chapter 7, subchapter 5
+3 and administered by the Department. The Mental Health Innovation Special
+4 Fund shall consist of:
+5 (1) all revenues raised by the Department of Taxes pursuant to 32
+6 V.S.A. § 5862g; and
+7 (2) monies received from public and private sources, including, gifts,
+8 grants, donations, bequests, contributions of cash or securities, contributions of
+9 property in kind from persons or governmental, nongovernmental, quasi-
+10 governmental, or local government entities.
+11 (b) Monies in the Mental Health Innovation Special Fund shall be utilized
+12 exclusively for the mental health screening program established in 16 V.S.A.
+13 § 1433, the behavioral health innovation grant program established in section
+14 7115 of this title, and any other program or service specified in statute.
+15 (c) Revenues deposited in the Mental Health Innovation Special Fund that
+16 are unexpended at the end of the fiscal year shall not revert to the General
+17 Fund and shall be available for expenditure in the following fiscal year.
+18 Sec. 2. 32 V.S.A. § 5862g is added to read:
+19 § 5862g. MENTAL HEALTH INNOVATION SPECIAL FUND CHECKOFF
+20 (a) Returns filed by individuals shall include, on a form prescribed by the
+21 Commissioner of Taxes, an opportunity for the taxpayer to designate funds to
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 3 of 14
+1 the Mental Health Innovation Special Fund established under 18 V.S.A.
+2 § 7116.
+3 (b) Amounts designated under subsection (a) of this section shall be
+4 deducted from refunds due to, or overpayment made by, the designating
+5 taxpayer. All amounts so designated and deducted shall be deposited in an
+6 account by the Commissioner of Taxes for payment to the Mental Health
+7 Innovation Special Fund. If at any time after the payment of amounts
+8 designated to the account it is determined that the taxpayer was not entitled to
+9 all or any part of the amount designated, the Commissioner may assess, and the
+10 account shall then pay to the Commissioner, the amount received, together
+11 with interest at the rate prescribed by section 3108 of this title, from the date
+12 the payment was made until the date of repayment.
+13 (c) The Commissioner of Taxes shall:
+14 (1) explain to taxpayers the purpose of the Mental Health Innovation
+15 Special Fund and how to contribute to it; and
+16 (2) provide notice regarding how to obtain a copy of the annual income
+17 and expense report for the Mental Health Innovation Special Fund.
+18 (d) If amounts paid with respect to a return are insufficient to cover both
+19 the amount owed on the return under this chapter and the amount designated as
+20 a contribution to the Mental Health Innovation Special Fund, the payment shall
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 4 of 14
+1 first be applied to the amount owed on the return under this chapter and the
+2 balance, if any, shall be deposited in the Special Fund.
+3 (e) Nothing in this section shall be construed to require the Commissioner
+4 to collect any amount designated as a contribution to the Mental Health
+5 Innovation Special Fund.
+6 * * * Behavioral Health Innovation Grant Program * * *
+7 Sec. 3. 18 V.S.A. § 7115 is added to read:
+8 § 7115. BEHAVIORAL HEALTH INNOVATION GRANT PROGRAM
+9 (a) To the extent funds permit, the Agency of Human Services shall
+10 establish and administer a behavioral health innovation grant program to
+11 support qualified care providers working in the mental health and substance
+12 misuse treatment fields using available monies from the Mental Health
+13 Innovation Special Fund established in section 7116 of this title. Grants issued
+14 by the Agency in accordance with this section shall enhance innovation in the
+15 workforce and foster quality improvements among qualified care providers.
+16 (b) The Agency shall accept applications for a behavioral health innovation
+17 grant in a format prescribed by the Agency in rule on a rolling basis beginning
+18 on January 1, 2026. In awarding grants pursuant to this section, priority shall
+19 be given to applications proposing to:
+20 (1) develop or expand youth and school-based services;
+21 (2) improve workforce development, training, and education;
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 5 of 14
+1 (3) increase technical assistance to implement best practices;
+2 (4) pilot promising, emerging best practices; or
+3 (5) pilot workforce retention incentives.
+4 (c) Annually on December 15, the Agency shall submit a report on the
+5 expenditures of the behavioral health innovation grant program established in
+6 this section to the House Committees on Health Care and on Human Services
+7 and to the Senate Committee on Health and Welfare. Specifically, the report
+8 shall address:
+9 (1) the revenue credited to the Mental Health Innovation Special Fund;
+10 (2) the amount of fund expenditures attributable to administrative costs;
+11 (3) an itemized list of the funds expended through the grant process and
+12 a description of the grantee activities; and
+13 (4) the effectiveness of the activities funded though the program
+14 established in this section.
+15 (d) The Agency shall adopt rules pursuant to 3 V.S.A. chapter 25 for the
+16 purpose of administering the program established in this section.
+17 (e) As used in this section, “qualified care provider” means an individual
+18 licensed as a psychologist pursuant to 26 V.S.A. chapter 55, an individual
+19 licensed as an alcohol and drug abuse counselor pursuant to 26 V.S.A. chapter
+20 62, an individual licensed as a clinical mental health counselor pursuant to 26
+21 V.S.A. chapter 65, an individual licensed as a psychoanalyst pursuant to 26
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 6 of 14
+1 V.S.A. chapter 77, or an organization accredited by a national accrediting
+2 entity to provide mental health or substance misuse treatment in the State.
+3 Sec. 4. APPROPRIATION; BEHAVIORAL HEALTH INNOVATION
+4 GRANT PROGRAM
+5 In fiscal year 2026, $10,000.00 is appropriated from the General Fund for
+6 the behavioral health innovation grant program established in 18 V.S.A.
+7 § 7115. It is the intent of the General Assembly that the behavioral health
+8 innovation grant program shall be funded by the Mental Health Innovation
+9 Special Fund established in 18 V.S.A. § 7116 in future fiscal years.
+10 * * * Mental Health and Substance Misuse Literacy * * *
+11 Sec. 5. 16 V.S.A. § 914 is added to read:
+12 § 914. MENTAL HEALTH AND SUBSTANCE MISUSE LITERACY
+13 (a) The Agency of Education, in collaboration with the Departments of
+14 Health and of Mental Health, shall select a curriculum to increase awareness
+15 about mental health and substance misuse challenges facing youth throughout
+16 the State. The curriculum shall include age-appropriate information on:
+17 (1) the connection and importance of mental health to an individual’s
+18 physical health and overall well-being;
+19 (2) resources and tools for maintaining mental wellness, including
+20 evidence-based practices used to overcome mental health and substance misuse
+21 challenges;
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 7 of 14
+1 (3) signs and symptoms of common mental health and substance misuse
+2 challenges and strategies for responding to those signs and symptoms;
+3 (4) the prevalence of mental health and substance misuse challenges
+4 across all populations;
+5 (5) common mental health and substance misuse conditions and
+6 evidence-based treatments for common conditions; and
+7 (6) how to seek assistance or support for a mental health or substance
+8 misuse challenge in school and the community at large.
+9 (b) The Agency shall post the selected mental health and substance misuse
+10 curriculum on its website.
+11 (c) The Agency shall distribute the curriculum to school districts, parents
+12 and guardians, and organizations serving youth in the State.
+13 * * * Mental Health Screening Program in Schools * * *
+14 Sec. 6. 16 V.S.A. § 1433 is added to read:
+15 § 1433. MENTAL HEALTH SCREENING PROGRAM
+16 (a) As used in this subchapter:
+17 (1) “Agency” means the Agency of Education.
+18 (2) “Department” means the Department of Mental Health.
+19 (b) The Agency, in collaboration with the Department, shall develop and
+20 administer a program authorizing each supervisory union to provide or arrange
+21 for the provision of evidence-based mental health screening services within the
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 8 of 14
+1 schools it oversees. The mental health screening services provided pursuant to
+2 this section shall be approved by the Agency, in consultation with the
+3 Department. Mental health screening services provided by a supervisory union
+4 shall:
+5 (1) be age appropriate for each grade served;
+6 (2) screen for those mental health conditions determined by the Agency
+7 in rule; and
+8 (3) effectively identify whether a student has a mental health condition
+9 requiring intervention or treatment.
+10 (c) Pursuant to 3 V.S.A. chapter 25, the State Board of Education, in
+11 collaboration with the Department, shall adopt rules for the administration of
+12 this program that address the following:
+13 (1) the process for a supervisory union to notify the Agency of its
+14 decision to participate in the mental health screening program;
+15 (2) access to and use of a participating student’s screening data
+16 consistent with the federal Family Educational Rights and Privacy Act, 20
+17 U.S.C. § 1232g and 34 C.F.R. part 99 (FERPA), and any relevant provisions of
+18 State law;
+19 (3) annual training requirements related to the mental health screening
+20 program;
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 9 of 14
+1 (4) specific mental health conditions that the mental health screening
+2 services seek to identify; and
+3 (5) the process and specific criteria for distribution of financial support
+4 pursuant to subsection (e) of this section.
+5 (d) On or before July 1 of each year, a supervisory union shall notify the
+6 Agency, in a manner specified in rule, as to whether the supervisory union
+7 intends to participate in the mental health screening program for the following
+8 academic year. A participating supervisory union shall:
+9 (1) select and seek approval from the Department regarding the mental
+10 health screening services it plans to offer as part of its participation in the
+11 program;
+12 (2) annually notify parents and guardians with a student in the
+13 supervisory union that the parent or guardian may choose to have the student
+14 screened for mental health conditions;
+15 (3) obtain prior written consent from a student’s parent or guardian prior
+16 to conducting a mental health screening in manner that complies with FERPA;
+17 (4) provide or cause to be provided the approved mental health
+18 screening services to participating students;
+19 (5) notify parents and guardians of the results of a participating student’s
+20 mental health screening;
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 10 of 14
+1 (6) discuss resources with the parents and guardians of a participating
+2 student who screens positive for a potential mental health condition; and
+3 (7) use funds distributed by the Agency for expenses related to
+4 participation in the program pursuant to subsection (e) of this section,
+5 including services for certain students screening positive for a mental health
+6 condition.
+7 (e) To the extent funds permit, the Agency shall distribute funds
+8 appropriated for this purpose from the Mental Health Innovation Special Fund
+9 established in 18 V.S.A. § 7116 to supervisory unions participating in the
+10 mental health screening program established in this section. Of the funds
+11 available for the mental health screening program, 90 percent shall be
+12 distributed to participating supervisory unions based on the previous year’s
+13 average daily membership count and 10 percent shall be available as needed to
+14 participating supervisory unions that have exhausted other funds distributed for
+15 this purpose. Funds distributed pursuant to this subsection shall be used to
+16 fund mental health screening services, trainings for school personnel, and for
+17 those services recommended to a student screening positive for a potential
+18 mental health condition when a parent or guardian does not have the financial
+19 resources to provide the recommended services.
+20 (f) A school employee receiving training pursuant to this chapter shall be
+21 immune from civil or criminal liability with regard to mental health screening
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 11 of 14
+1 services, unless the employee’s actions constituted recklessness, gross
+2 negligence, or intentional misconduct.
+3 (g) Annually on July 1, the Agency, in collaboration with the Department,
+4 shall submit a report to the House Committee on Health Care and to the Senate
+5 Committee on Health and Welfare describing:
+6 (1) the number of participating students who received a mental health
+7 screening pursuant to this section during the previous school year;
+8 (2) the number of participating students referred to additional services or
+9 for whom intervention was required;
+10 (3) how funds distributed to participating supervisory unions were used;
+11 and
+12 (4) whether the distributed funds were sufficient to meet supervisory
+13 union needs under this section.
+14 Sec. 7. APPROPRIATION; MENTAL HEALTH SCREENING PROGRAM
+15 In fiscal year 2026, $10,000.00 is appropriated from the General Fund for
+16 the mental health screening program established in 16 V.S.A. § 1433. It is the
+17 intent of the General Assembly that the mental health screening program shall
+18 be funded by the Mental Health Innovation Special Fund established in 18
+19 V.S.A. § 7116 in future fiscal years.
+20 * * * Peer-to-Peer Mental Health Support in Schools * * *
+21 Sec. 8. PEER-TO-PEER MENTAL HEALTH SUPPORT PROGRAM
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 12 of 14
+1 (a) The Agency of Education, in collaboration with the Department of
+2 Mental Health, shall establish a four-year pilot program for the distribution of
+3 grants that fund peer-to-peer mental health support programs in public and
+4 approved independent schools. Peer-to-peer mental health support programs
+5 shall enable students to provide and receive peer support and coaching from
+6 other students in relation to mental health challenges. Each program shall have
+7 the oversight of a certified peer support provider and guidance from a school-
+8 based mental health service provider.
+9 (b) The Agency of Education shall accept grant applications for peer-to-
+10 peer mental health services programs on a rolling basis beginning on August 1,
+11 2026. In awarding grants pursuant to this section, priority shall be given to
+12 applications submitted by a public or an approved independent school that:
+13 (1) propose using the grant for a peer-to-peer mental health program
+14 with a suicide prevention component; or
+15 (2) are located in an area of the State that has high rates of suicide or has
+16 experienced a recent traumatic event.
+17 (c) Certified peer support specialists and school employees assisting with a
+18 peer-to-peer mental health support program that is awarded a grant pursuant to
+19 this section shall receive training in the following:
+20 (1) empathetic listening;
+21 (2) enhancing protective mental health factors;
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 13 of 14
+1 (3) recognizing and appropriately responding to risk factors and warning
+2 signs associated with mental health and substance misuse challenges, including
+3 co-occurring challenges;
+4 (4) connecting students with professional mental health services and
+5 recovery supports, as necessary; and
+6 (5) any other areas included in the National Model Standards for Peer
+7 Support Certification of Substance Abuse and Mental Health Services
+8 Administration.
+9 (d) On or before January 1, 2030, the Agency of Education, in
+10 collaboration with the Department of Mental Health, shall submit a report to
+11 the House Committee on Health Care and to the Senate Committee on Health
+12 and Welfare evaluating the efficacy of the program, including:
+13 (1) student participation in the program;
+14 (2) the efficacy of the training provided to participating certified peer
+15 support specialists and school employees assisting with the program;
+16 (3) the percentage of students participating in the program who reported
+17 improved mental health outcomes; and
+18 (4) the number of participating students connected with professional
+19 mental services due to program participation.
+VT LEG #380239 v.1
+
+BILL AS INTRODUCED H.323
+2025 Page 14 of 14
+1 (e) In fiscal year 2027, $10,000.00 is appropriated from the Mental Health
+2 Innovation Special Fund established pursuant to 18 V.S.A. § 7116 to fund the
+3 grants awarded pursuant to this section.
+4 * * * Effective Date * * *
+5 Sec. 9. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #380239 v.1
+
+[DELETED:  H P H I R M R D S c S M p p p m A I I * S §]
+[DELETED:  H P ( f a F ( V ( g p g ( e § 7 ( a F S § ( C]
+[DELETED:  H P t § ( d t a I d a a w t ( ( S ( a ( t a]
+[DELETED:  H P f b ( t I * S § ( e s m I b w ( g o b ( (]
+[DELETED:  H P ( ( ( ( e t a s ( ( ( a ( e ( p ( l l 6 V]
+[DELETED:  H P V e S   I t § i S * S § ( H a t ( p ( e c]
+[DELETED:  H P ( c ( a ( e ( m ( c ( a * S § ( ( ( ( a f]
+[DELETED:  H P s t D s ( ( i ( r ( c t ( d ( c U S ( p]
+[DELETED:  H P ( s ( p ( A i a ( h p ( s s ( t ( s ( m]
+[DELETED:  H P ( s ( p i c ( a e m a d a p t f t m r ( i]
+[DELETED:  H P s n ( s C ( s ( f ( a ( u S I t i b V * S]
+[DELETED:  H P ( M g a s o t b ( p 2 a ( w ( e ( p t ( (]
+[DELETED:  H P ( s c ( r ( S A ( c t a ( ( s ( i ( m]
+[DELETED:  H P ( I g * S T]

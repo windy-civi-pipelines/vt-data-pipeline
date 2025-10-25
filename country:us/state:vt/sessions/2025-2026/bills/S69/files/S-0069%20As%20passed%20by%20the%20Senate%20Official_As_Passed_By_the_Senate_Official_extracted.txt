@@ -1,0 +1,1217 @@
+Title: BILLAS INTRODUCED AND PASSED BY SENATE S.69
+Official Title: BILLAS INTRODUCED AND PASSED BY SENATE S.69
+Number of Sections: 2
+Source: versions - As Passed By the Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 25
+1 S.69
+2 Introduced by Senators Harrison, Bongartz, Brennan, Clarkson, Collamore,
+3 Cummings, Hashim, Lyons, Major, Perchlik, Plunkett, Watson,
+4 Weeks, Westman and White
+5 Referred to Committee on Institutions
+6 Date: February 13, 2025
+7 Subject: Commerce and trade; protection of personal information; privacy of
+8 minors
+9 Statement of purpose of bill as introduced: This bill proposes to require that
+10 any covered business that develops and provides online services, products, or
+11 features that children are reasonably likely to access must not use abusive or
+12 privacy-invasive design features on children.
+13 An act relating to an age-appropriate design code
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. chapter 62, subchapter 6 is added to read:
+16 Subchapter 6. Vermont Age-Appropriate Design Code Act
+17 § 2449a. DEFINITIONS
+18 As used in this subchapter:
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 2 of 25
+1 (1)(A) “Affiliate” means a legal entity that shares common branding
+2 with another legal entity or controls, is controlled by, or is under common
+3 control with another legal entity.
+4 (B) As used in subdivision (A) of this subdivision (1), “control” or
+5 “controlled” means:
+6 (i) ownership of, or the power to vote, more than 50 percent of the
+7 outstanding shares of any class of voting security of a company;
+8 (ii) control in any manner over the election of a majority of the
+9 directors or of individuals exercising similar functions; or
+10 (iii) the power to exercise controlling influence over the
+11 management of a company.
+12 (2) “Age assurance” encompasses a range of methods used to determine,
+13 estimate, or communicate the age or an age range of an online user.
+14 (3) “Algorithmic recommendation system” means a system that uses an
+15 algorithm to select, filter, and arrange media on a covered business’s website
+16 for the purpose of selecting, recommending, or prioritizing media for a user.
+17 (4)(A) “Biometric data” means data generated from the technological
+18 processing of an individual’s unique biological, physical, or physiological
+19 characteristics that allow or confirm the unique identification of the consumer,
+20 including:
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 3 of 25
+1 (i) iris or retina scans;
+2 (ii) fingerprints;
+3 (iii) facial or hand mapping, geometry, or templates;
+4 (iv) vein patterns;
+5 (v) voice prints or vocal biomarkers; and
+6 (vi) gait or personally identifying physical movement or patterns.
+7 (B) “Biometric data” does not include:
+8 (i) a digital or physical photograph;
+9 (ii) an audio or video recording; or
+10 (iii) any data generated from a digital or physical photograph, or
+11 an audio or video recording, unless such data is generated to identify a specific
+12 individual.
+13 (5) “Business associate” has the same meaning as in HIPAA.
+(5) “Business associate” has the same meaning as in the Health
+Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191
+(HIPAA).
+14 (6) “Collect” means buying, renting, gathering, obtaining, receiving, or
+15 accessing any personal data by any means. This includes receiving data from
+16 the consumer, either actively or passively, or by observing the consumer’s
+17 behavior.
+18 (7) “Compulsive use” means the repetitive use of a covered business’s
+19 service that materially disrupts one or more major life activities of a minor,
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 4 of 25
+1 including sleeping, eating, learning, reading, concentrating, communicating, or
+2 working.
+3 (8)(A) “Consumer” means an individual who is a resident of the State.
+4 (B) “Consumer” does not include an individual acting in a
+5 commercial or employment context or as an employee, owner, director, officer,
+6 or contractor of a company, partnership, sole proprietorship, nonprofit, or
+7 government agency whose communications or transactions with the covered
+8 business occur solely within the context of that individual’s role with the
+9 company, partnership, sole proprietorship, nonprofit, or government agency.
+10 (9) “Consumer health data” means any personal data that a controller
+11 uses to identify a consumer’s physical or mental health condition or diagnosis,
+12 including gender-affirming health data and reproductive or sexual health data.
+13 (10) “Controller” means a person who, alone or jointly with others,
+14 determines the purpose and means of processing personal data.
+15 (11) “Covered business” means a sole proprietorship, partnership,
+16 limited liability company, corporation, association, other legal entity, or an
+17 affiliate thereof, that conducts business in this State and whose online
+18 products, services, or features are reasonably likely to be accessed by a minor
+19 and that:
+20 (A) collects consumers’ personal data or has consumers’ personal
+21 data collected on its behalf by a processor; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 5 of 25
+1 (B) alone or jointly with others determines the purposes and means
+2 of the processing of consumers personal data.
+(11) “Covered business” means a sole proprietorship, partnership,
+limited liability company, corporation, association, other legal entity, or an
+affiliate thereof:
+(A) that conducts business in this State;
+(B) that generates a majority of its annual revenue from online
+services;
+(C) whose online products, services, or features are reasonably likely
+to be accessed by a minor;
+(D) that collects consumers’ personal data or has consumers’
+personal data collected on its behalf by a processor; and
+(E) that alone or jointly with others determines the purposes and
+means of the processing of consumers personal data.
+3 (12) “Covered entity” has the same meaning as in HIPAA.
+4 (13) “Covered minor” is a consumer who a covered business actually
+5 knows is a minor or labels as a minor pursuant to age assurance methods in
+6 rules adopted by the Attorney General.
+7 (14) “Default” means a preselected option adopted by the covered
+8 business for the online service, product, or feature.
+9 (15) “De-identified data” means data that does not identify and cannot
+10 reasonably be used to infer information about, or otherwise be linked to, an
+11 identified or identifiable individual, or a device linked to the individual, if the
+12 covered business that possesses the data:
+13 (A)(i) takes reasonable measures to ensure that the data cannot be
+14 used to reidentify an identified or identifiable individual or be associated with
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 6 of 25
+1 an individual or device that identifies or is linked or reasonably linkable to an
+2 individual or household; and
+3 (ii) for purposes of this subdivision (A), “reasonable measures”
+4 includes the de-identification requirements set forth under 45 C.F.R. § 164.514
+5 (other requirements relating to uses and disclosures of protected health
+6 information);
+7 (B) publicly commits to process the data only in a de-identified
+8 fashion and not attempt to reidentify the data; and
+9 (C) contractually obligates any recipients of the data to comply with
+10 all provisions of this subchapter.
+11 (16) “Derived data” means data that is created by the derivation of
+12 information, data, assumptions, correlations, inferences, predictions, or
+13 conclusions from facts, evidence, or another source of information or data
+14 about a minor or a minor’s device.
+15 (17) “Genetic data” means any data, regardless of its format, that results
+16 from the analysis of a biological sample of an individual, or from another
+17 source enabling equivalent information to be obtained, and concerns genetic
+18 material, including deoxyribonucleic acids (DNA), ribonucleic acids (RNA),
+19 genes, chromosomes, alleles, genomes, alterations or modifications to DNA or
+20 RNA, single nucleotide polymorphisms (SNPs), epigenetic markers,
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 7 of 25
+1 uninterpreted data that results from analysis of the biological sample or other
+2 source, and any information extrapolated, derived, or inferred therefrom.
+3 (18) “Identified or identifiable individual” means an individual who can
+4 be readily identified, directly or indirectly, including by reference to an
+5 identifier such as a name, an identification number, specific geolocation data,
+6 or an online identifier.
+7 (19) “Known adult” is a consumer who a covered business actually
+8 knows is an adult or labels as an adult pursuant to age assurance methods in
+9 rules adopted by the Attorney General.
+10 (20) “Minor” means an individual under 18 years of age who is a
+11 resident of the State.
+12 (21) “Neural data” means information that is collected through
+13 biosensors and that could be processed to infer or predict mental states.
+14 (22) “Online service, product, or feature” means a digital product that is
+15 accessible to the public via the internet, including a website or application, and
+16 does not mean any of the following:
+17 (A) telecommunications service, as defined in 47 U.S.C. § 153;
+18 (B) a broadband internet access service as defined in 47 C.F.R.
+19 § 54.400; or
+20 (C) the sale, delivery, or use of a physical product.
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 8 of 25
+1 (23)(A) “Personal data” means any information, including derived data
+2 and unique identifiers, that is linked or reasonably linkable to an identified or
+3 identifiable individual or to a device that identifies, is linked to, or is
+4 reasonably linkable to one or more identified or identifiable individuals in a
+5 household.
+6 (B) Personal data does not include de-identified data or publicly
+7 available information.
+8 (24)(A) “Precise geolocation data” means information derived from
+9 technology that reveals the past or present physical location of a consumer or
+10 device that identifies or is linked or reasonably linkable to one or more
+11 consumers with precision and accuracy within a radius of 1,850 feet.
+12 (B) “Precise geolocation data” does not include:
+13 (i) the content of communications;
+14 (ii) data generated by or connected to an advanced utility metering
+15 infrastructure system;
+16 (iii) a photograph, or metadata associated with a photograph or
+17 video, that cannot be linked to an individual; or
+18 (iv) data generated by equipment used by a utility company.
+19 (25) “Process” or “processing” means any operation or set of operations
+20 performed, whether by manual or automated means, on personal data or on
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 9 of 25
+1 sets of personal data, such as the collection, use, storage, disclosure, analysis,
+2 deletion, modification, or otherwise handling of personal data.
+3 (26) “Processor” means a person who processes personal data on behalf
+4 of a covered business.
+5 (27) “Profiling” means any form of automated processing performed on
+6 personal data to evaluate, analyze, or predict personal aspects related to an
+7 identified or identifiable individual’s economic situation, health, personal
+8 preferences, interests, reliability, behavior, location, or movements.
+9 (28)(A) “Publicly available information” means information that:
+10 (i) is made available through federal, state, or local government
+11 records; or
+12 (ii) a controller has a reasonable basis to believe that the consumer
+13 has lawfully made available to the general public.
+14 (B) “Publicly available information” does not include:
+15 (i) biometric data collected by a business about a consumer
+16 without the consumer’s knowledge;
+17 (ii) information that is collated and combined to create a
+18 consumer profile that is made available to a user of a publicly available
+19 website either in exchange for payment or free of charge;
+20 (iii) information that is made available for sale;
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 10 of 25
+1 (iv) an inference that is generated from the information described
+2 in subdivision (ii) or (iii) of this subdivision (28)(B);
+3 (v) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+4 (vi) any inference made exclusively from multiple independent
+5 sources of publicly available information that reveals sensitive data with
+6 respect to a consumer;
+7 (vii) personal data that is created through the combination of
+8 personal data with publicly available information;
+9 (viii) genetic data, unless otherwise made publicly available by
+10 the consumer to whom the information pertains;
+11 (ix) information provided by a consumer on a website or online
+12 service made available to all members of the public, for free or for a fee,
+13 where the consumer has maintained a reasonable expectation of privacy in the
+14 information, such as by restricting the information to a specific audience; or
+15 (x) intimate images, authentic or computer-generated, known to
+16 be nonconsensual.
+17 (29) “Reasonably likely to be accessed” means an online service,
+18 product, or feature that is reasonably likely to be accessed by a covered minor
+19 based on any of the following indicators:
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 11 of 25
+1 (A) the online service, product, or feature is directed to children, as
+2 defined by the Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501–
+3 6506 and the Federal Trade Commission rules implementing that Act;
+4 (B) the online service, product, or feature is determined, based on
+5 competent and reliable evidence regarding audience composition, to be
+6 routinely accessed by an audience that is composed of at least two percent
+7 minors two through 17 years of age;
+8 (C) the online service, product, or feature contains advertisements
+9 marketed to minors;
+10 (D) the audience of the online service, product, or feature is
+11 determined, based on internal company research, to be composed of at least
+12 two percent minors two through 17 years of age; or
+13 (E) the covered business knew or should have known that at least
+14 two percent of the audience of the online service, product, or feature includes
+15 minors two through 17 years of age, provided that, in making this assessment,
+16 the business shall not collect or process any personal data that is not
+17 reasonably necessary to provide an online service, product, or feature with
+18 which a minor is actively and knowingly engaged.
+19 (30) “Sensitive data” means personal data that:
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 12 of 25
+1 (A) reveals a consumer’s government-issued identifier, such as a
+2 Social Security number, passport number, state identification card, or driver’s
+3 license number, that is not required by law to be publicly displayed;
+4 (B) reveals a consumer’s racial or ethnic origin; national origin;
+5 citizenship or immigration status; religious or philosophical beliefs; a mental
+6 or physical health condition, diagnosis, disability, or treatment; status as
+7 pregnant; income level or indebtedness; or union membership;
+8 (C) reveals a consumer’s sexual orientation, sexlife, sexuality, or
+9 status as transgender or non-binary;
+10 (D) reveals a consumer’s status as a victim of a crime;
+11 (E) is a consumer’s taxreturn and account number, financial account
+12 log-in, financial account, debit card number, or credit card number in
+13 combination with any required security or access code, password, or
+14 credentials allowing access to an account;
+15 (F) is consumer health data;
+16 (G) is collected and analyzed concerning consumer health data that
+17 describes or reveals a past, present, or future mental or physical health
+18 condition, treatment, disability, or diagnosis, including pregnancy, to the extent
+19 the personal data is used by the controller for a purpose other than to identify a
+20 specific consumer’s physical or mental health condition or diagnosis;
+21 (H) is biometric or genetic data;
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 13 of 25
+1 (I) is collected from a covered minor;
+2 (J) is precise geolocation data;
+3 (K) are keystrokes;
+4 (L) is driving behavior; or
+5 (M) is neural data.
+6 (31)(A) “Social media platform” means a public or semipublic internet-
+7 based service or application that is primarily intended to connect and allow a
+8 user to socially interact within such service or application and enables a user
+9 to:
+10 (i) construct a public or semipublic profile for the purposes of
+11 signing into and using such service or application;
+12 (ii) populate a public list of other users with whom the user shares
+13 a social connection within such service or application; or
+14 (iii) create or post content that is viewable by other users,
+15 including content on message boards and in chat rooms, and that presents the
+16 user with content generated by other users.
+17 (B) “Social media platform” does not mean a public or semipublic
+18 internet-based service or application that:
+19 (i) exclusively provides email or direct messaging services;
+20 (ii) primarily consists of news, sports, entertainment, interactive
+21 video games, electronic commerce, or content that is preselected by the
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 14 of 25
+1 provider for which any interactive functionality is incidental to, directly
+2 related to, or dependent on the provision of such content; or
+3 (iii) is used by and under the direction of an educational entity,
+4 including a learning management system or a student engagement program.
+5 (32) “Third party” means a natural or legal person, public authority,
+6 agency, or body other than the covered minor or the covered business.
+7 § 2449b. EXCLUSIONS
+8 This subchapter does not apply to:
+9 (1) a federal, state, tribal, or local government entity in the ordinary
+10 course of its operation;
+11 (2) protected health information that a covered entity or business
+12 associate processes in accordance with, or documents that a covered entity or
+13 business associate creates for the purpose of complying with, HIPAA;
+14 (3) information used only for public health activities and purposes
+15 described in 45 C.F.R. § 164.512;
+16 (4) information that identifies a consumer in connection with:
+17 (A) activities that are subject to the Federal Policy for the Protection
+18 of Human Subjects as set forth in 45 C.F.R. Part 46;
+19 (B) research on human subjects undertaken in accordance with good
+20 clinical practice guidelines issued by the International Council for
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 15 of 25
+1 Harmonisation of Technical Requirements for Pharmaceuticals for Human
+2 Use;
+3 (C) activities that are subject to the protections provided in 21 C.F.R.
+4 Part 50 and 21 C.F.R. Part 56; or
+5 (D) research conducted in accordance with the requirements set forth
+6 in subdivisions (A)–(C) of this subdivision (4) or otherwise in accordance with
+7 State or federal law; and
+8 (5) an entity whose primary purpose is journalism as defined in
+9 12 V.S.A. § 1615(a)(2) and that has a majority of its workforce consisting of
+10 individuals engaging in journalism.
+
+Section 2:
+§ 2449b. EXCLUSIONS
+This subchapter does not apply to:
+(1) a federal, state, tribal, or local government entity in the ordinary
+course of its operation;
+(2) protected health information that a covered entity or business
+associate processes in accordance with, or documents that a covered entity or
+business associate creates for the purpose of complying with, HIPAA;
+(3) information used only for public health activities and purposes
+described in 45 C.F.R. § 164.512;
+(4) information that identifies a consumer in connection with:
+(A) activities that are subject to the Federal Policy for the Protection
+of Human Subjects as set forth in 45 C.F.R. Part 46;
+(B) research on human subjects undertaken in accordance with good
+clinical practice guidelines issued by the International Council for
+Harmonisation of Technical Requirements for Pharmaceuticals for Human
+Use;
+(C) activities that are subject to the protections provided in 21 C.F.R.
+Part 50 and 21 C.F.R. Part 56; or
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 16 of 25
+(D) research conducted in accordance with the requirements set forth
+in subdivisions (A)–(C) of this subdivision (4) or otherwise in accordance with
+State or federal law;
+(5) an entity whose primary purpose is journalism as defined in
+12 V.S.A. § 1615(a)(2) and that has a majority of its workforce consisting of
+individuals engaging in journalism;
+(6) a person who controlled or processed the personal data of not more
+than:
+(A) 25,000 consumers in the previous calendar year, excluding
+personal data controlled or processed solely for the purpose of completing a
+payment transaction; or
+(B) 50,000 consumers in the previous calendar year, excluding
+personal data controlled or processed solely for the purpose of completing a
+payment transaction and had an annual gross revenue of not more than
+$1,000,000.00 in the previous calendar year; and
+(7) a financial institution or data subject to Title V of the Gramm-
+Leach-Bliley Act, Pub. L. No. 106-102, and regulations adopted to implement
+that act.
+1 § 2449c. MINIMUM DUTY OF CARE
+2 (a) A covered business that processes a covered minor’s data in any
+3 capacity owes a minimum duty of care to the covered minor.
+4 (b) As used in this subchapter, “a minimum duty of care” means the use of
+5 the personal data of a covered minor and the design of an online service,
+6 product, or feature will not result in:
+7 (1) reasonably foreseeable emotional distress as defined in 13 V.S.A.
+8 § 1061(2) to a covered minor;
+9 (2) reasonably foreseeable compulsive use of the online service,
+10 product, or feature by a covered minor; or
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 17 of 25
+1 (3) discrimination against a covered minor based upon race, ethnicity,
+2 sex, disability, sexual orientation, gender identity, gender expression, or
+3 national origin.
+4 (c) The content of the media viewed by a covered minor shall not establish
+5 emotional distress or compulsive use as those terms are used in subsection (b)
+6 of this section.
+7 (d) Nothing in this section shall be construed to require a covered business
+8 to prevent or preclude a covered minor from accessing or viewing any piece of
+9 media or category of media.
+10 § 2449d. REQUIRED DEFAULT PRIVACY SETTINGS AND TOOLS
+11 (a) Default privacy settings.
+12 (1) A covered business shall configure all default privacy settings
+13 provided to a covered minor through the online service, product, or feature to
+14 the highest level of privacy, including the following default settings:
+15 (A) not displaying the existence of the covered minor’s social media
+16 account to any known adult user unless the covered minor has expressly and
+17 unambiguously allowed a specific known adult user to view their account or
+18 has expressly and unambiguously chosen to make their account’s existence
+19 public;
+20 (B) not displaying media created or posted by the covered minor on
+21 a social media platform to any known adult user unless the covered minor has
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 18 of 25
+1 expressly and unambiguously allowed a specific known adult user to view
+2 their media or has expressly and unambiguously chosen to make their media
+3 publicly available;
+4 (C) not permitting any known adult users to like, comment on, or
+5 otherwise provide feedback on the covered minor’s media on a social media
+6 platform unless the covered minor has expressly and unambiguously allowed a
+7 specific known adult user to do so;
+8 (D) not permitting direct messaging on a social media platform
+9 between the covered minor and any known adult user unless the covered minor
+10 has expressly and unambiguously decided to allow direct messaging with a
+11 specific known adult user;
+12 (E) not displaying the covered minor’s location to other users, unless
+13 the covered minor expressly and unambiguously shares their location with a
+14 specific user;
+15 (F) not displaying the users connected to the covered minor on a
+16 social media platform unless the covered minor expressly and unambiguously
+17 chooses to share the information with a specific user;
+18 (G) disabling search engine indexing of the covered minor’s account
+19 profile; and
+20 (H) not sending push notifications to the covered minors.
+21 (2) A covered business shall not:
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 19 of 25
+1 (A) provide a covered minor with a single setting that makes all of
+2 the default privacy settings less protective at once; or
+3 (B) request or prompt a covered minor to make their privacy settings
+4 less protective, unless the change is strictly necessary for the covered minor to
+5 access a service or feature they have expressly and unambiguously requested.
+6 (b) Timely deletion of account. A covered business shall:
+7 (1) provide a prominent, accessible, and responsive tool to allow a
+8 covered minor to request the covered minor’s social media account be
+9 unpublished or deleted; and
+10 (2) honor that request not later than 15 days after a covered business
+11 receives the request.
+12 § 2449e. TRANSPARENCY
+13 (a) A covered business shall prominently and clearly provide on their
+14 website or mobile application:
+15 (1) the covered business’ privacy information, terms of service, policies,
+16 and community standards;
+17 (2) detailed descriptions of each algorithmic recommendation system in
+18 use by the covered business, including the factors used by the algorithmic
+19 recommendation system and how each factor:
+20 (A) is measured or determined;
+21 (B) uses the personal data of covered minors;
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 20 of 25
+1 (C) influences the recommendation issued by the system; and
+2 (D) is weighed relative to the other factors listed in this subdivision
+3 (2); and
+4 (3) descriptions, for every feature of the service that uses the personal
+5 data of covered minors, of:
+6 (A) the purpose of the service feature;
+7 (B) the personal data collected by the service feature;
+8 (C) the personal data used by the service feature;
+9 (D) how the personal data is used by the service feature;
+10 (E) any personal data transferred to or shared with a processor or
+11 third party by the service feature, the identity of the processor or third party,
+12 and the purpose of the transfer or sharing; and
+13 (F) how long the personal data is retained.
+14 § 2449f. PROHIBITED DATA AND DESIGN PRACTICES
+15 (a) Data privacy. A covered business shall not:
+16 (1) collect, sell, share, or retain any personal data of a covered minor
+17 that is not necessary to provide an online service, product, or feature with
+18 which the covered minor is actively and knowingly engaged;
+19 (2) use previously collected personal data of a covered minor for any
+20 purpose other than a purpose for which the personal data was collected, unless
+21 necessary to comply with any obligation under this chapter;
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 21 of 25
+1 (3) permit any consumer, including a parent or guardian of a covered
+2 minor, to monitor the online activity of a covered minor or to track the
+3 location of the covered minor without providing a conspicuous signal to the
+4 covered minor when the covered minor is being monitored or tracked;
+5 (4) use the personal data of a covered minor to select, recommend, or
+6 prioritize media for the covered minor, unless the personal data is:
+7 (A) the covered minor’s express and unambiguous request to receive:
+8 (i) media from a specific account, feed, or user, or to receive more
+9 or less media from that account, feed, or user;
+10 (ii) a specific category of media, such as “cat videos” or “breaking
+11 news,” or to see more or less of that category of media; or
+12 (iii) more or less media with similar characteristics as the media
+13 they are currently viewing;
+14 (B) user-selected privacy or accessibility settings; or
+15 (C) a search query, provided the search query is only used to select
+16 and prioritize media in response to the search; or
+17 (5) send push notifications to a covered minor between 12:00 midnight
+18 and 6:00 a.m.
+19 (b) Rulemaking. The Attorney General shall have the authority to adopt
+20 rules pursuant to this subchapter that prohibits data processing or design
+21 practices of a covered business that, in the opinion of the Attorney General,
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 22 of 25
+1 lead to compulsive use or subvert or impair user autonomy, decision making,
+2 or choice during the use of an online service, product, or feature of the covered
+3 business. The Attorney General shall, at least once every two years, review
+4 and update these rules as necessary to keep pace with emerging technology.
+5 § 2449g. AGE ASSURANCE PRIVACY
+6 (a) Privacy protections for age assurance data. Covered businesses and
+7 processors shall:
+8 (1) only collect personal data of a user that is strictly necessary for age
+9 assurance;
+10 (2) immediately upon determining whether a user is a covered minor,
+11 delete any personal data collected of that user for age assurance, except
+12 whether the user is or is not determined to be a covered minor;
+13 (3) not use any personal data of a user collected for age assurance for
+14 any other purpose;
+15 (4) not combine personal data of a user collected for age assurance with
+16 any other personal data of the user, except whether the user is or is not
+17 determined to be a covered minor; and
+18 (5) implement a review process to allow users to appeal their age
+19 designation.
+20 (b) Rulemaking.
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 23 of 25
+1 (1) Subject to subdivision (2) of this subsection, the Attorney General
+2 shall, on or before July 1, 2027, adopt rules identifying commercially
+3 reasonable and technically feasible methods for covered businesses and
+4 processors to determine if a user is a covered minor, describing appropriate
+5 review processes for users appealing their age designations, and providing any
+6 additional privacy protections for age assurance data. The Attorney General
+7 shall periodically review and update these rules as necessary to keep pace with
+8 emerging technology.
+9 (2) In adopting these rules, the Attorney General shall:
+10 (A) prioritize user privacy and accessibility over the accuracy of age
+11 assurance methods; and
+12 (B) consider:
+13 (i) the size, financial resources, and technical capabilities of
+14 covered businesses and processors;
+15 (ii) the costs and effectiveness of available age assurance methods;
+16 (iii) the impact of age assurance methods on users’ safety, utility,
+17 and experience;
+18 (iv) whether and to what extent transparency measures would
+19 increase consumer trust in an age assurance method; and
+20 (v) the efficacy of requiring covered businesses and processors to:
+21 (I) use previously collected data to determine user age;
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 24 of 25
+1 (II) adopt interoperable age assurance methods; and
+2 (III) provide users with multiple options for age assurance.
+3 § 2449h. ENFORCEMENT
+4 (a) A covered business or processor that violates this subchapter or rules
+5 adopted pursuant to this subchapter commits an unfair and deceptive act in
+6 commerce in violation of section 2453 of this title.
+7 (b) The Attorney General shall have the same authority under this
+8 subchapter to make rules, conduct civil investigations, bring civil actions,
+9 and enter into assurances of discontinuance as provided under chapter 63 of
+10 this title.
+11 § 2449i. LIMITATIONS
+12 Nothing in this subchapter shall be interpreted or construed to:
+13 (1) impose liability in a manner that is inconsistent with 47 U.S.C.
+14 § 230; or
+15 (2) prevent or preclude any covered minor from deliberately or
+16 independently searching for, or specifically requesting, any media.
+17 § 2449j. RIGHTS AND FREEDOMS OF COVERED MINORS
+18 It is the intent of the General Assembly that nothing in this subchapter may
+19 be construed to infringe on the existing rights and freedoms of covered minors
+20 or be construed to discriminate against the covered minors based on race,
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 25 of 25
+1 ethnicity, sex, disability, sexual orientation, gender identity, gender expression,
+2 or national origin.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+[DELETED: LASIDADPDBYSES5Pe1of2SIdbySsH,B,B,C,CC,H,L,M,P,P,WW,WnadWRdtoCeonID:Fy1,2S:Ceadt;pnofpli;pyomStofpeofblasi:Tsblpstoret0aycdbsttdsadpsoes,p,o1fsttcnaerylytoasmtntueaeo2pednfsonc3Anatrgtoanaednc4ItishyedbyteGlAyofteSeofV5S.1.9V.cr6,sr6isadtor6Sr6.VtAeDnCeA7§.D8Asudintss]
+[DELETED: LASIDADPDBYSES5Pe2of2()“”msalleyttsscnbwharlleyorc,iscdb,orisurcclwharlle()Asudinsn()oftssn(,“”o“”m()opo,orteprtov,metn50ptoftogssofaycsofvgsyofac()clinaymrorteenofamyoftdsorofisegsrf;o0()teprtoeecgieort1mtofac2()“ea”esareofmsudtod3e,orceteaeoranaereofanoeu4()“crns”msasmttusa5amtos,f,adaemaonacdbsw6frtepeofs,r,orpgmafrau7()“cd”msdagdfmtet8pgofanisueb,p,orp9csttaworcmteueinoftec0i]
+[DELETED: LASIDADPDBYSES5Pe3of2()isorras()f()florhdm,g,ort()vnp()vepsorvlb;a()gtorpyigplmtorp()“cd”dsnti()adlorplp()anaoorvor;o0()aydagdfmadlorplp,o1anaoorvor,usshdaisgdtoiyas2i3()“sa”hstesemgasinH)“sa”hstesemgasinteHePyadAyAtof1,P.L.N.14()“”msb,r,g,o,r,o5agaypldabyaym.Tsisrgdaf6tec,erayorp,orbyogtec7b8()“eu”mstereueofacdb9settmydsoeormemrleasofam]
+[DELETED: LASIDADPDBYSES5Pe4of2igs,e,l,r,c,c,ow()“”msanilwoisartofteS()“”dsntieanilagincloretctorasane,o,d,oorcrofac,p,sep,n,ogtaywecsortswhtecbsorsywntectofttisrewhtc,p,sep,n,orgta0()“rhhd”msaypldattac1ustoiyacsplormlhhcnord2iggghhdaadreorslhhd3()“”msapnw,aeorjywho4dstepeadmsofpgpld5()“db”msasep,p6ldlyc,c,a,orlle,ora7aet,ttcsbsintsSeadweo8p,s,orfsaerylytobeadbyam9adt0()csc’pldaorhsc’p1dacdonisbfbyap;a]
+[DELETED: LASIDADPDBYSES5Pe5of2()aeorjywhosdstepsadmoftepgofcspld)“db”msasep,pdlyc,c,a,orlle,oraet)ttcsbsintsS)ttgsamyofisalrefmo)weoep,s,orfsaerylobeadbyam)ttcsc’pldaorhscldacdonisbfbyap;a)ttaeorjywhosdstepsasoftepgofcspld()“de”hstesemgasinH()“dm”isacrwoacdbsaksisamrorlsasamrpttoaeaemsirsadbyteAyG()“”msapdonadbytecbsfrteoes,p,orf()“dd”msdattdsntiyadc0rybeudtoirina,oroebeldt,a1idoriei,oradeldtotei,ift2cdbsttpsted3()tsremstoeetttedactb4udtoryanidorieilorbeadw]
+[DELETED: LASIDADPDBYSES5Pe6of2anilordettisorisldorryletoailorh;a()frpsoftssn(,“emistednrsstfhur45C.§(rrsrgtousaddsofpdhi()pycstopstedaoyinadfnadntattoryted;a()cyosayrsoftedatocyw0alpsoftss1()“dd”msdattiscdbytedno2i,d,a,c,i,p,o3csfmf,e,orarseofinord4atamroramsd5()“cd”msayd,rsofisf,ttr6fmteasofablseofani,orfma7seegetintobeo,adcsg8m,igdcas(,rcas(9g,c,a,g,asormstoDAo0R,seneps(,ecm]
+[DELETED: LASIDADPDBYSES5Pe7of2uddattrsfmasofteblseoros,adayine,d,oridt()“doriei”msanilwocberyi,dyori,igbyretoairshasan,aninn,scgndoranoei()“na”isacrwoacdbsaksisanatorlsasanatpttoaeaemsirsadbyteAyG0()“”msanilur18ysofaewois1rtofteS2()“ld”msinttiscdt3bsadttcdbepdtoirorptmls4()“es,p,orf”msadlpttti5aetotepcvatei,igaweora,a6dsntmnayoftef7()tss,asddin47U.§8()abditasseasddin47C9§;o0()tes,d,orueofaplp]
+[DELETED: LASIDADPDBYSES5Pe8of2()“ld”msayi,igdddaduei,ttisldorryletoanidoieilortoadetti,isldt,oriryletooeormeidorieisinh()Pldadsntiedddaorpaei()“egnd”msinddftyttrsteptorptpllnofacro0dettisorisldorryletooeorm1cswhpnadaywnarsof10f2()“egnd”dsnti3()tectofc4()dagdbyorcdtoanaduym5ies6()ap,ormaadwhapho7v,ttctbeldtoani;o8()dagdbyetudbyauyc9()“”or“”msayonorstofo0p,wrbymloradm,onpldaoro]
+[DELETED: LASIDADPDBYSES5Pe9of2ssofpld,shastec,u,s,d,ad,m,oroehgofpld()“”msapnwopspldaonbofacdb()“”msayfmofadpgpdopldatoe,a,orptplasrdtoaidorieisecs,h,pp,i,r,b,l,orm()“yaei”msint0()ismeaethf,s,orllg1r;o2()acrhsarebstobetttec3hslymeaetoteglp4()“yaei”dsnti5()bcdacdbyabsatac6wttecsk7()inttiscdadcdtoce8crpettismeaetoaurofapya9weerineefrptorfeofc0()inttismeaefrs]
+[DELETED: LASIDADPDBYSES5Pe10of2()aniettisgdfmteindinsn()or()oftssn(()ayoevld,asddin18U.§()ayiemeeyfmmeissofpyaeinttrssedawrttoac()pldattiscdthtecnopldawhpyaei()gcd,usoemepyaeb0tecrtowmteinp1()inpdbyacronaweoro2semeaetoalmsoftep,frfeorfraf3wetecrhsmdareenofpyint4i,shasbyrgteintoasca;o5()iei,acorc,knt6ben7()“ylytobea”msanoes8p,orfettisrylytobeadbyacdm9bdonayoftefgi]
+[DELETED: LASIDADPDBYSES5Pe11of2()teoes,p,orfeisddtoc,addbyteCsOePyPnA,15U.§66adteFlTeCnrsigttA()teoes,p,orfeisd,bdoctadreeergaec,tobryadbyanaettiscdofatlttopmstoth17ysofa()teoes,p,orfecsamdtom0()teaeofteoes,p,orfei1d,bdonilcyr,tobecdofatl2toptmstoth17ysofa;o3()tecdbskworsdheknttatl4toptofteaeofteoes,p,orfei5mstoth17ysofa,pdt,inmgtsa6tebsslntctorpsaypldattisn7rynytopeanoes,p,orfew8whamrisayadkye9()“ed”mspldat]
+[DELETED: LASIDADPDBYSES5Pe12of2()rsacsgdi,shasSlSyn,ptn,seinc,ordlen,ttisntrdbylwtobepyd()rsacsrloreco;nlocporins;rsorplb;amorplhhc,d,d,ort;ssap;iellori;orunm()rsacsslo,sxl,s,ossastrorn0()rsacsssasavmofac1()isacstxrnadatn,fla2l,fla,dtcdn,orctcdnri3cnwhayrdsyorasc,p,o4csagastoana5()iscrhhd6()iscdadadcgcrhhdat7dsorrsap,p,orfemlorplh8c,t,d,ord,igp,totee9tepldaisudbytecrfrapeortntoiy0sccsplormlhhcnord1()isbcorgcd]
+[DELETED: LASIDADPDBYSES5Pe13of2()iscdfmacdm()ispegnd()aek()isdgb;o()isnld()“lmap”msapcorscibdseoranttispyidtoctadawurtosyitwnshseoranadesaut0()ctapcorscpefrtepso1sgioadugshseora2()peapcltoforuswhwmteurs3aslcnwnshseora;o4()ceorptctttisvebyoru5igctonmebsadinctr,adttpst6urwhctgdbyoru7()“lmap”dsntmnapcors8idseorant9()eypselordtmgs0()pycsofn,s,e,i1vog,ecc,orctttispdbyt]
+[DELETED: LASIDADPDBYSES5Pe14of2prfrwhayiefyisilt,drdt,ordtontepnofshc;o()isudbyadurtednofaneleigalgmtsmorastetp()“dp”msanlorllp,pcaa,orbyortntecdmrortecdb§.ETssrdsntayt()af,s,t,orllgteyinteo0ceofiso1()pdhhinttacdeyorb2aepsinaew,ordsttacdeyo3bsaecsfrtepeofcgw,H4()inudoyfrpchhasadp5ddin45C.§16()inttisacrincnw7()asttaesttoteFlPyfrteP8ofHnSsasstfhin45C.Pt49()rhonhnssuninaewhg0clpegsidbyteIlClf]
+[DELETED: LASIDADPDBYSES5Pe15of2HnofTlRsfrPsfrHU()asttaesttotepspdin21CPt50ad21C.Pt5;o()rhcdinaewhtersstfinss()oftssn()oroeinaewSeorfll;a()aneywepypeisjmasddi1.§)adtthsamyofiswecgo0iseginj.Essrdsntayt)af,s,t,orllgteyinteoeofiso)pdhhinttacdeyorbepsinaew,ordsttacdeyosaecsfrtepeofcgw,H)inudoyfrpchhasadpdin45C.§1)inttisacrincnw)asttaesttoteFlPyfrtePfHnSsasstfhin45C.Pt4)rhonhnssuninaewhglpegsidbyteIlClfnofTlRsfrPsfrH)asttaesttotepspdin21Ct50ad21C.Pt5;o]
+[DELETED: LASIDADPDBYSES5Pe16of2)rhcdinaewhtersstfnss()oftssn()oroeinaeweorfll)aneywepypeisjmasddi.§)adtthsamyofiswecgoseginj)apnwocdorpdtepldaofntm)20csintepscry,eldacdorpdsyfrtepeofcgtt;o)50csintepscry,eldacdorpdsyfrtepeofcgttnadhdanalgsreofntmet0intepscry;a)aflinordasttoTeVofteGyA,P.L.N.1,adrsadtoita§.MMDYOFC()Acdbsttpsacdmsdainacyosammdyofcetotecdm()Asudintss,“ammdyofc”msteueotepldaofacdmradtednofanoesp,orfewlntrti()ryfeeldsasddin13V§)toacdm()ryfeceueofteoes0p,orfebyacdm]
+[DELETED: LASIDADPDBYSES5Pe17of2()dnatacdmrbdunr,es,d,slo,gri,gre,onlo()Tectoftemavdbyacdmrslnteeldsorceueastetsaeudinsn(oftss()Ngintssnslbecdtoreacdbtoptorpeacdmrfmagorvgaypeomaorcyofm0§.RDDTPYSSADT1()Dtpys2()Acdbsslcealdtpys3pdtoacdmrthteoes,p,orfet4tehtllofp,igtefgdts5()ntdgteeeoftecdmsslm6attoayknaturustecdmrhseya7uyadascknaturtovwtrato8hseyaduycntometrase9p0()ntdgmacdorpdbytecdmro1aslmapmtoayknaturustecdmrh]
+[DELETED: LASIDADPDBYSES5Pe18of2eyaduyadascknaturtovtrmaorhseyaduycntometrmpya()ntpgayknatustol,cto,ooepefkontecdmsmaonaslmpmustecdmrhseyaduyadscknaturtodos()ntpgdtmgonaslmapbntecdmradayknaturustecdm0hseyaduyddtoawdtmgwh1scknatu2()ntdgtecdmslntooru,u3tecdmreyaduysstrlnwh4scu5()ntdgteuscdtotecdmron6slmapmustecdmreyadu7cstoseteinwhascu8()dgsheeigoftecdmsa9p;a0()ntsgphnstotecdm1()Acdbssln]
+[DELETED: LASIDADPDBYSES5Pe19of2()peacdmrwhasesgttmsalotedtpysslspeato;o()rtorptacdmrtometrpyslsp,usteceissynyfrtecdmrtasaseorfetyheeyaduyr()Tydnofa.Acdbss()peap,a,adretltoawcdmrtorttecdmsslmaatbudord;a0()hrttrtntlrtn15dsaracdb1rster2§.T3()Acdbsslpyadcypeont4weormea5()tecdb’pyi,tsofs,p6adcys7()dddsofehacrnsmi8uebytecdb,igtefsudbytea9rnsmadhwehf0()ismdord1()ustepldaofcdm]
+[DELETED: LASIDADPDBYSES5Pe20of2()isternidbytes;a()iswdretoteorfsldintss(;a()d,freyfeoftesettustepdaofcdm,o()tepeoftesef()tepldacdbytesef()tepldaudbytesef()hwtepldaisudbytesef0()aypldatdtoorsdwhapro1tdpybytesef,teiyofteprortdp2adtepeoftetrors;a3()hwlgtepldaisr4§.PDDAADDNP5()Dap.Acdbssln6()c,s,s,orrnaypldaofacdm7ttisntnytopeanoes,p,orfew8whtecdmrisayadkye9()uepycdpldaofacdmrfra0peortnapefrwhtepldawsc,u1nytocywhayonurtsc]
+[DELETED: LASIDADPDBYSES5Pe21of2()ptayc,igaptorgnofacm,tomrteoeayofacdmrortotktlnoftecdmrwtpgacssltotcdmrwntecdmrisbgmdort()uetepldaofacdmrtos,r,opemafrtecdm,ustepldai()tecdmsesadusrttor()mafmasca,f,oru,ortoremorlsmafmtta,f,oru0()asccyofm,shas“tv”or“1n”ortosemeorlsofttcyofm;o2()meorlsmawhsrcsastem3tyaecyv4()udpyorays;o5()ashq,pdteshqyisoyudtos6adpemainretotes;o7()sdphnstoacdmrbn10m8ad60a9()R.TeAyGlslheteaytoa0rspttotssrttpsdapgord1psofacdbst,inteonofteAyG]
+[DELETED: LASIDADPDBYSES5Pe22of2ldtoceueorstorirura,dnmorcedgteueofanoes,p,orfeoftecb.TeAyGls,atltoeeytoy,raduetersasnytokppewhegt§.AEAEP()Pypsfraeaed.Cdbsapss()oyctpldaofaurttissynyfraa0()iyundgwraurisacdm1deaypldacdoftturfraea,e2wrteurisorisntddtobeacdm3()ntueaypldaofaurcdfraeaef4ayorp5()ntcepldaofaurcdfraeaew6ayorpldaofteu,etwrteurisorisn7ddtobeacdm;a8()itarwpstoawustoaltra9d0()R]
+[DELETED: LASIDADPDBYSES5Pe23of2()Sttosn()oftss,teAyGs,onorbeJy1,2,atrsigcreadtyfemsfrcdbsapstodeifaurisacdm,dgarwpsfrusagtraed,adpgaalpypsfraeaed.TeAyGslpyrwaduetersasnytokppewegt()Inagter,teAyGls0()peurpyadayorteayofa1aem;a2()c3()tes,flr,adtlcso4cdbsadp5()tecsadesofaeaeaem6()teitofaeaemsonu’s,u7ade8()wradtowtettymsw9iecrttinanaeaem;a0()teeyofrgcdbsadpst1()uepycddatodeura]
+[DELETED: LASIDADPDBYSES5Pe24of2()atieaeaem;a()peuswhmeosfraea§.E()Acdbsorprttvstssrorradpttotssrcsanuraddeaticeinvnofsn23oftst()TeAyGlslheteseayurtsrtomer,ctcli,bgclaaderioasofdeaspdurcr63o0tst1§.L2Ngintssrslbeidorcdt3()ielyinamrttisitwh47U4§;o5()ptorpeaycdmrfmdyo6iysgf,orsyr,aym7§.RSADFSOFCDM8ItisteitofteGlAyttngintssrm9becdtoieonteegrsadfsofcdm0orbecdtodeattecdmsbdonr]
+[DELETED: LASIDADPDBYSES5Pe25of2e,s,d,slo,gri,greornloS.2.EEDTsatslteetonJy1,2]
+
+
+================================================================================
+
+Raw Text:
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 1 of 25
+1 S.69
+2 Introduced by Senators Harrison, Bongartz, Brennan, Clarkson, Collamore,
+3 Cummings, Hashim, Lyons, Major, Perchlik, Plunkett, Watson,
+4 Weeks, Westman and White
+5 Referred to Committee on Institutions
+6 Date: February 13, 2025
+7 Subject: Commerce and trade; protection of personal information; privacy of
+8 minors
+9 Statement of purpose of bill as introduced: This bill proposes to require that
+10 any covered business that develops and provides online services, products, or
+11 features that children are reasonably likely to access must not use abusive or
+12 privacy-invasive design features on children.
+13 An act relating to an age-appropriate design code
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. chapter 62, subchapter 6 is added to read:
+16 Subchapter 6. Vermont Age-Appropriate Design Code Act
+17 § 2449a. DEFINITIONS
+18 As used in this subchapter:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 2 of 25
+1 (1)(A) “Affiliate” means a legal entity that shares common branding
+2 with another legal entity or controls, is controlled by, or is under common
+3 control with another legal entity.
+4 (B) As used in subdivision (A) of this subdivision (1), “control” or
+5 “controlled” means:
+6 (i) ownership of, or the power to vote, more than 50 percent of the
+7 outstanding shares of any class of voting security of a company;
+8 (ii) control in any manner over the election of a majority of the
+9 directors or of individuals exercising similar functions; or
+10 (iii) the power to exercise controlling influence over the
+11 management of a company.
+12 (2) “Age assurance” encompasses a range of methods used to determine,
+13 estimate, or communicate the age or an age range of an online user.
+14 (3) “Algorithmic recommendation system” means a system that uses an
+15 algorithm to select, filter, and arrange media on a covered business’s website
+16 for the purpose of selecting, recommending, or prioritizing media for a user.
+17 (4)(A) “Biometric data” means data generated from the technological
+18 processing of an individual’s unique biological, physical, or physiological
+19 characteristics that allow or confirm the unique identification of the consumer,
+20 including:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 3 of 25
+1 (i) iris or retina scans;
+2 (ii) fingerprints;
+3 (iii) facial or hand mapping, geometry, or templates;
+4 (iv) vein patterns;
+5 (v) voice prints or vocal biomarkers; and
+6 (vi) gait or personally identifying physical movement or patterns.
+7 (B) “Biometric data” does not include:
+8 (i) a digital or physical photograph;
+9 (ii) an audio or video recording; or
+10 (iii) any data generated from a digital or physical photograph, or
+11 an audio or video recording, unless such data is generated to identify a specific
+12 individual.
+13 (5) “Business associate” has the same meaning as in HIPAA.
+(5) “Business associate” has the same meaning as in the Health
+Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-191
+(HIPAA).
+14 (6) “Collect” means buying, renting, gathering, obtaining, receiving, or
+15 accessing any personal data by any means. This includes receiving data from
+16 the consumer, either actively or passively, or by observing the consumer’s
+17 behavior.
+18 (7) “Compulsive use” means the repetitive use of a covered business’s
+19 service that materially disrupts one or more major life activities of a minor,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 4 of 25
+1 including sleeping, eating, learning, reading, concentrating, communicating, or
+2 working.
+3 (8)(A) “Consumer” means an individual who is a resident of the State.
+4 (B) “Consumer” does not include an individual acting in a
+5 commercial or employment context or as an employee, owner, director, officer,
+6 or contractor of a company, partnership, sole proprietorship, nonprofit, or
+7 government agency whose communications or transactions with the covered
+8 business occur solely within the context of that individual’s role with the
+9 company, partnership, sole proprietorship, nonprofit, or government agency.
+10 (9) “Consumer health data” means any personal data that a controller
+11 uses to identify a consumer’s physical or mental health condition or diagnosis,
+12 including gender-affirming health data and reproductive or sexual health data.
+13 (10) “Controller” means a person who, alone or jointly with others,
+14 determines the purpose and means of processing personal data.
+15 (11) “Covered business” means a sole proprietorship, partnership,
+16 limited liability company, corporation, association, other legal entity, or an
+17 affiliate thereof, that conducts business in this State and whose online
+18 products, services, or features are reasonably likely to be accessed by a minor
+19 and that:
+20 (A) collects consumers’ personal data or has consumers’ personal
+21 data collected on its behalf by a processor; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 5 of 25
+1 (B) alone or jointly with others determines the purposes and means
+2 of the processing of consumers personal data.
+(11) “Covered business” means a sole proprietorship, partnership,
+limited liability company, corporation, association, other legal entity, or an
+affiliate thereof:
+(A) that conducts business in this State;
+(B) that generates a majority of its annual revenue from online
+services;
+(C) whose online products, services, or features are reasonably likely
+to be accessed by a minor;
+(D) that collects consumers’ personal data or has consumers’
+personal data collected on its behalf by a processor; and
+(E) that alone or jointly with others determines the purposes and
+means of the processing of consumers personal data.
+3 (12) “Covered entity” has the same meaning as in HIPAA.
+4 (13) “Covered minor” is a consumer who a covered business actually
+5 knows is a minor or labels as a minor pursuant to age assurance methods in
+6 rules adopted by the Attorney General.
+7 (14) “Default” means a preselected option adopted by the covered
+8 business for the online service, product, or feature.
+9 (15) “De-identified data” means data that does not identify and cannot
+10 reasonably be used to infer information about, or otherwise be linked to, an
+11 identified or identifiable individual, or a device linked to the individual, if the
+12 covered business that possesses the data:
+13 (A)(i) takes reasonable measures to ensure that the data cannot be
+14 used to reidentify an identified or identifiable individual or be associated with
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 6 of 25
+1 an individual or device that identifies or is linked or reasonably linkable to an
+2 individual or household; and
+3 (ii) for purposes of this subdivision (A), “reasonable measures”
+4 includes the de-identification requirements set forth under 45 C.F.R. § 164.514
+5 (other requirements relating to uses and disclosures of protected health
+6 information);
+7 (B) publicly commits to process the data only in a de-identified
+8 fashion and not attempt to reidentify the data; and
+9 (C) contractually obligates any recipients of the data to comply with
+10 all provisions of this subchapter.
+11 (16) “Derived data” means data that is created by the derivation of
+12 information, data, assumptions, correlations, inferences, predictions, or
+13 conclusions from facts, evidence, or another source of information or data
+14 about a minor or a minor’s device.
+15 (17) “Genetic data” means any data, regardless of its format, that results
+16 from the analysis of a biological sample of an individual, or from another
+17 source enabling equivalent information to be obtained, and concerns genetic
+18 material, including deoxyribonucleic acids (DNA), ribonucleic acids (RNA),
+19 genes, chromosomes, alleles, genomes, alterations or modifications to DNA or
+20 RNA, single nucleotide polymorphisms (SNPs), epigenetic markers,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 7 of 25
+1 uninterpreted data that results from analysis of the biological sample or other
+2 source, and any information extrapolated, derived, or inferred therefrom.
+3 (18) “Identified or identifiable individual” means an individual who can
+4 be readily identified, directly or indirectly, including by reference to an
+5 identifier such as a name, an identification number, specific geolocation data,
+6 or an online identifier.
+7 (19) “Known adult” is a consumer who a covered business actually
+8 knows is an adult or labels as an adult pursuant to age assurance methods in
+9 rules adopted by the Attorney General.
+10 (20) “Minor” means an individual under 18 years of age who is a
+11 resident of the State.
+12 (21) “Neural data” means information that is collected through
+13 biosensors and that could be processed to infer or predict mental states.
+14 (22) “Online service, product, or feature” means a digital product that is
+15 accessible to the public via the internet, including a website or application, and
+16 does not mean any of the following:
+17 (A) telecommunications service, as defined in 47 U.S.C. § 153;
+18 (B) a broadband internet access service as defined in 47 C.F.R.
+19 § 54.400; or
+20 (C) the sale, delivery, or use of a physical product.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 8 of 25
+1 (23)(A) “Personal data” means any information, including derived data
+2 and unique identifiers, that is linked or reasonably linkable to an identified or
+3 identifiable individual or to a device that identifies, is linked to, or is
+4 reasonably linkable to one or more identified or identifiable individuals in a
+5 household.
+6 (B) Personal data does not include de-identified data or publicly
+7 available information.
+8 (24)(A) “Precise geolocation data” means information derived from
+9 technology that reveals the past or present physical location of a consumer or
+10 device that identifies or is linked or reasonably linkable to one or more
+11 consumers with precision and accuracy within a radius of 1,850 feet.
+12 (B) “Precise geolocation data” does not include:
+13 (i) the content of communications;
+14 (ii) data generated by or connected to an advanced utility metering
+15 infrastructure system;
+16 (iii) a photograph, or metadata associated with a photograph or
+17 video, that cannot be linked to an individual; or
+18 (iv) data generated by equipment used by a utility company.
+19 (25) “Process” or “processing” means any operation or set of operations
+20 performed, whether by manual or automated means, on personal data or on
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 9 of 25
+1 sets of personal data, such as the collection, use, storage, disclosure, analysis,
+2 deletion, modification, or otherwise handling of personal data.
+3 (26) “Processor” means a person who processes personal data on behalf
+4 of a covered business.
+5 (27) “Profiling” means any form of automated processing performed on
+6 personal data to evaluate, analyze, or predict personal aspects related to an
+7 identified or identifiable individual’s economic situation, health, personal
+8 preferences, interests, reliability, behavior, location, or movements.
+9 (28)(A) “Publicly available information” means information that:
+10 (i) is made available through federal, state, or local government
+11 records; or
+12 (ii) a controller has a reasonable basis to believe that the consumer
+13 has lawfully made available to the general public.
+14 (B) “Publicly available information” does not include:
+15 (i) biometric data collected by a business about a consumer
+16 without the consumer’s knowledge;
+17 (ii) information that is collated and combined to create a
+18 consumer profile that is made available to a user of a publicly available
+19 website either in exchange for payment or free of charge;
+20 (iii) information that is made available for sale;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 10 of 25
+1 (iv) an inference that is generated from the information described
+2 in subdivision (ii) or (iii) of this subdivision (28)(B);
+3 (v) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+4 (vi) any inference made exclusively from multiple independent
+5 sources of publicly available information that reveals sensitive data with
+6 respect to a consumer;
+7 (vii) personal data that is created through the combination of
+8 personal data with publicly available information;
+9 (viii) genetic data, unless otherwise made publicly available by
+10 the consumer to whom the information pertains;
+11 (ix) information provided by a consumer on a website or online
+12 service made available to all members of the public, for free or for a fee,
+13 where the consumer has maintained a reasonable expectation of privacy in the
+14 information, such as by restricting the information to a specific audience; or
+15 (x) intimate images, authentic or computer-generated, known to
+16 be nonconsensual.
+17 (29) “Reasonably likely to be accessed” means an online service,
+18 product, or feature that is reasonably likely to be accessed by a covered minor
+19 based on any of the following indicators:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 11 of 25
+1 (A) the online service, product, or feature is directed to children, as
+2 defined by the Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501–
+3 6506 and the Federal Trade Commission rules implementing that Act;
+4 (B) the online service, product, or feature is determined, based on
+5 competent and reliable evidence regarding audience composition, to be
+6 routinely accessed by an audience that is composed of at least two percent
+7 minors two through 17 years of age;
+8 (C) the online service, product, or feature contains advertisements
+9 marketed to minors;
+10 (D) the audience of the online service, product, or feature is
+11 determined, based on internal company research, to be composed of at least
+12 two percent minors two through 17 years of age; or
+13 (E) the covered business knew or should have known that at least
+14 two percent of the audience of the online service, product, or feature includes
+15 minors two through 17 years of age, provided that, in making this assessment,
+16 the business shall not collect or process any personal data that is not
+17 reasonably necessary to provide an online service, product, or feature with
+18 which a minor is actively and knowingly engaged.
+19 (30) “Sensitive data” means personal data that:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 12 of 25
+1 (A) reveals a consumer’s government-issued identifier, such as a
+2 Social Security number, passport number, state identification card, or driver’s
+3 license number, that is not required by law to be publicly displayed;
+4 (B) reveals a consumer’s racial or ethnic origin; national origin;
+5 citizenship or immigration status; religious or philosophical beliefs; a mental
+6 or physical health condition, diagnosis, disability, or treatment; status as
+7 pregnant; income level or indebtedness; or union membership;
+8 (C) reveals a consumer’s sexual orientation, sexlife, sexuality, or
+9 status as transgender or non-binary;
+10 (D) reveals a consumer’s status as a victim of a crime;
+11 (E) is a consumer’s taxreturn and account number, financial account
+12 log-in, financial account, debit card number, or credit card number in
+13 combination with any required security or access code, password, or
+14 credentials allowing access to an account;
+15 (F) is consumer health data;
+16 (G) is collected and analyzed concerning consumer health data that
+17 describes or reveals a past, present, or future mental or physical health
+18 condition, treatment, disability, or diagnosis, including pregnancy, to the extent
+19 the personal data is used by the controller for a purpose other than to identify a
+20 specific consumer’s physical or mental health condition or diagnosis;
+21 (H) is biometric or genetic data;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 13 of 25
+1 (I) is collected from a covered minor;
+2 (J) is precise geolocation data;
+3 (K) are keystrokes;
+4 (L) is driving behavior; or
+5 (M) is neural data.
+6 (31)(A) “Social media platform” means a public or semipublic internet-
+7 based service or application that is primarily intended to connect and allow a
+8 user to socially interact within such service or application and enables a user
+9 to:
+10 (i) construct a public or semipublic profile for the purposes of
+11 signing into and using such service or application;
+12 (ii) populate a public list of other users with whom the user shares
+13 a social connection within such service or application; or
+14 (iii) create or post content that is viewable by other users,
+15 including content on message boards and in chat rooms, and that presents the
+16 user with content generated by other users.
+17 (B) “Social media platform” does not mean a public or semipublic
+18 internet-based service or application that:
+19 (i) exclusively provides email or direct messaging services;
+20 (ii) primarily consists of news, sports, entertainment, interactive
+21 video games, electronic commerce, or content that is preselected by the
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 14 of 25
+1 provider for which any interactive functionality is incidental to, directly
+2 related to, or dependent on the provision of such content; or
+3 (iii) is used by and under the direction of an educational entity,
+4 including a learning management system or a student engagement program.
+5 (32) “Third party” means a natural or legal person, public authority,
+6 agency, or body other than the covered minor or the covered business.
+7 § 2449b. EXCLUSIONS
+8 This subchapter does not apply to:
+9 (1) a federal, state, tribal, or local government entity in the ordinary
+10 course of its operation;
+11 (2) protected health information that a covered entity or business
+12 associate processes in accordance with, or documents that a covered entity or
+13 business associate creates for the purpose of complying with, HIPAA;
+14 (3) information used only for public health activities and purposes
+15 described in 45 C.F.R. § 164.512;
+16 (4) information that identifies a consumer in connection with:
+17 (A) activities that are subject to the Federal Policy for the Protection
+18 of Human Subjects as set forth in 45 C.F.R. Part 46;
+19 (B) research on human subjects undertaken in accordance with good
+20 clinical practice guidelines issued by the International Council for
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 15 of 25
+1 Harmonisation of Technical Requirements for Pharmaceuticals for Human
+2 Use;
+3 (C) activities that are subject to the protections provided in 21 C.F.R.
+4 Part 50 and 21 C.F.R. Part 56; or
+5 (D) research conducted in accordance with the requirements set forth
+6 in subdivisions (A)–(C) of this subdivision (4) or otherwise in accordance with
+7 State or federal law; and
+8 (5) an entity whose primary purpose is journalism as defined in
+9 12 V.S.A. § 1615(a)(2) and that has a majority of its workforce consisting of
+10 individuals engaging in journalism.
+§ 2449b. EXCLUSIONS
+This subchapter does not apply to:
+(1) a federal, state, tribal, or local government entity in the ordinary
+course of its operation;
+(2) protected health information that a covered entity or business
+associate processes in accordance with, or documents that a covered entity or
+business associate creates for the purpose of complying with, HIPAA;
+(3) information used only for public health activities and purposes
+described in 45 C.F.R. § 164.512;
+(4) information that identifies a consumer in connection with:
+(A) activities that are subject to the Federal Policy for the Protection
+of Human Subjects as set forth in 45 C.F.R. Part 46;
+(B) research on human subjects undertaken in accordance with good
+clinical practice guidelines issued by the International Council for
+Harmonisation of Technical Requirements for Pharmaceuticals for Human
+Use;
+(C) activities that are subject to the protections provided in 21 C.F.R.
+Part 50 and 21 C.F.R. Part 56; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 16 of 25
+(D) research conducted in accordance with the requirements set forth
+in subdivisions (A)–(C) of this subdivision (4) or otherwise in accordance with
+State or federal law;
+(5) an entity whose primary purpose is journalism as defined in
+12 V.S.A. § 1615(a)(2) and that has a majority of its workforce consisting of
+individuals engaging in journalism;
+(6) a person who controlled or processed the personal data of not more
+than:
+(A) 25,000 consumers in the previous calendar year, excluding
+personal data controlled or processed solely for the purpose of completing a
+payment transaction; or
+(B) 50,000 consumers in the previous calendar year, excluding
+personal data controlled or processed solely for the purpose of completing a
+payment transaction and had an annual gross revenue of not more than
+$1,000,000.00 in the previous calendar year; and
+(7) a financial institution or data subject to Title V of the Gramm-
+Leach-Bliley Act, Pub. L. No. 106-102, and regulations adopted to implement
+that act.
+1 § 2449c. MINIMUM DUTY OF CARE
+2 (a) A covered business that processes a covered minor’s data in any
+3 capacity owes a minimum duty of care to the covered minor.
+4 (b) As used in this subchapter, “a minimum duty of care” means the use of
+5 the personal data of a covered minor and the design of an online service,
+6 product, or feature will not result in:
+7 (1) reasonably foreseeable emotional distress as defined in 13 V.S.A.
+8 § 1061(2) to a covered minor;
+9 (2) reasonably foreseeable compulsive use of the online service,
+10 product, or feature by a covered minor; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 17 of 25
+1 (3) discrimination against a covered minor based upon race, ethnicity,
+2 sex, disability, sexual orientation, gender identity, gender expression, or
+3 national origin.
+4 (c) The content of the media viewed by a covered minor shall not establish
+5 emotional distress or compulsive use as those terms are used in subsection (b)
+6 of this section.
+7 (d) Nothing in this section shall be construed to require a covered business
+8 to prevent or preclude a covered minor from accessing or viewing any piece of
+9 media or category of media.
+10 § 2449d. REQUIRED DEFAULT PRIVACY SETTINGS AND TOOLS
+11 (a) Default privacy settings.
+12 (1) A covered business shall configure all default privacy settings
+13 provided to a covered minor through the online service, product, or feature to
+14 the highest level of privacy, including the following default settings:
+15 (A) not displaying the existence of the covered minor’s social media
+16 account to any known adult user unless the covered minor has expressly and
+17 unambiguously allowed a specific known adult user to view their account or
+18 has expressly and unambiguously chosen to make their account’s existence
+19 public;
+20 (B) not displaying media created or posted by the covered minor on
+21 a social media platform to any known adult user unless the covered minor has
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 18 of 25
+1 expressly and unambiguously allowed a specific known adult user to view
+2 their media or has expressly and unambiguously chosen to make their media
+3 publicly available;
+4 (C) not permitting any known adult users to like, comment on, or
+5 otherwise provide feedback on the covered minor’s media on a social media
+6 platform unless the covered minor has expressly and unambiguously allowed a
+7 specific known adult user to do so;
+8 (D) not permitting direct messaging on a social media platform
+9 between the covered minor and any known adult user unless the covered minor
+10 has expressly and unambiguously decided to allow direct messaging with a
+11 specific known adult user;
+12 (E) not displaying the covered minor’s location to other users, unless
+13 the covered minor expressly and unambiguously shares their location with a
+14 specific user;
+15 (F) not displaying the users connected to the covered minor on a
+16 social media platform unless the covered minor expressly and unambiguously
+17 chooses to share the information with a specific user;
+18 (G) disabling search engine indexing of the covered minor’s account
+19 profile; and
+20 (H) not sending push notifications to the covered minors.
+21 (2) A covered business shall not:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 19 of 25
+1 (A) provide a covered minor with a single setting that makes all of
+2 the default privacy settings less protective at once; or
+3 (B) request or prompt a covered minor to make their privacy settings
+4 less protective, unless the change is strictly necessary for the covered minor to
+5 access a service or feature they have expressly and unambiguously requested.
+6 (b) Timely deletion of account. A covered business shall:
+7 (1) provide a prominent, accessible, and responsive tool to allow a
+8 covered minor to request the covered minor’s social media account be
+9 unpublished or deleted; and
+10 (2) honor that request not later than 15 days after a covered business
+11 receives the request.
+12 § 2449e. TRANSPARENCY
+13 (a) A covered business shall prominently and clearly provide on their
+14 website or mobile application:
+15 (1) the covered business’ privacy information, terms of service, policies,
+16 and community standards;
+17 (2) detailed descriptions of each algorithmic recommendation system in
+18 use by the covered business, including the factors used by the algorithmic
+19 recommendation system and how each factor:
+20 (A) is measured or determined;
+21 (B) uses the personal data of covered minors;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 20 of 25
+1 (C) influences the recommendation issued by the system; and
+2 (D) is weighed relative to the other factors listed in this subdivision
+3 (2); and
+4 (3) descriptions, for every feature of the service that uses the personal
+5 data of covered minors, of:
+6 (A) the purpose of the service feature;
+7 (B) the personal data collected by the service feature;
+8 (C) the personal data used by the service feature;
+9 (D) how the personal data is used by the service feature;
+10 (E) any personal data transferred to or shared with a processor or
+11 third party by the service feature, the identity of the processor or third party,
+12 and the purpose of the transfer or sharing; and
+13 (F) how long the personal data is retained.
+14 § 2449f. PROHIBITED DATA AND DESIGN PRACTICES
+15 (a) Data privacy. A covered business shall not:
+16 (1) collect, sell, share, or retain any personal data of a covered minor
+17 that is not necessary to provide an online service, product, or feature with
+18 which the covered minor is actively and knowingly engaged;
+19 (2) use previously collected personal data of a covered minor for any
+20 purpose other than a purpose for which the personal data was collected, unless
+21 necessary to comply with any obligation under this chapter;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 21 of 25
+1 (3) permit any consumer, including a parent or guardian of a covered
+2 minor, to monitor the online activity of a covered minor or to track the
+3 location of the covered minor without providing a conspicuous signal to the
+4 covered minor when the covered minor is being monitored or tracked;
+5 (4) use the personal data of a covered minor to select, recommend, or
+6 prioritize media for the covered minor, unless the personal data is:
+7 (A) the covered minor’s express and unambiguous request to receive:
+8 (i) media from a specific account, feed, or user, or to receive more
+9 or less media from that account, feed, or user;
+10 (ii) a specific category of media, such as “cat videos” or “breaking
+11 news,” or to see more or less of that category of media; or
+12 (iii) more or less media with similar characteristics as the media
+13 they are currently viewing;
+14 (B) user-selected privacy or accessibility settings; or
+15 (C) a search query, provided the search query is only used to select
+16 and prioritize media in response to the search; or
+17 (5) send push notifications to a covered minor between 12:00 midnight
+18 and 6:00 a.m.
+19 (b) Rulemaking. The Attorney General shall have the authority to adopt
+20 rules pursuant to this subchapter that prohibits data processing or design
+21 practices of a covered business that, in the opinion of the Attorney General,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 22 of 25
+1 lead to compulsive use or subvert or impair user autonomy, decision making,
+2 or choice during the use of an online service, product, or feature of the covered
+3 business. The Attorney General shall, at least once every two years, review
+4 and update these rules as necessary to keep pace with emerging technology.
+5 § 2449g. AGE ASSURANCE PRIVACY
+6 (a) Privacy protections for age assurance data. Covered businesses and
+7 processors shall:
+8 (1) only collect personal data of a user that is strictly necessary for age
+9 assurance;
+10 (2) immediately upon determining whether a user is a covered minor,
+11 delete any personal data collected of that user for age assurance, except
+12 whether the user is or is not determined to be a covered minor;
+13 (3) not use any personal data of a user collected for age assurance for
+14 any other purpose;
+15 (4) not combine personal data of a user collected for age assurance with
+16 any other personal data of the user, except whether the user is or is not
+17 determined to be a covered minor; and
+18 (5) implement a review process to allow users to appeal their age
+19 designation.
+20 (b) Rulemaking.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 23 of 25
+1 (1) Subject to subdivision (2) of this subsection, the Attorney General
+2 shall, on or before July 1, 2027, adopt rules identifying commercially
+3 reasonable and technically feasible methods for covered businesses and
+4 processors to determine if a user is a covered minor, describing appropriate
+5 review processes for users appealing their age designations, and providing any
+6 additional privacy protections for age assurance data. The Attorney General
+7 shall periodically review and update these rules as necessary to keep pace with
+8 emerging technology.
+9 (2) In adopting these rules, the Attorney General shall:
+10 (A) prioritize user privacy and accessibility over the accuracy of age
+11 assurance methods; and
+12 (B) consider:
+13 (i) the size, financial resources, and technical capabilities of
+14 covered businesses and processors;
+15 (ii) the costs and effectiveness of available age assurance methods;
+16 (iii) the impact of age assurance methods on users’ safety, utility,
+17 and experience;
+18 (iv) whether and to what extent transparency measures would
+19 increase consumer trust in an age assurance method; and
+20 (v) the efficacy of requiring covered businesses and processors to:
+21 (I) use previously collected data to determine user age;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 24 of 25
+1 (II) adopt interoperable age assurance methods; and
+2 (III) provide users with multiple options for age assurance.
+3 § 2449h. ENFORCEMENT
+4 (a) A covered business or processor that violates this subchapter or rules
+5 adopted pursuant to this subchapter commits an unfair and deceptive act in
+6 commerce in violation of section 2453 of this title.
+7 (b) The Attorney General shall have the same authority under this
+8 subchapter to make rules, conduct civil investigations, bring civil actions,
+9 and enter into assurances of discontinuance as provided under chapter 63 of
+10 this title.
+11 § 2449i. LIMITATIONS
+12 Nothing in this subchapter shall be interpreted or construed to:
+13 (1) impose liability in a manner that is inconsistent with 47 U.S.C.
+14 § 230; or
+15 (2) prevent or preclude any covered minor from deliberately or
+16 independently searching for, or specifically requesting, any media.
+17 § 2449j. RIGHTS AND FREEDOMS OF COVERED MINORS
+18 It is the intent of the General Assembly that nothing in this subchapter may
+19 be construed to infringe on the existing rights and freedoms of covered minors
+20 or be construed to discriminate against the covered minors based on race,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.69
+2025 Page 25 of 25
+1 ethnicity, sex, disability, sexual orientation, gender identity, gender expression,
+2 or national origin.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2026.
+
+[DELETED: LASIDADPDBYSES5Pe1of2SIdbySsH,B,B,C,CC,H,L,M,P,P,WW,WnadWRdtoCeonID:Fy1,2S:Ceadt;pnofpli;pyomStofpeofblasi:Tsblpstoret0aycdbsttdsadpsoes,p,o1fsttcnaerylytoasmtntueaeo2pednfsonc3Anatrgtoanaednc4ItishyedbyteGlAyofteSeofV5S.1.9V.cr6,sr6isadtor6Sr6.VtAeDnCeA7§.D8Asudintss]
+[DELETED: LASIDADPDBYSES5Pe2of2()“”msalleyttsscnbwharlleyorc,iscdb,orisurcclwharlle()Asudinsn()oftssn(,“”o“”m()opo,orteprtov,metn50ptoftogssofaycsofvgsyofac()clinaymrorteenofamyoftdsorofisegsrf;o0()teprtoeecgieort1mtofac2()“ea”esareofmsudtod3e,orceteaeoranaereofanoeu4()“crns”msasmttusa5amtos,f,adaemaonacdbsw6frtepeofs,r,orpgmafrau7()“cd”msdagdfmtet8pgofanisueb,p,orp9csttaworcmteueinoftec0i]
+[DELETED: LASIDADPDBYSES5Pe3of2()isorras()f()florhdm,g,ort()vnp()vepsorvlb;a()gtorpyigplmtorp()“cd”dsnti()adlorplp()anaoorvor;o0()aydagdfmadlorplp,o1anaoorvor,usshdaisgdtoiyas2i3()“sa”hstesemgasinH)“sa”hstesemgasinteHePyadAyAtof1,P.L.N.14()“”msb,r,g,o,r,o5agaypldabyaym.Tsisrgdaf6tec,erayorp,orbyogtec7b8()“eu”mstereueofacdb9settmydsoeormemrleasofam]
+[DELETED: LASIDADPDBYSES5Pe4of2igs,e,l,r,c,c,ow()“”msanilwoisartofteS()“”dsntieanilagincloretctorasane,o,d,oorcrofac,p,sep,n,ogtaywecsortswhtecbsorsywntectofttisrewhtc,p,sep,n,orgta0()“rhhd”msaypldattac1ustoiyacsplormlhhcnord2iggghhdaadreorslhhd3()“”msapnw,aeorjywho4dstepeadmsofpgpld5()“db”msasep,p6ldlyc,c,a,orlle,ora7aet,ttcsbsintsSeadweo8p,s,orfsaerylytobeadbyam9adt0()csc’pldaorhsc’p1dacdonisbfbyap;a]
+[DELETED: LASIDADPDBYSES5Pe5of2()aeorjywhosdstepsadmoftepgofcspld)“db”msasep,pdlyc,c,a,orlle,oraet)ttcsbsintsS)ttgsamyofisalrefmo)weoep,s,orfsaerylobeadbyam)ttcsc’pldaorhscldacdonisbfbyap;a)ttaeorjywhosdstepsasoftepgofcspld()“de”hstesemgasinH()“dm”isacrwoacdbsaksisamrorlsasamrpttoaeaemsirsadbyteAyG()“”msapdonadbytecbsfrteoes,p,orf()“dd”msdattdsntiyadc0rybeudtoirina,oroebeldt,a1idoriei,oradeldtotei,ift2cdbsttpsted3()tsremstoeetttedactb4udtoryanidorieilorbeadw]
+[DELETED: LASIDADPDBYSES5Pe6of2anilordettisorisldorryletoailorh;a()frpsoftssn(,“emistednrsstfhur45C.§(rrsrgtousaddsofpdhi()pycstopstedaoyinadfnadntattoryted;a()cyosayrsoftedatocyw0alpsoftss1()“dd”msdattiscdbytedno2i,d,a,c,i,p,o3csfmf,e,orarseofinord4atamroramsd5()“cd”msayd,rsofisf,ttr6fmteasofablseofani,orfma7seegetintobeo,adcsg8m,igdcas(,rcas(9g,c,a,g,asormstoDAo0R,seneps(,ecm]
+[DELETED: LASIDADPDBYSES5Pe7of2uddattrsfmasofteblseoros,adayine,d,oridt()“doriei”msanilwocberyi,dyori,igbyretoairshasan,aninn,scgndoranoei()“na”isacrwoacdbsaksisanatorlsasanatpttoaeaemsirsadbyteAyG0()“”msanilur18ysofaewois1rtofteS2()“ld”msinttiscdt3bsadttcdbepdtoirorptmls4()“es,p,orf”msadlpttti5aetotepcvatei,igaweora,a6dsntmnayoftef7()tss,asddin47U.§8()abditasseasddin47C9§;o0()tes,d,orueofaplp]
+[DELETED: LASIDADPDBYSES5Pe8of2()“ld”msayi,igdddaduei,ttisldorryletoanidoieilortoadetti,isldt,oriryletooeormeidorieisinh()Pldadsntiedddaorpaei()“egnd”msinddftyttrsteptorptpllnofacro0dettisorisldorryletooeorm1cswhpnadaywnarsof10f2()“egnd”dsnti3()tectofc4()dagdbyorcdtoanaduym5ies6()ap,ormaadwhapho7v,ttctbeldtoani;o8()dagdbyetudbyauyc9()“”or“”msayonorstofo0p,wrbymloradm,onpldaoro]
+[DELETED: LASIDADPDBYSES5Pe9of2ssofpld,shastec,u,s,d,ad,m,oroehgofpld()“”msapnwopspldaonbofacdb()“”msayfmofadpgpdopldatoe,a,orptplasrdtoaidorieisecs,h,pp,i,r,b,l,orm()“yaei”msint0()ismeaethf,s,orllg1r;o2()acrhsarebstobetttec3hslymeaetoteglp4()“yaei”dsnti5()bcdacdbyabsatac6wttecsk7()inttiscdadcdtoce8crpettismeaetoaurofapya9weerineefrptorfeofc0()inttismeaefrs]
+[DELETED: LASIDADPDBYSES5Pe10of2()aniettisgdfmteindinsn()or()oftssn(()ayoevld,asddin18U.§()ayiemeeyfmmeissofpyaeinttrssedawrttoac()pldattiscdthtecnopldawhpyaei()gcd,usoemepyaeb0tecrtowmteinp1()inpdbyacronaweoro2semeaetoalmsoftep,frfeorfraf3wetecrhsmdareenofpyint4i,shasbyrgteintoasca;o5()iei,acorc,knt6ben7()“ylytobea”msanoes8p,orfettisrylytobeadbyacdm9bdonayoftefgi]
+[DELETED: LASIDADPDBYSES5Pe11of2()teoes,p,orfeisddtoc,addbyteCsOePyPnA,15U.§66adteFlTeCnrsigttA()teoes,p,orfeisd,bdoctadreeergaec,tobryadbyanaettiscdofatlttopmstoth17ysofa()teoes,p,orfecsamdtom0()teaeofteoes,p,orfei1d,bdonilcyr,tobecdofatl2toptmstoth17ysofa;o3()tecdbskworsdheknttatl4toptofteaeofteoes,p,orfei5mstoth17ysofa,pdt,inmgtsa6tebsslntctorpsaypldattisn7rynytopeanoes,p,orfew8whamrisayadkye9()“ed”mspldat]
+[DELETED: LASIDADPDBYSES5Pe12of2()rsacsgdi,shasSlSyn,ptn,seinc,ordlen,ttisntrdbylwtobepyd()rsacsrloreco;nlocporins;rsorplb;amorplhhc,d,d,ort;ssap;iellori;orunm()rsacsslo,sxl,s,ossastrorn0()rsacsssasavmofac1()isacstxrnadatn,fla2l,fla,dtcdn,orctcdnri3cnwhayrdsyorasc,p,o4csagastoana5()iscrhhd6()iscdadadcgcrhhdat7dsorrsap,p,orfemlorplh8c,t,d,ord,igp,totee9tepldaisudbytecrfrapeortntoiy0sccsplormlhhcnord1()isbcorgcd]
+[DELETED: LASIDADPDBYSES5Pe13of2()iscdfmacdm()ispegnd()aek()isdgb;o()isnld()“lmap”msapcorscibdseoranttispyidtoctadawurtosyitwnshseoranadesaut0()ctapcorscpefrtepso1sgioadugshseora2()peapcltoforuswhwmteurs3aslcnwnshseora;o4()ceorptctttisvebyoru5igctonmebsadinctr,adttpst6urwhctgdbyoru7()“lmap”dsntmnapcors8idseorant9()eypselordtmgs0()pycsofn,s,e,i1vog,ecc,orctttispdbyt]
+[DELETED: LASIDADPDBYSES5Pe14of2prfrwhayiefyisilt,drdt,ordtontepnofshc;o()isudbyadurtednofaneleigalgmtsmorastetp()“dp”msanlorllp,pcaa,orbyortntecdmrortecdb§.ETssrdsntayt()af,s,t,orllgteyinteo0ceofiso1()pdhhinttacdeyorb2aepsinaew,ordsttacdeyo3bsaecsfrtepeofcgw,H4()inudoyfrpchhasadp5ddin45C.§16()inttisacrincnw7()asttaesttoteFlPyfrteP8ofHnSsasstfhin45C.Pt49()rhonhnssuninaewhg0clpegsidbyteIlClf]
+[DELETED: LASIDADPDBYSES5Pe15of2HnofTlRsfrPsfrHU()asttaesttotepspdin21CPt50ad21C.Pt5;o()rhcdinaewhtersstfinss()oftssn()oroeinaewSeorfll;a()aneywepypeisjmasddi1.§)adtthsamyofiswecgo0iseginj.Essrdsntayt)af,s,t,orllgteyinteoeofiso)pdhhinttacdeyorbepsinaew,ordsttacdeyosaecsfrtepeofcgw,H)inudoyfrpchhasadpdin45C.§1)inttisacrincnw)asttaesttoteFlPyfrtePfHnSsasstfhin45C.Pt4)rhonhnssuninaewhglpegsidbyteIlClfnofTlRsfrPsfrH)asttaesttotepspdin21Ct50ad21C.Pt5;o]
+[DELETED: LASIDADPDBYSES5Pe16of2)rhcdinaewhtersstfnss()oftssn()oroeinaeweorfll)aneywepypeisjmasddi.§)adtthsamyofiswecgoseginj)apnwocdorpdtepldaofntm)20csintepscry,eldacdorpdsyfrtepeofcgtt;o)50csintepscry,eldacdorpdsyfrtepeofcgttnadhdanalgsreofntmet0intepscry;a)aflinordasttoTeVofteGyA,P.L.N.1,adrsadtoita§.MMDYOFC()Acdbsttpsacdmsdainacyosammdyofcetotecdm()Asudintss,“ammdyofc”msteueotepldaofacdmradtednofanoesp,orfewlntrti()ryfeeldsasddin13V§)toacdm()ryfeceueofteoes0p,orfebyacdm]
+[DELETED: LASIDADPDBYSES5Pe17of2()dnatacdmrbdunr,es,d,slo,gri,gre,onlo()Tectoftemavdbyacdmrslnteeldsorceueastetsaeudinsn(oftss()Ngintssnslbecdtoreacdbtoptorpeacdmrfmagorvgaypeomaorcyofm0§.RDDTPYSSADT1()Dtpys2()Acdbsslcealdtpys3pdtoacdmrthteoes,p,orfet4tehtllofp,igtefgdts5()ntdgteeeoftecdmsslm6attoayknaturustecdmrhseya7uyadascknaturtovwtrato8hseyaduycntometrase9p0()ntdgmacdorpdbytecdmro1aslmapmtoayknaturustecdmrh]
+[DELETED: LASIDADPDBYSES5Pe18of2eyaduyadascknaturtovtrmaorhseyaduycntometrmpya()ntpgayknatustol,cto,ooepefkontecdmsmaonaslmpmustecdmrhseyaduyadscknaturtodos()ntpgdtmgonaslmapbntecdmradayknaturustecdm0hseyaduyddtoawdtmgwh1scknatu2()ntdgtecdmslntooru,u3tecdmreyaduysstrlnwh4scu5()ntdgteuscdtotecdmron6slmapmustecdmreyadu7cstoseteinwhascu8()dgsheeigoftecdmsa9p;a0()ntsgphnstotecdm1()Acdbssln]
+[DELETED: LASIDADPDBYSES5Pe19of2()peacdmrwhasesgttmsalotedtpysslspeato;o()rtorptacdmrtometrpyslsp,usteceissynyfrtecdmrtasaseorfetyheeyaduyr()Tydnofa.Acdbss()peap,a,adretltoawcdmrtorttecdmsslmaatbudord;a0()hrttrtntlrtn15dsaracdb1rster2§.T3()Acdbsslpyadcypeont4weormea5()tecdb’pyi,tsofs,p6adcys7()dddsofehacrnsmi8uebytecdb,igtefsudbytea9rnsmadhwehf0()ismdord1()ustepldaofcdm]
+[DELETED: LASIDADPDBYSES5Pe20of2()isternidbytes;a()iswdretoteorfsldintss(;a()d,freyfeoftesettustepdaofcdm,o()tepeoftesef()tepldacdbytesef()tepldaudbytesef()hwtepldaisudbytesef0()aypldatdtoorsdwhapro1tdpybytesef,teiyofteprortdp2adtepeoftetrors;a3()hwlgtepldaisr4§.PDDAADDNP5()Dap.Acdbssln6()c,s,s,orrnaypldaofacdm7ttisntnytopeanoes,p,orfew8whtecdmrisayadkye9()uepycdpldaofacdmrfra0peortnapefrwhtepldawsc,u1nytocywhayonurtsc]
+[DELETED: LASIDADPDBYSES5Pe21of2()ptayc,igaptorgnofacm,tomrteoeayofacdmrortotktlnoftecdmrwtpgacssltotcdmrwntecdmrisbgmdort()uetepldaofacdmrtos,r,opemafrtecdm,ustepldai()tecdmsesadusrttor()mafmasca,f,oru,ortoremorlsmafmtta,f,oru0()asccyofm,shas“tv”or“1n”ortosemeorlsofttcyofm;o2()meorlsmawhsrcsastem3tyaecyv4()udpyorays;o5()ashq,pdteshqyisoyudtos6adpemainretotes;o7()sdphnstoacdmrbn10m8ad60a9()R.TeAyGlslheteaytoa0rspttotssrttpsdapgord1psofacdbst,inteonofteAyG]
+[DELETED: LASIDADPDBYSES5Pe22of2ldtoceueorstorirura,dnmorcedgteueofanoes,p,orfeoftecb.TeAyGls,atltoeeytoy,raduetersasnytokppewhegt§.AEAEP()Pypsfraeaed.Cdbsapss()oyctpldaofaurttissynyfraa0()iyundgwraurisacdm1deaypldacdoftturfraea,e2wrteurisorisntddtobeacdm3()ntueaypldaofaurcdfraeaef4ayorp5()ntcepldaofaurcdfraeaew6ayorpldaofteu,etwrteurisorisn7ddtobeacdm;a8()itarwpstoawustoaltra9d0()R]
+[DELETED: LASIDADPDBYSES5Pe23of2()Sttosn()oftss,teAyGs,onorbeJy1,2,atrsigcreadtyfemsfrcdbsapstodeifaurisacdm,dgarwpsfrusagtraed,adpgaalpypsfraeaed.TeAyGslpyrwaduetersasnytokppewegt()Inagter,teAyGls0()peurpyadayorteayofa1aem;a2()c3()tes,flr,adtlcso4cdbsadp5()tecsadesofaeaeaem6()teitofaeaemsonu’s,u7ade8()wradtowtettymsw9iecrttinanaeaem;a0()teeyofrgcdbsadpst1()uepycddatodeura]
+[DELETED: LASIDADPDBYSES5Pe24of2()atieaeaem;a()peuswhmeosfraea§.E()Acdbsorprttvstssrorradpttotssrcsanuraddeaticeinvnofsn23oftst()TeAyGlslheteseayurtsrtomer,ctcli,bgclaaderioasofdeaspdurcr63o0tst1§.L2Ngintssrslbeidorcdt3()ielyinamrttisitwh47U4§;o5()ptorpeaycdmrfmdyo6iysgf,orsyr,aym7§.RSADFSOFCDM8ItisteitofteGlAyttngintssrm9becdtoieonteegrsadfsofcdm0orbecdtodeattecdmsbdonr]
+[DELETED: LASIDADPDBYSES5Pe25of2e,s,d,slo,gri,greornloS.2.EEDTsatslteetonJy1,2]

@@ -1,0 +1,872 @@
+Title: BILL AS INTRODUCED S.133
+Official Title: BILL AS INTRODUCED S.133
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 18
+1 S.133
+2 Introduced by Senators Ram Hinsdale, Chittenden and Clarkson
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; land use; municipal zoning; Act 250;
+6 sawmills; brownfields
+7 Statement of purpose of bill as introduced: This bill proposes to make multiple
+8 changes related to municipal zoning, the State land use and development law,
+9 and brownfields.
+10 An act relating to land use, housing, and brownfields
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 * * * Municipal Zoning * * *
+13 Sec. 1. 24 V.S.A. § 4412(15) and (16) are added to read:
+14 (15) Notwithstanding any other provision of law to the contrary, no
+15 zoning or subdivision bylaw shall have the effect of prohibiting related
+16 occupants from constructing additional dwelling units on the same parcel.
+17 (16) If an area of a municipality has been zoned for industrial use, but is
+18 later changed to allow residential development, the area shall allow five or
+19 more units per acre.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 2 of 18
+1 Sec. 2. 24 V.S.A. § 4303 is amended to read:
+2 § 4303. DEFINITIONS
+3 The following definitions shall apply throughout this chapter unless the
+4 context otherwise requires:
+5 * * *
+6 (42)(A) An area “served by municipal sewer and water infrastructure”
+7 means an area adjacent to a road with water and sewer lines where there is
+8 capacity or capacity is being added imminently to accommodate housing and
+9 is:
+10 (i) an area where residential connections and expansions are
+11 available to municipal water and direct and indirect discharge wastewater
+12 systems and not prohibited by:
+13 (I) State regulations or permits;
+14 (II) identified capacity constraints; or
+15 (III) municipally adopted service and capacity agreements; or
+16 (ii) an area established by the municipality by ordinance or bylaw
+17 where residential connections and expansions are available to municipal water
+18 and direct and indirect discharge wastewater systems and which may exclude:
+19 (I) flood hazard or inundation areas as established by statute,
+20 river corridors or fluvial erosion areas as established by statute, shorelands,
+21 areas within a zoning district or overlay district the purpose of which is natural
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 3 of 18
+1 resource protection, and wherever year-round residential development is not
+2 allowed;
+3 (II) areas with identified service limits established by State
+4 regulations or permits, identified capacity constraints, or municipally adopted
+5 service and capacity agreements;
+6 (III) areas served by sewer and water to address an identified
+7 community-scale public health hazard or environmental hazard;
+8 (IV) areas serving a mobile home park that is not within an area
+9 planned for year-round residential growth;
+10 (V) areas serving an industrial site or park;
+11 (VI) areas where service lines are located to serve the areas
+12 described in subdivisions (III)–(V) of this subdivision (ii), but no connections
+13 or expansions are permitted; or
+14 (VII) areas that, through an approved Planned Unit
+15 Development under section 4417 of this title or Transfer of Development
+16 Rights under section 4423 of this title, prohibit year-round residential
+17 development.
+18 (B) Municipally adopted areas served by municipal sewer and water
+19 infrastructure that limit sewer and water connections and expansions shall not
+20 result in the unequal treatment of housing by discriminating against a year-
+21 round residential use or housing type otherwise allowed in this chapter.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 4 of 18
+1 Sec. 3. REPORT; INCLUSIONARY ZONING TOOL
+2 On or before January 15, 2026, the Commissioner of Housing and
+3 Community Development shall report to the Senate Committee on Economic
+4 Development, Housing and General Affairs and the House Committee on
+5 Environment on the development of a density algorithm for calculating
+6 inclusionary zoning unit amounts that can be used in municipalities with
+7 inclusionary zoning.
+8 Sec. 4. MINIMAL DESIGN STANDARDS REPORT
+9 On or before July 1, 2026, the Commissioner of Housing and Community
+10 Development shall report to the Senate Committee on Economic Development,
+11 Housing and General Affairs and the House Committee on Environment on
+12 whether the State should adopt minimal design standards for construction that
+13 could be used to reduce municipal permit processing. The Commissioner may
+14 review what other states, including Maine, have done.
+15 * * * Act 250 * * *
+16 Sec. 5. 10 V.S.A. § 6034 is amended to read:
+17 § 6034. TIER 1A AREA STATUS
+18 * * *
+19 (b) Tier 1A area status requirements.
+20 (1) To obtain a Tier 1A area status under this section, a municipality
+21 shall demonstrate to the Board that it has each of the following:
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 5 of 18
+1 * * *
+2 (I) Municipal or regional planning commission staff or other
+3 contracted capacity adequate to support coordinated comprehensive and capital
+4 planning, development review, and zoning administration in the Tier 1A area.
+5 * * *
+6 Sec. 6. 10 V.S.A. § 6033 is amended to read:
+7 § 6033. REGIONAL PLAN FUTURE LAND USE MAP REVIEW
+8 * * *
+9 (c) To obtain a Tier 1B area status under this section the regional planning
+10 commission shall demonstrate to the Board that the municipalities with Tier 1B
+11 areas meet the following requirements as included in subdivision 24 V.S.A.
+12 § 4348a(a)(12)(C):
+13 (1) The municipality has not requested to opt out to have the area
+14 mapped for Tier 1B. A municipality may request to opt out of Tier 1B area
+15 status by submitting a resolution passed by the municipality to the relevant
+16 regional planning commission and the Board.
+17 * * *
+18 (6) The municipality has municipal staff, municipal officials, or regional
+19 planning commission staff or other contracted capacity adequate to support
+20 development review and zoning administration in the Tier 1B area.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 6 of 18
+1 Sec. 7. 10 V.S.A. § 8504 is amended to read:
+2 § 8504. APPEALS TO THE ENVIRONMENTAL DIVISION
+3 * * *
+4 (f) Stays.
+5 (1) The filing of an appeal shall automatically stay the act or decision in
+6 the following situations:
+7 (A) acts or decisions involving stream alteration permits or shoreline
+8 encroachment permits issued by the Secretary;
+9 (B) the denial of interested person status by a board of adjustment,
+10 planning commission, or development review board.
+11 (2) Upon petition by a party or upon its own motion for a stay of an act
+12 or decision, the Environmental Division shall perform the initial review of the
+13 request and may grant a stay. Any decision under this subsection to issue a
+14 stay shall be subject to appeal to the Supreme Court according to the Rules of
+15 Appellate Procedure.
+16 (3) The filing of an appeal shall not stay an act or decision pursuant to
+17 chapter 151 of this title and 24 V.S.A. chapter 117.
+18 * * *
+19 Sec. 8. 10 V.S.A. § 6081 is amended to read:
+20 § 6081. PERMITS REQUIRED; EXEMPTIONS
+21 * * *
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 7 of 18
+1 (ee) No permit or permit amendment shall be required for either:
+2 (1) a sawmill that produces 3.5 million board feet or less annually; or
+3 (2) an operation that involves the primary processing of forest products
+4 of commercial value and that annually produces:
+5 (A) 3,500 cords or less of firewood or cordwood; or
+6 (B) 10,000 tons or less of bole wood, whole tree chips, or wood
+7 pellets.
+8 Sec. 9. REPEAL
+9 10 V.S.A. § 6084(g) is repealed.
+10 * * * Brownfields * * *
+11 Sec. 10. 10 V.S.A. § 6604c is amended to read:
+12 § 6604c. MANAGEMENT OF DEVELOPMENT SOILS
+13 (a) Management of development soils. Notwithstanding any other
+14 requirements of this chapter to the contrary, development soils may be
+15 managed at a location permitted pursuant to an insignificant waste event
+16 approval authorization issued pursuant to the Solid Waste Management Rules
+17 that contains, at a minimum, the following:
+18 (1) the development soils are generated from a hazardous materials site
+19 managed pursuant to a corrective action plan or a soil management plan
+20 approved by the Secretary;
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 8 of 18
+1 (2) the development soils have been tested for arsenic, lead, and
+2 polyaromatic hydrocarbons pursuant to a monitoring plan approved by the
+3 Secretary that ensures that the soils do not leach above groundwater
+4 enforcement standards;
+5 (3) the location where the soils are managed is appropriate for the
+6 amount and type of material being managed;
+7 (4) the soils are capped in a manner approved by the Secretary;
+8 (5) any activity that may disturb the development soils at the permitted
+9 location is done pursuant to a soil management plan approved by the Secretary;
+10 and
+11 (6) the permittee files a record notice of where the soils are managed in
+12 the land records.
+13 * * *
+14 Sec. 11. 10 V.S.A. § 6641 is amended to read:
+15 § 6641. BROWNFIELD PROPERTY CLEANUP PROGRAM; CREATION;
+16 POWERS
+17 (a) There is created the Brownfield Property Cleanup Program to enable
+18 certain interested parties to request the assistance of the Secretary to review
+19 and oversee work plans for investigating, abating, removing, remediating, and
+20 monitoring a property in exchange for protection from certain liabilities under
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 9 of 18
+1 section 6615 of this title. The Program shall be administered by the Secretary
+2 who shall:
+3 * * *
+4 (c) When conducting any review required by this subchapter, the Secretary
+5 shall prioritize the review of remediation at a site that contains housing or that
+6 is planned for the construction or rehabilitation of single-family or multi-
+7 family housing.
+8 Sec. 12. BROWNFIELDS PROCESS IMPROVEMENT; REPORT
+9 On or before November 1, 2025, the Secretary of Natural Resources shall
+10 report to the House Committees on Environment and on General and Housing
+11 and the Senate Committees on Economic Development, Housing and General
+12 Affairs and on Natural Resources and Energy with proposals to make the
+13 Program established pursuant to 10 V.S.A. chapter 159, subchapter 3
+14 (brownfields reuse and liability limitation) substantially more efficient. At a
+15 minimum, the report shall include both of the following:
+16 (1) A survey of stakeholders in the brownfields program to identify
+17 areas that present challenges to the redevelopment of contaminated properties,
+18 with a focus on redevelopment for housing. The Secretary shall provide
+19 recommendations to resolve these challenges.
+20 (2) An analysis of strengths and weaknesses of implementing a licensed
+21 site professional program within the State. The Secretary shall make a
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 10 of 18
+1 recommendation on whether such a program should be implemented. If the
+2 Secretary recommends implementation, the report shall include any changes to
+3 statute or budget needed to implement this program.
+4 * * * Wetlands * * *
+5 Sec. 13. 10 V.S.A. § 902 is amended to read:
+6 § 902. DEFINITIONS
+7 Wherever used or referred to in this chapter, unless a different meaning
+8 clearly appears from the context:
+9 * * *
+10 (7) “Class II wetland” means a wetland other than a Class I or Class III
+11 wetland that:
+12 (A) is a mapped wetland identified on the Vermont significant
+13 wetlands inventory maps; or
+14 (B) is an unmapped wetland that the Secretary determines to merit
+15 protection, pursuant to section 914 of this title, based upon an evaluation of the
+16 extent to which it serves the functions and values set forth in subdivision
+17 905b(18)(A) of this title and the rules of the Department.
+18 (8) “Class III wetland” means a wetland that is neither a Class I wetland
+19 nor a Class II wetland.
+20 (9) “Buffer zone” means an area contiguous to a significant wetland that
+21 protects the wetland’s functions and values.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 11 of 18
+1 (A) The Except as provided in subdivision (B) of this subdivision (9):
+2 (i) the buffer zone for a Class I wetland shall extend at least 100
+3 feet from the border of the wetland, unless the Department determines
+4 otherwise under section 915 of this title. The; and
+5 (ii) the buffer zone for a Class II wetland shall extend at least 50
+6 feet from the border of the wetland unless the Secretary determines otherwise
+7 under section 914 of this title.
+8 (B) The buffer zone of a Class II wetland shall be 25 feet when the
+9 wetland is located in:
+10 (i) an industrial park, as that term is defined in subdivision 212(7)
+11 of this title, that is permitted under chapter 151 of this title;
+12 (ii) designated centers designated under 24 V.S.A. chapter 76A;
+13 (iii) Tier 1A and Tier 1B areas approved by the Land Use Review
+14 Board; or
+15 (iv) locations meeting the requirements established in subsection
+16 6081(z) of this title as eligible for an interim exemption from the permit or
+17 permit amendment requirements of chapter 151 of this title.
+18 (10) “Panel” means the Water Resources Panel of the Agency of Natural
+19 Resources.
+20 (11) “Significant wetland” means any Class I or Class II wetland.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 12 of 18
+1 (12)(11) “Secretary” means the Secretary of Natural Resources or the
+2 Secretary’s authorized representative.
+3 (13)(12) “Dam removal” has the same meaning as in section 1080 of
+4 this title.
+5 Sec. 14. 10 V.S.A. § 913 is amended to read:
+6 § 913. PROHIBITION
+7 (a) Except for allowed uses adopted by the Department by rule, no person
+8 shall conduct or allow to be conducted an activity in a significant wetland or
+9 buffer zone of a significant wetland except in compliance with a permit,
+10 conditional use determination, or order issued by the Secretary.
+11 (b) A permit shall not be required under this section for:
+12 (1) any activity that occurred before the effective date of this section
+13 unless the activity occurred within:
+14 (A) an area identified as a wetland on the Vermont significant
+15 wetlands inventory maps;
+16 (B) a wetland that was contiguous to an area identified as a wetland
+17 on the Vermont significant wetlands inventory maps; or
+18 (C) the buffer zone of a wetland referred to in subdivision (A) or (B)
+19 of this subdivision (1);
+20 (2) any construction within a wetland that is identified on the Vermont
+21 significant wetlands inventory maps or within the buffer zone of such a
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 13 of 18
+1 wetland, provided that the construction was completed prior to February 23,
+2 1992, and no action for which a permit is required under the rules of the
+3 Department was taken or caused to be taken on or after February 23, 1992; or
+4 (3) any construction or activity in an unmapped Class II wetland located
+5 in:
+6 (A) an industrial park, as that term is defined in subdivision
+7 212(7) of this title, that is permitted under chapter 151 of this title;
+8 (B) designated centers designated under 24 V.S.A. chapter 76A;
+9 (C) Tier 1A and Tier 1B areas approved by the Land Use Review
+10 Board; or
+11 (D) locations meeting the requirements established in subsection
+12 6081(z) of this title as eligible for an interim exemption from the permit or
+13 permit amendment requirements of chapter 151 of this title.
+14 Sec. 15. 10 V.S.A. § 914 is amended to read:
+15 § 914. WETLANDS DETERMINATIONS
+16 (a) The Secretary may, upon a petition or on his or her the Secretary’s own
+17 motion, determine whether any wetland is a Class II or Class III wetland. Such
+18 The Secretary’s determinations shall be based on an evaluation of the functions
+19 and values set forth in subdivision 905b(18)(A) of this title and the rules of the
+20 Department.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 14 of 18
+1 (b) The Secretary may establish the necessary width of the buffer zone of
+2 any Class II wetland as part of any wetland determination pursuant to the rules
+3 of the Department, except that buffer zone of a Class II wetland shall be 25
+4 feet when the wetland is located in:
+5 (1) an industrial park, as that term is defined in subdivision 212(7) of
+6 this title, that is permitted under chapter 151 of this title;
+7 (2) designated centers designated under 24 V.S.A. chapter 76A;
+8 (3) Tier 1A and Tier 1B areas approved by the Land Use Review Board;
+9 or
+10 (4) locations meeting the requirements established in subsection 6081(z)
+11 of this title as eligible for an interim exemption from the permit or permit
+12 amendment requirements of chapter 151 of this title.
+13 * * *
+14 Sec. 16. 10 V.S.A. § 918 is amended to read:
+15 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+16 (a) On or before July 1, 2025 2026, the Secretary of Natural Resources
+17 shall amend the Vermont Wetlands Rules pursuant to 3 V.S.A. chapter 25 to
+18 clarify that the goal of wetlands regulation and management in the State is the
+19 net gain of wetlands to be achieved through protection of existing wetlands and
+20 restoration of wetlands that were previously adversely affected. This condition
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 15 of 18
+1 shall not apply to wetland, river, and flood plain restoration projects, including
+2 dam removals.
+3 (b)(1) The Vermont Wetlands Rules shall prioritize the protection of
+4 existing intact wetlands from adverse effects.
+5 (2) Where a permitted activity in a wetland will cause more than 5,000
+6 square feet of adverse effects that cannot be avoided, the Secretary shall
+7 mandate that the permit applicant restore, enhance, or create wetlands or
+8 buffers to compensate for the adverse effects on a wetland. The amount of
+9 wetlands to be restored, enhanced, or created shall be calculated, at a
+10 minimum, by determining the acreage or square footage of wetlands
+11 permanently drained or filled as a result of the permitted activity and
+12 multiplying that acreage or square footage by two, to result in a ratio of 2:1
+13 restoration to wetland loss, except that a ratio of 1:1 restoration to wetland loss
+14 shall apply in:
+15 (A) an industrial park, as that term is defined in subdivision 212(7) of
+16 this title, that is permitted under chapter 151 of this title;
+17 (B) designated centers designated under 24 V.S.A. chapter 76A;
+18 (C) Tier 1A and Tier 1B areas approved by the Land Use Review
+19 Board; or
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 16 of 18
+1 (D) locations meeting the requirements established in subsection
+2 6081(z) of this title as eligible for an interim exemption from the permit or
+3 permit amendment requirements of chapter 151 of this title.
+4 (3) Establishment of a buffer zone contiguous to a wetland shall not
+5 substitute for the restoration, enhancement, or creation of wetlands. Adverse
+6 impacts to wetland buffers shall be compensated for based on the effects of the
+7 impact on wetland function.
+8 * * *
+9 Sec. 17. 10 V.S.A. § 919 is amended to read:
+10 § 919. WETLANDS PROGRAM REPORTS
+11 (a) On or before April 30, 2025, and annually thereafter, the Secretary of
+12 Natural Resources shall submit to the House Committee on Environment and
+13 Energy and to the Senate Committee on Natural Resources and Energy a report
+14 on annual losses and gains of significant wetlands in the State. The report shall
+15 include:
+16 (1) the location and acreage of Class II wetland and buffer losses
+17 permitted by the Agency in accordance with section 913 of this title, for which
+18 construction of the permitted project has commenced;
+19 (2) the acreage of Class II wetlands and buffers gained through permit-
+20 related enhancement and restoration, and an estimate of wetlands gained
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 17 of 18
+1 through wetlands, river, and floodplain restoration projects, including dam
+2 removals;
+3 (3) the number of site visits and technical assistance calls conducted by
+4 the Agency of Natural Resources, the number of permits processed by the
+5 Agency, and any enforcement actions that were taken by the Agency or the
+6 Office of the Attorney General in the previous year for violations of this
+7 chapter; and
+8 (4) an updated mitigation summary of the extent of wetlands restored
+9 on-site compared with compensation performed off-site, in-lieu fees paid, or
+10 conservation.
+11 * * *
+12 (c) On or before December 15, 2025, the Agency of Natural Resources
+13 shall publish on its website and submit to the House Committee on
+14 Environment and to the Senate Committee on Natural Resources and Energy
+15 wetland guidance on the mitigation and compensation sequence contemplated
+16 in the Vermont Wetland Rules subsections 9.5(b) and (c). The guidance shall
+17 clearly identify the process applicants should follow and the information and
+18 proof necessary to demonstrate a project has practicably avoided and
+19 minimized wetland impacts and is eligible for mitigation during the State
+20 wetland permit application process.
+VT LEG #381348 v.4
+BILL AS INTRODUCED S.133
+2025 Page 18 of 18
+1 * * * Effective Date * * *
+2 Sec. 18. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2025.
+VT LEG #381348 v.4
+[DELETED:  S P S I S R D S s S c a A I * S ( z o ( l m]
+[DELETED:  S P S § T c * ( m c i ( a s ( ( ( ( w a ( r a]
+[DELETED:  S P r a ( r s ( c ( p ( ( d o ( D R d ( i r r]
+[DELETED:  S P S O C D E i i S O D H w c r * S § * ( ( s]
+[DELETED:  S P * ( c p * S § * ( c a § ( m s r * ( p d]
+[DELETED:  S P S § * ( ( t ( e ( p ( o r s A ( c * S § *]
+[DELETED:  S P ( ( ( o ( ( p S 1 * S § ( r m a t ( m a]
+[DELETED:  S P ( p S e ( a ( ( l a ( t * S §   ( c a m]
+[DELETED:  S P s w * ( s i f S O r a A P ( m ( a w r ( s]
+[DELETED:  S P r S s * S § W c * ( w ( w ( p e 9 ( n ( p]
+[DELETED:  S P ( ( f o ( f u ( w ( o ( ( B ( 6 p ( R (]
+[DELETED:  S P ( S ( t S § ( s b c ( ( u ( w ( o ( o ( s]
+[DELETED:  S P w 1 D ( i ( 2 ( ( B ( 6 p S § ( m T a D]
+[DELETED:  S P ( a o f ( t ( ( o ( o a * S § ( s c n r]
+[DELETED:  S P s d ( e ( s m b w m p m r s ( t ( ( B]
+[DELETED:  S P ( 6 p ( s i i * S § ( N E o i ( p c ( r]
+[DELETED:  S P t r ( t A O c ( o c * ( s E w i c p m w]
+[DELETED:  S P * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.133
+2025 Page 1 of 18
+1 S.133
+2 Introduced by Senators Ram Hinsdale, Chittenden and Clarkson
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; land use; municipal zoning; Act 250;
+6 sawmills; brownfields
+7 Statement of purpose of bill as introduced: This bill proposes to make multiple
+8 changes related to municipal zoning, the State land use and development law,
+9 and brownfields.
+10 An act relating to land use, housing, and brownfields
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 * * * Municipal Zoning * * *
+13 Sec. 1. 24 V.S.A. § 4412(15) and (16) are added to read:
+14 (15) Notwithstanding any other provision of law to the contrary, no
+15 zoning or subdivision bylaw shall have the effect of prohibiting related
+16 occupants from constructing additional dwelling units on the same parcel.
+17 (16) If an area of a municipality has been zoned for industrial use, but is
+18 later changed to allow residential development, the area shall allow five or
+19 more units per acre.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 2 of 18
+1 Sec. 2. 24 V.S.A. § 4303 is amended to read:
+2 § 4303. DEFINITIONS
+3 The following definitions shall apply throughout this chapter unless the
+4 context otherwise requires:
+5 * * *
+6 (42)(A) An area “served by municipal sewer and water infrastructure”
+7 means an area adjacent to a road with water and sewer lines where there is
+8 capacity or capacity is being added imminently to accommodate housing and
+9 is:
+10 (i) an area where residential connections and expansions are
+11 available to municipal water and direct and indirect discharge wastewater
+12 systems and not prohibited by:
+13 (I) State regulations or permits;
+14 (II) identified capacity constraints; or
+15 (III) municipally adopted service and capacity agreements; or
+16 (ii) an area established by the municipality by ordinance or bylaw
+17 where residential connections and expansions are available to municipal water
+18 and direct and indirect discharge wastewater systems and which may exclude:
+19 (I) flood hazard or inundation areas as established by statute,
+20 river corridors or fluvial erosion areas as established by statute, shorelands,
+21 areas within a zoning district or overlay district the purpose of which is natural
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 3 of 18
+1 resource protection, and wherever year-round residential development is not
+2 allowed;
+3 (II) areas with identified service limits established by State
+4 regulations or permits, identified capacity constraints, or municipally adopted
+5 service and capacity agreements;
+6 (III) areas served by sewer and water to address an identified
+7 community-scale public health hazard or environmental hazard;
+8 (IV) areas serving a mobile home park that is not within an area
+9 planned for year-round residential growth;
+10 (V) areas serving an industrial site or park;
+11 (VI) areas where service lines are located to serve the areas
+12 described in subdivisions (III)–(V) of this subdivision (ii), but no connections
+13 or expansions are permitted; or
+14 (VII) areas that, through an approved Planned Unit
+15 Development under section 4417 of this title or Transfer of Development
+16 Rights under section 4423 of this title, prohibit year-round residential
+17 development.
+18 (B) Municipally adopted areas served by municipal sewer and water
+19 infrastructure that limit sewer and water connections and expansions shall not
+20 result in the unequal treatment of housing by discriminating against a year-
+21 round residential use or housing type otherwise allowed in this chapter.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 4 of 18
+1 Sec. 3. REPORT; INCLUSIONARY ZONING TOOL
+2 On or before January 15, 2026, the Commissioner of Housing and
+3 Community Development shall report to the Senate Committee on Economic
+4 Development, Housing and General Affairs and the House Committee on
+5 Environment on the development of a density algorithm for calculating
+6 inclusionary zoning unit amounts that can be used in municipalities with
+7 inclusionary zoning.
+8 Sec. 4. MINIMAL DESIGN STANDARDS REPORT
+9 On or before July 1, 2026, the Commissioner of Housing and Community
+10 Development shall report to the Senate Committee on Economic Development,
+11 Housing and General Affairs and the House Committee on Environment on
+12 whether the State should adopt minimal design standards for construction that
+13 could be used to reduce municipal permit processing. The Commissioner may
+14 review what other states, including Maine, have done.
+15 * * * Act 250 * * *
+16 Sec. 5. 10 V.S.A. § 6034 is amended to read:
+17 § 6034. TIER 1A AREA STATUS
+18 * * *
+19 (b) Tier 1A area status requirements.
+20 (1) To obtain a Tier 1A area status under this section, a municipality
+21 shall demonstrate to the Board that it has each of the following:
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 5 of 18
+1 * * *
+2 (I) Municipal or regional planning commission staff or other
+3 contracted capacity adequate to support coordinated comprehensive and capital
+4 planning, development review, and zoning administration in the Tier 1A area.
+5 * * *
+6 Sec. 6. 10 V.S.A. § 6033 is amended to read:
+7 § 6033. REGIONAL PLAN FUTURE LAND USE MAP REVIEW
+8 * * *
+9 (c) To obtain a Tier 1B area status under this section the regional planning
+10 commission shall demonstrate to the Board that the municipalities with Tier 1B
+11 areas meet the following requirements as included in subdivision 24 V.S.A.
+12 § 4348a(a)(12)(C):
+13 (1) The municipality has not requested to opt out to have the area
+14 mapped for Tier 1B. A municipality may request to opt out of Tier 1B area
+15 status by submitting a resolution passed by the municipality to the relevant
+16 regional planning commission and the Board.
+17 * * *
+18 (6) The municipality has municipal staff, municipal officials, or regional
+19 planning commission staff or other contracted capacity adequate to support
+20 development review and zoning administration in the Tier 1B area.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 6 of 18
+1 Sec. 7. 10 V.S.A. § 8504 is amended to read:
+2 § 8504. APPEALS TO THE ENVIRONMENTAL DIVISION
+3 * * *
+4 (f) Stays.
+5 (1) The filing of an appeal shall automatically stay the act or decision in
+6 the following situations:
+7 (A) acts or decisions involving stream alteration permits or shoreline
+8 encroachment permits issued by the Secretary;
+9 (B) the denial of interested person status by a board of adjustment,
+10 planning commission, or development review board.
+11 (2) Upon petition by a party or upon its own motion for a stay of an act
+12 or decision, the Environmental Division shall perform the initial review of the
+13 request and may grant a stay. Any decision under this subsection to issue a
+14 stay shall be subject to appeal to the Supreme Court according to the Rules of
+15 Appellate Procedure.
+16 (3) The filing of an appeal shall not stay an act or decision pursuant to
+17 chapter 151 of this title and 24 V.S.A. chapter 117.
+18 * * *
+19 Sec. 8. 10 V.S.A. § 6081 is amended to read:
+20 § 6081. PERMITS REQUIRED; EXEMPTIONS
+21 * * *
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 7 of 18
+1 (ee) No permit or permit amendment shall be required for either:
+2 (1) a sawmill that produces 3.5 million board feet or less annually; or
+3 (2) an operation that involves the primary processing of forest products
+4 of commercial value and that annually produces:
+5 (A) 3,500 cords or less of firewood or cordwood; or
+6 (B) 10,000 tons or less of bole wood, whole tree chips, or wood
+7 pellets.
+8 Sec. 9. REPEAL
+9 10 V.S.A. § 6084(g) is repealed.
+10 * * * Brownfields * * *
+11 Sec. 10. 10 V.S.A. § 6604c is amended to read:
+12 § 6604c. MANAGEMENT OF DEVELOPMENT SOILS
+13 (a) Management of development soils. Notwithstanding any other
+14 requirements of this chapter to the contrary, development soils may be
+15 managed at a location permitted pursuant to an insignificant waste event
+16 approval authorization issued pursuant to the Solid Waste Management Rules
+17 that contains, at a minimum, the following:
+18 (1) the development soils are generated from a hazardous materials site
+19 managed pursuant to a corrective action plan or a soil management plan
+20 approved by the Secretary;
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 8 of 18
+1 (2) the development soils have been tested for arsenic, lead, and
+2 polyaromatic hydrocarbons pursuant to a monitoring plan approved by the
+3 Secretary that ensures that the soils do not leach above groundwater
+4 enforcement standards;
+5 (3) the location where the soils are managed is appropriate for the
+6 amount and type of material being managed;
+7 (4) the soils are capped in a manner approved by the Secretary;
+8 (5) any activity that may disturb the development soils at the permitted
+9 location is done pursuant to a soil management plan approved by the Secretary;
+10 and
+11 (6) the permittee files a record notice of where the soils are managed in
+12 the land records.
+13 * * *
+14 Sec. 11. 10 V.S.A. § 6641 is amended to read:
+15 § 6641. BROWNFIELD PROPERTY CLEANUP PROGRAM; CREATION;
+16 POWERS
+17 (a) There is created the Brownfield Property Cleanup Program to enable
+18 certain interested parties to request the assistance of the Secretary to review
+19 and oversee work plans for investigating, abating, removing, remediating, and
+20 monitoring a property in exchange for protection from certain liabilities under
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 9 of 18
+1 section 6615 of this title. The Program shall be administered by the Secretary
+2 who shall:
+3 * * *
+4 (c) When conducting any review required by this subchapter, the Secretary
+5 shall prioritize the review of remediation at a site that contains housing or that
+6 is planned for the construction or rehabilitation of single-family or multi-
+7 family housing.
+8 Sec. 12. BROWNFIELDS PROCESS IMPROVEMENT; REPORT
+9 On or before November 1, 2025, the Secretary of Natural Resources shall
+10 report to the House Committees on Environment and on General and Housing
+11 and the Senate Committees on Economic Development, Housing and General
+12 Affairs and on Natural Resources and Energy with proposals to make the
+13 Program established pursuant to 10 V.S.A. chapter 159, subchapter 3
+14 (brownfields reuse and liability limitation) substantially more efficient. At a
+15 minimum, the report shall include both of the following:
+16 (1) A survey of stakeholders in the brownfields program to identify
+17 areas that present challenges to the redevelopment of contaminated properties,
+18 with a focus on redevelopment for housing. The Secretary shall provide
+19 recommendations to resolve these challenges.
+20 (2) An analysis of strengths and weaknesses of implementing a licensed
+21 site professional program within the State. The Secretary shall make a
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 10 of 18
+1 recommendation on whether such a program should be implemented. If the
+2 Secretary recommends implementation, the report shall include any changes to
+3 statute or budget needed to implement this program.
+4 * * * Wetlands * * *
+5 Sec. 13. 10 V.S.A. § 902 is amended to read:
+6 § 902. DEFINITIONS
+7 Wherever used or referred to in this chapter, unless a different meaning
+8 clearly appears from the context:
+9 * * *
+10 (7) “Class II wetland” means a wetland other than a Class I or Class III
+11 wetland that:
+12 (A) is a mapped wetland identified on the Vermont significant
+13 wetlands inventory maps; or
+14 (B) is an unmapped wetland that the Secretary determines to merit
+15 protection, pursuant to section 914 of this title, based upon an evaluation of the
+16 extent to which it serves the functions and values set forth in subdivision
+17 905b(18)(A) of this title and the rules of the Department.
+18 (8) “Class III wetland” means a wetland that is neither a Class I wetland
+19 nor a Class II wetland.
+20 (9) “Buffer zone” means an area contiguous to a significant wetland that
+21 protects the wetland’s functions and values.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 11 of 18
+1 (A) The Except as provided in subdivision (B) of this subdivision (9):
+2 (i) the buffer zone for a Class I wetland shall extend at least 100
+3 feet from the border of the wetland, unless the Department determines
+4 otherwise under section 915 of this title. The; and
+5 (ii) the buffer zone for a Class II wetland shall extend at least 50
+6 feet from the border of the wetland unless the Secretary determines otherwise
+7 under section 914 of this title.
+8 (B) The buffer zone of a Class II wetland shall be 25 feet when the
+9 wetland is located in:
+10 (i) an industrial park, as that term is defined in subdivision 212(7)
+11 of this title, that is permitted under chapter 151 of this title;
+12 (ii) designated centers designated under 24 V.S.A. chapter 76A;
+13 (iii) Tier 1A and Tier 1B areas approved by the Land Use Review
+14 Board; or
+15 (iv) locations meeting the requirements established in subsection
+16 6081(z) of this title as eligible for an interim exemption from the permit or
+17 permit amendment requirements of chapter 151 of this title.
+18 (10) “Panel” means the Water Resources Panel of the Agency of Natural
+19 Resources.
+20 (11) “Significant wetland” means any Class I or Class II wetland.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 12 of 18
+1 (12)(11) “Secretary” means the Secretary of Natural Resources or the
+2 Secretary’s authorized representative.
+3 (13)(12) “Dam removal” has the same meaning as in section 1080 of
+4 this title.
+5 Sec. 14. 10 V.S.A. § 913 is amended to read:
+6 § 913. PROHIBITION
+7 (a) Except for allowed uses adopted by the Department by rule, no person
+8 shall conduct or allow to be conducted an activity in a significant wetland or
+9 buffer zone of a significant wetland except in compliance with a permit,
+10 conditional use determination, or order issued by the Secretary.
+11 (b) A permit shall not be required under this section for:
+12 (1) any activity that occurred before the effective date of this section
+13 unless the activity occurred within:
+14 (A) an area identified as a wetland on the Vermont significant
+15 wetlands inventory maps;
+16 (B) a wetland that was contiguous to an area identified as a wetland
+17 on the Vermont significant wetlands inventory maps; or
+18 (C) the buffer zone of a wetland referred to in subdivision (A) or (B)
+19 of this subdivision (1);
+20 (2) any construction within a wetland that is identified on the Vermont
+21 significant wetlands inventory maps or within the buffer zone of such a
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 13 of 18
+1 wetland, provided that the construction was completed prior to February 23,
+2 1992, and no action for which a permit is required under the rules of the
+3 Department was taken or caused to be taken on or after February 23, 1992; or
+4 (3) any construction or activity in an unmapped Class II wetland located
+5 in:
+6 (A) an industrial park, as that term is defined in subdivision
+7 212(7) of this title, that is permitted under chapter 151 of this title;
+8 (B) designated centers designated under 24 V.S.A. chapter 76A;
+9 (C) Tier 1A and Tier 1B areas approved by the Land Use Review
+10 Board; or
+11 (D) locations meeting the requirements established in subsection
+12 6081(z) of this title as eligible for an interim exemption from the permit or
+13 permit amendment requirements of chapter 151 of this title.
+14 Sec. 15. 10 V.S.A. § 914 is amended to read:
+15 § 914. WETLANDS DETERMINATIONS
+16 (a) The Secretary may, upon a petition or on his or her the Secretary’s own
+17 motion, determine whether any wetland is a Class II or Class III wetland. Such
+18 The Secretary’s determinations shall be based on an evaluation of the functions
+19 and values set forth in subdivision 905b(18)(A) of this title and the rules of the
+20 Department.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 14 of 18
+1 (b) The Secretary may establish the necessary width of the buffer zone of
+2 any Class II wetland as part of any wetland determination pursuant to the rules
+3 of the Department, except that buffer zone of a Class II wetland shall be 25
+4 feet when the wetland is located in:
+5 (1) an industrial park, as that term is defined in subdivision 212(7) of
+6 this title, that is permitted under chapter 151 of this title;
+7 (2) designated centers designated under 24 V.S.A. chapter 76A;
+8 (3) Tier 1A and Tier 1B areas approved by the Land Use Review Board;
+9 or
+10 (4) locations meeting the requirements established in subsection 6081(z)
+11 of this title as eligible for an interim exemption from the permit or permit
+12 amendment requirements of chapter 151 of this title.
+13 * * *
+14 Sec. 16. 10 V.S.A. § 918 is amended to read:
+15 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+16 (a) On or before July 1, 2025 2026, the Secretary of Natural Resources
+17 shall amend the Vermont Wetlands Rules pursuant to 3 V.S.A. chapter 25 to
+18 clarify that the goal of wetlands regulation and management in the State is the
+19 net gain of wetlands to be achieved through protection of existing wetlands and
+20 restoration of wetlands that were previously adversely affected. This condition
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 15 of 18
+1 shall not apply to wetland, river, and flood plain restoration projects, including
+2 dam removals.
+3 (b)(1) The Vermont Wetlands Rules shall prioritize the protection of
+4 existing intact wetlands from adverse effects.
+5 (2) Where a permitted activity in a wetland will cause more than 5,000
+6 square feet of adverse effects that cannot be avoided, the Secretary shall
+7 mandate that the permit applicant restore, enhance, or create wetlands or
+8 buffers to compensate for the adverse effects on a wetland. The amount of
+9 wetlands to be restored, enhanced, or created shall be calculated, at a
+10 minimum, by determining the acreage or square footage of wetlands
+11 permanently drained or filled as a result of the permitted activity and
+12 multiplying that acreage or square footage by two, to result in a ratio of 2:1
+13 restoration to wetland loss, except that a ratio of 1:1 restoration to wetland loss
+14 shall apply in:
+15 (A) an industrial park, as that term is defined in subdivision 212(7) of
+16 this title, that is permitted under chapter 151 of this title;
+17 (B) designated centers designated under 24 V.S.A. chapter 76A;
+18 (C) Tier 1A and Tier 1B areas approved by the Land Use Review
+19 Board; or
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 16 of 18
+1 (D) locations meeting the requirements established in subsection
+2 6081(z) of this title as eligible for an interim exemption from the permit or
+3 permit amendment requirements of chapter 151 of this title.
+4 (3) Establishment of a buffer zone contiguous to a wetland shall not
+5 substitute for the restoration, enhancement, or creation of wetlands. Adverse
+6 impacts to wetland buffers shall be compensated for based on the effects of the
+7 impact on wetland function.
+8 * * *
+9 Sec. 17. 10 V.S.A. § 919 is amended to read:
+10 § 919. WETLANDS PROGRAM REPORTS
+11 (a) On or before April 30, 2025, and annually thereafter, the Secretary of
+12 Natural Resources shall submit to the House Committee on Environment and
+13 Energy and to the Senate Committee on Natural Resources and Energy a report
+14 on annual losses and gains of significant wetlands in the State. The report shall
+15 include:
+16 (1) the location and acreage of Class II wetland and buffer losses
+17 permitted by the Agency in accordance with section 913 of this title, for which
+18 construction of the permitted project has commenced;
+19 (2) the acreage of Class II wetlands and buffers gained through permit-
+20 related enhancement and restoration, and an estimate of wetlands gained
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 17 of 18
+1 through wetlands, river, and floodplain restoration projects, including dam
+2 removals;
+3 (3) the number of site visits and technical assistance calls conducted by
+4 the Agency of Natural Resources, the number of permits processed by the
+5 Agency, and any enforcement actions that were taken by the Agency or the
+6 Office of the Attorney General in the previous year for violations of this
+7 chapter; and
+8 (4) an updated mitigation summary of the extent of wetlands restored
+9 on-site compared with compensation performed off-site, in-lieu fees paid, or
+10 conservation.
+11 * * *
+12 (c) On or before December 15, 2025, the Agency of Natural Resources
+13 shall publish on its website and submit to the House Committee on
+14 Environment and to the Senate Committee on Natural Resources and Energy
+15 wetland guidance on the mitigation and compensation sequence contemplated
+16 in the Vermont Wetland Rules subsections 9.5(b) and (c). The guidance shall
+17 clearly identify the process applicants should follow and the information and
+18 proof necessary to demonstrate a project has practicably avoided and
+19 minimized wetland impacts and is eligible for mitigation during the State
+20 wetland permit application process.
+VT LEG #381348 v.4
+
+BILL AS INTRODUCED S.133
+2025 Page 18 of 18
+1 * * * Effective Date * * *
+2 Sec. 18. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2025.
+VT LEG #381348 v.4
+
+[DELETED:  S P S I S R D S s S c a A I * S ( z o ( l m]
+[DELETED:  S P S § T c * ( m c i ( a s ( ( ( ( w a ( r a]
+[DELETED:  S P r a ( r s ( c ( p ( ( d o ( D R d ( i r r]
+[DELETED:  S P S O C D E i i S O D H w c r * S § * ( ( s]
+[DELETED:  S P * ( c p * S § * ( c a § ( m s r * ( p d]
+[DELETED:  S P S § * ( ( t ( e ( p ( o r s A ( c * S § *]
+[DELETED:  S P ( ( ( o ( ( p S 1 * S § ( r m a t ( m a]
+[DELETED:  S P ( p S e ( a ( ( l a ( t * S §   ( c a m]
+[DELETED:  S P s w * ( s i f S O r a A P ( m ( a w r ( s]
+[DELETED:  S P r S s * S § W c * ( w ( w ( p e 9 ( n ( p]
+[DELETED:  S P ( ( f o ( f u ( w ( o ( ( B ( 6 p ( R (]
+[DELETED:  S P ( S ( t S § ( s b c ( ( u ( w ( o ( o ( s]
+[DELETED:  S P w 1 D ( i ( 2 ( ( B ( 6 p S § ( m T a D]
+[DELETED:  S P ( a o f ( t ( ( o ( o a * S § ( s c n r]
+[DELETED:  S P s d ( e ( s m b w m p m r s ( t ( ( B]
+[DELETED:  S P ( 6 p ( s i i * S § ( N E o i ( p c ( r]
+[DELETED:  S P t r ( t A O c ( o c * ( s E w i c p m w]
+[DELETED:  S P * S T]

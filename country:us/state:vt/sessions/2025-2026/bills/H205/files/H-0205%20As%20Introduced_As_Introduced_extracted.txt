@@ -1,0 +1,317 @@
+Title: BILL AS INTRODUCED H.205
+Official Title: BILL AS INTRODUCED H.205
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.205
+2 Introduced by Representatives Marcotte of Coventry, Bosch of Clarendon,
+3 Christie of Hartford, Cooper of Pownal, Duke of Burlington,
+4 Graning of Jericho, LaLonde of South Burlington, Micklus of
+5 Milton, Olson of Starksboro, and White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Commerce and trade; consumer protection; noncompete agreements
+9 Statement of purpose of bill as introduced: This bill proposes to prohibit
+10 noncompete agreements that restrict the ability of franchisees from operating
+11 their businesses after separating from franchisors and of employees from
+12 competing with their former employers following the conclusion of their
+13 employment.
+14 An act relating to agreements not to compete
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 9 V.S.A. chapter 153 is added to read:
+17 CHAPTER 153. FRANCHISE AGREEMENTS
+18 § 6061. DEFINITIONS
+19 As used in this chapter:
+VT LEG #379828 v.1
+BILL AS INTRODUCED H.205
+2025 Page 2 of 7
+1 (1)(A) “Agreement not to compete” means an agreement between a
+2 franchisor and franchisee that restricts the franchisee after separating from the
+3 franchisor from operating its business:
+4 (i) in a certain geographic area;
+5 (ii) for a certain period of time; or
+6 (iii) in any other way that significantly impacts the ability of the
+7 franchisee to compete with the franchisor.
+8 (B) An agreement not to compete does not include an agreement that
+9 prohibits the disclosure of trade secrets as defined in section 4601 of this title
+10 or a nondisclosure agreement that protects confidential business information
+11 that does not constitute a trade secret.
+12 (2) “Franchise agreement” means an agreement in which a franchisor
+13 grants a franchisee the right to operate a business or to offer, sell, or distribute
+14 goods or services identified or associated with the franchisor’s trademark.
+15 (3) “Franchisee” means a person who currently operates or formerly
+16 operated a business under a franchisor’s name, trademark, or other identifying
+17 information, pursuant to a franchise agreement.
+18 (4) “Franchisor” means a person that sells the right to operate a business
+19 to a franchisee pursuant to a franchise agreement.
+VT LEG #379828 v.1
+BILL AS INTRODUCED H.205
+2025 Page 3 of 7
+1 § 6062. AGREEMENTS NOT TO COMPETE; PROHIBITION; NOTICE
+2 (a) Prohibition. Any agreement not to compete, including an agreement
+3 not to compete contained within a contract or franchise agreement, is void and
+4 unenforceable.
+5 (b) Notice. For existing agreements not to compete that violate subsection
+6 (a) of this section, the franchisor must notify each franchisee that is party to the
+7 agreement that the agreement not to compete is void and legally unenforceable.
+8 Notice shall be in the form of a written individualized communication
+9 addressed to the franchisee or former franchisee and shall be delivered to the
+10 last known address and email address of the franchisee or former franchisee.
+11 Sec. 2. 21 V.S.A. § 495q is added to read:
+12 § 495q. AGREEMENTS NOT TO COMPETE; PROHIBITION;
+13 EXCEPTIONS; NOTICE; EMPLOYEE RIGHTS
+14 (a) Definitions. As used in this section:
+15 (1)(A) “Agreement not to compete” means an agreement between an
+16 employer and an employee that restricts the employee after separating from
+17 employment from performing:
+18 (i) work for another employer for a specified period of time;
+19 (ii) work in a specified geographical area; or
+VT LEG #379828 v.1
+BILL AS INTRODUCED H.205
+2025 Page 4 of 7
+1 (iii) work for another employer in a capacity similar to the
+2 employee’s work for the employee’s former employer that is party to the
+3 agreement.
+4 (B) “Agreement not to compete” does not include:
+5 (i) an agreement that prohibits the disclosure of trade secrets as
+6 defined in 9 V.S.A. § 4601 or a nondisclosure agreement that protects
+7 confidential business information that does not constitute a trade secret; or
+8 (ii) a nonsolicitation agreement between an employer and an
+9 employee, provided that the limitations set forth in the agreement are
+10 reasonable in time, geographical area, and the scope of activity to be
+11 restrained.
+12 (2) “Nonsolicitation agreement” means an agreement between an
+13 employer and employee pursuant to which the employee agrees not to:
+14 (A) solicit or recruit the employer’s employees; or
+15 (B) solicit or transact business with customers or clients of the
+16 employer who were customers or clients while the employee was employed by
+17 the employer.
+18 (3) “Severance agreement” means an agreement between an employer
+19 and employee pursuant to which the employee voluntarily agrees to leave
+20 employment with the employer for a sum of money or other consideration.
+VT LEG #379828 v.1
+BILL AS INTRODUCED H.205
+2025 Page 5 of 7
+1 (b) Prohibition. An agreement not to compete, including an agreement not
+2 to compete contained within a contract, is void and unenforceable.
+3 (c) Exceptions. Nothing in this section shall be construed to prohibit an
+4 individual from entering into an agreement not to compete in relation to:
+5 (1) the sale of all or substantially all of the individual’s ownership
+6 interest in:
+7 (A) a business or its operating assets; or
+8 (B) a subsidiary or division of a business or the operating assets of a
+9 subsidiary or division of a business;
+10 (2) the dissolution of a partnership in which the individual is a partner or
+11 the dissociation of the individual from a partnership;
+12 (3) the dissolution of a limited liability company in which the individual
+13 is a member or the termination of an individual’s interest in a limited liability
+14 company; or
+15 (4) a severance agreement, provided that the limitations set forth in the
+16 agreement are reasonable in:
+17 (A) time, provided further that the limitation on time cannot exceed
+18 the number of weeks or months of pay, however appropriately calculated, that
+19 the employer offers to the employee in consideration to sign the agreement;
+20 (B) geographical area; and
+21 (C) the scope of activity to be restrained.
+VT LEG #379828 v.1
+BILL AS INTRODUCED H.205
+2025 Page 6 of 7
+1 (d) Wage threshold.
+2 (1) Subject to subdivision (2) of this subsection, this section shall not
+3 apply to an agreement not to compete between an employer and an employee
+4 to whom the employer pays $100,000.00 or more annually in gross wages.
+5 (2) An employer requiring a prospective employee to sign an agreement
+6 not to compete that is in accordance with this section shall:
+7 (A) provide the prospective employee with the proposed agreement
+8 at the time the offer of employment to the prospective employee is made; and
+9 (B) not rescind the offer of employment to the prospective employee
+10 any earlier than three business days after the prospective employee receives the
+11 agreement not to compete.
+12 (e) Notice. For existing agreements not to compete that violate subsection
+13 (b) of this section, the employer must notify each employee that is party to the
+14 agreement that the agreement not to compete is void and legally unenforceable.
+15 Notice shall be in the form of a written individualized communication
+16 addressed to the employee or former employee and shall be delivered to the
+17 last known address and email address of the employee or former employee.
+18 (f) Employee rights. The provisions against retaliation in subdivision
+19 495(a)(8) of this title and the penalty and enforcement provisions of section
+20 495b of this title shall apply to this section.
+VT LEG #379828 v.1
+BILL AS INTRODUCED H.205
+2025 Page 7 of 7
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2025.
+VT LEG #379828 v.1
+[DELETED:  H P H I R C G M R D S S n t c e A I S C § A]
+[DELETED:  H P ( f f ( ( ( f ( p o t ( g g ( o i ( t]
+[DELETED:  H P § ( n u ( ( a N a l S §   ( ( e e ( (]
+[DELETED:  H P ( e a ( ( d c ( e r r ( e ( ( e t ( a e]
+[DELETED:  H P ( t ( i ( i ( ( s ( t ( i c ( a ( t t ( (]
+[DELETED:  H P ( ( a t ( n ( a ( a a ( ( a N a l ( 4 4]
+[DELETED:  H P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.205
+2025 Page 1 of 7
+1 H.205
+2 Introduced by Representatives Marcotte of Coventry, Bosch of Clarendon,
+3 Christie of Hartford, Cooper of Pownal, Duke of Burlington,
+4 Graning of Jericho, LaLonde of South Burlington, Micklus of
+5 Milton, Olson of Starksboro, and White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Commerce and trade; consumer protection; noncompete agreements
+9 Statement of purpose of bill as introduced: This bill proposes to prohibit
+10 noncompete agreements that restrict the ability of franchisees from operating
+11 their businesses after separating from franchisors and of employees from
+12 competing with their former employers following the conclusion of their
+13 employment.
+14 An act relating to agreements not to compete
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 9 V.S.A. chapter 153 is added to read:
+17 CHAPTER 153. FRANCHISE AGREEMENTS
+18 § 6061. DEFINITIONS
+19 As used in this chapter:
+VT LEG #379828 v.1
+
+BILL AS INTRODUCED H.205
+2025 Page 2 of 7
+1 (1)(A) “Agreement not to compete” means an agreement between a
+2 franchisor and franchisee that restricts the franchisee after separating from the
+3 franchisor from operating its business:
+4 (i) in a certain geographic area;
+5 (ii) for a certain period of time; or
+6 (iii) in any other way that significantly impacts the ability of the
+7 franchisee to compete with the franchisor.
+8 (B) An agreement not to compete does not include an agreement that
+9 prohibits the disclosure of trade secrets as defined in section 4601 of this title
+10 or a nondisclosure agreement that protects confidential business information
+11 that does not constitute a trade secret.
+12 (2) “Franchise agreement” means an agreement in which a franchisor
+13 grants a franchisee the right to operate a business or to offer, sell, or distribute
+14 goods or services identified or associated with the franchisor’s trademark.
+15 (3) “Franchisee” means a person who currently operates or formerly
+16 operated a business under a franchisor’s name, trademark, or other identifying
+17 information, pursuant to a franchise agreement.
+18 (4) “Franchisor” means a person that sells the right to operate a business
+19 to a franchisee pursuant to a franchise agreement.
+VT LEG #379828 v.1
+
+BILL AS INTRODUCED H.205
+2025 Page 3 of 7
+1 § 6062. AGREEMENTS NOT TO COMPETE; PROHIBITION; NOTICE
+2 (a) Prohibition. Any agreement not to compete, including an agreement
+3 not to compete contained within a contract or franchise agreement, is void and
+4 unenforceable.
+5 (b) Notice. For existing agreements not to compete that violate subsection
+6 (a) of this section, the franchisor must notify each franchisee that is party to the
+7 agreement that the agreement not to compete is void and legally unenforceable.
+8 Notice shall be in the form of a written individualized communication
+9 addressed to the franchisee or former franchisee and shall be delivered to the
+10 last known address and email address of the franchisee or former franchisee.
+11 Sec. 2. 21 V.S.A. § 495q is added to read:
+12 § 495q. AGREEMENTS NOT TO COMPETE; PROHIBITION;
+13 EXCEPTIONS; NOTICE; EMPLOYEE RIGHTS
+14 (a) Definitions. As used in this section:
+15 (1)(A) “Agreement not to compete” means an agreement between an
+16 employer and an employee that restricts the employee after separating from
+17 employment from performing:
+18 (i) work for another employer for a specified period of time;
+19 (ii) work in a specified geographical area; or
+VT LEG #379828 v.1
+
+BILL AS INTRODUCED H.205
+2025 Page 4 of 7
+1 (iii) work for another employer in a capacity similar to the
+2 employee’s work for the employee’s former employer that is party to the
+3 agreement.
+4 (B) “Agreement not to compete” does not include:
+5 (i) an agreement that prohibits the disclosure of trade secrets as
+6 defined in 9 V.S.A. § 4601 or a nondisclosure agreement that protects
+7 confidential business information that does not constitute a trade secret; or
+8 (ii) a nonsolicitation agreement between an employer and an
+9 employee, provided that the limitations set forth in the agreement are
+10 reasonable in time, geographical area, and the scope of activity to be
+11 restrained.
+12 (2) “Nonsolicitation agreement” means an agreement between an
+13 employer and employee pursuant to which the employee agrees not to:
+14 (A) solicit or recruit the employer’s employees; or
+15 (B) solicit or transact business with customers or clients of the
+16 employer who were customers or clients while the employee was employed by
+17 the employer.
+18 (3) “Severance agreement” means an agreement between an employer
+19 and employee pursuant to which the employee voluntarily agrees to leave
+20 employment with the employer for a sum of money or other consideration.
+VT LEG #379828 v.1
+
+BILL AS INTRODUCED H.205
+2025 Page 5 of 7
+1 (b) Prohibition. An agreement not to compete, including an agreement not
+2 to compete contained within a contract, is void and unenforceable.
+3 (c) Exceptions. Nothing in this section shall be construed to prohibit an
+4 individual from entering into an agreement not to compete in relation to:
+5 (1) the sale of all or substantially all of the individual’s ownership
+6 interest in:
+7 (A) a business or its operating assets; or
+8 (B) a subsidiary or division of a business or the operating assets of a
+9 subsidiary or division of a business;
+10 (2) the dissolution of a partnership in which the individual is a partner or
+11 the dissociation of the individual from a partnership;
+12 (3) the dissolution of a limited liability company in which the individual
+13 is a member or the termination of an individual’s interest in a limited liability
+14 company; or
+15 (4) a severance agreement, provided that the limitations set forth in the
+16 agreement are reasonable in:
+17 (A) time, provided further that the limitation on time cannot exceed
+18 the number of weeks or months of pay, however appropriately calculated, that
+19 the employer offers to the employee in consideration to sign the agreement;
+20 (B) geographical area; and
+21 (C) the scope of activity to be restrained.
+VT LEG #379828 v.1
+
+BILL AS INTRODUCED H.205
+2025 Page 6 of 7
+1 (d) Wage threshold.
+2 (1) Subject to subdivision (2) of this subsection, this section shall not
+3 apply to an agreement not to compete between an employer and an employee
+4 to whom the employer pays $100,000.00 or more annually in gross wages.
+5 (2) An employer requiring a prospective employee to sign an agreement
+6 not to compete that is in accordance with this section shall:
+7 (A) provide the prospective employee with the proposed agreement
+8 at the time the offer of employment to the prospective employee is made; and
+9 (B) not rescind the offer of employment to the prospective employee
+10 any earlier than three business days after the prospective employee receives the
+11 agreement not to compete.
+12 (e) Notice. For existing agreements not to compete that violate subsection
+13 (b) of this section, the employer must notify each employee that is party to the
+14 agreement that the agreement not to compete is void and legally unenforceable.
+15 Notice shall be in the form of a written individualized communication
+16 addressed to the employee or former employee and shall be delivered to the
+17 last known address and email address of the employee or former employee.
+18 (f) Employee rights. The provisions against retaliation in subdivision
+19 495(a)(8) of this title and the penalty and enforcement provisions of section
+20 495b of this title shall apply to this section.
+VT LEG #379828 v.1
+
+BILL AS INTRODUCED H.205
+2025 Page 7 of 7
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2025.
+VT LEG #379828 v.1
+
+[DELETED:  H P H I R C G M R D S S n t c e A I S C § A]
+[DELETED:  H P ( f f ( ( ( f ( p o t ( g g ( o i ( t]
+[DELETED:  H P § ( n u ( ( a N a l S §   ( ( e e ( (]
+[DELETED:  H P ( e a ( ( d c ( e r r ( e ( ( e t ( a e]
+[DELETED:  H P ( t ( i ( i ( ( s ( t ( i c ( a ( t t ( (]
+[DELETED:  H P ( ( a t ( n ( a ( a a ( ( a N a l ( 4 4]
+[DELETED:  H P S T]

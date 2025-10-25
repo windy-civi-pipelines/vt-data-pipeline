@@ -1,0 +1,2680 @@
+Title: BILLAS INTRODUCED AND PASSED BY SENATE S.127
+Official Title: BILLAS INTRODUCED AND PASSED BY SENATE S.127
+Number of Sections: 5
+Source: versions - As Passed By the Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 54 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 54
+1 S.127
+2 Introduced by Committee on Economic Development, Housing and General
+3 Affairs
+4 Date: March 18, 2025
+5 Subject: Housing; housing programs; conservation and development; land use;
+6 municipal zoning; Vermont Bond Bank; taxation and finance; tax
+7 credits
+8 Statement of purpose of bill as introduced: This bill proposes to make
+9 multiple changes related to housing programs. Specifically, the bill proposes
+10 to make amendments to the Vermont Rental Housing Improvement Program
+11 and create the Manufactured Home Improvement and Repair Program, create
+12 the Vermont Infrastructure Sustainability Fund, allow for taxcredits for the
+13 First-Generation Homebuyer and Down Payment Assistance Program, make
+14 changes to the Brownfield Property Cleanup Program, create a study
+15 committee related to disability housing, and require multiple housing-related
+16 reports. This bill additionally proposes to create the Community Housing
+17 Infrastructure Program, administered by the Vermont Economic Progress
+18 Council, to authorize municipalities to use taxincrement financing to pay for
+19 infrastructure that will stimulate the development of housing.
+20 An act relating to housing and housing development
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 2 of 54
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Vermont Rental Housing Improvement Program * * *
+3 Sec. 1. 10 V.S.A. § 699 is amended to read:
+4 § 699. VERMONT RENTALHOUSING IMPROVEMENT PROGRAM
+5 (a) Creation of Program.
+6 * * *
+7 (5)(A) The Department may cooperate with and subgrant funds to State
+8 agencies and governmental subdivisions and public and private organizations
+9 in order to carry out the purposes of this subsection (a).
+10 (B) Solely with regards to actions undertaken pursuant to this
+11 subdivision (5), entities, including grantees, subgrantees, and contractors of the
+12 State, shall be exempt from the provisions of 8 V.S.A. chapter 73 (licensed
+13 lenders, mortgage brokers, mortgage loan originators, sales finance companies,
+14 and loan solicitation companies).
+15 * * *
+16 (d) Program requirements applicable to grants and forgivable loans.
+17 (1)(A) A grant or loan shall not exceed:
+18 (i) $70,000.00 per unit, for rehabilitation or creation of an eligible
+19 rental housing unit meeting the applicable building accessibility requirements
+20 under the Vermont Access Rules; or
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 3 of 54
+1 (ii) $50,000.00 per unit, for rehabilitation or creation of any other
+2 eligible rental housing unit. Up to an additional $20,000.00 per unit may be
+3 made available for specific elements that collectively bring the unit to the
+4 visitable standard outlined in the rules adopted by the Vermont Access Board.
+5 * * *
+6 (e) Program requirements applicable to grants and five-year forgivable
+7 loans. For a grant or five-year forgivable loan awarded through the Program,
+8 the following requirements apply for a minimum period of five years:
+9 (1) A landlord shall coordinate with nonprofit housing partners and
+10 local coordinated entry homelessness service organizations approved by the
+11 Department to identify potential tenants.
+12 (2)(A) Except as provided in subdivision (2)(B) of this subsection
+13 subdivision (e)(2), a landlord shall lease the unit to a household that is:
+14 (i) exiting homelessness, including any individual under 25 years
+15 of age who secures housing through a master lease held by a youth service
+16 provider on behalf of individuals under 25 years of age;
+17 (ii) actively working with an immigrant or refugee resettlement
+18 program; or
+19 (iii) composed of at least one individual with a disability who
+20 receives or is eligible approved to receive Medicaid-funded home and
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 4 of 54
+1 community based home-and community-based services or Social Security
+2 Disability Insurance;
+3 (iv) displaced due to activity related to climate change or due to a
+4 natural disaster; or
+5 (v) with approval from the Department in writing, an organization
+6 that will hold a master lease that explicitly states the unit will be used in
+7 service of the populations described in this subsection (e).
+8 * * *
+9 (4)(A) A landlord may convert a grant to a forgivable loan upon
+10 approval of the Department and the housing organization that approved the
+11 grant.
+12 (B) A landlord who converts a grant to a forgivable loan shall receive
+13 a 10-percent prorated credit for loan forgiveness for each year in which the
+14 landlord participates in the Program.
+15 (f) Requirements applicable to 10-year forgivable loans. For a 10-year
+16 forgivable loan awarded through the Program, the following requirements
+17 apply for a minimum period of 10 years:
+18 (1) A landlord shall coordinate with nonprofit housing partners and
+19 local coordinated entry organizations to identify potential tenants The total
+20 cost of rent for the unit, including utilities not covered by rent payments, shall
+21 not exceed the applicable fair market rent established by the Department of
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 5 of 54
+1 Housing and Urban Development, except that a landlord may accept a housing
+2 voucher that exceeds fair market rent, if available.
+3 (2)(A) Except as provided in subdivision (2)(B) of this subsection (f), a
+4 landlord shall lease the unit to a household that is:
+5 (i) exiting homelessness, including any individual under 25 years
+6 of age who secures housing through a master lease held by a youth service
+7 provider on behalf of individuals under 25 years of age;
+8 (ii) actively working with an immigrant or refugee resettlement
+9 program; or
+10 (iii) composed of at least one individual with a disability who is
+11 eligible to receive Medicaid-funded home and community based services.
+12 (B) If, upon petition of the landlord, the Department or the housing
+13 organization that issued the grant determines that a household under
+14 subdivision (2)(A) of this subsection (f) is not available to lease the unit, then
+15 the landlord shall lease the unit:
+16 (i) to a household with an income equal to or less than 80 percent
+17 of area median income; or
+18 (ii) if such a household is unavailable, to another household with
+19 the approval of the Department or housing organization.
+20 (3)(A) A landlord shall accept any housing vouchers that are available
+21 to pay all, or a portion of, the tenant’s rent and utilities.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 6 of 54
+1 (B) If no housing voucher or federal or State subsidy is available, the
+2 cost of rent for the unit, including utilities not covered by rent payments, shall
+3 not exceed the applicable fair market rent established by the Department of
+4 Housing and Urban Development.
+5 (4) The Department shall forgive 10 percent of the a prorated amount of
+6 a forgivable loan for each year a landlord participates in the loan program.
+7 * * *
+8 (i) Creation of the Vermont Rental Housing Improvement Program
+9 Revolving Fund. Funds repaid or returned to the Department from forgivable
+10 loans or grants funded by the Program shall return to the Vermont Rental
+11 Housing Improvement Revolving Fund to be used for Program expenditures
+12 and administrative costs at the discretion of the Department.
+13 * * * MHIR * * *
+14 Sec. 2. 10 V.S.A. § 700 is added to read:
+15 § 700. VERMONT MANUFACTURED HOME IMPROVEMENT AND
+16 REPAIR PROGRAM
+17 (a) There is created within the Department of Housing and Community
+18 Development the Manufactured Home Improvement and Repair Program. The
+19 Department shall design and implement the Program to award funding to
+20 statewide or regional nonprofit housing organizations, or both, to provide
+21 financial assistance or awards to manufactured homeowners and manufactured
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 7 of 54
+1 home park owners to improve existing homes, incentivize new slab placement
+2 for prospective homeowners, and incentivize park improvements for infill of
+3 more homes.
+4 (b) The following projects are eligible for funding through the Program:
+5 (1) The Department may award up to $20,000.00 to owners of
+6 manufactured housing communities to complete small-scale capital needs to
+7 help infill vacant lots with homes, including disposal of abandoned homes, lot
+8 grading and preparation, the siting and upgrading of electrical boxes,
+9 enhancing E-911 safety issues, transporting homes out of flood zones, and
+10 improving individual septic systems. Costs awarded under this subdivision
+11 may also cover legal fees and marketing to help make it easier for
+12 homeseekers to find vacant lots around the State.
+13 (2) The Department may award funding to manufactured homeowners
+14 for which the home is their primary residence to address habitability and
+15 accessibility issues to bring the home into compliance with safe living
+16 conditions.
+17 (3) The Department may award up to $15,000.00 per grant to a
+18 homeowner to pay for a foundation or federal Department of Housing and
+19 Urban Development-approved slab, site preparation, skirting, tie-downs, and
+20 utility connections on vacant lots within a manufactured home community.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 8 of 54
+1 (c) The Department may adopt rules, policies, and guidelines to aid in
+2 enacting the Program.
+3 * * * Vermont Infrastructure Sustainability Fund * * *
+4 Sec. 3. 24 V.S.A. chapter 119, subchapter 6 is amended to read:
+5 Subchapter 6. Special Funds
+6 * * *
+7 § 4686. VERMONT INFRASTRUCTURE SUSTAINABILITY FUND
+8 (a) Creation. There is created the Vermont Infrastructure Sustainability
+9 Fund within the Vermont Bond Bank.
+10 (b) Purpose. The purpose of the Fund is to provide capital to extend and
+11 increase capacity of water and sewer service and other public infrastructure in
+12 municipalities where lack of extension or capacity is a barrier to housing
+13 development.
+14 (c) Administration. The Vermont Bond Bank may administer the Fund in
+15 coordination with and support from other State agencies, government
+16 component parts, and quasi-governmental agencies.
+17 (d) Program parameters.
+18 (1) The Vermont Bond Bank, in consultation with the Department of
+19 Housing and Community Development, shall develop program guidelines to
+20 effectively implement the Fund.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 9 of 54
+1 (2) The program shall provide low-interest loans or bonds to
+2 municipalities to expand infrastructure capacity. Eligible activities include:
+3 (A) preliminary engineering and planning;
+4 (B) engineering design and bid specifications;
+5 (C) construction for municipal waste and wastewater systems;
+6 (D) transportation investments, including those required by
+7 municipal regulation, the municipality’s official map, designation
+8 requirements, or other planning or engineering identifying complete streets
+9 and transportation and transit related improvements, including improvements
+10 to existing streets; and
+11 (E) other eligible activities as determined by the guidelines produced
+12 by the Vermont Bond Bank in consultation with the Department of Housing
+13 and Community Development.
+14 (e) Application requirements. Eligible project applications shall
+15 demonstrate:
+16 (1) the project will create reserve capacity necessary for new housing
+17 unit development;
+18 (2) the project has a direct link to housing unit production; and
+19 (3) the municipality has a commitment to own and operate the project
+20 throughout its useful life.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 10 of 54
+1 (f) Application criteria. In addition to any criteria developed in the
+2 program guidelines, project applications shall be evaluated using the following
+3 criteria:
+4 (1) whether there is a direct connection to proposed or in-progress
+5 housing development with demonstrable progress toward regional housing
+6 targets;
+7 (2) whether the project is an expansion of an existing system and the
+8 proximity to a designated area;
+9 (3) the project readiness and estimated time until the need for financing;
+10 (4) the ranking of the community on the Vermont Department of
+11 Finance and Management, Vermont Community Index; and
+12 (5) the demonstration of financing for project completion or completion
+13 of a project component.
+14 (g) Award terms. The Vermont Bond Bank, in consultation with the
+15 Department of Housing and Community Development, shall establish award
+16 terms that may include:
+17 (1) the maximum loan or bond amount;
+18 (2) the maximum term of the loan or bond amount;
+19 (3) the time by which amortization shall commence;
+20 (4) the maximum interest rate;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 11 of 54
+1 (5) whether the loan is eligible for forgiveness and to what percentage
+2 or amount;
+3 (6) the necessary security for the loan or bond; and
+4 (7) any additional covenants encumbering the improved properties to
+5 further secure the loan or bond.
+6 (h) Revolving fund. Any funds repaid or returned from the Infrastructure
+7 Sustainability Fund shall be deposited into the Fund and used to continue the
+8 program established in this section.
+9 * * * VHFA First-Generation Homebuyer Program and Down Payment
+10 Assistance Program * * *
+11 Sec. 4. 32 V.S.A. § 5930u is amended to read:
+12 § 5930u. TAX CREDIT FOR AFFORDABLE HOUSING
+13 (a) Definitions. As used in this section:
+14 * * *
+15 (11) “First-generation homebuyer” means a homebuyer who self-attests
+16 that the homebuyer is an individual:
+17 (A) whose parents or legal guardians:
+18 (i) do not have and during the homebuyer’s lifetime have not had
+19 any residential ownership interest in any state; or
+20 (ii) lost ownership of a home due to foreclosure, short sale, or
+21 deed-in-lieu of foreclosure and have not owned a home since that loss; or
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 12 of 54
+1 (B) who has at any time been placed in foster care.
+2 * * *
+3 (g) Credit allocation.
+4 (1) In any fiscal year, the allocating agency may award up to:
+5 (A) $400,000.00 in total first-year credit allocations to all applicants
+6 for rental housing projects, for an aggregate limit of $2,000,000.00 over any
+7 given five-year period that credits are available under this subdivision (A).
+8 (B) $675,000.00 in total first-year credit allocations for loans or
+9 grants for owner-occupied unit financing or down payment loans as provided
+10 in subdivision (b)(2) of this section consistent with the allocation plan,
+11 including for new construction and manufactured housing, for an aggregate
+12 limit of $3,375,000.00 over any given five-year period that credits are
+13 available under this subdivision (B). Of the total first-year credit allocations
+14 made under this subdivision (B), $250,000.00 shall be used each fiscal year for
+15 manufactured home purchase and replacement.
+16 (C) $250,000.00 in total first-year credit allocations for grants to
+17 first-time homebuyers who are also first-generation homebuyers as provided in
+18 subdivision (b)(3)(D) of this section, for an aggregate limit of $1,250,000.00
+19 over any given five-year period that credits are available under this subdivision
+20 (C).
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 13 of 54
+1 (2) If the full amount of first-year credits authorized by an award are not
+2 allocated to a taxpayer, the Agency may reclaim the amount not allocated and
+3 re-award such allocations to other applicants, and such re-awards shall not be
+4 subject to the limits set forth in subdivision (1) of this subsection.
+5 (h) Credit allocation; Down Payment Assistance Program.
+6 (1) In fiscal year 2016 through fiscal year 2019, the allocating agency
+7 may award up to $125,000.00 in total first-year credit allocations for loans
+8 through the Down Payment Assistance Program created in subdivision (b)(2)
+9 of this section.
+10 (2) In fiscal year 2020 through fiscal year 2026, the allocating agency
+11 may award up to $250,000.00 in total first-year credit allocations for loans
+12 through the Down Payment Assistance Program created in subdivision (b)(3)
+13 of this section.
+14 (3) In fiscal year 2027 through fiscal year 2031, the allocating agency
+15 may award up to $250,000.00 in total first-year credit allocations for loans
+16 through the Down Payment Assistance Program created in subdivision (b)(3)
+17 of this section.
+18 Sec. 4. [Deleted.]
+* * * VHFA Rental Housing Revolving Loan Program * * *
+Sec. 4. 2023 Acts and Resolves No. 47, Sec. 38 is amended to read:
+Sec. 38. RENTAL HOUSING REVOLVING LOAN PROGRAM
+(a) Creation; administration. The Vermont Housing Finance Agency shall
+design and implement a Rental Housing Revolving Loan Program and shall
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 14 of 54
+create and administer a revolving loan fund to provide subsidized loans for
+rental housing developments that serve middle-income households.
+(b) Loans; eligibility; criteria.
+* * *
+(7) The Agency shall use one or more legal mechanisms to ensure that:
+(A) a subsidized unit remains affordable to a household earning the
+applicable percent of area median income for the longer of:
+(i) seven years; or
+(ii) full repayment of the loan plus three years; and
+(B) during the affordability period determined pursuant to
+subdivision (A) of this subdivision (7), the annual increase in rent for a
+subsidized unit does not exceed three percent or an amount otherwise
+authorized by the Agency.
+* * *
+1 * * * Housing and Residential Services Planning Committee * * *
+2 Sec. 5. STATE HOUSING AND RESIDENTIALSERVICES PLANNING
+3 COMMITTEE; REPORT
+4 (a) Creation. There is created the State Housing and Residential Services
+5 Planning Committee to generate a State plan to develop housing for
+6 individuals with developmental disabilities.
+7 (b) Membership. The Committee shall be composed of the following
+8 members:
+9 (1) one current member of the House of Representatives, who shall be
+10 appointed by the Speaker of the House;
+11 (2) one current member of the Senate, who shall be appointed by the
+12 Committee on Committees;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 15 of 54
+1 (3) the Secretary of the Agency of Human Services or designee;
+2 (4) the Commissioner of the Department of Disabilities, Aging, and
+3 Independent Living or designee;
+4 (5) the Commissioner of the Department of Housing and Community
+5 Development or designee;
+6 (6) the State Treasurer or designee;
+7 (7) one member, appointed by the Developmental Disabilities Housing
+8 Initiative;
+9 (8) the Executive Director of the Vermont Developmental Disabilities
+10 Council;
+11 (9) one member, appointed by Green Mountain Self-Advocates;
+12 (10) one member, appointed by Vermont Care Partners; and
+13 (11) one member, appointed by the Vermont Housing and Conservation
+14 Board.
+15 (c) Powers and duties. The Committee shall create an actionable plan to
+16 develop housing for individuals with developmental disabilities that reflects
+17 the diversity of needs expressed by those individuals and their families,
+18 including individuals with high-support needs who require 24-hour care and
+19 those with specific communication needs. The plan shall include:
+20 (1) a schedule for the creation of at least 600 additional units of service-
+21 supported housing;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 16 of 54
+1 (2) the number and description of the support needs of individuals with
+2 developmental disabilities anticipated to be served annually;
+3 (3) anticipated funding needs; and
+4 (4) recommendations for changes in State laws or policies that are
+5 obstacles to the development of housing needed by individuals with Medicaid-
+6 funded home-and community-based services.
+7 (d) Assistance. For purposes of scheduling meetings and preparing
+8 recommended legislation, the Committee shall have the assistance of the
+9 Office of Legislative Operations and the Office of Legislative Counsel.
+10 (e) Report. On or before November 15, 2025, the Committee shall submit
+11 a written report to the House Committees on General and Housing and on
+12 Human Services and the Senate Committees on Economic Development,
+13 Housing and General Affairs and on Health and Welfare with its findings and
+14 any recommendations for legislative action.
+15 (f) Meetings.
+16 (1) The Secretary of Human Services shall call the first meeting of the
+17 Committee to occur on or before July 15, 2025.
+18 (2) The Committee shall select a chair from among its members at the
+19 first meeting.
+20 (3) A majority of the membership shall constitute a quorum.
+21 (4) The Committee shall cease to exist on November 30, 2025.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 17 of 54
+1 (g) Compensation and reimbursement. For attendance at meetings during
+2 adjournment of the General Assembly, a legislative member of the Committee
+3 serving in the member’s capacity as a legislator shall be entitled to per diem
+4 compensation and reimbursement of expenses pursuant to 2 V.S.A. § 23 for
+5 not more than five meetings. These payments shall be made from monies
+6 appropriated to the General Assembly.
+7 * * * Housing and Public Accommodation Protections * * *
+8 Sec. 6. 9 V.S.A. § 4501 is amended to read:
+9 § 4501. DEFINITIONS
+10 As used in this chapter:
+11 * * *
+12 (12)(A) “Harass” means to engage in unwelcome conduct that detracts
+13 from, undermines, or interferes with a person’s:
+14 (i) use of a place of public accommodation or any of the
+15 accommodations, advantages, facilities, or privileges of a place of public
+16 accommodation because of the person’s race, creed, color, national origin,
+17 citizenship, marital status, sex, sexual orientation, gender identity, or disability;
+18 or
+19 (ii) terms, conditions, privileges, or protections in the sale or
+20 rental of a dwelling or other real estate, or in the provision of services or
+21 facilities in connection with a dwelling or other real estate, because of the
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 18 of 54
+1 person’s race, sex, sexual orientation, gender identity, age, marital status,
+2 religious creed, color, national origin, citizenship, or disability, or because the
+3 person intends to occupy a dwelling with one or more minor children, or
+4 because the person is a recipient of public assistance, or because the person is a
+5 victim of abuse, sexual assault, or stalking.
+6 * * *
+7 Sec. 7. 9 V.S.A. § 4502 is amended to read:
+8 § 4502. PUBLIC ACCOMMODATIONS
+9 (a) An owner or operator of a place of public accommodation or an agent
+10 or employee of such owner or operator shall not, because of the race, creed,
+11 color, national origin, citizenship, immigration status, marital status, sex,
+12 sexual orientation, or gender identity of any person, refuse, withhold from, or
+13 deny to that person any of the accommodations, advantages, facilities, and
+14 privileges of the place of public accommodation.
+15 * * *
+16 Sec. 8. 9 V.S.A. § 4503 is amended to read:
+17 § 4503. UNFAIR HOUSING PRACTICES
+18 (a) It shall be unlawful for any person:
+19 (1) To refuse to sell or rent, or refuse to negotiate for the sale or rental
+20 of, or otherwise make unavailable or deny, a dwelling or other real estate to
+21 any person because of the race, sex, sexual orientation, gender identity, age,
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 19 of 54
+1 marital status, religious creed, color, national origin, citizenship, or disability
+2 of a person, or because a person intends to occupy a dwelling with one or more
+3 minor children, or because a person is a recipient of public assistance, or
+4 because a person is a victim of abuse, sexual assault, or stalking.
+5 (2) To discriminate against, or to harass, any person in the terms,
+6 conditions, privileges, and protections of the sale or rental of a dwelling or
+7 other real estate, or in the provision of services or facilities in connection with
+8 a dwelling or other real estate, because of the race, sex, sexual orientation,
+9 gender identity, age, marital status, religious creed, color, national origin,
+10 citizenship, or disability of a person, or because a person intends to occupy a
+11 dwelling with one or more minor children, or because a person is a recipient of
+12 public assistance, or because a person is a victim of abuse, sexual assault, or
+13 stalking.
+14 (3) To make, print, or publish, or cause to be made, printed, or
+15 published any notice, statement, or advertisement, with respect to the sale or
+16 rental of a dwelling or other real estate that indicates any preference,
+17 limitation, or discrimination based on race, sex, sexual orientation, gender
+18 identity, age, marital status, religious creed, color, national origin, citizenship,
+19 or disability of a person, or because a person intends to occupy a dwelling with
+20 one or more minor children, or because a person is a recipient of public
+21 assistance, or because a person is a victim of abuse, sexual assault, or stalking.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 20 of 54
+1 (4) To represent to any person because of the race, sex, sexual
+2 orientation, gender identity, age, marital status, religious creed, color, national
+3 origin, citizenship, or disability of a person, or because a person intends to
+4 occupy a dwelling with one or more minor children, or because a person is a
+5 recipient of public assistance, or because a person is a victim of abuse, sexual
+6 assault, or stalking, that any dwelling or other real estate is not available for
+7 inspection, sale, or rental when the dwelling or real estate is in fact so
+8 available.
+9 * * *
+10 (6) To discriminate against any person in the making or purchasing of
+11 loans or providing other financial assistance for real-estate-related transactions
+12 or in the selling, brokering, or appraising of residential real property, because
+13 of the race, sex, sexual orientation, gender identity, age, marital status,
+14 religious creed, color, national origin, citizenship, or disability of a person, or
+15 because a person intends to occupy a dwelling with one or more minor
+16 children, or because a person is a recipient of public assistance, or because a
+17 person is a victim of abuse, sexual assault, or stalking.
+18 (7) To engage in blockbusting practices, for profit, which may include
+19 inducing or attempting to induce a person to sell or rent a dwelling by
+20 representations regarding the entry into the neighborhood of a person or
+21 persons of a particular race, sex, sexual orientation, gender identity, age,
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 21 of 54
+1 marital status, religious creed, color, national origin, citizenship, or disability
+2 of a person, or because a person intends to occupy a dwelling with one or more
+3 minor children, or because a person is a recipient of public assistance, or
+4 because a person is a victim of abuse, sexual assault, or stalking.
+5 (8) To deny any person access to or membership or participation in any
+6 multiple listing service, real estate brokers’ organization, or other service,
+7 organization, or facility relating to the business of selling or renting dwellings,
+8 or to discriminate against any person in the terms or conditions of such access,
+9 membership, or participation, on account of race, sex, sexual orientation,
+10 gender identity, age, marital status, religious creed, color, national origin,
+11 citizenship, or disability of a person, or because a person is a recipient of
+12 public assistance, or because a person is a victim of abuse, sexual assault, or
+13 stalking.
+14 * * *
+15 (12) To discriminate in land use decisions or in the permitting of
+16 housing because of race, sex, sexual orientation, gender identity, age, marital
+17 status, religious creed, color, national origin, citizenship, disability, the
+18 presence of one or more minor children, income, or because of the receipt of
+19 public assistance, or because a person is a victim of abuse, sexual assault, or
+20 stalking, except as otherwise provided by law.
+21 * * *
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 22 of 54
+1 (d) If required by federal law, the verification of immigration status shall
+2 not constitute a violation of subsection (a) of this section with respect to the
+3 sale and rental of dwellings.
+4 * * * LURB Appeals Study * * *
+5 Sec. 9. 2024 Acts and Resolves No. 181, Sec. 11a is amended to read:
+6 Sec. 11a. ACT 250 APPEALS STUDY
+7 (a) On or before January 15, 2026 November 15, 2025, the Land Use
+8 Review Board shall issue a report evaluating whether to transfer appeals of
+9 permit decisions and jurisdictional opinions issued pursuant to 10 V.S.A.
+10 chapter 151 to the Land Use Review Board or whether they should remain at
+11 the Environmental Division of the Superior Court. The Board shall convene a
+12 stakeholder group that at a minimum shall be composed of a representative of
+13 environmental interests, attorneys that practice environmental and
+14 development law in Vermont, the Vermont League of Cities and Towns, the
+15 Vermont Association of Planning and Development Agencies, the Vermont
+16 Chamber of Commerce, the Land Access and Opportunity Board, the Office of
+17 Racial Equity, the Vermont Association of Realtors, a representative of non-
+18 profit housing development interests, a representative of for-profit housing
+19 development interests, a representative of commercial development interests,
+20 an engineer with experience in development, the Agency of Commerce and
+21 Community Development, and the Agency of Natural Resources in preparing
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 23 of 54
+1 the report. The Board shall provide notice of the stakeholder meetings on its
+2 website and each meeting shall provide time for public comment.
+3 (b) The report shall at minimum recommend:
+4 (1) whether Whether to allow consolidation of appeals at the Board, or
+5 with the Environmental Division of the Superior Court, and how, including
+6 what resources the Board would need, if transferred to the Board, appeals of
+7 permit decisions issued under 24 V.S.A. chapter 117 and the Agency of
+8 Natural Resources can be consolidated with Act 250 appeals;.
+9 (2) how How to prioritize and expedite the adjudication of appeals
+10 related to housing projects, including the use of hearing officers to expedite
+11 appeals and the setting of timelines for processing of housing appeals;.
+12 (3) procedural Procedural rules to govern the Board’s administration of
+13 Act 250 and the adjudication of appeals of Act 250 decisions. These rules
+14 shall include procedures to create a firewall and eliminate any potential for
+15 conflicts with the Board managing appeals and issuing permit decisions and
+16 jurisdictional opinions; and.
+17 (4) other Other actions the Board should take to promote the efficient
+18 and effective adjudication of appeals, including any procedural improvements
+19 to the Act 250 permitting process and jurisdictional opinion appeals.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 24 of 54
+1 (c) The report shall be submitted to the Senate Committees on Economic
+2 Development, Housing and General Affairs and on Natural Resources and
+3 Energy and the House Committee on Environment and Energy.
+4 * * * Brownfields * * *
+5 Sec. 10. 10 V.S.A. § 6604c is amended to read:
+6 § 6604c. MANAGEMENT OF DEVELOPMENT SOILS
+7 (a) Management of development soils. Notwithstanding any other
+8 requirements of this chapter to the contrary, development soils may be
+9 managed at a location permitted pursuant to an insignificant waste event
+10 approval authorization issued pursuant to the Solid Waste Management Rules
+11 that contains, at a minimum, the following:
+12 (1) the development soils are generated from a hazardous materials site
+13 managed pursuant to a corrective action plan or a soil management plan
+14 approved by the Secretary;
+15 (2) the development soils have been tested for arsenic, lead, and
+16 polyaromatic hydrocarbons pursuant to a monitoring plan approved by the
+17 Secretary that ensures that the soils do not leach above groundwater
+18 enforcement standards;
+19 (3) the location where the soils are managed is appropriate for the
+20 amount and type of material being managed;
+21 (4) the soils are capped in a manner approved by the Secretary;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 25 of 54
+1 (5) any activity that may disturb the development soils at the permitted
+2 location shall be conducted pursuant to a soil management plan approved by
+3 the Secretary; and
+4 (6) the permittee files a record notice of where the soils are managed in
+5 the land records.
+6 * * *
+7 Sec. 11. REPORT ON THE STATUS OF MANAGEMENT OF
+8 DEVELOPMENT SOILS
+9 (a) As part of the biennial report to the House Committee on Environment
+10 and the Senate Committee on Natural Resources and Energy under 10 V.S.A.
+11 § 6604(c), the Secretary of Natural Resources shall report on the status of the
+12 management of development soils in the State under 10 V.S.A. § 6604c. The
+13 report shall include:
+14 (1) the number of insignificant waste event approval authorizations
+15 issued by the Secretary in the previous two years for the management of
+16 development soils;
+17 (2) the number of certified categorical solid waste facilities operating in
+18 the State for the management of development soils;
+19 (3) a summary of how the majority of development soils in the State are
+20 being managed;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 26 of 54
+1 (4) an estimate of the cost to manage development soils, depending on
+2 management method; and
+3 (5) any additional information the Secretary determines relevant to the
+4 management of development soils in the State.
+5 (b) As used in this section, “development soil” has the same meaning as in
+6 10 V.S.A. § 6602(39).
+7 Sec. 12. 10 V.S.A. § 6641 is amended to read:
+8 § 6641. BROWNFIELD PROPERTY CLEANUP PROGRAM; CREATION;
+9 POWERS
+10 (a) There is created the Brownfield Property Cleanup Program to enable
+11 certain interested parties to request the assistance of the Secretary to review
+12 and oversee work plans for investigating, abating, removing, remediating, and
+13 monitoring a property in exchange for protection from certain liabilities under
+14 section 6615 of this title. The Program shall be administered by the Secretary
+15 who shall:
+16 * * *
+17 (c) When conducting any review required by this subchapter, the Secretary
+18 shall prioritize the review of remediation at a site that contains housing.
+19 Sec. 13. BROWNFIELDS PROCESS IMPROVEMENT; REPORT
+20 On or before November 1, 2025, the Secretary of Natural Resources shall
+21 report to the House Committees on Environment and on General and Housing
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 27 of 54
+1 and the Senate Committees on Economic Development, Housing and General
+2 Affairs and on Natural Resources and Energy with proposals to make the
+3 Program established pursuant to 10 V.S.A. chapter 159, subchapter 3
+4 (brownfields reuse and liability limitation) substantially more efficient. At a
+5 minimum, the report shall include both of the following:
+6 (1) A survey of stakeholders in the brownfields program to identify
+7 areas that present challenges to the redevelopment of contaminated properties,
+8 with a focus on redevelopment for housing. The Secretary shall provide
+9 recommendations to resolve these challenges.
+10 (2) An analysis of strengths and weaknesses of implementing a licensed
+11 site professional program within the State. The Secretary shall make a
+12 recommendation on whether such a program should be implemented. If the
+13 Secretary recommends implementation, the report shall include any changes to
+14 statute or budget needed to implement this program.
+15 Sec. 14. 2023 Acts and Resolves No. 78, Sec. B.1103, as amended by 2024
+16 Acts and Resolves No. 87, Sec. 43, is further amended to read:
+17 Sec. B.1103 CLIMATE AND ENVIRONMENT – FISCALYEAR 2024
+18 ONE-TIME APPROPRIATIONS
+19 * * *
+20 (h) In fiscal year 2024, the amount of $2,500,000 General Fund is
+21 appropriated to the Department of Environmental Conservation Environmental
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 28 of 54
+1 Contingency Fund established pursuant to 10 V.S.A. § 1283 for the
+2 Brownfields Reuse and Environmental Liability Limitation Act as codified in
+3 10 V.S.A. chapter 159. Funds shall be used for the assessment and cleanup,
+4 planning, and cleanup of brownfields sites.
+5 * * *
+6 Sec. 15. BROWNFIELD FUNDING
+7 The sum of $4,000,000.00 is appropriated from the General Fund to the
+8 Brownfield Revitalization Fund established in 10 V.S.A. § 6654. The Agency
+9 of Commerce and Community Development shall award the amount of
+10 $2,000,000.00 in fiscal year 2026 to regional planning commissions for the
+11 purposes of brownfields assessment. In awarding funds under this section, the
+12 Secretary of Commerce and Community Development, in consultation with
+13 the Vermont Association of Planning and Development Agencies, shall select
+14 one regional planning commission to administer these funds. To ensure
+15 statewide availability, the selected regional planning commission shall
+16 subgrant to regional planning commissions with brownfield programs, with
+17 not more than 10 percent of the funds being used for administrative purposes.
+18 Sec. 15. [Deleted.]
+19 * * * TaxIncrement Financing * * *
+20 Sec. 16. 24 V.S.A. chapter 53, subchapter 7 is added to read:
+21 Subchapter 7. Community and Housing Infrastructure Program
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 29 of 54
+1 § 1906. DEFINITIONS
+2 As used in this subchapter:
+3 (1) “Affordable housing” means either of the following:
+4 (A) Owner-occupied housing for which the total annual cost of
+5 ownership, including principal, interest, taxes, insurance, and condominium
+6 association fees, does not exceed 30 percent of the gross annual income of a
+7 household at 150 percent of the highest of the following:
+8 (i) the county median income, as defined by the U.S. Department
+9 of Housing and Urban Development;
+10 (ii) the standard metropolitan statistical area median income if the
+11 municipality is located in such an area, as defined by the U.S. Department of
+12 Housing and Urban Development; or
+13 (iii) the statewide median income, as defined by the U.S.
+14 Department of Housing and Urban Development.
+15 (B) Rental housing for which the total annual cost of renting,
+16 including rent, utilities, and condominium association fees, does not exceed 30
+17 percent of the gross annual income of a household at 150 percent of the
+18 highest of the following:
+19 (i) the county median income, as defined by the U.S. Department
+20 of Housing and Urban Development;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 30 of 54
+1 (ii) the standard metropolitan statistical area median income if the
+2 municipality is located in such an area, as defined by the U.S. Department of
+3 Housing and Urban Development; or
+4 (iii) the statewide median income, as defined by the U.S.
+5 Department of Housing and Urban Development.
+6 (21) “Brownfield” means a property on which the presence or potential
+7 presence of a hazardous material, pollutant, or contaminant complicates the
+8 expansion, development, redevelopment, or reuse of the property.
+9 (32) “Committed” means pledged and appropriated for the purpose of
+10 the current and future payment of financing and related costs.
+11 (43) “Developer” means the person undertaking to construct a housing
+12 development.
+13 (54) “Financing” means debt, including principal, interest, and any fees
+14 or charges directly related to that debt, incurred by a sponsor, or other
+15 instruments or borrowing used by a sponsor, to pay for a housing infrastructure
+16 project and, in the case of a sponsor that is a municipality, authorized by the
+17 municipality pursuant to section 1910a of this subchapter.
+18 (65) “Housing development” means the construction of one or more
+19 buildings that includes affordable housing.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 31 of 54
+1 (76) “Housing development site” means the parcel or parcels
+2 encompassing a housing development as authorized by a municipality pursuant
+3 to section 1908 of this subchapter.
+4 (87) “Housing infrastructure agreement” means a legally binding
+5 agreement to finance and develop a housing infrastructure project and to
+6 construct a housing development among a municipality, a developer, and, if
+7 applicable, a third-party sponsor.
+8 (98) “Housing infrastructure project” means one or more improvements
+9 authorized by a municipality pursuant to section 1908 of this subchapter.
+10 (109) “Improvements” means:
+11 (A) the installation or construction of infrastructure that will serve a
+12 public good and fulfill the purpose of housing infrastructure taxincrement
+13 financing as stated in section 1907 of this subchapter, including utilities, digital
+14 infrastructure, transportation, public recreation, commercial and industrial
+15 facilities, parking, public facilities and amenities, land and property acquisition
+16 and demolition, brownfield remediation, site preparation, and flood
+17 remediation and mitigation; and
+18 (B) the funding of debt service interest payments for a period of up
+19 to four years, beginning on the date on which the debt is first incurred.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 32 of 54
+1 (1110) “Legislative body” means the mayor and alderboard, the city
+2 council, the selectboard, and the president and trustees of an incorporated
+3 village, as appropriate.
+4 (1211) “Municipality” means a city, town, or incorporated village.
+5 (1312) “Original taxable value” means the total valuation as determined
+6 in accordance with 32 V.S.A. chapter 129 of all taxable real property located
+7 within a housing development site as of its creation date, provided that no
+8 parcel within the housing development site shall be divided or bisected.
+9 (1413) “Related costs” means expenses incurred and paid by a
+10 municipality, exclusive of the actual cost of constructing and financing
+11 improvements, that are directly related to the creation and implementation of
+12 the municipality’s housing infrastructure project, including reimbursement of
+13 sums previously advanced by the municipality for those purposes. Related
+14 costs may include direct municipal expenses such as departmental or personnel
+15 costs related to creating or administering the housing infrastructure project to
+16 the extent they are paid from the taxincrement realized from municipal and
+17 not education taxes and using only that portion of the municipal increment
+18 above the percentage required for serving debt as determined in accordance
+19 with subsection 1910c(c) of this subchapter.
+20 (1514) “Sponsor” means the person undertaking to finance a housing
+21 infrastructure project. Any of a municipality, a developer, or an independent
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 33 of 54
+1 agency that meets State lending standards may serve as a sponsor for a housing
+2 infrastructure project.
+3 § 1907. PURPOSE
+4 The purpose of housing infrastructure taxincrement financing is to provide
+5 revenues for improvements and related costs to stimulate housing development
+6 in Vermont.
+7 § 1907. PURPOSE
+The purpose of housing infrastructure tax increment financing is to provide
+revenues for improvements and related costs to encourage the development of
+primary residences for households of low or moderate income.
+8 § 1908. CREATION OF HOUSING INFRASTRUCTURE PROJECT AND
+9 HOUSING DEVELOPMENT SITE
+10 (a) The legislative body of a municipality may create within its jurisdiction
+11 a housing infrastructure project, which shall consist of improvements that
+12 stimulate the development of housing, and a housing development site, which
+13 shall consist of the parcel or parcels on which a housing development is
+14 installed or constructed and any immediately contiguous parcels.
+15 (b) To create a housing infrastructure project and housing development
+16 site, a municipality, in coordination with stakeholders, shall:
+17 (1) develop a housing development plan, including:
+18 (A) a description of the proposed housing infrastructure project, the
+19 proposed housing development, and the proposed housing development site;
+20 (B) identification of a sponsor;
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 34 of 54
+1 (C) a taxincrement financing plan meeting the standards of
+2 subsection 1910(f) of this subchapter;
+3 (D) a pro forma projection of expected costs of the proposed housing
+4 infrastructure project;
+5 (E) a projection of the taxincrement to be generated by the proposed
+6 housing development; and
+7 (F) a development schedule that includes a list, a cost estimate, and a
+8 schedule for the proposed housing infrastructure project and the proposed
+9 housing development;
+10 (2) develop a plan describing the housing development site by its
+11 boundaries and the properties therein, entitled “Proposed Housing
+12 Development Site (municipal name), Vermont”;
+13 (3) hold one or more public hearings, after public notice, on the
+14 proposed housing infrastructure project, including the plans developed
+15 pursuant to this subsection; and
+16 (4) adopt by act of the legislative body of the municipality the plan
+17 developed under subdivision (2) of this subsection, which shall be recorded
+18 with the municipal clerk and lister or assessor.
+19 (c) The creation of a housing development site shall occur at 12:01 a.m. on
+20 April 1 of the calendar year in which the Vermont Economic Progress Council
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 35 of 54
+1 approves the use of taxincrement financing for the housing infrastructure
+2 project pursuant to section 1910 of this subchapter.
+3 § 1909. HOUSING INFRASTRUCTURE AGREEMENT
+4 (a) The housing infrastructure agreement for a housing infrastructure
+5 project shall:
+6 (1) clearly identify the sponsor for the housing infrastructure project;
+7 (2) clearly identify the developer and the housing development for the
+8 housing development site;
+9 (3) obligate the taxincrements retained pursuant to section 1910c of this
+10 subchapter for not more than the financing and related costs for the housing
+11 infrastructure project; and
+12 (4) provide for performance assurances to reasonably secure the
+13 obligations of all parties under the housing infrastructure agreement.
+14 (b) A municipality shall provide notice of the terms of the housing
+15 infrastructure agreement for the municipality’s housing infrastructure project
+16 to the legal voters of the municipality and shall provide the same information
+17 as set forth in subsection 1910a(e) of this subchapter.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 36 of 54
+1 § 1910. HOUSING INFRASTRUCTURE PROJECT APPLICATION;
+2 VERMONT ECONOMIC PROGRESS COUNCIL
+3 (a) Application. A municipality, upon approval of its legislative body, may
+4 apply to the Vermont Economic Progress Council to use taxincrement
+5 financing for a housing infrastructure project.
+6 (b) Review. The Vermont Economic Progress Council may approve only
+7 applications meeting the process requirements, the project criterion, and any of
+8 the location criteria of this section.
+(b) Review. The Vermont Economic Progress Council may approve only
+applications that:
+(1) meet the process requirements, the project criterion, and any of the
+location criteria of this section; and
+(2) are submitted on or before December 31, 2035.
+9 (c) Process requirements. The Vermont Economic Progress Council shall
+10 review a municipality’s housing infrastructure project application to determine
+11 whether the municipality has:
+12 (1) created a housing infrastructure project and housing development
+13 site pursuant to section 1908 of this subchapter;
+14 (2) executed a housing infrastructure agreement for the housing
+15 infrastructure project adhering to the standards of section 1909 of this
+16 subchapter with a developer and, if the municipality is not financing the
+17 housing infrastructure project itself, a sponsor; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 37 of 54
+1 (3) approved or pledged to use incremental municipal taxrevenues for
+2 the housing infrastructure project in the proportion provided for municipal tax
+3 revenues in section 1910c of this subchapter.
+4 (d) Project criterion. The Vermont Economic Progress Council shall
+5 review a municipality’s housing infrastructure project application to determine
+6 whether the projected housing development includes affordable housing.
+7 (e) Location criteria. The Vermont Economic Progress Council shall
+8 review a municipality’s housing infrastructure project application to determine
+9 whether the housing development site is located within one of the following
+10 areas:
+11 (1) an area designated Tier 1A or Tier 1B pursuant to 10 V.S.A. chapter
+12 151 (State land use and development plans) or an area exempt from the
+13 provisions of that chapter pursuant to 10 V.S.A. § 6081(dd) (interim housing
+14 exemptions);
+15 (2) an area designated Tier 2 pursuant to 10 V.S.A. chapter 151 (State
+16 land use and development plans) or an area in which the housing development
+17 site is compatible with regional and town land use plans as evidenced by a
+18 letter of support from the regional planning commission for the municipality;
+19 or
+20 (3) an existing settlement or an area within one-half mile of an existing
+21 settlement, as that term is defined in 10 V.S.A. § 6001(16).
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 38 of 54
+1 (f) Taxincrement financing plan. The Vermont Economic Progress
+2 Council shall approve a municipality’s taxincrement financing plan prior to a
+3 sponsor’s incurrence of debt for the housing infrastructure project, including,
+4 if the sponsor is a municipality, prior to a public vote to pledge the credit of
+5 the municipality under section 1910a of this subchapter. The taxincrement
+6 financing plan shall include:
+7 (1) a statement of costs and sources of revenue;
+8 (2) estimates of assessed values within the housing development site;
+9 (3) the portion of those assessed values to be applied to the housing
+10 infrastructure project;
+11 (4) the resulting taxincrements in each year of the financial plan;
+12 (5) the amount of bonded indebtedness or other financing to be
+13 incurred;
+14 (6) other sources of financing and anticipated revenues; and
+15 (7) the duration of the financial plan.
+16 § 1910a. INDEBTEDNESS
+17 (a) A municipality approved for taxincrement financing under section
+18 1910 of this subchapter may incur indebtedness against revenues of the
+19 housing development site at any time during a period of up to five years
+20 following the creation of the housing development site. The Vermont
+21 Economic Progress Council may extend this debt incursion period by up to
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 39 of 54
+1 three years. If no debt is incurred for the housing infrastructure project during
+2 the debt incursion period, whether by the municipality or sponsor, the housing
+3 development site shall terminate.
+4 (b) Notwithstanding any provision of any municipal charter, each instance
+5 of borrowing by a municipality to finance or otherwise pay for a housing
+6 infrastructure project shall occur only after the legal voters of the municipality,
+7 by a majority vote of all voters present and voting on the question at a special
+8 or annual municipal meeting duly warned for the purpose, authorize the
+9 legislative body to pledge the credit of the municipality, borrow, or otherwise
+10 secure the debt for the specific purposes so warned.
+11 (c) Any indebtedness incurred under this section may be retired over any
+12 period authorized by the legislative body of the municipality.
+13 (d) The housing development site shall continue until the date and hour the
+14 indebtedness is retired or, if no debt is incurred, five years following the
+15 creation of the housing development site.
+16 (e) A municipal legislative body shall provide information to the public
+17 prior to the public vote required under subsection (b) of this section. This
+18 information shall include the amount and types of debt and related costs to be
+19 incurred, including principal, interest, and fees; terms of the debt; the housing
+20 infrastructure project to be financed; the housing development projected to
+21 occur because of the housing infrastructure project; and notice to the voters
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 40 of 54
+1 that if the taxincrement received by the municipality from any property tax
+2 source is insufficient to pay the principal and interest on the debt in any year,
+3 the municipality shall remain liable for the full payment of the principal and
+4 interest for the term of the indebtedness. If interfund loans within the
+5 municipality are used, the information must also include documentation of the
+6 terms and conditions of the loan.
+7 (f) If interfund loans within the municipality are used as the method of
+8 financing, no interest shall be charged.
+9 (g) The use of a bond anticipation note shall not be considered a first
+10 incurrence of debt pursuant to subsection (a) of this section.
+11 § 1910b. ORIGINALTAXABLE VALUE; TAX INCREMENT
+12 (a) As of the date the housing development site is created, the lister or
+13 assessor for the municipality shall certify the original taxable value and shall
+14 certify to the legislative body in each year thereafter during the life of the
+15 housing development site the amount by which the total valuation as
+16 determined in accordance with 32 V.S.A. chapter 129 of all taxable real
+17 property within the housing development site has increased or decreased
+18 relative to the original taxable value.
+19 (b) Annually throughout the life of the housing development site, the lister
+20 or assessor shall include not more than the original taxable value of the real
+21 property in the assessed valuation upon which the treasurer computes the rates
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 41 of 54
+1 of all taxes levied by the municipality and every other taxing district in which
+2 the housing development site is situated, but the treasurer shall extend all rates
+3 so determined against the entire assessed valuation of real property for that
+4 year.
+5 (c) Annually throughout the life of the housing development site, a
+6 municipality shall remit not less than the aggregate education property taxdue
+7 on the original taxable value to the Education Fund.
+8 (d) Annually throughout the life of the housing development site, the
+9 municipality shall hold apart, rather than remit to the taxing districts, that
+10 proportion of all taxes paid that year on the real property within the housing
+11 development site that the excess valuation bears to the total assessed valuation.
+12 The amount held apart each year is the “taxincrement” for that year. The tax
+13 increment shall only be used for financing and related costs.
+14 (e) Not more than the percentages established pursuant to section 1910c of
+15 this subchapter of the municipal and State education taxincrements received
+16 with respect to the housing development site and committed for the payment
+17 for financing for improvements and related costs shall be segregated by the
+18 municipality in a special taxincrement financing account and in its official
+19 books and records until all capital indebtedness incurred for the housing
+20 infrastructure project has been fully paid. The final payment shall be reported
+21 to the treasurer, who shall thereafter include the entire assessed valuation of
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 42 of 54
+1 the housing development site in the assessed valuations upon which the
+2 municipal and other taxrates are computed and extended, and thereafter no
+3 taxes from the housing development site shall be deposited in the special tax
+4 increment financing account.
+5 (f) Notwithstanding any charter provision or other provision, all property
+6 taxes assessed within a housing development site shall be subject to the
+7 provisions of this section. Special assessments levied under chapter 76A or 87
+8 of this title or under a municipal charter shall not be considered property taxes
+9 for the purpose of this section if the proceeds are used exclusively for
+10 operating expenses related to properties within the housing development site
+11 and not for improvements within the housing development site.
+12 § 1910c. USE OF TAX INCREMENT; RETENTION PERIOD
+13 (a) Uses of taxincrements. A municipality may apply taxincrements
+14 retained pursuant to this subchapter to debt incurred within the period
+15 permitted under section 1910a of this subchapter, to related costs, and to the
+16 direct payment of the cost of a housing infrastructure project. Any direct
+17 payment shall be subject to the same public vote provisions of section 1910a
+18 of this subchapter as apply to debt.
+19 (b) Education property taxincrement. Up to 80 percent of the education
+20 property taxincrement may be retained for up to 20 years, beginning the first
+21 year in which debt is incurred for the housing infrastructure project. Upon
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 43 of 54
+1 incurring the first debt, a municipality shall notify the Department of Taxes
+2 and the Vermont Economic Progress Council of the beginning of the retention
+3 period of the education property taxincrement.
+4 (c) Municipal property taxincrement. Not less than 100 percent of the
+5 municipal property taxincrement may be retained, beginning the first year in
+6 which debt is incurred for the housing infrastructure project.
+7 (d) Excess taxincrement.
+8 (1) Of the municipal and education property taxincrements received in
+9 any taxyear that exceed the amounts committed for the payment of the
+10 financing and related costs for a housing infrastructure project, equal portions
+11 of each increment may be retained for the following purposes:
+12 (A) to prepay principal and interest on the financing;
+13 (B) to place in a special taxincrement financing account required
+14 pursuant to subsection 1910b(e) of this subchapter and use for future financing
+15 payments; or
+16 (C) to use for defeasance of the financing.
+17 (2) Any remaining portion of the excess education property tax
+18 increment shall be distributed to the Education Fund. Any remaining portion
+19 of the excess municipal property taxincrement shall be distributed to the city,
+20 town, or village budget in the proportion that each budget bears to the
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 44 of 54
+1 combined total of the budgets unless otherwise negotiated by the city, town, or
+2 village.
+3 § 1910d. INFORMATION REPORTING
+4 (a) A municipality with an active housing infrastructure project shall:
+5 (1) develop a system, segregated for the housing infrastructure project,
+6 to identify, collect, and maintain all data and information necessary to fulfill
+7 the reporting requirements of this section;
+8 (2) provide timely notification to the Department of Taxes and the
+9 Vermont Economic Progress Council of any housing infrastructure project
+10 debt, public vote, or vote by the municipal legislative body immediately
+11 following the debt incurrence or public vote on a form prescribed by the
+12 Council, including copies of public notices, agendas, minutes, vote tally, and a
+13 copy of the information provided to the public pursuant to subsection 1910a(e)
+14 of this subchapter; and
+15 (3) annually on or before February 15, submit on a form prescribed by
+16 the Vermont Economic Progress Council an annual report to the Council and
+17 the Department of Taxes, including the information required by subdivision (2)
+18 of this subsection if not previously submitted, the information required for
+19 annual audit under section 1910e of this subchapter, and any information
+20 required by the Council or the Department of Taxes for the report required
+21 pursuant to subsection (b) of this section.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 45 of 54
+1 (b) Annually on or before April 1, the Vermont Economic Progress
+2 Council and the Department of Taxes shall submit a report to the Senate
+3 Committees on Economic Development, Housing and General Affairs and on
+4 Finance and the House Committees on Commerce and Economic Development
+5 and on Ways and Means on housing infrastructure projects approved pursuant
+6 to this subchapter, including for each of the following:
+7 (1) the date of approval;
+8 (2) a description of the housing infrastructure project;
+9 (3) the original taxable value of the housing development site;
+10 (4) the scope and value of projected and actual improvements and
+11 developments in the housing development site, including the number of
+12 housing units created;
+13 (5) the number and types of housing units for which a permit is being
+14 pursued under 10 V.S.A. chapter 151 (State land use and development plans)
+15 and, for each applicable housing development, the current stage of the
+16 permitting process;
+17 (56) projected and actual incremental revenue amounts;
+18 (67) the allocation of incremental revenue; and
+19 (78) projected and actual financing.
+20 (c) On or before January 15, 2035, the Vermont Economic Progress
+21 Council shall submit a report to the Senate Committees on Economic
+22 Development, Housing and General Affairs and on Finance and the House
+23 Committees on Commerce and Economic Development and on Ways and
+24 Means evaluating the success of the Community and Housing Infrastructure
+25 Program in achieving its purpose, as stated in section 1907 of this chapter,
+26 including by identifying the amount and kinds of housing produced through the
+27 Program and by determining whether housing development pursued through
+28 the Program meets the project criterion and location criteria of section 1910 of
+29 this chapter.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 46 of 54
+1 § 1910e. AUDITING
+2 Annually on or before April 1 until the year following the end of the period
+3 for retention of education property taxincrement, a municipality with a
+4 housing infrastructure project approved under this subchapter shall ensure that
+5 the special taxincrement financing account required by section 1910b of this
+6 subchapter is subject to the annual audit prescribed in section 1681 or 1690 of
+7 this title and submit a copy to the Vermont Economic Progress Council. If an
+8 account is subject only to the audit under section 1681 of this title, the Council
+9 shall ensure a process is in place to subject the account to an independent
+10 audit. Procedures for the audit must include verification of the original taxable
+11 value and annual and total municipal and education property taxincrements
+12 generated, expenditures for financing and related costs, and current balance.
+13 § 1910f. GUIDANCE
+14 (a) The Secretary of Commerce and Community Development, after
+15 reasonable notice to a municipality and an opportunity for a hearing, may issue
+16 decisions to a municipality on questions and inquiries concerning the
+17 administration of housing infrastructure projects, statutes, rules,
+18 noncompliance with this subchapter, and any instances of noncompliance
+19 identified in audit reports conducted pursuant to section 1910e of this
+20 subchapter.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 47 of 54
+1 (b) The Vermont Economic Progress Council shall prepare
+2 recommendations for the Secretary of Commerce and Community
+3 Development prior to any decision issued pursuant to subsection (a) of this
+4 section. The Council may prepare recommendations in consultation with the
+5 Commissioner of Taxes, the Attorney General, and the State Treasurer. In
+6 preparing recommendations, the Council shall provide a municipality with a
+7 reasonable opportunity to submit written information in support of its position.
+8 (c) The Secretary of Commerce and Community Development shall review
+9 the recommendations of the Council and issue a final written decision on each
+10 matter within 60 days following receipt of the recommendations. The
+11 Secretary may permit an appeal to be taken by any party to a Superior Court
+12 for determination of questions of law in the same manner as the Supreme
+13 Court may by rule provide for appeals before final judgment from a Superior
+14 Court before issuing a final decision.
+15 (d) The Vermont Economic Progress Council may adopt rules that are
+16 reasonably necessary to implement this subchapter.
+17 Sec. 17. 32 V.S.A. § 3325 is amended to read:
+18 § 3325. VERMONT ECONOMIC PROGRESS COUNCIL
+19 (a) Creation. The Vermont Economic Progress Council is created to
+20 exercise the authority and perform the duties assigned to it, including its
+21 authority and duties relating to:
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 48 of 54
+1 (1) the Vermont Employment Growth Incentive Program pursuant to
+2 subchapter 2 of this chapter; and
+3 (2) taxincrement financing districts pursuant to 24 V.S.A. chapter 53,
+4 subchapter 5 and section 5404a of this title; and
+5 (3) housing infrastructure taxincrement financing pursuant to 24 V.S.A.
+6 chapter 53, subchapter 7.
+7 * * *
+8 (g) Decisions not subject to review. A decision of the Council to approve
+9 or deny an application under subchapter 2 of this chapter, or to approve or
+10 deny a taxincrement financing district pursuant to 24 V.S.A. chapter 53,
+11 subchapter 5 and section 5404a of this title, or to approve or deny a housing
+12 infrastructure project pursuant to 24 V.S.A. chapter 53, subchapter 7 is an
+13 administrative decision that is not subject to the contested case hearing
+14 requirements under 3 V.S.A. chapter 25 and is not subject to judicial review.
+* * * Smoke and Carbon Monoxide Alarms * * *
+Sec. 17a. 9 V.S.A. chapter 77 is amended to read:
+CHAPTER 77. SMOKE DETECTORS ALARMS AND CARBON MONOXIDE
+DETECTORS ALARMS
+
+Section 2:
+§ 2881. DEFINITIONS
+As used in this chapter:
+* * *
+(2) “Smoke detector alarm” means a device that detects visible or
+invisible particles of combustion and sounds a warning alarm, is operated
+from a power supply within the unit or wired to it from an outside source, and
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 49 of 54
+is approved or listed for the purpose by Underwriters Laboratory or by
+another nationally recognized independent testing laboratory.
+(3) “Carbon monoxide detector alarm” means a device with an
+assembly that incorporates a sensor control component and an alarm
+notification that detects elevations in carbon monoxide levels and sounds a
+warning alarm, is operated from a power supply within the unit or wired to it
+from an outside source, and is approved or listed for the purpose by
+Underwriters Laboratory or by another nationally recognized independent
+testing laboratory.
+
+Section 3:
+§ 2882. INSTALLATION
+(a) A person who constructs a single-family dwelling shall install
+photoelectric-only-type photoelectric-type or UL 217 compliant smoke
+detectors alarms in the vicinity of any bedrooms and on each level of the
+dwelling, and one or more carbon monoxide detectors alarms in the vicinity of
+any bedrooms in the dwelling in accordance with the manufacturer’s
+instructions. In a dwelling provided with electrical power, detectors alarms
+shall be powered by the electrical service in the building and by battery.
+(b) Any single-family dwelling when transferred by sale or exchange shall
+contain photoelectric-only-type photoelectric-type or UL 217 compliant smoke
+detectors alarms in the vicinity of any bedrooms and on each level of the
+dwelling installed in accordance with the manufacturer’s instructions and one
+or more carbon monoxide detectors alarms installed in accordance with the
+manufacturer’s instructions. A single-family dwelling constructed before
+January 1, 1994 may contain smoke detectors alarms powered by the electrical
+service in the building or by battery, or by a combination of both. In a single-
+family dwelling newly constructed after January 1, 1994 that is provided with
+electrical power, smoke detectors alarms shall be powered by the electrical
+service in the building and by battery. In a single-family dwelling newly
+constructed after July 1, 2005 that is provided with electrical power, carbon
+monoxide detectors alarms shall be powered by the electrical service in the
+building and by battery.
+(c) Nothing in this section shall require an owner or occupant of a single-
+family dwelling to maintain or use a smoke detector alarm or a carbon
+monoxide detector alarm after installation.
+
+Section 4:
+§ 2883. REQUIREMENTS FOR TRANSFER OF DWELLING
+(a) The seller of a single-family dwelling, including one constructed for
+first occupancy, whether the transfer is by sale or exchange, shall certify to the
+buyer at the closing of the transaction that the dwelling is provided with
+photoelectric-only-type photoelectric-type or UL 217 compliant smoke
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 50 of 54
+detectors alarms and carbon monoxide detectors alarms in accordance with
+this chapter. This certification shall be signed and dated by the seller.
+(b) If the buyer notifies the seller within 10 days by certified mail from the
+date of conveyance of the dwelling that the dwelling lacks any photoelectric-
+only-type photoelectric-type or UL 217 compliant smoke detectors alarms, or
+any carbon monoxide detectors alarms, or that any detector alarm is not
+operable, the seller shall comply with this chapter within 10 days after
+notification.
+* * *
+Sec. 17b. 20 V.S.A. § 2731 is amended to read:
+
+Section 5:
+§ 2731. RULES; INSPECTIONS; VARIANCES
+* * *
+(j) Detectors Alarms. Rules adopted under this section shall require that
+information written, approved, and distributed by the Commissioner on the
+type, placement, and installation of photoelectric photoelectric-type or UL 217
+compliant smoke detectors alarms and carbon monoxide detectors alarms be
+conspicuously posted in the retail sales area where the detectors alarms are
+sold.
+* * *
+1 * * * Taxes * * *
+2 Sec. 18. 32 V.S.A. § 5811(21)(C) is amended to read:
+3 (C) decreased by the following exemptions and deductions:
+4 * * *
+5 (iv) an amount equal to the itemized deduction for medical
+6 expenses taken at the federal level by the taxpayer, under 26 U.S.C. § 213:
+7 (I) minus the amount of the Vermont standard deduction and
+8 Vermont personal exemptions taken by the taxpayer under this subdivision (C);
+9 and
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 51 of 54
+1 (II) minus any amount deducted at the federal level that is
+2 attributable to the payment of an entrance fee or recurring monthly payment
+3 made to a continuing care retirement community regulated under 8 V.S.A.
+4 chapter 151, which exceeds the deductibility limits for premiums paid during
+5 the taxable year on qualified long-term care insurance contracts under 26
+6 U.S.C. 213(d)(10)(A).
+7 Sec. 19. 32 V.S.A. § 3800 is amended to read:
+8 § 3800. STATUTORY PURPOSES
+9 * * *
+10 (r) The statutory purpose of the exemption under section 3851 of this title
+11 for certain new construction and improvements is to incentivize those
+12 activities.
+13 Sec. 20. 32 V.S.A. § 3851 is added to read:
+14 § 3851. NEW ACCESSORY DWELLING UNITS AND CERTAIN
+15 PROPERTY IMPROVEMENTS
+16 (a) An increase in the appraisal value of a property shall be exempted from
+17 property taxation by fixing and maintaining the taxable value at the property’s
+18 grand list value in the year immediately preceding improvements in the
+19 following cases:
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 52 of 54
+1 (1) the property has been rehabilitated or improved using a grant or loan
+2 from the Vermont Housing Improvement Program and construction has been
+3 fully completed in the previous 12 months; or
+4 (2) the property has been improved through the construction of a new
+5 accessory dwelling unit, as defined by 24 V.S.A. § 4303(38), and construction
+6 has been fully completed in the previous 12 months.
+7 (b) A decrease in appraisal value of a property subject to this exemption
+8 due to damage or destruction from fire or act of nature may reduce the
+9 property’s taxable value below the fixed value under subsection (a) of this
+10 section.
+11 (c) The exemption under this section shall apply to the State education
+12 property taximposed under chapter 135 of this title and to municipal property
+13 tax.
+14 (d) An exemption under this section shall remain in effect for three years.
+15 When the exemption period ends, the property shall be taxed at its most
+16 recently appraised grand list value.
+17 * * * Appropriations * * *
+18 Sec. 21. APPROPRIATIONS
+19 The following shall be appropriated from the General Fund in fiscal year
+20 2026:
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 53 of 54
+1 (1) The sum of $45,600,000.00 to the Department of Housing and
+2 Community Development for the following purposes:
+3 (A) $15,000,000.00 granted to the Vermont Housing Finance Agency
+4 to continue implementation of the Middle-Income Homeownership
+5 Development Program;
+6 (B) $15,000,000.00 granted to the Vermont Housing Finance Agency
+7 to continue implementation of the Rental Housing Revolving Loan Fund;
+8 (C) $9,100,000.00 granted to the Vermont Bond Bank to implement
+9 the Vermont Infrastructure Sustainability Fund;
+10 (D) $4,000,000.00 for the rehabilitation of eligible rental housing
+11 units under the Rental Housing Improvement Program established in 10 V.S.A.
+12 § 699;
+13 (E) $2,000,000.00 to improve mobile home park infrastructure under
+14 the Manufactured Home Improvement and Repair Program established in 10
+15 V.S.A. § 700; and
+16 (F) $500,000.00 for grants to be made for the purpose of providing
+17 homebuyer education, financial literacy counseling, and foreclosure prevention
+18 programs operated by the five NeighborWorks America affiliated
+19 HomeOwnership Centers.
+20 (2) The sum of $100,000.00 to the State Treasurer to implement the
+21 Positive Rental Payment Pilot Program.
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 54 of 54
+1 * * * Effective Date * * *
+2 Sec. 2218. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2025.
+* * * Effective Dates * * *
+Sec. 18. EFFECTIVE DATES
+This act shall take effect on July 1, 2025, except that Sec. 4 and this section
+shall take effect on passage.
+[DELETED: LASIDADPDBYSES5Pe1of5SIdbyCeonEcD,HgadGAD:Mh1,2S:H;hgp;cnadd;ldumlz;VtBdB;tnadf;tcStofpeofblasi:Tsblpstommecsrdtohgp.S,teblp0tomeastoteVtRlHgItP1adceteMdHeItadRrP,c2teVtIeSyF,awfrtxcsfrt3FnHradDnPtAeP,m4cstoteBdPyCpP,ceas5cerdtodyh,adremeh6r.TsblaypstoceteCyH7IeP,adbyteVtEcP8C,toaemstouetxitfgtopyf9iettwlsetedtofh0Anatrgtohgadhgd]
+[DELETED: LASIDADPDBYSES5Pe2of5ItishyedbyteGlAyofteSeofV***VtRlHgItPm**S.1.10V.§9isadtor§6.VTRLHGITP()CnofP**()TeDtmycewhadstfstoSasadglssadpcadpeoinortocyottepsoftssn(0()Sywhrstoasunpttot1sn(,e,igg,s,adcsoft2S,slbeetfmtepsof8V.cr73(3l,meb,melno,ssfec4adlnsnc5**6()Pmrsaetogsadfel7()Agtorlnslnte8()$0pru,frrnorcnofane9rlhgutmgteaebgayr0urteVtAsR;o]
+[DELETED: LASIDADPDBYSES5Pe3of5()$0pru,frrnorcnofayoeerlhgu.Uptoanal$0prutmybmeaefrscesttcybgteuttotvesdodintersadbyteVtAsB**()Pmrsaetogsadfrfl.FragtorfrfelnadthtePtefgrsayframmpdoffey()Aldslcewhnthgpsa0llcdeyhsseosadbyt1Dttoiyplt2()Etaspdinsn()oftss3sn(,aldslleteuttoahdtti4()egh,igayilur25y5ofaewosshgthamrlehdbyayhs6pronbfofisur25ysofa7()aywgwhanitorrer8p;o9()cdofatltoeilwhadyw0rsoriseeadtoreMdhea]
+[DELETED: LASIDADPDBYSES5Pe4of5cybdh-adcdssorSlSDyI()dddetoayrdtoceceordetonld;o()whalfmteDtinw,anottwlhdamrletteyssteutwlbeudiseoftepsddintssn(**()Aldmyctagttoafelnu0alofteDtadtehgonttadt1g2()Aldwocsagttoafelnslr3a1tpdctfrlnfsfrehyrinwht4ldpsinteP5()Rsaeto1rfel.Fra16felnadthteP,tefgr7ayframmpdof10y8()Aldslcewhnthgpsa9llcdeyostoiypltsTet0ctofrtfrteu,igusntcdbyrtp,s1ntedteaefrmtrtedbyteDto]
+[DELETED: LASIDADPDBYSES5Pe5of5HgadUnD,etttaldmyatahvrttesfrmtr,ifa()Etaspdinsn()oftssn(,ldslleteuttoahdtti()egh,igayilur25yofaewosshgthamrlehdbyayhspronbfofisur25ysofa()aywgwhanitorrerp;o0()cdofatltoeilwhadywoi1eetoreMdheadcybds2()I,unpnoftel,teDtorteh3onttidtegtdsttahdu4sn()oftssn()isntaetoleteu,t5teldslleteu6()toahdwhanieeltoorlstn80p7ofaamni;o8()ifshahdisu,toarhdw9tealofteDtorhgo0()Aldslatayhgvsttaea1topya,orapno,tetsrtadu]
+[DELETED: LASIDADPDBYSES5Pe6of5()IfnohgvrorflorSesyisa,tctofrtfrteu,igusntcdbyrtp,sntedteaefrmtrtedbyteDtoHgadUnD()TeDtslfe10ptofteapdatoafelnfrehyraldpsintelnp**()CnofteVtRlHgItPRgF.FsrdorrdtoteDtfmf0lsorgsfdbytePmslrntoteVtR1HgItRgFdtobeudfrPme2adaecsattednofteD3***MR**4S.2.10V.§0isadtor5§.VTMDHEITA6RRP7()TeiscdwnteDtofHgadC8DtteMdHeItadRrP.T9DtsldnadittePmtoadfgt0seorrlnthgo,orb,top1flaeorastomdhsadm]
+[DELETED: LASIDADPDBYSES5Pe7of5hepkostoieegh,ienwsbpfrpeh,adiepkisfrilomeh()TefgpsaeeefrfgthteP()TeDtmyadupto$0toosomdhgcstoceseclnsthpilvtlswhh,igdlofadh,lggadp,tesgadugofelbegE1syi,tghsotoffdz,a0igilscs.Csadurtss1myaocrllfsadmgtohpmeiterf2hstofdvtlsadteS3()TeDtmyadfgtomdh4frwhteheistrpyretoashya5ayistobgteheiocewhsel6c7()TeDtmyadupto$0prgtto8hrtopyfrafnorflDtofHga9UnDds,sep,s,t,a0uycsonvtlswnamdhec]
+[DELETED: LASIDADPDBYSES5Pe8of5()TeDtmyatr,p,adgstoadiegteP***VtIeSyFd**S.3.24V.cr1,sr6isadtorSr6.SlF**§.VTIESYF()C.TeiscdteVtIeSFdwnteVtBdB0()P.TepeofteFdistopecltoeda1iecyofwradsrseadorpciei2mswelkofenorcyisabrtoh3d4()A.TeVtBdBkmyarteFdi5cnwhadstfmorSea,g6ctp,adqla7()Pmp8()TeVtBdB,incnwhteDto9HgadCyD,sldppmgst0eyitteF]
+[DELETED: LASIDADPDBYSES5Pe9of5()Tepmslpeltlsorbstmstoediec.Eeasi()pyegadp()egdnadbds()cnfrmlweadwrs()tni,igterdbmlr,temsolm,dr,ororpgoregigcesadtnadttrdi,igi0toegs;a1()oreeasasddbytegsp2byteVtBdBkincnwhteDtofH3adCyD4()Anr.Eeptass5d6()teptwlcerecynyfrnwh7utd8()tepthsadtlktohgutp;a9()temyhsacttoonadoetep0ttisull]
+[DELETED: LASIDADPDBYSES5Pe10of5()Anc.Inantoaycaddintpmg,ptasslbeedugtefc()wrteisadtcntopdorihgdtwhdepstdrlht()wrteptisanenofanegsmadtpytoadda()teptrsadedteultendfrf0()tergoftecyonteVtDto1FeadM,VtCyI;a2()tednoffgfrptcnorc3ofaptc4()Adt.TeVtBdB,incnwht5DtofHgadCyD,sleha6tsttmyi7()temmlnorbda8()temmtmoftelnorbda9()tetebywhanslc0()temmitr]
+[DELETED: LASIDADPDBYSES5Pe11of5()wrtelniseefrfsadtowtpora()tenysyfrtelnorb;a()ayalcsegteidpstfrsetelnorb()Rgf.AyfsrdorrdfmteISyFdslbeddioteFdadudtocetpmedintss***VAFnHrPmadDnP0AePm**1S.4.32V.§uisadtor2§5.TXCTFRAEH3()D.Asudintss4**5()“nh”msahrwos6tttehrisani7()wepsorllg8()dontheaddgtehslehenth9ayrlopitinays;o0()ltopofahedetof,sts,o1duoffeadhentodahesettl;o]
+[DELETED: LASIDADPDBYSES5Pe12of5()wohsataytebnpdinfrc**()Cta()Inayfly,teagaymyadupt()$0intlfrctastoalafrrlhgp,franaeltof$0oragnfrpdttcsaeaeurtssn(()$0intlfrctasfrlsogsfrodutfgordnptlsasp0insn()oftssnctwhteanp1igfrnwcnadmdh,frana2ltof$0oraygnfrpdttcsa3aeurtssn(.Oftetlfrcta4meurtssn(,$0slbeudehflyrf5mdhepeadr6()$0intlfrctasfrgst7fehswoaeaofnhsaspdi8sn()oftss,franaeltof$9oraygnfrpdttcsaeaeurtss0(]
+[DELETED: LASIDADPDBYSES5Pe13of5()Ifteflatoffrcsadbyanadaenadtoat,teAymyrmteatntadardshastoora,adshrsslntbsttotelsstfhinsn()oftss()Cta;DnPtAeP()Inflyr26thflyr2,teagamyadupto$0intlfrctasfrlthteDnPtAePmcdinsn(oftss0()Inflyr20thflyr2,teaga1myadupto$0intlfrctasfrl2thteDnPtAePmcdinsn(3oftss4()Inflyr27thflyr2,teaga5myadupto$0intlfrctasfrl6thteDnPtAePmcdinsn(7oftss8S.4.[**VARlHgRgLnPm**.4.23AsadRsN.4,S.38isadtor.3.RLHGRGLNP)C;a.TeVtHgFeAysnaditaRlHgRgLnPmads]
+[DELETED: LASIDADPDBYSES5Pe14of5eadararglnfdtopesdlsflhgdsttsemeh)L;e;c*)TeAyslueoeormellmstoeet)asdutrsaetoahdegteptofaamniefrtelro)sny;o)flrtoftelnpstey;a)dgteaypdddpttn()oftssn(,tealieinrtfrdutdsntedteptoranatodbyteA****HgadRlSsPgCe**S.5.SEHGADRLSSPC;R()C.TeiscdteSeHgadRlSPgCetogeaSepntodphgfiswhdld()M.TeCeslbecdoftefm()oectmrofteHeofR,woslb0adbyteSrofteH1()oectmrofteS,woslbeadbyt2CeonC]
+[DELETED: LASIDADPDBYSES5Pe15of5()teSyofteAyofHnSsord()teCrofteDtofD,A,aItLgord()teCrofteDtofHgadCDtord()teSeTrord()oem,adbyteDlDsHI()teEeDrofteVtDlD0C1()oem,adbyGnMnS2()oem,adbyVtCeP;a3()oem,adbyteVtHgadC4B5()Psadd.TeCeslceanaepnt6dphgfriswhdldsttr7tedyofnsedbyteisadtrf8igiswhhtnswore2rcea9tewhsccnn.Tepnsli0()asefrtecnofatlt60alusofs1sdh]
+[DELETED: LASIDADPDBYSES5Pe16of5()tenraddnoftestnsofiswdldsadtobesda()adfgn;a()rsfrcsinSelsorpsttaostotedtofhgndbyiswhMfdhdcds()A.Frpsofsgmsadprdl,teCeslheteaeoftOeofLeOsadteOeofLeC0()R.OnorbeNr1,2,teCesls1awnrttoteHeCsonGladHgado2HnSsadteSeCsonEcD3HgadGlAsadonHhadWewhisfsa4ayrsfrlea5()M6()TeSyofHnSsslclteftmgoft7CetooronorbeJy1,28()TeCeslstacrfmagismsatt9ftm0()Amyoftempslceaq1()TeCeslcetoetonNr3,2]
+[DELETED: LASIDADPDBYSES5Pe17of5()Cnadr.FraeatmsdatofteGlA,alemrofteCsgintemscyasalrslbeedtoprdcnadrtofesptto2.§3fntmetnfem.TepsslbemefmmadtoteGlA***HgadPcAnPs**S.6.9V.§1isadtor§4.D0Asudintsc1**2()“”mstoeeinuectttd3f,u,oriswhap4()ueofapeofpcanorayoft5a,a,f,orpsofapeofp6anbeoftepsr,c,c,nlo7c,mls,s,slo,gri,ord8o9()t,c,p,orpsinteseo0rlofadgororrle,orintepnofsso1fsincnwhadgororrle,beoft]
+[DELETED: LASIDADPDBYSES5Pe18of5psr,s,slo,gri,a,mlsrsc,c,nlo,c,ord,orbetpnistooyadgwhoeormemrc,obetepnisartofpca,orbetepnisvmofa,sla,ors**S.7.9V.§2isadtor§4.PCA()Anorororofapeofpcanorana0oreeofshorororsln,beofter,c1c,nlo,c,ins,mls,s2slo,orgriyofayp,r,wdf,o3dytottpnayoftea,a,f,a4psoftepeofpca5**6S.8.9V.§3isadtor7§4.URHGP8()Itslbeulfrayp9()Toretoslorr,orretonefrteseorr0o,oroemeueord,adgororrleet1aypnbeofter,s,slo,gri,a]
+[DELETED: LASIDADPDBYSES5Pe19of5mls,rsc,c,nlo,c,ordofap,orbeapnistooyadgwhoeormmrc,orbeapnisartofpca,obeapnisavmofa,sla,ors()Todea,ortoh,aypnintetc,p,adpsofteseorrlofadgoorrle,orintepnofssorfsincnwadgororrle,beofter,s,slogri,a,mls,rsc,c,nlo0c,ordyofap,orbeapnistooy1dgwhoeormemrc,orbeapnisarto2pca,orbeapnisavmofa,sla,o3s4()Tom,p,orp,orcetobem,p,o5pdayn,s,ora,whrttoteseo6rlofadgororrleettisayp7l,ordnbdonr,s,slo,g8i,a,mls,rsc,c,nlo,c9ordyofap,orbeapnistooyadgw0oeormemrc,orbeapnisartofp1a,orbeapnisavmofa,sla,ors]
+[DELETED: LASIDADPDBYSES5Pe20of5()Torttoaypnbeofter,s,so,gri,a,mls,rsc,c,no,c,ordyofap,orbeapnistoyadgwhoeormemrc,orbeapnisrtofpca,orbeapnisavmofa,sa,ors,ttaydgororrleeisntaefi,s,orrlwntedgorrleeisinftsa**0()Todeataypnintemgorpgo1lsorpgorflaefrrdt2orintes,b,oragofrlrlp,b3ofter,s,slo,gri,a,mls4rsc,c,nlo,c,ordyofap,o5beapnistooyadgwhoeormem6c,orbeapnisartofpca,orbe7pnisavmofa,sla,ors8()Toeeinbgp,frp,whmyi9igoragtoieapntoslorrtadgb0rsrgteeyiotendofapno1psofaprr,s,slo,gri,a]
+[DELETED: LASIDADPDBYSES5Pe21of5mls,rsc,c,nlo,c,ordofap,orbeapnistooyadgwhoeormmrc,orbeapnisartofpca,obeapnisavmofa,sla,ors()Todyaypnastoormporpninamelgs,rleeb’o,ororso,orfyrgtotebsofsgorrgdortodeataypnintetsorcsofsham,orp,onatofr,s,slo0gri,a,mls,rsc,c,nlo1c,ordyofap,orbeapnisarto2pca,orbeapnisavmofa,sla,o3s4**5()Todeinlduedsorintepgo6hgbeofr,s,slo,gri,a,m7s,rsc,c,nlo,c,d,t8peofoeormemrc,i,orbeofterto9pca,orbeapnisavmofa,sla,o0s,etasoepdbyl1**]
+[DELETED: LASIDADPDBYSES5Pe22of5()Ifrdbyfll,tevnofinsssntceavnofsn()oftssnwhrttotseadrlofd***LBAsSy**S.9.24AsadRsN.1,S.1aisadtorS.1.AT20ASS()OnorbeJy1,26Nr1,2,teLdURwBdslieartegwrtotrasoptdsadjlosidptto10V0cr11toteLdUeRwBdorwrtysdrna1teElDnofteSrC.TeBdslce2srgpttatammslbecdofareo3eli,asttpeela4dtlwinV,teVtLeofCsadT,t5VtAnofPgadDtA,teV6CrofC,teLdAsadOyB,teOeo7RlE,teVtAnofR,areofn8pthgdti,areoffth9dti,areofcldti0anerwheeind,teAyofCea1CyD,adteAyofNlRsinp]
+[DELETED: LASIDADPDBYSES5Pe23of5ter.TeBdslpeneoftesrmsoniweadehmgslpetefrpcc()Tertslatmmr()wrWrtoawcnofasatteB,owhteElDnofteSrC,adh,iwtrsteBdwdn,iftdtoteB,asoptdsidur24V.cr17adteAyoNlRscnbecdwhAt20a()hwHwtopeadeeteanofa0rdtohgp,igteueofhgostoe1asadtesgoftsfrpgofhga2()plPlrstognteBsano3At20adteanofasofAt20d.Ter4sliepstoceafladeeayplf5cswhteBdmgasadigptdsa6jlo;a7()orOrasteBdsdtetopetee8adeeanofa,igaypli9toteAt20pgpsadjlona]
+[DELETED: LASIDADPDBYSES5Pe24of5()TertslbesdtoteSeCsonED,HgadGlAsadonNlRsaEyadteHeCeonEtadE***Bs**S.1.10V.§6cisadtor§6.MTOFDTS()Mtofdts.Ngayorsoftscrtotec,dtssmybmdatalnpdpttoanitwee0alanidpttoteSdWeMtR1ttc,atam,tef2()tedtssaegdfmahsmss3mdpttoaceanpnoraslmtp4adbyteS5()tedtsshebntdfra,l,a6pchspttoamgpnadbyt7Syttestttessdontlhaeg8ets9()telnwetessaemdisaefrt0atadteofmlbgm1()tessaecdinamradbyteS]
+[DELETED: LASIDADPDBYSES5Pe25of5()ayayttmydbtedtssatteplnslbecdpttoaslmtpnadbteS;a()tepefsardneofwetessaemditeldr**S.1.RTONTESSOFMTODTS()AsptofteblrttoteHeCeonE0adteSeCeonNlRsadEyur10V1§,teSyofNlRsslrtontessoft2mtofdtssinteSeur10V.§.T3rtsli4()tenrofitweetala5idbyteSyintepstoysfrtemto6dts7()tenrofcdclsdwefsogi8teSefrtemtofdts9()asyofhwtemyofdtssinteSea0bgm]
+[DELETED: LASIDADPDBYSES5Pe26of5()aneeoftecttomedts,dgomtm;a()ayalinteSydsrttotmtofdtssinteS()Asudintss,“ts”hstesemgasi10V.§S.1.10V.§1isadtor§6.BDPYCPP;CP0()TeiscdteBdPyCpPmtoe1cnidpstortteaeofteSytor2adoewkpsfri,a,r,r,a3mgapyineefrpnfmcnlsu4sn65oftst.TePmslbeadbyteS5wos6**7()Wncgayrwrdbytss,teS8slpeterwofrnatasettcsh9S.1.BSPSI;R0OnorbeNr1,2,teSyofNlRss1rttoteHeCsonEtadonGladH]
+[DELETED: LASIDADPDBYSES5Pe27of5adteSeCsonEcD,HgadGAsadonNlRsadEywhpstometPmedptto10V.cr1,sr(sreadlyl)symee.Atm,tertsliebhoftef()Asyofssintebspmtoiasttptcstotertofcdpwhafsonrtfrh.TeSyslprstoretec0()Anasofssadwsofigal1seplpmwnteS.TeSyslme2rnonwrshapmsdbei.Ift3Syrsi,tertslieaycst4seorbtndtoittsp5S.1.23AsadRsN.7,S.B,asadby26AsadRsN.8,S.4,isfradtor7S.B3CEADET–FLYR28OEA9**0()Inflyr2,teatof$0GlFdi1adtoteDtofElCnE]
+[DELETED: LASIDADPDBYSES5Pe28of5CyFdedptto10V.§13frtBsReadElLyLnAtascdi10V.cr1.Fsslbeudfrteatadcp,adcpofbss**S.1.BDFTesmof$0isadfmteGlFdtotBdRnFdedin10V.§.TeAofCeadCyDtsladteato0$0inflyr26torlpgcsfrt1psofbsa.Inagfsurtss,t2SyofCeadCyD,incnw3teVtAnofPgadDtA,sls4oerlpgcntoartef.Toe5sea,tesdrlpgcns6sttorlpgcswhbdp,w7ntmetn10ptoftefsbgudfraep8S.1.[9***TxItFg**0S.1.24V.cr5,sr7isadtor1Sr7.CyadHgIeP]
+[DELETED: LASIDADPDBYSES5Pe29of5§.DAsudintss()“eh”mseroftef()Odhgfrwhtetlalctoo,igp,i,t,i,adcanf,dsnted30ptoftegsalieofhdat10ptoftehtoftef()tecymni,asddbyteU.DofHgadUnD0()tesdmnslaamnieift1myisldinshana,asddbyteU.Dto2HgadUnD;o3()tesemni,asddbyteU4DtofHgadUnD5()Rlhgfrwhtetlalctofr6igr,u,adcmanf,dsnted37ptoftegsalieofahdat10ptoft8htoftef9()tecymni,asddbyteU.D0ofHgadUnD]
+[DELETED: LASIDADPDBYSES5Pe30of5()tesdmnslaamnieiftmyisldinshana,asddbyteU.DtoHgadUnD;o()tesemni,asddbyteUDtofHgadUnD()“”msapyonwhtepeorppeofahsm,p,orctcste,d,r,orreoftep()“”mspdadadfrtepeo0tectadfeptoffgadrdc1()“”mstepnugtoctah2d3()“”msd,igp,i,adayf4orcsdyrdtottd,idbyas,oro5isorbgudbyas,topyfrahgi6pta,inteceofasrttisam,adbyt7mypttosn1aoftss8()“gd”mstecnofoeorm9bsttisaeh]
+[DELETED: LASIDADPDBYSES5Pe31of5()“gdts”msteplorpegahgdtasadbyamyptosn18oftss()“giea”msalybattofeaddpahgieptadtctahgdtagam,ad,a,ia,atys()“giep”msoeormeiadbyamypttosn18oftss0()“”m1()teinorcnofiettwlse2pcgdadfltepeofhgietxi3fgassdinsn17oftss,igu,d4i,t,pcr,cladi5f,p,pcfsada,ldadpya6add,bdr,sep,adf7rnadm;a8()tefgofdtseitpsfrapdofu9tofry,bgontedeonwhtedtisfti]
+[DELETED: LASIDADPDBYSES5Pe32of5()“eb”mstemrada,tecc,tes,adteptadtsofaniv,asa()“”msac,t,oridv()“ltev”mstetlvnasdinaewh32V.cr19ofalterlpylwnahgdtseasofiscnd,pdttnplwntehgdtseslbeddorb()“dc”msesidadpdby0m,eeoftealctofcgadf1i,ttaedyrdtotecnadino2temshgiep,igrto3sspyadbytemyfrtep.R4csmyiedtmlesshasdlorp5csrdtocgoragtehgieptt6teettyaepdfmtetxitrdfmmla7ntentsadugoyttpnoftemli8aeteperdfrsgdtasddina9whsn1)oftss0()“”mstepnugtofeah1iep.Ayofam,ad,orani]
+[DELETED: LASIDADPDBYSES5Pe33of5ayttmsSelgssmyseasasrfrahiep§.PTepeofhgietxitfgistoprsfrisadrdcstosehgdinV§.Pepeofhgietxitfgistopsfrisadrdcstoeetedtoyrsfrhsoflwormei§.CNOFHGIEPTAHGDTS0()Telebyofamymycewnisj1ahgiep,whslctofist2setedtofh,adahgdts,w3slctofteplorpsonwhahgdti4idorcdadayiycsp5()Toceahgieptadhgd6s,am,incnwhs,s7()dpahgdtp,i8()adnoftepdhgiep,t9pdhgd,adtepdhgdts0()inofas]
+[DELETED: LASIDADPDBYSES5Pe34of5()atxitfgpnmgtessosn1)oftss()apofapnofedcsoftepdhiep()apnoftetxittobegdbytephgd;a()adtsettisal,acte,adsefrtepdhgieptadtephgd0()dpapndgtehgdtsebyi1bsadtepst,ed“dH2DtSe(ln,V3()hdoeormepch,arpcn,ont4pdhgiep,igtepsd5pttotss;a6()atbyatoftelebyoftemytep7ddursn()oftss,whslber8whtemlckadlrora9()Tecnofahgdtseslorat11a.o0Al1oftecryrinwhteVtEcPsC]
+[DELETED: LASIDADPDBYSES5Pe35of5asteueoftxitfgfrtehgiptpttosn10oftss§.HGIEA()Tehgieatfrahgipts()cyiytesrfrtehgiep()cyiytedradtehgdtfrthgdts()oetetxisrdpttosn1coft0srfrntmetntefgadrdcsfrteh1iep;a2()pefrpeastoryset3osofalpsurtehgiea4()Amyslpeneoftetsofteh5ieatfrtemshgiep6totellvsoftemyadslpetesei7asstfhinsn1)oftss]
+[DELETED: LASIDADPDBYSES5Pe36of5§.HGIEPTAVTECPSC()A.Am,unalofisleb,maytoteVtEcPsCltouetxifgfrahgiep()R.TeVtEcPsClmyaeoasmgtepsr,teptc,adayotelncaoftss)R.TeVtEcPsClmyaeost)mttepsr,teptc,adayoftncaoftss;a)aesdonorbeDr3,2()Psr.TeVtEcPsCls0rwamshgieptantod1wrtemyh2()cdahgieptadhgd3septtosn18oftss4()edahgieatfrteh5ieptagtotessofsn19oft6srwhadra,iftemyisntfgt7hgiepti,as;a]
+[DELETED: LASIDADPDBYSES5Pe37of5()adorpdtoueilmltxrsftehgieptintepnpdfrmltrsinsn1coftss()Ptc.TeVtEcPsClsrwamshgieptantodwrtepdhgdtisaeh()Lnc.TeVtEcPsClsrwamshgieptantodwrtehgdtseisldwnoeoftef0a1()anaaddTr1AorTr1Bptto10V.c211(eldueaddtp)oranaaetfmt3psofttcrptto10V.§)(mh4e5()anaaddTr2ptto10V.cr11(6ldueaddtp)oranaainwhtehgd7seiscewhrladtnlduepsasedby8lrofstfmterlpgcnfrtem9o0()anegstoranaawnofmeofane1s,astttmisddin10V.§]
+[DELETED: LASIDADPDBYSES5Pe38of5()Txitfgp.TeVtEcPClslaeamstxitfgpnprtossieofdtfrtehgiep,iiftesrisam,prtoapcvetopetectotemyursn1aoftss.Tetxifgpnsli()astofcsadssofr()esofadvswntehgdts()tepnofteadvstobeadtoteh0iep1()tergtxisinehyrofteflp2()teatofbdisororfgtob3i4()orssoffgadadr;a5()tednofteflp6§.I7()Amyadfrtxitfgurs810oftssrmyirisatrsoft9hgdtseataytedgapdofuptofey0fgtecnoftehgdts.TeV1EcPsClmyedtsdtinpdbyupt]
+[DELETED: LASIDADPDBYSES5Pe39of5tey.Ifnodtisidfrtehgieptdtedtinp,wrbytemyors,tehdtseslt()Ngaypnofaymlc,ehiofbgbyamytofeoroepyfrahieptsloroyartellvsoftembyamyveofalvsptadvgonteqnatasoralmlmgdywdfrtep,aetlebytopetectoftem,b,oro0setedtfrtescpssow1()Ayisidurtssnmyberdora2pdadbytelebyoftem3()Tehgdtseslceultedeadhrt4isisrdo,ifnodtisi,feysfgt5cnoftehgdts6()Amllebyslpeintotep7prtotepcverdursn()oftss.T8inslieteatadtsofdtadrdcstob9i,igp,i,adf;tsofted;teh0iepttobef;tehgdtpdt1orbeoftehgiep;adnetotev]
+[DELETED: LASIDADPDBYSES5Pe40of5ttiftetxitrdbytemyfmaypytseisittopytepladitontedtinayytemyslrnlefrteflptofteplaitfrtetmoftei.Ifidlswntmyaeu,teinmtaoiednofttsadcsoftel()Ifidlswntemyaeudastemdof,noitslbec()Teueofabdanneslntbecdaf0ieofdtpttosn()oftss1§.OLTEV;TXI2()Asoftedetehgdtseisc,telro3arfrtemyslcyteolteveads4cytotelebyinehyrtrdgteleoft5hgdtseteatbywhtetlvna6ddinaewh32V.cr19ofalter7pywntehgdtsehsidord8retoteoltev9()Ayttteleoftehgdts,tel0orarslientmetnteolteveofter1pyinteadvnunwhtetrcster]
+[DELETED: LASIDADPDBYSES5Pe41of5ofaltsldbytemyadeyortgdtinwtehgdtseiss,bttetrsledalrsoddatteeeadvnofrlpyfrty()Ayttteleoftehgdts,myslrtntlstnteaeenpytxdonteoltevetoteEnF()Ayttteleoftehgdts,tmyslhda,rrtnrttotetgd,t0pnofaltspdttyronterlpywnteh1dtsettteesvnbstotetladv2Teathdatehyriste“xi”frtty.Tet3itsloybeudfrfgadrdc4()Ntmetntepsedpttosn1co5tssroftemladSeentxisr6whrttotehgdtseadcdfrtep7frfgfrisadrdcsslbesdbyt8myinasltxitfgatadiniso9bsadrsulalclisidfrteh0iepthsbnfyp.Teflptslber1totet,wosltrieteeeadvno]
+[DELETED: LASIDADPDBYSES5Pe42of5tehgdtseinteadvsunwhtmladortxrsaecdade,adtrntsfmtehgdtseslbeddintesltitfga()Ngaycrpnororp,alptsadwnahgdtseslbesttotpsoftss.Slasldurcr7Aor8oftsteoruramlcrslntbecdpytfrtepeoftssniftepsaeudeyf0ogesrdtopswntehgdts1adntfriswntehgdts2§.UEOFTXI;RNP3()Usoftxi.Amymyaytxi4rdpttotssrtodtidwntep5pdursn1aoftss,tordc,adtot6dtptoftectofahgiep.Ayd7ptslbesttotesepcvepsofsn18oftssrasaytod9()Enpytxi.Upto80ptoftee0pytxitmyberdfrupto20y,bgtef1yrinwhdtisidfrtehgiep.U]
+[DELETED: LASIDADPDBYSES5Pe43of5igteftd,amyslnyteDtofTadteVtEcPsCloftebgofterpdofteenpytxi()Mlpytxi.Ntlstn10ptoftmlpytxitmyber,bgteftyriwhdtisidfrtehgiep()Estxi()Oftemladenpytxisrdiaytxyrttedteascdfrteptoft0fgadrdcsfrahgiep,elp1ofehitmyberdfrtefgp2()topypladitontef3()topeinasltxitfgatr4pttosn1)oftssraduefrfef5p;o6()touefrdeoftef7()Ayrgpnofteesenpyt8itslbeddtoteEnF.Ayrgp9ofteesmlpytxitslbeddtotec0t,orvebtintepnttehbtbstot]
+[DELETED: LASIDADPDBYSES5Pe44of5cdtloftebsusoendbytec,t,ov§.INR()Amywhanaehgiepts()dpas,sdfrtehgieptoi,c,admnaldaadinnytoftergrsoftss()petynntoteDtofTsadtVtEcPsClofayhgiep0d,pcv,orvebytemllebyi1fgtedtieorpcveonafmpdbyt2C,igcsofpcn,a,m,vet,ad3cyofteinpdtotepcpttosn14oftss;a5()ayonorbeFy1,stonafmpdb6teVtEcPsClanalrttoteCla7teDtofT,igteinrdbysn(8oftssnifntpys,teinrdf9alatursn1eoftss,adayi0rdbyteClorteDtofTsfrtertr1pttosn()oftss]
+[DELETED: LASIDADPDBYSES5Pe45of5()AyonorbeAl1,teVtEcPCladteDtofTsslstarttoteSCsonEcD,HgadGlAsadoFeadteHeCsonCeadEcDadonWsadMsonhgiepsadptotss,igfrehoftef()tedeofa()adnoftehgiep()teolteveoftehgdts0()teseadveofpdadalisa1dsintehgdts,igtenro2hgusc3()tenradtsofhgusfrwhaptisb4pdur10V.cr11(eldueaddtp5a,frehaehgd,tectseoft6pgp7()pdadalilrea8()teanofilr;a9()pdadalf0()OnorbeJy1,2,teVtEcP1ClslstarttoteSeCsonE2D,HgadGlAsadonFeadteH3CsonCeadEcDtadonWsa4MsegtessofteCyadHgI5Pminagisp,assdinsn17oftsc6igbyigteatadksofhgpdtht7Pmadbydgwrhgdtpdt8tePmmsteptcnadlncaofsn10o9tsc]
+[DELETED: LASIDADPDBYSES5Pe46of5§.AAyonorbeAl1ulteyrfgteedoftepfrrnofenpytxi,amywhhgieptadurtssrsleettesltxitfgatrdbysn1boftsrissttotealatpdinsn11or10otsteadstacytoteVtEcPsC.Ifaatisstoytoteatursn11oftst,teCsleeapsisinpetostteattoani0a.Psfrteatmtievnofteolt1veadaladtlmladenpytxi2g,esfrfgadrdc,adctb3§.G4()TeSyofCeadCyD,a5renetoamyadanoyfrah,myi6dstoamyonqsadiscgt7anofhgiep,s,r8newhtss,adayisofn9idinatrscdpttosn1eoft0s]
+[DELETED: LASIDADPDBYSES5Pe47of5()TeVtEcPsClslprsfrteSyofCeadCDtprtoaydnidpttosn()ofts.TeClmypersincnwhtCrofT,teAyG,adteSeT.Ipgr,teClslpeamywhreoytostwnininstofisp()TeSyofCeadCyDtslrtersofteCladieaflwndnone0mrwn60dsfgrtofter.T1SymyptanaltobetnbyaypytoaSrC2frdnofqsoflwintesemrasteS3CtmybyrepefrasbefljtfmaS4Ctbeigafld5()TeVtEcPsClmyatrstta6rynytoittss7S.1.32V.§5isadtor8§.VTECPSC9()C.TeVtEcPsCliscdt0eeteayadpmtedsadtoi,igi1ayaddsrgt]
+[DELETED: LASIDADPDBYSES5Pe48of5()teVtEtGhIePmpttsr2oftsc;a()txitfgdsptto24V.cr5sr5adsn5aoftst;a()hgietxitfgptto24Vcr5,sr7**()Dsntsttor.AdnofteCltoaordyananursr2oftsc,ortoaeo0dyatxitfgdtptto24V.cr51sr5adsn5aoftst,ortoaeordyah2ieptptto24V.cr5,sr7isa3aednttisntsttotecdceh4rsur3V.cr25adisntsttojlr**SeadCnMeAs**.1.9V.cr77isadtorR7.SEDSASADCNMSA2.Dsudintsc*)“edra”msadettdsveoepsofcnadssawga,isomaprsywnteutorwdtoitfmanoes,a]
+[DELETED: LASIDADPDBYSES5Pe49of5sadorldfrtepebyUsLyorbrnyrdittgl)“nmedra”msadewhayttisasrclctadananttdsesincnmelsadssga,isodfmaprsywnteutorwdtoimanoes,adisadorldfrtepebsLyorbyarnyrdigl2.I)ApnwocsasydgsliepeorUL27ctssasintevyofaybsadonehlloft,adoeormecnmedsasintevyoybsintedginaewhtem.Inadgpdwhelp,dsalbepdbyteelseintebgadbyb)AysydgwntdbyseoreesnpepeorUL27ctssasintevyofaybsadonehlloftgidinaewhtemsisadormecnmedsasidinaewhtsi.Asydgcdby1,14mycnsedsaspdbyteeeintebgorbyb,orbyacnofb.InasydgnycdarJy1,14ttispdwlp,sedsasslbepdbyteeeintebgadbyb.InasydgndarJy1,25ttispdwhelp,cedsasslbepdbyteelseintgadbyb)Ngintssnslreanororotofasydgtomnorueasedramoracedramari2.RSFRTROFD)Tesrofasyd,igoecdfto,wrtetrisbyseore,slcytotrattecgoftetntttedgispdwepeorUL27cts]
+[DELETED: LASIDADPDBYSES5Pe50of5sasadcnmedsasinaewsc.Tscnslbesdadddbytes)Iftebrnstesrwn10dsbycdmlfmteofceoftedgtttedglsaypepeorUL27ctsedsa,oycnmedsa,orttaydramisn,tesrslcywhtscrwn10dsa*.1.20V.§1isadtor2.R;I;V*)DsA.Rsadurtssnslretnw,a,adddbyteCront,p,adinofpcpeorUL2tsedsasadcnmedsasbypdinterlssaawetedsasa****Ts**S.1.32V.§)isadtor()ddbytefgesadd**()anateltoteiddnfrmestnatteflllbytet,ur26U.§2()msteatofteVtsddnaVtplestnbytetrurtssn(a]
+[DELETED: LASIDADPDBYSES5Pe51of5()msayatddatteflllttiaetoteptofaneefeorrgmypmetoacgcertcyrdur8Vcr1,whestedylsfrpspddteteyronqdlmceiecsur2U.2S.1.32V.§0isadtor§.SYP**0()Tesypeofteenurs1oftst1frcnnwcnadisistoiet2a3S.2.32V.§1isadtor4§.NWAYDGUSADC5PYI6()Anieintealveofapyslbeedf7pytnbyfgadmgteteveattep8gdltveinteyriypgisint9fgc]
+[DELETED: LASIDADPDBYSES5Pe52of5()tepyhsbnrdoridugagtorlfmteVtHgItPmadcnhsbfycdinteps12m;o()tepyhsbnidthtecnofanaydgu,asddby24V.§4,adchsbnfycdinteps12m()Adeinalveofapysttotsedetodeordnfmfeoratofnemyretpstevebwtefdveursn()oft0s1()TeenurtssnslaytoteSee2pytxidurcr15oftsteadtomlp3t4()Anenurtssnslrninetfrtey5Wnteenpde,tepyslbetdatism6ryadgdltv7***As**8S.2.A9TefgslbeadfmteGlFdinfly02]
+[DELETED: LASIDADPDBYSES5Pe53of5()Tesmof$0toteDtofHgaCyDtfrtefgp()$0gdtoteVtHgFeAtoceinofteMeHDtP()$0gdtoteVtHgFeAtoceinofteRlHgRgLnF()$0gdtoteVtBdBktoiteVtIeSyF0()$0frternofeerlh1usurteRlHgItPmedin10V2§63()$0toiemehepkieu4teMdHeItadRrPmedin15V.§7;a6()$0frgstobemefrtepeofp7hre,fllyc,adfep8psodbytefeNsAaa9HpC0()Tesmof$0toteSeTrtoitt1PeRlPtPtP]
+[DELETED: LASIDADPDBYSES5Pe54of5***EeDe**S.2.EEDTsatslteetonJy1,2**EeDs**.1.EEDsatslteetonJy1,2,etttS.4adtsslteetonp]
+
+
+================================================================================
+
+Raw Text:
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 1 of 54
+1 S.127
+2 Introduced by Committee on Economic Development, Housing and General
+3 Affairs
+4 Date: March 18, 2025
+5 Subject: Housing; housing programs; conservation and development; land use;
+6 municipal zoning; Vermont Bond Bank; taxation and finance; tax
+7 credits
+8 Statement of purpose of bill as introduced: This bill proposes to make
+9 multiple changes related to housing programs. Specifically, the bill proposes
+10 to make amendments to the Vermont Rental Housing Improvement Program
+11 and create the Manufactured Home Improvement and Repair Program, create
+12 the Vermont Infrastructure Sustainability Fund, allow for taxcredits for the
+13 First-Generation Homebuyer and Down Payment Assistance Program, make
+14 changes to the Brownfield Property Cleanup Program, create a study
+15 committee related to disability housing, and require multiple housing-related
+16 reports. This bill additionally proposes to create the Community Housing
+17 Infrastructure Program, administered by the Vermont Economic Progress
+18 Council, to authorize municipalities to use taxincrement financing to pay for
+19 infrastructure that will stimulate the development of housing.
+20 An act relating to housing and housing development
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 2 of 54
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Vermont Rental Housing Improvement Program * * *
+3 Sec. 1. 10 V.S.A. § 699 is amended to read:
+4 § 699. VERMONT RENTALHOUSING IMPROVEMENT PROGRAM
+5 (a) Creation of Program.
+6 * * *
+7 (5)(A) The Department may cooperate with and subgrant funds to State
+8 agencies and governmental subdivisions and public and private organizations
+9 in order to carry out the purposes of this subsection (a).
+10 (B) Solely with regards to actions undertaken pursuant to this
+11 subdivision (5), entities, including grantees, subgrantees, and contractors of the
+12 State, shall be exempt from the provisions of 8 V.S.A. chapter 73 (licensed
+13 lenders, mortgage brokers, mortgage loan originators, sales finance companies,
+14 and loan solicitation companies).
+15 * * *
+16 (d) Program requirements applicable to grants and forgivable loans.
+17 (1)(A) A grant or loan shall not exceed:
+18 (i) $70,000.00 per unit, for rehabilitation or creation of an eligible
+19 rental housing unit meeting the applicable building accessibility requirements
+20 under the Vermont Access Rules; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 3 of 54
+1 (ii) $50,000.00 per unit, for rehabilitation or creation of any other
+2 eligible rental housing unit. Up to an additional $20,000.00 per unit may be
+3 made available for specific elements that collectively bring the unit to the
+4 visitable standard outlined in the rules adopted by the Vermont Access Board.
+5 * * *
+6 (e) Program requirements applicable to grants and five-year forgivable
+7 loans. For a grant or five-year forgivable loan awarded through the Program,
+8 the following requirements apply for a minimum period of five years:
+9 (1) A landlord shall coordinate with nonprofit housing partners and
+10 local coordinated entry homelessness service organizations approved by the
+11 Department to identify potential tenants.
+12 (2)(A) Except as provided in subdivision (2)(B) of this subsection
+13 subdivision (e)(2), a landlord shall lease the unit to a household that is:
+14 (i) exiting homelessness, including any individual under 25 years
+15 of age who secures housing through a master lease held by a youth service
+16 provider on behalf of individuals under 25 years of age;
+17 (ii) actively working with an immigrant or refugee resettlement
+18 program; or
+19 (iii) composed of at least one individual with a disability who
+20 receives or is eligible approved to receive Medicaid-funded home and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 4 of 54
+1 community based home-and community-based services or Social Security
+2 Disability Insurance;
+3 (iv) displaced due to activity related to climate change or due to a
+4 natural disaster; or
+5 (v) with approval from the Department in writing, an organization
+6 that will hold a master lease that explicitly states the unit will be used in
+7 service of the populations described in this subsection (e).
+8 * * *
+9 (4)(A) A landlord may convert a grant to a forgivable loan upon
+10 approval of the Department and the housing organization that approved the
+11 grant.
+12 (B) A landlord who converts a grant to a forgivable loan shall receive
+13 a 10-percent prorated credit for loan forgiveness for each year in which the
+14 landlord participates in the Program.
+15 (f) Requirements applicable to 10-year forgivable loans. For a 10-year
+16 forgivable loan awarded through the Program, the following requirements
+17 apply for a minimum period of 10 years:
+18 (1) A landlord shall coordinate with nonprofit housing partners and
+19 local coordinated entry organizations to identify potential tenants The total
+20 cost of rent for the unit, including utilities not covered by rent payments, shall
+21 not exceed the applicable fair market rent established by the Department of
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 5 of 54
+1 Housing and Urban Development, except that a landlord may accept a housing
+2 voucher that exceeds fair market rent, if available.
+3 (2)(A) Except as provided in subdivision (2)(B) of this subsection (f), a
+4 landlord shall lease the unit to a household that is:
+5 (i) exiting homelessness, including any individual under 25 years
+6 of age who secures housing through a master lease held by a youth service
+7 provider on behalf of individuals under 25 years of age;
+8 (ii) actively working with an immigrant or refugee resettlement
+9 program; or
+10 (iii) composed of at least one individual with a disability who is
+11 eligible to receive Medicaid-funded home and community based services.
+12 (B) If, upon petition of the landlord, the Department or the housing
+13 organization that issued the grant determines that a household under
+14 subdivision (2)(A) of this subsection (f) is not available to lease the unit, then
+15 the landlord shall lease the unit:
+16 (i) to a household with an income equal to or less than 80 percent
+17 of area median income; or
+18 (ii) if such a household is unavailable, to another household with
+19 the approval of the Department or housing organization.
+20 (3)(A) A landlord shall accept any housing vouchers that are available
+21 to pay all, or a portion of, the tenant’s rent and utilities.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 6 of 54
+1 (B) If no housing voucher or federal or State subsidy is available, the
+2 cost of rent for the unit, including utilities not covered by rent payments, shall
+3 not exceed the applicable fair market rent established by the Department of
+4 Housing and Urban Development.
+5 (4) The Department shall forgive 10 percent of the a prorated amount of
+6 a forgivable loan for each year a landlord participates in the loan program.
+7 * * *
+8 (i) Creation of the Vermont Rental Housing Improvement Program
+9 Revolving Fund. Funds repaid or returned to the Department from forgivable
+10 loans or grants funded by the Program shall return to the Vermont Rental
+11 Housing Improvement Revolving Fund to be used for Program expenditures
+12 and administrative costs at the discretion of the Department.
+13 * * * MHIR * * *
+14 Sec. 2. 10 V.S.A. § 700 is added to read:
+15 § 700. VERMONT MANUFACTURED HOME IMPROVEMENT AND
+16 REPAIR PROGRAM
+17 (a) There is created within the Department of Housing and Community
+18 Development the Manufactured Home Improvement and Repair Program. The
+19 Department shall design and implement the Program to award funding to
+20 statewide or regional nonprofit housing organizations, or both, to provide
+21 financial assistance or awards to manufactured homeowners and manufactured
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 7 of 54
+1 home park owners to improve existing homes, incentivize new slab placement
+2 for prospective homeowners, and incentivize park improvements for infill of
+3 more homes.
+4 (b) The following projects are eligible for funding through the Program:
+5 (1) The Department may award up to $20,000.00 to owners of
+6 manufactured housing communities to complete small-scale capital needs to
+7 help infill vacant lots with homes, including disposal of abandoned homes, lot
+8 grading and preparation, the siting and upgrading of electrical boxes,
+9 enhancing E-911 safety issues, transporting homes out of flood zones, and
+10 improving individual septic systems. Costs awarded under this subdivision
+11 may also cover legal fees and marketing to help make it easier for
+12 homeseekers to find vacant lots around the State.
+13 (2) The Department may award funding to manufactured homeowners
+14 for which the home is their primary residence to address habitability and
+15 accessibility issues to bring the home into compliance with safe living
+16 conditions.
+17 (3) The Department may award up to $15,000.00 per grant to a
+18 homeowner to pay for a foundation or federal Department of Housing and
+19 Urban Development-approved slab, site preparation, skirting, tie-downs, and
+20 utility connections on vacant lots within a manufactured home community.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 8 of 54
+1 (c) The Department may adopt rules, policies, and guidelines to aid in
+2 enacting the Program.
+3 * * * Vermont Infrastructure Sustainability Fund * * *
+4 Sec. 3. 24 V.S.A. chapter 119, subchapter 6 is amended to read:
+5 Subchapter 6. Special Funds
+6 * * *
+7 § 4686. VERMONT INFRASTRUCTURE SUSTAINABILITY FUND
+8 (a) Creation. There is created the Vermont Infrastructure Sustainability
+9 Fund within the Vermont Bond Bank.
+10 (b) Purpose. The purpose of the Fund is to provide capital to extend and
+11 increase capacity of water and sewer service and other public infrastructure in
+12 municipalities where lack of extension or capacity is a barrier to housing
+13 development.
+14 (c) Administration. The Vermont Bond Bank may administer the Fund in
+15 coordination with and support from other State agencies, government
+16 component parts, and quasi-governmental agencies.
+17 (d) Program parameters.
+18 (1) The Vermont Bond Bank, in consultation with the Department of
+19 Housing and Community Development, shall develop program guidelines to
+20 effectively implement the Fund.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 9 of 54
+1 (2) The program shall provide low-interest loans or bonds to
+2 municipalities to expand infrastructure capacity. Eligible activities include:
+3 (A) preliminary engineering and planning;
+4 (B) engineering design and bid specifications;
+5 (C) construction for municipal waste and wastewater systems;
+6 (D) transportation investments, including those required by
+7 municipal regulation, the municipality’s official map, designation
+8 requirements, or other planning or engineering identifying complete streets
+9 and transportation and transit related improvements, including improvements
+10 to existing streets; and
+11 (E) other eligible activities as determined by the guidelines produced
+12 by the Vermont Bond Bank in consultation with the Department of Housing
+13 and Community Development.
+14 (e) Application requirements. Eligible project applications shall
+15 demonstrate:
+16 (1) the project will create reserve capacity necessary for new housing
+17 unit development;
+18 (2) the project has a direct link to housing unit production; and
+19 (3) the municipality has a commitment to own and operate the project
+20 throughout its useful life.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 10 of 54
+1 (f) Application criteria. In addition to any criteria developed in the
+2 program guidelines, project applications shall be evaluated using the following
+3 criteria:
+4 (1) whether there is a direct connection to proposed or in-progress
+5 housing development with demonstrable progress toward regional housing
+6 targets;
+7 (2) whether the project is an expansion of an existing system and the
+8 proximity to a designated area;
+9 (3) the project readiness and estimated time until the need for financing;
+10 (4) the ranking of the community on the Vermont Department of
+11 Finance and Management, Vermont Community Index; and
+12 (5) the demonstration of financing for project completion or completion
+13 of a project component.
+14 (g) Award terms. The Vermont Bond Bank, in consultation with the
+15 Department of Housing and Community Development, shall establish award
+16 terms that may include:
+17 (1) the maximum loan or bond amount;
+18 (2) the maximum term of the loan or bond amount;
+19 (3) the time by which amortization shall commence;
+20 (4) the maximum interest rate;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 11 of 54
+1 (5) whether the loan is eligible for forgiveness and to what percentage
+2 or amount;
+3 (6) the necessary security for the loan or bond; and
+4 (7) any additional covenants encumbering the improved properties to
+5 further secure the loan or bond.
+6 (h) Revolving fund. Any funds repaid or returned from the Infrastructure
+7 Sustainability Fund shall be deposited into the Fund and used to continue the
+8 program established in this section.
+9 * * * VHFA First-Generation Homebuyer Program and Down Payment
+10 Assistance Program * * *
+11 Sec. 4. 32 V.S.A. § 5930u is amended to read:
+12 § 5930u. TAX CREDIT FOR AFFORDABLE HOUSING
+13 (a) Definitions. As used in this section:
+14 * * *
+15 (11) “First-generation homebuyer” means a homebuyer who self-attests
+16 that the homebuyer is an individual:
+17 (A) whose parents or legal guardians:
+18 (i) do not have and during the homebuyer’s lifetime have not had
+19 any residential ownership interest in any state; or
+20 (ii) lost ownership of a home due to foreclosure, short sale, or
+21 deed-in-lieu of foreclosure and have not owned a home since that loss; or
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 12 of 54
+1 (B) who has at any time been placed in foster care.
+2 * * *
+3 (g) Credit allocation.
+4 (1) In any fiscal year, the allocating agency may award up to:
+5 (A) $400,000.00 in total first-year credit allocations to all applicants
+6 for rental housing projects, for an aggregate limit of $2,000,000.00 over any
+7 given five-year period that credits are available under this subdivision (A).
+8 (B) $675,000.00 in total first-year credit allocations for loans or
+9 grants for owner-occupied unit financing or down payment loans as provided
+10 in subdivision (b)(2) of this section consistent with the allocation plan,
+11 including for new construction and manufactured housing, for an aggregate
+12 limit of $3,375,000.00 over any given five-year period that credits are
+13 available under this subdivision (B). Of the total first-year credit allocations
+14 made under this subdivision (B), $250,000.00 shall be used each fiscal year for
+15 manufactured home purchase and replacement.
+16 (C) $250,000.00 in total first-year credit allocations for grants to
+17 first-time homebuyers who are also first-generation homebuyers as provided in
+18 subdivision (b)(3)(D) of this section, for an aggregate limit of $1,250,000.00
+19 over any given five-year period that credits are available under this subdivision
+20 (C).
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 13 of 54
+1 (2) If the full amount of first-year credits authorized by an award are not
+2 allocated to a taxpayer, the Agency may reclaim the amount not allocated and
+3 re-award such allocations to other applicants, and such re-awards shall not be
+4 subject to the limits set forth in subdivision (1) of this subsection.
+5 (h) Credit allocation; Down Payment Assistance Program.
+6 (1) In fiscal year 2016 through fiscal year 2019, the allocating agency
+7 may award up to $125,000.00 in total first-year credit allocations for loans
+8 through the Down Payment Assistance Program created in subdivision (b)(2)
+9 of this section.
+10 (2) In fiscal year 2020 through fiscal year 2026, the allocating agency
+11 may award up to $250,000.00 in total first-year credit allocations for loans
+12 through the Down Payment Assistance Program created in subdivision (b)(3)
+13 of this section.
+14 (3) In fiscal year 2027 through fiscal year 2031, the allocating agency
+15 may award up to $250,000.00 in total first-year credit allocations for loans
+16 through the Down Payment Assistance Program created in subdivision (b)(3)
+17 of this section.
+18 Sec. 4. [Deleted.]
+* * * VHFA Rental Housing Revolving Loan Program * * *
+Sec. 4. 2023 Acts and Resolves No. 47, Sec. 38 is amended to read:
+Sec. 38. RENTAL HOUSING REVOLVING LOAN PROGRAM
+(a) Creation; administration. The Vermont Housing Finance Agency shall
+design and implement a Rental Housing Revolving Loan Program and shall
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 14 of 54
+create and administer a revolving loan fund to provide subsidized loans for
+rental housing developments that serve middle-income households.
+(b) Loans; eligibility; criteria.
+* * *
+(7) The Agency shall use one or more legal mechanisms to ensure that:
+(A) a subsidized unit remains affordable to a household earning the
+applicable percent of area median income for the longer of:
+(i) seven years; or
+(ii) full repayment of the loan plus three years; and
+(B) during the affordability period determined pursuant to
+subdivision (A) of this subdivision (7), the annual increase in rent for a
+subsidized unit does not exceed three percent or an amount otherwise
+authorized by the Agency.
+* * *
+1 * * * Housing and Residential Services Planning Committee * * *
+2 Sec. 5. STATE HOUSING AND RESIDENTIALSERVICES PLANNING
+3 COMMITTEE; REPORT
+4 (a) Creation. There is created the State Housing and Residential Services
+5 Planning Committee to generate a State plan to develop housing for
+6 individuals with developmental disabilities.
+7 (b) Membership. The Committee shall be composed of the following
+8 members:
+9 (1) one current member of the House of Representatives, who shall be
+10 appointed by the Speaker of the House;
+11 (2) one current member of the Senate, who shall be appointed by the
+12 Committee on Committees;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 15 of 54
+1 (3) the Secretary of the Agency of Human Services or designee;
+2 (4) the Commissioner of the Department of Disabilities, Aging, and
+3 Independent Living or designee;
+4 (5) the Commissioner of the Department of Housing and Community
+5 Development or designee;
+6 (6) the State Treasurer or designee;
+7 (7) one member, appointed by the Developmental Disabilities Housing
+8 Initiative;
+9 (8) the Executive Director of the Vermont Developmental Disabilities
+10 Council;
+11 (9) one member, appointed by Green Mountain Self-Advocates;
+12 (10) one member, appointed by Vermont Care Partners; and
+13 (11) one member, appointed by the Vermont Housing and Conservation
+14 Board.
+15 (c) Powers and duties. The Committee shall create an actionable plan to
+16 develop housing for individuals with developmental disabilities that reflects
+17 the diversity of needs expressed by those individuals and their families,
+18 including individuals with high-support needs who require 24-hour care and
+19 those with specific communication needs. The plan shall include:
+20 (1) a schedule for the creation of at least 600 additional units of service-
+21 supported housing;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 16 of 54
+1 (2) the number and description of the support needs of individuals with
+2 developmental disabilities anticipated to be served annually;
+3 (3) anticipated funding needs; and
+4 (4) recommendations for changes in State laws or policies that are
+5 obstacles to the development of housing needed by individuals with Medicaid-
+6 funded home-and community-based services.
+7 (d) Assistance. For purposes of scheduling meetings and preparing
+8 recommended legislation, the Committee shall have the assistance of the
+9 Office of Legislative Operations and the Office of Legislative Counsel.
+10 (e) Report. On or before November 15, 2025, the Committee shall submit
+11 a written report to the House Committees on General and Housing and on
+12 Human Services and the Senate Committees on Economic Development,
+13 Housing and General Affairs and on Health and Welfare with its findings and
+14 any recommendations for legislative action.
+15 (f) Meetings.
+16 (1) The Secretary of Human Services shall call the first meeting of the
+17 Committee to occur on or before July 15, 2025.
+18 (2) The Committee shall select a chair from among its members at the
+19 first meeting.
+20 (3) A majority of the membership shall constitute a quorum.
+21 (4) The Committee shall cease to exist on November 30, 2025.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 17 of 54
+1 (g) Compensation and reimbursement. For attendance at meetings during
+2 adjournment of the General Assembly, a legislative member of the Committee
+3 serving in the member’s capacity as a legislator shall be entitled to per diem
+4 compensation and reimbursement of expenses pursuant to 2 V.S.A. § 23 for
+5 not more than five meetings. These payments shall be made from monies
+6 appropriated to the General Assembly.
+7 * * * Housing and Public Accommodation Protections * * *
+8 Sec. 6. 9 V.S.A. § 4501 is amended to read:
+9 § 4501. DEFINITIONS
+10 As used in this chapter:
+11 * * *
+12 (12)(A) “Harass” means to engage in unwelcome conduct that detracts
+13 from, undermines, or interferes with a person’s:
+14 (i) use of a place of public accommodation or any of the
+15 accommodations, advantages, facilities, or privileges of a place of public
+16 accommodation because of the person’s race, creed, color, national origin,
+17 citizenship, marital status, sex, sexual orientation, gender identity, or disability;
+18 or
+19 (ii) terms, conditions, privileges, or protections in the sale or
+20 rental of a dwelling or other real estate, or in the provision of services or
+21 facilities in connection with a dwelling or other real estate, because of the
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 18 of 54
+1 person’s race, sex, sexual orientation, gender identity, age, marital status,
+2 religious creed, color, national origin, citizenship, or disability, or because the
+3 person intends to occupy a dwelling with one or more minor children, or
+4 because the person is a recipient of public assistance, or because the person is a
+5 victim of abuse, sexual assault, or stalking.
+6 * * *
+7 Sec. 7. 9 V.S.A. § 4502 is amended to read:
+8 § 4502. PUBLIC ACCOMMODATIONS
+9 (a) An owner or operator of a place of public accommodation or an agent
+10 or employee of such owner or operator shall not, because of the race, creed,
+11 color, national origin, citizenship, immigration status, marital status, sex,
+12 sexual orientation, or gender identity of any person, refuse, withhold from, or
+13 deny to that person any of the accommodations, advantages, facilities, and
+14 privileges of the place of public accommodation.
+15 * * *
+16 Sec. 8. 9 V.S.A. § 4503 is amended to read:
+17 § 4503. UNFAIR HOUSING PRACTICES
+18 (a) It shall be unlawful for any person:
+19 (1) To refuse to sell or rent, or refuse to negotiate for the sale or rental
+20 of, or otherwise make unavailable or deny, a dwelling or other real estate to
+21 any person because of the race, sex, sexual orientation, gender identity, age,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 19 of 54
+1 marital status, religious creed, color, national origin, citizenship, or disability
+2 of a person, or because a person intends to occupy a dwelling with one or more
+3 minor children, or because a person is a recipient of public assistance, or
+4 because a person is a victim of abuse, sexual assault, or stalking.
+5 (2) To discriminate against, or to harass, any person in the terms,
+6 conditions, privileges, and protections of the sale or rental of a dwelling or
+7 other real estate, or in the provision of services or facilities in connection with
+8 a dwelling or other real estate, because of the race, sex, sexual orientation,
+9 gender identity, age, marital status, religious creed, color, national origin,
+10 citizenship, or disability of a person, or because a person intends to occupy a
+11 dwelling with one or more minor children, or because a person is a recipient of
+12 public assistance, or because a person is a victim of abuse, sexual assault, or
+13 stalking.
+14 (3) To make, print, or publish, or cause to be made, printed, or
+15 published any notice, statement, or advertisement, with respect to the sale or
+16 rental of a dwelling or other real estate that indicates any preference,
+17 limitation, or discrimination based on race, sex, sexual orientation, gender
+18 identity, age, marital status, religious creed, color, national origin, citizenship,
+19 or disability of a person, or because a person intends to occupy a dwelling with
+20 one or more minor children, or because a person is a recipient of public
+21 assistance, or because a person is a victim of abuse, sexual assault, or stalking.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 20 of 54
+1 (4) To represent to any person because of the race, sex, sexual
+2 orientation, gender identity, age, marital status, religious creed, color, national
+3 origin, citizenship, or disability of a person, or because a person intends to
+4 occupy a dwelling with one or more minor children, or because a person is a
+5 recipient of public assistance, or because a person is a victim of abuse, sexual
+6 assault, or stalking, that any dwelling or other real estate is not available for
+7 inspection, sale, or rental when the dwelling or real estate is in fact so
+8 available.
+9 * * *
+10 (6) To discriminate against any person in the making or purchasing of
+11 loans or providing other financial assistance for real-estate-related transactions
+12 or in the selling, brokering, or appraising of residential real property, because
+13 of the race, sex, sexual orientation, gender identity, age, marital status,
+14 religious creed, color, national origin, citizenship, or disability of a person, or
+15 because a person intends to occupy a dwelling with one or more minor
+16 children, or because a person is a recipient of public assistance, or because a
+17 person is a victim of abuse, sexual assault, or stalking.
+18 (7) To engage in blockbusting practices, for profit, which may include
+19 inducing or attempting to induce a person to sell or rent a dwelling by
+20 representations regarding the entry into the neighborhood of a person or
+21 persons of a particular race, sex, sexual orientation, gender identity, age,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 21 of 54
+1 marital status, religious creed, color, national origin, citizenship, or disability
+2 of a person, or because a person intends to occupy a dwelling with one or more
+3 minor children, or because a person is a recipient of public assistance, or
+4 because a person is a victim of abuse, sexual assault, or stalking.
+5 (8) To deny any person access to or membership or participation in any
+6 multiple listing service, real estate brokers’ organization, or other service,
+7 organization, or facility relating to the business of selling or renting dwellings,
+8 or to discriminate against any person in the terms or conditions of such access,
+9 membership, or participation, on account of race, sex, sexual orientation,
+10 gender identity, age, marital status, religious creed, color, national origin,
+11 citizenship, or disability of a person, or because a person is a recipient of
+12 public assistance, or because a person is a victim of abuse, sexual assault, or
+13 stalking.
+14 * * *
+15 (12) To discriminate in land use decisions or in the permitting of
+16 housing because of race, sex, sexual orientation, gender identity, age, marital
+17 status, religious creed, color, national origin, citizenship, disability, the
+18 presence of one or more minor children, income, or because of the receipt of
+19 public assistance, or because a person is a victim of abuse, sexual assault, or
+20 stalking, except as otherwise provided by law.
+21 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 22 of 54
+1 (d) If required by federal law, the verification of immigration status shall
+2 not constitute a violation of subsection (a) of this section with respect to the
+3 sale and rental of dwellings.
+4 * * * LURB Appeals Study * * *
+5 Sec. 9. 2024 Acts and Resolves No. 181, Sec. 11a is amended to read:
+6 Sec. 11a. ACT 250 APPEALS STUDY
+7 (a) On or before January 15, 2026 November 15, 2025, the Land Use
+8 Review Board shall issue a report evaluating whether to transfer appeals of
+9 permit decisions and jurisdictional opinions issued pursuant to 10 V.S.A.
+10 chapter 151 to the Land Use Review Board or whether they should remain at
+11 the Environmental Division of the Superior Court. The Board shall convene a
+12 stakeholder group that at a minimum shall be composed of a representative of
+13 environmental interests, attorneys that practice environmental and
+14 development law in Vermont, the Vermont League of Cities and Towns, the
+15 Vermont Association of Planning and Development Agencies, the Vermont
+16 Chamber of Commerce, the Land Access and Opportunity Board, the Office of
+17 Racial Equity, the Vermont Association of Realtors, a representative of non-
+18 profit housing development interests, a representative of for-profit housing
+19 development interests, a representative of commercial development interests,
+20 an engineer with experience in development, the Agency of Commerce and
+21 Community Development, and the Agency of Natural Resources in preparing
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 23 of 54
+1 the report. The Board shall provide notice of the stakeholder meetings on its
+2 website and each meeting shall provide time for public comment.
+3 (b) The report shall at minimum recommend:
+4 (1) whether Whether to allow consolidation of appeals at the Board, or
+5 with the Environmental Division of the Superior Court, and how, including
+6 what resources the Board would need, if transferred to the Board, appeals of
+7 permit decisions issued under 24 V.S.A. chapter 117 and the Agency of
+8 Natural Resources can be consolidated with Act 250 appeals;.
+9 (2) how How to prioritize and expedite the adjudication of appeals
+10 related to housing projects, including the use of hearing officers to expedite
+11 appeals and the setting of timelines for processing of housing appeals;.
+12 (3) procedural Procedural rules to govern the Board’s administration of
+13 Act 250 and the adjudication of appeals of Act 250 decisions. These rules
+14 shall include procedures to create a firewall and eliminate any potential for
+15 conflicts with the Board managing appeals and issuing permit decisions and
+16 jurisdictional opinions; and.
+17 (4) other Other actions the Board should take to promote the efficient
+18 and effective adjudication of appeals, including any procedural improvements
+19 to the Act 250 permitting process and jurisdictional opinion appeals.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 24 of 54
+1 (c) The report shall be submitted to the Senate Committees on Economic
+2 Development, Housing and General Affairs and on Natural Resources and
+3 Energy and the House Committee on Environment and Energy.
+4 * * * Brownfields * * *
+5 Sec. 10. 10 V.S.A. § 6604c is amended to read:
+6 § 6604c. MANAGEMENT OF DEVELOPMENT SOILS
+7 (a) Management of development soils. Notwithstanding any other
+8 requirements of this chapter to the contrary, development soils may be
+9 managed at a location permitted pursuant to an insignificant waste event
+10 approval authorization issued pursuant to the Solid Waste Management Rules
+11 that contains, at a minimum, the following:
+12 (1) the development soils are generated from a hazardous materials site
+13 managed pursuant to a corrective action plan or a soil management plan
+14 approved by the Secretary;
+15 (2) the development soils have been tested for arsenic, lead, and
+16 polyaromatic hydrocarbons pursuant to a monitoring plan approved by the
+17 Secretary that ensures that the soils do not leach above groundwater
+18 enforcement standards;
+19 (3) the location where the soils are managed is appropriate for the
+20 amount and type of material being managed;
+21 (4) the soils are capped in a manner approved by the Secretary;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 25 of 54
+1 (5) any activity that may disturb the development soils at the permitted
+2 location shall be conducted pursuant to a soil management plan approved by
+3 the Secretary; and
+4 (6) the permittee files a record notice of where the soils are managed in
+5 the land records.
+6 * * *
+7 Sec. 11. REPORT ON THE STATUS OF MANAGEMENT OF
+8 DEVELOPMENT SOILS
+9 (a) As part of the biennial report to the House Committee on Environment
+10 and the Senate Committee on Natural Resources and Energy under 10 V.S.A.
+11 § 6604(c), the Secretary of Natural Resources shall report on the status of the
+12 management of development soils in the State under 10 V.S.A. § 6604c. The
+13 report shall include:
+14 (1) the number of insignificant waste event approval authorizations
+15 issued by the Secretary in the previous two years for the management of
+16 development soils;
+17 (2) the number of certified categorical solid waste facilities operating in
+18 the State for the management of development soils;
+19 (3) a summary of how the majority of development soils in the State are
+20 being managed;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 26 of 54
+1 (4) an estimate of the cost to manage development soils, depending on
+2 management method; and
+3 (5) any additional information the Secretary determines relevant to the
+4 management of development soils in the State.
+5 (b) As used in this section, “development soil” has the same meaning as in
+6 10 V.S.A. § 6602(39).
+7 Sec. 12. 10 V.S.A. § 6641 is amended to read:
+8 § 6641. BROWNFIELD PROPERTY CLEANUP PROGRAM; CREATION;
+9 POWERS
+10 (a) There is created the Brownfield Property Cleanup Program to enable
+11 certain interested parties to request the assistance of the Secretary to review
+12 and oversee work plans for investigating, abating, removing, remediating, and
+13 monitoring a property in exchange for protection from certain liabilities under
+14 section 6615 of this title. The Program shall be administered by the Secretary
+15 who shall:
+16 * * *
+17 (c) When conducting any review required by this subchapter, the Secretary
+18 shall prioritize the review of remediation at a site that contains housing.
+19 Sec. 13. BROWNFIELDS PROCESS IMPROVEMENT; REPORT
+20 On or before November 1, 2025, the Secretary of Natural Resources shall
+21 report to the House Committees on Environment and on General and Housing
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 27 of 54
+1 and the Senate Committees on Economic Development, Housing and General
+2 Affairs and on Natural Resources and Energy with proposals to make the
+3 Program established pursuant to 10 V.S.A. chapter 159, subchapter 3
+4 (brownfields reuse and liability limitation) substantially more efficient. At a
+5 minimum, the report shall include both of the following:
+6 (1) A survey of stakeholders in the brownfields program to identify
+7 areas that present challenges to the redevelopment of contaminated properties,
+8 with a focus on redevelopment for housing. The Secretary shall provide
+9 recommendations to resolve these challenges.
+10 (2) An analysis of strengths and weaknesses of implementing a licensed
+11 site professional program within the State. The Secretary shall make a
+12 recommendation on whether such a program should be implemented. If the
+13 Secretary recommends implementation, the report shall include any changes to
+14 statute or budget needed to implement this program.
+15 Sec. 14. 2023 Acts and Resolves No. 78, Sec. B.1103, as amended by 2024
+16 Acts and Resolves No. 87, Sec. 43, is further amended to read:
+17 Sec. B.1103 CLIMATE AND ENVIRONMENT – FISCALYEAR 2024
+18 ONE-TIME APPROPRIATIONS
+19 * * *
+20 (h) In fiscal year 2024, the amount of $2,500,000 General Fund is
+21 appropriated to the Department of Environmental Conservation Environmental
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 28 of 54
+1 Contingency Fund established pursuant to 10 V.S.A. § 1283 for the
+2 Brownfields Reuse and Environmental Liability Limitation Act as codified in
+3 10 V.S.A. chapter 159. Funds shall be used for the assessment and cleanup,
+4 planning, and cleanup of brownfields sites.
+5 * * *
+6 Sec. 15. BROWNFIELD FUNDING
+7 The sum of $4,000,000.00 is appropriated from the General Fund to the
+8 Brownfield Revitalization Fund established in 10 V.S.A. § 6654. The Agency
+9 of Commerce and Community Development shall award the amount of
+10 $2,000,000.00 in fiscal year 2026 to regional planning commissions for the
+11 purposes of brownfields assessment. In awarding funds under this section, the
+12 Secretary of Commerce and Community Development, in consultation with
+13 the Vermont Association of Planning and Development Agencies, shall select
+14 one regional planning commission to administer these funds. To ensure
+15 statewide availability, the selected regional planning commission shall
+16 subgrant to regional planning commissions with brownfield programs, with
+17 not more than 10 percent of the funds being used for administrative purposes.
+18 Sec. 15. [Deleted.]
+19 * * * TaxIncrement Financing * * *
+20 Sec. 16. 24 V.S.A. chapter 53, subchapter 7 is added to read:
+21 Subchapter 7. Community and Housing Infrastructure Program
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 29 of 54
+1 § 1906. DEFINITIONS
+2 As used in this subchapter:
+3 (1) “Affordable housing” means either of the following:
+4 (A) Owner-occupied housing for which the total annual cost of
+5 ownership, including principal, interest, taxes, insurance, and condominium
+6 association fees, does not exceed 30 percent of the gross annual income of a
+7 household at 150 percent of the highest of the following:
+8 (i) the county median income, as defined by the U.S. Department
+9 of Housing and Urban Development;
+10 (ii) the standard metropolitan statistical area median income if the
+11 municipality is located in such an area, as defined by the U.S. Department of
+12 Housing and Urban Development; or
+13 (iii) the statewide median income, as defined by the U.S.
+14 Department of Housing and Urban Development.
+15 (B) Rental housing for which the total annual cost of renting,
+16 including rent, utilities, and condominium association fees, does not exceed 30
+17 percent of the gross annual income of a household at 150 percent of the
+18 highest of the following:
+19 (i) the county median income, as defined by the U.S. Department
+20 of Housing and Urban Development;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 30 of 54
+1 (ii) the standard metropolitan statistical area median income if the
+2 municipality is located in such an area, as defined by the U.S. Department of
+3 Housing and Urban Development; or
+4 (iii) the statewide median income, as defined by the U.S.
+5 Department of Housing and Urban Development.
+6 (21) “Brownfield” means a property on which the presence or potential
+7 presence of a hazardous material, pollutant, or contaminant complicates the
+8 expansion, development, redevelopment, or reuse of the property.
+9 (32) “Committed” means pledged and appropriated for the purpose of
+10 the current and future payment of financing and related costs.
+11 (43) “Developer” means the person undertaking to construct a housing
+12 development.
+13 (54) “Financing” means debt, including principal, interest, and any fees
+14 or charges directly related to that debt, incurred by a sponsor, or other
+15 instruments or borrowing used by a sponsor, to pay for a housing infrastructure
+16 project and, in the case of a sponsor that is a municipality, authorized by the
+17 municipality pursuant to section 1910a of this subchapter.
+18 (65) “Housing development” means the construction of one or more
+19 buildings that includes affordable housing.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 31 of 54
+1 (76) “Housing development site” means the parcel or parcels
+2 encompassing a housing development as authorized by a municipality pursuant
+3 to section 1908 of this subchapter.
+4 (87) “Housing infrastructure agreement” means a legally binding
+5 agreement to finance and develop a housing infrastructure project and to
+6 construct a housing development among a municipality, a developer, and, if
+7 applicable, a third-party sponsor.
+8 (98) “Housing infrastructure project” means one or more improvements
+9 authorized by a municipality pursuant to section 1908 of this subchapter.
+10 (109) “Improvements” means:
+11 (A) the installation or construction of infrastructure that will serve a
+12 public good and fulfill the purpose of housing infrastructure taxincrement
+13 financing as stated in section 1907 of this subchapter, including utilities, digital
+14 infrastructure, transportation, public recreation, commercial and industrial
+15 facilities, parking, public facilities and amenities, land and property acquisition
+16 and demolition, brownfield remediation, site preparation, and flood
+17 remediation and mitigation; and
+18 (B) the funding of debt service interest payments for a period of up
+19 to four years, beginning on the date on which the debt is first incurred.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 32 of 54
+1 (1110) “Legislative body” means the mayor and alderboard, the city
+2 council, the selectboard, and the president and trustees of an incorporated
+3 village, as appropriate.
+4 (1211) “Municipality” means a city, town, or incorporated village.
+5 (1312) “Original taxable value” means the total valuation as determined
+6 in accordance with 32 V.S.A. chapter 129 of all taxable real property located
+7 within a housing development site as of its creation date, provided that no
+8 parcel within the housing development site shall be divided or bisected.
+9 (1413) “Related costs” means expenses incurred and paid by a
+10 municipality, exclusive of the actual cost of constructing and financing
+11 improvements, that are directly related to the creation and implementation of
+12 the municipality’s housing infrastructure project, including reimbursement of
+13 sums previously advanced by the municipality for those purposes. Related
+14 costs may include direct municipal expenses such as departmental or personnel
+15 costs related to creating or administering the housing infrastructure project to
+16 the extent they are paid from the taxincrement realized from municipal and
+17 not education taxes and using only that portion of the municipal increment
+18 above the percentage required for serving debt as determined in accordance
+19 with subsection 1910c(c) of this subchapter.
+20 (1514) “Sponsor” means the person undertaking to finance a housing
+21 infrastructure project. Any of a municipality, a developer, or an independent
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 33 of 54
+1 agency that meets State lending standards may serve as a sponsor for a housing
+2 infrastructure project.
+3 § 1907. PURPOSE
+4 The purpose of housing infrastructure taxincrement financing is to provide
+5 revenues for improvements and related costs to stimulate housing development
+6 in Vermont.
+7 § 1907. PURPOSE
+The purpose of housing infrastructure tax increment financing is to provide
+revenues for improvements and related costs to encourage the development of
+primary residences for households of low or moderate income.
+8 § 1908. CREATION OF HOUSING INFRASTRUCTURE PROJECT AND
+9 HOUSING DEVELOPMENT SITE
+10 (a) The legislative body of a municipality may create within its jurisdiction
+11 a housing infrastructure project, which shall consist of improvements that
+12 stimulate the development of housing, and a housing development site, which
+13 shall consist of the parcel or parcels on which a housing development is
+14 installed or constructed and any immediately contiguous parcels.
+15 (b) To create a housing infrastructure project and housing development
+16 site, a municipality, in coordination with stakeholders, shall:
+17 (1) develop a housing development plan, including:
+18 (A) a description of the proposed housing infrastructure project, the
+19 proposed housing development, and the proposed housing development site;
+20 (B) identification of a sponsor;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 34 of 54
+1 (C) a taxincrement financing plan meeting the standards of
+2 subsection 1910(f) of this subchapter;
+3 (D) a pro forma projection of expected costs of the proposed housing
+4 infrastructure project;
+5 (E) a projection of the taxincrement to be generated by the proposed
+6 housing development; and
+7 (F) a development schedule that includes a list, a cost estimate, and a
+8 schedule for the proposed housing infrastructure project and the proposed
+9 housing development;
+10 (2) develop a plan describing the housing development site by its
+11 boundaries and the properties therein, entitled “Proposed Housing
+12 Development Site (municipal name), Vermont”;
+13 (3) hold one or more public hearings, after public notice, on the
+14 proposed housing infrastructure project, including the plans developed
+15 pursuant to this subsection; and
+16 (4) adopt by act of the legislative body of the municipality the plan
+17 developed under subdivision (2) of this subsection, which shall be recorded
+18 with the municipal clerk and lister or assessor.
+19 (c) The creation of a housing development site shall occur at 12:01 a.m. on
+20 April 1 of the calendar year in which the Vermont Economic Progress Council
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 35 of 54
+1 approves the use of taxincrement financing for the housing infrastructure
+2 project pursuant to section 1910 of this subchapter.
+3 § 1909. HOUSING INFRASTRUCTURE AGREEMENT
+4 (a) The housing infrastructure agreement for a housing infrastructure
+5 project shall:
+6 (1) clearly identify the sponsor for the housing infrastructure project;
+7 (2) clearly identify the developer and the housing development for the
+8 housing development site;
+9 (3) obligate the taxincrements retained pursuant to section 1910c of this
+10 subchapter for not more than the financing and related costs for the housing
+11 infrastructure project; and
+12 (4) provide for performance assurances to reasonably secure the
+13 obligations of all parties under the housing infrastructure agreement.
+14 (b) A municipality shall provide notice of the terms of the housing
+15 infrastructure agreement for the municipality’s housing infrastructure project
+16 to the legal voters of the municipality and shall provide the same information
+17 as set forth in subsection 1910a(e) of this subchapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 36 of 54
+1 § 1910. HOUSING INFRASTRUCTURE PROJECT APPLICATION;
+2 VERMONT ECONOMIC PROGRESS COUNCIL
+3 (a) Application. A municipality, upon approval of its legislative body, may
+4 apply to the Vermont Economic Progress Council to use taxincrement
+5 financing for a housing infrastructure project.
+6 (b) Review. The Vermont Economic Progress Council may approve only
+7 applications meeting the process requirements, the project criterion, and any of
+8 the location criteria of this section.
+(b) Review. The Vermont Economic Progress Council may approve only
+applications that:
+(1) meet the process requirements, the project criterion, and any of the
+location criteria of this section; and
+(2) are submitted on or before December 31, 2035.
+9 (c) Process requirements. The Vermont Economic Progress Council shall
+10 review a municipality’s housing infrastructure project application to determine
+11 whether the municipality has:
+12 (1) created a housing infrastructure project and housing development
+13 site pursuant to section 1908 of this subchapter;
+14 (2) executed a housing infrastructure agreement for the housing
+15 infrastructure project adhering to the standards of section 1909 of this
+16 subchapter with a developer and, if the municipality is not financing the
+17 housing infrastructure project itself, a sponsor; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 37 of 54
+1 (3) approved or pledged to use incremental municipal taxrevenues for
+2 the housing infrastructure project in the proportion provided for municipal tax
+3 revenues in section 1910c of this subchapter.
+4 (d) Project criterion. The Vermont Economic Progress Council shall
+5 review a municipality’s housing infrastructure project application to determine
+6 whether the projected housing development includes affordable housing.
+7 (e) Location criteria. The Vermont Economic Progress Council shall
+8 review a municipality’s housing infrastructure project application to determine
+9 whether the housing development site is located within one of the following
+10 areas:
+11 (1) an area designated Tier 1A or Tier 1B pursuant to 10 V.S.A. chapter
+12 151 (State land use and development plans) or an area exempt from the
+13 provisions of that chapter pursuant to 10 V.S.A. § 6081(dd) (interim housing
+14 exemptions);
+15 (2) an area designated Tier 2 pursuant to 10 V.S.A. chapter 151 (State
+16 land use and development plans) or an area in which the housing development
+17 site is compatible with regional and town land use plans as evidenced by a
+18 letter of support from the regional planning commission for the municipality;
+19 or
+20 (3) an existing settlement or an area within one-half mile of an existing
+21 settlement, as that term is defined in 10 V.S.A. § 6001(16).
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 38 of 54
+1 (f) Taxincrement financing plan. The Vermont Economic Progress
+2 Council shall approve a municipality’s taxincrement financing plan prior to a
+3 sponsor’s incurrence of debt for the housing infrastructure project, including,
+4 if the sponsor is a municipality, prior to a public vote to pledge the credit of
+5 the municipality under section 1910a of this subchapter. The taxincrement
+6 financing plan shall include:
+7 (1) a statement of costs and sources of revenue;
+8 (2) estimates of assessed values within the housing development site;
+9 (3) the portion of those assessed values to be applied to the housing
+10 infrastructure project;
+11 (4) the resulting taxincrements in each year of the financial plan;
+12 (5) the amount of bonded indebtedness or other financing to be
+13 incurred;
+14 (6) other sources of financing and anticipated revenues; and
+15 (7) the duration of the financial plan.
+16 § 1910a. INDEBTEDNESS
+17 (a) A municipality approved for taxincrement financing under section
+18 1910 of this subchapter may incur indebtedness against revenues of the
+19 housing development site at any time during a period of up to five years
+20 following the creation of the housing development site. The Vermont
+21 Economic Progress Council may extend this debt incursion period by up to
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 39 of 54
+1 three years. If no debt is incurred for the housing infrastructure project during
+2 the debt incursion period, whether by the municipality or sponsor, the housing
+3 development site shall terminate.
+4 (b) Notwithstanding any provision of any municipal charter, each instance
+5 of borrowing by a municipality to finance or otherwise pay for a housing
+6 infrastructure project shall occur only after the legal voters of the municipality,
+7 by a majority vote of all voters present and voting on the question at a special
+8 or annual municipal meeting duly warned for the purpose, authorize the
+9 legislative body to pledge the credit of the municipality, borrow, or otherwise
+10 secure the debt for the specific purposes so warned.
+11 (c) Any indebtedness incurred under this section may be retired over any
+12 period authorized by the legislative body of the municipality.
+13 (d) The housing development site shall continue until the date and hour the
+14 indebtedness is retired or, if no debt is incurred, five years following the
+15 creation of the housing development site.
+16 (e) A municipal legislative body shall provide information to the public
+17 prior to the public vote required under subsection (b) of this section. This
+18 information shall include the amount and types of debt and related costs to be
+19 incurred, including principal, interest, and fees; terms of the debt; the housing
+20 infrastructure project to be financed; the housing development projected to
+21 occur because of the housing infrastructure project; and notice to the voters
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 40 of 54
+1 that if the taxincrement received by the municipality from any property tax
+2 source is insufficient to pay the principal and interest on the debt in any year,
+3 the municipality shall remain liable for the full payment of the principal and
+4 interest for the term of the indebtedness. If interfund loans within the
+5 municipality are used, the information must also include documentation of the
+6 terms and conditions of the loan.
+7 (f) If interfund loans within the municipality are used as the method of
+8 financing, no interest shall be charged.
+9 (g) The use of a bond anticipation note shall not be considered a first
+10 incurrence of debt pursuant to subsection (a) of this section.
+11 § 1910b. ORIGINALTAXABLE VALUE; TAX INCREMENT
+12 (a) As of the date the housing development site is created, the lister or
+13 assessor for the municipality shall certify the original taxable value and shall
+14 certify to the legislative body in each year thereafter during the life of the
+15 housing development site the amount by which the total valuation as
+16 determined in accordance with 32 V.S.A. chapter 129 of all taxable real
+17 property within the housing development site has increased or decreased
+18 relative to the original taxable value.
+19 (b) Annually throughout the life of the housing development site, the lister
+20 or assessor shall include not more than the original taxable value of the real
+21 property in the assessed valuation upon which the treasurer computes the rates
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 41 of 54
+1 of all taxes levied by the municipality and every other taxing district in which
+2 the housing development site is situated, but the treasurer shall extend all rates
+3 so determined against the entire assessed valuation of real property for that
+4 year.
+5 (c) Annually throughout the life of the housing development site, a
+6 municipality shall remit not less than the aggregate education property taxdue
+7 on the original taxable value to the Education Fund.
+8 (d) Annually throughout the life of the housing development site, the
+9 municipality shall hold apart, rather than remit to the taxing districts, that
+10 proportion of all taxes paid that year on the real property within the housing
+11 development site that the excess valuation bears to the total assessed valuation.
+12 The amount held apart each year is the “taxincrement” for that year. The tax
+13 increment shall only be used for financing and related costs.
+14 (e) Not more than the percentages established pursuant to section 1910c of
+15 this subchapter of the municipal and State education taxincrements received
+16 with respect to the housing development site and committed for the payment
+17 for financing for improvements and related costs shall be segregated by the
+18 municipality in a special taxincrement financing account and in its official
+19 books and records until all capital indebtedness incurred for the housing
+20 infrastructure project has been fully paid. The final payment shall be reported
+21 to the treasurer, who shall thereafter include the entire assessed valuation of
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 42 of 54
+1 the housing development site in the assessed valuations upon which the
+2 municipal and other taxrates are computed and extended, and thereafter no
+3 taxes from the housing development site shall be deposited in the special tax
+4 increment financing account.
+5 (f) Notwithstanding any charter provision or other provision, all property
+6 taxes assessed within a housing development site shall be subject to the
+7 provisions of this section. Special assessments levied under chapter 76A or 87
+8 of this title or under a municipal charter shall not be considered property taxes
+9 for the purpose of this section if the proceeds are used exclusively for
+10 operating expenses related to properties within the housing development site
+11 and not for improvements within the housing development site.
+12 § 1910c. USE OF TAX INCREMENT; RETENTION PERIOD
+13 (a) Uses of taxincrements. A municipality may apply taxincrements
+14 retained pursuant to this subchapter to debt incurred within the period
+15 permitted under section 1910a of this subchapter, to related costs, and to the
+16 direct payment of the cost of a housing infrastructure project. Any direct
+17 payment shall be subject to the same public vote provisions of section 1910a
+18 of this subchapter as apply to debt.
+19 (b) Education property taxincrement. Up to 80 percent of the education
+20 property taxincrement may be retained for up to 20 years, beginning the first
+21 year in which debt is incurred for the housing infrastructure project. Upon
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 43 of 54
+1 incurring the first debt, a municipality shall notify the Department of Taxes
+2 and the Vermont Economic Progress Council of the beginning of the retention
+3 period of the education property taxincrement.
+4 (c) Municipal property taxincrement. Not less than 100 percent of the
+5 municipal property taxincrement may be retained, beginning the first year in
+6 which debt is incurred for the housing infrastructure project.
+7 (d) Excess taxincrement.
+8 (1) Of the municipal and education property taxincrements received in
+9 any taxyear that exceed the amounts committed for the payment of the
+10 financing and related costs for a housing infrastructure project, equal portions
+11 of each increment may be retained for the following purposes:
+12 (A) to prepay principal and interest on the financing;
+13 (B) to place in a special taxincrement financing account required
+14 pursuant to subsection 1910b(e) of this subchapter and use for future financing
+15 payments; or
+16 (C) to use for defeasance of the financing.
+17 (2) Any remaining portion of the excess education property tax
+18 increment shall be distributed to the Education Fund. Any remaining portion
+19 of the excess municipal property taxincrement shall be distributed to the city,
+20 town, or village budget in the proportion that each budget bears to the
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 44 of 54
+1 combined total of the budgets unless otherwise negotiated by the city, town, or
+2 village.
+3 § 1910d. INFORMATION REPORTING
+4 (a) A municipality with an active housing infrastructure project shall:
+5 (1) develop a system, segregated for the housing infrastructure project,
+6 to identify, collect, and maintain all data and information necessary to fulfill
+7 the reporting requirements of this section;
+8 (2) provide timely notification to the Department of Taxes and the
+9 Vermont Economic Progress Council of any housing infrastructure project
+10 debt, public vote, or vote by the municipal legislative body immediately
+11 following the debt incurrence or public vote on a form prescribed by the
+12 Council, including copies of public notices, agendas, minutes, vote tally, and a
+13 copy of the information provided to the public pursuant to subsection 1910a(e)
+14 of this subchapter; and
+15 (3) annually on or before February 15, submit on a form prescribed by
+16 the Vermont Economic Progress Council an annual report to the Council and
+17 the Department of Taxes, including the information required by subdivision (2)
+18 of this subsection if not previously submitted, the information required for
+19 annual audit under section 1910e of this subchapter, and any information
+20 required by the Council or the Department of Taxes for the report required
+21 pursuant to subsection (b) of this section.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 45 of 54
+1 (b) Annually on or before April 1, the Vermont Economic Progress
+2 Council and the Department of Taxes shall submit a report to the Senate
+3 Committees on Economic Development, Housing and General Affairs and on
+4 Finance and the House Committees on Commerce and Economic Development
+5 and on Ways and Means on housing infrastructure projects approved pursuant
+6 to this subchapter, including for each of the following:
+7 (1) the date of approval;
+8 (2) a description of the housing infrastructure project;
+9 (3) the original taxable value of the housing development site;
+10 (4) the scope and value of projected and actual improvements and
+11 developments in the housing development site, including the number of
+12 housing units created;
+13 (5) the number and types of housing units for which a permit is being
+14 pursued under 10 V.S.A. chapter 151 (State land use and development plans)
+15 and, for each applicable housing development, the current stage of the
+16 permitting process;
+17 (56) projected and actual incremental revenue amounts;
+18 (67) the allocation of incremental revenue; and
+19 (78) projected and actual financing.
+20 (c) On or before January 15, 2035, the Vermont Economic Progress
+21 Council shall submit a report to the Senate Committees on Economic
+22 Development, Housing and General Affairs and on Finance and the House
+23 Committees on Commerce and Economic Development and on Ways and
+24 Means evaluating the success of the Community and Housing Infrastructure
+25 Program in achieving its purpose, as stated in section 1907 of this chapter,
+26 including by identifying the amount and kinds of housing produced through the
+27 Program and by determining whether housing development pursued through
+28 the Program meets the project criterion and location criteria of section 1910 of
+29 this chapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 46 of 54
+1 § 1910e. AUDITING
+2 Annually on or before April 1 until the year following the end of the period
+3 for retention of education property taxincrement, a municipality with a
+4 housing infrastructure project approved under this subchapter shall ensure that
+5 the special taxincrement financing account required by section 1910b of this
+6 subchapter is subject to the annual audit prescribed in section 1681 or 1690 of
+7 this title and submit a copy to the Vermont Economic Progress Council. If an
+8 account is subject only to the audit under section 1681 of this title, the Council
+9 shall ensure a process is in place to subject the account to an independent
+10 audit. Procedures for the audit must include verification of the original taxable
+11 value and annual and total municipal and education property taxincrements
+12 generated, expenditures for financing and related costs, and current balance.
+13 § 1910f. GUIDANCE
+14 (a) The Secretary of Commerce and Community Development, after
+15 reasonable notice to a municipality and an opportunity for a hearing, may issue
+16 decisions to a municipality on questions and inquiries concerning the
+17 administration of housing infrastructure projects, statutes, rules,
+18 noncompliance with this subchapter, and any instances of noncompliance
+19 identified in audit reports conducted pursuant to section 1910e of this
+20 subchapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 47 of 54
+1 (b) The Vermont Economic Progress Council shall prepare
+2 recommendations for the Secretary of Commerce and Community
+3 Development prior to any decision issued pursuant to subsection (a) of this
+4 section. The Council may prepare recommendations in consultation with the
+5 Commissioner of Taxes, the Attorney General, and the State Treasurer. In
+6 preparing recommendations, the Council shall provide a municipality with a
+7 reasonable opportunity to submit written information in support of its position.
+8 (c) The Secretary of Commerce and Community Development shall review
+9 the recommendations of the Council and issue a final written decision on each
+10 matter within 60 days following receipt of the recommendations. The
+11 Secretary may permit an appeal to be taken by any party to a Superior Court
+12 for determination of questions of law in the same manner as the Supreme
+13 Court may by rule provide for appeals before final judgment from a Superior
+14 Court before issuing a final decision.
+15 (d) The Vermont Economic Progress Council may adopt rules that are
+16 reasonably necessary to implement this subchapter.
+17 Sec. 17. 32 V.S.A. § 3325 is amended to read:
+18 § 3325. VERMONT ECONOMIC PROGRESS COUNCIL
+19 (a) Creation. The Vermont Economic Progress Council is created to
+20 exercise the authority and perform the duties assigned to it, including its
+21 authority and duties relating to:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 48 of 54
+1 (1) the Vermont Employment Growth Incentive Program pursuant to
+2 subchapter 2 of this chapter; and
+3 (2) taxincrement financing districts pursuant to 24 V.S.A. chapter 53,
+4 subchapter 5 and section 5404a of this title; and
+5 (3) housing infrastructure taxincrement financing pursuant to 24 V.S.A.
+6 chapter 53, subchapter 7.
+7 * * *
+8 (g) Decisions not subject to review. A decision of the Council to approve
+9 or deny an application under subchapter 2 of this chapter, or to approve or
+10 deny a taxincrement financing district pursuant to 24 V.S.A. chapter 53,
+11 subchapter 5 and section 5404a of this title, or to approve or deny a housing
+12 infrastructure project pursuant to 24 V.S.A. chapter 53, subchapter 7 is an
+13 administrative decision that is not subject to the contested case hearing
+14 requirements under 3 V.S.A. chapter 25 and is not subject to judicial review.
+* * * Smoke and Carbon Monoxide Alarms * * *
+Sec. 17a. 9 V.S.A. chapter 77 is amended to read:
+CHAPTER 77. SMOKE DETECTORS ALARMS AND CARBON MONOXIDE
+DETECTORS ALARMS
+§ 2881. DEFINITIONS
+As used in this chapter:
+* * *
+(2) “Smoke detector alarm” means a device that detects visible or
+invisible particles of combustion and sounds a warning alarm, is operated
+from a power supply within the unit or wired to it from an outside source, and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 49 of 54
+is approved or listed for the purpose by Underwriters Laboratory or by
+another nationally recognized independent testing laboratory.
+(3) “Carbon monoxide detector alarm” means a device with an
+assembly that incorporates a sensor control component and an alarm
+notification that detects elevations in carbon monoxide levels and sounds a
+warning alarm, is operated from a power supply within the unit or wired to it
+from an outside source, and is approved or listed for the purpose by
+Underwriters Laboratory or by another nationally recognized independent
+testing laboratory.
+§ 2882. INSTALLATION
+(a) A person who constructs a single-family dwelling shall install
+photoelectric-only-type photoelectric-type or UL 217 compliant smoke
+detectors alarms in the vicinity of any bedrooms and on each level of the
+dwelling, and one or more carbon monoxide detectors alarms in the vicinity of
+any bedrooms in the dwelling in accordance with the manufacturer’s
+instructions. In a dwelling provided with electrical power, detectors alarms
+shall be powered by the electrical service in the building and by battery.
+(b) Any single-family dwelling when transferred by sale or exchange shall
+contain photoelectric-only-type photoelectric-type or UL 217 compliant smoke
+detectors alarms in the vicinity of any bedrooms and on each level of the
+dwelling installed in accordance with the manufacturer’s instructions and one
+or more carbon monoxide detectors alarms installed in accordance with the
+manufacturer’s instructions. A single-family dwelling constructed before
+January 1, 1994 may contain smoke detectors alarms powered by the electrical
+service in the building or by battery, or by a combination of both. In a single-
+family dwelling newly constructed after January 1, 1994 that is provided with
+electrical power, smoke detectors alarms shall be powered by the electrical
+service in the building and by battery. In a single-family dwelling newly
+constructed after July 1, 2005 that is provided with electrical power, carbon
+monoxide detectors alarms shall be powered by the electrical service in the
+building and by battery.
+(c) Nothing in this section shall require an owner or occupant of a single-
+family dwelling to maintain or use a smoke detector alarm or a carbon
+monoxide detector alarm after installation.
+§ 2883. REQUIREMENTS FOR TRANSFER OF DWELLING
+(a) The seller of a single-family dwelling, including one constructed for
+first occupancy, whether the transfer is by sale or exchange, shall certify to the
+buyer at the closing of the transaction that the dwelling is provided with
+photoelectric-only-type photoelectric-type or UL 217 compliant smoke
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 50 of 54
+detectors alarms and carbon monoxide detectors alarms in accordance with
+this chapter. This certification shall be signed and dated by the seller.
+(b) If the buyer notifies the seller within 10 days by certified mail from the
+date of conveyance of the dwelling that the dwelling lacks any photoelectric-
+only-type photoelectric-type or UL 217 compliant smoke detectors alarms, or
+any carbon monoxide detectors alarms, or that any detector alarm is not
+operable, the seller shall comply with this chapter within 10 days after
+notification.
+* * *
+Sec. 17b. 20 V.S.A. § 2731 is amended to read:
+§ 2731. RULES; INSPECTIONS; VARIANCES
+* * *
+(j) Detectors Alarms. Rules adopted under this section shall require that
+information written, approved, and distributed by the Commissioner on the
+type, placement, and installation of photoelectric photoelectric-type or UL 217
+compliant smoke detectors alarms and carbon monoxide detectors alarms be
+conspicuously posted in the retail sales area where the detectors alarms are
+sold.
+* * *
+1 * * * Taxes * * *
+2 Sec. 18. 32 V.S.A. § 5811(21)(C) is amended to read:
+3 (C) decreased by the following exemptions and deductions:
+4 * * *
+5 (iv) an amount equal to the itemized deduction for medical
+6 expenses taken at the federal level by the taxpayer, under 26 U.S.C. § 213:
+7 (I) minus the amount of the Vermont standard deduction and
+8 Vermont personal exemptions taken by the taxpayer under this subdivision (C);
+9 and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 51 of 54
+1 (II) minus any amount deducted at the federal level that is
+2 attributable to the payment of an entrance fee or recurring monthly payment
+3 made to a continuing care retirement community regulated under 8 V.S.A.
+4 chapter 151, which exceeds the deductibility limits for premiums paid during
+5 the taxable year on qualified long-term care insurance contracts under 26
+6 U.S.C. 213(d)(10)(A).
+7 Sec. 19. 32 V.S.A. § 3800 is amended to read:
+8 § 3800. STATUTORY PURPOSES
+9 * * *
+10 (r) The statutory purpose of the exemption under section 3851 of this title
+11 for certain new construction and improvements is to incentivize those
+12 activities.
+13 Sec. 20. 32 V.S.A. § 3851 is added to read:
+14 § 3851. NEW ACCESSORY DWELLING UNITS AND CERTAIN
+15 PROPERTY IMPROVEMENTS
+16 (a) An increase in the appraisal value of a property shall be exempted from
+17 property taxation by fixing and maintaining the taxable value at the property’s
+18 grand list value in the year immediately preceding improvements in the
+19 following cases:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 52 of 54
+1 (1) the property has been rehabilitated or improved using a grant or loan
+2 from the Vermont Housing Improvement Program and construction has been
+3 fully completed in the previous 12 months; or
+4 (2) the property has been improved through the construction of a new
+5 accessory dwelling unit, as defined by 24 V.S.A. § 4303(38), and construction
+6 has been fully completed in the previous 12 months.
+7 (b) A decrease in appraisal value of a property subject to this exemption
+8 due to damage or destruction from fire or act of nature may reduce the
+9 property’s taxable value below the fixed value under subsection (a) of this
+10 section.
+11 (c) The exemption under this section shall apply to the State education
+12 property taximposed under chapter 135 of this title and to municipal property
+13 tax.
+14 (d) An exemption under this section shall remain in effect for three years.
+15 When the exemption period ends, the property shall be taxed at its most
+16 recently appraised grand list value.
+17 * * * Appropriations * * *
+18 Sec. 21. APPROPRIATIONS
+19 The following shall be appropriated from the General Fund in fiscal year
+20 2026:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 53 of 54
+1 (1) The sum of $45,600,000.00 to the Department of Housing and
+2 Community Development for the following purposes:
+3 (A) $15,000,000.00 granted to the Vermont Housing Finance Agency
+4 to continue implementation of the Middle-Income Homeownership
+5 Development Program;
+6 (B) $15,000,000.00 granted to the Vermont Housing Finance Agency
+7 to continue implementation of the Rental Housing Revolving Loan Fund;
+8 (C) $9,100,000.00 granted to the Vermont Bond Bank to implement
+9 the Vermont Infrastructure Sustainability Fund;
+10 (D) $4,000,000.00 for the rehabilitation of eligible rental housing
+11 units under the Rental Housing Improvement Program established in 10 V.S.A.
+12 § 699;
+13 (E) $2,000,000.00 to improve mobile home park infrastructure under
+14 the Manufactured Home Improvement and Repair Program established in 10
+15 V.S.A. § 700; and
+16 (F) $500,000.00 for grants to be made for the purpose of providing
+17 homebuyer education, financial literacy counseling, and foreclosure prevention
+18 programs operated by the five NeighborWorks America affiliated
+19 HomeOwnership Centers.
+20 (2) The sum of $100,000.00 to the State Treasurer to implement the
+21 Positive Rental Payment Pilot Program.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.127
+2025 Page 54 of 54
+1 * * * Effective Date * * *
+2 Sec. 2218. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2025.
+* * * Effective Dates * * *
+Sec. 18. EFFECTIVE DATES
+This act shall take effect on July 1, 2025, except that Sec. 4 and this section
+shall take effect on passage.
+
+[DELETED: LASIDADPDBYSES5Pe1of5SIdbyCeonEcD,HgadGAD:Mh1,2S:H;hgp;cnadd;ldumlz;VtBdB;tnadf;tcStofpeofblasi:Tsblpstommecsrdtohgp.S,teblp0tomeastoteVtRlHgItP1adceteMdHeItadRrP,c2teVtIeSyF,awfrtxcsfrt3FnHradDnPtAeP,m4cstoteBdPyCpP,ceas5cerdtodyh,adremeh6r.TsblaypstoceteCyH7IeP,adbyteVtEcP8C,toaemstouetxitfgtopyf9iettwlsetedtofh0Anatrgtohgadhgd]
+[DELETED: LASIDADPDBYSES5Pe2of5ItishyedbyteGlAyofteSeofV***VtRlHgItPm**S.1.10V.§9isadtor§6.VTRLHGITP()CnofP**()TeDtmycewhadstfstoSasadglssadpcadpeoinortocyottepsoftssn(0()Sywhrstoasunpttot1sn(,e,igg,s,adcsoft2S,slbeetfmtepsof8V.cr73(3l,meb,melno,ssfec4adlnsnc5**6()Pmrsaetogsadfel7()Agtorlnslnte8()$0pru,frrnorcnofane9rlhgutmgteaebgayr0urteVtAsR;o]
+[DELETED: LASIDADPDBYSES5Pe3of5()$0pru,frrnorcnofayoeerlhgu.Uptoanal$0prutmybmeaefrscesttcybgteuttotvesdodintersadbyteVtAsB**()Pmrsaetogsadfrfl.FragtorfrfelnadthtePtefgrsayframmpdoffey()Aldslcewhnthgpsa0llcdeyhsseosadbyt1Dttoiyplt2()Etaspdinsn()oftss3sn(,aldslleteuttoahdtti4()egh,igayilur25y5ofaewosshgthamrlehdbyayhs6pronbfofisur25ysofa7()aywgwhanitorrer8p;o9()cdofatltoeilwhadyw0rsoriseeadtoreMdhea]
+[DELETED: LASIDADPDBYSES5Pe4of5cybdh-adcdssorSlSDyI()dddetoayrdtoceceordetonld;o()whalfmteDtinw,anottwlhdamrletteyssteutwlbeudiseoftepsddintssn(**()Aldmyctagttoafelnu0alofteDtadtehgonttadt1g2()Aldwocsagttoafelnslr3a1tpdctfrlnfsfrehyrinwht4ldpsinteP5()Rsaeto1rfel.Fra16felnadthteP,tefgr7ayframmpdof10y8()Aldslcewhnthgpsa9llcdeyostoiypltsTet0ctofrtfrteu,igusntcdbyrtp,s1ntedteaefrmtrtedbyteDto]
+[DELETED: LASIDADPDBYSES5Pe5of5HgadUnD,etttaldmyatahvrttesfrmtr,ifa()Etaspdinsn()oftssn(,ldslleteuttoahdtti()egh,igayilur25yofaewosshgthamrlehdbyayhspronbfofisur25ysofa()aywgwhanitorrerp;o0()cdofatltoeilwhadywoi1eetoreMdheadcybds2()I,unpnoftel,teDtorteh3onttidtegtdsttahdu4sn()oftssn()isntaetoleteu,t5teldslleteu6()toahdwhanieeltoorlstn80p7ofaamni;o8()ifshahdisu,toarhdw9tealofteDtorhgo0()Aldslatayhgvsttaea1topya,orapno,tetsrtadu]
+[DELETED: LASIDADPDBYSES5Pe6of5()IfnohgvrorflorSesyisa,tctofrtfrteu,igusntcdbyrtp,sntedteaefrmtrtedbyteDtoHgadUnD()TeDtslfe10ptofteapdatoafelnfrehyraldpsintelnp**()CnofteVtRlHgItPRgF.FsrdorrdtoteDtfmf0lsorgsfdbytePmslrntoteVtR1HgItRgFdtobeudfrPme2adaecsattednofteD3***MR**4S.2.10V.§0isadtor5§.VTMDHEITA6RRP7()TeiscdwnteDtofHgadC8DtteMdHeItadRrP.T9DtsldnadittePmtoadfgt0seorrlnthgo,orb,top1flaeorastomdhsadm]
+[DELETED: LASIDADPDBYSES5Pe7of5hepkostoieegh,ienwsbpfrpeh,adiepkisfrilomeh()TefgpsaeeefrfgthteP()TeDtmyadupto$0toosomdhgcstoceseclnsthpilvtlswhh,igdlofadh,lggadp,tesgadugofelbegE1syi,tghsotoffdz,a0igilscs.Csadurtss1myaocrllfsadmgtohpmeiterf2hstofdvtlsadteS3()TeDtmyadfgtomdh4frwhteheistrpyretoashya5ayistobgteheiocewhsel6c7()TeDtmyadupto$0prgtto8hrtopyfrafnorflDtofHga9UnDds,sep,s,t,a0uycsonvtlswnamdhec]
+[DELETED: LASIDADPDBYSES5Pe8of5()TeDtmyatr,p,adgstoadiegteP***VtIeSyFd**S.3.24V.cr1,sr6isadtorSr6.SlF**§.VTIESYF()C.TeiscdteVtIeSFdwnteVtBdB0()P.TepeofteFdistopecltoeda1iecyofwradsrseadorpciei2mswelkofenorcyisabrtoh3d4()A.TeVtBdBkmyarteFdi5cnwhadstfmorSea,g6ctp,adqla7()Pmp8()TeVtBdB,incnwhteDto9HgadCyD,sldppmgst0eyitteF]
+[DELETED: LASIDADPDBYSES5Pe9of5()Tepmslpeltlsorbstmstoediec.Eeasi()pyegadp()egdnadbds()cnfrmlweadwrs()tni,igterdbmlr,temsolm,dr,ororpgoregigcesadtnadttrdi,igi0toegs;a1()oreeasasddbytegsp2byteVtBdBkincnwhteDtofH3adCyD4()Anr.Eeptass5d6()teptwlcerecynyfrnwh7utd8()tepthsadtlktohgutp;a9()temyhsacttoonadoetep0ttisull]
+[DELETED: LASIDADPDBYSES5Pe10of5()Anc.Inantoaycaddintpmg,ptasslbeedugtefc()wrteisadtcntopdorihgdtwhdepstdrlht()wrteptisanenofanegsmadtpytoadda()teptrsadedteultendfrf0()tergoftecyonteVtDto1FeadM,VtCyI;a2()tednoffgfrptcnorc3ofaptc4()Adt.TeVtBdB,incnwht5DtofHgadCyD,sleha6tsttmyi7()temmlnorbda8()temmtmoftelnorbda9()tetebywhanslc0()temmitr]
+[DELETED: LASIDADPDBYSES5Pe11of5()wrtelniseefrfsadtowtpora()tenysyfrtelnorb;a()ayalcsegteidpstfrsetelnorb()Rgf.AyfsrdorrdfmteISyFdslbeddioteFdadudtocetpmedintss***VAFnHrPmadDnP0AePm**1S.4.32V.§uisadtor2§5.TXCTFRAEH3()D.Asudintss4**5()“nh”msahrwos6tttehrisani7()wepsorllg8()dontheaddgtehslehenth9ayrlopitinays;o0()ltopofahedetof,sts,o1duoffeadhentodahesettl;o]
+[DELETED: LASIDADPDBYSES5Pe12of5()wohsataytebnpdinfrc**()Cta()Inayfly,teagaymyadupt()$0intlfrctastoalafrrlhgp,franaeltof$0oragnfrpdttcsaeaeurtssn(()$0intlfrctasfrlsogsfrodutfgordnptlsasp0insn()oftssnctwhteanp1igfrnwcnadmdh,frana2ltof$0oraygnfrpdttcsa3aeurtssn(.Oftetlfrcta4meurtssn(,$0slbeudehflyrf5mdhepeadr6()$0intlfrctasfrgst7fehswoaeaofnhsaspdi8sn()oftss,franaeltof$9oraygnfrpdttcsaeaeurtss0(]
+[DELETED: LASIDADPDBYSES5Pe13of5()Ifteflatoffrcsadbyanadaenadtoat,teAymyrmteatntadardshastoora,adshrsslntbsttotelsstfhinsn()oftss()Cta;DnPtAeP()Inflyr26thflyr2,teagamyadupto$0intlfrctasfrlthteDnPtAePmcdinsn(oftss0()Inflyr20thflyr2,teaga1myadupto$0intlfrctasfrl2thteDnPtAePmcdinsn(3oftss4()Inflyr27thflyr2,teaga5myadupto$0intlfrctasfrl6thteDnPtAePmcdinsn(7oftss8S.4.[**VARlHgRgLnPm**.4.23AsadRsN.4,S.38isadtor.3.RLHGRGLNP)C;a.TeVtHgFeAysnaditaRlHgRgLnPmads]
+[DELETED: LASIDADPDBYSES5Pe14of5eadararglnfdtopesdlsflhgdsttsemeh)L;e;c*)TeAyslueoeormellmstoeet)asdutrsaetoahdegteptofaamniefrtelro)sny;o)flrtoftelnpstey;a)dgteaypdddpttn()oftssn(,tealieinrtfrdutdsntedteptoranatodbyteA****HgadRlSsPgCe**S.5.SEHGADRLSSPC;R()C.TeiscdteSeHgadRlSPgCetogeaSepntodphgfiswhdld()M.TeCeslbecdoftefm()oectmrofteHeofR,woslb0adbyteSrofteH1()oectmrofteS,woslbeadbyt2CeonC]
+[DELETED: LASIDADPDBYSES5Pe15of5()teSyofteAyofHnSsord()teCrofteDtofD,A,aItLgord()teCrofteDtofHgadCDtord()teSeTrord()oem,adbyteDlDsHI()teEeDrofteVtDlD0C1()oem,adbyGnMnS2()oem,adbyVtCeP;a3()oem,adbyteVtHgadC4B5()Psadd.TeCeslceanaepnt6dphgfriswhdldsttr7tedyofnsedbyteisadtrf8igiswhhtnswore2rcea9tewhsccnn.Tepnsli0()asefrtecnofatlt60alusofs1sdh]
+[DELETED: LASIDADPDBYSES5Pe16of5()tenraddnoftestnsofiswdldsadtobesda()adfgn;a()rsfrcsinSelsorpsttaostotedtofhgndbyiswhMfdhdcds()A.Frpsofsgmsadprdl,teCeslheteaeoftOeofLeOsadteOeofLeC0()R.OnorbeNr1,2,teCesls1awnrttoteHeCsonGladHgado2HnSsadteSeCsonEcD3HgadGlAsadonHhadWewhisfsa4ayrsfrlea5()M6()TeSyofHnSsslclteftmgoft7CetooronorbeJy1,28()TeCeslstacrfmagismsatt9ftm0()Amyoftempslceaq1()TeCeslcetoetonNr3,2]
+[DELETED: LASIDADPDBYSES5Pe17of5()Cnadr.FraeatmsdatofteGlA,alemrofteCsgintemscyasalrslbeedtoprdcnadrtofesptto2.§3fntmetnfem.TepsslbemefmmadtoteGlA***HgadPcAnPs**S.6.9V.§1isadtor§4.D0Asudintsc1**2()“”mstoeeinuectttd3f,u,oriswhap4()ueofapeofpcanorayoft5a,a,f,orpsofapeofp6anbeoftepsr,c,c,nlo7c,mls,s,slo,gri,ord8o9()t,c,p,orpsinteseo0rlofadgororrle,orintepnofsso1fsincnwhadgororrle,beoft]
+[DELETED: LASIDADPDBYSES5Pe18of5psr,s,slo,gri,a,mlsrsc,c,nlo,c,ord,orbetpnistooyadgwhoeormemrc,obetepnisartofpca,orbetepnisvmofa,sla,ors**S.7.9V.§2isadtor§4.PCA()Anorororofapeofpcanorana0oreeofshorororsln,beofter,c1c,nlo,c,ins,mls,s2slo,orgriyofayp,r,wdf,o3dytottpnayoftea,a,f,a4psoftepeofpca5**6S.8.9V.§3isadtor7§4.URHGP8()Itslbeulfrayp9()Toretoslorr,orretonefrteseorr0o,oroemeueord,adgororrleet1aypnbeofter,s,slo,gri,a]
+[DELETED: LASIDADPDBYSES5Pe19of5mls,rsc,c,nlo,c,ordofap,orbeapnistooyadgwhoeormmrc,orbeapnisartofpca,obeapnisavmofa,sla,ors()Todea,ortoh,aypnintetc,p,adpsofteseorrlofadgoorrle,orintepnofssorfsincnwadgororrle,beofter,s,slogri,a,mls,rsc,c,nlo0c,ordyofap,orbeapnistooy1dgwhoeormemrc,orbeapnisarto2pca,orbeapnisavmofa,sla,o3s4()Tom,p,orp,orcetobem,p,o5pdayn,s,ora,whrttoteseo6rlofadgororrleettisayp7l,ordnbdonr,s,slo,g8i,a,mls,rsc,c,nlo,c9ordyofap,orbeapnistooyadgw0oeormemrc,orbeapnisartofp1a,orbeapnisavmofa,sla,ors]
+[DELETED: LASIDADPDBYSES5Pe20of5()Torttoaypnbeofter,s,so,gri,a,mls,rsc,c,no,c,ordyofap,orbeapnistoyadgwhoeormemrc,orbeapnisrtofpca,orbeapnisavmofa,sa,ors,ttaydgororrleeisntaefi,s,orrlwntedgorrleeisinftsa**0()Todeataypnintemgorpgo1lsorpgorflaefrrdt2orintes,b,oragofrlrlp,b3ofter,s,slo,gri,a,mls4rsc,c,nlo,c,ordyofap,o5beapnistooyadgwhoeormem6c,orbeapnisartofpca,orbe7pnisavmofa,sla,ors8()Toeeinbgp,frp,whmyi9igoragtoieapntoslorrtadgb0rsrgteeyiotendofapno1psofaprr,s,slo,gri,a]
+[DELETED: LASIDADPDBYSES5Pe21of5mls,rsc,c,nlo,c,ordofap,orbeapnistooyadgwhoeormmrc,orbeapnisartofpca,obeapnisavmofa,sla,ors()Todyaypnastoormporpninamelgs,rleeb’o,ororso,orfyrgtotebsofsgorrgdortodeataypnintetsorcsofsham,orp,onatofr,s,slo0gri,a,mls,rsc,c,nlo1c,ordyofap,orbeapnisarto2pca,orbeapnisavmofa,sla,o3s4**5()Todeinlduedsorintepgo6hgbeofr,s,slo,gri,a,m7s,rsc,c,nlo,c,d,t8peofoeormemrc,i,orbeofterto9pca,orbeapnisavmofa,sla,o0s,etasoepdbyl1**]
+[DELETED: LASIDADPDBYSES5Pe22of5()Ifrdbyfll,tevnofinsssntceavnofsn()oftssnwhrttotseadrlofd***LBAsSy**S.9.24AsadRsN.1,S.1aisadtorS.1.AT20ASS()OnorbeJy1,26Nr1,2,teLdURwBdslieartegwrtotrasoptdsadjlosidptto10V0cr11toteLdUeRwBdorwrtysdrna1teElDnofteSrC.TeBdslce2srgpttatammslbecdofareo3eli,asttpeela4dtlwinV,teVtLeofCsadT,t5VtAnofPgadDtA,teV6CrofC,teLdAsadOyB,teOeo7RlE,teVtAnofR,areofn8pthgdti,areoffth9dti,areofcldti0anerwheeind,teAyofCea1CyD,adteAyofNlRsinp]
+[DELETED: LASIDADPDBYSES5Pe23of5ter.TeBdslpeneoftesrmsoniweadehmgslpetefrpcc()Tertslatmmr()wrWrtoawcnofasatteB,owhteElDnofteSrC,adh,iwtrsteBdwdn,iftdtoteB,asoptdsidur24V.cr17adteAyoNlRscnbecdwhAt20a()hwHwtopeadeeteanofa0rdtohgp,igteueofhgostoe1asadtesgoftsfrpgofhga2()plPlrstognteBsano3At20adteanofasofAt20d.Ter4sliepstoceafladeeayplf5cswhteBdmgasadigptdsa6jlo;a7()orOrasteBdsdtetopetee8adeeanofa,igaypli9toteAt20pgpsadjlona]
+[DELETED: LASIDADPDBYSES5Pe24of5()TertslbesdtoteSeCsonED,HgadGlAsadonNlRsaEyadteHeCeonEtadE***Bs**S.1.10V.§6cisadtor§6.MTOFDTS()Mtofdts.Ngayorsoftscrtotec,dtssmybmdatalnpdpttoanitwee0alanidpttoteSdWeMtR1ttc,atam,tef2()tedtssaegdfmahsmss3mdpttoaceanpnoraslmtp4adbyteS5()tedtsshebntdfra,l,a6pchspttoamgpnadbyt7Syttestttessdontlhaeg8ets9()telnwetessaemdisaefrt0atadteofmlbgm1()tessaecdinamradbyteS]
+[DELETED: LASIDADPDBYSES5Pe25of5()ayayttmydbtedtssatteplnslbecdpttoaslmtpnadbteS;a()tepefsardneofwetessaemditeldr**S.1.RTONTESSOFMTODTS()AsptofteblrttoteHeCeonE0adteSeCeonNlRsadEyur10V1§,teSyofNlRsslrtontessoft2mtofdtssinteSeur10V.§.T3rtsli4()tenrofitweetala5idbyteSyintepstoysfrtemto6dts7()tenrofcdclsdwefsogi8teSefrtemtofdts9()asyofhwtemyofdtssinteSea0bgm]
+[DELETED: LASIDADPDBYSES5Pe26of5()aneeoftecttomedts,dgomtm;a()ayalinteSydsrttotmtofdtssinteS()Asudintss,“ts”hstesemgasi10V.§S.1.10V.§1isadtor§6.BDPYCPP;CP0()TeiscdteBdPyCpPmtoe1cnidpstortteaeofteSytor2adoewkpsfri,a,r,r,a3mgapyineefrpnfmcnlsu4sn65oftst.TePmslbeadbyteS5wos6**7()Wncgayrwrdbytss,teS8slpeterwofrnatasettcsh9S.1.BSPSI;R0OnorbeNr1,2,teSyofNlRss1rttoteHeCsonEtadonGladH]
+[DELETED: LASIDADPDBYSES5Pe27of5adteSeCsonEcD,HgadGAsadonNlRsadEywhpstometPmedptto10V.cr1,sr(sreadlyl)symee.Atm,tertsliebhoftef()Asyofssintebspmtoiasttptcstotertofcdpwhafsonrtfrh.TeSyslprstoretec0()Anasofssadwsofigal1seplpmwnteS.TeSyslme2rnonwrshapmsdbei.Ift3Syrsi,tertslieaycst4seorbtndtoittsp5S.1.23AsadRsN.7,S.B,asadby26AsadRsN.8,S.4,isfradtor7S.B3CEADET–FLYR28OEA9**0()Inflyr2,teatof$0GlFdi1adtoteDtofElCnE]
+[DELETED: LASIDADPDBYSES5Pe28of5CyFdedptto10V.§13frtBsReadElLyLnAtascdi10V.cr1.Fsslbeudfrteatadcp,adcpofbss**S.1.BDFTesmof$0isadfmteGlFdtotBdRnFdedin10V.§.TeAofCeadCyDtsladteato0$0inflyr26torlpgcsfrt1psofbsa.Inagfsurtss,t2SyofCeadCyD,incnw3teVtAnofPgadDtA,sls4oerlpgcntoartef.Toe5sea,tesdrlpgcns6sttorlpgcswhbdp,w7ntmetn10ptoftefsbgudfraep8S.1.[9***TxItFg**0S.1.24V.cr5,sr7isadtor1Sr7.CyadHgIeP]
+[DELETED: LASIDADPDBYSES5Pe29of5§.DAsudintss()“eh”mseroftef()Odhgfrwhtetlalctoo,igp,i,t,i,adcanf,dsnted30ptoftegsalieofhdat10ptoftehtoftef()tecymni,asddbyteU.DofHgadUnD0()tesdmnslaamnieift1myisldinshana,asddbyteU.Dto2HgadUnD;o3()tesemni,asddbyteU4DtofHgadUnD5()Rlhgfrwhtetlalctofr6igr,u,adcmanf,dsnted37ptoftegsalieofahdat10ptoft8htoftef9()tecymni,asddbyteU.D0ofHgadUnD]
+[DELETED: LASIDADPDBYSES5Pe30of5()tesdmnslaamnieiftmyisldinshana,asddbyteU.DtoHgadUnD;o()tesemni,asddbyteUDtofHgadUnD()“”msapyonwhtepeorppeofahsm,p,orctcste,d,r,orreoftep()“”mspdadadfrtepeo0tectadfeptoffgadrdc1()“”mstepnugtoctah2d3()“”msd,igp,i,adayf4orcsdyrdtottd,idbyas,oro5isorbgudbyas,topyfrahgi6pta,inteceofasrttisam,adbyt7mypttosn1aoftss8()“gd”mstecnofoeorm9bsttisaeh]
+[DELETED: LASIDADPDBYSES5Pe31of5()“gdts”msteplorpegahgdtasadbyamyptosn18oftss()“giea”msalybattofeaddpahgieptadtctahgdtagam,ad,a,ia,atys()“giep”msoeormeiadbyamypttosn18oftss0()“”m1()teinorcnofiettwlse2pcgdadfltepeofhgietxi3fgassdinsn17oftss,igu,d4i,t,pcr,cladi5f,p,pcfsada,ldadpya6add,bdr,sep,adf7rnadm;a8()tefgofdtseitpsfrapdofu9tofry,bgontedeonwhtedtisfti]
+[DELETED: LASIDADPDBYSES5Pe32of5()“eb”mstemrada,tecc,tes,adteptadtsofaniv,asa()“”msac,t,oridv()“ltev”mstetlvnasdinaewh32V.cr19ofalterlpylwnahgdtseasofiscnd,pdttnplwntehgdtseslbeddorb()“dc”msesidadpdby0m,eeoftealctofcgadf1i,ttaedyrdtotecnadino2temshgiep,igrto3sspyadbytemyfrtep.R4csmyiedtmlesshasdlorp5csrdtocgoragtehgieptt6teettyaepdfmtetxitrdfmmla7ntentsadugoyttpnoftemli8aeteperdfrsgdtasddina9whsn1)oftss0()“”mstepnugtofeah1iep.Ayofam,ad,orani]
+[DELETED: LASIDADPDBYSES5Pe33of5ayttmsSelgssmyseasasrfrahiep§.PTepeofhgietxitfgistoprsfrisadrdcstosehgdinV§.Pepeofhgietxitfgistopsfrisadrdcstoeetedtoyrsfrhsoflwormei§.CNOFHGIEPTAHGDTS0()Telebyofamymycewnisj1ahgiep,whslctofist2setedtofh,adahgdts,w3slctofteplorpsonwhahgdti4idorcdadayiycsp5()Toceahgieptadhgd6s,am,incnwhs,s7()dpahgdtp,i8()adnoftepdhgiep,t9pdhgd,adtepdhgdts0()inofas]
+[DELETED: LASIDADPDBYSES5Pe34of5()atxitfgpnmgtessosn1)oftss()apofapnofedcsoftepdhiep()apnoftetxittobegdbytephgd;a()adtsettisal,acte,adsefrtepdhgieptadtephgd0()dpapndgtehgdtsebyi1bsadtepst,ed“dH2DtSe(ln,V3()hdoeormepch,arpcn,ont4pdhgiep,igtepsd5pttotss;a6()atbyatoftelebyoftemytep7ddursn()oftss,whslber8whtemlckadlrora9()Tecnofahgdtseslorat11a.o0Al1oftecryrinwhteVtEcPsC]
+[DELETED: LASIDADPDBYSES5Pe35of5asteueoftxitfgfrtehgiptpttosn10oftss§.HGIEA()Tehgieatfrahgipts()cyiytesrfrtehgiep()cyiytedradtehgdtfrthgdts()oetetxisrdpttosn1coft0srfrntmetntefgadrdcsfrteh1iep;a2()pefrpeastoryset3osofalpsurtehgiea4()Amyslpeneoftetsofteh5ieatfrtemshgiep6totellvsoftemyadslpetesei7asstfhinsn1)oftss]
+[DELETED: LASIDADPDBYSES5Pe36of5§.HGIEPTAVTECPSC()A.Am,unalofisleb,maytoteVtEcPsCltouetxifgfrahgiep()R.TeVtEcPsClmyaeoasmgtepsr,teptc,adayotelncaoftss)R.TeVtEcPsClmyaeost)mttepsr,teptc,adayoftncaoftss;a)aesdonorbeDr3,2()Psr.TeVtEcPsCls0rwamshgieptantod1wrtemyh2()cdahgieptadhgd3septtosn18oftss4()edahgieatfrteh5ieptagtotessofsn19oft6srwhadra,iftemyisntfgt7hgiepti,as;a]
+[DELETED: LASIDADPDBYSES5Pe37of5()adorpdtoueilmltxrsftehgieptintepnpdfrmltrsinsn1coftss()Ptc.TeVtEcPsClsrwamshgieptantodwrtepdhgdtisaeh()Lnc.TeVtEcPsClsrwamshgieptantodwrtehgdtseisldwnoeoftef0a1()anaaddTr1AorTr1Bptto10V.c211(eldueaddtp)oranaaetfmt3psofttcrptto10V.§)(mh4e5()anaaddTr2ptto10V.cr11(6ldueaddtp)oranaainwhtehgd7seiscewhrladtnlduepsasedby8lrofstfmterlpgcnfrtem9o0()anegstoranaawnofmeofane1s,astttmisddin10V.§]
+[DELETED: LASIDADPDBYSES5Pe38of5()Txitfgp.TeVtEcPClslaeamstxitfgpnprtossieofdtfrtehgiep,iiftesrisam,prtoapcvetopetectotemyursn1aoftss.Tetxifgpnsli()astofcsadssofr()esofadvswntehgdts()tepnofteadvstobeadtoteh0iep1()tergtxisinehyrofteflp2()teatofbdisororfgtob3i4()orssoffgadadr;a5()tednofteflp6§.I7()Amyadfrtxitfgurs810oftssrmyirisatrsoft9hgdtseataytedgapdofuptofey0fgtecnoftehgdts.TeV1EcPsClmyedtsdtinpdbyupt]
+[DELETED: LASIDADPDBYSES5Pe39of5tey.Ifnodtisidfrtehgieptdtedtinp,wrbytemyors,tehdtseslt()Ngaypnofaymlc,ehiofbgbyamytofeoroepyfrahieptsloroyartellvsoftembyamyveofalvsptadvgonteqnatasoralmlmgdywdfrtep,aetlebytopetectoftem,b,oro0setedtfrtescpssow1()Ayisidurtssnmyberdora2pdadbytelebyoftem3()Tehgdtseslceultedeadhrt4isisrdo,ifnodtisi,feysfgt5cnoftehgdts6()Amllebyslpeintotep7prtotepcverdursn()oftss.T8inslieteatadtsofdtadrdcstob9i,igp,i,adf;tsofted;teh0iepttobef;tehgdtpdt1orbeoftehgiep;adnetotev]
+[DELETED: LASIDADPDBYSES5Pe40of5ttiftetxitrdbytemyfmaypytseisittopytepladitontedtinayytemyslrnlefrteflptofteplaitfrtetmoftei.Ifidlswntmyaeu,teinmtaoiednofttsadcsoftel()Ifidlswntemyaeudastemdof,noitslbec()Teueofabdanneslntbecdaf0ieofdtpttosn()oftss1§.OLTEV;TXI2()Asoftedetehgdtseisc,telro3arfrtemyslcyteolteveads4cytotelebyinehyrtrdgteleoft5hgdtseteatbywhtetlvna6ddinaewh32V.cr19ofalter7pywntehgdtsehsidord8retoteoltev9()Ayttteleoftehgdts,tel0orarslientmetnteolteveofter1pyinteadvnunwhtetrcster]
+[DELETED: LASIDADPDBYSES5Pe41of5ofaltsldbytemyadeyortgdtinwtehgdtseiss,bttetrsledalrsoddatteeeadvnofrlpyfrty()Ayttteleoftehgdts,myslrtntlstnteaeenpytxdonteoltevetoteEnF()Ayttteleoftehgdts,tmyslhda,rrtnrttotetgd,t0pnofaltspdttyronterlpywnteh1dtsettteesvnbstotetladv2Teathdatehyriste“xi”frtty.Tet3itsloybeudfrfgadrdc4()Ntmetntepsedpttosn1co5tssroftemladSeentxisr6whrttotehgdtseadcdfrtep7frfgfrisadrdcsslbesdbyt8myinasltxitfgatadiniso9bsadrsulalclisidfrteh0iepthsbnfyp.Teflptslber1totet,wosltrieteeeadvno]
+[DELETED: LASIDADPDBYSES5Pe42of5tehgdtseinteadvsunwhtmladortxrsaecdade,adtrntsfmtehgdtseslbeddintesltitfga()Ngaycrpnororp,alptsadwnahgdtseslbesttotpsoftss.Slasldurcr7Aor8oftsteoruramlcrslntbecdpytfrtepeoftssniftepsaeudeyf0ogesrdtopswntehgdts1adntfriswntehgdts2§.UEOFTXI;RNP3()Usoftxi.Amymyaytxi4rdpttotssrtodtidwntep5pdursn1aoftss,tordc,adtot6dtptoftectofahgiep.Ayd7ptslbesttotesepcvepsofsn18oftssrasaytod9()Enpytxi.Upto80ptoftee0pytxitmyberdfrupto20y,bgtef1yrinwhdtisidfrtehgiep.U]
+[DELETED: LASIDADPDBYSES5Pe43of5igteftd,amyslnyteDtofTadteVtEcPsCloftebgofterpdofteenpytxi()Mlpytxi.Ntlstn10ptoftmlpytxitmyber,bgteftyriwhdtisidfrtehgiep()Estxi()Oftemladenpytxisrdiaytxyrttedteascdfrteptoft0fgadrdcsfrahgiep,elp1ofehitmyberdfrtefgp2()topypladitontef3()topeinasltxitfgatr4pttosn1)oftssraduefrfef5p;o6()touefrdeoftef7()Ayrgpnofteesenpyt8itslbeddtoteEnF.Ayrgp9ofteesmlpytxitslbeddtotec0t,orvebtintepnttehbtbstot]
+[DELETED: LASIDADPDBYSES5Pe44of5cdtloftebsusoendbytec,t,ov§.INR()Amywhanaehgiepts()dpas,sdfrtehgieptoi,c,admnaldaadinnytoftergrsoftss()petynntoteDtofTsadtVtEcPsClofayhgiep0d,pcv,orvebytemllebyi1fgtedtieorpcveonafmpdbyt2C,igcsofpcn,a,m,vet,ad3cyofteinpdtotepcpttosn14oftss;a5()ayonorbeFy1,stonafmpdb6teVtEcPsClanalrttoteCla7teDtofT,igteinrdbysn(8oftssnifntpys,teinrdf9alatursn1eoftss,adayi0rdbyteClorteDtofTsfrtertr1pttosn()oftss]
+[DELETED: LASIDADPDBYSES5Pe45of5()AyonorbeAl1,teVtEcPCladteDtofTsslstarttoteSCsonEcD,HgadGlAsadoFeadteHeCsonCeadEcDadonWsadMsonhgiepsadptotss,igfrehoftef()tedeofa()adnoftehgiep()teolteveoftehgdts0()teseadveofpdadalisa1dsintehgdts,igtenro2hgusc3()tenradtsofhgusfrwhaptisb4pdur10V.cr11(eldueaddtp5a,frehaehgd,tectseoft6pgp7()pdadalilrea8()teanofilr;a9()pdadalf0()OnorbeJy1,2,teVtEcP1ClslstarttoteSeCsonE2D,HgadGlAsadonFeadteH3CsonCeadEcDtadonWsa4MsegtessofteCyadHgI5Pminagisp,assdinsn17oftsc6igbyigteatadksofhgpdtht7Pmadbydgwrhgdtpdt8tePmmsteptcnadlncaofsn10o9tsc]
+[DELETED: LASIDADPDBYSES5Pe46of5§.AAyonorbeAl1ulteyrfgteedoftepfrrnofenpytxi,amywhhgieptadurtssrsleettesltxitfgatrdbysn1boftsrissttotealatpdinsn11or10otsteadstacytoteVtEcPsC.Ifaatisstoytoteatursn11oftst,teCsleeapsisinpetostteattoani0a.Psfrteatmtievnofteolt1veadaladtlmladenpytxi2g,esfrfgadrdc,adctb3§.G4()TeSyofCeadCyD,a5renetoamyadanoyfrah,myi6dstoamyonqsadiscgt7anofhgiep,s,r8newhtss,adayisofn9idinatrscdpttosn1eoft0s]
+[DELETED: LASIDADPDBYSES5Pe47of5()TeVtEcPsClslprsfrteSyofCeadCDtprtoaydnidpttosn()ofts.TeClmypersincnwhtCrofT,teAyG,adteSeT.Ipgr,teClslpeamywhreoytostwnininstofisp()TeSyofCeadCyDtslrtersofteCladieaflwndnone0mrwn60dsfgrtofter.T1SymyptanaltobetnbyaypytoaSrC2frdnofqsoflwintesemrasteS3CtmybyrepefrasbefljtfmaS4Ctbeigafld5()TeVtEcPsClmyatrstta6rynytoittss7S.1.32V.§5isadtor8§.VTECPSC9()C.TeVtEcPsCliscdt0eeteayadpmtedsadtoi,igi1ayaddsrgt]
+[DELETED: LASIDADPDBYSES5Pe48of5()teVtEtGhIePmpttsr2oftsc;a()txitfgdsptto24V.cr5sr5adsn5aoftst;a()hgietxitfgptto24Vcr5,sr7**()Dsntsttor.AdnofteCltoaordyananursr2oftsc,ortoaeo0dyatxitfgdtptto24V.cr51sr5adsn5aoftst,ortoaeordyah2ieptptto24V.cr5,sr7isa3aednttisntsttotecdceh4rsur3V.cr25adisntsttojlr**SeadCnMeAs**.1.9V.cr77isadtorR7.SEDSASADCNMSA2.Dsudintsc*)“edra”msadettdsveoepsofcnadssawga,isomaprsywnteutorwdtoitfmanoes,a]
+[DELETED: LASIDADPDBYSES5Pe49of5sadorldfrtepebyUsLyorbrnyrdittgl)“nmedra”msadewhayttisasrclctadananttdsesincnmelsadssga,isodfmaprsywnteutorwdtoimanoes,adisadorldfrtepebsLyorbyarnyrdigl2.I)ApnwocsasydgsliepeorUL27ctssasintevyofaybsadonehlloft,adoeormecnmedsasintevyoybsintedginaewhtem.Inadgpdwhelp,dsalbepdbyteelseintebgadbyb)AysydgwntdbyseoreesnpepeorUL27ctssasintevyofaybsadonehlloftgidinaewhtemsisadormecnmedsasidinaewhtsi.Asydgcdby1,14mycnsedsaspdbyteeeintebgorbyb,orbyacnofb.InasydgnycdarJy1,14ttispdwlp,sedsasslbepdbyteeeintebgadbyb.InasydgndarJy1,25ttispdwhelp,cedsasslbepdbyteelseintgadbyb)Ngintssnslreanororotofasydgtomnorueasedramoracedramari2.RSFRTROFD)Tesrofasyd,igoecdfto,wrtetrisbyseore,slcytotrattecgoftetntttedgispdwepeorUL27cts]
+[DELETED: LASIDADPDBYSES5Pe50of5sasadcnmedsasinaewsc.Tscnslbesdadddbytes)Iftebrnstesrwn10dsbycdmlfmteofceoftedgtttedglsaypepeorUL27ctsedsa,oycnmedsa,orttaydramisn,tesrslcywhtscrwn10dsa*.1.20V.§1isadtor2.R;I;V*)DsA.Rsadurtssnslretnw,a,adddbyteCront,p,adinofpcpeorUL2tsedsasadcnmedsasbypdinterlssaawetedsasa****Ts**S.1.32V.§)isadtor()ddbytefgesadd**()anateltoteiddnfrmestnatteflllbytet,ur26U.§2()msteatofteVtsddnaVtplestnbytetrurtssn(a]
+[DELETED: LASIDADPDBYSES5Pe51of5()msayatddatteflllttiaetoteptofaneefeorrgmypmetoacgcertcyrdur8Vcr1,whestedylsfrpspddteteyronqdlmceiecsur2U.2S.1.32V.§0isadtor§.SYP**0()Tesypeofteenurs1oftst1frcnnwcnadisistoiet2a3S.2.32V.§1isadtor4§.NWAYDGUSADC5PYI6()Anieintealveofapyslbeedf7pytnbyfgadmgteteveattep8gdltveinteyriypgisint9fgc]
+[DELETED: LASIDADPDBYSES5Pe52of5()tepyhsbnrdoridugagtorlfmteVtHgItPmadcnhsbfycdinteps12m;o()tepyhsbnidthtecnofanaydgu,asddby24V.§4,adchsbnfycdinteps12m()Adeinalveofapysttotsedetodeordnfmfeoratofnemyretpstevebwtefdveursn()oft0s1()TeenurtssnslaytoteSee2pytxidurcr15oftsteadtomlp3t4()Anenurtssnslrninetfrtey5Wnteenpde,tepyslbetdatism6ryadgdltv7***As**8S.2.A9TefgslbeadfmteGlFdinfly02]
+[DELETED: LASIDADPDBYSES5Pe53of5()Tesmof$0toteDtofHgaCyDtfrtefgp()$0gdtoteVtHgFeAtoceinofteMeHDtP()$0gdtoteVtHgFeAtoceinofteRlHgRgLnF()$0gdtoteVtBdBktoiteVtIeSyF0()$0frternofeerlh1usurteRlHgItPmedin10V2§63()$0toiemehepkieu4teMdHeItadRrPmedin15V.§7;a6()$0frgstobemefrtepeofp7hre,fllyc,adfep8psodbytefeNsAaa9HpC0()Tesmof$0toteSeTrtoitt1PeRlPtPtP]
+[DELETED: LASIDADPDBYSES5Pe54of5***EeDe**S.2.EEDTsatslteetonJy1,2**EeDs**.1.EEDsatslteetonJy1,2,etttS.4adtsslteetonp]

@@ -1,0 +1,53 @@
+Title: House resolution authorizing limited remote committee voting through the
+Official Title: House resolution authorizing limited remote committee voting through the
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+State of Vermont
+House of Representatives
+Montpelier, Vermont
+House Resolution
+H.R. 5
+Offered by Committee on Rules
+remainder of calendar year 2025
+Resolved by the House of Representatives:
+That through the remainder of calendar year 2025, each member of a House
+committee is authorized to vote remotely in that committee for not more than
+three days, and be it further
+Resolved: Such a member shall notify the committee chair and clerk that
+the member is exercising this remote voting authority, and shall count toward a
+committee quorum, and be it further
+Resolved: That the committee clerk shall record any vote cast by the
+member as a remote vote, and shall track the number of days the member
+exercises this remote voting authority.
+[DELETED: eofVeofR,VeR.dbyCeonRernagldrecevgthtrofcryr2dbyteHeofRtthterrofcryr2,ehmrofaHeisadtoveryinttcefrntmeted,adbeitf:Shamrslnytececradcktemrisegtsrevga,adslcttdeq,adbeitf:Tttececkslrdayvectbytrasarev,adsltktenrofdstemstsrevga]
+
+
+================================================================================
+
+Raw Text:
+State of Vermont
+House of Representatives
+Montpelier, Vermont
+House Resolution
+H.R. 5
+Offered by Committee on Rules
+House resolution authorizing limited remote committee voting through the
+remainder of calendar year 2025
+Resolved by the House of Representatives:
+That through the remainder of calendar year 2025, each member of a House
+committee is authorized to vote remotely in that committee for not more than
+three days, and be it further
+Resolved: Such a member shall notify the committee chair and clerk that
+the member is exercising this remote voting authority, and shall count toward a
+committee quorum, and be it further
+Resolved: That the committee clerk shall record any vote cast by the
+member as a remote vote, and shall track the number of days the member
+exercises this remote voting authority.
+
+[DELETED: eofVeofR,VeR.dbyCeonRernagldrecevgthtrofcryr2dbyteHeofRtthterrofcryr2,ehmrofaHeisadtoveryinttcefrntmeted,adbeitf:Shamrslnytececradcktemrisegtsrevga,adslcttdeq,adbeitf:Tttececkslrdayvectbytrasarev,adsltktenrofdstemstsrevga]

@@ -1,0 +1,786 @@
+Title: BILL AS INTRODUCED H.32
+Official Title: BILL AS INTRODUCED H.32
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 16
+1 H.32
+2 Introduced by Representatives Headrick of Burlington, Maguire of Rutland
+3 City, Arsenault of Williston, Bartley of Fairfax, Burke of
+4 Brattleboro, Burkhardt of South Burlington, Burrows of West
+5 Windsor, Campbell of St. Johnsbury, Cole of Hartford, Dodge
+6 of Essex, Donahue of Northfield, Galfetti of Barre Town,
+7 Graning of Jericho, Gregoire of Fairfield, Harrison of
+8 Chittenden, Howard of Rutland City, Keyser of Rutland City,
+9 Krasnow of South Burlington, Labor of Morgan, Luneau of St.
+10 Albans City, Malay of Pittsford, McCann of Montpelier,
+11 McCoy of Poultney, McGill of Bridport, Morgan, L. of Milton,
+12 Morgan, M. of Milton, Morrissey of Bennington, Noyes of
+13 Wolcott, Parsons of Newbury, Powers of Waterford, Rachelson
+14 of Burlington, Surprenant of Barnard, Tomlinson of Winooski,
+15 Toof of St. Albans Town, and Waszazak of Barre City
+16 Referred to Committee on
+17 Date:
+18 Subject: Corrections; human services; substance use disorder; medication for
+19 opioid use disorder
+20 Statement of purpose of bill as introduced: This bill proposes to require the
+21 Department of Corrections to enter into memorandums of understanding with
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 2 of 16
+1 opioid treatment programs nearest each correctional facility in the State for the
+2 provision of opioid use disorder services, including medication for opioid use
+3 disorder. This bill also authorizes the Department of Corrections to enter into
+4 memorandums of understanding with office-based treatment providers within
+5 reasonable proximity to a correctional facility in the State for the provision of
+6 opioid use disorder services, including medication for opioid use disorder.
+7 An act relating to treatment for opioid use disorder in correctional facilities
+8 It is hereby enacted by the General Assembly of the State of Vermont:
+9 Sec. 1. LEGISLATIVE INTENT
+10 It is the intent of the General Assembly that inmates with opioid use
+11 disorder receive the same coordinated, accessible, and evidence-based
+12 treatment for opioid use disorder in a correctional facility as provided by
+13 Vermont’s hub and spoke community system.
+14 Sec. 2. 28 V.S.A. § 801 is amened to read:
+15 § 801. MEDICAL CARE OF INMATES
+16 (a) Provision of medical care. The Department shall provide health care for
+17 inmates in accordance with the prevailing medical standards. When the
+18 provision of such care requires that the inmate be taken outside the boundaries
+19 of the correctional facility wherein the inmate is confined, the Department
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 3 of 16
+1 shall provide reasonable safeguards, when deemed necessary, for the custody
+2 of the inmate while the inmate is confined at a medical facility.
+3 (b) Screenings and assessments.
+4 (1) Upon admission to a correctional facility for a minimum of 14
+5 consecutive days, each inmate shall be given a physical assessment unless
+6 extenuating circumstances exist.
+7 (2) Within 24 hours after admission to a correctional facility, each
+8 inmate shall be screened for substance use disorders as part of the initial and
+9 ongoing substance use screening and assessment process. This process
+10 includes screening and assessment for opioid use disorders.
+11 * * *
+12 (e) Pre-existing prescriptions; definitions for subchapter.
+13 (1) Except as otherwise provided in this subsection, an inmate who is
+14 admitted to a correctional facility while under the medical care of a licensed
+15 physician, a licensed physician assistant, or a licensed advanced practice
+16 registered nurse and who is taking medication at the time of admission
+17 pursuant to a valid prescription as verified by the inmate’s pharmacy of record,
+18 primary care provider, other licensed care provider, or as verified by the
+19 Vermont Prescription Monitoring System or other prescription monitoring or
+20 information system, including buprenorphine, methadone, or other medication
+21 prescribed in the course of medication for opioid use disorder, shall be entitled
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 4 of 16
+1 to continue that medication and to be provided that medication by the
+2 Department pending an evaluation by a licensed physician, a licensed
+3 physician assistant, or a licensed advanced practice registered nurse or in the
+4 case of medication for opioid use disorder, a provider serving the correctional
+5 facility in accordance with a memorandum of understanding executed pursuant
+6 to subsection 801b(a) of this title.
+7 (2) Notwithstanding subdivision (1) of this subsection, the Department
+8 may defer provision of a validly prescribed medication in accordance with this
+9 subsection if, in the clinical judgment of a licensed physician, a physician
+10 assistant, or an advanced practice registered nurse, or in the case of medication
+11 for opioid use disorder, a provider serving the correctional facility in
+12 accordance with a memorandum of understanding executed pursuant to
+13 subsection 801b(a) of this title, it is not medically necessary to continue the
+14 medication at that time.
+15 (3) The A licensed practitioner who makes making the clinical judgment
+16 to discontinue a medication that is not prescribed in the course of medication
+17 for opioid use disorder shall cause the reason for the discontinuance to be
+18 entered into the inmate’s medical record, specifically stating the reason for the
+19 discontinuance. The inmate shall be provided, both orally and in writing, with
+20 a specific explanation of the decision to discontinue the medication and with
+21 notice of the right to have the inmate’s community-based prescriber notified of
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 5 of 16
+1 the decision. If the inmate provides signed authorization, the Department shall
+2 notify the community-based prescriber in writing of the decision to discontinue
+3 the medication.
+4 (4) It is not the intent of the General Assembly that this subsection shall
+5 create a new or additional private right of action.
+6 (5) As used in this subchapter:
+7 (A) “Medically necessary” describes health care services that are
+8 appropriate in terms of type, amount, frequency, level, setting, and duration to
+9 the individual’s diagnosis or condition,; are informed by generally accepted
+10 medical or scientific evidence,; and are consistent with generally accepted
+11 community practice parameters. Such services shall be informed by the unique
+12 needs of each individual and each presenting situation and shall include a
+13 determination that a service is needed to achieve proper growth and
+14 development or to prevent the onset or worsening of a health condition.
+15 (B) “Medication for opioid use disorder” has the same meaning as in
+16 18 V.S.A. § 4750.
+17 (f) Third-party medical provider contracts. Any contract between the
+18 Department and a provider of physical or mental health services shall establish
+19 policies and procedures for continuation and provision of medication at the
+20 time of admission and thereafter, as determined by an appropriate evaluation,
+21 which will protect the health of inmates.
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 6 of 16
+1 (g) Prescription medication; reentry planning.
+2 (1) If Except with regard to medication for opioid use disorder, if an
+3 offender inmate takes a prescribed medication while incarcerated and that
+4 prescribed medication continues to be both available at the facility and
+5 clinically appropriate for the offender inmate at the time of discharge from the
+6 correctional facility, the Department or its contractor shall provide the offender
+7 inmate, at the time of release, with not less than a 28-day supply of the
+8 prescribed medication, if possible, to ensure that the inmate may continue
+9 taking the medication as prescribed until the offender inmate is able to fill a
+10 new prescription for the medication in the community. The Department or its
+11 contractor shall also provide the offender inmate exiting the facility with a
+12 valid prescription to continue the medication after any supply provided during
+13 release from the facility is depleted.
+14 (2) The Unless otherwise specified in section 801b of this title, the
+15 Department or its contractor shall identify any necessary licensed health care
+16 provider or substance use disorder treatment program, or both, and schedule an
+17 intake appointment for the offender inmate with the provider or program to
+18 ensure that the offender inmate can continue care in the community as part of
+19 the offender’s inmate’s reentry plan. The Department or its contractor may
+20 employ or contract with a case worker or health navigator to assist with
+21 scheduling any health care appointments in the community.
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 7 of 16
+1 Sec. 3. 28 V.S.A. § 801b is amended to read:
+2 § 801b. MEDICATION FOR OPIOID USE DISORDER IN
+3 CORRECTIONAL FACILITIES
+4 (a) If an inmate receiving medication for opioid use disorder prior to
+5 entering the correctional facility continues to receive medication prescribed in
+6 the course of medication for opioid use disorder pursuant to section 801 of this
+7 title, the inmate shall be authorized to receive that medication for as long as
+8 medically necessary Memorandum of understanding. The Department of
+9 Corrections shall execute a memorandum of understanding with the opioid
+10 treatment program nearest each correctional facility in the State for the
+11 provision of services for inmates with opioid use disorder, including
+12 medication for opioid use disorder. The Department may also execute a
+13 memorandum of understanding with one or more office-based opioid treatment
+14 providers within reasonable proximity to a correctional facility in the State for
+15 the provision of services to inmates with opioid use disorder, including
+16 medication for opioid use disorder. To the extent feasible, each memorandum
+17 of understanding shall require the parties to adhere to the Department of
+18 Health’s “Rule Governing Medication for Opioid Use Disorder for: (1) Office-
+19 Based Opioid Treatment Providers Prescribing Buprenorphine; and (2) Opioid
+20 Treatment Providers” (CVR 13-140-062). Each memorandum of
+21 understanding shall ensure continuity of care for inmates with opioid use
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 8 of 16
+1 disorder from the time of entry through release from a correctional facility.
+2 Memorandums of understanding entered into by the Department pursuant to
+3 this section shall expand access to a full range of medications for opioid use
+4 disorder at each correctional facility in the State, including opioid antagonists
+5 where clinically appropriate.
+6 (b)(1) Initiation of medication for opioid use disorder. If at any time an
+7 inmate screens positive as having an opioid use disorder, the inmate may elect
+8 to commence buprenorphine-specific medication for opioid use disorder if it is
+9 deemed medically necessary by a provider authorized to prescribe
+10 buprenorphine serving the correctional facility in accordance with a
+11 memorandum of understanding executed pursuant to subsection (a) of this
+12 section. The inmate shall be authorized to receive the medication for opioid
+13 use disorder as soon as possible and for as long as medically necessary.
+14 (2) Nothing in this subsection shall prevent an inmate who commences
+15 medication for opioid use disorder while in a correctional facility from
+16 transferring from buprenorphine to methadone if:
+17 (A) methadone is deemed medically necessary by a provider
+18 authorized to prescribe methadone; and
+19 (B) the inmate elects to commence methadone as recommended by a
+20 provider authorized to prescribe methadone to a new type of medication for
+21 opioid use disorder when the provider serving the correctional facility in
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 9 of 16
+1 accordance with a memorandum of understanding executed pursuant to
+2 subsection (a) of this section determines the transfer is medically necessary and
+3 the inmate provides informed consent to the new type of medication.
+4 (c) Continuation of medication for opioid use disorder. If an inmate
+5 receiving medication for opioid use disorder prior to entering the correctional
+6 facility continues to receive medication prescribed in the course of medication
+7 for opioid use disorder pursuant to section 801 of this title, the inmate shall be
+8 authorized to receive that medication for as long as medically necessary as
+9 determined by the provider serving the correctional facility in accordance with
+10 a memorandum of understanding executed pursuant to subsection (a) of this
+11 section.
+12 (c)(d) Discontinuation of medication for opioid use disorder. The licensed
+13 practitioner who makes the clinical judgment A provider serving the
+14 correctional facility in accordance with a memorandum of understanding
+15 executed pursuant to subsection (a) of this section shall determine whether it is
+16 medically necessary to discontinue a medication for opioid use disorder. If it
+17 is so determined, the provider shall cause the reason for the discontinuance to
+18 be entered into the inmate’s medical record, specifically stating the reason for
+19 the discontinuance. The inmate shall be provided, both orally and in writing,
+20 with a specific explanation of the decision to discontinue the medication. and
+21 with The inmate shall also receive notice of the right to have the inmate’s
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 10 of 16
+1 community-based prescriber notified of the decision, if the inmate was
+2 inducted on medication for opioid use disorder prior to incarceration. If the
+3 inmate provides signed authorization, the Department shall notify the
+4 community-based prescriber in writing of the decision to discontinue the
+5 medication.
+6 (d)(1)(e) Reentry planning and case management. As part of reentry
+7 planning, the Department shall commence medication for opioid use disorder
+8 prior to an offender’s release if:
+9 (A) the offender screens positive for an opioid use disorder;
+10 (B) medication for opioid use disorder is medically necessary; and
+11 (C) the offender elects to commence medication for opioid use
+12 disorder
+13 (1) The Department shall develop an individualized reentry plan for
+14 each inmate transitioning to the community who is receiving medication for
+15 opioid use disorder at the time of release that addresses housing, employment,
+16 mental health services, and other social determinants of health. The plan shall
+17 facilitate continuity of care related to the individual’s opioid use disorder for a
+18 minimum of six months after an inmate’s release from a correctional facility.
+19 Each individualized reentry plan shall:
+20 (A) require the Department to schedule appointments with an opioid
+21 treatment program or office-based opioid treatment provider in the same region
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 11 of 16
+1 as an inmate’s residence at the time of the inmate’s release, including follow-
+2 up appointments;
+3 (B) ensure that each inmate reentering the community receives a
+4 discharge summary detailing all referral appointments and a list of regionally
+5 appropriate resources for individuals with opioid use disorder;
+6 (C) require that all inmates transitioning to the community who are
+7 receiving medication for opioid use disorder at the time of release receive not
+8 less than a seven-day supply of the medication to bridge the gap until the
+9 individual’s first post-incarceration visit at an opioid treatment program or
+10 office-based opioid treatment provider and a valid prescription to continue the
+11 medication for opioid use disorder after the medication supplied at the time of
+12 release from the correctional facility is depleted; and
+13 (D) ensure that a case manager monitors the individual’s adherence
+14 to treatment for opioid use disorder and provides support for long-term
+15 recovery.
+16 (2) If medication for opioid use disorder is indicated and despite best
+17 efforts induction is not possible prior to release, the Department shall ensure
+18 comprehensive care coordination with a community-based provider an
+19 individualized reentry plan is developed for the individual in accordance with
+20 subdivision (1) of this subsection.
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 12 of 16
+1 (3) If an offender takes a prescribed medication as part of medication for
+2 opioid use disorder while incarcerated and that prescription medication is both
+3 available at the facility and clinically appropriate for the offender at the time of
+4 discharge from the correctional facility, the Department or its contractor shall
+5 provide the offender, at the time of release, with a legally permissible supply to
+6 ensure that the offender may continue taking the medication as prescribed prior
+7 to obtaining the prescription medication in the community.
+8 (e)(1)(f) Counseling and behavioral therapy. Counseling or behavioral
+9 therapies shall be provided in conjunction with the use of medication for
+10 medication-assisted treatment opioid use disorder as provided for in the
+11 Department of Health’s “Rule Governing Medication for Opioid Use Disorder
+12 for: (1) Office-Based Opioid Treatment Providers Prescribing Buprenorphine;
+13 and (2) Opioid Treatment Providers.”
+14 (2) As part of reentry planning, the Department shall inform and offer
+15 care coordination to an offender to expedite access to counseling and
+16 behavioral therapies within the community.
+17 (3) As part of reentry planning, the Department or its contractor shall
+18 identify any necessary licensed health care provider or an opioid use disorder
+19 treatment program, or both, and schedule an intake appointment for the
+20 offender with the providers or treatment program, or both, to ensure that the
+21 offender can continue treatment in the community as part of the offender’s
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 13 of 16
+1 reentry plan. The Department or its contractor may employ or contract with a
+2 case worker or health navigator to assist with scheduling any health care
+3 appointments in the community.
+4 (g) Reporting. Annually, on or before January 15, the Department shall
+5 submit a report to the House Committee on Corrections and Institutions and to
+6 the Senate Committee on Judiciary addressing:
+7 (1) the number of individuals during the prior year who received
+8 medication for opioid use disorder in a correctional facility by medication type;
+9 (2) recidivism rates for individuals receiving medication for opioid use
+10 disorder while in a correctional facility;
+11 (3) cost analysis and savings related to reduced recidivism, health care
+12 expenditures, and criminal justice expenses for individuals who received
+13 medication for opioid use disorder while in a correctional facility, if
+14 applicable; and
+15 (4) health and social outcomes for individuals receiving medication for
+16 opioid use disorder while in a correctional facility at six-months post release.
+17 (h) Training. The Department shall ensure that all staff involved in the
+18 administration of medication for opioid use disorder or support of inmate’s
+19 receiving medication for opioid use disorder complete annual training on the
+20 benefits of medication for opioid use disorder, protocols related to the
+21 administration and storage of medication for opioid use disorder, and any
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 14 of 16
+1 security concerns related to the use of medication for opioid use disorder in a
+2 correctional facility. Trainings conducted pursuant to this subsection shall be
+3 developed in conjunction with providers serving a correctional facility in
+4 accordance with a memorandum of understanding executed pursuant to
+5 subsection (a) of this section.
+6 (i) As used in this section:
+7 (1) Office-based opioid treatment provider” means a provider, as
+8 defined by 18 V.S.A. § 9402, that prescribes medication for opioid use
+9 disorder pursuant to federal and State law, federal regulation, and State rule,
+10 and that is not an opioid treatment program. An office-based opioid treatment
+11 provider may include a preferred provider, a specialty addiction practice, an
+12 individual provider practice, or several providers practicing as a group.
+13 (2) “Opioid treatment program” means a specialty treatment program or
+14 practitioner registered under 21 U.S.C. § 823(g)(1) engaged in the treatment of
+15 individuals with opioid use disorder, including dispensing medication, such as
+16 methadone and buprenorphine, to treat opioid use disorder under controlled
+17 and observed conditions.
+18 (3) “Preferred provider” means an entity that has attained a certificate
+19 from the Department of Health and has an existing contract or grant from the
+20 Department of Health to provide substance use disorder treatment.
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 15 of 16
+1 Sec. 4. REPORT; OPIOID TREATMENT PROGRAM CERTIFICATION
+2 (a) On or before January 15, 2026, the Department of Corrections shall
+3 submit a report to the House Committee on Corrections and Institutions and to
+4 the Senate Committee on Judiciary containing a plan to obtain federal
+5 certification for opioid treatment programs at all correctional facilities in
+6 accordance with 42 C.F.R. Part 8 and transition from the memorandums of
+7 understanding executed between opioid treatment programs, office-based
+8 opioid treatment providers, and correctional facilities pursuant to this act to in-
+9 house opioid use disorder services, including medication for opioid use
+10 disorder.
+11 (b) As used in this section, “opioid treatment program” has the same
+12 meaning as in 28 V.S.A. § 801b.
+13 Sec. 5. GRANTS; MEDICATION FOR OPIOID USE DISORDER IN
+14 CORRECTIONAL FACILITIES
+15 (a) The Department of Corrections shall seek and apply for federal and
+16 State grants to support the memorandums of understanding executed between
+17 opioid treatment programs, office-based opioid treatment providers, and
+18 correctional facilities pursuant to this act, including grants for provider and
+19 staff training, technology improvements, and the development of infrastructure
+20 necessary for care coordination.
+VT LEG #379111 v.1
+BILL AS INTRODUCED H.32
+2025 Page 16 of 16
+1 (b) As used in this section, “opioid treatment program” and “office based
+2 opioid treatment provider” have the same meaning as in 28 V.S.A. § 801b.
+3 Sec. 6. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #379111 v.1
+[DELETED:  H P H I R C B W o G C K A M M W o T R D S o S D]
+[DELETED:  H P o p d m r o A I S I d t V S § ( i p o]
+[DELETED:  H P s o ( ( c e ( i o i * ( ( a p r p p V i p]
+[DELETED:  H P t D p c f t ( m s a f a s m ( t f e d a n]
+[DELETED:  H P t n t ( c ( ( a t m c n d d ( 1 ( D p t w]
+[DELETED:  H P ( ( o p c c i p t n c v r ( D p i e t e s]
+[DELETED:  H P S §   ( e t t m C t p m m p t m o H B T u]
+[DELETED:  H P d M t d w ( i t d b m s u ( m t ( a ( p o]
+[DELETED:  H P a s t ( r f f a d a s ( p c e m i b t w w]
+[DELETED:  H P c i i c m ( p p ( ( ( d ( e o m f m E ( t]
+[DELETED:  H P a u ( d a ( r l i o m r ( t r ( e c i s]
+[DELETED:  H P ( o a d p e t ( t m D f a ( c b ( i t o o]
+[DELETED:  H P r c a ( s t ( m ( d ( e m a ( o ( a r b a]
+[DELETED:  H P s c d a s ( ( d d a p i ( p i m a ( f D]
+[DELETED:  H P S ( s t c a u o h d ( m S   ( S o c s n]
+[DELETED:  H P ( o S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.32
+2025 Page 1 of 16
+1 H.32
+2 Introduced by Representatives Headrick of Burlington, Maguire of Rutland
+3 City, Arsenault of Williston, Bartley of Fairfax, Burke of
+4 Brattleboro, Burkhardt of South Burlington, Burrows of West
+5 Windsor, Campbell of St. Johnsbury, Cole of Hartford, Dodge
+6 of Essex, Donahue of Northfield, Galfetti of Barre Town,
+7 Graning of Jericho, Gregoire of Fairfield, Harrison of
+8 Chittenden, Howard of Rutland City, Keyser of Rutland City,
+9 Krasnow of South Burlington, Labor of Morgan, Luneau of St.
+10 Albans City, Malay of Pittsford, McCann of Montpelier,
+11 McCoy of Poultney, McGill of Bridport, Morgan, L. of Milton,
+12 Morgan, M. of Milton, Morrissey of Bennington, Noyes of
+13 Wolcott, Parsons of Newbury, Powers of Waterford, Rachelson
+14 of Burlington, Surprenant of Barnard, Tomlinson of Winooski,
+15 Toof of St. Albans Town, and Waszazak of Barre City
+16 Referred to Committee on
+17 Date:
+18 Subject: Corrections; human services; substance use disorder; medication for
+19 opioid use disorder
+20 Statement of purpose of bill as introduced: This bill proposes to require the
+21 Department of Corrections to enter into memorandums of understanding with
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 2 of 16
+1 opioid treatment programs nearest each correctional facility in the State for the
+2 provision of opioid use disorder services, including medication for opioid use
+3 disorder. This bill also authorizes the Department of Corrections to enter into
+4 memorandums of understanding with office-based treatment providers within
+5 reasonable proximity to a correctional facility in the State for the provision of
+6 opioid use disorder services, including medication for opioid use disorder.
+7 An act relating to treatment for opioid use disorder in correctional facilities
+8 It is hereby enacted by the General Assembly of the State of Vermont:
+9 Sec. 1. LEGISLATIVE INTENT
+10 It is the intent of the General Assembly that inmates with opioid use
+11 disorder receive the same coordinated, accessible, and evidence-based
+12 treatment for opioid use disorder in a correctional facility as provided by
+13 Vermont’s hub and spoke community system.
+14 Sec. 2. 28 V.S.A. § 801 is amened to read:
+15 § 801. MEDICAL CARE OF INMATES
+16 (a) Provision of medical care. The Department shall provide health care for
+17 inmates in accordance with the prevailing medical standards. When the
+18 provision of such care requires that the inmate be taken outside the boundaries
+19 of the correctional facility wherein the inmate is confined, the Department
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 3 of 16
+1 shall provide reasonable safeguards, when deemed necessary, for the custody
+2 of the inmate while the inmate is confined at a medical facility.
+3 (b) Screenings and assessments.
+4 (1) Upon admission to a correctional facility for a minimum of 14
+5 consecutive days, each inmate shall be given a physical assessment unless
+6 extenuating circumstances exist.
+7 (2) Within 24 hours after admission to a correctional facility, each
+8 inmate shall be screened for substance use disorders as part of the initial and
+9 ongoing substance use screening and assessment process. This process
+10 includes screening and assessment for opioid use disorders.
+11 * * *
+12 (e) Pre-existing prescriptions; definitions for subchapter.
+13 (1) Except as otherwise provided in this subsection, an inmate who is
+14 admitted to a correctional facility while under the medical care of a licensed
+15 physician, a licensed physician assistant, or a licensed advanced practice
+16 registered nurse and who is taking medication at the time of admission
+17 pursuant to a valid prescription as verified by the inmate’s pharmacy of record,
+18 primary care provider, other licensed care provider, or as verified by the
+19 Vermont Prescription Monitoring System or other prescription monitoring or
+20 information system, including buprenorphine, methadone, or other medication
+21 prescribed in the course of medication for opioid use disorder, shall be entitled
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 4 of 16
+1 to continue that medication and to be provided that medication by the
+2 Department pending an evaluation by a licensed physician, a licensed
+3 physician assistant, or a licensed advanced practice registered nurse or in the
+4 case of medication for opioid use disorder, a provider serving the correctional
+5 facility in accordance with a memorandum of understanding executed pursuant
+6 to subsection 801b(a) of this title.
+7 (2) Notwithstanding subdivision (1) of this subsection, the Department
+8 may defer provision of a validly prescribed medication in accordance with this
+9 subsection if, in the clinical judgment of a licensed physician, a physician
+10 assistant, or an advanced practice registered nurse, or in the case of medication
+11 for opioid use disorder, a provider serving the correctional facility in
+12 accordance with a memorandum of understanding executed pursuant to
+13 subsection 801b(a) of this title, it is not medically necessary to continue the
+14 medication at that time.
+15 (3) The A licensed practitioner who makes making the clinical judgment
+16 to discontinue a medication that is not prescribed in the course of medication
+17 for opioid use disorder shall cause the reason for the discontinuance to be
+18 entered into the inmate’s medical record, specifically stating the reason for the
+19 discontinuance. The inmate shall be provided, both orally and in writing, with
+20 a specific explanation of the decision to discontinue the medication and with
+21 notice of the right to have the inmate’s community-based prescriber notified of
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 5 of 16
+1 the decision. If the inmate provides signed authorization, the Department shall
+2 notify the community-based prescriber in writing of the decision to discontinue
+3 the medication.
+4 (4) It is not the intent of the General Assembly that this subsection shall
+5 create a new or additional private right of action.
+6 (5) As used in this subchapter:
+7 (A) “Medically necessary” describes health care services that are
+8 appropriate in terms of type, amount, frequency, level, setting, and duration to
+9 the individual’s diagnosis or condition,; are informed by generally accepted
+10 medical or scientific evidence,; and are consistent with generally accepted
+11 community practice parameters. Such services shall be informed by the unique
+12 needs of each individual and each presenting situation and shall include a
+13 determination that a service is needed to achieve proper growth and
+14 development or to prevent the onset or worsening of a health condition.
+15 (B) “Medication for opioid use disorder” has the same meaning as in
+16 18 V.S.A. § 4750.
+17 (f) Third-party medical provider contracts. Any contract between the
+18 Department and a provider of physical or mental health services shall establish
+19 policies and procedures for continuation and provision of medication at the
+20 time of admission and thereafter, as determined by an appropriate evaluation,
+21 which will protect the health of inmates.
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 6 of 16
+1 (g) Prescription medication; reentry planning.
+2 (1) If Except with regard to medication for opioid use disorder, if an
+3 offender inmate takes a prescribed medication while incarcerated and that
+4 prescribed medication continues to be both available at the facility and
+5 clinically appropriate for the offender inmate at the time of discharge from the
+6 correctional facility, the Department or its contractor shall provide the offender
+7 inmate, at the time of release, with not less than a 28-day supply of the
+8 prescribed medication, if possible, to ensure that the inmate may continue
+9 taking the medication as prescribed until the offender inmate is able to fill a
+10 new prescription for the medication in the community. The Department or its
+11 contractor shall also provide the offender inmate exiting the facility with a
+12 valid prescription to continue the medication after any supply provided during
+13 release from the facility is depleted.
+14 (2) The Unless otherwise specified in section 801b of this title, the
+15 Department or its contractor shall identify any necessary licensed health care
+16 provider or substance use disorder treatment program, or both, and schedule an
+17 intake appointment for the offender inmate with the provider or program to
+18 ensure that the offender inmate can continue care in the community as part of
+19 the offender’s inmate’s reentry plan. The Department or its contractor may
+20 employ or contract with a case worker or health navigator to assist with
+21 scheduling any health care appointments in the community.
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 7 of 16
+1 Sec. 3. 28 V.S.A. § 801b is amended to read:
+2 § 801b. MEDICATION FOR OPIOID USE DISORDER IN
+3 CORRECTIONAL FACILITIES
+4 (a) If an inmate receiving medication for opioid use disorder prior to
+5 entering the correctional facility continues to receive medication prescribed in
+6 the course of medication for opioid use disorder pursuant to section 801 of this
+7 title, the inmate shall be authorized to receive that medication for as long as
+8 medically necessary Memorandum of understanding. The Department of
+9 Corrections shall execute a memorandum of understanding with the opioid
+10 treatment program nearest each correctional facility in the State for the
+11 provision of services for inmates with opioid use disorder, including
+12 medication for opioid use disorder. The Department may also execute a
+13 memorandum of understanding with one or more office-based opioid treatment
+14 providers within reasonable proximity to a correctional facility in the State for
+15 the provision of services to inmates with opioid use disorder, including
+16 medication for opioid use disorder. To the extent feasible, each memorandum
+17 of understanding shall require the parties to adhere to the Department of
+18 Health’s “Rule Governing Medication for Opioid Use Disorder for: (1) Office-
+19 Based Opioid Treatment Providers Prescribing Buprenorphine; and (2) Opioid
+20 Treatment Providers” (CVR 13-140-062). Each memorandum of
+21 understanding shall ensure continuity of care for inmates with opioid use
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 8 of 16
+1 disorder from the time of entry through release from a correctional facility.
+2 Memorandums of understanding entered into by the Department pursuant to
+3 this section shall expand access to a full range of medications for opioid use
+4 disorder at each correctional facility in the State, including opioid antagonists
+5 where clinically appropriate.
+6 (b)(1) Initiation of medication for opioid use disorder. If at any time an
+7 inmate screens positive as having an opioid use disorder, the inmate may elect
+8 to commence buprenorphine-specific medication for opioid use disorder if it is
+9 deemed medically necessary by a provider authorized to prescribe
+10 buprenorphine serving the correctional facility in accordance with a
+11 memorandum of understanding executed pursuant to subsection (a) of this
+12 section. The inmate shall be authorized to receive the medication for opioid
+13 use disorder as soon as possible and for as long as medically necessary.
+14 (2) Nothing in this subsection shall prevent an inmate who commences
+15 medication for opioid use disorder while in a correctional facility from
+16 transferring from buprenorphine to methadone if:
+17 (A) methadone is deemed medically necessary by a provider
+18 authorized to prescribe methadone; and
+19 (B) the inmate elects to commence methadone as recommended by a
+20 provider authorized to prescribe methadone to a new type of medication for
+21 opioid use disorder when the provider serving the correctional facility in
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 9 of 16
+1 accordance with a memorandum of understanding executed pursuant to
+2 subsection (a) of this section determines the transfer is medically necessary and
+3 the inmate provides informed consent to the new type of medication.
+4 (c) Continuation of medication for opioid use disorder. If an inmate
+5 receiving medication for opioid use disorder prior to entering the correctional
+6 facility continues to receive medication prescribed in the course of medication
+7 for opioid use disorder pursuant to section 801 of this title, the inmate shall be
+8 authorized to receive that medication for as long as medically necessary as
+9 determined by the provider serving the correctional facility in accordance with
+10 a memorandum of understanding executed pursuant to subsection (a) of this
+11 section.
+12 (c)(d) Discontinuation of medication for opioid use disorder. The licensed
+13 practitioner who makes the clinical judgment A provider serving the
+14 correctional facility in accordance with a memorandum of understanding
+15 executed pursuant to subsection (a) of this section shall determine whether it is
+16 medically necessary to discontinue a medication for opioid use disorder. If it
+17 is so determined, the provider shall cause the reason for the discontinuance to
+18 be entered into the inmate’s medical record, specifically stating the reason for
+19 the discontinuance. The inmate shall be provided, both orally and in writing,
+20 with a specific explanation of the decision to discontinue the medication. and
+21 with The inmate shall also receive notice of the right to have the inmate’s
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 10 of 16
+1 community-based prescriber notified of the decision, if the inmate was
+2 inducted on medication for opioid use disorder prior to incarceration. If the
+3 inmate provides signed authorization, the Department shall notify the
+4 community-based prescriber in writing of the decision to discontinue the
+5 medication.
+6 (d)(1)(e) Reentry planning and case management. As part of reentry
+7 planning, the Department shall commence medication for opioid use disorder
+8 prior to an offender’s release if:
+9 (A) the offender screens positive for an opioid use disorder;
+10 (B) medication for opioid use disorder is medically necessary; and
+11 (C) the offender elects to commence medication for opioid use
+12 disorder
+13 (1) The Department shall develop an individualized reentry plan for
+14 each inmate transitioning to the community who is receiving medication for
+15 opioid use disorder at the time of release that addresses housing, employment,
+16 mental health services, and other social determinants of health. The plan shall
+17 facilitate continuity of care related to the individual’s opioid use disorder for a
+18 minimum of six months after an inmate’s release from a correctional facility.
+19 Each individualized reentry plan shall:
+20 (A) require the Department to schedule appointments with an opioid
+21 treatment program or office-based opioid treatment provider in the same region
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 11 of 16
+1 as an inmate’s residence at the time of the inmate’s release, including follow-
+2 up appointments;
+3 (B) ensure that each inmate reentering the community receives a
+4 discharge summary detailing all referral appointments and a list of regionally
+5 appropriate resources for individuals with opioid use disorder;
+6 (C) require that all inmates transitioning to the community who are
+7 receiving medication for opioid use disorder at the time of release receive not
+8 less than a seven-day supply of the medication to bridge the gap until the
+9 individual’s first post-incarceration visit at an opioid treatment program or
+10 office-based opioid treatment provider and a valid prescription to continue the
+11 medication for opioid use disorder after the medication supplied at the time of
+12 release from the correctional facility is depleted; and
+13 (D) ensure that a case manager monitors the individual’s adherence
+14 to treatment for opioid use disorder and provides support for long-term
+15 recovery.
+16 (2) If medication for opioid use disorder is indicated and despite best
+17 efforts induction is not possible prior to release, the Department shall ensure
+18 comprehensive care coordination with a community-based provider an
+19 individualized reentry plan is developed for the individual in accordance with
+20 subdivision (1) of this subsection.
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 12 of 16
+1 (3) If an offender takes a prescribed medication as part of medication for
+2 opioid use disorder while incarcerated and that prescription medication is both
+3 available at the facility and clinically appropriate for the offender at the time of
+4 discharge from the correctional facility, the Department or its contractor shall
+5 provide the offender, at the time of release, with a legally permissible supply to
+6 ensure that the offender may continue taking the medication as prescribed prior
+7 to obtaining the prescription medication in the community.
+8 (e)(1)(f) Counseling and behavioral therapy. Counseling or behavioral
+9 therapies shall be provided in conjunction with the use of medication for
+10 medication-assisted treatment opioid use disorder as provided for in the
+11 Department of Health’s “Rule Governing Medication for Opioid Use Disorder
+12 for: (1) Office-Based Opioid Treatment Providers Prescribing Buprenorphine;
+13 and (2) Opioid Treatment Providers.”
+14 (2) As part of reentry planning, the Department shall inform and offer
+15 care coordination to an offender to expedite access to counseling and
+16 behavioral therapies within the community.
+17 (3) As part of reentry planning, the Department or its contractor shall
+18 identify any necessary licensed health care provider or an opioid use disorder
+19 treatment program, or both, and schedule an intake appointment for the
+20 offender with the providers or treatment program, or both, to ensure that the
+21 offender can continue treatment in the community as part of the offender’s
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 13 of 16
+1 reentry plan. The Department or its contractor may employ or contract with a
+2 case worker or health navigator to assist with scheduling any health care
+3 appointments in the community.
+4 (g) Reporting. Annually, on or before January 15, the Department shall
+5 submit a report to the House Committee on Corrections and Institutions and to
+6 the Senate Committee on Judiciary addressing:
+7 (1) the number of individuals during the prior year who received
+8 medication for opioid use disorder in a correctional facility by medication type;
+9 (2) recidivism rates for individuals receiving medication for opioid use
+10 disorder while in a correctional facility;
+11 (3) cost analysis and savings related to reduced recidivism, health care
+12 expenditures, and criminal justice expenses for individuals who received
+13 medication for opioid use disorder while in a correctional facility, if
+14 applicable; and
+15 (4) health and social outcomes for individuals receiving medication for
+16 opioid use disorder while in a correctional facility at six-months post release.
+17 (h) Training. The Department shall ensure that all staff involved in the
+18 administration of medication for opioid use disorder or support of inmate’s
+19 receiving medication for opioid use disorder complete annual training on the
+20 benefits of medication for opioid use disorder, protocols related to the
+21 administration and storage of medication for opioid use disorder, and any
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 14 of 16
+1 security concerns related to the use of medication for opioid use disorder in a
+2 correctional facility. Trainings conducted pursuant to this subsection shall be
+3 developed in conjunction with providers serving a correctional facility in
+4 accordance with a memorandum of understanding executed pursuant to
+5 subsection (a) of this section.
+6 (i) As used in this section:
+7 (1) Office-based opioid treatment provider” means a provider, as
+8 defined by 18 V.S.A. § 9402, that prescribes medication for opioid use
+9 disorder pursuant to federal and State law, federal regulation, and State rule,
+10 and that is not an opioid treatment program. An office-based opioid treatment
+11 provider may include a preferred provider, a specialty addiction practice, an
+12 individual provider practice, or several providers practicing as a group.
+13 (2) “Opioid treatment program” means a specialty treatment program or
+14 practitioner registered under 21 U.S.C. § 823(g)(1) engaged in the treatment of
+15 individuals with opioid use disorder, including dispensing medication, such as
+16 methadone and buprenorphine, to treat opioid use disorder under controlled
+17 and observed conditions.
+18 (3) “Preferred provider” means an entity that has attained a certificate
+19 from the Department of Health and has an existing contract or grant from the
+20 Department of Health to provide substance use disorder treatment.
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 15 of 16
+1 Sec. 4. REPORT; OPIOID TREATMENT PROGRAM CERTIFICATION
+2 (a) On or before January 15, 2026, the Department of Corrections shall
+3 submit a report to the House Committee on Corrections and Institutions and to
+4 the Senate Committee on Judiciary containing a plan to obtain federal
+5 certification for opioid treatment programs at all correctional facilities in
+6 accordance with 42 C.F.R. Part 8 and transition from the memorandums of
+7 understanding executed between opioid treatment programs, office-based
+8 opioid treatment providers, and correctional facilities pursuant to this act to in-
+9 house opioid use disorder services, including medication for opioid use
+10 disorder.
+11 (b) As used in this section, “opioid treatment program” has the same
+12 meaning as in 28 V.S.A. § 801b.
+13 Sec. 5. GRANTS; MEDICATION FOR OPIOID USE DISORDER IN
+14 CORRECTIONAL FACILITIES
+15 (a) The Department of Corrections shall seek and apply for federal and
+16 State grants to support the memorandums of understanding executed between
+17 opioid treatment programs, office-based opioid treatment providers, and
+18 correctional facilities pursuant to this act, including grants for provider and
+19 staff training, technology improvements, and the development of infrastructure
+20 necessary for care coordination.
+VT LEG #379111 v.1
+
+BILL AS INTRODUCED H.32
+2025 Page 16 of 16
+1 (b) As used in this section, “opioid treatment program” and “office based
+2 opioid treatment provider” have the same meaning as in 28 V.S.A. § 801b.
+3 Sec. 6. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #379111 v.1
+
+[DELETED:  H P H I R C B W o G C K A M M W o T R D S o S D]
+[DELETED:  H P o p d m r o A I S I d t V S § ( i p o]
+[DELETED:  H P s o ( ( c e ( i o i * ( ( a p r p p V i p]
+[DELETED:  H P t D p c f t ( m s a f a s m ( t f e d a n]
+[DELETED:  H P t n t ( c ( ( a t m c n d d ( 1 ( D p t w]
+[DELETED:  H P ( ( o p c c i p t n c v r ( D p i e t e s]
+[DELETED:  H P S §   ( e t t m C t p m m p t m o H B T u]
+[DELETED:  H P d M t d w ( i t d b m s u ( m t ( a ( p o]
+[DELETED:  H P a s t ( r f f a d a s ( p c e m i b t w w]
+[DELETED:  H P c i i c m ( p p ( ( ( d ( e o m f m E ( t]
+[DELETED:  H P a u ( d a ( r l i o m r ( t r ( e c i s]
+[DELETED:  H P ( o a d p e t ( t m D f a ( c b ( i t o o]
+[DELETED:  H P r c a ( s t ( m ( d ( e m a ( o ( a r b a]
+[DELETED:  H P s c d a s ( ( d d a p i ( p i m a ( f D]
+[DELETED:  H P S ( s t c a u o h d ( m S   ( S o c s n]
+[DELETED:  H P ( o S T]

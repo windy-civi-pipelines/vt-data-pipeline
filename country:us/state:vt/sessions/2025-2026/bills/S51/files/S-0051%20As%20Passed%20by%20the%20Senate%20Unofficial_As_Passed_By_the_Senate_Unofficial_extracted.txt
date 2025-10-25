@@ -1,0 +1,188 @@
+Title: 2 An act relating to the Vermont unpaid caregiver tax credit
+Official Title: 2 An act relating to the Vermont unpaid caregiver tax credit
+Number of Sections: 1
+Source: versions - As Passed By the Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY SENATE S.51
+2025 Page 1 of 4
+1 S.51
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. FINDINGS
+5 The General Assembly finds:
+6 (1) According to the U.S. Department of Labor, women in the United
+7 States 55 years of age and older provide 26.6 million hours of unpaid care to
+8 family and friends daily.
+9 (2) According to the AARP:
+10 (A) More than 75 percent of family caregivers 50 years of age and
+11 older who retired early because of family caregiving responsibilities would
+12 have remained in the workforce longer if they had access to financial or
+13 nonfinancial supports.
+14 (B) If family caregivers aged 50 years of age and older have access to
+15 support in the workplace, U.S. Gross Domestic Product could grow by an
+16 additional $1.7 trillion (5.5 percent) in 2030.
+17 (3) According to a 2023 report by the Urban Institute, entitled “Lifetime
+18 Employment-Related Costs to Women of Providing Family Care,” the
+19 employment-related costs for mothers of providing unpaid care to minor
+20 children and parents, parents-in-law, and spouses (including unmarried
+21 partners) with care needs average $295,000.00 over a lifetime.
+VT LEG #381911 v.1
+AS PASSED BY SENATE S.51
+2025 Page 2 of 4
+1 (4) Using a national survey and six focus groups, the Commonwealth
+2 Fund identified financial compensation for the time spent caregiving as a top
+3 policy priority for family caregivers.
+4 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+5 § 5813. STATUTORY PURPOSES
+6 * * *
+7 (aa) The statutory purpose of the unpaid caregiver tax credit in section
+8 5830g of this title is to provide financial support to Vermonters who spend
+9 significant time providing uncompensated care for a family member.
+10 Sec. 3. 32 V.S.A. § 5830g is added to read:
+11 § 5830g. VERMONT UNPAID CAREGIVER TAX CREDIT
+12 (a) A resident individual or part-year resident individual who provides
+13 uncompensated care shall be entitled to a refundable credit against the tax
+14 imposed by section 5822 of this title for the taxable year. The maximum
+15 allowable credit per taxable year shall be $1,000.00 for providing 12 months of
+16 uncompensated care. The credit shall be based on the number of months the
+17 individual caregiver spent providing at least 20 hours per week of
+18 uncompensated care for an individual who:
+19 (1) is related to the caregiver by blood, civil marriage, or adoption;
+20 (2) needs assistance with activities of daily living, home health care, or
+21 assistance remaining safe at home;
+VT LEG #381911 v.1
+AS PASSED BY SENATE S.51
+2025 Page 3 of 4
+1 (3) has a medically diagnosed disability or health condition; and
+2 (4) does not reside at a residential care home, an assisted living
+3 residence, or nursing home as defined by 33 V.S.A. § 7102, or any other
+4 similar adult care home that is licensed or required to be licensed pursuant to
+5 33 V.S.A. chapter 71.
+6 (b) Notwithstanding subsection (a) of this section, the amount of the credit
+7 under this section shall be reduced by $20.00 for each $1,000.00, or fraction
+8 thereof, by which the individual’s adjusted gross income exceeds $125,000.00,
+9 irrespective of the individual’s filing status. For purposes of this subsection,
+10 spouses filing jointly shall be considered an individual.
+11 (c) An individual claiming the credit under this section shall attest that they
+12 met all requirements under this section for the number of months claimed.
+13 (d) Upon the Commissioner’s request, an individual claiming a credit under
+14 this section shall provide supporting documentation or other information
+15 relating to the individual’s qualification for the credit, including a form
+16 prepared by the Commissioner, to be executed by a licensed medical
+17 professional, attesting that the licensed medical professional provides primary
+18 or specialized medical care for the individual receiving uncompensated care
+19 and that the individual has a medical diagnosis requiring assistance with
+20 activities of daily living for at least 20 hours per week. The individual
+21 claiming the credit shall have the medical professional execute the form prior
+VT LEG #381911 v.1
+AS PASSED BY SENATE S.51
+2025 Page 4 of 4
+1 to claiming the credit, shall retain the executed form for a period of at least
+2 three years, and shall provide the form to the Commissioner on request.
+3 Sec. 4. EFFECTIVE DATE
+4 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+5 January 1, 2025 and apply to taxable years beginning on and after January 1,
+6 2025.
+VT LEG #381911 v.1
+[DELETED:  S P S A I S T ( S f ( ( o h n ( s a ( E e c p]
+[DELETED:  S P ( F p S § * ( 5 s S § ( u i a u i u ( ( a]
+[DELETED:  S P ( ( r s 3 ( u t i s ( m ( t r p p o a a c]
+[DELETED:  S P t t S N J 2]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY SENATE S.51
+2025 Page 1 of 4
+1 S.51
+2 An act relating to the Vermont unpaid caregiver tax credit
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. FINDINGS
+5 The General Assembly finds:
+6 (1) According to the U.S. Department of Labor, women in the United
+7 States 55 years of age and older provide 26.6 million hours of unpaid care to
+8 family and friends daily.
+9 (2) According to the AARP:
+10 (A) More than 75 percent of family caregivers 50 years of age and
+11 older who retired early because of family caregiving responsibilities would
+12 have remained in the workforce longer if they had access to financial or
+13 nonfinancial supports.
+14 (B) If family caregivers aged 50 years of age and older have access to
+15 support in the workplace, U.S. Gross Domestic Product could grow by an
+16 additional $1.7 trillion (5.5 percent) in 2030.
+17 (3) According to a 2023 report by the Urban Institute, entitled “Lifetime
+18 Employment-Related Costs to Women of Providing Family Care,” the
+19 employment-related costs for mothers of providing unpaid care to minor
+20 children and parents, parents-in-law, and spouses (including unmarried
+21 partners) with care needs average $295,000.00 over a lifetime.
+VT LEG #381911 v.1
+
+AS PASSED BY SENATE S.51
+2025 Page 2 of 4
+1 (4) Using a national survey and six focus groups, the Commonwealth
+2 Fund identified financial compensation for the time spent caregiving as a top
+3 policy priority for family caregivers.
+4 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+5 § 5813. STATUTORY PURPOSES
+6 * * *
+7 (aa) The statutory purpose of the unpaid caregiver tax credit in section
+8 5830g of this title is to provide financial support to Vermonters who spend
+9 significant time providing uncompensated care for a family member.
+10 Sec. 3. 32 V.S.A. § 5830g is added to read:
+11 § 5830g. VERMONT UNPAID CAREGIVER TAX CREDIT
+12 (a) A resident individual or part-year resident individual who provides
+13 uncompensated care shall be entitled to a refundable credit against the tax
+14 imposed by section 5822 of this title for the taxable year. The maximum
+15 allowable credit per taxable year shall be $1,000.00 for providing 12 months of
+16 uncompensated care. The credit shall be based on the number of months the
+17 individual caregiver spent providing at least 20 hours per week of
+18 uncompensated care for an individual who:
+19 (1) is related to the caregiver by blood, civil marriage, or adoption;
+20 (2) needs assistance with activities of daily living, home health care, or
+21 assistance remaining safe at home;
+VT LEG #381911 v.1
+
+AS PASSED BY SENATE S.51
+2025 Page 3 of 4
+1 (3) has a medically diagnosed disability or health condition; and
+2 (4) does not reside at a residential care home, an assisted living
+3 residence, or nursing home as defined by 33 V.S.A. § 7102, or any other
+4 similar adult care home that is licensed or required to be licensed pursuant to
+5 33 V.S.A. chapter 71.
+6 (b) Notwithstanding subsection (a) of this section, the amount of the credit
+7 under this section shall be reduced by $20.00 for each $1,000.00, or fraction
+8 thereof, by which the individual’s adjusted gross income exceeds $125,000.00,
+9 irrespective of the individual’s filing status. For purposes of this subsection,
+10 spouses filing jointly shall be considered an individual.
+11 (c) An individual claiming the credit under this section shall attest that they
+12 met all requirements under this section for the number of months claimed.
+13 (d) Upon the Commissioner’s request, an individual claiming a credit under
+14 this section shall provide supporting documentation or other information
+15 relating to the individual’s qualification for the credit, including a form
+16 prepared by the Commissioner, to be executed by a licensed medical
+17 professional, attesting that the licensed medical professional provides primary
+18 or specialized medical care for the individual receiving uncompensated care
+19 and that the individual has a medical diagnosis requiring assistance with
+20 activities of daily living for at least 20 hours per week. The individual
+21 claiming the credit shall have the medical professional execute the form prior
+VT LEG #381911 v.1
+
+AS PASSED BY SENATE S.51
+2025 Page 4 of 4
+1 to claiming the credit, shall retain the executed form for a period of at least
+2 three years, and shall provide the form to the Commissioner on request.
+3 Sec. 4. EFFECTIVE DATE
+4 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+5 January 1, 2025 and apply to taxable years beginning on and after January 1,
+6 2025.
+VT LEG #381911 v.1
+
+[DELETED:  S P S A I S T ( S f ( ( o h n ( s a ( E e c p]
+[DELETED:  S P ( F p S § * ( 5 s S § ( u i a u i u ( ( a]
+[DELETED:  S P ( ( r s 3 ( u t i s ( m ( t r p p o a a c]
+[DELETED:  S P t t S N J 2]

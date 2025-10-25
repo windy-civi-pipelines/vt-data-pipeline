@@ -1,0 +1,493 @@
+Title: BILLAS INTRODUCED AND PASSED BY SENATE S.23
+Official Title: BILLAS INTRODUCED AND PASSED BY SENATE S.23
+Number of Sections: 5
+Source: versions - As Passed By the Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 9
+1 S.23
+2 Introduced by Senators Hardy, Clarkson, Collamore, Norris, Vyhovsky,
+3 Watson and White
+4 Referred to Committee on Government Operations
+5 Date: January 22, 2025
+6 Subject: Elections; offenses against the purity of elections; synthetic media
+7 Statement of purpose of bill as introduced: This bill proposes to require the
+8 disclosure of deceptive and fraudulent synthetic media within 90 days of an
+9 election.
+10 An act relating to the use of synthetic media in elections
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+13 Subchapter 4. Use of Synthetic Media in Elections
+14 § 2031. DEFINITIONS
+15 As used in this subchapter:
+16 (1) “Deceptive and fraudulent synthetic media” means synthetic media
+17 that creates a representation of an individual or individuals with the intent to
+18 injure the reputation of a candidate, to influence the outcome of an election, or
+19 to otherwise deceive a voter, in a manner that:
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 2 of 9
+1 (A) appears to a reasonable person to represent an individual saying
+2 or doing something that did not occur; or
+3 (B) provides a reasonable person with a fundamentally different
+4 understanding or impression of the appearance, speech, conduct, or
+5 environment that a reasonable person would have from an unaltered and
+6 original version of the image, audio recording, or video recording.
+7 (2) “Synthetic media” means an image, an audio recording, or a video
+8 recording of an individual’s appearance, speech, conduct, or environment that
+9 has been created or intentionally manipulated with the use of digital
+10 technology, including artificial intelligence, in a manner that creates a realistic
+11 but false representation of the candidate.
+12 § 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+13 SYNTHETIC MEDIA
+14 (a) Disclosure. A person shall not, within 90 days of an election at which a
+15 candidate for elective office will appear on the ballot, publish, communicate,
+16 or otherwise distribute a synthetic media message that the person knows or
+17 should have known is a deceptive and fraudulent synthetic media of a
+18 candidate on the ballot, unless the synthetic media includes a disclosure
+19 stating: “This media has been created or intentionally manipulated by digital
+20 technology or artificial intelligence.”
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 3 of 9
+1 (1) For deceptive and fraudulent synthetic media consisting of images
+2 and video recordings, the text of the disclosure shall appear in a size that is
+3 easily readable by the average viewer and not smaller than the largest font size
+4 of other text appearing in the visual media. If the image or video recording
+5 does not include any other text, the disclosure shall appear in a size that is
+6 easily readable by the average viewer. For video recordings, the disclosure
+7 shall appear for the full duration of the video recording.
+8 (2) For deceptive and fraudulent synthetic media consisting of audio
+9 recordings only, the disclosure shall be read in a clearly spoken manner and in
+10 a pitch that can be easily heard by the average listener, at the beginning of the
+11 audio recording, at the end of the audio recording, and, if the audio is greater
+12 than two minutes in length, interspersed within the audio recording at intervals
+13 of not greater than two minutes each.
+14 (b) Exceptions.
+15 (1) Subsection (a) of this section shall not apply to a radio or television
+16 broadcasting station, including a cable or satellite television operator,
+17 programmer, or producer, that broadcasts deceptive and fraudulent synthetic
+18 media as part of a bona fide newscast, news interview, news documentary, or
+19 on-the-spot coverage of bona fide news events, if the broadcast clearly
+20 acknowledges through content or a disclosure, in a manner that can be easily
+21 heard or read by the average listener or viewer, that there are questions about
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 4 of 9
+1 the authenticity of the deceptive and fraudulent synthetic media, or in cases
+2 where federal law requires broadcasters to air advertisements from legally
+3 qualified candidates.
+4 (2) Subsection (a) of this section shall not apply to a radio or television
+5 broadcasting station, including a cable or satellite television operator,
+6 programmer, or producer, when it is paid to broadcast deceptive and fraudulent
+7 synthetic media after making a good faith effort to establish that the
+8 representation is not deceptive and fraudulent synthetic media, or in cases
+9 where federal law requires broadcasters to air advertisements from legally
+10 qualified candidates.
+11 (3) Subsection (a) of this section shall not apply to an internet website
+12 or a regularly published newspaper, magazine, or other periodical of general
+13 circulation, including an internet or electronic publication, that routinely
+14 carries news and commentary of general interest, and that publishes deceptive
+15 and fraudulent synthetic media, if the publication clearly states that the
+16 deceptive and fraudulent synthetic media does not accurately represent the
+17 speech or conduct of the represented individual.
+18 (4) Subsection (a) of this section shall not apply to deceptive and
+19 fraudulent synthetic media that constitutes satire or parody.
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 5 of 9
+1 § 2033. PENALTIES
+2 (a) A person that knowingly and intentionally violates a provision of this
+3 subchapter shall be fined not more than $1,000.00, unless:
+4 (1) the person commits the violation with the intent to cause violence or
+5 bodily harm, in which case the fine shall be not more than $5,000.00;
+6 (2) the person commits the violation within five years after one or more
+7 prior convictions under this section, in which case the fine shall be not more
+8 than $10,000.00; or
+9 (3) the person commits the violation with the intent to cause violence or
+10 bodily harm and the person commits the violation within five years after one
+11 or more prior convictions under this section, in which case the fine shall be not
+12 more than $15,000.00.
+13 (b) A candidate whose appearance, speech, conduct, or environment is
+14 misrepresented through the use of deceptive and fraudulent synthetic media in
+15 violation of section 2032 of this title may seek injunctive or other equitable
+16 relief prohibiting the publication, communication, or other distribution of such
+17 deceptive and fraudulent synthetic media.
+18 Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+19 Subchapter 5. Enforcement and Additional Remedies
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 6 of 9
+1 § 2041. INJUNCTIONS
+2 In addition to the other penalties provided in this chapter, a State’s Attorney
+3 or the Attorney General may institute any appropriate action, injunction, or
+4 other proceeding to prevent, restrain, correct, or abate any violation of this
+5 chapter.
+6 Sec. 3. EFFECTIVE DATE
+7 This act shall take effect on passage.
+Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+Subchapter 4. Use of Synthetic Media in Elections
+
+Section 2:
+§ 2031. DEFINITIONS
+As used in this subchapter:
+(1) “Deceptive and fraudulent synthetic media” means synthetic media
+that creates a representation of an individual or individuals with the intent to
+injure the reputation of a candidate, to influence the outcome of an election, or
+to otherwise deceive a voter, in a manner that:
+(A) appears to a reasonable person to be an authentic recording of
+an individual saying or doing something that did not occur; or
+(B) provides a reasonable person with a fundamentally different
+understanding or impression of the appearance, speech, conduct, or
+environment that a reasonable person would have from an unaltered and
+original version of the image, audio recording, or video recording.
+(2) “Synthetic media” means an image, an audio recording, or a video
+recording of an individual’s appearance, speech, conduct, or environment that
+has been created or intentionally manipulated with the use of digital
+technology, including artificial intelligence, in a manner that creates a realistic
+but false representation of the candidate.
+
+Section 3:
+§ 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+SYNTHETIC MEDIA
+(a) Disclosure. A person shall not, within 90 days before an election at
+which a candidate for elective office will appear on the ballot, publish,
+communicate, or otherwise distribute a synthetic media message that the
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 7 of 9
+person knows or should have known is a deceptive and fraudulent synthetic
+media of a candidate on the ballot, unless the person includes a disclosure in
+the synthetic media stating: “This media has been created or intentionally
+manipulated by digital technology or artificial intelligence.”
+(a) Disclosure. A person shall not, within 90 days before an election in
+Vermont, publish, communicate, or otherwise distribute synthetic media that
+the person knows or should have known is deceptive and fraudulent synthetic
+media unless the person includes a disclosure in the synthetic media stating:
+“This media has been created or intentionally manipulated by digital
+technology or artificial intelligence.”
+(1) For deceptive and fraudulent synthetic media consisting of images
+and video recordings, the text of the disclosure shall appear in a size that is
+easily readable by the average viewer and not smaller than the largest font size
+of other text appearing in the visual media. If the image or video recording
+does not include any other text, the disclosure shall appear in a size that is
+easily readable by the average viewer. For video recordings, the disclosure
+shall appear for the full duration of the video recording.
+(2) For deceptive and fraudulent synthetic media consisting of audio
+recordings only, the disclosure shall be read in a clearly spoken manner and in
+a pitch and pace that can be easily heard by the average listener, at the
+beginning of the audio recording, at the end of the audio recording, and, if the
+audio is greater than two minutes in length, interspersed within the audio
+recording at intervals of not greater than two minutes each.
+(b) Exceptions. Subsection (a) of this section shall not apply to:
+(1) a radio or television broadcasting station, including a cable or
+satellite television operator, programmer, or producer, or to a website,
+streaming platform, or mobile application, that:
+(A) broadcasts deceptive and fraudulent synthetic media as part of a
+bona fide newscast, news interview, news documentary, or on-the-spot
+coverage of bona fide news events, so long as the broadcast clearly
+acknowledges through content or a disclosure, in a manner that can be easily
+heard or read by the average listener or viewer, that there are questions about
+the authenticity of the deceptive and fraudulent synthetic media;
+(B) is paid to broadcast deceptive and fraudulent synthetic media; or
+(C) is required by federal law to broadcast advertisements from
+legally qualified candidates;
+(2) a website or a regularly published newspaper, magazine, or other
+periodical of general circulation, including an internet or electronic
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 8 of 9
+publication, that routinely carries news and commentary of general interest,
+and that publishes deceptive and fraudulent synthetic media, if the publication
+clearly states that the deceptive and fraudulent synthetic media does not
+accurately represent the speech or conduct of the represented individual;
+(3) a person that produces deceptive and fraudulent synthetic media
+constituting satire or parody;
+(4) a provider of a telecommunications service or information service,
+as those terms are defined in the Communications Act of 1934, 47 U.S.C. §
+153, for content provided by another person; or
+(5) a provider of an interactive computer service, as defined in 47
+U.S.C. § 230, for content provided by another person.
+
+Section 4:
+§ 2033. PENALTIES
+(a) A person that knowingly and intentionally violates a provision of this
+subchapter shall be fined not more than $1,000.00, unless:
+(1) the person commits the violation with the intent to cause violence or
+bodily harm, in which case the fine shall be not more than $5,000.00;
+(2) the person commits the violation within five years after one or more
+prior convictions under this section, in which case the fine shall be not more
+than $10,000.00; or
+(3) the person commits the violation with the intent to cause violence or
+bodily harm and the person commits the violation within five years after one or
+more prior convictions under this section, in which case the fine shall be not
+more than $15,000.00.
+(b) A candidate whose appearance, speech, conduct, or environment is
+misrepresented through the use of deceptive and fraudulent synthetic media in
+violation of section 2032 of this title may seek injunctive or other equitable
+relief prohibiting the publication, communication, or other distribution of such
+deceptive and fraudulent synthetic media.
+Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+Subchapter 5. Enforcement and Additional Remedies
+
+Section 5:
+§ 2041. INJUNCTIONS
+In addition to the other penalties provided in this chapter, a State’s Attorney
+or the Attorney General may institute any appropriate action, injunction, or
+other proceeding to prevent, restrain, correct, or abate any violation of this
+chapter.
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 9 of 9
+Sec. 3. EFFECTIVE DATE
+This act shall take effect on passage.
+[DELETED: LASIDADPDBYSES5Pe1ofSIdbySsH,C,C,N,VWnadWRdtoCeonGtOD:Jy2,2S:E;osattepyofe;scmStofpeofblasi:Tsblpstoretdeofdeadftscmawn90dsofae0Anatrgtoteueofscmaine1ItishyedbyteGlAyofteSeofV2S.1.17V.cr3,sr4isadtor3Sr4.UeofScMainE4§2.D5Asudintss6()“eadftscm”msscm7ttcsarnofaniloriswhteitt8ieternofac,toieteoeofane,o9tooedeav,inamrt]
+[DELETED: LASIDADPDBYSES5Pe2of()astoarepntortanilsordgsgttddnto;o()psarepnwhafydugorinoftea,s,c,oetttarepnwdhefmanudaolvnoftei,aor,orvor()“cm”msani,anaor,oravrgofanisa,s,c,oretthsbncdoriymdwhteueofd0t,igali,inamrttcsar1btfernoftec2§2.DEOFADEADF3SCM4()D.Apnsln,wn90dsofanenatwh5cefreeoewlaronteb,p,c6oroedeascmametttepnkso7sdheknisadeadftscmaof8ceonteb,ustescmaisad9s:“smahsbncdoriymdbyd0tyorali]
+[DELETED: LASIDADPDBYSES5Pe3of()Frdeadftscmacgofiadvor,tettoftedeslarinasettieyrebyteaevradntsrtnteltftsoforttagintevlm.Ifteieorvordsntieayort,tedeslarinasettieyrebyteaev.Frvor,tedslarfrtefldnoftevor()Frdeadftscmacgofarso,tedeslberdinacysnmradi0aphttcnbeeyhdbyteael,attebgoft1aor,atteedofteaor,a,ifteaoisg2tntomsinl,idwnteaorgati3ofntgrtntomse4()E5()Sn()oftssnslntaytoaroort6bgs,igaceorsetno7p,orp,ttbsdeadfts8maasptofabafen,nsi,nsd,o9otceofbafense,iftebtc0asthctorad,inamrttcnbee1hdorrdbyteaelrorv,ttteaeqsa]
+[DELETED: LASIDADPDBYSES5Pe4ofteayoftedeadftscm,orincwefllwrsbstoarasfmlqdc()Sn()oftssnslntaytoaroortbgs,igaceorsetnop,orp,wnitispdtobtdeadfscmaarmgagdfhettoehtttrnisntdeadftscm,orincwefllwrsbstoarasfml0qdc1()Sn()oftssnslntaytoanitw2orarypdn,m,ororplofg3c,iganitorecp,ttr4csnsadcyofgli,adttpsd5adftscm,iftepncyssttt6deadftscmadsntayrtt7shorctofterdi8()Sn()oftssnslntaytodea9ftscmattcsseorp]
+[DELETED: LASIDADPDBYSES5Pe5of§2.P()Apnttkyadiyvsapnoftsrslbefdntmetn$,u()tepncstevnwhteittoceveobyh,inwhcetefeslbentmetn$()tepncstevnwnfeysaroeormprcsurtss,inwhcetefeslbentmtn$;o()tepncstevnwhteittoceveo0byhmadtepncstevnwnfeysaro1ormeprcsurtss,inwhcetefeslben2metn$3()Acewea,s,c,oreti4mdthteueofdeadftscmai5vnofsn22oftstemyskieorore6rfpgtep,c,orordnofs7deadftscm8S.2.17V.cr3,sr5isadtor9Sr5.EtadAlR]
+[DELETED: LASIDADPDBYSES5Pe6of§2.IInantoteorpspdintsc,aSsAorteAyGlmyieayaea,i,oorpgtop,r,c,oraeayvnoftcS.3.EEDTsatslteetonp.1.17V.cr3,sr4isadtorr4.UeofScMainE2.Dsudintss)“eadftscm”msscmtcsarnofaniloriswhteitteternofac,toieteoeofane,oooedeav,inamrt)astoarepntobeanacrgonilsgordgsgttddnto;o)psarepnwhafydgorinoftea,s,c,otttarepnwdhefmanudalvnoftei,aor,orvor)“cm”msani,anaor,oravgofanisa,s,c,orettsbncdoriymdwhteueofd,igali,inamrttcsartfernoftec2.DEOFADEADFCM)D.Apnsln,wn90dsbeanenahacefreeoewlaronteb,p,oroedeascmamettt]
+[DELETED: LASIDADPDBYSES5Pe7ofnksorsdheknisadeadftsaofaceonteb,ustepnisadeiescmas:“smahsbncdoridbydltyorali)D.Apnsln,wn90dsbeaneni,p,c,oroedescmatepnksorsdheknisdeadftsaustepnisadeintescmassmahsbncdoriymdbydyorali)Frdeadftscmacgofidvor,tettoftedeslarinasettiyrebyteaevradntsrtnteltftsforttagintevlm.Ifteieorvorsntieayort,tedeslarinasettiyrebyteaev.Frvor,tedlarfrtefldnoftevor)Frdeadftscmacgofaso,tedeslberdinacysnmradiphadpettcnbeeyhdbyteael,attgofteaor,atteedofteaor,a,iftoisgrtntomsinl,idwnteagatisofntgrtntomse)E.Sn()oftssnslntayt)aroortnbgs,igaceoetno,p,orp,ortoawgp,ormea,t)bsdeadftscmaasptofafen,nsi,nsd,oroeofbafense,solgastebtcsthctorad,inamrttcnbeedorrdbyteaelrorv,ttteaeqsaeayoftedeadftscm)ispdtobtdeadftscm;o)isrdbyfllwtobtasfyqdc)aweorarypdn,m,orolofglc,iganitore]
+[DELETED: LASIDADPDBYSES5Pe8of,ttrycsnsadcyofglidttpsdeadftscm,iftepysstttedeadftscmadsnyrtteshorctofterdi)apnttpsdeadftscmgseorp)aprofatsseorinsstetsaeddinteCsAtof1,47U.,frctpdbyarp;o)aprofaniecrs,asddin4.§2,frctpdbyarp2.P)Apnttkyadiyvsapnoftrslbefdntmetn$,u)tepncstevnwhteittoceveoyh,inwhcetefeslbentmetn$)tepncstevnwnfeysaroeormrcsurtss,inwhcetefeslbentmn$;o)tepncstevnwhteittoceveoyhmadtepncstevnwnfeysaroeoeprcsurtss,inwhcetefeslbenetn$)Acewea,s,c,oretidthteueofdeadftscmainofsn22oftstemyskieororefpgtep,c,orordnofseadftscm.2.17V.cr3,sr5isadtorr5.EtadAlR2.Inantoteorpspdintsc,aSsArteAyGlmyieayaea,i,orpgtop,r,c,oraeayvnoft]
+[DELETED: LASIDADPDBYSES5Pe9of.3.EEDsatslteetonp]
+
+
+================================================================================
+
+Raw Text:
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 1 of 9
+1 S.23
+2 Introduced by Senators Hardy, Clarkson, Collamore, Norris, Vyhovsky,
+3 Watson and White
+4 Referred to Committee on Government Operations
+5 Date: January 22, 2025
+6 Subject: Elections; offenses against the purity of elections; synthetic media
+7 Statement of purpose of bill as introduced: This bill proposes to require the
+8 disclosure of deceptive and fraudulent synthetic media within 90 days of an
+9 election.
+10 An act relating to the use of synthetic media in elections
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+13 Subchapter 4. Use of Synthetic Media in Elections
+14 § 2031. DEFINITIONS
+15 As used in this subchapter:
+16 (1) “Deceptive and fraudulent synthetic media” means synthetic media
+17 that creates a representation of an individual or individuals with the intent to
+18 injure the reputation of a candidate, to influence the outcome of an election, or
+19 to otherwise deceive a voter, in a manner that:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 2 of 9
+1 (A) appears to a reasonable person to represent an individual saying
+2 or doing something that did not occur; or
+3 (B) provides a reasonable person with a fundamentally different
+4 understanding or impression of the appearance, speech, conduct, or
+5 environment that a reasonable person would have from an unaltered and
+6 original version of the image, audio recording, or video recording.
+7 (2) “Synthetic media” means an image, an audio recording, or a video
+8 recording of an individual’s appearance, speech, conduct, or environment that
+9 has been created or intentionally manipulated with the use of digital
+10 technology, including artificial intelligence, in a manner that creates a realistic
+11 but false representation of the candidate.
+12 § 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+13 SYNTHETIC MEDIA
+14 (a) Disclosure. A person shall not, within 90 days of an election at which a
+15 candidate for elective office will appear on the ballot, publish, communicate,
+16 or otherwise distribute a synthetic media message that the person knows or
+17 should have known is a deceptive and fraudulent synthetic media of a
+18 candidate on the ballot, unless the synthetic media includes a disclosure
+19 stating: “This media has been created or intentionally manipulated by digital
+20 technology or artificial intelligence.”
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 3 of 9
+1 (1) For deceptive and fraudulent synthetic media consisting of images
+2 and video recordings, the text of the disclosure shall appear in a size that is
+3 easily readable by the average viewer and not smaller than the largest font size
+4 of other text appearing in the visual media. If the image or video recording
+5 does not include any other text, the disclosure shall appear in a size that is
+6 easily readable by the average viewer. For video recordings, the disclosure
+7 shall appear for the full duration of the video recording.
+8 (2) For deceptive and fraudulent synthetic media consisting of audio
+9 recordings only, the disclosure shall be read in a clearly spoken manner and in
+10 a pitch that can be easily heard by the average listener, at the beginning of the
+11 audio recording, at the end of the audio recording, and, if the audio is greater
+12 than two minutes in length, interspersed within the audio recording at intervals
+13 of not greater than two minutes each.
+14 (b) Exceptions.
+15 (1) Subsection (a) of this section shall not apply to a radio or television
+16 broadcasting station, including a cable or satellite television operator,
+17 programmer, or producer, that broadcasts deceptive and fraudulent synthetic
+18 media as part of a bona fide newscast, news interview, news documentary, or
+19 on-the-spot coverage of bona fide news events, if the broadcast clearly
+20 acknowledges through content or a disclosure, in a manner that can be easily
+21 heard or read by the average listener or viewer, that there are questions about
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 4 of 9
+1 the authenticity of the deceptive and fraudulent synthetic media, or in cases
+2 where federal law requires broadcasters to air advertisements from legally
+3 qualified candidates.
+4 (2) Subsection (a) of this section shall not apply to a radio or television
+5 broadcasting station, including a cable or satellite television operator,
+6 programmer, or producer, when it is paid to broadcast deceptive and fraudulent
+7 synthetic media after making a good faith effort to establish that the
+8 representation is not deceptive and fraudulent synthetic media, or in cases
+9 where federal law requires broadcasters to air advertisements from legally
+10 qualified candidates.
+11 (3) Subsection (a) of this section shall not apply to an internet website
+12 or a regularly published newspaper, magazine, or other periodical of general
+13 circulation, including an internet or electronic publication, that routinely
+14 carries news and commentary of general interest, and that publishes deceptive
+15 and fraudulent synthetic media, if the publication clearly states that the
+16 deceptive and fraudulent synthetic media does not accurately represent the
+17 speech or conduct of the represented individual.
+18 (4) Subsection (a) of this section shall not apply to deceptive and
+19 fraudulent synthetic media that constitutes satire or parody.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 5 of 9
+1 § 2033. PENALTIES
+2 (a) A person that knowingly and intentionally violates a provision of this
+3 subchapter shall be fined not more than $1,000.00, unless:
+4 (1) the person commits the violation with the intent to cause violence or
+5 bodily harm, in which case the fine shall be not more than $5,000.00;
+6 (2) the person commits the violation within five years after one or more
+7 prior convictions under this section, in which case the fine shall be not more
+8 than $10,000.00; or
+9 (3) the person commits the violation with the intent to cause violence or
+10 bodily harm and the person commits the violation within five years after one
+11 or more prior convictions under this section, in which case the fine shall be not
+12 more than $15,000.00.
+13 (b) A candidate whose appearance, speech, conduct, or environment is
+14 misrepresented through the use of deceptive and fraudulent synthetic media in
+15 violation of section 2032 of this title may seek injunctive or other equitable
+16 relief prohibiting the publication, communication, or other distribution of such
+17 deceptive and fraudulent synthetic media.
+18 Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+19 Subchapter 5. Enforcement and Additional Remedies
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 6 of 9
+1 § 2041. INJUNCTIONS
+2 In addition to the other penalties provided in this chapter, a State’s Attorney
+3 or the Attorney General may institute any appropriate action, injunction, or
+4 other proceeding to prevent, restrain, correct, or abate any violation of this
+5 chapter.
+6 Sec. 3. EFFECTIVE DATE
+7 This act shall take effect on passage.
+Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+Subchapter 4. Use of Synthetic Media in Elections
+§ 2031. DEFINITIONS
+As used in this subchapter:
+(1) “Deceptive and fraudulent synthetic media” means synthetic media
+that creates a representation of an individual or individuals with the intent to
+injure the reputation of a candidate, to influence the outcome of an election, or
+to otherwise deceive a voter, in a manner that:
+(A) appears to a reasonable person to be an authentic recording of
+an individual saying or doing something that did not occur; or
+(B) provides a reasonable person with a fundamentally different
+understanding or impression of the appearance, speech, conduct, or
+environment that a reasonable person would have from an unaltered and
+original version of the image, audio recording, or video recording.
+(2) “Synthetic media” means an image, an audio recording, or a video
+recording of an individual’s appearance, speech, conduct, or environment that
+has been created or intentionally manipulated with the use of digital
+technology, including artificial intelligence, in a manner that creates a realistic
+but false representation of the candidate.
+§ 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+SYNTHETIC MEDIA
+(a) Disclosure. A person shall not, within 90 days before an election at
+which a candidate for elective office will appear on the ballot, publish,
+communicate, or otherwise distribute a synthetic media message that the
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 7 of 9
+person knows or should have known is a deceptive and fraudulent synthetic
+media of a candidate on the ballot, unless the person includes a disclosure in
+the synthetic media stating: “This media has been created or intentionally
+manipulated by digital technology or artificial intelligence.”
+(a) Disclosure. A person shall not, within 90 days before an election in
+Vermont, publish, communicate, or otherwise distribute synthetic media that
+the person knows or should have known is deceptive and fraudulent synthetic
+media unless the person includes a disclosure in the synthetic media stating:
+“This media has been created or intentionally manipulated by digital
+technology or artificial intelligence.”
+(1) For deceptive and fraudulent synthetic media consisting of images
+and video recordings, the text of the disclosure shall appear in a size that is
+easily readable by the average viewer and not smaller than the largest font size
+of other text appearing in the visual media. If the image or video recording
+does not include any other text, the disclosure shall appear in a size that is
+easily readable by the average viewer. For video recordings, the disclosure
+shall appear for the full duration of the video recording.
+(2) For deceptive and fraudulent synthetic media consisting of audio
+recordings only, the disclosure shall be read in a clearly spoken manner and in
+a pitch and pace that can be easily heard by the average listener, at the
+beginning of the audio recording, at the end of the audio recording, and, if the
+audio is greater than two minutes in length, interspersed within the audio
+recording at intervals of not greater than two minutes each.
+(b) Exceptions. Subsection (a) of this section shall not apply to:
+(1) a radio or television broadcasting station, including a cable or
+satellite television operator, programmer, or producer, or to a website,
+streaming platform, or mobile application, that:
+(A) broadcasts deceptive and fraudulent synthetic media as part of a
+bona fide newscast, news interview, news documentary, or on-the-spot
+coverage of bona fide news events, so long as the broadcast clearly
+acknowledges through content or a disclosure, in a manner that can be easily
+heard or read by the average listener or viewer, that there are questions about
+the authenticity of the deceptive and fraudulent synthetic media;
+(B) is paid to broadcast deceptive and fraudulent synthetic media; or
+(C) is required by federal law to broadcast advertisements from
+legally qualified candidates;
+(2) a website or a regularly published newspaper, magazine, or other
+periodical of general circulation, including an internet or electronic
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 8 of 9
+publication, that routinely carries news and commentary of general interest,
+and that publishes deceptive and fraudulent synthetic media, if the publication
+clearly states that the deceptive and fraudulent synthetic media does not
+accurately represent the speech or conduct of the represented individual;
+(3) a person that produces deceptive and fraudulent synthetic media
+constituting satire or parody;
+(4) a provider of a telecommunications service or information service,
+as those terms are defined in the Communications Act of 1934, 47 U.S.C. §
+153, for content provided by another person; or
+(5) a provider of an interactive computer service, as defined in 47
+U.S.C. § 230, for content provided by another person.
+§ 2033. PENALTIES
+(a) A person that knowingly and intentionally violates a provision of this
+subchapter shall be fined not more than $1,000.00, unless:
+(1) the person commits the violation with the intent to cause violence or
+bodily harm, in which case the fine shall be not more than $5,000.00;
+(2) the person commits the violation within five years after one or more
+prior convictions under this section, in which case the fine shall be not more
+than $10,000.00; or
+(3) the person commits the violation with the intent to cause violence or
+bodily harm and the person commits the violation within five years after one or
+more prior convictions under this section, in which case the fine shall be not
+more than $15,000.00.
+(b) A candidate whose appearance, speech, conduct, or environment is
+misrepresented through the use of deceptive and fraudulent synthetic media in
+violation of section 2032 of this title may seek injunctive or other equitable
+relief prohibiting the publication, communication, or other distribution of such
+deceptive and fraudulent synthetic media.
+Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+Subchapter 5. Enforcement and Additional Remedies
+§ 2041. INJUNCTIONS
+In addition to the other penalties provided in this chapter, a State’s Attorney
+or the Attorney General may institute any appropriate action, injunction, or
+other proceeding to prevent, restrain, correct, or abate any violation of this
+chapter.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.23
+2025 Page 9 of 9
+Sec. 3. EFFECTIVE DATE
+This act shall take effect on passage.
+
+[DELETED: LASIDADPDBYSES5Pe1ofSIdbySsH,C,C,N,VWnadWRdtoCeonGtOD:Jy2,2S:E;osattepyofe;scmStofpeofblasi:Tsblpstoretdeofdeadftscmawn90dsofae0Anatrgtoteueofscmaine1ItishyedbyteGlAyofteSeofV2S.1.17V.cr3,sr4isadtor3Sr4.UeofScMainE4§2.D5Asudintss6()“eadftscm”msscm7ttcsarnofaniloriswhteitt8ieternofac,toieteoeofane,o9tooedeav,inamrt]
+[DELETED: LASIDADPDBYSES5Pe2of()astoarepntortanilsordgsgttddnto;o()psarepnwhafydugorinoftea,s,c,oetttarepnwdhefmanudaolvnoftei,aor,orvor()“cm”msani,anaor,oravrgofanisa,s,c,oretthsbncdoriymdwhteueofd0t,igali,inamrttcsar1btfernoftec2§2.DEOFADEADF3SCM4()D.Apnsln,wn90dsofanenatwh5cefreeoewlaronteb,p,c6oroedeascmametttepnkso7sdheknisadeadftscmaof8ceonteb,ustescmaisad9s:“smahsbncdoriymdbyd0tyorali]
+[DELETED: LASIDADPDBYSES5Pe3of()Frdeadftscmacgofiadvor,tettoftedeslarinasettieyrebyteaevradntsrtnteltftsoforttagintevlm.Ifteieorvordsntieayort,tedeslarinasettieyrebyteaev.Frvor,tedslarfrtefldnoftevor()Frdeadftscmacgofarso,tedeslberdinacysnmradi0aphttcnbeeyhdbyteael,attebgoft1aor,atteedofteaor,a,ifteaoisg2tntomsinl,idwnteaorgati3ofntgrtntomse4()E5()Sn()oftssnslntaytoaroort6bgs,igaceorsetno7p,orp,ttbsdeadfts8maasptofabafen,nsi,nsd,o9otceofbafense,iftebtc0asthctorad,inamrttcnbee1hdorrdbyteaelrorv,ttteaeqsa]
+[DELETED: LASIDADPDBYSES5Pe4ofteayoftedeadftscm,orincwefllwrsbstoarasfmlqdc()Sn()oftssnslntaytoaroortbgs,igaceorsetnop,orp,wnitispdtobtdeadfscmaarmgagdfhettoehtttrnisntdeadftscm,orincwefllwrsbstoarasfml0qdc1()Sn()oftssnslntaytoanitw2orarypdn,m,ororplofg3c,iganitorecp,ttr4csnsadcyofgli,adttpsd5adftscm,iftepncyssttt6deadftscmadsntayrtt7shorctofterdi8()Sn()oftssnslntaytodea9ftscmattcsseorp]
+[DELETED: LASIDADPDBYSES5Pe5of§2.P()Apnttkyadiyvsapnoftsrslbefdntmetn$,u()tepncstevnwhteittoceveobyh,inwhcetefeslbentmetn$()tepncstevnwnfeysaroeormprcsurtss,inwhcetefeslbentmtn$;o()tepncstevnwhteittoceveo0byhmadtepncstevnwnfeysaro1ormeprcsurtss,inwhcetefeslben2metn$3()Acewea,s,c,oreti4mdthteueofdeadftscmai5vnofsn22oftstemyskieorore6rfpgtep,c,orordnofs7deadftscm8S.2.17V.cr3,sr5isadtor9Sr5.EtadAlR]
+[DELETED: LASIDADPDBYSES5Pe6of§2.IInantoteorpspdintsc,aSsAorteAyGlmyieayaea,i,oorpgtop,r,c,oraeayvnoftcS.3.EEDTsatslteetonp.1.17V.cr3,sr4isadtorr4.UeofScMainE2.Dsudintss)“eadftscm”msscmtcsarnofaniloriswhteitteternofac,toieteoeofane,oooedeav,inamrt)astoarepntobeanacrgonilsgordgsgttddnto;o)psarepnwhafydgorinoftea,s,c,otttarepnwdhefmanudalvnoftei,aor,orvor)“cm”msani,anaor,oravgofanisa,s,c,orettsbncdoriymdwhteueofd,igali,inamrttcsartfernoftec2.DEOFADEADFCM)D.Apnsln,wn90dsbeanenahacefreeoewlaronteb,p,oroedeascmamettt]
+[DELETED: LASIDADPDBYSES5Pe7ofnksorsdheknisadeadftsaofaceonteb,ustepnisadeiescmas:“smahsbncdoridbydltyorali)D.Apnsln,wn90dsbeaneni,p,c,oroedescmatepnksorsdheknisdeadftsaustepnisadeintescmassmahsbncdoriymdbydyorali)Frdeadftscmacgofidvor,tettoftedeslarinasettiyrebyteaevradntsrtnteltftsforttagintevlm.Ifteieorvorsntieayort,tedeslarinasettiyrebyteaev.Frvor,tedlarfrtefldnoftevor)Frdeadftscmacgofaso,tedeslberdinacysnmradiphadpettcnbeeyhdbyteael,attgofteaor,atteedofteaor,a,iftoisgrtntomsinl,idwnteagatisofntgrtntomse)E.Sn()oftssnslntayt)aroortnbgs,igaceoetno,p,orp,ortoawgp,ormea,t)bsdeadftscmaasptofafen,nsi,nsd,oroeofbafense,solgastebtcsthctorad,inamrttcnbeedorrdbyteaelrorv,ttteaeqsaeayoftedeadftscm)ispdtobtdeadftscm;o)isrdbyfllwtobtasfyqdc)aweorarypdn,m,orolofglc,iganitore]
+[DELETED: LASIDADPDBYSES5Pe8of,ttrycsnsadcyofglidttpsdeadftscm,iftepysstttedeadftscmadsnyrtteshorctofterdi)apnttpsdeadftscmgseorp)aprofatsseorinsstetsaeddinteCsAtof1,47U.,frctpdbyarp;o)aprofaniecrs,asddin4.§2,frctpdbyarp2.P)Apnttkyadiyvsapnoftrslbefdntmetn$,u)tepncstevnwhteittoceveoyh,inwhcetefeslbentmetn$)tepncstevnwnfeysaroeormrcsurtss,inwhcetefeslbentmn$;o)tepncstevnwhteittoceveoyhmadtepncstevnwnfeysaroeoeprcsurtss,inwhcetefeslbenetn$)Acewea,s,c,oretidthteueofdeadftscmainofsn22oftstemyskieororefpgtep,c,orordnofseadftscm.2.17V.cr3,sr5isadtorr5.EtadAlR2.Inantoteorpspdintsc,aSsArteAyGlmyieayaea,i,orpgtop,r,c,oraeayvnoft]
+[DELETED: LASIDADPDBYSES5Pe9of.3.EEDsatslteetonp]

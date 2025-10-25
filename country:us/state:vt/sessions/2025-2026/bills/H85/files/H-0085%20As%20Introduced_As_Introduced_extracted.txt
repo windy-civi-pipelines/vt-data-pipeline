@@ -1,0 +1,139 @@
+Title: BILL AS INTRODUCED H.85
+Official Title: BILL AS INTRODUCED H.85
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 3
+1 H.85
+2 Introduced by Representatives Lipsky of Stowe, Bosch of Clarendon,
+3 Branagan of Georgia, Burtt of Cabot, Canfield of Fair Haven,
+4 Carris-Duncan of Whitingham, Charlton of Chester, Coffin of
+5 Cavendish, Cooper of Pownal, Demar of Enosburgh, Dolgin of
+6 St. Johnsbury, Galfetti of Barre Town, Goodnow of Brattleboro,
+7 Greer of Bennington, Gregoire of Fairfield, Hango of Berkshire,
+8 Harvey of Castleton, Higley of Lowell, Keyser of Rutland City,
+9 Maguire of Rutland City, Morgan, L. of Milton, Morgan, M. of
+10 Milton, Morrissey of Bennington, Nelson of Derby, Nielsen of
+11 Brandon, Parsons of Newbury, Pinsonault of Dorset, Powers of
+12 Waterford, Pritchard of Pawlet, Southworth of Walden,
+13 Sweeney of Shelburne, Wells of Brownington, and Winter of
+14 Ludlow
+15 Referred to Committee on
+16 Date:
+17 Subject: Taxation; forestry; sales tax; purchase and use tax; motor vehicles
+18 Statement of purpose of bill as introduced: This bill proposes to amend the
+19 sales tax exemption and purchase and use tax exemption for motor vehicles
+20 used for forestry operations to include under the exemptions the sale of motor
+VT LEG #379472 v.1
+BILL AS INTRODUCED H.85
+2025 Page 2 of 3
+1 trucks, motor vehicles, semi-trailers, tractors, truck cranes, truck tractors, and
+2 trailers used for forestry operations.
+3 An act relating to the taxation of vehicles used for forestry operations
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 32 V.S.A. § 8911(23) is amended to read:
+6 (23) The following motor vehicles, including their repair parts, used for
+7 in forestry operations, including timber cutting,; timber removal, and
+8 processing of; and transportation of equipment, timber, or other solid wood
+9 forest products intended to be sold ultimately at retail: skidders with grapple
+10 and cable, feller bunchers, cut-to-length processors, forwarders, delimbers,
+11 loader slashers, log loaders, whole-tree chippers, stationary screening systems,
+12 and firewood processors, elevators, and screens, motor trucks, motor vehicles,
+13 semi-trailers, tractors, truck cranes, truck tractors, and trailers. The
+14 Department of Motor Vehicles shall publish guidance relating to the
+15 application of this exemption.
+16 Sec. 2. 32 V.S.A. § 9741(51) is amended to read:
+17 (51) The following machinery, including repair parts, used for in
+18 forestry operations, including timber cutting,; timber removal, and processing
+19 of; and transportation of equipment, timber, or other solid wood forest products
+20 intended to be sold ultimately at retail: skidders with grapple and cable; feller
+VT LEG #379472 v.1
+BILL AS INTRODUCED H.85
+2025 Page 3 of 3
+1 bunchers; cut-to-length processors; forwarders; delimbers; loader slashers; log
+2 loaders; whole-tree chippers; stationary screening systems; firewood
+3 processors, elevators, and screens, motor trucks, motor vehicles, semi-trailers,
+4 tractors, truck cranes, truck tractors, and trailers; and when sold for use on any
+5 machinery listed under this subdivision, traction enhancement accessories, tire
+6 chains, track systems, and winch cables. The Department of Taxes shall
+7 publish guidance relating to the application of this exemption.
+8 Sec. 3. EFFECTIVE DATE
+9 This act shall take effect on passage.
+VT LEG #379472 v.1
+[DELETED:  H P H I R B C C S G H M M B W S L R D S S s u]
+[DELETED:  H P t t A I S ( i p f a l a s D a S ( f o i]
+[DELETED:  H P b l p t m c p S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.85
+2025 Page 1 of 3
+1 H.85
+2 Introduced by Representatives Lipsky of Stowe, Bosch of Clarendon,
+3 Branagan of Georgia, Burtt of Cabot, Canfield of Fair Haven,
+4 Carris-Duncan of Whitingham, Charlton of Chester, Coffin of
+5 Cavendish, Cooper of Pownal, Demar of Enosburgh, Dolgin of
+6 St. Johnsbury, Galfetti of Barre Town, Goodnow of Brattleboro,
+7 Greer of Bennington, Gregoire of Fairfield, Hango of Berkshire,
+8 Harvey of Castleton, Higley of Lowell, Keyser of Rutland City,
+9 Maguire of Rutland City, Morgan, L. of Milton, Morgan, M. of
+10 Milton, Morrissey of Bennington, Nelson of Derby, Nielsen of
+11 Brandon, Parsons of Newbury, Pinsonault of Dorset, Powers of
+12 Waterford, Pritchard of Pawlet, Southworth of Walden,
+13 Sweeney of Shelburne, Wells of Brownington, and Winter of
+14 Ludlow
+15 Referred to Committee on
+16 Date:
+17 Subject: Taxation; forestry; sales tax; purchase and use tax; motor vehicles
+18 Statement of purpose of bill as introduced: This bill proposes to amend the
+19 sales tax exemption and purchase and use tax exemption for motor vehicles
+20 used for forestry operations to include under the exemptions the sale of motor
+VT LEG #379472 v.1
+
+BILL AS INTRODUCED H.85
+2025 Page 2 of 3
+1 trucks, motor vehicles, semi-trailers, tractors, truck cranes, truck tractors, and
+2 trailers used for forestry operations.
+3 An act relating to the taxation of vehicles used for forestry operations
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 32 V.S.A. § 8911(23) is amended to read:
+6 (23) The following motor vehicles, including their repair parts, used for
+7 in forestry operations, including timber cutting,; timber removal, and
+8 processing of; and transportation of equipment, timber, or other solid wood
+9 forest products intended to be sold ultimately at retail: skidders with grapple
+10 and cable, feller bunchers, cut-to-length processors, forwarders, delimbers,
+11 loader slashers, log loaders, whole-tree chippers, stationary screening systems,
+12 and firewood processors, elevators, and screens, motor trucks, motor vehicles,
+13 semi-trailers, tractors, truck cranes, truck tractors, and trailers. The
+14 Department of Motor Vehicles shall publish guidance relating to the
+15 application of this exemption.
+16 Sec. 2. 32 V.S.A. § 9741(51) is amended to read:
+17 (51) The following machinery, including repair parts, used for in
+18 forestry operations, including timber cutting,; timber removal, and processing
+19 of; and transportation of equipment, timber, or other solid wood forest products
+20 intended to be sold ultimately at retail: skidders with grapple and cable; feller
+VT LEG #379472 v.1
+
+BILL AS INTRODUCED H.85
+2025 Page 3 of 3
+1 bunchers; cut-to-length processors; forwarders; delimbers; loader slashers; log
+2 loaders; whole-tree chippers; stationary screening systems; firewood
+3 processors, elevators, and screens, motor trucks, motor vehicles, semi-trailers,
+4 tractors, truck cranes, truck tractors, and trailers; and when sold for use on any
+5 machinery listed under this subdivision, traction enhancement accessories, tire
+6 chains, track systems, and winch cables. The Department of Taxes shall
+7 publish guidance relating to the application of this exemption.
+8 Sec. 3. EFFECTIVE DATE
+9 This act shall take effect on passage.
+VT LEG #379472 v.1
+
+[DELETED:  H P H I R B C C S G H M M B W S L R D S S s u]
+[DELETED:  H P t t A I S ( i p f a l a s D a S ( f o i]
+[DELETED:  H P b l p t m c p S T]

@@ -1,0 +1,1794 @@
+Title: BILL AS INTRODUCED S.110
+Official Title: BILL AS INTRODUCED S.110
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 36 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 36
+1 S.110
+2 Introduced by Senators Williams, Brennan, Collamore, Douglass, Hart,
+3 Heffernan, Ingalls, Mattos, Norris and Weeks
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; energy; climate change; air pollution; renewable
+7 energy; heating; fuel; thermal energy; greenhouse gas emissions;
+8 Renewable Energy Standard
+9 Statement of purpose of bill as introduced: This bill proposes to repeal the
+10 Affordable Heat Act, repeal the citizen suit provision of the Global Warming
+11 Solutions Act, and change the State’s greenhouse gas reduction requirements
+12 to goals. It would also change the Renewable Energy Standard to the Clean
+13 Energy Standard.
+14 An act relating to changes to Vermont’s air pollution and renewable energy
+15 laws
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 * * * Global Warming Solutions Act * * *
+18 Sec. 1. REPEAL
+19 10 V.S.A. § 594 is repealed.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 2 of 36
+1 Sec. 2. 10 V.S.A. § 578 is amended to read:
+2 § 578. GREENHOUSE GAS REDUCTION REQUIREMENTS
+3 (a) Greenhouse gas reduction requirements. Vermont shall reduce achieve
+4 net zero emissions of greenhouse gases from within the geographical
+5 boundaries of the State and those emissions outside the boundaries of the State
+6 that are caused by the use of energy in Vermont, as measured and inventoried
+7 pursuant to section 582 of this title, by: on or before January 1, 2035.
+8 (1) not less than 26 percent from 2005 greenhouse gas emissions by
+9 January 1, 2025 pursuant to the State’s membership in the United States
+10 Climate Alliance and commitment to implement policies to achieve the
+11 objectives of the 2016 Paris Agreement;
+12 (2) not less than 40 percent from 1990 greenhouse gas emissions by
+13 January 1, 2030 pursuant to the State’s 2016 Comprehensive Energy Plan; and
+14 (3) not less than 80 percent from 1990 greenhouse gas emissions by
+15 January 1, 2050 pursuant to the State’s 2016 Comprehensive Energy Plan
+16 Vermont shall continue to implement the policies to achieve the objectives of
+17 the 2016 Paris Agreement and remain at net zero greenhouse gas emissions
+18 across all sectors into the future.
+19 * * *
+20 Sec. 3. 10 V.S.A. § 590 is amended to read:
+21 § 590. DEFINITIONS
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 3 of 36
+1 As used in this chapter:
+2 (1) “Adaptation” means reducing vulnerability and advancing resilience
+3 through planned and implemented enhancements to, or avoiding degradation
+4 of, natural and built systems and structures.
+5 (2) “Greenhouse gas” has the same meaning as in section 552 of this
+6 title.
+7 (3) “Mitigation” means reduction of anthropogenic greenhouse gas
+8 emissions, and preservation and enhancement of natural systems to sequester
+9 and store carbon, in order to stabilize and reduce greenhouse gases in the
+10 atmosphere.
+11 (4) “Net zero greenhouse gas emissions” means the total amount of
+12 greenhouse gases released into the atmosphere after accounting for the amount
+13 of greenhouse gases that are naturally absorbed or sequestered is at or less than
+14 zero across all sectors.
+15 (5) “Resilience” means the capacity of individuals, communities, and
+16 natural and built systems to withstand and recover from climatic events, trends,
+17 and disruptions.
+18 Sec. 4. 10 V.S.A. § 591 is amended to read:
+19 § 591. VERMONT CLIMATE COUNCIL
+20 (a) There is created the Vermont Climate Council (Council). The Council
+21 shall be advisory and composed of the following members:
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 4 of 36
+1 (1) the Secretary of Administration Natural Resources or designee, who
+2 shall serve as the Chair of the Council;
+3 (2) the Secretary of Natural Resources or designee State Climatologist
+4 or designee;
+5 (3) the Secretary of Agriculture, Food and Markets or designee;
+6 (4) the Secretary of Commerce and Community Development or
+7 designee;
+8 (5) the Secretary of Human Services or designee;
+9 (6) the Secretary of Transportation or designee;
+10 (7) the Commissioner of Public Safety or designee;
+11 (8) the Commissioner of Public Service or designee;
+12 (9) one member to represent municipal governments, appointed by the
+13 Governor;
+14 (10) one member to represent the rural communities, appointed by the
+15 Governor;
+16 (11) the following members who shall be appointed by the Speaker of
+17 the House General Assembly:
+18 (A) one member with expertise and professional experience in the
+19 design and implementation of programs to reduce greenhouse gas emissions;
+20 (B) one member to represent rural communities;
+21 (C) one member to represent municipal governments;
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 5 of 36
+1 (D) one member to represent distribution utilities;
+2 (E)(B) one member to represent a statewide environmental
+3 organization;
+4 (F)(C) one member to represent the fuel sector;
+5 (G) one member with expertise in climate change science; and
+6 (H)(D) one member to represent Vermont manufacturers.
+7 (10) the following members who shall be appointed by the Committee on
+8 Committees:
+9 (A) one member with expertise in the design and implementation of
+10 programs to increase resilience to and respond to natural disasters resulting
+11 from climate change;
+12 (B)(E) one member to represent the clean energy sector;
+13 (C)(F) one member to represent the small business community;
+14 (D)(G) one member to represent the Vermont Community Action
+15 Partnership;
+16 (E)(H) one member to represent the farm and forest sector; and
+17 (F)(I) one youth member; and
+18 (G) one member of a Vermont-based organization with expertise in
+19 energy and data analysis.
+20 (b) The Council shall make recommendations to the Secretary of Natural
+21 Resources and in formulating the recommendations the Council shall:
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 6 of 36
+1 (1) Identify, analyze, and evaluate strategies and programs to reduce
+2 greenhouse gas emissions; achieve the State’s reduction requirements pursuant
+3 to section 578 of this title; and build resilience to prepare the State’s
+4 communities, infrastructure, and economy to adapt to the current and
+5 anticipated effects of climate change, including:.
+6 (A) creating an inventory of all existing programs that impact
+7 greenhouse gas emissions and their efficacy;
+8 (B) evaluating and analyzing the technical feasibility and cost-
+9 effectiveness of existing strategies and programs and identifying, evaluating,
+10 and analyzing new strategies and programs that are based upon emerging
+11 scientific and technical information;
+12 (C) analyzing each source or category of sources of greenhouse gas
+13 emissions and identifying which strategies and programs will result in the
+14 largest greenhouse gas emissions reductions in the most cost-effective manner;
+15 (D) identifying, analyzing, and evaluating public and private
+16 financing strategies to support the transition to a reduced greenhouse gas
+17 emissions economy and a more resilient State; and
+18 (E) evaluating and analyzing existing strategies and programs that
+19 build resilience, and identifying, evaluating, and analyzing new strategies and
+20 programs to prepare the State’s communities, infrastructure, and economy to
+21 adapt to the current and anticipated effects of climate change.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 7 of 36
+1 (2) On or before December 1, 2021, adopt Adopt the Vermont Climate
+2 Action Plan (Plan) and update the Plan on or before July 1 every four years
+3 thereafter, the first of which was adopted on December 1, 2021. On or before
+4 December 15, 2026, the Secretary of Natural Resources, in collaboration with
+5 the Department of Public Service and other relevant agencies and departments
+6 of State government, shall deliver a companion implementation strategy and
+7 aggressive-yet-achievable timeline for achieving net zero emissions across all
+8 sectors by 2035. The companion implementation strategy shall include long-
+9 term funding mechanisms that prioritizes use of existing resources. On or
+10 before July 1 every five years thereafter, the Secretary of Natural Resources
+11 shall consider the recommendations of the Council and shall update the Plan.
+12 The Council shall finalize its recommendations on or before January 1 of the
+13 year that the Plan is due. The Plan shall set forth recommend the specific
+14 affordable and practicable initiatives, programs, and strategies that the State
+15 shall pursue will consider implementing to reduce greenhouse gas meet net
+16 zero emissions reductions; achieve the State’s 2035 reduction requirements
+17 target pursuant to section 578 of this title; and build resilience to prepare the
+18 State’s communities, infrastructure, and economy to adapt to the current and
+19 anticipated effects of climate change.
+20 (3) Identify the means to accurately measure:
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 8 of 36
+1 (A) the State’s greenhouse gas emissions and progress towards
+2 meeting the reduction requirements pursuant to section 578 of this title,
+3 including publishing emissions data in a timely manner;
+4 (B) the effectiveness of the specific initiatives, programs, and
+5 strategies set forth in the Plan and updates to the Plan in reducing greenhouse
+6 gas emissions;
+7 (C) the effect of climate change on the State’s climate, wildlife, and
+8 natural resources; and
+9 (D) the existing resilience of the State’s communities, infrastructure,
+10 and economy and progress towards improving resilience to adapt to the current
+11 and anticipated effects of climate change.
+12 (4) Provide guidance to the Secretary of Natural Resources concerning
+13 the form, content, and subject matter of rules to be adopted recommended for
+14 adoption pursuant to section 593 of this chapter.
+15 (c) The Council shall create the subcommittees listed in this subsection and
+16 may also create other subcommittees to advise the Council, and assist in
+17 preparing the Plan, and carry out other duties. The Council may appoint
+18 members of the Council to serve as members of subcommittees and may also
+19 appoint individuals who are not members of the Council to serve as members
+20 of subcommittees.
+21 * * *
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 9 of 36
+1 (3) Just Transitions Subcommittee. This subcommittee shall focus on
+2 ensuring that strategies to reduce net greenhouse gas emissions and to build
+3 resilience to adapt to the effects of climate change benefit and support all
+4 residents of the State fairly and equitably. This subcommittee shall ensure that
+5 strategies consider the disproportionate impact of climate change on rural, low-
+6 income, and marginalized communities and that programs and incentives for
+7 building resilience are designed to be accessible to all Vermonters and do not
+8 unfairly burden any groups, communities, geographic locations, or economic
+9 sectors. This subcommittee may adopt a measurement tool to assess the
+10 equitability of programs and strategies considered by the Council.
+11 * * *
+12 (d) The Council shall recommend necessary legislation to the General
+13 Assembly concerning:
+14 (1) adopting market-based or alternative compliance mechanisms as part
+15 of the State’s greenhouse gas emissions reduction strategies;
+16 (2) changes to land use and development, including to chapter 151 of this
+17 title and 30 V.S.A. § 248, to reduce greenhouse gas emissions and promote
+18 resilience in response to climate change;
+19 (3) statutory authority necessary to implement the Plan; and
+20 (4) any other matter the Council deems appropriate.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 10 of 36
+1 (e) The Council shall have the administrative, and technical, and legal
+2 assistance of the Agency of Natural Resources and the Department of Public
+3 Service and may request the assistance of any Executive Branch Agency
+4 agency and Department department.
+5 (f)(e) A majority of the sitting members of the Council shall constitute a
+6 quorum, and action taken by the Council may be authorized by a majority of
+7 the members present and voting at any meeting at which a quorum is present.
+8 The Council may permit any or all members to participate in a meeting by, or
+9 conduct the meeting through the use of, any means of communication,
+10 including electronic, telecommunications, and video- or audio-conferencing
+11 technology, by which all members participating may simultaneously or
+12 sequentially communicate with each other during the meeting. A member
+13 participating in a meeting by this means is deemed to be present in person at
+14 the meeting. The Council shall meet at the call of the Chair or a majority of
+15 the members of the Council, and the Council may elect officers and adopt any
+16 other procedural rules as it shall determine necessary and appropriate to
+17 perform its work.
+18 (g)(f) Members of the Council and members of subcommittees who are not
+19 State employees shall be entitled to per diem compensation and reimbursement
+20 of expenses for each day spent in the performance of their duties, as permitted
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 11 of 36
+1 under 32 V.S.A. § 1010. These payments shall be made from monies
+2 appropriated to the Agency of Natural Resources.
+3 (h)(g) The members of the Council appointed pursuant to subdivision (a)
+4 (9)(11) of this section shall be appointed to initial terms of two years, and
+5 members appointed pursuant to subdivision (a)(10) of this section shall be
+6 appointed to initial terms of three years. Thereafter, each appointed member
+7 shall serve a term of three years or until his or her a member’s earlier
+8 resignation or removal. A vacancy shall be filled by the appointing authority
+9 for the remainder of the unexpired term. An appointed member shall not serve
+10 more than three two full consecutive three-year terms.
+11 (i)(h) On or before January 15, 2021 and every January 15 thereafter, the
+12 Council shall submit a written report to the General Assembly concerning the
+13 Council’s activities and the State’s progress towards meeting the 2035 net
+14 greenhouse gas reduction requirements pursuant to section 578 of this title. On
+15 or before November 1, 2021 and every second November 1 thereafter, the
+16 Director of Vermont Emergency Management shall file a report with the
+17 Council concerning Vermont’s overall municipal resilience to increased
+18 hazards presented by climate change that shall include hazard mitigation plans,
+19 local emergency management plans, and survey results as deemed appropriate
+20 by the Director. Subsequent reports shall include updates to document
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 12 of 36
+1 progress in local resilience. The report shall inform Council recommendations
+2 on policies to address gaps in local resilience.
+3 Sec. 5. 10 V.S.A. § 592 is amended to read:
+4 § 592. THE VERMONT CLIMATE ACTION PLAN
+5 (a) On or before December 1, 2021, the Vermont Climate Council
+6 (Council) shall adopt adopted the Vermont Climate Action Plan (Plan) and.
+7 The Secretary of Natural Resources shall update the Plan on or before July 1
+8 every four five years thereafter.
+9 (b) The Plan shall set forth recommend the specific affordable and
+10 practicable initiatives, programs, and strategies, including regulatory and
+11 legislative changes, necessary to achieve the State’s net zero greenhouse gas
+12 emissions reduction requirements across all sectors pursuant to section 578 of
+13 this title and build resilience to prepare the State’s communities, infrastructure,
+14 and economy to adapt to the current and anticipated effects of climate change.
+15 The Plan shall include those specific affordable and practicable initiatives,
+16 programs, and strategies that will:
+17 * * *
+18 (c) The analysis, development, and selection of the specific initiatives,
+19 programs, and strategies contained in the Plan and updates to the Plan shall be
+20 based upon:
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 13 of 36
+1 (1) the Council’s analysis and evaluation of strategies and programs
+2 pursuant to subdivision 591(b)(1) of this chapter;
+3 (2) reports, plans, and information pertaining to greenhouse gas
+4 emissions reduction and climate resilience strategies from the Agency of
+5 Natural Resources, the Department of Public Service, other State agencies and
+6 departments, and, where appropriate, the State Comprehensive Energy Plan
+7 prepared pursuant to 30 V.S.A. § 202b and the 2018 Vermont Climate Action
+8 Commission Report to the Governor; and
+9 (3) other reports, plans, and information.
+10 (d) The specific initiatives, programs, and strategies contained in To the
+11 extent practicable and affordable, the Plan and updates to the Plan shall further
+12 the following objectives:
+13 (1) to prioritize the most cost-effective, technologically feasible, and
+14 equitable greenhouse gas emissions reduction pathways and adaptation and
+15 preparedness strategies informed by scientific and technical expertise;
+16 (2) to provide for net zero greenhouse gas emissions reductions that
+17 reflect the relative contribution of each source or category of source of
+18 emissions;
+19 * * *
+20 (e) The Plan updated Plans shall form the basis for the recommend rules
+21 adopted for consideration by the Secretary of Natural Resources pursuant to
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 14 of 36
+1 section 593 of this chapter. If the Council fails to adopt the Plan or update the
+2 Plan as required by this chapter, the The Secretary shall proceed with adopting
+3 and implementing rules pursuant to subsection 593(j) of this chapter that, in the
+4 Secretary’s discretion, are cost effective, practicable, and designed to achieve
+5 the net zero greenhouse gas emissions reductions requirements pursuant to
+6 section 578 of this title.
+7 Sec. 6. 10 V.S.A. § 593 is amended to read:
+8 § 593. RULES
+9 (a) The Secretary of Natural Resources shall consider and adopt rules
+10 pursuant to 3 V.S.A. chapter 25, which are, in the Secretary’s discretion, cost
+11 effective, affordable, practicable, and designed to achieve the net zero
+12 greenhouse gas emissions reductions requirements pursuant to section 578 of
+13 this title and are consistent with the Vermont Climate Action Plan (Plan). In
+14 adopting rules pursuant to this section, the Secretary shall:
+15 (1) Ensure that Consider whether the rules are consistent with the
+16 specific initiatives, programs, and strategies set forth in the Plan and updates to
+17 the Plan; follow consider the Vermont Climate Council’s guidance provided
+18 pursuant to subdivision 591(b)(4) of this chapter; and further the objectives
+19 pursuant to subsection 592(d) of this chapter.
+20 (2) Develop a detailed record containing facts; data; and legal, scientific,
+21 and technical information sufficient to establish a reasonable basis to believe
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 15 of 36
+1 that the rules shall achieve the State’s net zero greenhouse gas emissions
+2 reductions requirements pursuant to section 578 of this title. This detailed
+3 record shall be included with the rule and filed with the Secretary of State
+4 pursuant to 3 V.S.A. § 838.
+5 * * *
+6 (e) On or before July 1, 2026 2027, the Secretary shall consider and adopt
+7 and implement rules, which are, in the Secretary’s discretion, cost effective,
+8 affordable, practicable, and designed to achieve the 2035 net greenhouse gas
+9 emissions reductions requirements pursuant to section 578 of this title and are
+10 consistent with the specific initiatives, programs, and strategies set forth in the
+11 Plan and updates to the Plan and achieve the 2030 2035 net zero greenhouse
+12 gas emissions reduction across all sectors requirement pursuant to section 578
+13 of this title. The Secretary shall observe the requirements of subsection (c) of
+14 this section.
+15 (f) The Secretary shall, at his or her discretion, but not less frequently than
+16 once every two years between 2026 and 2030, review and, if necessary, update
+17 the rules required by subsection (e) of this section in order to ensure that the
+18 2030 greenhouse gas emissions reduction requirement pursuant to section 578
+19 of this title is achieved. In performing this review and update, the Secretary
+20 shall observe the requirements of subsection (c) of this section.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 16 of 36
+1 (g) On or before July 1, 2040, the Secretary shall consider and adopt and
+2 implement rules, which are, in the Secretary’s discretion, cost effective,
+3 affordable, practicable, and designed to maintain the net zero or less
+4 greenhouse gas emissions and are consistent with the specific initiatives,
+5 programs, and strategies set forth in the Plan and updates to the Plan and
+6 achieve the 2050 net zero greenhouse gas emissions reduction requirement
+7 pursuant to section 578 of this title across all sectors.
+8 (h) The Secretary shall, at his or her discretion, but not less frequently than
+9 once every two years between 2040 and 2050, review and, if necessary, update
+10 the rules required by subsection (g) of this section in order to ensure that the
+11 2050 greenhouse gas emissions reduction requirement pursuant to section 578
+12 of this title is achieved. In performing this review and update, the Secretary
+13 shall observe the requirements of subsection (c) of this section.
+14 (i)(g) The Secretary may establish alternative reduction mechanisms to be
+15 used by sources of greenhouse gas emissions, if necessary, to achieve net zero
+16 emissions after 2050 on or before 2035.
+17 (1) The use of alternative reduction mechanisms shall account for not
+18 more than 20 percent of statewide greenhouse gas emissions estimated as a
+19 percentage of 1990 emissions. The use of a mechanism must offset a quantity
+20 of greenhouse gas emissions equal to or greater than the amount of greenhouse
+21 gasses emitted.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 17 of 36
+1 (2) The Secretary shall verify that any greenhouse gas emissions offset
+2 projects authorized as alternative reduction mechanisms represent equivalent
+3 emissions reductions or carbon sequestration that are real, additional,
+4 verifiable, enforceable, and permanent.
+5 (j) If the Council fails to adopt the Plan or update the Plan as required by
+6 section 592 of this chapter, the Secretary shall adopt and implement rules
+7 pursuant to 3 V.S.A. chapter 25 to achieve the greenhouse gas emissions
+8 reductions requirements pursuant to section 578 of this title.
+9 (k)(h) Nothing in this section shall be construed to limit the existing
+10 authority of a State agency, department, or entity to regulate greenhouse gas
+11 emissions or establish strategies or adopt rules to mitigate climate risk and
+12 build resilience to climate change.
+13 (l) The General Assembly may repeal, revise, or modify any rule or
+14 amendment to any rule, and its action shall not be abridged, enlarged, or
+15 modified by subsequent rule.
+16 * * * Clean Energy Standard * * *
+17 Sec. 7. 30 V.S.A. § 202a is amended to read:
+18 § 202a. STATE ENERGY POLICY
+19 It is the general policy of the State of Vermont:
+20 * * *
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 18 of 36
+1 (3) To meet Vermont’s energy service needs in a manner that will
+2 achieve the greenhouse gas emissions reductions requirements goals pursuant
+3 to 10 V.S.A § 578 and is consistent with the Vermont Climate Action Plan
+4 adopted and updated pursuant to 10 V.S.A. § 592.
+5 Sec. 8. 30 V.S.A. § 202b is amended to read:
+6 § 202b. STATE COMPREHENSIVE ENERGY PLAN
+7 (a) The Department of Public Service, in conjunction with other State
+8 agencies designated by the Governor, shall prepare a State Comprehensive
+9 Energy Plan covering at least a 20-year period. The Plan shall seek to
+10 implement the State energy policy set forth in section 202a of this title,
+11 including meeting the State’s greenhouse gas emissions reductions
+12 requirements goals pursuant to 10 V.S.A. § 578, and shall be consistent with
+13 the relevant goals of 24 V.S.A. § 4302 and with the Vermont Climate Action
+14 Plan adopted and updated pursuant to 10 V.S.A. § 592. The State
+15 Comprehensive Energy Plan shall include:
+16 * * *
+17 (e) The Commissioner of Public Service (Commissioner) shall file an
+18 annual report on progress in meeting the goals of the Plan. The report shall
+19 address each of the following sectors of energy consumption in the State:
+20 electricity, nonelectric fuels for thermal purposes, and transportation. In
+21 preparing the report, the Commissioner shall consult with the Secretaries of
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 19 of 36
+1 Administration, of Agriculture, Food and Markets, of Natural Resources, and
+2 of Transportation and the Commissioner of Buildings and General Services.
+3 * * *
+4 (3) For each sector, the report shall provide:
+5 (A) In millions of British thermal units (MMBTUs) for the most
+6 recent calendar year for which data are available, the total amount of energy
+7 consumed, the amount of clean and renewable energy consumed, and the
+8 percentage of clean and renewable energy consumed. For the electricity
+9 sector, the report shall also state the amounts in megawatt hours (MWH) of
+10 retail sales and load for Vermont as well as for each retail electricity provider
+11 and the Vermont and New England summer and winter peak electric demand,
+12 including the hour and day of peak demand.
+13 (B) Projections of the energy reductions and shift to clean and
+14 renewable energy expected to occur under existing policies, technologies, and
+15 markets. The most recent available data shall be used to inform these
+16 projections and shall be provided as a supplement to the data described in
+17 subdivision (A) of this subdivision (3).
+18 * * *
+19 (7) The report shall include the following information on progress
+20 toward meeting the Renewable Clean Energy Standard (RES CES):
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 20 of 36
+1 (A) An assessment of the costs and benefits of the RES CES based
+2 on the most current available data, including rate and economic impacts,
+3 customer savings, technology deployment, greenhouse gas emission reductions
+4 achieved both relative to 10 V.S.A § 578 requirements and societally, fuel
+5 price stability, effect on transmission and distribution upgrade costs, and any
+6 recommended changes based on this assessment.
+7 (i) For the most recent calendar year for which data is available,
+8 each retail electricity provider’s retail sales and load, in MWh; required
+9 amounts of clean and renewable energy for each category of the RES CES as
+10 set forth in section 8005 of this title; and amounts of clean and renewable
+11 energy and tradeable clean and renewable energy credits eligible to satisfy the
+12 requirements of sections 8004 and 8005 of this title actually owned by the
+13 Vermont retail electricity providers, expressed as a percentage of retail sales
+14 and total load MWh purchases made by Vermont retail electricity providers to
+15 meet demand.
+16 * * *
+17 (iv) The report shall assess how costs and benefits of the RES
+18 CES are being distributed across State, to the extent possible given available
+19 data, by retail electricity service territory, municipality, and environmental
+20 justice focus populations, as defined by 3 V.S.A. § 6002. Such an assessment
+21 shall consider metrics to monitor affordability of electric rates.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 21 of 36
+1 (B) Projections, looking at least 10 years ahead, of the impacts of the
+2 RES CES.
+3 * * *
+4 (iii) The Department shall project, for the State, the impact of the
+5 RES CES in each of the following areas: electric utility rates, total energy
+6 consumption, electric energy consumption, fossil fuel consumption, and
+7 greenhouse gas emissions. The report shall compare the amount or level in
+8 each of these areas with and without the program.
+9 (C) An assessment of whether the requirements of the RES CES have
+10 been met to date, and any recommended changes needed to achieve those
+11 requirements.
+12 (D) A summary of the activities of distributed renewable generation
+13 programs that support the achievement of the RES CES, including:
+14 * * *
+15 Sec. 9. 30 V.S.A. § 8002 is amended to read:
+16 § 8002. DEFINITIONS
+17 As used in this chapter:
+18 * * *
+19 (7) “Environmental attributes” means the characteristics of a plant that
+20 enable the energy it produces to qualify as clean or renewable energy and
+21 include any and all benefits of the plant to the environment such as avoided
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 22 of 36
+1 emissions or other impacts to air, water, or soil that may occur through the
+2 plant’s displacement of a nonclean or nonrenewable energy source.
+3 * * *
+4 (25) “Clean energy” means both renewable energy, as defined in this
+5 section, as well as electricity produced using a technology that does not emit
+6 greenhouse gases as a by-product of energy generation.
+7 * * *
+8 (29) “RES” “CES” means the Renewable Clean Energy Standard
+9 established under sections 8004 and 8005 of this title.
+10 * * *
+11 (33) “Tradeable zero emissions credits” or “ZECs” means all of the
+12 environmental attributes associated with a single unit of energy generated by a
+13 clean energy source where:
+14 (A) those attributes are transferred or recorded separately from that
+15 unit of energy;
+16 (B) the party claiming ownership of the tradeable zero emissions
+17 credits has acquired the exclusive legal ownership of all, and not less than all,
+18 the environmental attributes associated with that unit of energy; and
+19 (C) exclusive legal ownership can be verified through an auditable
+20 contract path or pursuant to the system established or authorized by the
+21 Commission or any program for tracking and verification of the ownership of
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 23 of 36
+1 environmental attributes of energy legally recognized in any state and
+2 approved by the Commission.
+3 Sec. 10. 30 V.S.A. § 8004 is amended to read:
+4 § 8004. SALES OF ELECTRIC ENERGY; RENEWABLE CLEAN
+5 ENERGY STANDARD (RES CES)
+6 (a) Establishment Expansion; requirements. The RES Renewable Energy
+7 Standard is established expanded to become the CES. Under this program, a
+8 retail electricity provider shall not sell or otherwise provide or offer to sell or
+9 provide electricity in the State of Vermont without ownership of sufficient
+10 energy produced by clean and renewable energy plants or sufficient tradeable
+11 renewable energy and zero emissions credits from plants whose energy is
+12 capable of delivery in New England that reflect the required amounts of clean
+13 and renewable energy set forth in section 8005 of this title or without support
+14 of energy transformation projects in accordance with that section. A retail
+15 electricity provider may meet the required amounts of clean and renewable
+16 energy through eligible tradeable renewable energy and zero emissions credits
+17 that it owns and retires, eligible clean and renewable energy resources with
+18 environmental attributes still attached, or a combination of those credits and
+19 resources.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 24 of 36
+1 (b) Rules. The Commission shall adopt update the rules that are necessary
+2 to allow the Commission and the Department to implement and supervise
+3 further the implementation and maintenance of the RES CES.
+4 (c) RECS RECs and ZECs; banking. The Commission shall allow a
+5 provider that has met the required amount amounts of renewable energy or
+6 zero emissions credits in a given year, commencing with 2017, to retain
+7 tradeable renewable energy or zero emissions credits created or purchased in
+8 excess of that amount for application to the provider’s required amount of
+9 clean or renewable energy in one of the following three years.
+10 (d) Alternative compliance payment. In lieu of purchasing renewable
+11 energy or tradeable renewable energy or zero emissions credits or supporting
+12 energy transformation projects to satisfy the requirements of this section and
+13 section 8005 of this title, a retail electricity provider in this State may pay to
+14 the Vermont Clean Energy Development Fund established under section 8015
+15 of this title an alternative compliance payment at the applicable rate set forth in
+16 section 8005. The administrator of the Vermont Clean Energy Development
+17 Fund shall use the payment from a retail electricity provider electing to make
+18 an alternative compliance payment to satisfy its obligations under subdivisions
+19 8005(a)(1), 8005(a)(2), 8005(a)(4), and 8005(a)(5) of this title for the
+20 development of renewable energy plants that are intended to serve and benefit
+21 customers with low income of the retail electricity provider that has made the
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 25 of 36
+1 payment. Such plants shall be located within the provider’s service territory, if
+2 feasible. In the event that such a payment is insufficient to enable the
+3 development of a renewable energy plant, the administrator may use the
+4 payment for other initiatives allowed under section 8015 of this title that will
+5 benefit customers with low income of the retail electricity provider that has
+6 made the payment. As used in this subsection (d), “customer with low
+7 income” means a person purchasing energy from a retail electricity provider
+8 and with an income that is less than or equal to 80 percent of area median
+9 income, adjusted for family size, as published annually by the U.S. Department
+10 of Housing and Urban Development.
+11 * * *
+12 (f) Joint efforts. Retail electricity providers may engage in joint efforts to
+13 meet one or more categories within the RES CES.
+14 Sec. 11. 30 V.S.A. § 8005 is amended to read:
+15 § 8005. RES CES CATEGORIES
+16 (a) Categories. This section specifies five categories of required resources
+17 to meet the requirements of the RES CES established in section 8004 of this
+18 title: total clean and renewable energy, distributed renewable generation,
+19 energy transformation, new renewable energy, and load growth renewable
+20 energy. In order to support progress toward Vermont’s climate goals and
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 26 of 36
+1 requirements, a provider may, but shall not be required to, exceed the
+2 statutorily required amounts under this section.
+3 (1) Total clean and renewable energy.
+4 (A) Purpose; establishment. To encourage the economic and
+5 environmental benefits of renewable energy, this subdivision establishes, for
+6 the RES CES, minimum total amounts of clean and renewable energy within
+7 the supply portfolio of each retail electricity provider. To satisfy this
+8 requirement, a provider may use clean energy generated within New England
+9 or renewable energy with environmental attributes attached or any class of
+10 tradeable renewable energy credits generated by any renewable energy plant
+11 whose energy is capable of delivery in New England.
+12 (B) Required amounts.
+13 (i) The amounts of total clean and renewable energy required by
+14 this subsection (a) shall be 63 percent of each retail electricity provider’s
+15 annual load during the year beginning on January 1, 2025, increasing by at
+16 least an additional four 7.4 percent each third January 1 thereafter until
+17 reaching 100 percent: on and after January 1, 2030.
+18 (i) on and after January 1, 2035 for a retail electricity provider who
+19 serves a single customer that takes service at 115 kilovolts and each municipal
+20 retail electricity provider formed under local charter or chapter 79 of this title;
+21 and
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 27 of 36
+1 (ii) on and after January 1, 2030, for all other retail electricity
+2 providers The amount of total renewable energy required by this subsection (a)
+3 shall be 55 percent of each retail electricity provider’s annual electricity
+4 purchases during the year beginning on January 1, 2027, increasing by an
+5 additional four percent each January 1 hereafter, until reaching 75 percent on
+6 and after January 1, 2032.
+7 * * *
+8 (2) Distributed renewable generation.
+9 (A) Purpose; establishment. This subdivision establishes a
+10 distributed renewable generation category for the RES CES. This category
+11 encourages the use of distributed generation to support the reliability of the
+12 State’s electric system; reduce line losses; contribute to avoiding or deferring
+13 improvements to that system necessitated by transmission or distribution
+14 constraints; and diversify the size and type of resources connected to that
+15 system. This category requires the use of renewable energy for these purposes
+16 to reduce environmental and health impacts from air emissions that would
+17 result from using other forms of generation.
+18 * * *
+19 (E) Avoiding transmission and distribution constraints.
+20 (i) Procurements by retail electricity providers and programs that
+21 support meeting the requirements of this subdivision (2) shall avoid
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 28 of 36
+1 development of new facilities in generation constrained areas of the
+2 distribution or transmission system that would not need to be expanded but for
+3 the addition of additional generation, unless costs associated with development
+4 in those generation constrained areas are not passed through to ratepayers
+5 through the cost to utilities to purchase the generation or in any other manner.
+6 To implement the intent of this section, the Commission may update or adopt
+7 rules, including rules that require a locational adjustor fee.
+8 (ii) A retail electricity provider may petition the Commission for relief
+9 of the requirements of subdivision (C) of this subdivision (a)(2) or the
+10 associated alternative compliance payment, which may be granted if the
+11 provider can demonstrate that it is unable to meet its requirements without
+12 extensive upgrades to the transmission or distribution infrastructure that would
+13 be borne by the provider’s ratepayers. If relief is granted, the retail electricity
+14 provider shall be required to instead acquire new renewable generation from
+15 facilities that qualify to meet the requirements of subdivision (4) of this
+16 subsection (a), in addition to the requirements as described in subdivision (4)
+17 of this subsection (a).
+18 (3) Energy transformation.
+19 (A) Purpose; establishment. This subdivision (3) establishes an
+20 energy transformation category for the RES CES. This category encourages
+21 Vermont retail electricity providers to support additional distributed renewable
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 29 of 36
+1 generation or to support other projects to reduce fossil fuel consumed by their
+2 customers and the emission of greenhouse gases attributable to that
+3 consumption. A retail electricity provider may satisfy the energy
+4 transformation requirement through distributed renewable generation in
+5 addition to the generation used to satisfy subdivision (2) of this subsection (a)
+6 or energy transformation projects or a combination of such generation and
+7 projects.
+8 * * *
+9 (4) New renewable energy.
+10 (A) Purpose; establishment. This subdivision (4) establishes a new
+11 regional renewable energy category for the RES CES. This category
+12 encourages the use of new renewable generation to support the reliability of
+13 the regional ISO-NE electric system. To satisfy this requirement, a provider
+14 shall use new renewable energy with environmental attributes attached or any
+15 class of tradeable renewable energy credits generated by any renewable energy
+16 plant coming into service after January 1, 2010 whose energy is capable of
+17 delivery in New England.
+18 * * *
+19 (6) Alternative compliance rates.
+20 (A) The alternative compliance payment rates for the categories
+21 established by subdivisions (1)–(3) of this subsection (a) shall be:
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 30 of 36
+1 (i) total clean and renewable energy requirement — $0.01 per
+2 kWh; and
+3 (ii) distributed renewable generation and energy transformation
+4 requirements — $0.06 per kWh.
+5 (B) The Commission shall adjust these rates for inflation annually
+6 commencing January 1, 2018, using the CPI.
+7 (C) For the distributed renewable energy, new renewable energy and
+8 load growth requirements, it shall be $0.04 per kWh annually commencing on
+9 January 1, 2025, with calculations for inflation beginning on January 1, 2023.
+10 * * *
+11 Sec. 12. 30 V.S.A. § 8006 is amended to read:
+12 § 8006. TRADEABLE CREDITS; ENVIRONMENTAL ATTRIBUTES;
+13 RECOGNITION, MONITORING, AND DISCLOSURE
+14 (a) The Commission shall establish or adopt a amend and expand its system
+15 of tradeable renewable energy credits for renewable resources that may be
+16 earned by electric generation qualifying for the prior RES to include clean
+17 energy generation. The system shall recognize tradeable renewable energy
+18 credits monitored and traded on the New England Generation Information
+19 System (GIS); shall provide a process for the recognition, approval, and
+20 monitoring of environmental attributes attached to clean and renewable energy
+21 that are eligible to satisfy the requirements of sections 8004 and 8005 of this
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 31 of 36
+1 title but are not monitored and traded on the GIS; and shall otherwise be
+2 consistent with regional practices.
+3 (b) The Commission shall ensure that all electricity provider and provider-
+4 affiliate disclosures and representations made with regard to a provider’s
+5 portfolio are accurate and reasonably supported by objective data. Further, the
+6 Commission shall ensure that providers disclose the types of generation used
+7 and shall clearly distinguish between energy or tradeable energy credits
+8 provided from clean, renewable, and nonrenewable energy sources and
+9 existing and new renewable energy.
+10 Sec. 13. 30 V.S.A. § 8008 is amended to read:
+11 § 8008. AGREEMENTS; ATTRIBUTE REVENUES; DISPOSITION BY
+12 COMMISSION
+13 (a) As used in this section, “the revenues” means revenues that are from the
+14 sale, through tradeable clean or renewable energy certificates or other means,
+15 of environmental attributes associated with the generation of clean and
+16 renewable energy from a system of generation resources with a total plant
+17 capacity greater than 200 MW and that are received by a Vermont retail
+18 electricity provider on or after May 1, 2012, pursuant to an agreement,
+19 contract, memorandum of understanding, or other transaction in which a
+20 person or entity agrees to transfer such revenues or rights associated with such
+21 attributes to the provider.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 32 of 36
+1 * * *
+2 Sec. 14. 30 V.S.A. § 8005b is added to read:
+3 § 8005b. RENEWABLE ENERGY FOR COMMUNITIES PROGRAM
+4 (a) Establishment. The Renewable Energy for Communities Program is
+5 established. To achieve the goals of subdivision 8005(a)(2) of this title, the
+6 Commission shall develop the Renewable Energy for Communities Program
+7 that meets the eligibility requirements of this section, which may be
+8 implemented by rule, order, or contract. Retail electricity providers shall issue
+9 periodic solicitations subject to the requirements of the Renewable Energy for
+10 Communities Program.
+11 (b) Eligible resources. Distributed renewable generation, as defined in
+12 subdivision 8002(a)(2) of this title, shall be eligible to participate in this
+13 program.
+14 (c) Objectives. It shall be the objective of the Renewable Energy for
+15 Communities Program to develop distributed generation at least-cost to
+16 ratepayers that is directed by, developed in consultation with, or directly
+17 benefits communities by one or more of the following:
+18 (1) delivering benefits from renewable energy systems to customers who
+19 have historically been marginalized or faced inequitable access to the benefits
+20 of renewable energy, including environmental justice focus populations as
+21 defined by 3 V.S.A. § 6002;
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 33 of 36
+1 (2) supporting community participation in the development and
+2 governance of distributed renewable generation;
+3 (3) supporting the delivery of benefits to tenants of buildings that are
+4 designated as affordable housing;
+5 (4) supporting the delivery of benefits to school and municipal owned
+6 buildings; and
+7 (5) advancing other priority issues as identified during program
+8 development as detailed under subsection (f) of this section.
+9 (d) Capacity requirement. Retail electricity providers shall issue
+10 solicitations for distributed renewable generation equivalent to a percentage of
+11 their requirement under subdivision 8005(a)(2) of this title, as determined by
+12 the Commission.
+13 (e) Solicitation requirement. On a schedule to be developed by the
+14 Commission, each retail electricity provider with an obligation under
+15 subdivision 8005(a)(2) of this title shall issue solicitations for eligible
+16 distributed generation until it has met its capacity requirement. Coordinated
+17 solicitations shall be encouraged. Each retail electric provider shall review
+18 proposed projects in its service territory according to a set of consistent core
+19 criteria as approved by the Commission and consistent with the objectives set
+20 forth in this section. The requirements for the retail electricity providers that
+21 are already 100 percent renewable may be limited by the Commission to an
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 34 of 36
+1 amount equal to the provider’s requirement to meet distributed generation with
+2 load growth above the baseline year of 2024 and allowed on a less frequent
+3 solicitation schedule.
+4 (f) Program development. On or before January 1, 2027, the Commission
+5 shall implement the Renewable Energy for Communities Program. In
+6 developing the Program, the Commission shall:
+7 (1) determine principles to guide the development of eligible distributed
+8 generation and consider whether additional objectives for the Program as
+9 defined under subsection (a) of this section are necessary;
+10 (2) determine whether a percentage of each retail electricity provider’s
+11 capacity requirement should be reserved to serve specific customers who have
+12 previously experienced inequitable access to the benefits of renewable energy
+13 and determine any minimum requirement for those projects procured under
+14 this program for serving those specific customers;
+15 (3) establish a set of consistent review criteria to be used by all retail
+16 electricity providers in solicitations for eligible distributed generation
+17 considering issues in addition to cost, such as community support or
+18 engagement while developing the proposal; potential for local workforce
+19 development and other community benefits to be delivered to the host
+20 community; location of the project, including whether it is in a constrained
+21 area of the distribution or transmission system or in an area identified as a
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 35 of 36
+1 preferred location in a regional or municipal enhanced energy plan pursuant to
+2 24 V.S.A. § 4352; and anticipated generation profile;
+3 (4) identify reporting requirements and necessary metrics to monitor
+4 how benefits and burdens from the Program are distributed across ratepayers;
+5 (5) consult with individuals representing a diverse array of perspectives,
+6 including at minimum representation from industry, retail electric providers,
+7 environmental advocates, State agencies, regional and local governments,
+8 communities identified as environmental justice focus populations under 3
+9 V.S.A. § 6002, municipalities experiencing high energy burden as identified by
+10 Efficiency Vermont’s 2023 Energy Burden Report, renters, and multifamily
+11 affordable housing representatives;
+12 (6) determine a process for exempting or deferring retail electricity
+13 provider requirements under this section in the event no proposals below the
+14 applicable alternative compliance payment are received in response to a retail
+15 electricity provider’s solicitation;
+16 (7) determine a process for evaluating and reporting on the success of
+17 the Program in achieving the stated goals; and
+18 (8) consider other issues as identified throughout the process.
+19 (g) The Commission may use its authority under sections 20 and 21 of this
+20 title as may be necessary to support engagement and technical analysis
+21 necessary to develop the Renewable Energy for Communities Program.
+VT LEG #378873 v.5
+BILL AS INTRODUCED S.110
+2025 Page 36 of 36
+1 Funding may be used to support per diem compensation and reimbursement of
+2 expenses as permitted under 32 V.S.A. § 1010 to conduct engagement with
+3 parties who are not otherwise compensated by their employer.
+4 * * * Effective Date * * *
+5 Sec. 15. EFFECTIVE DATE
+6 This act shall take effect on passage.
+VT LEG #378873 v.5
+[DELETED:  S P S I S H R D S e R S A S t E A l I * S 1]
+[DELETED:  S P S § ( n b t p ( J C o ( J ( J V t a * S §]
+[DELETED:  S P A ( t o ( t ( e a a ( g o z ( n a S § ( s]
+[DELETED:  S P ( s ( o ( ( d ( ( ( ( ( G ( G ( t ( d ( (]
+[DELETED:  S P ( ( o ( ( ( ( C ( p f ( ( ( P ( ( ( e ( R]
+[DELETED:  S P ( g t c a ( g ( e a s ( e l ( f e ( b p a]
+[DELETED:  S P ( A t D t o a s t b s T y a s z t S a (]
+[DELETED:  S P ( m i ( s g ( n ( a a ( t a ( m p m a o *]
+[DELETED:  S P ( e r r s i b u s e * ( A ( o ( t r ( (]
+[DELETED:  S P ( a S a ( q t T c i t s p t t o p ( S o]
+[DELETED:  S P u a ( ( m a s r f m ( C C g o D C h l b]
+[DELETED:  S P p o S § ( ( T e ( p l e t a T p * ( p b]
+[DELETED:  S P ( p ( e N d p C ( ( e t ( e p ( r e * ( a]
+[DELETED:  S P s P a S t s S § ( p e g t a ( s t p p ( a]
+[DELETED:  S P t r r p * ( a a e c P g o t ( o t 2 o s]
+[DELETED:  S P ( i a g p a p ( o t 2 o s ( u e ( m p o g]
+[DELETED:  S P ( p e v ( s p r ( a e b ( a m * S § I *]
+[DELETED:  S P ( a t a S § ( a E i i r t P C * ( a a e p]
+[DELETED:  S P A o * ( ( r c p s r a i ( r m p s * ( t]
+[DELETED:  S P ( o c a p r ( e a s e r V a m * ( C d j s]
+[DELETED:  S P ( R * ( R c g e ( b r ( p * S § A * ( e i]
+[DELETED:  S P e p * ( s g * ( e * ( e c ( u ( c t ( c C]
+[DELETED:  S P e a S §   ( S r p e r c a o e e t e r]
+[DELETED:  S P ( t f ( p z t e c ( e e s t o s F a 8 d c]
+[DELETED:  S P p f d p b m i a i o * ( m S § ( t t e e]
+[DELETED:  S P r s ( ( e t t r o t w ( ( t a l r ( s r a]
+[DELETED:  S P ( p s p a a * ( ( d e S i c s t r * ( ( s]
+[DELETED:  S P d d t i t T r ( o a p e b p f s o ( ( e V]
+[DELETED:  S P g c c t a o p * ( ( r e t s c p d * ( ( e]
+[DELETED:  S P ( k ( r ( c ( l J * S §   ( o e e c S m t]
+[DELETED:  S P t c ( a p C a p e S §   ( s o r c e c p a]
+[DELETED:  S P * S § ( e C t i p C ( s p ( C r b ( h o d]
+[DELETED:  S P ( g ( d ( b ( d ( s t t ( C s d s p c f a]
+[DELETED:  S P a l s ( s d ( g d ( c p a t ( e c e d c a]
+[DELETED:  S P p 2 ( h ( i e c V E a ( p a e ( t ( ( t n]
+[DELETED:  S P F e p * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.110
+2025 Page 1 of 36
+1 S.110
+2 Introduced by Senators Williams, Brennan, Collamore, Douglass, Hart,
+3 Heffernan, Ingalls, Mattos, Norris and Weeks
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; energy; climate change; air pollution; renewable
+7 energy; heating; fuel; thermal energy; greenhouse gas emissions;
+8 Renewable Energy Standard
+9 Statement of purpose of bill as introduced: This bill proposes to repeal the
+10 Affordable Heat Act, repeal the citizen suit provision of the Global Warming
+11 Solutions Act, and change the State’s greenhouse gas reduction requirements
+12 to goals. It would also change the Renewable Energy Standard to the Clean
+13 Energy Standard.
+14 An act relating to changes to Vermont’s air pollution and renewable energy
+15 laws
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 * * * Global Warming Solutions Act * * *
+18 Sec. 1. REPEAL
+19 10 V.S.A. § 594 is repealed.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 2 of 36
+1 Sec. 2. 10 V.S.A. § 578 is amended to read:
+2 § 578. GREENHOUSE GAS REDUCTION REQUIREMENTS
+3 (a) Greenhouse gas reduction requirements. Vermont shall reduce achieve
+4 net zero emissions of greenhouse gases from within the geographical
+5 boundaries of the State and those emissions outside the boundaries of the State
+6 that are caused by the use of energy in Vermont, as measured and inventoried
+7 pursuant to section 582 of this title, by: on or before January 1, 2035.
+8 (1) not less than 26 percent from 2005 greenhouse gas emissions by
+9 January 1, 2025 pursuant to the State’s membership in the United States
+10 Climate Alliance and commitment to implement policies to achieve the
+11 objectives of the 2016 Paris Agreement;
+12 (2) not less than 40 percent from 1990 greenhouse gas emissions by
+13 January 1, 2030 pursuant to the State’s 2016 Comprehensive Energy Plan; and
+14 (3) not less than 80 percent from 1990 greenhouse gas emissions by
+15 January 1, 2050 pursuant to the State’s 2016 Comprehensive Energy Plan
+16 Vermont shall continue to implement the policies to achieve the objectives of
+17 the 2016 Paris Agreement and remain at net zero greenhouse gas emissions
+18 across all sectors into the future.
+19 * * *
+20 Sec. 3. 10 V.S.A. § 590 is amended to read:
+21 § 590. DEFINITIONS
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 3 of 36
+1 As used in this chapter:
+2 (1) “Adaptation” means reducing vulnerability and advancing resilience
+3 through planned and implemented enhancements to, or avoiding degradation
+4 of, natural and built systems and structures.
+5 (2) “Greenhouse gas” has the same meaning as in section 552 of this
+6 title.
+7 (3) “Mitigation” means reduction of anthropogenic greenhouse gas
+8 emissions, and preservation and enhancement of natural systems to sequester
+9 and store carbon, in order to stabilize and reduce greenhouse gases in the
+10 atmosphere.
+11 (4) “Net zero greenhouse gas emissions” means the total amount of
+12 greenhouse gases released into the atmosphere after accounting for the amount
+13 of greenhouse gases that are naturally absorbed or sequestered is at or less than
+14 zero across all sectors.
+15 (5) “Resilience” means the capacity of individuals, communities, and
+16 natural and built systems to withstand and recover from climatic events, trends,
+17 and disruptions.
+18 Sec. 4. 10 V.S.A. § 591 is amended to read:
+19 § 591. VERMONT CLIMATE COUNCIL
+20 (a) There is created the Vermont Climate Council (Council). The Council
+21 shall be advisory and composed of the following members:
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 4 of 36
+1 (1) the Secretary of Administration Natural Resources or designee, who
+2 shall serve as the Chair of the Council;
+3 (2) the Secretary of Natural Resources or designee State Climatologist
+4 or designee;
+5 (3) the Secretary of Agriculture, Food and Markets or designee;
+6 (4) the Secretary of Commerce and Community Development or
+7 designee;
+8 (5) the Secretary of Human Services or designee;
+9 (6) the Secretary of Transportation or designee;
+10 (7) the Commissioner of Public Safety or designee;
+11 (8) the Commissioner of Public Service or designee;
+12 (9) one member to represent municipal governments, appointed by the
+13 Governor;
+14 (10) one member to represent the rural communities, appointed by the
+15 Governor;
+16 (11) the following members who shall be appointed by the Speaker of
+17 the House General Assembly:
+18 (A) one member with expertise and professional experience in the
+19 design and implementation of programs to reduce greenhouse gas emissions;
+20 (B) one member to represent rural communities;
+21 (C) one member to represent municipal governments;
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 5 of 36
+1 (D) one member to represent distribution utilities;
+2 (E)(B) one member to represent a statewide environmental
+3 organization;
+4 (F)(C) one member to represent the fuel sector;
+5 (G) one member with expertise in climate change science; and
+6 (H)(D) one member to represent Vermont manufacturers.
+7 (10) the following members who shall be appointed by the Committee on
+8 Committees:
+9 (A) one member with expertise in the design and implementation of
+10 programs to increase resilience to and respond to natural disasters resulting
+11 from climate change;
+12 (B)(E) one member to represent the clean energy sector;
+13 (C)(F) one member to represent the small business community;
+14 (D)(G) one member to represent the Vermont Community Action
+15 Partnership;
+16 (E)(H) one member to represent the farm and forest sector; and
+17 (F)(I) one youth member; and
+18 (G) one member of a Vermont-based organization with expertise in
+19 energy and data analysis.
+20 (b) The Council shall make recommendations to the Secretary of Natural
+21 Resources and in formulating the recommendations the Council shall:
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 6 of 36
+1 (1) Identify, analyze, and evaluate strategies and programs to reduce
+2 greenhouse gas emissions; achieve the State’s reduction requirements pursuant
+3 to section 578 of this title; and build resilience to prepare the State’s
+4 communities, infrastructure, and economy to adapt to the current and
+5 anticipated effects of climate change, including:.
+6 (A) creating an inventory of all existing programs that impact
+7 greenhouse gas emissions and their efficacy;
+8 (B) evaluating and analyzing the technical feasibility and cost-
+9 effectiveness of existing strategies and programs and identifying, evaluating,
+10 and analyzing new strategies and programs that are based upon emerging
+11 scientific and technical information;
+12 (C) analyzing each source or category of sources of greenhouse gas
+13 emissions and identifying which strategies and programs will result in the
+14 largest greenhouse gas emissions reductions in the most cost-effective manner;
+15 (D) identifying, analyzing, and evaluating public and private
+16 financing strategies to support the transition to a reduced greenhouse gas
+17 emissions economy and a more resilient State; and
+18 (E) evaluating and analyzing existing strategies and programs that
+19 build resilience, and identifying, evaluating, and analyzing new strategies and
+20 programs to prepare the State’s communities, infrastructure, and economy to
+21 adapt to the current and anticipated effects of climate change.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 7 of 36
+1 (2) On or before December 1, 2021, adopt Adopt the Vermont Climate
+2 Action Plan (Plan) and update the Plan on or before July 1 every four years
+3 thereafter, the first of which was adopted on December 1, 2021. On or before
+4 December 15, 2026, the Secretary of Natural Resources, in collaboration with
+5 the Department of Public Service and other relevant agencies and departments
+6 of State government, shall deliver a companion implementation strategy and
+7 aggressive-yet-achievable timeline for achieving net zero emissions across all
+8 sectors by 2035. The companion implementation strategy shall include long-
+9 term funding mechanisms that prioritizes use of existing resources. On or
+10 before July 1 every five years thereafter, the Secretary of Natural Resources
+11 shall consider the recommendations of the Council and shall update the Plan.
+12 The Council shall finalize its recommendations on or before January 1 of the
+13 year that the Plan is due. The Plan shall set forth recommend the specific
+14 affordable and practicable initiatives, programs, and strategies that the State
+15 shall pursue will consider implementing to reduce greenhouse gas meet net
+16 zero emissions reductions; achieve the State’s 2035 reduction requirements
+17 target pursuant to section 578 of this title; and build resilience to prepare the
+18 State’s communities, infrastructure, and economy to adapt to the current and
+19 anticipated effects of climate change.
+20 (3) Identify the means to accurately measure:
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 8 of 36
+1 (A) the State’s greenhouse gas emissions and progress towards
+2 meeting the reduction requirements pursuant to section 578 of this title,
+3 including publishing emissions data in a timely manner;
+4 (B) the effectiveness of the specific initiatives, programs, and
+5 strategies set forth in the Plan and updates to the Plan in reducing greenhouse
+6 gas emissions;
+7 (C) the effect of climate change on the State’s climate, wildlife, and
+8 natural resources; and
+9 (D) the existing resilience of the State’s communities, infrastructure,
+10 and economy and progress towards improving resilience to adapt to the current
+11 and anticipated effects of climate change.
+12 (4) Provide guidance to the Secretary of Natural Resources concerning
+13 the form, content, and subject matter of rules to be adopted recommended for
+14 adoption pursuant to section 593 of this chapter.
+15 (c) The Council shall create the subcommittees listed in this subsection and
+16 may also create other subcommittees to advise the Council, and assist in
+17 preparing the Plan, and carry out other duties. The Council may appoint
+18 members of the Council to serve as members of subcommittees and may also
+19 appoint individuals who are not members of the Council to serve as members
+20 of subcommittees.
+21 * * *
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 9 of 36
+1 (3) Just Transitions Subcommittee. This subcommittee shall focus on
+2 ensuring that strategies to reduce net greenhouse gas emissions and to build
+3 resilience to adapt to the effects of climate change benefit and support all
+4 residents of the State fairly and equitably. This subcommittee shall ensure that
+5 strategies consider the disproportionate impact of climate change on rural, low-
+6 income, and marginalized communities and that programs and incentives for
+7 building resilience are designed to be accessible to all Vermonters and do not
+8 unfairly burden any groups, communities, geographic locations, or economic
+9 sectors. This subcommittee may adopt a measurement tool to assess the
+10 equitability of programs and strategies considered by the Council.
+11 * * *
+12 (d) The Council shall recommend necessary legislation to the General
+13 Assembly concerning:
+14 (1) adopting market-based or alternative compliance mechanisms as part
+15 of the State’s greenhouse gas emissions reduction strategies;
+16 (2) changes to land use and development, including to chapter 151 of this
+17 title and 30 V.S.A. § 248, to reduce greenhouse gas emissions and promote
+18 resilience in response to climate change;
+19 (3) statutory authority necessary to implement the Plan; and
+20 (4) any other matter the Council deems appropriate.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 10 of 36
+1 (e) The Council shall have the administrative, and technical, and legal
+2 assistance of the Agency of Natural Resources and the Department of Public
+3 Service and may request the assistance of any Executive Branch Agency
+4 agency and Department department.
+5 (f)(e) A majority of the sitting members of the Council shall constitute a
+6 quorum, and action taken by the Council may be authorized by a majority of
+7 the members present and voting at any meeting at which a quorum is present.
+8 The Council may permit any or all members to participate in a meeting by, or
+9 conduct the meeting through the use of, any means of communication,
+10 including electronic, telecommunications, and video- or audio-conferencing
+11 technology, by which all members participating may simultaneously or
+12 sequentially communicate with each other during the meeting. A member
+13 participating in a meeting by this means is deemed to be present in person at
+14 the meeting. The Council shall meet at the call of the Chair or a majority of
+15 the members of the Council, and the Council may elect officers and adopt any
+16 other procedural rules as it shall determine necessary and appropriate to
+17 perform its work.
+18 (g)(f) Members of the Council and members of subcommittees who are not
+19 State employees shall be entitled to per diem compensation and reimbursement
+20 of expenses for each day spent in the performance of their duties, as permitted
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 11 of 36
+1 under 32 V.S.A. § 1010. These payments shall be made from monies
+2 appropriated to the Agency of Natural Resources.
+3 (h)(g) The members of the Council appointed pursuant to subdivision (a)
+4 (9)(11) of this section shall be appointed to initial terms of two years, and
+5 members appointed pursuant to subdivision (a)(10) of this section shall be
+6 appointed to initial terms of three years. Thereafter, each appointed member
+7 shall serve a term of three years or until his or her a member’s earlier
+8 resignation or removal. A vacancy shall be filled by the appointing authority
+9 for the remainder of the unexpired term. An appointed member shall not serve
+10 more than three two full consecutive three-year terms.
+11 (i)(h) On or before January 15, 2021 and every January 15 thereafter, the
+12 Council shall submit a written report to the General Assembly concerning the
+13 Council’s activities and the State’s progress towards meeting the 2035 net
+14 greenhouse gas reduction requirements pursuant to section 578 of this title. On
+15 or before November 1, 2021 and every second November 1 thereafter, the
+16 Director of Vermont Emergency Management shall file a report with the
+17 Council concerning Vermont’s overall municipal resilience to increased
+18 hazards presented by climate change that shall include hazard mitigation plans,
+19 local emergency management plans, and survey results as deemed appropriate
+20 by the Director. Subsequent reports shall include updates to document
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 12 of 36
+1 progress in local resilience. The report shall inform Council recommendations
+2 on policies to address gaps in local resilience.
+3 Sec. 5. 10 V.S.A. § 592 is amended to read:
+4 § 592. THE VERMONT CLIMATE ACTION PLAN
+5 (a) On or before December 1, 2021, the Vermont Climate Council
+6 (Council) shall adopt adopted the Vermont Climate Action Plan (Plan) and.
+7 The Secretary of Natural Resources shall update the Plan on or before July 1
+8 every four five years thereafter.
+9 (b) The Plan shall set forth recommend the specific affordable and
+10 practicable initiatives, programs, and strategies, including regulatory and
+11 legislative changes, necessary to achieve the State’s net zero greenhouse gas
+12 emissions reduction requirements across all sectors pursuant to section 578 of
+13 this title and build resilience to prepare the State’s communities, infrastructure,
+14 and economy to adapt to the current and anticipated effects of climate change.
+15 The Plan shall include those specific affordable and practicable initiatives,
+16 programs, and strategies that will:
+17 * * *
+18 (c) The analysis, development, and selection of the specific initiatives,
+19 programs, and strategies contained in the Plan and updates to the Plan shall be
+20 based upon:
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 13 of 36
+1 (1) the Council’s analysis and evaluation of strategies and programs
+2 pursuant to subdivision 591(b)(1) of this chapter;
+3 (2) reports, plans, and information pertaining to greenhouse gas
+4 emissions reduction and climate resilience strategies from the Agency of
+5 Natural Resources, the Department of Public Service, other State agencies and
+6 departments, and, where appropriate, the State Comprehensive Energy Plan
+7 prepared pursuant to 30 V.S.A. § 202b and the 2018 Vermont Climate Action
+8 Commission Report to the Governor; and
+9 (3) other reports, plans, and information.
+10 (d) The specific initiatives, programs, and strategies contained in To the
+11 extent practicable and affordable, the Plan and updates to the Plan shall further
+12 the following objectives:
+13 (1) to prioritize the most cost-effective, technologically feasible, and
+14 equitable greenhouse gas emissions reduction pathways and adaptation and
+15 preparedness strategies informed by scientific and technical expertise;
+16 (2) to provide for net zero greenhouse gas emissions reductions that
+17 reflect the relative contribution of each source or category of source of
+18 emissions;
+19 * * *
+20 (e) The Plan updated Plans shall form the basis for the recommend rules
+21 adopted for consideration by the Secretary of Natural Resources pursuant to
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 14 of 36
+1 section 593 of this chapter. If the Council fails to adopt the Plan or update the
+2 Plan as required by this chapter, the The Secretary shall proceed with adopting
+3 and implementing rules pursuant to subsection 593(j) of this chapter that, in the
+4 Secretary’s discretion, are cost effective, practicable, and designed to achieve
+5 the net zero greenhouse gas emissions reductions requirements pursuant to
+6 section 578 of this title.
+7 Sec. 6. 10 V.S.A. § 593 is amended to read:
+8 § 593. RULES
+9 (a) The Secretary of Natural Resources shall consider and adopt rules
+10 pursuant to 3 V.S.A. chapter 25, which are, in the Secretary’s discretion, cost
+11 effective, affordable, practicable, and designed to achieve the net zero
+12 greenhouse gas emissions reductions requirements pursuant to section 578 of
+13 this title and are consistent with the Vermont Climate Action Plan (Plan). In
+14 adopting rules pursuant to this section, the Secretary shall:
+15 (1) Ensure that Consider whether the rules are consistent with the
+16 specific initiatives, programs, and strategies set forth in the Plan and updates to
+17 the Plan; follow consider the Vermont Climate Council’s guidance provided
+18 pursuant to subdivision 591(b)(4) of this chapter; and further the objectives
+19 pursuant to subsection 592(d) of this chapter.
+20 (2) Develop a detailed record containing facts; data; and legal, scientific,
+21 and technical information sufficient to establish a reasonable basis to believe
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 15 of 36
+1 that the rules shall achieve the State’s net zero greenhouse gas emissions
+2 reductions requirements pursuant to section 578 of this title. This detailed
+3 record shall be included with the rule and filed with the Secretary of State
+4 pursuant to 3 V.S.A. § 838.
+5 * * *
+6 (e) On or before July 1, 2026 2027, the Secretary shall consider and adopt
+7 and implement rules, which are, in the Secretary’s discretion, cost effective,
+8 affordable, practicable, and designed to achieve the 2035 net greenhouse gas
+9 emissions reductions requirements pursuant to section 578 of this title and are
+10 consistent with the specific initiatives, programs, and strategies set forth in the
+11 Plan and updates to the Plan and achieve the 2030 2035 net zero greenhouse
+12 gas emissions reduction across all sectors requirement pursuant to section 578
+13 of this title. The Secretary shall observe the requirements of subsection (c) of
+14 this section.
+15 (f) The Secretary shall, at his or her discretion, but not less frequently than
+16 once every two years between 2026 and 2030, review and, if necessary, update
+17 the rules required by subsection (e) of this section in order to ensure that the
+18 2030 greenhouse gas emissions reduction requirement pursuant to section 578
+19 of this title is achieved. In performing this review and update, the Secretary
+20 shall observe the requirements of subsection (c) of this section.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 16 of 36
+1 (g) On or before July 1, 2040, the Secretary shall consider and adopt and
+2 implement rules, which are, in the Secretary’s discretion, cost effective,
+3 affordable, practicable, and designed to maintain the net zero or less
+4 greenhouse gas emissions and are consistent with the specific initiatives,
+5 programs, and strategies set forth in the Plan and updates to the Plan and
+6 achieve the 2050 net zero greenhouse gas emissions reduction requirement
+7 pursuant to section 578 of this title across all sectors.
+8 (h) The Secretary shall, at his or her discretion, but not less frequently than
+9 once every two years between 2040 and 2050, review and, if necessary, update
+10 the rules required by subsection (g) of this section in order to ensure that the
+11 2050 greenhouse gas emissions reduction requirement pursuant to section 578
+12 of this title is achieved. In performing this review and update, the Secretary
+13 shall observe the requirements of subsection (c) of this section.
+14 (i)(g) The Secretary may establish alternative reduction mechanisms to be
+15 used by sources of greenhouse gas emissions, if necessary, to achieve net zero
+16 emissions after 2050 on or before 2035.
+17 (1) The use of alternative reduction mechanisms shall account for not
+18 more than 20 percent of statewide greenhouse gas emissions estimated as a
+19 percentage of 1990 emissions. The use of a mechanism must offset a quantity
+20 of greenhouse gas emissions equal to or greater than the amount of greenhouse
+21 gasses emitted.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 17 of 36
+1 (2) The Secretary shall verify that any greenhouse gas emissions offset
+2 projects authorized as alternative reduction mechanisms represent equivalent
+3 emissions reductions or carbon sequestration that are real, additional,
+4 verifiable, enforceable, and permanent.
+5 (j) If the Council fails to adopt the Plan or update the Plan as required by
+6 section 592 of this chapter, the Secretary shall adopt and implement rules
+7 pursuant to 3 V.S.A. chapter 25 to achieve the greenhouse gas emissions
+8 reductions requirements pursuant to section 578 of this title.
+9 (k)(h) Nothing in this section shall be construed to limit the existing
+10 authority of a State agency, department, or entity to regulate greenhouse gas
+11 emissions or establish strategies or adopt rules to mitigate climate risk and
+12 build resilience to climate change.
+13 (l) The General Assembly may repeal, revise, or modify any rule or
+14 amendment to any rule, and its action shall not be abridged, enlarged, or
+15 modified by subsequent rule.
+16 * * * Clean Energy Standard * * *
+17 Sec. 7. 30 V.S.A. § 202a is amended to read:
+18 § 202a. STATE ENERGY POLICY
+19 It is the general policy of the State of Vermont:
+20 * * *
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 18 of 36
+1 (3) To meet Vermont’s energy service needs in a manner that will
+2 achieve the greenhouse gas emissions reductions requirements goals pursuant
+3 to 10 V.S.A § 578 and is consistent with the Vermont Climate Action Plan
+4 adopted and updated pursuant to 10 V.S.A. § 592.
+5 Sec. 8. 30 V.S.A. § 202b is amended to read:
+6 § 202b. STATE COMPREHENSIVE ENERGY PLAN
+7 (a) The Department of Public Service, in conjunction with other State
+8 agencies designated by the Governor, shall prepare a State Comprehensive
+9 Energy Plan covering at least a 20-year period. The Plan shall seek to
+10 implement the State energy policy set forth in section 202a of this title,
+11 including meeting the State’s greenhouse gas emissions reductions
+12 requirements goals pursuant to 10 V.S.A. § 578, and shall be consistent with
+13 the relevant goals of 24 V.S.A. § 4302 and with the Vermont Climate Action
+14 Plan adopted and updated pursuant to 10 V.S.A. § 592. The State
+15 Comprehensive Energy Plan shall include:
+16 * * *
+17 (e) The Commissioner of Public Service (Commissioner) shall file an
+18 annual report on progress in meeting the goals of the Plan. The report shall
+19 address each of the following sectors of energy consumption in the State:
+20 electricity, nonelectric fuels for thermal purposes, and transportation. In
+21 preparing the report, the Commissioner shall consult with the Secretaries of
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 19 of 36
+1 Administration, of Agriculture, Food and Markets, of Natural Resources, and
+2 of Transportation and the Commissioner of Buildings and General Services.
+3 * * *
+4 (3) For each sector, the report shall provide:
+5 (A) In millions of British thermal units (MMBTUs) for the most
+6 recent calendar year for which data are available, the total amount of energy
+7 consumed, the amount of clean and renewable energy consumed, and the
+8 percentage of clean and renewable energy consumed. For the electricity
+9 sector, the report shall also state the amounts in megawatt hours (MWH) of
+10 retail sales and load for Vermont as well as for each retail electricity provider
+11 and the Vermont and New England summer and winter peak electric demand,
+12 including the hour and day of peak demand.
+13 (B) Projections of the energy reductions and shift to clean and
+14 renewable energy expected to occur under existing policies, technologies, and
+15 markets. The most recent available data shall be used to inform these
+16 projections and shall be provided as a supplement to the data described in
+17 subdivision (A) of this subdivision (3).
+18 * * *
+19 (7) The report shall include the following information on progress
+20 toward meeting the Renewable Clean Energy Standard (RES CES):
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 20 of 36
+1 (A) An assessment of the costs and benefits of the RES CES based
+2 on the most current available data, including rate and economic impacts,
+3 customer savings, technology deployment, greenhouse gas emission reductions
+4 achieved both relative to 10 V.S.A § 578 requirements and societally, fuel
+5 price stability, effect on transmission and distribution upgrade costs, and any
+6 recommended changes based on this assessment.
+7 (i) For the most recent calendar year for which data is available,
+8 each retail electricity provider’s retail sales and load, in MWh; required
+9 amounts of clean and renewable energy for each category of the RES CES as
+10 set forth in section 8005 of this title; and amounts of clean and renewable
+11 energy and tradeable clean and renewable energy credits eligible to satisfy the
+12 requirements of sections 8004 and 8005 of this title actually owned by the
+13 Vermont retail electricity providers, expressed as a percentage of retail sales
+14 and total load MWh purchases made by Vermont retail electricity providers to
+15 meet demand.
+16 * * *
+17 (iv) The report shall assess how costs and benefits of the RES
+18 CES are being distributed across State, to the extent possible given available
+19 data, by retail electricity service territory, municipality, and environmental
+20 justice focus populations, as defined by 3 V.S.A. § 6002. Such an assessment
+21 shall consider metrics to monitor affordability of electric rates.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 21 of 36
+1 (B) Projections, looking at least 10 years ahead, of the impacts of the
+2 RES CES.
+3 * * *
+4 (iii) The Department shall project, for the State, the impact of the
+5 RES CES in each of the following areas: electric utility rates, total energy
+6 consumption, electric energy consumption, fossil fuel consumption, and
+7 greenhouse gas emissions. The report shall compare the amount or level in
+8 each of these areas with and without the program.
+9 (C) An assessment of whether the requirements of the RES CES have
+10 been met to date, and any recommended changes needed to achieve those
+11 requirements.
+12 (D) A summary of the activities of distributed renewable generation
+13 programs that support the achievement of the RES CES, including:
+14 * * *
+15 Sec. 9. 30 V.S.A. § 8002 is amended to read:
+16 § 8002. DEFINITIONS
+17 As used in this chapter:
+18 * * *
+19 (7) “Environmental attributes” means the characteristics of a plant that
+20 enable the energy it produces to qualify as clean or renewable energy and
+21 include any and all benefits of the plant to the environment such as avoided
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 22 of 36
+1 emissions or other impacts to air, water, or soil that may occur through the
+2 plant’s displacement of a nonclean or nonrenewable energy source.
+3 * * *
+4 (25) “Clean energy” means both renewable energy, as defined in this
+5 section, as well as electricity produced using a technology that does not emit
+6 greenhouse gases as a by-product of energy generation.
+7 * * *
+8 (29) “RES” “CES” means the Renewable Clean Energy Standard
+9 established under sections 8004 and 8005 of this title.
+10 * * *
+11 (33) “Tradeable zero emissions credits” or “ZECs” means all of the
+12 environmental attributes associated with a single unit of energy generated by a
+13 clean energy source where:
+14 (A) those attributes are transferred or recorded separately from that
+15 unit of energy;
+16 (B) the party claiming ownership of the tradeable zero emissions
+17 credits has acquired the exclusive legal ownership of all, and not less than all,
+18 the environmental attributes associated with that unit of energy; and
+19 (C) exclusive legal ownership can be verified through an auditable
+20 contract path or pursuant to the system established or authorized by the
+21 Commission or any program for tracking and verification of the ownership of
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 23 of 36
+1 environmental attributes of energy legally recognized in any state and
+2 approved by the Commission.
+3 Sec. 10. 30 V.S.A. § 8004 is amended to read:
+4 § 8004. SALES OF ELECTRIC ENERGY; RENEWABLE CLEAN
+5 ENERGY STANDARD (RES CES)
+6 (a) Establishment Expansion; requirements. The RES Renewable Energy
+7 Standard is established expanded to become the CES. Under this program, a
+8 retail electricity provider shall not sell or otherwise provide or offer to sell or
+9 provide electricity in the State of Vermont without ownership of sufficient
+10 energy produced by clean and renewable energy plants or sufficient tradeable
+11 renewable energy and zero emissions credits from plants whose energy is
+12 capable of delivery in New England that reflect the required amounts of clean
+13 and renewable energy set forth in section 8005 of this title or without support
+14 of energy transformation projects in accordance with that section. A retail
+15 electricity provider may meet the required amounts of clean and renewable
+16 energy through eligible tradeable renewable energy and zero emissions credits
+17 that it owns and retires, eligible clean and renewable energy resources with
+18 environmental attributes still attached, or a combination of those credits and
+19 resources.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 24 of 36
+1 (b) Rules. The Commission shall adopt update the rules that are necessary
+2 to allow the Commission and the Department to implement and supervise
+3 further the implementation and maintenance of the RES CES.
+4 (c) RECS RECs and ZECs; banking. The Commission shall allow a
+5 provider that has met the required amount amounts of renewable energy or
+6 zero emissions credits in a given year, commencing with 2017, to retain
+7 tradeable renewable energy or zero emissions credits created or purchased in
+8 excess of that amount for application to the provider’s required amount of
+9 clean or renewable energy in one of the following three years.
+10 (d) Alternative compliance payment. In lieu of purchasing renewable
+11 energy or tradeable renewable energy or zero emissions credits or supporting
+12 energy transformation projects to satisfy the requirements of this section and
+13 section 8005 of this title, a retail electricity provider in this State may pay to
+14 the Vermont Clean Energy Development Fund established under section 8015
+15 of this title an alternative compliance payment at the applicable rate set forth in
+16 section 8005. The administrator of the Vermont Clean Energy Development
+17 Fund shall use the payment from a retail electricity provider electing to make
+18 an alternative compliance payment to satisfy its obligations under subdivisions
+19 8005(a)(1), 8005(a)(2), 8005(a)(4), and 8005(a)(5) of this title for the
+20 development of renewable energy plants that are intended to serve and benefit
+21 customers with low income of the retail electricity provider that has made the
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 25 of 36
+1 payment. Such plants shall be located within the provider’s service territory, if
+2 feasible. In the event that such a payment is insufficient to enable the
+3 development of a renewable energy plant, the administrator may use the
+4 payment for other initiatives allowed under section 8015 of this title that will
+5 benefit customers with low income of the retail electricity provider that has
+6 made the payment. As used in this subsection (d), “customer with low
+7 income” means a person purchasing energy from a retail electricity provider
+8 and with an income that is less than or equal to 80 percent of area median
+9 income, adjusted for family size, as published annually by the U.S. Department
+10 of Housing and Urban Development.
+11 * * *
+12 (f) Joint efforts. Retail electricity providers may engage in joint efforts to
+13 meet one or more categories within the RES CES.
+14 Sec. 11. 30 V.S.A. § 8005 is amended to read:
+15 § 8005. RES CES CATEGORIES
+16 (a) Categories. This section specifies five categories of required resources
+17 to meet the requirements of the RES CES established in section 8004 of this
+18 title: total clean and renewable energy, distributed renewable generation,
+19 energy transformation, new renewable energy, and load growth renewable
+20 energy. In order to support progress toward Vermont’s climate goals and
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 26 of 36
+1 requirements, a provider may, but shall not be required to, exceed the
+2 statutorily required amounts under this section.
+3 (1) Total clean and renewable energy.
+4 (A) Purpose; establishment. To encourage the economic and
+5 environmental benefits of renewable energy, this subdivision establishes, for
+6 the RES CES, minimum total amounts of clean and renewable energy within
+7 the supply portfolio of each retail electricity provider. To satisfy this
+8 requirement, a provider may use clean energy generated within New England
+9 or renewable energy with environmental attributes attached or any class of
+10 tradeable renewable energy credits generated by any renewable energy plant
+11 whose energy is capable of delivery in New England.
+12 (B) Required amounts.
+13 (i) The amounts of total clean and renewable energy required by
+14 this subsection (a) shall be 63 percent of each retail electricity provider’s
+15 annual load during the year beginning on January 1, 2025, increasing by at
+16 least an additional four 7.4 percent each third January 1 thereafter until
+17 reaching 100 percent: on and after January 1, 2030.
+18 (i) on and after January 1, 2035 for a retail electricity provider who
+19 serves a single customer that takes service at 115 kilovolts and each municipal
+20 retail electricity provider formed under local charter or chapter 79 of this title;
+21 and
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 27 of 36
+1 (ii) on and after January 1, 2030, for all other retail electricity
+2 providers The amount of total renewable energy required by this subsection (a)
+3 shall be 55 percent of each retail electricity provider’s annual electricity
+4 purchases during the year beginning on January 1, 2027, increasing by an
+5 additional four percent each January 1 hereafter, until reaching 75 percent on
+6 and after January 1, 2032.
+7 * * *
+8 (2) Distributed renewable generation.
+9 (A) Purpose; establishment. This subdivision establishes a
+10 distributed renewable generation category for the RES CES. This category
+11 encourages the use of distributed generation to support the reliability of the
+12 State’s electric system; reduce line losses; contribute to avoiding or deferring
+13 improvements to that system necessitated by transmission or distribution
+14 constraints; and diversify the size and type of resources connected to that
+15 system. This category requires the use of renewable energy for these purposes
+16 to reduce environmental and health impacts from air emissions that would
+17 result from using other forms of generation.
+18 * * *
+19 (E) Avoiding transmission and distribution constraints.
+20 (i) Procurements by retail electricity providers and programs that
+21 support meeting the requirements of this subdivision (2) shall avoid
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 28 of 36
+1 development of new facilities in generation constrained areas of the
+2 distribution or transmission system that would not need to be expanded but for
+3 the addition of additional generation, unless costs associated with development
+4 in those generation constrained areas are not passed through to ratepayers
+5 through the cost to utilities to purchase the generation or in any other manner.
+6 To implement the intent of this section, the Commission may update or adopt
+7 rules, including rules that require a locational adjustor fee.
+8 (ii) A retail electricity provider may petition the Commission for relief
+9 of the requirements of subdivision (C) of this subdivision (a)(2) or the
+10 associated alternative compliance payment, which may be granted if the
+11 provider can demonstrate that it is unable to meet its requirements without
+12 extensive upgrades to the transmission or distribution infrastructure that would
+13 be borne by the provider’s ratepayers. If relief is granted, the retail electricity
+14 provider shall be required to instead acquire new renewable generation from
+15 facilities that qualify to meet the requirements of subdivision (4) of this
+16 subsection (a), in addition to the requirements as described in subdivision (4)
+17 of this subsection (a).
+18 (3) Energy transformation.
+19 (A) Purpose; establishment. This subdivision (3) establishes an
+20 energy transformation category for the RES CES. This category encourages
+21 Vermont retail electricity providers to support additional distributed renewable
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 29 of 36
+1 generation or to support other projects to reduce fossil fuel consumed by their
+2 customers and the emission of greenhouse gases attributable to that
+3 consumption. A retail electricity provider may satisfy the energy
+4 transformation requirement through distributed renewable generation in
+5 addition to the generation used to satisfy subdivision (2) of this subsection (a)
+6 or energy transformation projects or a combination of such generation and
+7 projects.
+8 * * *
+9 (4) New renewable energy.
+10 (A) Purpose; establishment. This subdivision (4) establishes a new
+11 regional renewable energy category for the RES CES. This category
+12 encourages the use of new renewable generation to support the reliability of
+13 the regional ISO-NE electric system. To satisfy this requirement, a provider
+14 shall use new renewable energy with environmental attributes attached or any
+15 class of tradeable renewable energy credits generated by any renewable energy
+16 plant coming into service after January 1, 2010 whose energy is capable of
+17 delivery in New England.
+18 * * *
+19 (6) Alternative compliance rates.
+20 (A) The alternative compliance payment rates for the categories
+21 established by subdivisions (1)–(3) of this subsection (a) shall be:
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 30 of 36
+1 (i) total clean and renewable energy requirement — $0.01 per
+2 kWh; and
+3 (ii) distributed renewable generation and energy transformation
+4 requirements — $0.06 per kWh.
+5 (B) The Commission shall adjust these rates for inflation annually
+6 commencing January 1, 2018, using the CPI.
+7 (C) For the distributed renewable energy, new renewable energy and
+8 load growth requirements, it shall be $0.04 per kWh annually commencing on
+9 January 1, 2025, with calculations for inflation beginning on January 1, 2023.
+10 * * *
+11 Sec. 12. 30 V.S.A. § 8006 is amended to read:
+12 § 8006. TRADEABLE CREDITS; ENVIRONMENTAL ATTRIBUTES;
+13 RECOGNITION, MONITORING, AND DISCLOSURE
+14 (a) The Commission shall establish or adopt a amend and expand its system
+15 of tradeable renewable energy credits for renewable resources that may be
+16 earned by electric generation qualifying for the prior RES to include clean
+17 energy generation. The system shall recognize tradeable renewable energy
+18 credits monitored and traded on the New England Generation Information
+19 System (GIS); shall provide a process for the recognition, approval, and
+20 monitoring of environmental attributes attached to clean and renewable energy
+21 that are eligible to satisfy the requirements of sections 8004 and 8005 of this
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 31 of 36
+1 title but are not monitored and traded on the GIS; and shall otherwise be
+2 consistent with regional practices.
+3 (b) The Commission shall ensure that all electricity provider and provider-
+4 affiliate disclosures and representations made with regard to a provider’s
+5 portfolio are accurate and reasonably supported by objective data. Further, the
+6 Commission shall ensure that providers disclose the types of generation used
+7 and shall clearly distinguish between energy or tradeable energy credits
+8 provided from clean, renewable, and nonrenewable energy sources and
+9 existing and new renewable energy.
+10 Sec. 13. 30 V.S.A. § 8008 is amended to read:
+11 § 8008. AGREEMENTS; ATTRIBUTE REVENUES; DISPOSITION BY
+12 COMMISSION
+13 (a) As used in this section, “the revenues” means revenues that are from the
+14 sale, through tradeable clean or renewable energy certificates or other means,
+15 of environmental attributes associated with the generation of clean and
+16 renewable energy from a system of generation resources with a total plant
+17 capacity greater than 200 MW and that are received by a Vermont retail
+18 electricity provider on or after May 1, 2012, pursuant to an agreement,
+19 contract, memorandum of understanding, or other transaction in which a
+20 person or entity agrees to transfer such revenues or rights associated with such
+21 attributes to the provider.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 32 of 36
+1 * * *
+2 Sec. 14. 30 V.S.A. § 8005b is added to read:
+3 § 8005b. RENEWABLE ENERGY FOR COMMUNITIES PROGRAM
+4 (a) Establishment. The Renewable Energy for Communities Program is
+5 established. To achieve the goals of subdivision 8005(a)(2) of this title, the
+6 Commission shall develop the Renewable Energy for Communities Program
+7 that meets the eligibility requirements of this section, which may be
+8 implemented by rule, order, or contract. Retail electricity providers shall issue
+9 periodic solicitations subject to the requirements of the Renewable Energy for
+10 Communities Program.
+11 (b) Eligible resources. Distributed renewable generation, as defined in
+12 subdivision 8002(a)(2) of this title, shall be eligible to participate in this
+13 program.
+14 (c) Objectives. It shall be the objective of the Renewable Energy for
+15 Communities Program to develop distributed generation at least-cost to
+16 ratepayers that is directed by, developed in consultation with, or directly
+17 benefits communities by one or more of the following:
+18 (1) delivering benefits from renewable energy systems to customers who
+19 have historically been marginalized or faced inequitable access to the benefits
+20 of renewable energy, including environmental justice focus populations as
+21 defined by 3 V.S.A. § 6002;
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 33 of 36
+1 (2) supporting community participation in the development and
+2 governance of distributed renewable generation;
+3 (3) supporting the delivery of benefits to tenants of buildings that are
+4 designated as affordable housing;
+5 (4) supporting the delivery of benefits to school and municipal owned
+6 buildings; and
+7 (5) advancing other priority issues as identified during program
+8 development as detailed under subsection (f) of this section.
+9 (d) Capacity requirement. Retail electricity providers shall issue
+10 solicitations for distributed renewable generation equivalent to a percentage of
+11 their requirement under subdivision 8005(a)(2) of this title, as determined by
+12 the Commission.
+13 (e) Solicitation requirement. On a schedule to be developed by the
+14 Commission, each retail electricity provider with an obligation under
+15 subdivision 8005(a)(2) of this title shall issue solicitations for eligible
+16 distributed generation until it has met its capacity requirement. Coordinated
+17 solicitations shall be encouraged. Each retail electric provider shall review
+18 proposed projects in its service territory according to a set of consistent core
+19 criteria as approved by the Commission and consistent with the objectives set
+20 forth in this section. The requirements for the retail electricity providers that
+21 are already 100 percent renewable may be limited by the Commission to an
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 34 of 36
+1 amount equal to the provider’s requirement to meet distributed generation with
+2 load growth above the baseline year of 2024 and allowed on a less frequent
+3 solicitation schedule.
+4 (f) Program development. On or before January 1, 2027, the Commission
+5 shall implement the Renewable Energy for Communities Program. In
+6 developing the Program, the Commission shall:
+7 (1) determine principles to guide the development of eligible distributed
+8 generation and consider whether additional objectives for the Program as
+9 defined under subsection (a) of this section are necessary;
+10 (2) determine whether a percentage of each retail electricity provider’s
+11 capacity requirement should be reserved to serve specific customers who have
+12 previously experienced inequitable access to the benefits of renewable energy
+13 and determine any minimum requirement for those projects procured under
+14 this program for serving those specific customers;
+15 (3) establish a set of consistent review criteria to be used by all retail
+16 electricity providers in solicitations for eligible distributed generation
+17 considering issues in addition to cost, such as community support or
+18 engagement while developing the proposal; potential for local workforce
+19 development and other community benefits to be delivered to the host
+20 community; location of the project, including whether it is in a constrained
+21 area of the distribution or transmission system or in an area identified as a
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 35 of 36
+1 preferred location in a regional or municipal enhanced energy plan pursuant to
+2 24 V.S.A. § 4352; and anticipated generation profile;
+3 (4) identify reporting requirements and necessary metrics to monitor
+4 how benefits and burdens from the Program are distributed across ratepayers;
+5 (5) consult with individuals representing a diverse array of perspectives,
+6 including at minimum representation from industry, retail electric providers,
+7 environmental advocates, State agencies, regional and local governments,
+8 communities identified as environmental justice focus populations under 3
+9 V.S.A. § 6002, municipalities experiencing high energy burden as identified by
+10 Efficiency Vermont’s 2023 Energy Burden Report, renters, and multifamily
+11 affordable housing representatives;
+12 (6) determine a process for exempting or deferring retail electricity
+13 provider requirements under this section in the event no proposals below the
+14 applicable alternative compliance payment are received in response to a retail
+15 electricity provider’s solicitation;
+16 (7) determine a process for evaluating and reporting on the success of
+17 the Program in achieving the stated goals; and
+18 (8) consider other issues as identified throughout the process.
+19 (g) The Commission may use its authority under sections 20 and 21 of this
+20 title as may be necessary to support engagement and technical analysis
+21 necessary to develop the Renewable Energy for Communities Program.
+VT LEG #378873 v.5
+
+BILL AS INTRODUCED S.110
+2025 Page 36 of 36
+1 Funding may be used to support per diem compensation and reimbursement of
+2 expenses as permitted under 32 V.S.A. § 1010 to conduct engagement with
+3 parties who are not otherwise compensated by their employer.
+4 * * * Effective Date * * *
+5 Sec. 15. EFFECTIVE DATE
+6 This act shall take effect on passage.
+VT LEG #378873 v.5
+
+[DELETED:  S P S I S H R D S e R S A S t E A l I * S 1]
+[DELETED:  S P S § ( n b t p ( J C o ( J ( J V t a * S §]
+[DELETED:  S P A ( t o ( t ( e a a ( g o z ( n a S § ( s]
+[DELETED:  S P ( s ( o ( ( d ( ( ( ( ( G ( G ( t ( d ( (]
+[DELETED:  S P ( ( o ( ( ( ( C ( p f ( ( ( P ( ( ( e ( R]
+[DELETED:  S P ( g t c a ( g ( e a s ( e l ( f e ( b p a]
+[DELETED:  S P ( A t D t o a s t b s T y a s z t S a (]
+[DELETED:  S P ( m i ( s g ( n ( a a ( t a ( m p m a o *]
+[DELETED:  S P ( e r r s i b u s e * ( A ( o ( t r ( (]
+[DELETED:  S P ( a S a ( q t T c i t s p t t o p ( S o]
+[DELETED:  S P u a ( ( m a s r f m ( C C g o D C h l b]
+[DELETED:  S P p o S § ( ( T e ( p l e t a T p * ( p b]
+[DELETED:  S P ( p ( e N d p C ( ( e t ( e p ( r e * ( a]
+[DELETED:  S P s P a S t s S § ( p e g t a ( s t p p ( a]
+[DELETED:  S P t r r p * ( a a e c P g o t ( o t 2 o s]
+[DELETED:  S P ( i a g p a p ( o t 2 o s ( u e ( m p o g]
+[DELETED:  S P ( p e v ( s p r ( a e b ( a m * S § I *]
+[DELETED:  S P ( a t a S § ( a E i i r t P C * ( a a e p]
+[DELETED:  S P A o * ( ( r c p s r a i ( r m p s * ( t]
+[DELETED:  S P ( o c a p r ( e a s e r V a m * ( C d j s]
+[DELETED:  S P ( R * ( R c g e ( b r ( p * S § A * ( e i]
+[DELETED:  S P e p * ( s g * ( e * ( e c ( u ( c t ( c C]
+[DELETED:  S P e a S §   ( S r p e r c a o e e t e r]
+[DELETED:  S P ( t f ( p z t e c ( e e s t o s F a 8 d c]
+[DELETED:  S P p f d p b m i a i o * ( m S § ( t t e e]
+[DELETED:  S P r s ( ( e t t r o t w ( ( t a l r ( s r a]
+[DELETED:  S P ( p s p a a * ( ( d e S i c s t r * ( ( s]
+[DELETED:  S P d d t i t T r ( o a p e b p f s o ( ( e V]
+[DELETED:  S P g c c t a o p * ( ( r e t s c p d * ( ( e]
+[DELETED:  S P ( k ( r ( c ( l J * S §   ( o e e c S m t]
+[DELETED:  S P t c ( a p C a p e S §   ( s o r c e c p a]
+[DELETED:  S P * S § ( e C t i p C ( s p ( C r b ( h o d]
+[DELETED:  S P ( g ( d ( b ( d ( s t t ( C s d s p c f a]
+[DELETED:  S P a l s ( s d ( g d ( c p a t ( e c e d c a]
+[DELETED:  S P p 2 ( h ( i e c V E a ( p a e ( t ( ( t n]
+[DELETED:  S P F e p * S T]

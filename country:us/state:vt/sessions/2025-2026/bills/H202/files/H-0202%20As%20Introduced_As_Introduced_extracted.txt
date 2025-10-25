@@ -1,0 +1,325 @@
+Title: BILL AS INTRODUCED H.202
+Official Title: BILL AS INTRODUCED H.202
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.202
+2 Introduced by Representative Cordes of Bristol
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; prescription drugs; pharmacy benefit
+6 managers; pharmacies; hospitals; 340B drug pricing program
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit a
+8 pharmacy benefit manager from requiring a person covered by a health
+9 insurance plan to pay more for a prescription drug than the National Average
+10 Drug Acquisition Cost of the drug plus a professional dispensing fee. The bill
+11 would require pharmacies to post a notice informing covered persons
+12 purchasing prescription drugs that they may ask the pharmacy staff to disclose
+13 certain information regarding their price options. The bill would require
+14 hospitals to report to the Green Mountain Care Board annually about their
+15 participation in the federal 340B drug pricing program. It would also require
+16 health insurers to inform covered persons annually of the actual amount their
+17 health insurance plan spent on prescription drugs on their behalf during the
+18 previous year and would require all entities participating in the 340B program
+19 to inform patients annually if their prescription drugs were purchased through
+20 the 340B program.
+VT LEG #380110 v.1
+BILL AS INTRODUCED H.202
+2025 Page 2 of 7
+1 An act relating to increasing the transparency of prescription drug costs and
+2 spending
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 18 V.S.A. § 3612 is amended to read:
+5 § 3612. PROHIBITED PRACTICES
+6 * * *
+7 (e)(1)(A) A pharmacy benefit manager shall not require a covered person
+8 purchasing a covered prescription drug to pay an amount greater than the lesser
+9 of:
+10 (A)(i) the cost-sharing amount under the terms of the health benefit
+11 plan, as determined in accordance with subdivision (2) of this subsection (e);
+12 (B)(ii) the maximum allowable cost for the drug; or
+13 (C)(iii) the amount the covered person would pay for the drug, after
+14 application of any known discounts, if the covered person were paying the cash
+15 price; or
+16 (iv) the current National Average Drug Acquisition Cost plus a
+17 professional dispensing fee in an amount equal to the professional dispensing
+18 fee in effect for the Vermont Medicaid program.
+19 (B) As used in subdivision (A)(iii) of this subdivision (e)(1), “cash
+20 price” means the actual amount the individual would have paid if the
+21 individual had purchased the drug without coverage for the drug under any
+VT LEG #380110 v.1
+BILL AS INTRODUCED H.202
+2025 Page 3 of 7
+1 health benefit plan, which shall include the lowest possible price the individual
+2 would be able to obtain by using a drug discount card.
+3 * * *
+4 Sec. 2. 18 V.S.A. § 3632 is added to read:
+5 § 3632. DISCLOSURE OF AVAILABILITY OF COST INFORMATION
+6 In order to assure covered persons that they are receiving the best available
+7 price, each pharmacy in this State shall post a notice informing covered
+8 persons purchasing prescription drugs that they may ask the pharmacy staff to
+9 disclose to them the following amounts, as set forth in subdivision 3612(e)(1)
+10 of this chapter:
+11 (1) the cost-sharing amount under the terms of the covered person’s
+12 health benefit plan;
+13 (2) the maximum allowable cost for the drug;
+14 (3) the amount the covered person would pay for the drug, after
+15 application of any known discounts, if the covered person were paying the cash
+16 price; and
+17 (4) the current National Average Drug Acquisition Cost plus a
+18 professional dispensing fee in an amount equal to the professional dispensing
+19 fee in effect for the Vermont Medicaid program.
+VT LEG #380110 v.1
+BILL AS INTRODUCED H.202
+2025 Page 4 of 7
+1 Sec. 3. 18 V.S.A. § 9406 is added to read:
+2 § 9406. REPORTING ON PARTICIPATION IN 340B DRUG PRICING
+3 PROGRAM
+4 Annually on or before July 1, each hospital participating in the federal 340B
+5 drug pricing program established by 42 U.S.C. § 256b shall submit to the
+6 Green Mountain Care Board a report detailing the hospital’s participation in
+7 the program during the previous calendar year, which report shall be posted on
+8 the Green Mountain Care Board’s website and which shall contain at least the
+9 following information:
+10 (1) the aggregated acquisition cost for all prescription drugs that the
+11 hospital obtained through the 340B program during the previous calendar year;
+12 (2) the aggregated payment amount that the hospital received for all
+13 prescription drugs obtained under the 340B program and dispensed to patients
+14 during the previous calendar year;
+15 (3) the aggregated payment amount that the hospital made to pharmacies
+16 with which the hospital contracted to dispense drugs to its patients under the
+17 340B program during the previous calendar year;
+18 (4) the aggregated payment amount that the hospital made to any other
+19 outside vendor for managing, administering, or facilitating any aspect of the
+20 hospital’s 340B drug program during the previous calendar year;
+VT LEG #380110 v.1
+BILL AS INTRODUCED H.202
+2025 Page 5 of 7
+1 (5) all other expenses related to administering the 340B program,
+2 including staffing, operational, and administrative expenses, during the
+3 previous calendar year;
+4 (6) the names of all vendors, including split billing vendors, contract
+5 pharmacies, and pharmacy benefit managers with which the hospital
+6 contracted to provide services associated with the hospital’s 340B program
+7 participation during the previous calendar year;
+8 (7) the number of claims for all prescription drugs the hospital obtained
+9 through the 340B program during the previous calendar year, including the
+10 total number of claims and the number of claims reported separately by payer
+11 type, including Medicare, private insurance, and uninsured;
+12 (8) a description of the ways in which the hospital uses savings from its
+13 participation in the 340B program to benefit its community through programs
+14 and services funded in whole or in part by savings from the 340B program,
+15 including services that support community access to care that the hospital
+16 could not continue without these savings;
+17 (9) a description of the hospital’s internal review and oversight of its
+18 participation in the 340B program in compliance with the U.S. Department of
+19 Health and Human Services, Health Resources and Services Administration’s
+20 340B program rules and guidance; and
+21 (10) such additional information as the Board may request.
+VT LEG #380110 v.1
+BILL AS INTRODUCED H.202
+2025 Page 6 of 7
+1 Sec. 4. 18 V.S.A. § 9414b is added to read:
+2 § 9414b. ANNUAL PRESCRIPTION DRUG DISCLOSURES TO
+3 CONSUMERS
+4 (a) Annually, within 6 months following the end of the plan year, a health
+5 insurer shall provide to each individual covered under a health insurance plan
+6 offered or administered by the health insurer a report of the total amount that
+7 the plan actually spent on prescription drugs for or on behalf of the covered
+8 individual during the previous plan year, net of all rebates and discounts. The
+9 health insurer shall send the prescription drug spending report to the covered
+10 individual at the same address to which the health insurer sends the covered
+11 individual’s explanation of benefits.
+12 (b) Annually, on or before March 1, each covered entity participating in the
+13 federal 340B drug pricing program established by 42 U.S.C. § 256b shall
+14 notify its patients if one or more of the prescription drugs prescribed for the
+15 patient by a health care professional affiliated with the covered entity was
+16 purchased through the 340B program. For a covered entity that is a hospital,
+17 the notice shall include information regarding how to access the report on the
+18 Green Mountain Care Board’s website detailing the hospital’s participation in
+19 the 340B program, including the ways in which the hospital uses savings from
+20 its participation in the 340B program to benefit its community.
+VT LEG #380110 v.1
+BILL AS INTRODUCED H.202
+2025 Page 7 of 7
+1 Sec. 5. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2025, with the first report under Sec. 3
+3 (18 V.S.A. § 9406) due on or before July 1, 2026.
+VT LEG #380110 v.1
+[DELETED:  H P H I R R D S m S p i D w p c h p h h p t t]
+[DELETED:  H P A s I S § * ( p o ( p ( ( a p ( p f ( p i]
+[DELETED:  H P h w * S § I p p d o ( h ( ( a p ( p f]
+[DELETED:  H P S §   A d G t t f ( h ( p d ( w 3 ( o h]
+[DELETED:  H P ( i p ( p c p ( t t t ( p a i c ( p H 3 (]
+[DELETED:  H P S §     i o t i h i i ( f n p p t G t i]
+[DELETED:  H P S T (]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.202
+2025 Page 1 of 7
+1 H.202
+2 Introduced by Representative Cordes of Bristol
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; prescription drugs; pharmacy benefit
+6 managers; pharmacies; hospitals; 340B drug pricing program
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit a
+8 pharmacy benefit manager from requiring a person covered by a health
+9 insurance plan to pay more for a prescription drug than the National Average
+10 Drug Acquisition Cost of the drug plus a professional dispensing fee. The bill
+11 would require pharmacies to post a notice informing covered persons
+12 purchasing prescription drugs that they may ask the pharmacy staff to disclose
+13 certain information regarding their price options. The bill would require
+14 hospitals to report to the Green Mountain Care Board annually about their
+15 participation in the federal 340B drug pricing program. It would also require
+16 health insurers to inform covered persons annually of the actual amount their
+17 health insurance plan spent on prescription drugs on their behalf during the
+18 previous year and would require all entities participating in the 340B program
+19 to inform patients annually if their prescription drugs were purchased through
+20 the 340B program.
+VT LEG #380110 v.1
+
+BILL AS INTRODUCED H.202
+2025 Page 2 of 7
+1 An act relating to increasing the transparency of prescription drug costs and
+2 spending
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 18 V.S.A. § 3612 is amended to read:
+5 § 3612. PROHIBITED PRACTICES
+6 * * *
+7 (e)(1)(A) A pharmacy benefit manager shall not require a covered person
+8 purchasing a covered prescription drug to pay an amount greater than the lesser
+9 of:
+10 (A)(i) the cost-sharing amount under the terms of the health benefit
+11 plan, as determined in accordance with subdivision (2) of this subsection (e);
+12 (B)(ii) the maximum allowable cost for the drug; or
+13 (C)(iii) the amount the covered person would pay for the drug, after
+14 application of any known discounts, if the covered person were paying the cash
+15 price; or
+16 (iv) the current National Average Drug Acquisition Cost plus a
+17 professional dispensing fee in an amount equal to the professional dispensing
+18 fee in effect for the Vermont Medicaid program.
+19 (B) As used in subdivision (A)(iii) of this subdivision (e)(1), “cash
+20 price” means the actual amount the individual would have paid if the
+21 individual had purchased the drug without coverage for the drug under any
+VT LEG #380110 v.1
+
+BILL AS INTRODUCED H.202
+2025 Page 3 of 7
+1 health benefit plan, which shall include the lowest possible price the individual
+2 would be able to obtain by using a drug discount card.
+3 * * *
+4 Sec. 2. 18 V.S.A. § 3632 is added to read:
+5 § 3632. DISCLOSURE OF AVAILABILITY OF COST INFORMATION
+6 In order to assure covered persons that they are receiving the best available
+7 price, each pharmacy in this State shall post a notice informing covered
+8 persons purchasing prescription drugs that they may ask the pharmacy staff to
+9 disclose to them the following amounts, as set forth in subdivision 3612(e)(1)
+10 of this chapter:
+11 (1) the cost-sharing amount under the terms of the covered person’s
+12 health benefit plan;
+13 (2) the maximum allowable cost for the drug;
+14 (3) the amount the covered person would pay for the drug, after
+15 application of any known discounts, if the covered person were paying the cash
+16 price; and
+17 (4) the current National Average Drug Acquisition Cost plus a
+18 professional dispensing fee in an amount equal to the professional dispensing
+19 fee in effect for the Vermont Medicaid program.
+VT LEG #380110 v.1
+
+BILL AS INTRODUCED H.202
+2025 Page 4 of 7
+1 Sec. 3. 18 V.S.A. § 9406 is added to read:
+2 § 9406. REPORTING ON PARTICIPATION IN 340B DRUG PRICING
+3 PROGRAM
+4 Annually on or before July 1, each hospital participating in the federal 340B
+5 drug pricing program established by 42 U.S.C. § 256b shall submit to the
+6 Green Mountain Care Board a report detailing the hospital’s participation in
+7 the program during the previous calendar year, which report shall be posted on
+8 the Green Mountain Care Board’s website and which shall contain at least the
+9 following information:
+10 (1) the aggregated acquisition cost for all prescription drugs that the
+11 hospital obtained through the 340B program during the previous calendar year;
+12 (2) the aggregated payment amount that the hospital received for all
+13 prescription drugs obtained under the 340B program and dispensed to patients
+14 during the previous calendar year;
+15 (3) the aggregated payment amount that the hospital made to pharmacies
+16 with which the hospital contracted to dispense drugs to its patients under the
+17 340B program during the previous calendar year;
+18 (4) the aggregated payment amount that the hospital made to any other
+19 outside vendor for managing, administering, or facilitating any aspect of the
+20 hospital’s 340B drug program during the previous calendar year;
+VT LEG #380110 v.1
+
+BILL AS INTRODUCED H.202
+2025 Page 5 of 7
+1 (5) all other expenses related to administering the 340B program,
+2 including staffing, operational, and administrative expenses, during the
+3 previous calendar year;
+4 (6) the names of all vendors, including split billing vendors, contract
+5 pharmacies, and pharmacy benefit managers with which the hospital
+6 contracted to provide services associated with the hospital’s 340B program
+7 participation during the previous calendar year;
+8 (7) the number of claims for all prescription drugs the hospital obtained
+9 through the 340B program during the previous calendar year, including the
+10 total number of claims and the number of claims reported separately by payer
+11 type, including Medicare, private insurance, and uninsured;
+12 (8) a description of the ways in which the hospital uses savings from its
+13 participation in the 340B program to benefit its community through programs
+14 and services funded in whole or in part by savings from the 340B program,
+15 including services that support community access to care that the hospital
+16 could not continue without these savings;
+17 (9) a description of the hospital’s internal review and oversight of its
+18 participation in the 340B program in compliance with the U.S. Department of
+19 Health and Human Services, Health Resources and Services Administration’s
+20 340B program rules and guidance; and
+21 (10) such additional information as the Board may request.
+VT LEG #380110 v.1
+
+BILL AS INTRODUCED H.202
+2025 Page 6 of 7
+1 Sec. 4. 18 V.S.A. § 9414b is added to read:
+2 § 9414b. ANNUAL PRESCRIPTION DRUG DISCLOSURES TO
+3 CONSUMERS
+4 (a) Annually, within 6 months following the end of the plan year, a health
+5 insurer shall provide to each individual covered under a health insurance plan
+6 offered or administered by the health insurer a report of the total amount that
+7 the plan actually spent on prescription drugs for or on behalf of the covered
+8 individual during the previous plan year, net of all rebates and discounts. The
+9 health insurer shall send the prescription drug spending report to the covered
+10 individual at the same address to which the health insurer sends the covered
+11 individual’s explanation of benefits.
+12 (b) Annually, on or before March 1, each covered entity participating in the
+13 federal 340B drug pricing program established by 42 U.S.C. § 256b shall
+14 notify its patients if one or more of the prescription drugs prescribed for the
+15 patient by a health care professional affiliated with the covered entity was
+16 purchased through the 340B program. For a covered entity that is a hospital,
+17 the notice shall include information regarding how to access the report on the
+18 Green Mountain Care Board’s website detailing the hospital’s participation in
+19 the 340B program, including the ways in which the hospital uses savings from
+20 its participation in the 340B program to benefit its community.
+VT LEG #380110 v.1
+
+BILL AS INTRODUCED H.202
+2025 Page 7 of 7
+1 Sec. 5. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2025, with the first report under Sec. 3
+3 (18 V.S.A. § 9406) due on or before July 1, 2026.
+VT LEG #380110 v.1
+
+[DELETED:  H P H I R R D S m S p i D w p c h p h h p t t]
+[DELETED:  H P A s I S § * ( p o ( p ( ( a p ( p f ( p i]
+[DELETED:  H P h w * S § I p p d o ( h ( ( a p ( p f]
+[DELETED:  H P S §   A d G t t f ( h ( p d ( w 3 ( o h]
+[DELETED:  H P ( i p ( p c p ( t t t ( p a i c ( p H 3 (]
+[DELETED:  H P S §     i o t i h i i ( f n p p t G t i]
+[DELETED:  H P S T (]

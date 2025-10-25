@@ -1,0 +1,808 @@
+Title: BILL AS INTRODUCED H.341
+Official Title: BILL AS INTRODUCED H.341
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 16
+1 H.341
+2 Introduced by Representatives Priestley of Bradford, Arsenault of Williston,
+3 Berbeco of Winooski, Cole of Hartford, Logan of Burlington,
+4 Masland of Thetford, McGill of Bridport, Sibilia of Dover, and
+5 White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Commerce and trade; consumer protection; artificial intelligence
+9 systems
+10 Statement of purpose of bill as introduced: This bill proposes to create safety
+11 standards for developers and deployers of inherently dangerous artificial
+12 intelligence systems.
+13 An act relating to creating oversight and safety standards for developers and
+14 deployers of inherently dangerous artificial intelligence systems
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 9 V.S.A. chapter 118 is added to read:
+17 CHAPTER 118. ARTIFICIAL INTELLIGENCE
+18 Subchapter 1. Artificial Intelligence Oversight and Safety Standards
+19 § 4193a. LEGISLATIVE INTENT
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 2 of 16
+1 (a) Artificial intelligence systems are products that shift decision-making
+2 power and responsibility away from persons to software-based systems, often
+3 without direct human oversight. An artificial intelligence system can be
+4 inherently dangerous due to its capabilities, potential for misuse or
+5 exploitation, and ability to unilaterally evolve.
+6 (b) Developers of sophisticated artificial intelligence systems have an
+7 obligation to make the systems safe when used in reasonably foreseeable ways.
+8 Deployers of these products also have an obligation to ensure that the products
+9 are safe and used in a way that does not materially affect an individual’s rights.
+10 (c) In the artificial intelligence ecosystem, there will typically be multiple
+11 suppliers upstream of a consumer. The original developer of an artificial
+12 intelligence system should be responsible for harms attributable to the artificial
+13 intelligence system, even if the developer is not the deployer of the system to a
+14 consumer. Small businesses using off-the-shelf artificial intelligence products
+15 according to the product’s terms of use are not intended to be covered by this
+16 subchapter.
+17 § 4193b. DEFINITIONS
+18 As used in this subchapter:
+19 (1) “Artificial intelligence agent” is an artificial intelligence system that
+20 is capable of autonomously performing tasks on behalf of a user or another
+21 artificial intelligence system.
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 3 of 16
+1 (2) “Artificial intelligence system” means a machine-based system that
+2 can, for a given set of objectives, make predictions, recommendations, or
+3 decisions influencing real or virtual environments. Artificial intelligence
+4 systems use machine- and human-based inputs to perceive real and virtual
+5 environments, abstract such perceptions into models through analysis in an
+6 automated manner, and use model inference to formulate options for
+7 information or action.
+8 (3) “Biometric data” means data that depict or describe physical,
+9 biological, or behavioral traits, characteristics, or measurements of or relating
+10 to an identified or identifiable person’s body. Biometric information includes
+11 depictions, images, descriptions, or recordings of an individual’s facial
+12 features, iris or retina, finger or handprints, voice, genetics, or characteristic
+13 movements or gestures. Biometric information also includes data derived from
+14 the depictions, images, descriptions, or recordings, to the extent that it would
+15 be reasonably possible to identify the person from whose information the data
+16 had been derived.
+17 (4) “Consequential decision” means a decision that either has a legal or
+18 similarly significant effect on an individual’s access to the criminal justice
+19 system, housing, employment, credit, education, health care, or insurance.
+20 (5) “Consumer” means any individual who is a resident of this State.
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 4 of 16
+1 (6) “Deployer” means a person, including a developer, who uses or
+2 operates an artificial intelligence system for internal use or for use by third
+3 parties in the State.
+4 (7) “Developer” means a person who designs, codes, produces, owns, or
+5 substantially modifies an artificial intelligence system for internal use or for
+6 use by a third party in the State.
+7 (8) “Do not train data” means any data whose owner or publisher has
+8 affirmatively asserted that the data should not be used for training an artificial
+9 intelligence system.
+10 (9) “Dual-use foundational model” means an artificial intelligence
+11 system that:
+12 (A) is trained on broad data;
+13 (B) generally uses self-supervision;
+14 (C) contains at least 10 billion parameters;
+15 (D) is applicable across a wide range of contexts; and
+16 (E) exhibits, or could be easily modified to exhibit, high levels of
+17 performance at tasks that pose a serious risk to economic security, public
+18 health or safety, or any combination of those matters, such as by:
+19 (i) substantially lowering the barrier of entry for nonexperts to
+20 design, synthesize, acquire, or use chemical, biological, radiological, or nuclear
+21 (CBRN) weapons;
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 5 of 16
+1 (ii) enabling powerful offensive cyber operations through
+2 automated vulnerability discovery and exploitation against a wide range of
+3 potential targets of cyberattacks; or
+4 (iii) permitting the evasion of human control or oversight through
+5 means of deception or obfuscation.
+6 (10) “Generative artificial intelligence system” means an artificial
+7 intelligence system that can generate derived synthetic content, such as text,
+8 images, video, and audio, that emulates the structure and characteristics of the
+9 artificial intelligence’s training data. This definition includes an artificial
+10 intelligence agent.
+11 (11) “High-risk artificial intelligence system” means any artificial
+12 intelligence system, regardless of the number of parameters and supervision
+13 structure, that is:
+14 (A) used, or reasonably foreseeable as being used:
+15 (i) as a controlling factor in making a consequential decision;
+16 (ii) to categorize groups of persons by sensitive and protected
+17 characteristics, such as race, ethnic origin, or religious belief;
+18 (iii) in the direct management or operation of critical
+19 infrastructure;
+20 (iv) in vehicles, medical devices, or in the safety system of a
+21 product; or
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 6 of 16
+1 (v) to influence elections or voters; or
+2 (B) used to collect the biometric data of an individual from a
+3 biometric identification system without consent.
+4 (12) “Inherently dangerous artificial intelligence system” means a high-
+5 risk artificial intelligence system, dual-use foundational model, or generative
+6 artificial intelligence system.
+7 (13) “Substantially modifies” or “substantial modification” means a new
+8 version, new release, or other update to an artificial intelligence system or
+9 service that materially changes its functionality or performance, including the
+10 results of retraining or fine tuning.
+11 § 4193c. OVERSIGHT AND ENFORCEMENT
+12 (a) The Division of Artificial Intelligence within the Agency of Digital
+13 Services shall collect and review Artificial Intelligence System Safety and
+14 Impact Assessments pursuant to this subchapter.
+15 (b) The Attorney General shall enforce the provisions of this subchapter
+16 and may bring an action in the name of the State against a deployer or
+17 developer for noncompliance to restrain by temporary or permanent injunction
+18 the noncompliance. The action may be brought in the Superior Court of the
+19 county in which the person resides, has a place of business, or is doing
+20 business. Said courts are authorized to issue temporary or permanent
+21 injunctions to restrain and prevent violations of this subchapter, the injunctions
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 7 of 16
+1 to be issued without bonds, or to dissolve, or revoke the certificate of authority
+2 of, a deployer or developer.
+3 (c)(1) Whenever the Attorney General has reasonable cause to believe that
+4 any person has engaged in or is engaging in any violation of this subchapter,
+5 the Attorney General may issue a civil investigative demand.
+6 (2) In rendering and furnishing any information requested pursuant to a
+7 civil investigative demand, a developer or deployer may redact or omit any
+8 trade secrets or information protected from disclosure by State or federal law.
+9 If a developer or deployer refuses to disclose or redacts or omits information
+10 based on the exemption from disclosure of trade secrets, the developer or
+11 deployer shall affirmatively state to the Attorney General that the basis for
+12 nondisclosure, redaction, or omission is because the information is a trade
+13 secret.
+14 (3) To the extent that any information requested pursuant to a civil
+15 investigative demand is subject to attorney-client privilege or work-product
+16 protection, disclosure of the information shall not constitute a waiver of the
+17 privilege or protection.
+18 (4) Any information, statement, or documentation provided to the
+19 Attorney General pursuant to this subsection shall be exempt from public
+20 inspection and copying under the Public Records Act.
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 8 of 16
+1 § 4193d. WEBSITE AND COMPLAINT MECHANISM
+2 The Attorney General shall post on the Attorney General’s website:
+3 (1) information relating to the responsibilities of a developer, distributor,
+4 and deployer pursuant to section 4193f of this title; and
+5 (2) an online mechanism through which a consumer may submit a
+6 complaint under this subchapter to the Attorney General.
+7 § 4193e. ARTIFICIAL INTELLIGENCE SYSTEM SAFETY AND IMPACT
+8 ASSESSMENT
+9 (a) Each deployer of an inherently dangerous artificial intelligence system
+10 shall:
+11 (1) submit to the Division of Artificial Intelligence an Artificial
+12 Intelligence System Safety and Impact Assessment prior to deploying the
+13 inherently dangerous artificial intelligence system in this State, and every two
+14 years thereafter; and
+15 (2) submit to the Division of Artificial Intelligence an updated Artificial
+16 Intelligence System Safety and Impact Assessment if the deployer makes a
+17 material and substantial change to the inherently dangerous artificial
+18 intelligence system that includes:
+19 (A) the purpose for which the system is used for; or
+20 (B) the type of data the system processes or uses for training
+21 purposes.
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 9 of 16
+1 (b) Each Artificial Intelligence System Safety and Impact Assessment
+2 pursuant to subsection (a) of this section shall include, with respect to the
+3 inherently dangerous artificial intelligence system:
+4 (1) the purpose of the system;
+5 (2) the deployment context and intended use cases;
+6 (3) the benefits of use;
+7 (4) any foreseeable risk of unintended or unauthorized uses and the steps
+8 taken, to the extent reasonable, to mitigate the risk;
+9 (5) whether the model is proprietary;
+10 (6) a description of the data the system processes or uses for training
+11 purposes;
+12 (7) whether the data the system uses for training purposes has been
+13 processed to remove personal information, copyrighted information, and do not
+14 train data;
+15 (8) a description of transparency measures, including identifying to
+16 individuals when the system is in use;
+17 (9) identification of any third-party artificial intelligence systems or
+18 datasets the deployer relies on to train or operate the system, if applicable;
+19 (10) whether the developer of the system, if different than the deployer,
+20 disclosed the information pursuant to this subsection as well as the results of
+21 testing, vulnerabilities, and the parameters for safe and intended use;
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 10 of 16
+1 (11) a description of the data that the system, once deployed, processes
+2 as inputs;
+3 (12) a description of postdeployment monitoring and user safeguards,
+4 including a description of the oversight process in place to address issues as
+5 issues arise; and
+6 (13) a description of how the model impacts consequential decisions or
+7 the collection of biometric data.
+8 (c) Each deployer of a high-risk artificial intelligence system shall submit a
+9 one-, six-, and 12-month testing result to the Division of Artificial Intelligence
+10 showing the reliability of the results generated by the system, any variance in
+11 those results over the testing periods, and any mitigation strategies for
+12 variances, in the first year of deployment.
+13 (d) Upon the Division of Artificial Intelligence receiving notice that a
+14 deployer of an inherently dangerous artificial intelligence system is not in
+15 compliance with the requirements under this section, the Division shall
+16 immediately notify the deployer of the finding in writing and order the
+17 deployer to submit the assessment required pursuant to subsection (a) of this
+18 section. If the deployer fails to submit the assessment on or before 45 days
+19 after the deployers receives the notice, the Division of Artificial Intelligence
+20 shall notify the Attorney General in writing of the violation.
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 11 of 16
+1 § 4193f. STANDARD OF CARE
+2 (a) Each developer or deployer of any inherently dangerous artificial
+3 intelligence system that could be reasonably expected to impact consumers
+4 shall exercise reasonable care to avoid any reasonably foreseeable risk arising
+5 out of the development of, intentional and substantial modification to, or
+6 deployment of an artificial intelligence system that causes or is likely to cause:
+7 (1) the commission of a crime or unlawful act;
+8 (2) any unfair or deceptive treatment of or unlawful impact on an
+9 individual;
+10 (3) any physical, financial, relational, or reputational injury on an
+11 individual;
+12 (4) psychological injuries that would be highly offensive to a reasonable
+13 person;
+14 (5) any physical or other intrusion upon the solitude or seclusion, or the
+15 private affairs or concerns of a person, if the intrusion would be offensive to a
+16 reasonable person;
+17 (6) any violation to the intellectual property rights of persons under
+18 applicable State and federal laws;
+19 (7) discrimination on the basis of a person’s or class of persons’ actual
+20 or perceived race, color, ethnicity, sex, sexual orientation, gender identity, sex
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 12 of 16
+1 characteristics, religion, national origin, familial status, biometric information,
+2 or disability status;
+3 (8) distortion of a person’s behavior in a manner that causes or is likely
+4 to cause that person or another person physical or psychological harm; or
+5 (9) the exploitation of the vulnerabilities of a specific group of persons
+6 due to their age or physical or mental disability in order to materially distort
+7 the behavior of a person pertaining to that group in a manner that causes or is
+8 likely to cause that person or another person physical or psychological harm.
+9 (b) Each developer of an inherently dangerous artificial intelligence system
+10 shall document and disclose to any actual or potential deployer of the artificial
+11 intelligence system any:
+12 (1) reasonably foreseeable risk, including by unintended or unauthorized
+13 uses, that causes or is likely to cause any of the injuries as set forth in
+14 subsection (a) of this section; and
+15 (2) risk mitigation processes that are reasonably foreseeable to mitigate
+16 any injury as set forth in subsection (a) of this section.
+17 § 4193g. UNSAFE ARTIFICIAL INTELLIGENCE PRODUCTS;
+18 PROHIBITIONS
+19 (a) No developer shall offer, sell, lease, give, or otherwise place in the
+20 stream of commerce:
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 13 of 16
+1 (1) an inherently dangerous artificial intelligence system, unless the
+2 developer has conducted a documented testing, evaluation, verification, and
+3 validation of that system at least as stringent as the latest version of the
+4 Artificial Intelligence Risk Management Framework published by the National
+5 Institute of Standards and Technology (NIST); or
+6 (2) an artificial intelligence system that creates reasonably foreseeable
+7 risks pursuant to section 4193f of this subchapter, unless the developer
+8 mitigates these risks to the extent possible, considers alternatives, and discloses
+9 vulnerabilities and mitigation tactics to a deployer.
+10 (b) No deployer shall deploy an inherently dangerous artificial intelligence
+11 system or an artificial intelligence system that creates reasonably foreseeable
+12 risks pursuant to section 4193f of this subchapter unless the deployer has
+13 designed and implemented a risk management policy and program for the
+14 model or system. The risk management policy shall specify the principles,
+15 processes, and personnel that the deployer shall use in maintaining the risk
+16 management program to identify, mitigate, and document any risk that is a
+17 reasonably foreseeable consequence of deploying or using the system. Each
+18 risk management policy and program designed, implemented, and maintained
+19 pursuant to this subsection shall be:
+20 (1) at least as stringent as the latest version of the Artificial Intelligence
+21 Risk Management Framework published by the NIST; and
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 14 of 16
+1 (2) reasonable considering:
+2 (A) the size and complexity of the deployer;
+3 (B) the nature and scope of the system, including the intended uses
+4 and unintended uses and the modifications made to the system by the deployer;
+5 and
+6 (C) the data that the system, once deployed, processes as inputs.
+7 § 4193h. VIOLATIONS; PRIVATE RIGHT OF ACTION
+8 (a) A person who violates this subchapter or rules adopted under this
+9 subchapter commits an unfair practice in commerce in violation of section
+10 2453 of this title.
+11 (b) A consumer harmed by a violation of this subchapter or rules adopted
+12 under this subchapter may bring an action in Superior Court for damages
+13 incurred, injunctive relief, punitive damages in the case of an intentional
+14 violation, and reasonable costs and attorney’s fees.
+15 § 4193i. LIMITATIONS
+16 (a) In any civil action brought against a deployer or developer pursuant to
+17 section 4193h of this subchapter, there shall be a rebuttable presumption that a
+18 developer or deployer upheld the standard of care if the developer or deployer
+19 complied with the provisions of this subchapter.
+20 (b) A deployer who is not also the developer of an inherently dangerous
+21 artificial intelligence system shall not be found in violation of this subchapter
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 15 of 16
+1 if the deployer deploys the system in accordance with the developer’s
+2 instructions and information as set forth in section 4193f of this subchapter.
+3 (c) Nothing in this subchapter shall restrict a developer’s or deployer’s
+4 ability to:
+5 (1) comply with federal, State, or municipal ordinances or regulations;
+6 (2) comply with a civil, criminal, or regulatory inquiry, investigation,
+7 subpoena, or summons by federal, State, municipal, or other governmental
+8 authorities;
+9 (3) investigate, establish, exercise, prepare for, or defend legal claims;
+10 (4) provide a product or service specifically requested by a consumer;
+11 (5) perform under a contract to which a consumer is a party, including
+12 fulfilling the terms of a written warranty;
+13 (6) engage in public or peer-reviewed scientific or statistical research in
+14 the public interest that adheres to all other applicable ethics and privacy laws
+15 and is approved, monitored, and governed by an institutional review board or
+16 by similar independent oversight entities that determine:
+17 (A) that the expected benefits of the research outweigh the risks
+18 associated with the research; and
+19 (B) that the developer or deployer has implemented reasonable
+20 safeguards to mitigate the risks associated with the research; or
+VT LEG #379184 v.1
+BILL AS INTRODUCED H.341
+2025 Page 16 of 16
+1 (7) assist another developer or deployer with any of the obligations
+2 imposed under this subchapter.
+3 § 4193j. APPLICABILITY OF SUBCHAPTER
+4 This subchapter shall apply only to a person that is not a small business as
+5 defined by the U.S. Small Business Administration, and:
+6 (1) conducts business, promotes, or advertises in this State or produces a
+7 product or service consumed by residents of this State; or
+8 (2) engages in the development, distribution, or deployment of a high-
+9 risk artificial intelligence system in this State.
+10 Sec. 2. EFFECT ON CAUSES OF ACTION
+11 Compliance with the provisions of this act shall not:
+12 (1) relieve a person from liability for any causes of action that existed at
+13 common law or by statute prior to the effective date of this act; or
+14 (2) be construed to modify or otherwise affect, preempt, limit, or
+15 displace any causes of action that existed at common law or by statute prior to
+16 the effective date of this act.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2025.
+VT LEG #379184 v.1
+[DELETED:  H P H I R B M W R D S s S s i A d I S C S §]
+[DELETED:  H P ( p w i e ( o D a ( s i i c a s § A ( i a]
+[DELETED:  H P ( c d s e a i ( b t d f m t b h ( s s (]
+[DELETED:  H P ( o p ( s u ( a i ( s ( ( ( ( ( p h ( d (]
+[DELETED:  H P ( a p ( m ( i i a i ( i s ( ( ( c ( i ( p]
+[DELETED:  H P ( ( b ( r a ( v s r § ( S I ( a d t c b i]
+[DELETED:  H P t o ( a t ( c t I b d n s ( i p p ( A i]
+[DELETED:  H P § T ( a ( c §   ( s ( I i y ( I m i ( ( p]
+[DELETED:  H P ( p i ( ( ( ( t ( ( p ( p t ( i ( d ( d t]
+[DELETED:  H P ( a ( i i ( t ( o s t v ( d c i d s a s]
+[DELETED:  H P § ( i s o d ( ( i ( i ( p ( p r ( a ( o]
+[DELETED:  H P c o ( t ( d t l ( s i ( u s ( a §   ( s]
+[DELETED:  H P ( d v A I ( r m v ( s r d m p m r r p ( R]
+[DELETED:  H P ( ( ( a a ( § ( s 2 ( u i v § ( s d c ( a]
+[DELETED:  H P i i ( a ( ( s a ( ( ( f ( t a b ( a ( s]
+[DELETED:  H P ( i § T d ( p ( r S C ( c ( d t S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.341
+2025 Page 1 of 16
+1 H.341
+2 Introduced by Representatives Priestley of Bradford, Arsenault of Williston,
+3 Berbeco of Winooski, Cole of Hartford, Logan of Burlington,
+4 Masland of Thetford, McGill of Bridport, Sibilia of Dover, and
+5 White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Commerce and trade; consumer protection; artificial intelligence
+9 systems
+10 Statement of purpose of bill as introduced: This bill proposes to create safety
+11 standards for developers and deployers of inherently dangerous artificial
+12 intelligence systems.
+13 An act relating to creating oversight and safety standards for developers and
+14 deployers of inherently dangerous artificial intelligence systems
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 9 V.S.A. chapter 118 is added to read:
+17 CHAPTER 118. ARTIFICIAL INTELLIGENCE
+18 Subchapter 1. Artificial Intelligence Oversight and Safety Standards
+19 § 4193a. LEGISLATIVE INTENT
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 2 of 16
+1 (a) Artificial intelligence systems are products that shift decision-making
+2 power and responsibility away from persons to software-based systems, often
+3 without direct human oversight. An artificial intelligence system can be
+4 inherently dangerous due to its capabilities, potential for misuse or
+5 exploitation, and ability to unilaterally evolve.
+6 (b) Developers of sophisticated artificial intelligence systems have an
+7 obligation to make the systems safe when used in reasonably foreseeable ways.
+8 Deployers of these products also have an obligation to ensure that the products
+9 are safe and used in a way that does not materially affect an individual’s rights.
+10 (c) In the artificial intelligence ecosystem, there will typically be multiple
+11 suppliers upstream of a consumer. The original developer of an artificial
+12 intelligence system should be responsible for harms attributable to the artificial
+13 intelligence system, even if the developer is not the deployer of the system to a
+14 consumer. Small businesses using off-the-shelf artificial intelligence products
+15 according to the product’s terms of use are not intended to be covered by this
+16 subchapter.
+17 § 4193b. DEFINITIONS
+18 As used in this subchapter:
+19 (1) “Artificial intelligence agent” is an artificial intelligence system that
+20 is capable of autonomously performing tasks on behalf of a user or another
+21 artificial intelligence system.
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 3 of 16
+1 (2) “Artificial intelligence system” means a machine-based system that
+2 can, for a given set of objectives, make predictions, recommendations, or
+3 decisions influencing real or virtual environments. Artificial intelligence
+4 systems use machine- and human-based inputs to perceive real and virtual
+5 environments, abstract such perceptions into models through analysis in an
+6 automated manner, and use model inference to formulate options for
+7 information or action.
+8 (3) “Biometric data” means data that depict or describe physical,
+9 biological, or behavioral traits, characteristics, or measurements of or relating
+10 to an identified or identifiable person’s body. Biometric information includes
+11 depictions, images, descriptions, or recordings of an individual’s facial
+12 features, iris or retina, finger or handprints, voice, genetics, or characteristic
+13 movements or gestures. Biometric information also includes data derived from
+14 the depictions, images, descriptions, or recordings, to the extent that it would
+15 be reasonably possible to identify the person from whose information the data
+16 had been derived.
+17 (4) “Consequential decision” means a decision that either has a legal or
+18 similarly significant effect on an individual’s access to the criminal justice
+19 system, housing, employment, credit, education, health care, or insurance.
+20 (5) “Consumer” means any individual who is a resident of this State.
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 4 of 16
+1 (6) “Deployer” means a person, including a developer, who uses or
+2 operates an artificial intelligence system for internal use or for use by third
+3 parties in the State.
+4 (7) “Developer” means a person who designs, codes, produces, owns, or
+5 substantially modifies an artificial intelligence system for internal use or for
+6 use by a third party in the State.
+7 (8) “Do not train data” means any data whose owner or publisher has
+8 affirmatively asserted that the data should not be used for training an artificial
+9 intelligence system.
+10 (9) “Dual-use foundational model” means an artificial intelligence
+11 system that:
+12 (A) is trained on broad data;
+13 (B) generally uses self-supervision;
+14 (C) contains at least 10 billion parameters;
+15 (D) is applicable across a wide range of contexts; and
+16 (E) exhibits, or could be easily modified to exhibit, high levels of
+17 performance at tasks that pose a serious risk to economic security, public
+18 health or safety, or any combination of those matters, such as by:
+19 (i) substantially lowering the barrier of entry for nonexperts to
+20 design, synthesize, acquire, or use chemical, biological, radiological, or nuclear
+21 (CBRN) weapons;
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 5 of 16
+1 (ii) enabling powerful offensive cyber operations through
+2 automated vulnerability discovery and exploitation against a wide range of
+3 potential targets of cyberattacks; or
+4 (iii) permitting the evasion of human control or oversight through
+5 means of deception or obfuscation.
+6 (10) “Generative artificial intelligence system” means an artificial
+7 intelligence system that can generate derived synthetic content, such as text,
+8 images, video, and audio, that emulates the structure and characteristics of the
+9 artificial intelligence’s training data. This definition includes an artificial
+10 intelligence agent.
+11 (11) “High-risk artificial intelligence system” means any artificial
+12 intelligence system, regardless of the number of parameters and supervision
+13 structure, that is:
+14 (A) used, or reasonably foreseeable as being used:
+15 (i) as a controlling factor in making a consequential decision;
+16 (ii) to categorize groups of persons by sensitive and protected
+17 characteristics, such as race, ethnic origin, or religious belief;
+18 (iii) in the direct management or operation of critical
+19 infrastructure;
+20 (iv) in vehicles, medical devices, or in the safety system of a
+21 product; or
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 6 of 16
+1 (v) to influence elections or voters; or
+2 (B) used to collect the biometric data of an individual from a
+3 biometric identification system without consent.
+4 (12) “Inherently dangerous artificial intelligence system” means a high-
+5 risk artificial intelligence system, dual-use foundational model, or generative
+6 artificial intelligence system.
+7 (13) “Substantially modifies” or “substantial modification” means a new
+8 version, new release, or other update to an artificial intelligence system or
+9 service that materially changes its functionality or performance, including the
+10 results of retraining or fine tuning.
+11 § 4193c. OVERSIGHT AND ENFORCEMENT
+12 (a) The Division of Artificial Intelligence within the Agency of Digital
+13 Services shall collect and review Artificial Intelligence System Safety and
+14 Impact Assessments pursuant to this subchapter.
+15 (b) The Attorney General shall enforce the provisions of this subchapter
+16 and may bring an action in the name of the State against a deployer or
+17 developer for noncompliance to restrain by temporary or permanent injunction
+18 the noncompliance. The action may be brought in the Superior Court of the
+19 county in which the person resides, has a place of business, or is doing
+20 business. Said courts are authorized to issue temporary or permanent
+21 injunctions to restrain and prevent violations of this subchapter, the injunctions
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 7 of 16
+1 to be issued without bonds, or to dissolve, or revoke the certificate of authority
+2 of, a deployer or developer.
+3 (c)(1) Whenever the Attorney General has reasonable cause to believe that
+4 any person has engaged in or is engaging in any violation of this subchapter,
+5 the Attorney General may issue a civil investigative demand.
+6 (2) In rendering and furnishing any information requested pursuant to a
+7 civil investigative demand, a developer or deployer may redact or omit any
+8 trade secrets or information protected from disclosure by State or federal law.
+9 If a developer or deployer refuses to disclose or redacts or omits information
+10 based on the exemption from disclosure of trade secrets, the developer or
+11 deployer shall affirmatively state to the Attorney General that the basis for
+12 nondisclosure, redaction, or omission is because the information is a trade
+13 secret.
+14 (3) To the extent that any information requested pursuant to a civil
+15 investigative demand is subject to attorney-client privilege or work-product
+16 protection, disclosure of the information shall not constitute a waiver of the
+17 privilege or protection.
+18 (4) Any information, statement, or documentation provided to the
+19 Attorney General pursuant to this subsection shall be exempt from public
+20 inspection and copying under the Public Records Act.
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 8 of 16
+1 § 4193d. WEBSITE AND COMPLAINT MECHANISM
+2 The Attorney General shall post on the Attorney General’s website:
+3 (1) information relating to the responsibilities of a developer, distributor,
+4 and deployer pursuant to section 4193f of this title; and
+5 (2) an online mechanism through which a consumer may submit a
+6 complaint under this subchapter to the Attorney General.
+7 § 4193e. ARTIFICIAL INTELLIGENCE SYSTEM SAFETY AND IMPACT
+8 ASSESSMENT
+9 (a) Each deployer of an inherently dangerous artificial intelligence system
+10 shall:
+11 (1) submit to the Division of Artificial Intelligence an Artificial
+12 Intelligence System Safety and Impact Assessment prior to deploying the
+13 inherently dangerous artificial intelligence system in this State, and every two
+14 years thereafter; and
+15 (2) submit to the Division of Artificial Intelligence an updated Artificial
+16 Intelligence System Safety and Impact Assessment if the deployer makes a
+17 material and substantial change to the inherently dangerous artificial
+18 intelligence system that includes:
+19 (A) the purpose for which the system is used for; or
+20 (B) the type of data the system processes or uses for training
+21 purposes.
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 9 of 16
+1 (b) Each Artificial Intelligence System Safety and Impact Assessment
+2 pursuant to subsection (a) of this section shall include, with respect to the
+3 inherently dangerous artificial intelligence system:
+4 (1) the purpose of the system;
+5 (2) the deployment context and intended use cases;
+6 (3) the benefits of use;
+7 (4) any foreseeable risk of unintended or unauthorized uses and the steps
+8 taken, to the extent reasonable, to mitigate the risk;
+9 (5) whether the model is proprietary;
+10 (6) a description of the data the system processes or uses for training
+11 purposes;
+12 (7) whether the data the system uses for training purposes has been
+13 processed to remove personal information, copyrighted information, and do not
+14 train data;
+15 (8) a description of transparency measures, including identifying to
+16 individuals when the system is in use;
+17 (9) identification of any third-party artificial intelligence systems or
+18 datasets the deployer relies on to train or operate the system, if applicable;
+19 (10) whether the developer of the system, if different than the deployer,
+20 disclosed the information pursuant to this subsection as well as the results of
+21 testing, vulnerabilities, and the parameters for safe and intended use;
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 10 of 16
+1 (11) a description of the data that the system, once deployed, processes
+2 as inputs;
+3 (12) a description of postdeployment monitoring and user safeguards,
+4 including a description of the oversight process in place to address issues as
+5 issues arise; and
+6 (13) a description of how the model impacts consequential decisions or
+7 the collection of biometric data.
+8 (c) Each deployer of a high-risk artificial intelligence system shall submit a
+9 one-, six-, and 12-month testing result to the Division of Artificial Intelligence
+10 showing the reliability of the results generated by the system, any variance in
+11 those results over the testing periods, and any mitigation strategies for
+12 variances, in the first year of deployment.
+13 (d) Upon the Division of Artificial Intelligence receiving notice that a
+14 deployer of an inherently dangerous artificial intelligence system is not in
+15 compliance with the requirements under this section, the Division shall
+16 immediately notify the deployer of the finding in writing and order the
+17 deployer to submit the assessment required pursuant to subsection (a) of this
+18 section. If the deployer fails to submit the assessment on or before 45 days
+19 after the deployers receives the notice, the Division of Artificial Intelligence
+20 shall notify the Attorney General in writing of the violation.
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 11 of 16
+1 § 4193f. STANDARD OF CARE
+2 (a) Each developer or deployer of any inherently dangerous artificial
+3 intelligence system that could be reasonably expected to impact consumers
+4 shall exercise reasonable care to avoid any reasonably foreseeable risk arising
+5 out of the development of, intentional and substantial modification to, or
+6 deployment of an artificial intelligence system that causes or is likely to cause:
+7 (1) the commission of a crime or unlawful act;
+8 (2) any unfair or deceptive treatment of or unlawful impact on an
+9 individual;
+10 (3) any physical, financial, relational, or reputational injury on an
+11 individual;
+12 (4) psychological injuries that would be highly offensive to a reasonable
+13 person;
+14 (5) any physical or other intrusion upon the solitude or seclusion, or the
+15 private affairs or concerns of a person, if the intrusion would be offensive to a
+16 reasonable person;
+17 (6) any violation to the intellectual property rights of persons under
+18 applicable State and federal laws;
+19 (7) discrimination on the basis of a person’s or class of persons’ actual
+20 or perceived race, color, ethnicity, sex, sexual orientation, gender identity, sex
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 12 of 16
+1 characteristics, religion, national origin, familial status, biometric information,
+2 or disability status;
+3 (8) distortion of a person’s behavior in a manner that causes or is likely
+4 to cause that person or another person physical or psychological harm; or
+5 (9) the exploitation of the vulnerabilities of a specific group of persons
+6 due to their age or physical or mental disability in order to materially distort
+7 the behavior of a person pertaining to that group in a manner that causes or is
+8 likely to cause that person or another person physical or psychological harm.
+9 (b) Each developer of an inherently dangerous artificial intelligence system
+10 shall document and disclose to any actual or potential deployer of the artificial
+11 intelligence system any:
+12 (1) reasonably foreseeable risk, including by unintended or unauthorized
+13 uses, that causes or is likely to cause any of the injuries as set forth in
+14 subsection (a) of this section; and
+15 (2) risk mitigation processes that are reasonably foreseeable to mitigate
+16 any injury as set forth in subsection (a) of this section.
+17 § 4193g. UNSAFE ARTIFICIAL INTELLIGENCE PRODUCTS;
+18 PROHIBITIONS
+19 (a) No developer shall offer, sell, lease, give, or otherwise place in the
+20 stream of commerce:
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 13 of 16
+1 (1) an inherently dangerous artificial intelligence system, unless the
+2 developer has conducted a documented testing, evaluation, verification, and
+3 validation of that system at least as stringent as the latest version of the
+4 Artificial Intelligence Risk Management Framework published by the National
+5 Institute of Standards and Technology (NIST); or
+6 (2) an artificial intelligence system that creates reasonably foreseeable
+7 risks pursuant to section 4193f of this subchapter, unless the developer
+8 mitigates these risks to the extent possible, considers alternatives, and discloses
+9 vulnerabilities and mitigation tactics to a deployer.
+10 (b) No deployer shall deploy an inherently dangerous artificial intelligence
+11 system or an artificial intelligence system that creates reasonably foreseeable
+12 risks pursuant to section 4193f of this subchapter unless the deployer has
+13 designed and implemented a risk management policy and program for the
+14 model or system. The risk management policy shall specify the principles,
+15 processes, and personnel that the deployer shall use in maintaining the risk
+16 management program to identify, mitigate, and document any risk that is a
+17 reasonably foreseeable consequence of deploying or using the system. Each
+18 risk management policy and program designed, implemented, and maintained
+19 pursuant to this subsection shall be:
+20 (1) at least as stringent as the latest version of the Artificial Intelligence
+21 Risk Management Framework published by the NIST; and
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 14 of 16
+1 (2) reasonable considering:
+2 (A) the size and complexity of the deployer;
+3 (B) the nature and scope of the system, including the intended uses
+4 and unintended uses and the modifications made to the system by the deployer;
+5 and
+6 (C) the data that the system, once deployed, processes as inputs.
+7 § 4193h. VIOLATIONS; PRIVATE RIGHT OF ACTION
+8 (a) A person who violates this subchapter or rules adopted under this
+9 subchapter commits an unfair practice in commerce in violation of section
+10 2453 of this title.
+11 (b) A consumer harmed by a violation of this subchapter or rules adopted
+12 under this subchapter may bring an action in Superior Court for damages
+13 incurred, injunctive relief, punitive damages in the case of an intentional
+14 violation, and reasonable costs and attorney’s fees.
+15 § 4193i. LIMITATIONS
+16 (a) In any civil action brought against a deployer or developer pursuant to
+17 section 4193h of this subchapter, there shall be a rebuttable presumption that a
+18 developer or deployer upheld the standard of care if the developer or deployer
+19 complied with the provisions of this subchapter.
+20 (b) A deployer who is not also the developer of an inherently dangerous
+21 artificial intelligence system shall not be found in violation of this subchapter
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 15 of 16
+1 if the deployer deploys the system in accordance with the developer’s
+2 instructions and information as set forth in section 4193f of this subchapter.
+3 (c) Nothing in this subchapter shall restrict a developer’s or deployer’s
+4 ability to:
+5 (1) comply with federal, State, or municipal ordinances or regulations;
+6 (2) comply with a civil, criminal, or regulatory inquiry, investigation,
+7 subpoena, or summons by federal, State, municipal, or other governmental
+8 authorities;
+9 (3) investigate, establish, exercise, prepare for, or defend legal claims;
+10 (4) provide a product or service specifically requested by a consumer;
+11 (5) perform under a contract to which a consumer is a party, including
+12 fulfilling the terms of a written warranty;
+13 (6) engage in public or peer-reviewed scientific or statistical research in
+14 the public interest that adheres to all other applicable ethics and privacy laws
+15 and is approved, monitored, and governed by an institutional review board or
+16 by similar independent oversight entities that determine:
+17 (A) that the expected benefits of the research outweigh the risks
+18 associated with the research; and
+19 (B) that the developer or deployer has implemented reasonable
+20 safeguards to mitigate the risks associated with the research; or
+VT LEG #379184 v.1
+
+BILL AS INTRODUCED H.341
+2025 Page 16 of 16
+1 (7) assist another developer or deployer with any of the obligations
+2 imposed under this subchapter.
+3 § 4193j. APPLICABILITY OF SUBCHAPTER
+4 This subchapter shall apply only to a person that is not a small business as
+5 defined by the U.S. Small Business Administration, and:
+6 (1) conducts business, promotes, or advertises in this State or produces a
+7 product or service consumed by residents of this State; or
+8 (2) engages in the development, distribution, or deployment of a high-
+9 risk artificial intelligence system in this State.
+10 Sec. 2. EFFECT ON CAUSES OF ACTION
+11 Compliance with the provisions of this act shall not:
+12 (1) relieve a person from liability for any causes of action that existed at
+13 common law or by statute prior to the effective date of this act; or
+14 (2) be construed to modify or otherwise affect, preempt, limit, or
+15 displace any causes of action that existed at common law or by statute prior to
+16 the effective date of this act.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2025.
+VT LEG #379184 v.1
+
+[DELETED:  H P H I R B M W R D S s S s i A d I S C S §]
+[DELETED:  H P ( p w i e ( o D a ( s i i c a s § A ( i a]
+[DELETED:  H P ( c d s e a i ( b t d f m t b h ( s s (]
+[DELETED:  H P ( o p ( s u ( a i ( s ( ( ( ( ( p h ( d (]
+[DELETED:  H P ( a p ( m ( i i a i ( i s ( ( ( c ( i ( p]
+[DELETED:  H P ( ( b ( r a ( v s r § ( S I ( a d t c b i]
+[DELETED:  H P t o ( a t ( c t I b d n s ( i p p ( A i]
+[DELETED:  H P § T ( a ( c §   ( s ( I i y ( I m i ( ( p]
+[DELETED:  H P ( p i ( ( ( ( t ( ( p ( p t ( i ( d ( d t]
+[DELETED:  H P ( a ( i i ( t ( o s t v ( d c i d s a s]
+[DELETED:  H P § ( i s o d ( ( i ( i ( p ( p r ( a ( o]
+[DELETED:  H P c o ( t ( d t l ( s i ( u s ( a §   ( s]
+[DELETED:  H P ( d v A I ( r m v ( s r d m p m r r p ( R]
+[DELETED:  H P ( ( ( a a ( § ( s 2 ( u i v § ( s d c ( a]
+[DELETED:  H P i i ( a ( ( s a ( ( ( f ( t a b ( a ( s]
+[DELETED:  H P ( i § T d ( p ( r S C ( c ( d t S T]

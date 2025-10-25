@@ -1,0 +1,106 @@
+Title: BILL AS INTRODUCED H.76
+Official Title: BILL AS INTRODUCED H.76
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.76
+2 Introduced by Representatives Hango of Berkshire, Bartley of Fairfax, Birong
+3 of Vergennes, Branagan of Georgia, Christie of Hartford, Coffin
+4 of Cavendish, Demar of Enosburgh, Galfetti of Barre Town,
+5 Goslant of Northfield, Gregoire of Fairfield, Higley of Lowell,
+6 Hooper of Burlington, Kascenska of Burke, Keyser of Rutland
+7 City, Laroche of Franklin, McFaun of Barre Town, Morgan, L.
+8 of Milton, Morgan, M. of Milton, North of Ferrisburgh, Noyes
+9 of Wolcott, Page of Newport City, Pinsonault of Dorset,
+10 Southworth of Walden, and Tagliavia of Corinth
+11 Referred to Committee on
+12 Date:
+13 Subject: Taxation; income tax; National Guard
+14 Statement of purpose of bill as introduced: This bill proposes to exempt the
+15 State active duty subsistence and quarters allowance paid to members of the
+16 National Guard from Vermont personal income tax.
+17 An act relating to an income tax exemption for National Guard active duty
+18 subsistence and quarters allowance
+VT LEG #379039 v.1
+BILL AS INTRODUCED H.76
+2025 Page 2 of 2
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 32 V.S.A. § 5823(a) is amended to read:
+3 (a) For any taxable year, the Vermont income of a resident individual is the
+4 adjusted gross income of the individual for that taxable year, and the Vermont
+5 income of a resident estate or trust is its gross income for the taxable year, less:
+6 * * *
+7 (2) military pay for full-time active duty with the U.S. Armed Services
+8 earned outside the State; and the first $2,000.00 of military pay for unit
+9 training in the State to National Guard and U.S. Reserve personnel for whom
+10 the Adjutant and Inspector General or Reserve Component Commander
+11 certifies that the taxpayer completed all unit training of his or her unit during
+12 the calendar year, and who has a federal adjusted gross income of less than
+13 $50,000.00; and State active duty subsistence and quarters allowance paid to
+14 members of the National Guard under 20 V.S.A. § 603;
+15 * * *
+16 Sec. 2. EFFECTIVE DATE
+17 Notwithstanding 1 V.S.A. § 214, this act shall take effect on January 1,
+18 2026 and apply retroactively to taxable years beginning on and after January 1,
+19 2025.
+VT LEG #379039 v.1
+[DELETED:  H P H I R o o G H C o o S R D S S S N A s]
+[DELETED:  H P I S ( a i * ( e t t c t $ m * S N 2 2]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.76
+2025 Page 1 of 2
+1 H.76
+2 Introduced by Representatives Hango of Berkshire, Bartley of Fairfax, Birong
+3 of Vergennes, Branagan of Georgia, Christie of Hartford, Coffin
+4 of Cavendish, Demar of Enosburgh, Galfetti of Barre Town,
+5 Goslant of Northfield, Gregoire of Fairfield, Higley of Lowell,
+6 Hooper of Burlington, Kascenska of Burke, Keyser of Rutland
+7 City, Laroche of Franklin, McFaun of Barre Town, Morgan, L.
+8 of Milton, Morgan, M. of Milton, North of Ferrisburgh, Noyes
+9 of Wolcott, Page of Newport City, Pinsonault of Dorset,
+10 Southworth of Walden, and Tagliavia of Corinth
+11 Referred to Committee on
+12 Date:
+13 Subject: Taxation; income tax; National Guard
+14 Statement of purpose of bill as introduced: This bill proposes to exempt the
+15 State active duty subsistence and quarters allowance paid to members of the
+16 National Guard from Vermont personal income tax.
+17 An act relating to an income tax exemption for National Guard active duty
+18 subsistence and quarters allowance
+VT LEG #379039 v.1
+
+BILL AS INTRODUCED H.76
+2025 Page 2 of 2
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 32 V.S.A. § 5823(a) is amended to read:
+3 (a) For any taxable year, the Vermont income of a resident individual is the
+4 adjusted gross income of the individual for that taxable year, and the Vermont
+5 income of a resident estate or trust is its gross income for the taxable year, less:
+6 * * *
+7 (2) military pay for full-time active duty with the U.S. Armed Services
+8 earned outside the State; and the first $2,000.00 of military pay for unit
+9 training in the State to National Guard and U.S. Reserve personnel for whom
+10 the Adjutant and Inspector General or Reserve Component Commander
+11 certifies that the taxpayer completed all unit training of his or her unit during
+12 the calendar year, and who has a federal adjusted gross income of less than
+13 $50,000.00; and State active duty subsistence and quarters allowance paid to
+14 members of the National Guard under 20 V.S.A. § 603;
+15 * * *
+16 Sec. 2. EFFECTIVE DATE
+17 Notwithstanding 1 V.S.A. § 214, this act shall take effect on January 1,
+18 2026 and apply retroactively to taxable years beginning on and after January 1,
+19 2025.
+VT LEG #379039 v.1
+
+[DELETED:  H P H I R o o G H C o o S R D S S S N A s]
+[DELETED:  H P I S ( a i * ( e t t c t $ m * S N 2 2]

@@ -1,0 +1,976 @@
+Title: An act relating to the phaseout of consumer products containing added
+Official Title: An act relating to the phaseout of consumer products containing added
+Number of Sections: 15
+Source: versions - Senate Proposal of Amendment (Official)
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+Senate proposal of amendment
+H. 238
+perfluoroalkyl and polyfluoroalkyl substances
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+* * * PFAS in Consumer Products * * *
+Sec. 1. 9 V.S.A. chapter 63, subchapter 12A is amended to read:
+Subchapter 12A. PFAS in Consumer Products
+
+Section 2:
+§ 2494e. DEFINITIONS
+As used in this subchapter:
+(1) “Adult mattress” means a mattress other than a crib or toddler
+mattress.
+(2) “Aftermarket stain and water resistant treatments” means treatments
+for textile and leather consumer products used in residential settings that have
+been treated during the manufacturing process for stain, oil, and water
+resistance, but excludes products marketed or sold exclusively for use at
+industrial facilities during the manufacture of a carpet, rug, clothing, or shoe.
+(3) “Apparel” means any of the following:
+(A) Clothing items intended for regular wear or formal occasions,
+including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+for workwear. Clothing items intended for regular wear or formal occasions
+do not include clothing items for exclusive use by the U.S. Armed Forces,
+outdoor apparel for severe wet conditions, and personal protective equipment.
+(B) Outdoor apparel.
+(4) “Artificial turf” means a surface of synthetic fibers that is used in
+place of natural grass in recreational, residential, or commercial applications.
+(5) “Cleaning product” means a compound intended for routine
+cleaning, including general purpose cleaners, bathroom cleaners, glass
+cleaners, carpet cleaners, floor care products, and hand soaps. “Cleaning
+product” does not mean an antimicrobial pesticide.
+(6) “Cookware” means durable houseware items used to prepare,
+dispense, or store food, foodstuffs, or beverages and that are intended for
+direct food contact, including pots, pans, skillets, grills, baking sheets, baking
+molds, trays, bowls, and cooking utensils.
+(7) “Dental floss” means a string-like device made of cotton or other
+fibers intended to remove plaque and food particles from between the teeth to
+reduce tooth decay. The fibers of the device may be coated with wax for
+easier use.
+(8) “Fluorine treated container” means a fluorinated treated plastic
+container.
+(6)(9) “Incontinency protection product” means a disposable, absorbent
+hygiene product designed to absorb bodily waste for use by individuals 12
+years of age and older.
+(7)(10) “Intentionally added” means the addition of a chemical in a
+product that serves an intended function in the product component
+“Intentionally added PFAS” means PFAS added to a product regulated under
+this subchapter or one of its product components to provide a specific
+characteristic, appearance, or quality or to perform a specific function.
+“Intentionally added PFAS” also includes any degradation byproducts of PFAS
+or PFAS that are intentional breakdown products of an added chemical. For
+the purposes of this chapter the use of PFAS as a processing agent, mold
+release agent, or intermediate is considered intentional introduction where
+PFAS are detected in the final covered product.
+(8)(11) “Juvenile product” means a product designed or marketed for
+use by infants and children under 12 years of age:
+(A) including a baby or toddler foam pillow; bassinet; bedside
+sleeper; booster seat; changing pad; infant bouncer; infant carrier; infant seat;
+infant sleep positioner; infant swing; infant travel bed; infant walker; nap cot;
+nursing pad; nursing pillow; pacifier; play mat; playpen; play yard;
+polyurethane foam mat, pad, or pillow; portable foam nap mat; portable infant
+sleeper; portable hook-in chair; soft-sided portable crib; stroller; toddler
+mattress; and disposable, single-use diaper; and
+(B) excluding a children’s electronic product, such as a personal
+computer, audio and video equipment, calculator, wireless phone, game
+console, handheld device incorporating a video screen, or any associated
+peripheral such as a mouse, keyboard, power supply unit, or power cord; a
+medical device; or an adult mattress; and
+(C) excluding children’s all-terrain vehicles, as that term is defined
+under 23 V.S.A. § 3801.
+(9)(12) “Manufacturer” means any person engaged in the business of
+making or assembling a consumer product directly or indirectly available to
+consumers. “Manufacturer” excludes a distributor or retailer, except when a
+consumer product is made or assembled outside the United States, in which
+case a “manufacturer” includes the importer or first domestic distributor of the
+consumer product.
+(10)(13) “Medical device” has the same meaning given to “device” in
+21 U.S.C. § 321.
+(11)(14) “Outdoor apparel” means clothing items intended primarily for
+outdoor activities, including hiking, camping, skiing, climbing, bicycling, and
+fishing.
+(12)(15) “Outdoor apparel for severe wet conditions” means outdoor
+apparel that are extreme and extended use products designed for outdoor sports
+experts for applications that provide protection against extended exposure to
+extreme rain conditions or against extended immersion in water or wet
+conditions, such as from snow, in order to protect the health and safety of the
+user and that are not marketed for general consumer use. Examples of extreme
+and extended use products include outerwear for offshore fishing, offshore
+sailing, whitewater kayaking, and mountaineering.
+(13)(16) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS”
+means a class of fluorinated organic chemicals containing at least one fully
+fluorinated carbon atom.
+(14)(17) “Personal protective equipment” has the same meaning as in
+
+Section 3:
+section 2494p of this title.
+(15)(18) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+“regulated PFAS” means:
+(A) PFAS that a manufacturer has intentionally added to a product
+and that have a functional or technical effect in the product, including PFAS
+components of intentionally added chemicals and PFAS that are intentional
+breakdown products of an added chemical that also have a functional or
+technical effect in the product; or
+(B) the presence of PFAS in a product or product component at or
+above 100 parts per million, as measured in total organic fluorine.
+(16)(19) “Rug or carpet” means a fabric marketed or intended for use as
+a floor covering.
+(17)(20) “Ski wax” means a lubricant applied to the bottom of snow
+runners, including skis and snowboards, to improve their grip and glide
+properties.
+(18)(21) “Textile” means any item made in whole or part from a natural,
+manmade, or synthetic fiber, yarn, or fabric, and includes leather, cotton, silk,
+jute, hemp, wool, viscose, nylon, or polyester. “Textile” does not include
+single-use paper hygiene products, including toilet paper, paper towels, tissues,
+or single-use absorbent hygiene products.
+(19)(22) “Textile articles” means textile goods of a type customarily and
+ordinarily used in households and businesses, and includes apparel,
+accessories, handbags, backpacks, draperies, shower curtains, furnishings,
+upholstery, bedding, towels, napkins, and table cloths. “Textile articles” does
+not include:
+(A) a vehicle, as defined in 1 U.S.C. § 4, or its component parts;
+(B) a vessel, as defined in 1 U.S.C. § 3, or its component parts;
+(C) an aircraft, as defined in 49 U.S.C. § 40102(a)(6), or its
+component parts;
+(D) filtration media and filter products used in industrial
+applications, including chemical or pharmaceutical manufacturing and
+environmental control technologies;
+(E) textile articles used for laboratory analysis and testing; and
+(F) rugs or carpets.
+
+Section 4:
+§ 2494f. AFTERMARKET STAIN AND WATER-RESISTANT
+TREATMENTS PROHIBITION ON PFAS IN CONSUMER
+PRODUCTS
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State aftermarket stain and water-resistant
+treatments for rugs or carpets to which PFAS have been intentionally added in
+any amount.
+(b) This section shall not apply to the sale or resale of used products. A
+manufacturer shall not manufacture, sell, offer for sale, distribute for sale, or
+distribute for use in the State the following consumer products to which PFAS
+have been intentionally added in any amount:
+(1) aftermarket stain and water-resistant treatments;
+(2) artificial turf;
+(3) cleaning products;
+(4) cookware;
+(5) dental floss;
+(6) incontinency protection products;
+(7) juvenile products;
+(8) residential rugs and carpets; or
+(9) ski wax.
+(b) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in the State textiles or textile articles to which
+regulated PFAS have been intentionally added in any amount.
+(c) The prohibitions under subsections (a) and (b) of this section shall not
+apply to the sale, offer for sale, distribution for sale, or distribution for use of
+any of the products listed under subsections (a) and (b) of this section that
+have been previously used by a consumer for the intended purpose of the
+product.
+
+Section 5:
+§ 2494g. ARTIFICIALTURF
+A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State artificial turf to which:
+(1) PFAS have been intentionally added in any amount; or
+(2) PFAS have entered the product from the manufacturing or
+processing of that product, the addition of which is known or reasonably
+ascertainable by the manufacturer.
+
+Section 6:
+§ 2494h. COOKWARE
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State cookware to which PFAS have been
+intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+
+Section 7:
+§ 2494i. INCONTINENCY PROTECTION PRODUCT
+A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State an incontinency protection product to
+which PFAS have been intentionally added in any amount.
+
+Section 8:
+§ 2494j. JUVENILE PRODUCTS
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State juvenile products to which PFAS have
+been intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+
+Section 9:
+§ 2494k. RUGS AND CARPETS
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State a residential rug or carpet to which PFAS
+have been added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+
+Section 10:
+§ 2494l. SKI WAX
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State ski wax or related tuning products to
+which PFAS have been intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+
+Section 11:
+§ 2494m. TEXTILES
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State a textile or textile article to which
+regulated PFAS have been intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+
+Section 12:
+§ 2494g. FLUORINE TREATED CONTAINERS
+(a) A manufacturer shall not sell, offer for sale, distribute for sale, or
+distribute for use in the State a product listed under subdivisions 2494f(a)(1)–
+(9) of this title that does not contain intentionally added PFAS but that is sold,
+offered for sale, distributed for sale, or distributed for use in the State in a
+fluorine treated container.
+(b) The prohibition under subsection (a) of this section shall not apply to
+the sale, offer for sale, distribution for sale, or distribution for use of a product
+that has been previously used by a consumer for the intended purpose of the
+product.
+(c) Beginning on January 1, 2032, a manufacturer shall not manufacture,
+sell, offer for sale, distribute for sale, or distribute for use in the State a
+fluorine treated container or any consumer product in a fluorine treated
+container.
+
+Section 13:
+§ 2494n 2494h. CERTIFICATE OF COMPLIANCE
+(a) The Attorney General may request a certificate of compliance from a
+manufacturer of a consumer product regulated under this subchapter. Within
+60 days after receipt of the Attorney General’s request for a certificate of
+compliance, the manufacturer shall:
+(1) provide the Attorney General with a certificate attesting that the
+manufacturer’s product or products comply with the requirements of this
+subchapter; or
+(2) notify persons who are selling a product of the manufacturer’s in
+this State that the sale is prohibited because the product does not comply with
+this subchapter and submit to the Attorney General a list of the names and
+addresses of those persons notified.
+(b) A manufacturer required to submit a certificate of compliance pursuant
+to this section may rely upon a certificate of compliance provided to the
+manufacturer by a supplier for the purpose of determining the manufacturer’s
+reporting obligations. A certificate of compliance provided by a supplier in
+accordance with this subsection shall be used solely for the purpose of
+determining a manufacturer’s compliance with this section.
+
+Section 14:
+§ 2494o 2494i. VIOLATIONS
+(a) A violation of this subchapter is deemed to be a violation of section
+2453 of this title.
+(b) The Attorney General has the same authority to make rules, conduct
+civil investigations, enter into assurances of discontinuance, and bring civil
+actions, and private parties have the same rights and remedies, as provided
+under subchapter 1 of this chapter.
+Sec. 2. 9 V.S.A. § 2494e(19) is amended to read:
+(19) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+“regulated PFAS” means:
+(A) PFAS that a manufacturer has intentionally added to a product
+and that have a functional or technical effect in the product, including PFAS
+components of intentionally added chemicals and PFAS that are intentional
+breakdown products of an added chemical that also have a functional or
+technical effect in the product; or
+(B) the presence of PFAS in a product or product component at or
+above 100 50 parts per million, as measured in total organic fluorine.
+Sec. 3. 9 V.S.A. § 2494e(3) is amended to read:
+(3) “Apparel” means any of the following:
+(A) Clothing items intended for regular wear or formal occasions,
+including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+for workwear. Clothing items intended for regular wear or formal occasions
+do not include clothing items for exclusive use by the U.S. Armed Forces,
+outdoor apparel for severe wet conditions, and personal protective equipment.
+(B) Outdoor apparel.
+(C) Outdoor apparel for severe wet conditions.
+Sec. 4. ANR REPORT ON PFAS REGULATION
+(a) As used in this section, “perfluoroalkyl and polyfluoroalkyl substances”
+or “PFAS” means a class of fluorinated organic chemicals containing at least
+one fully fluorinated carbon atom.
+(b) On or before January 15, 2027, the Secretary of Natural Resources shall
+submit to the House Committees on Environment and on Human Services and
+the Senate Committees on Natural Resources and Energy and on Health and
+Welfare a report regarding the regulation by other states of PFAS in consumer
+products. The report shall include:
+(1) a summary of programs in other states that regulate PFAS in
+consumer products, including whether other states have implemented a
+regulatory program based on the definition of PFAS used in this section;
+(2) if other states have implemented regulatory programs for PFAS, a
+summary of the effectiveness of the programs, including any obstacles or
+difficulties these states may have faced in implementing a program, the
+staffing required for a program, and the time frame under which each state
+implemented the program;
+(3) a recommendation, based on review of regulatory programs in other
+states, on whether Vermont should establish a regulatory program for PFAS in
+consumer products, including the State agency in which such a program should
+be located, the staffing required, and a time frame for implementation;
+(4) whether other states have prohibited or restricted the use of fluorine
+treated containers, including a summary of how fluorine treated containers are
+used or allowed for use in other states;
+(5) any other information that the Secretary determines is necessary for
+the purpose of informing the General Assembly whether to enact a regulatory
+program for PFAS in consumer products; and
+(6) a summary of PFAS data in industrial processes, to the extent
+available, and whether any other state has restricted the use of PFAS-
+contaminated water in manufacturing.
+Sec. 5. REPORTS; PFAS IN COMPLEX DURABLE GOODS; FOOD
+(a)(1) On or before January 15, 2033, the Secretary of Natural Resources
+shall provide a recommendation to the House Committees on Human Services
+and on Environment and the Senate Committees on Health and Welfare and on
+Natural Resources and Energy on how to address PFAS in complex durable
+goods.
+(2) As used in this subsection, “complex durable goods” means a
+consumer product that is a manufactured good composed of 100 or more
+manufactured components, with an intended useful life of five or more years,
+where the product is typically not consumed, destroyed, or discarded after a
+single use. This includes replacement parts for complex durable goods not
+subject to a phaseout under this chapter.
+(b)(1) On or before January 15, 2033, the Secretary of Agriculture, Food
+and Markets shall provide a recommendation to the House Committees on
+Human Services and on Environment and the Senate Committees on Health
+and Welfare and on Natural Resources and Energy on how to address PFAS in
+food.
+(2) As used in this subsection, “food” has the same meaning as in 18
+V.S.A. § 4051.
+(c) The Secretary of Natural Resources shall update the Senate Committee
+on Health and Welfare, the House Committee on Environment, and the
+Secretary of Natural Resources on the status of the regulation of PFAS in
+complex durable goods and in food in other states. The first status report shall
+be submitted on or before January 15, 2027, as part of the report required
+under Sec. 4 of this act or as testimony. The second update shall be provided
+as testimony to the committees on or before January 15, 2029.
+Sec. 6. REPEALS
+(a) 2024 Acts and Resolves No. 131, Sec. 4 (prospective definition for
+outdoor apparel for severe wet conditions) is repealed.
+(b) 2024 Acts and Resolves No. 131, Sec. 5 (prospective definition of
+regulated PFAS) is repealed.
+Sec. 7. 2024 Acts and Resolves No. 131, Sec. 13 is amended to read:
+Sec. 13. EFFECTIVE DATES
+This act shall take effect on July 1, 2024, except that:
+(1) Sec. 1 (chemicals in cosmetic and menstrual products), Sec. 3
+(PFAS in consumer products), Sec. 6 (PFAS in firefighting agents and
+equipment), and Sec. 7 (chemicals of concern in food packaging) shall take
+effect on January 1, 2026; and
+(2) Sec. 2 (9 V.S.A. § 2494b) and Sec. 5 (9 V.S.A. § 2494e(15)) shall
+take effect on July 1, 2027; and
+(3) Sec. 4 (9 V.S.A. § 2494e(3)) shall take effect on July 1, 2028.
+* * * PFAS in Firefighting Agents and Equipment * * *
+Sec. 8. 9 V.S.A. § 2494p(2) is amended to read:
+(2) “Intentionally added” means the addition of a chemical in a product
+that serves an intended function in the product component. “Intentionally
+added PFAS” means PFAS added to a product regulated under this subchapter
+or one of its product components to provide a specific characteristic,
+appearance, or quality or to perform a specific function. “Intentionally added
+PFAS” also includes any degradation byproducts of PFAS or PFAS that are
+intentional breakdown products of an added chemical. For the purposes of this
+chapter the use of PFAS as a processing agent, mold release agent, or
+intermediate is considered intentional introduction where PFAS are detected in
+the final covered product.
+Sec. 9. 9 V.S.A. § 2494s is amended to read:
+(a) A manufacturer or other person that sells firefighting equipment to any
+person, municipality, or State agency shall provide written notice to the
+purchaser at the time of sale, citing to this subchapter, if the personal
+protective equipment or station wear contains PFAS. The written notice shall
+include a statement that the personal protective equipment or station wear
+contains PFAS and the reason PFAS are added to the equipment not sell, offer
+for sale, distribute for sale, or distribute for use in this State any personal
+protective equipment to which PFAS have been intentionally added.
+(b) The manufacturer or person selling personal protective equipment or
+station wear and the purchaser of the personal protective equipment or station
+wear shall retain the notice for at least three years from the date of the
+transaction. The prohibitions under subsection (a) of this section shall not
+apply to personal protective equipment that is a respirator or respirator
+protection equipment, provided that a manufacturer of a respirator or respirator
+protection equipment shall provide written notice to the purchaser at the time
+of sale, citing to this subchapter if the respirator or respirator protection
+equipment contains PFAS. The written notice shall include a statement that
+the respirator or respirator protection equipment contains PFAS and the reason
+PFAS are added to the equipment. The manufacturer or person selling
+respirator or respirator protection equipment and the purchaser of the
+respirator or respirator protection equipment shall retain the notice for at least
+three years from the date of the transaction.
+Sec. 10. 9 V.S.A. § 2494s is amended to read:
+
+Section 15:
+§ 2494s. PROHIBITED SALE OF PERSONALPROTECTIVE
+EQUIPMENT CONTAINING PFAS
+(a) A manufacturer or other person that sells firefighting equipment to any
+person, municipality, or State agency shall not sell, offer for sale, distribute for
+sale, or distribute for use in this State any personal protective equipment to
+which PFAS have been intentionally added.
+(b) The prohibitions under subsection (a) of this section shall not apply to
+personal protective equipment that is a respirator or respirator protection
+equipment, provided that a manufacturer of a respirator or respirator protection
+equipment shall provide written notice to the purchaser at the time of sale,
+citing to this subchapter if the respirator or respirator protection equipment
+contains PFAS. The written notice shall include a statement that the respirator
+or respirator protection equipment contains PFAS and the reason PFAS are
+added to the equipment. The manufacturer or person selling respirator or
+respirator protection equipment and the purchaser of the respirator or
+respirator protection equipment shall retain the notice for at least three years
+from the date of the transaction. [Repealed.]
+Sec. 11. NOTICE OF PRESENCE OF PFAS IN STATION WEAR PRIOR
+TO PROHIBITION OF PFAS IN APPAREL
+(a) As used in this section:
+(1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” has the
+same meaning as in 9 V.S.A. § 2494p.
+(2) “Station wear” means uniform shirts and pants worn by firefighting
+personnel in the performance of their duties, often underneath personal
+protective equipment.
+(b) Prior to the limitation of PFAS in textile articles under 9 V.S.A. chapter
+63, subchapter 12A beginning on July 1, 2026 under 9 V.S.A. § 2494f, a
+manufacturer or other person that sells station wear to any person,
+municipality, or State agency shall provide written notice to the purchaser at
+the time of sale, citing to this subchapter, if the station wear contains PFAS.
+The written notice shall include a statement that station wear contains PFAS
+and the reason PFAS are added to the station wear. The manufacturer or
+person selling station wear and the purchaser of station wear shall retain the
+notice for at least three years from the date of the transaction.
+Sec. 12. ANR REPORT ON AVAILABILITY OF PFAS-FREE PERSONAL
+PROTECTIVE EQUIPMENT
+(a) As used in this section:
+(1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means a
+class of fluorinated organic chemicals containing at least one fully fluorinated
+carbon atom.
+(2) “Personal protective equipment” means clothing designed, intended,
+or marketed to be worn by firefighting personnel in the performance of their
+duties, designed with the intent for use in fire and rescue activities, and
+includes jackets, pants, shoes, gloves, helmets, and respiratory equipment.
+(b) On or before December 15, 2028, the Agency of Natural Resources,
+after consultation with the Department of Public Safety, shall report to the
+Senate Committees on Health and Welfare and on Natural Resources and
+Energy and the House Committees on Human Service and on Environment
+regarding the availability of personal protective equipment that does not
+include PFAS. The report shall include:
+(1) a summary of the general availability in the State of personal
+protective equipment that does not include PFAS, including whether
+respirators that do not include PFAS are generally available to firefighting
+personnel in Vermont; and
+(2) a summary of the cost of personal protective equipment that does
+not include PFAS, including whether the personal protective equipment that
+does not include PFAS is available at comparable costs to personal protective
+equipment that includes PFAS.
+(c) The Agency of Natural Resources shall submit a copy of the report
+required under this section to the Vermont League of Cities and Towns to
+make available to municipal firefighting departments.
+* * * Effective Dates * * *
+Sec. 13. EFFECTIVE DATES
+(a) This section and Secs. 4 and 5 (reports to the General Assembly), Sec.
+11 (notice of PFAS in station wear), and Sec. 12 (availability of PFAS-free
+personal protective equipment) shall take effect on July 1, 2025.
+(b)(1) Sec. 1 (PFAS in consumer products) shall take effect on January 1,
+2026, except that:
+(A) 9 V.S.A. § 2494e(10) (definition of intentionally added) shall
+take effect on July 1, 2027;
+(B) 9 V.S.A. § 2494f(a)(3) (cleaning products) and (a)(5) (dental
+floss) and 9 V.S.A. § 2494g (fluorine treated containers) shall take effect on
+July 1, 2027; and
+(C) 9 V.S.A. § 2494f(a)(4) (cookware) shall take effect July 1, 2028.
+(2) Sec. 1 and this section shall supersede those provisions of 2024 Acts
+and Resolves No. 131, Sec. 3 that conflict with the provisions of this act.
+(c) Sec. 2 (definition of regulated PFAS) shall take effect on July 1, 2027.
+(d) Sec. 3 (definition of outdoor apparel) shall take effect on July 1, 2028.
+(e) Secs. 6 (repeal of Act 131 provisions) and 7 (amended Act 131
+effective dates) shall take effect on January 1, 2026.
+(f) Sec. 8 (definition of intentionally added; PPE containing PFAS) shall
+take effect January 1, 2026 and shall supersede those provisions of 2024 Acts
+and Resolves No. 131, Sec. 6 that conflict with the provisions of this act.
+(g) Sec. 9 (prohibition on sale of PPE containing PFAS) shall take effect
+on July 1, 2029.
+(h) Sec. 10 (prohibition on sale of respirators containing PFAS) shall take
+effect on July 1, 2032.
+[DELETED: eplofa.2natrgtoteptofcrpscgaladplseSepstoteHetoadteblbysgotalaeegceadiginlutftef**PSinCrPs**.1.9V.cr6,sr1Aisadtorr1.PSinCrP2.Dsudintss)“tm”msamsortnacbort)“tsnadwrrtt”mstrteadlrcrpsudinrlsstthntddgtemgpsfrs,o,adw,btespsmdorsdeyfruealfsdgtemeofac,r,c,ors)“”msayoftef)Cgisidfrrrwrorflogu,s,p,s,d,o,b,v,d,s,s,s,t,l,s,l,acw,ssu,eyslw,o,b,red,f,adeyurw.CgisidfrrrwrorfloontiecgisfreeuebyteU.AdFralfrsewtc,adplpee)Ora)“lt”msaseofscfsttisudieofnlgsinr,r,orcla)“gp”msacdidfrr,igglpec,bmc,g,ctc,frcep,adhds.“”dsntmnanalp)“”msdeheisudtop,orsef,f,orbsadttaeidf]
+[DELETED: tfdc,igp,p,s,g,bgs,b,t,b,adcgu)“lf”msasedemeofcnorosidtorepeadfdpsfmbntethtethd.Tefsoftedemybecdwhwxfru)“etdc”msafdtdp)“ypnp”msad,aeptddtoabbywefruebyis1sofaeado)“ya”msteanofaclintttssanidfninteptcyadP”msPSadtoaptrdussroroeofisptcstopeas,a,orqyortopmascfyadP”aoisaydnbsofPrPSttaeilbnpsofanadc.FepsoftscrteueofPSasapga,mea,orieiscdilinwSaeddinteflcdp)“ep”msaptddormdfebyisadcnur12ysofa)igabyortrfmp;b;b;brs;cgp;itb;itc;itstspp;its;ittlb;itw;npcgp;ngp;p;pym;p;pyyefmm,p,orp;pefmnpm;pei;pehnc;sdpec;s;t;add,sed;a)egacsecp,shasap,aoadvoe,c,wsp,g,hddeigavos,orayalshasam,k,prsyu,orprc;ld;oranatm;a)egcsanv,astttmisdr23V.§)“”msaypnedintebsogoragacrptdyoriyaet.“”esadrorr,etwn]
+[DELETED: rptismeoradoeteUdS,inwea“”isteirorftdcdroftrp)“ld”hstesemggnto“”i1U.§3)“ra”mscgisidpyfra,igh,c,s,c,b,a)“ralfrsewtc”msolttaeeeadeduepsddfrorssfrasttpepnatedeeterncsoratedininwrorw,shasfms,inortopttehhadsyoftradttaentmdfrglcru.Esofededuepsieorfroef,o,wrk,adm)“ladpls”or“sacsoffdoccscgatltoefdcna)“lpee”hstesemgasin2poftst)“dpladpls”odP”m)PSttamrhsiyadtoapdttheaflortletintep,igPsofiyadcsadPSttaeinpsofanadclttaoheafloletintep;o)tepeofPSinaptorptctatoe10psprm,asmdintlocf)“gorc”msafcmdoridfrueafrc)“iw”msaltadtotebmofs,igssads,toietrgpadg)“”msayimmeinweorptfman,orscf,y,orf,adisl,c,s,h,w,v,n,orp.“”dsnti]
+[DELETED: eprhep,igttp,prt,trseathep)“ea”mstegsofatecyayudinhsadb,adisa,h,b,d,src,f,b,t,n,adtec.“ea”dti)av,asddin1U.§4,orisctp)av,asddin1U.§3,orisctp)ana,asddin49U.§4,oritp)fnmaadfrpsudini,igclorplmgalclt)teasudfrlyasadt;a)rsorc.ATSNADWSPNONPSINC)Amrslntm,s,orfrs,def,ordefrueintsSeatsnadwsfrrsorcstowhPShebniyadiya)Tssnslntaytoteseorreofudp.rslntm,s,orfrs,defrs,oefrueinteSetefgcrpstowhPebniyadinaya)atsnadwtt)alt)cgp)c)dlf)iypnp)jep)rlrsadc;o]
+[DELETED: )siw)Amrslntm,s,orfrs,def,ordefrueinteSetsorteastowdPShebniyadinaya)Tepsurss()ad()oftssnslnytotes,orfrs,dnfrs,ordnfrueoyoftepsldurss()ad()oftssntebnpyudbyacrfrteidpeoft2.ALTmrslntm,s,orfrs,def,ordefrueintsSealtftow)PShebniyadinaya;o)PSheedteptfmtemgogofttp,teanofwhisknorrebytem2.C)Amrslntm,s,orfrs,def,ordefrueintsSecetowhPShebyadinaya)Tssnslntaytoteseorreofudp2.IYPNPmrslntm,s,orfrs,def,ordefrueintsSeaniypnptthPShebniyadinaya2.JEP)Amrslntm,s,orfrs,def,ordefrueintsSejepstowhPShniyadinaya)Tssnslntaytoteseorreofudp2.RSADC)Amrslntm,s,orfrs,def,ordefrueintsSearlrgorcttowhPebnadinaya)Tssnslntaytoteseorreofudp2.SIW]
+[DELETED: )Amrslntm,s,orfrs,def,ordefrueintsSesiwxorrdtgpsthPShebniyadinaya)Tssnslntaytoteseorreofudp2.T)Amrslntm,s,orfrs,def,ordefrueintsSeateorteaetowdPShebniyadinaya)Tssnslntaytoteseorreofudp.FETDC)Amrslnts,orfrs,defrs,oefrueinteSeaptldurss2)oftstettdsntcniyadPSbtttissdfrs,ddfrs,orddfrueinteSeinetdc)Tepnursn()oftssnslntaytes,orfrs,dnfrs,ordnfrueofapthsbnpyudbyacrfrteidpeoft)BgonJy1,2,amrslntm,orfrs,defrs,ordefrueinteSeetdcroraycrptinafet2n2.CEOFC)TeAyGlmyrtaceofcefmrofacrptrdurtss.W0dsarrtofteAyGsrtfraceo,temrs)peteAyGlwhaceagtttsptorpscywhtersoft;o)nypswoaesgaptoftemsisSettteseispdbeteptdsntcywssradsttoteAyGlaltoftensasoftepsn)Amrrdtostaceofcepotssnmyryunaceofcepdtotrbyasrfrtepeofdgtem]
+[DELETED: go.Aceofcepdbyasriewhtssnslbeudsyfrtepeogamscewhtss2o2.V)Avnoftssrisddtobeavnofs3oftst)TeAyGlhsteseaytomer,cli,erioasofd,adbgc,adpepshetesersadr,asprsr1oftsc.2.9V.§)isadtor)“dpladpls”odP”m)PSttamrhsiyadtoapdttheaflortletintep,igPsofiyadcsadPSttaeinpsofanadclttaoheafloletintep;o)tepeofPSinaptorptctatoe1050psprm,asmdintlocf.3.9V.§)isadtor)“”msayoftef)Cgisidfrrrwrorflogu,s,p,s,d,o,b,v,d,s,s,s,t,l,s,l,acw,ssu,eyslw,o,b,red,f,adeyurw.CgisidfrrrwrorfloontiecgisfreeuebyteU.AdFralfrsewtc,adplpee)Ora)Oralfrsewtc.4.ARRTONPSR)Asudintss,“ladplsr“”msacsoffdoccscgatlefyfdcna]
+[DELETED: )OnorbeJy1,2,teSyofNlRssttoteHeCsonEtadonHnSsaeSeCsonNlRsadEyadonHhaeartrgternbyorssofPSinc.Tertsli)asyofpsinorssttrePSirp,igwrorssheidypmbdontednofPSudintss)iforssheidrypsfrP,yofteesoftep,igayosostessmyhefdinigap,tgrdfrap,adtetefeurwhehsdtep)ar,bdonrwofrypsino,onwrVtsdeharypmfrPSirp,igteSeayinwhshapmsel,tesgr,adatefefri)wrorsshepdorrdteueoffdc,igasyofhwfetdcsadoradfrueinors)ayorinttteSydsisnyfepeofigteGlAywrtoetarmfrPSincrp;a)asyofPSdainilp,totee,adwrayorsehsrdteueofPdwrinm.5.R;PSINCXDEG;F)OnorbeJy1,2,teSyofNlRlpearntoteHeCsonHnSdonEtadteSeCsonHhadWeadolRsadEyonhwtoasPSincxd)Asudintss,“xdeg”msrptttisamdgdcdof10ormdc,whanidulleoffeormeyeteptistyntc,d,orddareu.Tsisrtpsfrcxdegsnttoapturtsc]
+[DELETED: )OnorbeJy1,2,teSyofA,FdMsslpearntoteHeCsonSsadonEtadteSeCsonHdWeadonNlRsadEyonhwtoasPSi)Asudintss,“”hstesemgasin1.§4)TeSyofNlRsslueteSeCnHhadW,teHeCeonE,adtyofNlRsontessofternofPSixdegsadinfdinors.TeftssrtsesdonorbeJy1,2,asptoftertrrS.4oftsatorast.TesdueslbepstytotecsonorbeJy1,2.6.R)24AsadRsN.1,S.4(ednfralfrsewtc)isr)24AsadRsN.1,S.5(ednodP)isr.7.24AsadRsN.1,S.13isadtor.1.EEDsatslteetonJy1,2,ett)S.1(sinccadmlp,S.Sincrp,S.6(Sinfgasa,adS.7(sofcninfdp)slttonJy1,2;a)S.2(9V.§)adS.5(9V.§)seetonJy1,2;a)S.4(9V.§)slteetonJy1,2**PSinFgAsadEt**.8.9V.§)isadtor)“ya”msteanofaclinaptssanidfninteptc.“dP”msPSadtoaptrdurtssroeofisptcstopeascc,orqyortopmascf.“ya”aoisaydnbsofPSorPStta]
+[DELETED: lbnpsofanadc.FrtepsoftrteueofPSasapga,mdrea,oeiscdilinwePSaeddieflcdp.9.9V.§sisadtor)Amrororpnttssfgettoa,m,orSeayslpewnnetotratteteofs,cgtotss,iftepeetorsnwrcsP.TewnneseastttteplpeetorsnwsPSadternPSaeadtoteetnts,ors,defrs,ordefrueintsSeaypeettowhPShebniya)Temrorpnsgplpeetonwradteprofteplpeetorsrslrntenefratltteysfmtedeoft.Tepsursn()oftssnslnytoplpeetttisarrorrne,pdttamrofarrorrnetslpewnnetoteprattetfs,cgtotssrifterrorrrptcsP.TewnneslieastterrorrrpnetcsPSadterSaeadtotee.Temrorpnsrorrrpnetadteproftrorrrpnetslrntenefratleysfmtedeoftet.1.9V.§2sisadtor2.PDSEOFPLPTCGP)Amrororpnttssfgettoa,m,orSeayslnts,orfrs,def,ordefrueintsSeayplpeetthPShebniya)Tepsursn()oftssnslntaytlpeetttisarrorrrp,pdttamrofarrorrrptslpewnnetotepratteteofsgtotssrifterrorrrpnesP.Tewnneslieastttter]
+[DELETED: rrrpnetcsPSadternPSadtotee.Temrorpnsgrrorpnetadteprofterrorpnetslrntenefratltteymtedeoftet.[.1.NEOFPEOFPSINSNWRPOPNOFPSINA)Asudintss)“ladpls”or“”hstemgasin9V.§)“nw”msumssadpswnbyflintepeoftrd,onuhpee)PrtotelnofPSinteasur9V.c,sr1AbgonJy1,26ur9V.§,rororpnttsssnwrtoayp,orSeayslpewnnetotepraeteofs,cgtotss,iftesnwrcsPewnneslieastttsnwrcsPdternPSaeadtotesnw.Temronsgsnwradteprofsnwrslrntefratltteysfmtedeoftet.1.ARRTONAYOFPEPEE)Asudintss)“ladpls”or“”mssoffdoccscgatltoefyfna)“lpee”mscgd,irmdtobewnbyfgplintepeoft,ddwhteitfrueinfeadrea,asj,p,s,g,h,adrye)OnorbeDr1,2,teAyofNlRrcnwhteDtofPcS,slrttoteCsonHhadWeadonNlRsayadteHeCsonHnSeadonEgteayofplpeetttdsneP.Tertsli]
+[DELETED: )asyofteglayinteSeofpeetttdsntieP,igwsttdontiePSaegyaetoflinV;a)asyoftectofplpeetttdtieP,igwrteplpeettsntiePSisaeatcecstoplptttisP)TeAyofNlRsslstacyofterdurtssntoteVtLeofCsadTsteaetomlfgd**EeDs**.1.EED)TssnadS.4ad5(stoteGlA,S1(eofPSinsnw,adS.12(yofPlpee)slteetonJy1,2)S.1(Sincrp)slteetonJy1,ett)9V.§)(nofiya)seetonJy1,2)9V.§)(gp)ad()()ad9V.§g(etdc)slteetoy1,2;a)9V.§)()slteetJy1,2)S.1adtssnslsetepsof24AdRsN.1,S.3ttctwhtepsoftsa)S.2(nofrdP)slteetonJy1,2)S.3(nofora)slteetonJy1,2)S.6(lofAt11p)ad7(dAt1ed)slteetonJy1,2)S.8(nofiya;PEcgP)seetJy1,26adslsetepsof24AdRsN.1,S.6ttctwhtepsoftsa)S.9(nonseofPEcgP)slteenJy1,2)S.10(nonseofrscgP)slttonJy1,2]
+
+
+================================================================================
+
+Raw Text:
+Senate proposal of amendment
+H. 238
+An act relating to the phaseout of consumer products containing added
+perfluoroalkyl and polyfluoroalkyl substances
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+* * * PFAS in Consumer Products * * *
+Sec. 1. 9 V.S.A. chapter 63, subchapter 12A is amended to read:
+Subchapter 12A. PFAS in Consumer Products
+§ 2494e. DEFINITIONS
+As used in this subchapter:
+(1) “Adult mattress” means a mattress other than a crib or toddler
+mattress.
+(2) “Aftermarket stain and water resistant treatments” means treatments
+for textile and leather consumer products used in residential settings that have
+been treated during the manufacturing process for stain, oil, and water
+resistance, but excludes products marketed or sold exclusively for use at
+industrial facilities during the manufacture of a carpet, rug, clothing, or shoe.
+(3) “Apparel” means any of the following:
+(A) Clothing items intended for regular wear or formal occasions,
+including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+for workwear. Clothing items intended for regular wear or formal occasions
+do not include clothing items for exclusive use by the U.S. Armed Forces,
+outdoor apparel for severe wet conditions, and personal protective equipment.
+(B) Outdoor apparel.
+(4) “Artificial turf” means a surface of synthetic fibers that is used in
+place of natural grass in recreational, residential, or commercial applications.
+(5) “Cleaning product” means a compound intended for routine
+cleaning, including general purpose cleaners, bathroom cleaners, glass
+cleaners, carpet cleaners, floor care products, and hand soaps. “Cleaning
+product” does not mean an antimicrobial pesticide.
+(6) “Cookware” means durable houseware items used to prepare,
+dispense, or store food, foodstuffs, or beverages and that are intended for
+
+direct food contact, including pots, pans, skillets, grills, baking sheets, baking
+molds, trays, bowls, and cooking utensils.
+(7) “Dental floss” means a string-like device made of cotton or other
+fibers intended to remove plaque and food particles from between the teeth to
+reduce tooth decay. The fibers of the device may be coated with wax for
+easier use.
+(8) “Fluorine treated container” means a fluorinated treated plastic
+container.
+(6)(9) “Incontinency protection product” means a disposable, absorbent
+hygiene product designed to absorb bodily waste for use by individuals 12
+years of age and older.
+(7)(10) “Intentionally added” means the addition of a chemical in a
+product that serves an intended function in the product component
+“Intentionally added PFAS” means PFAS added to a product regulated under
+this subchapter or one of its product components to provide a specific
+characteristic, appearance, or quality or to perform a specific function.
+“Intentionally added PFAS” also includes any degradation byproducts of PFAS
+or PFAS that are intentional breakdown products of an added chemical. For
+the purposes of this chapter the use of PFAS as a processing agent, mold
+release agent, or intermediate is considered intentional introduction where
+PFAS are detected in the final covered product.
+(8)(11) “Juvenile product” means a product designed or marketed for
+use by infants and children under 12 years of age:
+(A) including a baby or toddler foam pillow; bassinet; bedside
+sleeper; booster seat; changing pad; infant bouncer; infant carrier; infant seat;
+infant sleep positioner; infant swing; infant travel bed; infant walker; nap cot;
+nursing pad; nursing pillow; pacifier; play mat; playpen; play yard;
+polyurethane foam mat, pad, or pillow; portable foam nap mat; portable infant
+sleeper; portable hook-in chair; soft-sided portable crib; stroller; toddler
+mattress; and disposable, single-use diaper; and
+(B) excluding a children’s electronic product, such as a personal
+computer, audio and video equipment, calculator, wireless phone, game
+console, handheld device incorporating a video screen, or any associated
+peripheral such as a mouse, keyboard, power supply unit, or power cord; a
+medical device; or an adult mattress; and
+(C) excluding children’s all-terrain vehicles, as that term is defined
+under 23 V.S.A. § 3801.
+(9)(12) “Manufacturer” means any person engaged in the business of
+making or assembling a consumer product directly or indirectly available to
+consumers. “Manufacturer” excludes a distributor or retailer, except when a
+
+consumer product is made or assembled outside the United States, in which
+case a “manufacturer” includes the importer or first domestic distributor of the
+consumer product.
+(10)(13) “Medical device” has the same meaning given to “device” in
+21 U.S.C. § 321.
+(11)(14) “Outdoor apparel” means clothing items intended primarily for
+outdoor activities, including hiking, camping, skiing, climbing, bicycling, and
+fishing.
+(12)(15) “Outdoor apparel for severe wet conditions” means outdoor
+apparel that are extreme and extended use products designed for outdoor sports
+experts for applications that provide protection against extended exposure to
+extreme rain conditions or against extended immersion in water or wet
+conditions, such as from snow, in order to protect the health and safety of the
+user and that are not marketed for general consumer use. Examples of extreme
+and extended use products include outerwear for offshore fishing, offshore
+sailing, whitewater kayaking, and mountaineering.
+(13)(16) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS”
+means a class of fluorinated organic chemicals containing at least one fully
+fluorinated carbon atom.
+(14)(17) “Personal protective equipment” has the same meaning as in
+section 2494p of this title.
+(15)(18) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+“regulated PFAS” means:
+(A) PFAS that a manufacturer has intentionally added to a product
+and that have a functional or technical effect in the product, including PFAS
+components of intentionally added chemicals and PFAS that are intentional
+breakdown products of an added chemical that also have a functional or
+technical effect in the product; or
+(B) the presence of PFAS in a product or product component at or
+above 100 parts per million, as measured in total organic fluorine.
+(16)(19) “Rug or carpet” means a fabric marketed or intended for use as
+a floor covering.
+(17)(20) “Ski wax” means a lubricant applied to the bottom of snow
+runners, including skis and snowboards, to improve their grip and glide
+properties.
+(18)(21) “Textile” means any item made in whole or part from a natural,
+manmade, or synthetic fiber, yarn, or fabric, and includes leather, cotton, silk,
+jute, hemp, wool, viscose, nylon, or polyester. “Textile” does not include
+
+single-use paper hygiene products, including toilet paper, paper towels, tissues,
+or single-use absorbent hygiene products.
+(19)(22) “Textile articles” means textile goods of a type customarily and
+ordinarily used in households and businesses, and includes apparel,
+accessories, handbags, backpacks, draperies, shower curtains, furnishings,
+upholstery, bedding, towels, napkins, and table cloths. “Textile articles” does
+not include:
+(A) a vehicle, as defined in 1 U.S.C. § 4, or its component parts;
+(B) a vessel, as defined in 1 U.S.C. § 3, or its component parts;
+(C) an aircraft, as defined in 49 U.S.C. § 40102(a)(6), or its
+component parts;
+(D) filtration media and filter products used in industrial
+applications, including chemical or pharmaceutical manufacturing and
+environmental control technologies;
+(E) textile articles used for laboratory analysis and testing; and
+(F) rugs or carpets.
+§ 2494f. AFTERMARKET STAIN AND WATER-RESISTANT
+TREATMENTS PROHIBITION ON PFAS IN CONSUMER
+PRODUCTS
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State aftermarket stain and water-resistant
+treatments for rugs or carpets to which PFAS have been intentionally added in
+any amount.
+(b) This section shall not apply to the sale or resale of used products. A
+manufacturer shall not manufacture, sell, offer for sale, distribute for sale, or
+distribute for use in the State the following consumer products to which PFAS
+have been intentionally added in any amount:
+(1) aftermarket stain and water-resistant treatments;
+(2) artificial turf;
+(3) cleaning products;
+(4) cookware;
+(5) dental floss;
+(6) incontinency protection products;
+(7) juvenile products;
+(8) residential rugs and carpets; or
+
+(9) ski wax.
+(b) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in the State textiles or textile articles to which
+regulated PFAS have been intentionally added in any amount.
+(c) The prohibitions under subsections (a) and (b) of this section shall not
+apply to the sale, offer for sale, distribution for sale, or distribution for use of
+any of the products listed under subsections (a) and (b) of this section that
+have been previously used by a consumer for the intended purpose of the
+product.
+§ 2494g. ARTIFICIALTURF
+A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State artificial turf to which:
+(1) PFAS have been intentionally added in any amount; or
+(2) PFAS have entered the product from the manufacturing or
+processing of that product, the addition of which is known or reasonably
+ascertainable by the manufacturer.
+§ 2494h. COOKWARE
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State cookware to which PFAS have been
+intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+§ 2494i. INCONTINENCY PROTECTION PRODUCT
+A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State an incontinency protection product to
+which PFAS have been intentionally added in any amount.
+§ 2494j. JUVENILE PRODUCTS
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State juvenile products to which PFAS have
+been intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+§ 2494k. RUGS AND CARPETS
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State a residential rug or carpet to which PFAS
+have been added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+§ 2494l. SKI WAX
+
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State ski wax or related tuning products to
+which PFAS have been intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+§ 2494m. TEXTILES
+(a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+sale, or distribute for use in this State a textile or textile article to which
+regulated PFAS have been intentionally added in any amount.
+(b) This section shall not apply to the sale or resale of used products.
+§ 2494g. FLUORINE TREATED CONTAINERS
+(a) A manufacturer shall not sell, offer for sale, distribute for sale, or
+distribute for use in the State a product listed under subdivisions 2494f(a)(1)–
+(9) of this title that does not contain intentionally added PFAS but that is sold,
+offered for sale, distributed for sale, or distributed for use in the State in a
+fluorine treated container.
+(b) The prohibition under subsection (a) of this section shall not apply to
+the sale, offer for sale, distribution for sale, or distribution for use of a product
+that has been previously used by a consumer for the intended purpose of the
+product.
+(c) Beginning on January 1, 2032, a manufacturer shall not manufacture,
+sell, offer for sale, distribute for sale, or distribute for use in the State a
+fluorine treated container or any consumer product in a fluorine treated
+container.
+§ 2494n 2494h. CERTIFICATE OF COMPLIANCE
+(a) The Attorney General may request a certificate of compliance from a
+manufacturer of a consumer product regulated under this subchapter. Within
+60 days after receipt of the Attorney General’s request for a certificate of
+compliance, the manufacturer shall:
+(1) provide the Attorney General with a certificate attesting that the
+manufacturer’s product or products comply with the requirements of this
+subchapter; or
+(2) notify persons who are selling a product of the manufacturer’s in
+this State that the sale is prohibited because the product does not comply with
+this subchapter and submit to the Attorney General a list of the names and
+addresses of those persons notified.
+(b) A manufacturer required to submit a certificate of compliance pursuant
+to this section may rely upon a certificate of compliance provided to the
+manufacturer by a supplier for the purpose of determining the manufacturer’s
+
+reporting obligations. A certificate of compliance provided by a supplier in
+accordance with this subsection shall be used solely for the purpose of
+determining a manufacturer’s compliance with this section.
+§ 2494o 2494i. VIOLATIONS
+(a) A violation of this subchapter is deemed to be a violation of section
+2453 of this title.
+(b) The Attorney General has the same authority to make rules, conduct
+civil investigations, enter into assurances of discontinuance, and bring civil
+actions, and private parties have the same rights and remedies, as provided
+under subchapter 1 of this chapter.
+Sec. 2. 9 V.S.A. § 2494e(19) is amended to read:
+(19) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+“regulated PFAS” means:
+(A) PFAS that a manufacturer has intentionally added to a product
+and that have a functional or technical effect in the product, including PFAS
+components of intentionally added chemicals and PFAS that are intentional
+breakdown products of an added chemical that also have a functional or
+technical effect in the product; or
+(B) the presence of PFAS in a product or product component at or
+above 100 50 parts per million, as measured in total organic fluorine.
+Sec. 3. 9 V.S.A. § 2494e(3) is amended to read:
+(3) “Apparel” means any of the following:
+(A) Clothing items intended for regular wear or formal occasions,
+including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+for workwear. Clothing items intended for regular wear or formal occasions
+do not include clothing items for exclusive use by the U.S. Armed Forces,
+outdoor apparel for severe wet conditions, and personal protective equipment.
+(B) Outdoor apparel.
+(C) Outdoor apparel for severe wet conditions.
+Sec. 4. ANR REPORT ON PFAS REGULATION
+(a) As used in this section, “perfluoroalkyl and polyfluoroalkyl substances”
+or “PFAS” means a class of fluorinated organic chemicals containing at least
+one fully fluorinated carbon atom.
+
+(b) On or before January 15, 2027, the Secretary of Natural Resources shall
+submit to the House Committees on Environment and on Human Services and
+the Senate Committees on Natural Resources and Energy and on Health and
+Welfare a report regarding the regulation by other states of PFAS in consumer
+products. The report shall include:
+(1) a summary of programs in other states that regulate PFAS in
+consumer products, including whether other states have implemented a
+regulatory program based on the definition of PFAS used in this section;
+(2) if other states have implemented regulatory programs for PFAS, a
+summary of the effectiveness of the programs, including any obstacles or
+difficulties these states may have faced in implementing a program, the
+staffing required for a program, and the time frame under which each state
+implemented the program;
+(3) a recommendation, based on review of regulatory programs in other
+states, on whether Vermont should establish a regulatory program for PFAS in
+consumer products, including the State agency in which such a program should
+be located, the staffing required, and a time frame for implementation;
+(4) whether other states have prohibited or restricted the use of fluorine
+treated containers, including a summary of how fluorine treated containers are
+used or allowed for use in other states;
+(5) any other information that the Secretary determines is necessary for
+the purpose of informing the General Assembly whether to enact a regulatory
+program for PFAS in consumer products; and
+(6) a summary of PFAS data in industrial processes, to the extent
+available, and whether any other state has restricted the use of PFAS-
+contaminated water in manufacturing.
+Sec. 5. REPORTS; PFAS IN COMPLEX DURABLE GOODS; FOOD
+(a)(1) On or before January 15, 2033, the Secretary of Natural Resources
+shall provide a recommendation to the House Committees on Human Services
+and on Environment and the Senate Committees on Health and Welfare and on
+Natural Resources and Energy on how to address PFAS in complex durable
+goods.
+(2) As used in this subsection, “complex durable goods” means a
+consumer product that is a manufactured good composed of 100 or more
+manufactured components, with an intended useful life of five or more years,
+where the product is typically not consumed, destroyed, or discarded after a
+single use. This includes replacement parts for complex durable goods not
+subject to a phaseout under this chapter.
+
+(b)(1) On or before January 15, 2033, the Secretary of Agriculture, Food
+and Markets shall provide a recommendation to the House Committees on
+Human Services and on Environment and the Senate Committees on Health
+and Welfare and on Natural Resources and Energy on how to address PFAS in
+food.
+(2) As used in this subsection, “food” has the same meaning as in 18
+V.S.A. § 4051.
+(c) The Secretary of Natural Resources shall update the Senate Committee
+on Health and Welfare, the House Committee on Environment, and the
+Secretary of Natural Resources on the status of the regulation of PFAS in
+complex durable goods and in food in other states. The first status report shall
+be submitted on or before January 15, 2027, as part of the report required
+under Sec. 4 of this act or as testimony. The second update shall be provided
+as testimony to the committees on or before January 15, 2029.
+Sec. 6. REPEALS
+(a) 2024 Acts and Resolves No. 131, Sec. 4 (prospective definition for
+outdoor apparel for severe wet conditions) is repealed.
+(b) 2024 Acts and Resolves No. 131, Sec. 5 (prospective definition of
+regulated PFAS) is repealed.
+Sec. 7. 2024 Acts and Resolves No. 131, Sec. 13 is amended to read:
+Sec. 13. EFFECTIVE DATES
+This act shall take effect on July 1, 2024, except that:
+(1) Sec. 1 (chemicals in cosmetic and menstrual products), Sec. 3
+(PFAS in consumer products), Sec. 6 (PFAS in firefighting agents and
+equipment), and Sec. 7 (chemicals of concern in food packaging) shall take
+effect on January 1, 2026; and
+(2) Sec. 2 (9 V.S.A. § 2494b) and Sec. 5 (9 V.S.A. § 2494e(15)) shall
+take effect on July 1, 2027; and
+(3) Sec. 4 (9 V.S.A. § 2494e(3)) shall take effect on July 1, 2028.
+* * * PFAS in Firefighting Agents and Equipment * * *
+Sec. 8. 9 V.S.A. § 2494p(2) is amended to read:
+(2) “Intentionally added” means the addition of a chemical in a product
+that serves an intended function in the product component. “Intentionally
+added PFAS” means PFAS added to a product regulated under this subchapter
+or one of its product components to provide a specific characteristic,
+appearance, or quality or to perform a specific function. “Intentionally added
+PFAS” also includes any degradation byproducts of PFAS or PFAS that are
+
+intentional breakdown products of an added chemical. For the purposes of this
+chapter the use of PFAS as a processing agent, mold release agent, or
+intermediate is considered intentional introduction where PFAS are detected in
+the final covered product.
+Sec. 9. 9 V.S.A. § 2494s is amended to read:
+(a) A manufacturer or other person that sells firefighting equipment to any
+person, municipality, or State agency shall provide written notice to the
+purchaser at the time of sale, citing to this subchapter, if the personal
+protective equipment or station wear contains PFAS. The written notice shall
+include a statement that the personal protective equipment or station wear
+contains PFAS and the reason PFAS are added to the equipment not sell, offer
+for sale, distribute for sale, or distribute for use in this State any personal
+protective equipment to which PFAS have been intentionally added.
+(b) The manufacturer or person selling personal protective equipment or
+station wear and the purchaser of the personal protective equipment or station
+wear shall retain the notice for at least three years from the date of the
+transaction. The prohibitions under subsection (a) of this section shall not
+apply to personal protective equipment that is a respirator or respirator
+protection equipment, provided that a manufacturer of a respirator or respirator
+protection equipment shall provide written notice to the purchaser at the time
+of sale, citing to this subchapter if the respirator or respirator protection
+equipment contains PFAS. The written notice shall include a statement that
+the respirator or respirator protection equipment contains PFAS and the reason
+PFAS are added to the equipment. The manufacturer or person selling
+respirator or respirator protection equipment and the purchaser of the
+respirator or respirator protection equipment shall retain the notice for at least
+three years from the date of the transaction.
+Sec. 10. 9 V.S.A. § 2494s is amended to read:
+§ 2494s. PROHIBITED SALE OF PERSONALPROTECTIVE
+EQUIPMENT CONTAINING PFAS
+(a) A manufacturer or other person that sells firefighting equipment to any
+person, municipality, or State agency shall not sell, offer for sale, distribute for
+sale, or distribute for use in this State any personal protective equipment to
+which PFAS have been intentionally added.
+(b) The prohibitions under subsection (a) of this section shall not apply to
+personal protective equipment that is a respirator or respirator protection
+equipment, provided that a manufacturer of a respirator or respirator protection
+equipment shall provide written notice to the purchaser at the time of sale,
+citing to this subchapter if the respirator or respirator protection equipment
+contains PFAS. The written notice shall include a statement that the respirator
+
+or respirator protection equipment contains PFAS and the reason PFAS are
+added to the equipment. The manufacturer or person selling respirator or
+respirator protection equipment and the purchaser of the respirator or
+respirator protection equipment shall retain the notice for at least three years
+from the date of the transaction. [Repealed.]
+Sec. 11. NOTICE OF PRESENCE OF PFAS IN STATION WEAR PRIOR
+TO PROHIBITION OF PFAS IN APPAREL
+(a) As used in this section:
+(1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” has the
+same meaning as in 9 V.S.A. § 2494p.
+(2) “Station wear” means uniform shirts and pants worn by firefighting
+personnel in the performance of their duties, often underneath personal
+protective equipment.
+(b) Prior to the limitation of PFAS in textile articles under 9 V.S.A. chapter
+63, subchapter 12A beginning on July 1, 2026 under 9 V.S.A. § 2494f, a
+manufacturer or other person that sells station wear to any person,
+municipality, or State agency shall provide written notice to the purchaser at
+the time of sale, citing to this subchapter, if the station wear contains PFAS.
+The written notice shall include a statement that station wear contains PFAS
+and the reason PFAS are added to the station wear. The manufacturer or
+person selling station wear and the purchaser of station wear shall retain the
+notice for at least three years from the date of the transaction.
+Sec. 12. ANR REPORT ON AVAILABILITY OF PFAS-FREE PERSONAL
+PROTECTIVE EQUIPMENT
+(a) As used in this section:
+(1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means a
+class of fluorinated organic chemicals containing at least one fully fluorinated
+carbon atom.
+(2) “Personal protective equipment” means clothing designed, intended,
+or marketed to be worn by firefighting personnel in the performance of their
+duties, designed with the intent for use in fire and rescue activities, and
+includes jackets, pants, shoes, gloves, helmets, and respiratory equipment.
+(b) On or before December 15, 2028, the Agency of Natural Resources,
+after consultation with the Department of Public Safety, shall report to the
+Senate Committees on Health and Welfare and on Natural Resources and
+Energy and the House Committees on Human Service and on Environment
+regarding the availability of personal protective equipment that does not
+include PFAS. The report shall include:
+
+(1) a summary of the general availability in the State of personal
+protective equipment that does not include PFAS, including whether
+respirators that do not include PFAS are generally available to firefighting
+personnel in Vermont; and
+(2) a summary of the cost of personal protective equipment that does
+not include PFAS, including whether the personal protective equipment that
+does not include PFAS is available at comparable costs to personal protective
+equipment that includes PFAS.
+(c) The Agency of Natural Resources shall submit a copy of the report
+required under this section to the Vermont League of Cities and Towns to
+make available to municipal firefighting departments.
+* * * Effective Dates * * *
+Sec. 13. EFFECTIVE DATES
+(a) This section and Secs. 4 and 5 (reports to the General Assembly), Sec.
+11 (notice of PFAS in station wear), and Sec. 12 (availability of PFAS-free
+personal protective equipment) shall take effect on July 1, 2025.
+(b)(1) Sec. 1 (PFAS in consumer products) shall take effect on January 1,
+2026, except that:
+(A) 9 V.S.A. § 2494e(10) (definition of intentionally added) shall
+take effect on July 1, 2027;
+(B) 9 V.S.A. § 2494f(a)(3) (cleaning products) and (a)(5) (dental
+floss) and 9 V.S.A. § 2494g (fluorine treated containers) shall take effect on
+July 1, 2027; and
+(C) 9 V.S.A. § 2494f(a)(4) (cookware) shall take effect July 1, 2028.
+(2) Sec. 1 and this section shall supersede those provisions of 2024 Acts
+and Resolves No. 131, Sec. 3 that conflict with the provisions of this act.
+(c) Sec. 2 (definition of regulated PFAS) shall take effect on July 1, 2027.
+(d) Sec. 3 (definition of outdoor apparel) shall take effect on July 1, 2028.
+(e) Secs. 6 (repeal of Act 131 provisions) and 7 (amended Act 131
+effective dates) shall take effect on January 1, 2026.
+(f) Sec. 8 (definition of intentionally added; PPE containing PFAS) shall
+take effect January 1, 2026 and shall supersede those provisions of 2024 Acts
+and Resolves No. 131, Sec. 6 that conflict with the provisions of this act.
+(g) Sec. 9 (prohibition on sale of PPE containing PFAS) shall take effect
+on July 1, 2029.
+(h) Sec. 10 (prohibition on sale of respirators containing PFAS) shall take
+effect on July 1, 2032.
+
+[DELETED: eplofa.2natrgtoteptofcrpscgaladplseSepstoteHetoadteblbysgotalaeegceadiginlutftef**PSinCrPs**.1.9V.cr6,sr1Aisadtorr1.PSinCrP2.Dsudintss)“tm”msamsortnacbort)“tsnadwrrtt”mstrteadlrcrpsudinrlsstthntddgtemgpsfrs,o,adw,btespsmdorsdeyfruealfsdgtemeofac,r,c,ors)“”msayoftef)Cgisidfrrrwrorflogu,s,p,s,d,o,b,v,d,s,s,s,t,l,s,l,acw,ssu,eyslw,o,b,red,f,adeyurw.CgisidfrrrwrorfloontiecgisfreeuebyteU.AdFralfrsewtc,adplpee)Ora)“lt”msaseofscfsttisudieofnlgsinr,r,orcla)“gp”msacdidfrr,igglpec,bmc,g,ctc,frcep,adhds.“”dsntmnanalp)“”msdeheisudtop,orsef,f,orbsadttaeidf]
+[DELETED: tfdc,igp,p,s,g,bgs,b,t,b,adcgu)“lf”msasedemeofcnorosidtorepeadfdpsfmbntethtethd.Tefsoftedemybecdwhwxfru)“etdc”msafdtdp)“ypnp”msad,aeptddtoabbywefruebyis1sofaeado)“ya”msteanofaclintttssanidfninteptcyadP”msPSadtoaptrdussroroeofisptcstopeas,a,orqyortopmascfyadP”aoisaydnbsofPrPSttaeilbnpsofanadc.FepsoftscrteueofPSasapga,mea,orieiscdilinwSaeddinteflcdp)“ep”msaptddormdfebyisadcnur12ysofa)igabyortrfmp;b;b;brs;cgp;itb;itc;itstspp;its;ittlb;itw;npcgp;ngp;p;pym;p;pyyefmm,p,orp;pefmnpm;pei;pehnc;sdpec;s;t;add,sed;a)egacsecp,shasap,aoadvoe,c,wsp,g,hddeigavos,orayalshasam,k,prsyu,orprc;ld;oranatm;a)egcsanv,astttmisdr23V.§)“”msaypnedintebsogoragacrptdyoriyaet.“”esadrorr,etwn]
+[DELETED: rptismeoradoeteUdS,inwea“”isteirorftdcdroftrp)“ld”hstesemggnto“”i1U.§3)“ra”mscgisidpyfra,igh,c,s,c,b,a)“ralfrsewtc”msolttaeeeadeduepsddfrorssfrasttpepnatedeeterncsoratedininwrorw,shasfms,inortopttehhadsyoftradttaentmdfrglcru.Esofededuepsieorfroef,o,wrk,adm)“ladpls”or“sacsoffdoccscgatltoefdcna)“lpee”hstesemgasin2poftst)“dpladpls”odP”m)PSttamrhsiyadtoapdttheaflortletintep,igPsofiyadcsadPSttaeinpsofanadclttaoheafloletintep;o)tepeofPSinaptorptctatoe10psprm,asmdintlocf)“gorc”msafcmdoridfrueafrc)“iw”msaltadtotebmofs,igssads,toietrgpadg)“”msayimmeinweorptfman,orscf,y,orf,adisl,c,s,h,w,v,n,orp.“”dsnti]
+[DELETED: eprhep,igttp,prt,trseathep)“ea”mstegsofatecyayudinhsadb,adisa,h,b,d,src,f,b,t,n,adtec.“ea”dti)av,asddin1U.§4,orisctp)av,asddin1U.§3,orisctp)ana,asddin49U.§4,oritp)fnmaadfrpsudini,igclorplmgalclt)teasudfrlyasadt;a)rsorc.ATSNADWSPNONPSINC)Amrslntm,s,orfrs,def,ordefrueintsSeatsnadwsfrrsorcstowhPShebniyadiya)Tssnslntaytoteseorreofudp.rslntm,s,orfrs,defrs,oefrueinteSetefgcrpstowhPebniyadinaya)atsnadwtt)alt)cgp)c)dlf)iypnp)jep)rlrsadc;o]
+[DELETED: )siw)Amrslntm,s,orfrs,def,ordefrueinteSetsorteastowdPShebniyadinaya)Tepsurss()ad()oftssnslnytotes,orfrs,dnfrs,ordnfrueoyoftepsldurss()ad()oftssntebnpyudbyacrfrteidpeoft2.ALTmrslntm,s,orfrs,def,ordefrueintsSealtftow)PShebniyadinaya;o)PSheedteptfmtemgogofttp,teanofwhisknorrebytem2.C)Amrslntm,s,orfrs,def,ordefrueintsSecetowhPShebyadinaya)Tssnslntaytoteseorreofudp2.IYPNPmrslntm,s,orfrs,def,ordefrueintsSeaniypnptthPShebniyadinaya2.JEP)Amrslntm,s,orfrs,def,ordefrueintsSejepstowhPShniyadinaya)Tssnslntaytoteseorreofudp2.RSADC)Amrslntm,s,orfrs,def,ordefrueintsSearlrgorcttowhPebnadinaya)Tssnslntaytoteseorreofudp2.SIW]
+[DELETED: )Amrslntm,s,orfrs,def,ordefrueintsSesiwxorrdtgpsthPShebniyadinaya)Tssnslntaytoteseorreofudp2.T)Amrslntm,s,orfrs,def,ordefrueintsSeateorteaetowdPShebniyadinaya)Tssnslntaytoteseorreofudp.FETDC)Amrslnts,orfrs,defrs,oefrueinteSeaptldurss2)oftstettdsntcniyadPSbtttissdfrs,ddfrs,orddfrueinteSeinetdc)Tepnursn()oftssnslntaytes,orfrs,dnfrs,ordnfrueofapthsbnpyudbyacrfrteidpeoft)BgonJy1,2,amrslntm,orfrs,defrs,ordefrueinteSeetdcroraycrptinafet2n2.CEOFC)TeAyGlmyrtaceofcefmrofacrptrdurtss.W0dsarrtofteAyGsrtfraceo,temrs)peteAyGlwhaceagtttsptorpscywhtersoft;o)nypswoaesgaptoftemsisSettteseispdbeteptdsntcywssradsttoteAyGlaltoftensasoftepsn)Amrrdtostaceofcepotssnmyryunaceofcepdtotrbyasrfrtepeofdgtem]
+[DELETED: go.Aceofcepdbyasriewhtssnslbeudsyfrtepeogamscewhtss2o2.V)Avnoftssrisddtobeavnofs3oftst)TeAyGlhsteseaytomer,cli,erioasofd,adbgc,adpepshetesersadr,asprsr1oftsc.2.9V.§)isadtor)“dpladpls”odP”m)PSttamrhsiyadtoapdttheaflortletintep,igPsofiyadcsadPSttaeinpsofanadclttaoheafloletintep;o)tepeofPSinaptorptctatoe1050psprm,asmdintlocf.3.9V.§)isadtor)“”msayoftef)Cgisidfrrrwrorflogu,s,p,s,d,o,b,v,d,s,s,s,t,l,s,l,acw,ssu,eyslw,o,b,red,f,adeyurw.CgisidfrrrwrorfloontiecgisfreeuebyteU.AdFralfrsewtc,adplpee)Ora)Oralfrsewtc.4.ARRTONPSR)Asudintss,“ladplsr“”msacsoffdoccscgatlefyfdcna]
+[DELETED: )OnorbeJy1,2,teSyofNlRssttoteHeCsonEtadonHnSsaeSeCsonNlRsadEyadonHhaeartrgternbyorssofPSinc.Tertsli)asyofpsinorssttrePSirp,igwrorssheidypmbdontednofPSudintss)iforssheidrypsfrP,yofteesoftep,igayosostessmyhefdinigap,tgrdfrap,adtetefeurwhehsdtep)ar,bdonrwofrypsino,onwrVtsdeharypmfrPSirp,igteSeayinwhshapmsel,tesgr,adatefefri)wrorsshepdorrdteueoffdc,igasyofhwfetdcsadoradfrueinors)ayorinttteSydsisnyfepeofigteGlAywrtoetarmfrPSincrp;a)asyofPSdainilp,totee,adwrayorsehsrdteueofPdwrinm.5.R;PSINCXDEG;F)OnorbeJy1,2,teSyofNlRlpearntoteHeCsonHnSdonEtadteSeCsonHhadWeadolRsadEyonhwtoasPSincxd)Asudintss,“xdeg”msrptttisamdgdcdof10ormdc,whanidulleoffeormeyeteptistyntc,d,orddareu.Tsisrtpsfrcxdegsnttoapturtsc]
+[DELETED: )OnorbeJy1,2,teSyofA,FdMsslpearntoteHeCsonSsadonEtadteSeCsonHdWeadonNlRsadEyonhwtoasPSi)Asudintss,“”hstesemgasin1.§4)TeSyofNlRsslueteSeCnHhadW,teHeCeonE,adtyofNlRsontessofternofPSixdegsadinfdinors.TeftssrtsesdonorbeJy1,2,asptoftertrrS.4oftsatorast.TesdueslbepstytotecsonorbeJy1,2.6.R)24AsadRsN.1,S.4(ednfralfrsewtc)isr)24AsadRsN.1,S.5(ednodP)isr.7.24AsadRsN.1,S.13isadtor.1.EEDsatslteetonJy1,2,ett)S.1(sinccadmlp,S.Sincrp,S.6(Sinfgasa,adS.7(sofcninfdp)slttonJy1,2;a)S.2(9V.§)adS.5(9V.§)seetonJy1,2;a)S.4(9V.§)slteetonJy1,2**PSinFgAsadEt**.8.9V.§)isadtor)“ya”msteanofaclinaptssanidfninteptc.“dP”msPSadtoaptrdurtssroeofisptcstopeascc,orqyortopmascf.“ya”aoisaydnbsofPSorPStta]
+[DELETED: lbnpsofanadc.FrtepsoftrteueofPSasapga,mdrea,oeiscdilinwePSaeddieflcdp.9.9V.§sisadtor)Amrororpnttssfgettoa,m,orSeayslpewnnetotratteteofs,cgtotss,iftepeetorsnwrcsP.TewnneseastttteplpeetorsnwsPSadternPSaeadtoteetnts,ors,defrs,ordefrueintsSeaypeettowhPShebniya)Temrorpnsgplpeetonwradteprofteplpeetorsrslrntenefratltteysfmtedeoft.Tepsursn()oftssnslnytoplpeetttisarrorrne,pdttamrofarrorrnetslpewnnetoteprattetfs,cgtotssrifterrorrrptcsP.TewnneslieastterrorrrpnetcsPSadterSaeadtotee.Temrorpnsrorrrpnetadteproftrorrrpnetslrntenefratleysfmtedeoftet.1.9V.§2sisadtor2.PDSEOFPLPTCGP)Amrororpnttssfgettoa,m,orSeayslnts,orfrs,def,ordefrueintsSeayplpeetthPShebniya)Tepsursn()oftssnslntaytlpeetttisarrorrrp,pdttamrofarrorrrptslpewnnetotepratteteofsgtotssrifterrorrrpnesP.Tewnneslieastttter]
+[DELETED: rrrpnetcsPSadternPSadtotee.Temrorpnsgrrorpnetadteprofterrorpnetslrntenefratltteymtedeoftet.[.1.NEOFPEOFPSINSNWRPOPNOFPSINA)Asudintss)“ladpls”or“”hstemgasin9V.§)“nw”msumssadpswnbyflintepeoftrd,onuhpee)PrtotelnofPSinteasur9V.c,sr1AbgonJy1,26ur9V.§,rororpnttsssnwrtoayp,orSeayslpewnnetotepraeteofs,cgtotss,iftesnwrcsPewnneslieastttsnwrcsPdternPSaeadtotesnw.Temronsgsnwradteprofsnwrslrntefratltteysfmtedeoftet.1.ARRTONAYOFPEPEE)Asudintss)“ladpls”or“”mssoffdoccscgatltoefyfna)“lpee”mscgd,irmdtobewnbyfgplintepeoft,ddwhteitfrueinfeadrea,asj,p,s,g,h,adrye)OnorbeDr1,2,teAyofNlRrcnwhteDtofPcS,slrttoteCsonHhadWeadonNlRsayadteHeCsonHnSeadonEgteayofplpeetttdsneP.Tertsli]
+[DELETED: )asyofteglayinteSeofpeetttdsntieP,igwsttdontiePSaegyaetoflinV;a)asyoftectofplpeetttdtieP,igwrteplpeettsntiePSisaeatcecstoplptttisP)TeAyofNlRsslstacyofterdurtssntoteVtLeofCsadTsteaetomlfgd**EeDs**.1.EED)TssnadS.4ad5(stoteGlA,S1(eofPSinsnw,adS.12(yofPlpee)slteetonJy1,2)S.1(Sincrp)slteetonJy1,ett)9V.§)(nofiya)seetonJy1,2)9V.§)(gp)ad()()ad9V.§g(etdc)slteetoy1,2;a)9V.§)()slteetJy1,2)S.1adtssnslsetepsof24AdRsN.1,S.3ttctwhtepsoftsa)S.2(nofrdP)slteetonJy1,2)S.3(nofora)slteetonJy1,2)S.6(lofAt11p)ad7(dAt1ed)slteetonJy1,2)S.8(nofiya;PEcgP)seetJy1,26adslsetepsof24AdRsN.1,S.6ttctwhtepsoftsa)S.9(nonseofPEcgP)slteenJy1,2)S.10(nonseofrscgP)slttonJy1,2]

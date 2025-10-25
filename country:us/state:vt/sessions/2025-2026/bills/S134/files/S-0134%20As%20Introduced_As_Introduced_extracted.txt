@@ -1,0 +1,398 @@
+Title: BILL AS INTRODUCED S.134
+Official Title: BILL AS INTRODUCED S.134
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 8
+1 S.134
+2 Introduced by Senators Hardy and Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Municipal and county government; aeronautics; land use; municipal
+6 zoning; Act 250; Agency of Transportation; Aviation Advisory
+7 Council; air space navigation
+8 Statement of purpose of bill as introduced: This bill proposes to clarify the
+9 municipal authority over restricted landing areas through zoning, to create the
+10 Aviation Advisory Council, and to require the Agency of Transportation to
+11 collect and make available to the public certain data regarding aircraft
+12 operations at State-owned air navigation facilities.
+13 An act relating to municipal regulation of private airstrips
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 24 V.S.A. § 4411 is amended to read:
+16 § 4411. ZONING BYLAWS
+17 (a) A municipality may regulate land development in conformance with its
+18 adopted municipal plan and for the purposes set forth in section 4302 of this
+19 title to govern the use of land and the placement, spacing, and size of structures
+20 and other factors specified in the bylaws related to public health, safety, or
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 2 of 8
+1 welfare. Zoning bylaws may permit, prohibit, restrict, regulate, and determine
+2 land development, including the following:
+3 (1) specific uses of land and shoreland facilities;
+4 (2) dimensions, location, erection, construction, repair, maintenance,
+5 alteration, razing, removal, and use of structures;
+6 (3) areas and dimensions of land to be occupied by uses and structures,
+7 as well as areas, courts, yards, and other open spaces and distances to be left
+8 unoccupied by uses and structures;
+9 (4) timing or sequence of growth, density of population, and intensity of
+10 use;
+11 (5) uses within a river corridor and buffer, as those terms are defined in
+12 10 V.S.A. §§ 1422 and 1427; and
+13 (6) location, construction, repair, maintenance, and alteration of
+14 restricted landing areas as defined in 5 V.S.A. § 202.
+15 * * *
+16 Sec. 2. 10 V.S.A. § 6001 is amended to read:
+17 § 6001. DEFINITIONS
+18 As used in this chapter:
+19 * * *
+20 (3)(A) “Development” means each of the following:
+21 * * *
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 3 of 8
+1 (xiv) The construction of improvements for or operation of a
+2 restricted landing area as defined in 5 V.S.A. § 202.
+3 * * *
+4 Sec. 3. 5 V.S.A. § 205a is added to read:
+5 § 205a. AVIATION ADVISORY COUNCIL
+6 (a) Creation and purpose.
+7 (1) There is created the Aviation Advisory Council to act as a forum to
+8 discuss and recommend:
+9 (A) Aviation policy that is in the best interests of the residents of
+10 Vermont.
+11 (B) State-owned air navigation facilities use or infrastructure changes
+12 to ensure efficient use of public resources and access to members of the public.
+13 (C) Air navigation facilities use or infrastructure changes to ensure
+14 minimal impact on neighborhoods and natural resources surrounding air
+15 navigation facilities.
+16 (D) State-owned air navigation facility use fees and hangar rental
+17 rates that support the maintenance and operation of State-owned air navigation
+18 facilities.
+19 (E) Practices to reduce the environmental and public health and
+20 safety impacts of air traffic and airport operations and infrastructure.
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 4 of 8
+1 (F) Means to support a responsible and healthy aviation community
+2 and industry in Vermont, including protocols to ensure that State-owned air
+3 navigation facilities are available for emergency response and preparedness.
+4 (G) Public safety standards and policies for reducing the impact and
+5 proliferation of private restricted landing areas.
+6 (H) Policies to monitor, prevent, and deter aerial harassment. As
+7 used in this section, “aerial harassment” means using an aircraft to harass
+8 someone by buzzing, flying low, or circling them or their property with the
+9 intent of intimidating or creating distress.
+10 (2) The Council shall encourage and facilitate open communication
+11 between aviators, air navigation facility users, State and local officials, and
+12 members of the public and shall seek to balance the priorities of aviators with
+13 the health and well-being of the general public.
+14 (b) Membership. The Council shall be composed of the following:
+15 (1) the Secretary of Transportation or designee, who shall serve as chair;
+16 (2) the Adjutant General of the Vermont National Guard or designee;
+17 (3) one member representing the aviation industry, appointed by the
+18 Governor;
+19 (4) two members, appointed by the Vermont Association of Planning
+20 and Development Agencies, who shall be members of different regional
+21 planning commissions;
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 5 of 8
+1 (5) two members representing independent pilots, appointed by the
+2 Vermont Aviators Association;
+3 (6) one member from a community or neighborhood association
+4 representing the interests and concerns of a community or neighborhood
+5 adjacent to a State-owned air navigation facility, appointed by the Speaker of
+6 the House;
+7 (7) one member from a community or neighborhood association
+8 representing the interests and concerns of a community or neighborhood
+9 adjacent to a municipal-owned air navigation facility, appointed by the
+10 Committee on Committees;
+11 (8) one member with expertise on the environmental impacts of aviation
+12 who shall not be a member of the aviation industry or Vermont Aviators
+13 Association, appointed by the Speaker of the House; and
+14 (9) one member with expertise on the public health impacts of aviation
+15 who shall not be a member of the aviation industry or Vermont Aviators
+16 Association, appointed by the Committee on Committees.
+17 (c) Assistance. The Council shall have the administrative, technical, and
+18 legal assistance of the Agency of Transportation.
+19 (d) Compensation and reimbursement; annual meetings. Members of the
+20 Council who are not employees of the State of Vermont and who are not
+21 otherwise compensated or reimbursed for their attendance shall be entitled to
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 6 of 8
+1 per diem compensation and reimbursement of expenses as permitted under
+2 32 V.S.A. § 1010 for not more than four meetings per year.
+3 (e) Terms. The terms of the members of the Council, other than the terms
+4 of the Secretary of Transportation and the Adjutant General of the Vermont
+5 National Guard, shall be as follows:
+6 (1) initially, members appointed pursuant to subdivisions (b)(3), (7), and
+7 (8) of this section; one member appointed pursuant to subdivision (b)(4) of this
+8 section; and one member appointed pursuant to subdivision (b)(5) of this
+9 section for one year;
+10 (2) initially, members appointed pursuant to subdivisions (b)(6) and (9)
+11 of this section; one member appointed pursuant to subdivision (b)(4) of this
+12 section; and one member appointed pursuant to subdivision (b)(5) of this
+13 section for two years; and
+14 (3) all subsequent appointments except those to the unexpired term of a
+15 former member shall be for a period of two years.
+16 Sec. 4. 5 V.S.A. § 810 is added to read:
+17 § 810. STATE AIR NAVIGATION FACILITIES; DATA TRACKING
+18 (a) The Agency shall track the date; time; aircraft category or class, as
+19 those are defined in 14 C.F.R. § 1.1, as amended; elevation of aircraft; and
+20 takeoff or landing for every aircraft operation, as defined in 14 C.F.R. § 170.3,
+21 as amended, at a State-owned air navigation facility.
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 7 of 8
+1 (b)(1) The Agency shall maintain a web-accessible and web-searchable
+2 data source dedicated to flight data at State-owned air navigation facilities that
+3 shall include the data required to be tracked under subsection (a) of this
+4 section.
+5 (2) The web-accessible and web-searchable data source required under
+6 this subsection shall:
+7 (A) be updated on at least a quarterly basis;
+8 (B) be provided to the municipality where the State-owned air
+9 navigation facility is located on at least a quarterly basis to be maintained at
+10 the municipality’s municipal offices and posted on the municipality’s website,
+11 if a website is maintained; and
+12 (C) include how the data was recorded.
+13 Sec. 5. DATA TRACKING TECHNOLOGY; APPROPRIATION;
+14 IMPLEMENTATION
+15 (a) The sum of $100,000.00 is appropriated from the Transportation
+16 Fund to the Agency of Transportation in fiscal year 2026 for the purpose of
+17 acquiring the technology necessary to perform the data tracking required under
+18 5 V.S.A. § 810, as added by Sec. 4 of this act. Prior to using the funds
+19 appropriated under this section, the Agency shall consult with the Federal
+20 Aviation Administration on whether acquiring the technology necessary to
+21 perform the data tracking required under 5 V.S.A. § 810, as added by Sec. 4 of
+VT LEG #379209 v.3
+BILL AS INTRODUCED S.134
+2025 Page 8 of 8
+1 this act, is eligible for Federal Aviation Administration grant funds and shall
+2 apply for federal grant funds as applicable.
+3 (b) The sum of $91,000.00 is appropriated from the Transportation Fund
+4 to the Agency of Transportation in fiscal year 2026 for the establishment of the
+5 following new permanent full-time classified position: one Airport Data
+6 Technician.
+7 (c) The Agency of Transportation shall commence tracking data as
+8 required under 5 V.S.A. § 810, as added by Sec. 4 of this act, not later than
+9 January 1, 2026.
+10 Sec. 6. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #379209 v.3
+[DELETED:  S P S I S R D S z C S m A c o A I S § ( a t a]
+[DELETED:  S P w l ( ( a ( a u ( u ( 1 ( r * S § A * ( *]
+[DELETED:  S P ( r * S § ( ( d ( V ( t ( m n ( r f ( s]
+[DELETED:  S P ( a n ( p ( u s i ( b m t ( ( ( ( G ( a p]
+[DELETED:  S P ( V ( r a t ( r a C ( w A ( w A ( l ( C o]
+[DELETED:  S P p 3 ( o N ( ( s s ( o s s ( f S § ( t t a]
+[DELETED:  S P ( d s s ( t ( ( n t i ( S   ( F a 5 a A p]
+[DELETED:  S P t a ( t f T ( r J S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.134
+2025 Page 1 of 8
+1 S.134
+2 Introduced by Senators Hardy and Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Municipal and county government; aeronautics; land use; municipal
+6 zoning; Act 250; Agency of Transportation; Aviation Advisory
+7 Council; air space navigation
+8 Statement of purpose of bill as introduced: This bill proposes to clarify the
+9 municipal authority over restricted landing areas through zoning, to create the
+10 Aviation Advisory Council, and to require the Agency of Transportation to
+11 collect and make available to the public certain data regarding aircraft
+12 operations at State-owned air navigation facilities.
+13 An act relating to municipal regulation of private airstrips
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 24 V.S.A. § 4411 is amended to read:
+16 § 4411. ZONING BYLAWS
+17 (a) A municipality may regulate land development in conformance with its
+18 adopted municipal plan and for the purposes set forth in section 4302 of this
+19 title to govern the use of land and the placement, spacing, and size of structures
+20 and other factors specified in the bylaws related to public health, safety, or
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 2 of 8
+1 welfare. Zoning bylaws may permit, prohibit, restrict, regulate, and determine
+2 land development, including the following:
+3 (1) specific uses of land and shoreland facilities;
+4 (2) dimensions, location, erection, construction, repair, maintenance,
+5 alteration, razing, removal, and use of structures;
+6 (3) areas and dimensions of land to be occupied by uses and structures,
+7 as well as areas, courts, yards, and other open spaces and distances to be left
+8 unoccupied by uses and structures;
+9 (4) timing or sequence of growth, density of population, and intensity of
+10 use;
+11 (5) uses within a river corridor and buffer, as those terms are defined in
+12 10 V.S.A. §§ 1422 and 1427; and
+13 (6) location, construction, repair, maintenance, and alteration of
+14 restricted landing areas as defined in 5 V.S.A. § 202.
+15 * * *
+16 Sec. 2. 10 V.S.A. § 6001 is amended to read:
+17 § 6001. DEFINITIONS
+18 As used in this chapter:
+19 * * *
+20 (3)(A) “Development” means each of the following:
+21 * * *
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 3 of 8
+1 (xiv) The construction of improvements for or operation of a
+2 restricted landing area as defined in 5 V.S.A. § 202.
+3 * * *
+4 Sec. 3. 5 V.S.A. § 205a is added to read:
+5 § 205a. AVIATION ADVISORY COUNCIL
+6 (a) Creation and purpose.
+7 (1) There is created the Aviation Advisory Council to act as a forum to
+8 discuss and recommend:
+9 (A) Aviation policy that is in the best interests of the residents of
+10 Vermont.
+11 (B) State-owned air navigation facilities use or infrastructure changes
+12 to ensure efficient use of public resources and access to members of the public.
+13 (C) Air navigation facilities use or infrastructure changes to ensure
+14 minimal impact on neighborhoods and natural resources surrounding air
+15 navigation facilities.
+16 (D) State-owned air navigation facility use fees and hangar rental
+17 rates that support the maintenance and operation of State-owned air navigation
+18 facilities.
+19 (E) Practices to reduce the environmental and public health and
+20 safety impacts of air traffic and airport operations and infrastructure.
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 4 of 8
+1 (F) Means to support a responsible and healthy aviation community
+2 and industry in Vermont, including protocols to ensure that State-owned air
+3 navigation facilities are available for emergency response and preparedness.
+4 (G) Public safety standards and policies for reducing the impact and
+5 proliferation of private restricted landing areas.
+6 (H) Policies to monitor, prevent, and deter aerial harassment. As
+7 used in this section, “aerial harassment” means using an aircraft to harass
+8 someone by buzzing, flying low, or circling them or their property with the
+9 intent of intimidating or creating distress.
+10 (2) The Council shall encourage and facilitate open communication
+11 between aviators, air navigation facility users, State and local officials, and
+12 members of the public and shall seek to balance the priorities of aviators with
+13 the health and well-being of the general public.
+14 (b) Membership. The Council shall be composed of the following:
+15 (1) the Secretary of Transportation or designee, who shall serve as chair;
+16 (2) the Adjutant General of the Vermont National Guard or designee;
+17 (3) one member representing the aviation industry, appointed by the
+18 Governor;
+19 (4) two members, appointed by the Vermont Association of Planning
+20 and Development Agencies, who shall be members of different regional
+21 planning commissions;
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 5 of 8
+1 (5) two members representing independent pilots, appointed by the
+2 Vermont Aviators Association;
+3 (6) one member from a community or neighborhood association
+4 representing the interests and concerns of a community or neighborhood
+5 adjacent to a State-owned air navigation facility, appointed by the Speaker of
+6 the House;
+7 (7) one member from a community or neighborhood association
+8 representing the interests and concerns of a community or neighborhood
+9 adjacent to a municipal-owned air navigation facility, appointed by the
+10 Committee on Committees;
+11 (8) one member with expertise on the environmental impacts of aviation
+12 who shall not be a member of the aviation industry or Vermont Aviators
+13 Association, appointed by the Speaker of the House; and
+14 (9) one member with expertise on the public health impacts of aviation
+15 who shall not be a member of the aviation industry or Vermont Aviators
+16 Association, appointed by the Committee on Committees.
+17 (c) Assistance. The Council shall have the administrative, technical, and
+18 legal assistance of the Agency of Transportation.
+19 (d) Compensation and reimbursement; annual meetings. Members of the
+20 Council who are not employees of the State of Vermont and who are not
+21 otherwise compensated or reimbursed for their attendance shall be entitled to
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 6 of 8
+1 per diem compensation and reimbursement of expenses as permitted under
+2 32 V.S.A. § 1010 for not more than four meetings per year.
+3 (e) Terms. The terms of the members of the Council, other than the terms
+4 of the Secretary of Transportation and the Adjutant General of the Vermont
+5 National Guard, shall be as follows:
+6 (1) initially, members appointed pursuant to subdivisions (b)(3), (7), and
+7 (8) of this section; one member appointed pursuant to subdivision (b)(4) of this
+8 section; and one member appointed pursuant to subdivision (b)(5) of this
+9 section for one year;
+10 (2) initially, members appointed pursuant to subdivisions (b)(6) and (9)
+11 of this section; one member appointed pursuant to subdivision (b)(4) of this
+12 section; and one member appointed pursuant to subdivision (b)(5) of this
+13 section for two years; and
+14 (3) all subsequent appointments except those to the unexpired term of a
+15 former member shall be for a period of two years.
+16 Sec. 4. 5 V.S.A. § 810 is added to read:
+17 § 810. STATE AIR NAVIGATION FACILITIES; DATA TRACKING
+18 (a) The Agency shall track the date; time; aircraft category or class, as
+19 those are defined in 14 C.F.R. § 1.1, as amended; elevation of aircraft; and
+20 takeoff or landing for every aircraft operation, as defined in 14 C.F.R. § 170.3,
+21 as amended, at a State-owned air navigation facility.
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 7 of 8
+1 (b)(1) The Agency shall maintain a web-accessible and web-searchable
+2 data source dedicated to flight data at State-owned air navigation facilities that
+3 shall include the data required to be tracked under subsection (a) of this
+4 section.
+5 (2) The web-accessible and web-searchable data source required under
+6 this subsection shall:
+7 (A) be updated on at least a quarterly basis;
+8 (B) be provided to the municipality where the State-owned air
+9 navigation facility is located on at least a quarterly basis to be maintained at
+10 the municipality’s municipal offices and posted on the municipality’s website,
+11 if a website is maintained; and
+12 (C) include how the data was recorded.
+13 Sec. 5. DATA TRACKING TECHNOLOGY; APPROPRIATION;
+14 IMPLEMENTATION
+15 (a) The sum of $100,000.00 is appropriated from the Transportation
+16 Fund to the Agency of Transportation in fiscal year 2026 for the purpose of
+17 acquiring the technology necessary to perform the data tracking required under
+18 5 V.S.A. § 810, as added by Sec. 4 of this act. Prior to using the funds
+19 appropriated under this section, the Agency shall consult with the Federal
+20 Aviation Administration on whether acquiring the technology necessary to
+21 perform the data tracking required under 5 V.S.A. § 810, as added by Sec. 4 of
+VT LEG #379209 v.3
+
+BILL AS INTRODUCED S.134
+2025 Page 8 of 8
+1 this act, is eligible for Federal Aviation Administration grant funds and shall
+2 apply for federal grant funds as applicable.
+3 (b) The sum of $91,000.00 is appropriated from the Transportation Fund
+4 to the Agency of Transportation in fiscal year 2026 for the establishment of the
+5 following new permanent full-time classified position: one Airport Data
+6 Technician.
+7 (c) The Agency of Transportation shall commence tracking data as
+8 required under 5 V.S.A. § 810, as added by Sec. 4 of this act, not later than
+9 January 1, 2026.
+10 Sec. 6. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #379209 v.3
+
+[DELETED:  S P S I S R D S z C S m A c o A I S § ( a t a]
+[DELETED:  S P w l ( ( a ( a u ( u ( 1 ( r * S § A * ( *]
+[DELETED:  S P ( r * S § ( ( d ( V ( t ( m n ( r f ( s]
+[DELETED:  S P ( a n ( p ( u s i ( b m t ( ( ( ( G ( a p]
+[DELETED:  S P ( V ( r a t ( r a C ( w A ( w A ( l ( C o]
+[DELETED:  S P p 3 ( o N ( ( s s ( o s s ( f S § ( t t a]
+[DELETED:  S P ( d s s ( t ( ( n t i ( S   ( F a 5 a A p]
+[DELETED:  S P t a ( t f T ( r J S T]

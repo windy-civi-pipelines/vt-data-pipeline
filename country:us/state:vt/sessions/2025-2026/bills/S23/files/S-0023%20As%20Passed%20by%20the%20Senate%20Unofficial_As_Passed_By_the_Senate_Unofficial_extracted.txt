@@ -1,0 +1,249 @@
+Title: 2 An act relating to the use of synthetic media in elections
+Official Title: 2 An act relating to the use of synthetic media in elections
+Number of Sections: 1
+Source: versions - As Passed By the Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY SENATE S.23
+2025 Page 1 of 5
+1 S.23
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+5 Subchapter 4. Use of Synthetic Media in Elections
+6 § 2031. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “Deceptive and fraudulent synthetic media” means synthetic media
+9 that creates a representation of an individual or individuals with the intent to
+10 injure the reputation of a candidate, to influence the outcome of an election, or
+11 to otherwise deceive a voter, in a manner that:
+12 (A) appears to a reasonable person to be an authentic recording of an
+13 individual saying or doing something that did not occur; or
+14 (B) provides a reasonable person with a fundamentally different
+15 understanding or impression of the appearance, speech, conduct, or
+16 environment that a reasonable person would have from an unaltered and
+17 original version of the image, audio recording, or video recording.
+18 (2) “Synthetic media” means an image, an audio recording, or a video
+19 recording of an individual’s appearance, speech, conduct, or environment that
+20 has been created or intentionally manipulated with the use of digital
+VT LEG #381906 v.1
+AS PASSED BY SENATE S.23
+2025 Page 2 of 5
+1 technology, including artificial intelligence, in a manner that creates a realistic
+2 but false representation of the candidate.
+3 § 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+4 SYNTHETIC MEDIA
+5 (a) Disclosure. A person shall not, within 90 days before an election in
+6 Vermont, publish, communicate, or otherwise distribute synthetic media that
+7 the person knows or should have known is deceptive and fraudulent synthetic
+8 media unless the person includes a disclosure in the synthetic media stating:
+9 “This media has been created or intentionally manipulated by digital
+10 technology or artificial intelligence.”
+11 (1) For deceptive and fraudulent synthetic media consisting of images
+12 and video recordings, the text of the disclosure shall appear in a size that is
+13 easily readable by the average viewer and not smaller than the largest font size
+14 of other text appearing in the visual media. If the image or video recording
+15 does not include any other text, the disclosure shall appear in a size that is
+16 easily readable by the average viewer. For video recordings, the disclosure
+17 shall appear for the full duration of the video recording.
+18 (2) For deceptive and fraudulent synthetic media consisting of audio
+19 recordings only, the disclosure shall be read in a clearly spoken manner and in
+20 a pitch and pace that can be easily heard by the average listener, at the
+21 beginning of the audio recording, at the end of the audio recording, and, if the
+VT LEG #381906 v.1
+AS PASSED BY SENATE S.23
+2025 Page 3 of 5
+1 audio is greater than two minutes in length, interspersed within the audio
+2 recording at intervals of not greater than two minutes each.
+3 (b) Exceptions. Subsection (a) of this section shall not apply to:
+4 (1) a radio or television broadcasting station, including a cable or
+5 satellite television operator, programmer, or producer, or to a website,
+6 streaming platform, or mobile application, that:
+7 (A) broadcasts deceptive and fraudulent synthetic media as part of a
+8 bona fide newscast, news interview, news documentary, or on-the-spot
+9 coverage of bona fide news events, so long as the broadcast clearly
+10 acknowledges through content or a disclosure, in a manner that can be easily
+11 heard or read by the average listener or viewer, that there are questions about
+12 the authenticity of the deceptive and fraudulent synthetic media;
+13 (B) is paid to broadcast deceptive and fraudulent synthetic media; or
+14 (C) is required by federal law to broadcast advertisements from
+15 legally qualified candidates;
+16 (2) a website or a regularly published newspaper, magazine, or other
+17 periodical of general circulation, including an internet or electronic
+18 publication, that routinely carries news and commentary of general interest,
+19 and that publishes deceptive and fraudulent synthetic media, if the publication
+20 clearly states that the deceptive and fraudulent synthetic media does not
+21 accurately represent the speech or conduct of the represented individual;
+VT LEG #381906 v.1
+AS PASSED BY SENATE S.23
+2025 Page 4 of 5
+1 (3) a person that produces deceptive and fraudulent synthetic media
+2 constituting satire or parody;
+3 (4) a provider of a telecommunications service or information service, as
+4 those terms are defined in the Communications Act of 1934, 47 U.S.C. § 153,
+5 for content provided by another person; or
+6 (5) a provider of an interactive computer service, as defined in 47
+7 U.S.C. § 230, for content provided by another person.
+8 § 2033. PENALTIES
+9 (a) A person that knowingly and intentionally violates a provision of this
+10 subchapter shall be fined not more than $1,000.00, unless:
+11 (1) the person commits the violation with the intent to cause violence or
+12 bodily harm, in which case the fine shall be not more than $5,000.00;
+13 (2) the person commits the violation within five years after one or more
+14 prior convictions under this section, in which case the fine shall be not more
+15 than $10,000.00; or
+16 (3) the person commits the violation with the intent to cause violence or
+17 bodily harm and the person commits the violation within five years after one or
+18 more prior convictions under this section, in which case the fine shall be not
+19 more than $15,000.00.
+20 (b) A candidate whose appearance, speech, conduct, or environment is
+21 misrepresented through the use of deceptive and fraudulent synthetic media in
+VT LEG #381906 v.1
+AS PASSED BY SENATE S.23
+2025 Page 5 of 5
+1 violation of section 2032 of this title may seek injunctive or other equitable
+2 relief prohibiting the publication, communication, or other distribution of such
+3 deceptive and fraudulent synthetic media.
+4 Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+5 Subchapter 5. Enforcement and Additional Remedies
+6 § 2041. INJUNCTIONS
+7 In addition to the other penalties provided in this chapter, a State’s Attorney
+8 or the Attorney General may institute any appropriate action, injunction, or
+9 other proceeding to prevent, restrain, correct, or abate any violation of this
+10 chapter.
+11 Sec. 3. EFFECTIVE DATE
+12 This act shall take effect on passage.
+VT LEG #381906 v.1
+[DELETED:  S P S A I S S § A ( t i t ( i ( u e o ( r h]
+[DELETED:  S P t b §   ( V t m “ t ( a e o d e s ( r a b]
+[DELETED:  S P a r ( ( s s ( b c a h t ( ( l ( p p a c a]
+[DELETED:  S P ( c ( t f ( U § ( s ( b ( p t ( b m m ( m]
+[DELETED:  S P v r d S S § I o o c S T]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY SENATE S.23
+2025 Page 1 of 5
+1 S.23
+2 An act relating to the use of synthetic media in elections
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+5 Subchapter 4. Use of Synthetic Media in Elections
+6 § 2031. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “Deceptive and fraudulent synthetic media” means synthetic media
+9 that creates a representation of an individual or individuals with the intent to
+10 injure the reputation of a candidate, to influence the outcome of an election, or
+11 to otherwise deceive a voter, in a manner that:
+12 (A) appears to a reasonable person to be an authentic recording of an
+13 individual saying or doing something that did not occur; or
+14 (B) provides a reasonable person with a fundamentally different
+15 understanding or impression of the appearance, speech, conduct, or
+16 environment that a reasonable person would have from an unaltered and
+17 original version of the image, audio recording, or video recording.
+18 (2) “Synthetic media” means an image, an audio recording, or a video
+19 recording of an individual’s appearance, speech, conduct, or environment that
+20 has been created or intentionally manipulated with the use of digital
+VT LEG #381906 v.1
+
+AS PASSED BY SENATE S.23
+2025 Page 2 of 5
+1 technology, including artificial intelligence, in a manner that creates a realistic
+2 but false representation of the candidate.
+3 § 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+4 SYNTHETIC MEDIA
+5 (a) Disclosure. A person shall not, within 90 days before an election in
+6 Vermont, publish, communicate, or otherwise distribute synthetic media that
+7 the person knows or should have known is deceptive and fraudulent synthetic
+8 media unless the person includes a disclosure in the synthetic media stating:
+9 “This media has been created or intentionally manipulated by digital
+10 technology or artificial intelligence.”
+11 (1) For deceptive and fraudulent synthetic media consisting of images
+12 and video recordings, the text of the disclosure shall appear in a size that is
+13 easily readable by the average viewer and not smaller than the largest font size
+14 of other text appearing in the visual media. If the image or video recording
+15 does not include any other text, the disclosure shall appear in a size that is
+16 easily readable by the average viewer. For video recordings, the disclosure
+17 shall appear for the full duration of the video recording.
+18 (2) For deceptive and fraudulent synthetic media consisting of audio
+19 recordings only, the disclosure shall be read in a clearly spoken manner and in
+20 a pitch and pace that can be easily heard by the average listener, at the
+21 beginning of the audio recording, at the end of the audio recording, and, if the
+VT LEG #381906 v.1
+
+AS PASSED BY SENATE S.23
+2025 Page 3 of 5
+1 audio is greater than two minutes in length, interspersed within the audio
+2 recording at intervals of not greater than two minutes each.
+3 (b) Exceptions. Subsection (a) of this section shall not apply to:
+4 (1) a radio or television broadcasting station, including a cable or
+5 satellite television operator, programmer, or producer, or to a website,
+6 streaming platform, or mobile application, that:
+7 (A) broadcasts deceptive and fraudulent synthetic media as part of a
+8 bona fide newscast, news interview, news documentary, or on-the-spot
+9 coverage of bona fide news events, so long as the broadcast clearly
+10 acknowledges through content or a disclosure, in a manner that can be easily
+11 heard or read by the average listener or viewer, that there are questions about
+12 the authenticity of the deceptive and fraudulent synthetic media;
+13 (B) is paid to broadcast deceptive and fraudulent synthetic media; or
+14 (C) is required by federal law to broadcast advertisements from
+15 legally qualified candidates;
+16 (2) a website or a regularly published newspaper, magazine, or other
+17 periodical of general circulation, including an internet or electronic
+18 publication, that routinely carries news and commentary of general interest,
+19 and that publishes deceptive and fraudulent synthetic media, if the publication
+20 clearly states that the deceptive and fraudulent synthetic media does not
+21 accurately represent the speech or conduct of the represented individual;
+VT LEG #381906 v.1
+
+AS PASSED BY SENATE S.23
+2025 Page 4 of 5
+1 (3) a person that produces deceptive and fraudulent synthetic media
+2 constituting satire or parody;
+3 (4) a provider of a telecommunications service or information service, as
+4 those terms are defined in the Communications Act of 1934, 47 U.S.C. § 153,
+5 for content provided by another person; or
+6 (5) a provider of an interactive computer service, as defined in 47
+7 U.S.C. § 230, for content provided by another person.
+8 § 2033. PENALTIES
+9 (a) A person that knowingly and intentionally violates a provision of this
+10 subchapter shall be fined not more than $1,000.00, unless:
+11 (1) the person commits the violation with the intent to cause violence or
+12 bodily harm, in which case the fine shall be not more than $5,000.00;
+13 (2) the person commits the violation within five years after one or more
+14 prior convictions under this section, in which case the fine shall be not more
+15 than $10,000.00; or
+16 (3) the person commits the violation with the intent to cause violence or
+17 bodily harm and the person commits the violation within five years after one or
+18 more prior convictions under this section, in which case the fine shall be not
+19 more than $15,000.00.
+20 (b) A candidate whose appearance, speech, conduct, or environment is
+21 misrepresented through the use of deceptive and fraudulent synthetic media in
+VT LEG #381906 v.1
+
+AS PASSED BY SENATE S.23
+2025 Page 5 of 5
+1 violation of section 2032 of this title may seek injunctive or other equitable
+2 relief prohibiting the publication, communication, or other distribution of such
+3 deceptive and fraudulent synthetic media.
+4 Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+5 Subchapter 5. Enforcement and Additional Remedies
+6 § 2041. INJUNCTIONS
+7 In addition to the other penalties provided in this chapter, a State’s Attorney
+8 or the Attorney General may institute any appropriate action, injunction, or
+9 other proceeding to prevent, restrain, correct, or abate any violation of this
+10 chapter.
+11 Sec. 3. EFFECTIVE DATE
+12 This act shall take effect on passage.
+VT LEG #381906 v.1
+
+[DELETED:  S P S A I S S § A ( t i t ( i ( u e o ( r h]
+[DELETED:  S P t b §   ( V t m “ t ( a e o d e s ( r a b]
+[DELETED:  S P a r ( ( s s ( b c a h t ( ( l ( p p a c a]
+[DELETED:  S P ( c ( t f ( U § ( s ( b ( p t ( b m m ( m]
+[DELETED:  S P v r d S S § I o o c S T]

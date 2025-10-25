@@ -1,0 +1,388 @@
+Title: BILL AS INTRODUCED H.259
+Official Title: BILL AS INTRODUCED H.259
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 8
+1 H.259
+2 Introduced by Representative Cordes of Bristol
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; hospitals; workplace violence prevention; security plan
+6 Statement of purpose of bill as introduced: This bill proposes to require
+7 hospitals to develop and implement a security plan for preventing workplace
+8 violence. It further proposes to require hospitals to establish and utilize a
+9 workplace violence incident reporting system.
+10 An act relating to preventing workplace violence in hospitals
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 18 V.S.A. § 1911b is added to read:
+13 § 1911b. WORKPLACE VIOLENCE PREVENTION PLANNING
+14 (a)(1) A hospital licensed pursuant to this chapter shall establish and
+15 implement a security plan for preventing workplace violence and managing
+16 aggressive behaviors. Each hospital shall establish a team for the purpose of
+17 providing advice during the development of the hospital’s security plan. The
+18 hospital shall select individuals from the following groups to serve on its
+19 security plan development team:
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 2 of 8
+1 (A) health care employees providing direct patient care at the
+2 hospital;
+3 (B) representatives from the designated agency serving the region
+4 where the hospital is located; and
+5 (C) representatives of relevant law enforcement agencies.
+6 (2) The security plan shall be based on the results of a security risk
+7 assessment that addresses all high-risk areas of the hospital, including the
+8 emergency department, and all patient care areas. The security risk assessment
+9 shall be conducted in consultation with the medical and nursing directors of
+10 each department and those hospital employees supervising other high-risk
+11 areas of the hospital. The security risk assessment shall consider overall
+12 patient volume, crime rates in the community, and the availability of law
+13 enforcement to respond to violent incidents at the hospital.
+14 (3) The security plan shall include an option for health care employees
+15 who provide direct patient care to request an identification badge containing
+16 only their first name or their first name and last initial.
+17 (4)(A) The security plan shall require at least one hospital employee
+18 trained in de-escalation strategies to be present at all time in the hospital’s
+19 emergency department and all other patient care areas.
+20 (B) The security plan shall require that a hospital employee trained in
+21 trauma-informed care and victim support serve as a liaison to law enforcement,
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 3 of 8
+1 support victims through the legal process, and ensure that the response to
+2 incidents of violence at the hospital prioritize the safety and retention of
+3 hospital employees providing health care services.
+4 (5) The security plan shall establish training requirements for
+5 appropriate hospital employees on the following:
+6 (A) the culture of safety as determined by the hospital;
+7 (B) response to the presence or use of weapons;
+8 (C) defensive tactics;
+9 (D) de-escalation techniques;
+10 (E) appropriate physical restraint and seclusion techniques;
+11 (F) crisis intervention;
+12 (G) trauma-informed care and strategies;
+13 (H) clinician well-being practices;
+14 (I) presence and intervention of law enforcement; and
+15 (J) safely addressing situations involving patients, family members,
+16 or other individuals who pose a risk of self-harm or harm to others.
+17 (6) The security plan shall include guidelines indicating when a law
+18 enforcement officer should remain with a patient who has demonstrated
+19 violence or harm to others pursuant to 18 V.S.A. § 1883. The guidelines shall
+20 be developed jointly by a health care provider representative and law
+21 enforcement.
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 4 of 8
+1 (7)(A) A hospital shall review and evaluate the security plan developed
+2 pursuant to this subsection annually in conjunction with the data collected
+3 pursuant to subdivision (b)(3) of this section. If necessary, the hospital shall
+4 revise the security plan.
+5 (B) The security plan and any annual revisions to the security plan
+6 shall be distributed annually to all hospital employees, volunteers, the
+7 hospital’s board of directors, relevant law enforcement agencies, and any other
+8 partners identified by the security plan development team.
+9 (b)(1) A hospital licensed pursuant to this chapter shall establish and utilize
+10 a workplace violence incident reporting system to document, track, analyze,
+11 and evaluate incidents of workplace violence at the hospital. Data collection
+12 through the reporting system and resulting analysis shall be used to improve
+13 workplace safety and to manage aggressive behaviors, including improvements
+14 achieved through continuing education in targeted areas such as de-escalation
+15 training, risk identification, and prevention planning.
+16 (2) All hospital employees shall be notified about the existence of the
+17 reporting system and shall receive training on how to report incidents of
+18 workplace violence to the hospital, hospital security, law enforcement, or any
+19 other entity the hospital deems appropriate.
+20 (3) A hospital shall use its reporting system to track the following:
+21 (A) the number of reported incidents;
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 5 of 8
+1 (B) the number of incidents reported to law enforcement; and
+2 (C) the number of individuals involved in a reported incident who
+3 were criminally charged as a result of the incident.
+4 (c) A hospital shall adopt a policy prohibiting a hospital employee from
+5 discriminating or retaliating against another hospital employee for:
+6 (1) reporting an incidence of workplace violence;
+7 (2) seeking assistance or intervention from the hospital, hospital
+8 security, law enforcement, or any other appropriate entity; or
+9 (3) participating in an investigation of workplace violence.
+10 (d)(1) A hospital shall post a notice in a conspicuous location, either
+11 electronically or in print, indicating that hospital employees do not tolerate an
+12 unsafe work environment where any type of threatening or aggressive behavior
+13 is present. The notice shall remind hospital patrons of the serious legal
+14 consequences of assaulting a hospital employee.
+15 (2) As used in this subsection, “conspicuous” could include the
+16 hospital’s website, waiting room areas, or any other areas of the hospital that
+17 the hospital deems appropriate.
+18 (e) The Agency of Human Services shall collaborate with hospitals to
+19 identify incentives, funding sources, and other means to support the
+20 development and operation of workplace violence prevention programs at
+21 hospitals.
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 6 of 8
+1 Sec. 2. 18 V.S.A. § 9435 is amended to read:
+2 § 9435. EXCLUSIONS
+3 * * *
+4 (i) Excluded from this subchapter are expenditures by a hospital that are
+5 necessary to implement the security plan required pursuant to section 1911b of
+6 this title.
+7 Sec. 3. 18 V.S.A. § 9454 is amended to read:
+8 § 9454. HOSPITALS; DUTIES
+9 (a) Hospitals shall file the following information at the time and place and
+10 in the manner established by the Board:
+11 (1) a budget for the forthcoming fiscal year;
+12 (2) financial information, including costs of operation, revenues, assets,
+13 liabilities, fund balances, other income, rates, charges, units of services, and
+14 wage and salary data;
+15 (3) scope-of-service and volume-of-service information, including
+16 inpatient services, outpatient services, and ancillary services by type of service
+17 provided;
+18 (4) utilization information;
+19 (5) new hospital services and programs proposed for the forthcoming
+20 fiscal year;
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 7 of 8
+1 (6) costs associated with implementing their security plan pursuant to
+2 section 1911b of this title, including capital investments, program operation,
+3 and staff;
+4 (7) known depreciation schedules on existing buildings, a four-year
+5 capital expenditure projection, and a one-year capital expenditure plan; and
+6 (7)(8) such other information as the Board may require.
+7 * * *
+8 Sec. 4. 18 V.S.A. § 9456 is amended to read:
+9 § 9456. BUDGET REVIEW
+10 (a) The Board shall conduct reviews of each hospital’s proposed budget
+11 based on the information provided pursuant to this subchapter and in
+12 accordance with a schedule established by the Board.
+13 * * *
+14 (c) Individual hospital budgets established under this section shall:
+15 * * *
+16 (5) include a finding that the analysis provided in subdivision (b)(9) of
+17 this section is a reasonable methodology for reflecting a reduction in net
+18 revenues for non-Medicaid payers; and
+19 (6) demonstrate that they support equal access to appropriate mental
+20 health care that meets standards of quality, access, and affordability equivalent
+VT LEG #380670 v.1
+BILL AS INTRODUCED H.259
+2025 Page 8 of 8
+1 to other components of health care as part of an integrated, holistic system of
+2 care; and
+3 (7) allocate sufficient funds to ensure that the hospital is able to fully
+4 support all of the costs associated with operating its security plan pursuant to
+5 section 1911b of this title.
+6 * * *
+7 Sec. 5. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #380670 v.1
+[DELETED:  H P H I R D S S h v w A I S § ( i a p h s]
+[DELETED:  H P ( h ( w ( ( a e s e a p e ( w o ( t e ( t]
+[DELETED:  H P s i h ( a ( ( ( ( ( ( ( ( ( ( o ( e v b e]
+[DELETED:  H P ( p p r ( s h p ( a a t w a t ( r w o ( (]
+[DELETED:  H P ( ( w ( d ( ( s ( ( e u i c ( h t ( i d h]
+[DELETED:  H P S § * ( n t S § ( i ( ( l w ( i p ( ( f]
+[DELETED:  H P ( s a ( c ( * S § ( b a * ( * ( t r ( h]
+[DELETED:  H P t c ( s s * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.259
+2025 Page 1 of 8
+1 H.259
+2 Introduced by Representative Cordes of Bristol
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; hospitals; workplace violence prevention; security plan
+6 Statement of purpose of bill as introduced: This bill proposes to require
+7 hospitals to develop and implement a security plan for preventing workplace
+8 violence. It further proposes to require hospitals to establish and utilize a
+9 workplace violence incident reporting system.
+10 An act relating to preventing workplace violence in hospitals
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 18 V.S.A. § 1911b is added to read:
+13 § 1911b. WORKPLACE VIOLENCE PREVENTION PLANNING
+14 (a)(1) A hospital licensed pursuant to this chapter shall establish and
+15 implement a security plan for preventing workplace violence and managing
+16 aggressive behaviors. Each hospital shall establish a team for the purpose of
+17 providing advice during the development of the hospital’s security plan. The
+18 hospital shall select individuals from the following groups to serve on its
+19 security plan development team:
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 2 of 8
+1 (A) health care employees providing direct patient care at the
+2 hospital;
+3 (B) representatives from the designated agency serving the region
+4 where the hospital is located; and
+5 (C) representatives of relevant law enforcement agencies.
+6 (2) The security plan shall be based on the results of a security risk
+7 assessment that addresses all high-risk areas of the hospital, including the
+8 emergency department, and all patient care areas. The security risk assessment
+9 shall be conducted in consultation with the medical and nursing directors of
+10 each department and those hospital employees supervising other high-risk
+11 areas of the hospital. The security risk assessment shall consider overall
+12 patient volume, crime rates in the community, and the availability of law
+13 enforcement to respond to violent incidents at the hospital.
+14 (3) The security plan shall include an option for health care employees
+15 who provide direct patient care to request an identification badge containing
+16 only their first name or their first name and last initial.
+17 (4)(A) The security plan shall require at least one hospital employee
+18 trained in de-escalation strategies to be present at all time in the hospital’s
+19 emergency department and all other patient care areas.
+20 (B) The security plan shall require that a hospital employee trained in
+21 trauma-informed care and victim support serve as a liaison to law enforcement,
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 3 of 8
+1 support victims through the legal process, and ensure that the response to
+2 incidents of violence at the hospital prioritize the safety and retention of
+3 hospital employees providing health care services.
+4 (5) The security plan shall establish training requirements for
+5 appropriate hospital employees on the following:
+6 (A) the culture of safety as determined by the hospital;
+7 (B) response to the presence or use of weapons;
+8 (C) defensive tactics;
+9 (D) de-escalation techniques;
+10 (E) appropriate physical restraint and seclusion techniques;
+11 (F) crisis intervention;
+12 (G) trauma-informed care and strategies;
+13 (H) clinician well-being practices;
+14 (I) presence and intervention of law enforcement; and
+15 (J) safely addressing situations involving patients, family members,
+16 or other individuals who pose a risk of self-harm or harm to others.
+17 (6) The security plan shall include guidelines indicating when a law
+18 enforcement officer should remain with a patient who has demonstrated
+19 violence or harm to others pursuant to 18 V.S.A. § 1883. The guidelines shall
+20 be developed jointly by a health care provider representative and law
+21 enforcement.
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 4 of 8
+1 (7)(A) A hospital shall review and evaluate the security plan developed
+2 pursuant to this subsection annually in conjunction with the data collected
+3 pursuant to subdivision (b)(3) of this section. If necessary, the hospital shall
+4 revise the security plan.
+5 (B) The security plan and any annual revisions to the security plan
+6 shall be distributed annually to all hospital employees, volunteers, the
+7 hospital’s board of directors, relevant law enforcement agencies, and any other
+8 partners identified by the security plan development team.
+9 (b)(1) A hospital licensed pursuant to this chapter shall establish and utilize
+10 a workplace violence incident reporting system to document, track, analyze,
+11 and evaluate incidents of workplace violence at the hospital. Data collection
+12 through the reporting system and resulting analysis shall be used to improve
+13 workplace safety and to manage aggressive behaviors, including improvements
+14 achieved through continuing education in targeted areas such as de-escalation
+15 training, risk identification, and prevention planning.
+16 (2) All hospital employees shall be notified about the existence of the
+17 reporting system and shall receive training on how to report incidents of
+18 workplace violence to the hospital, hospital security, law enforcement, or any
+19 other entity the hospital deems appropriate.
+20 (3) A hospital shall use its reporting system to track the following:
+21 (A) the number of reported incidents;
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 5 of 8
+1 (B) the number of incidents reported to law enforcement; and
+2 (C) the number of individuals involved in a reported incident who
+3 were criminally charged as a result of the incident.
+4 (c) A hospital shall adopt a policy prohibiting a hospital employee from
+5 discriminating or retaliating against another hospital employee for:
+6 (1) reporting an incidence of workplace violence;
+7 (2) seeking assistance or intervention from the hospital, hospital
+8 security, law enforcement, or any other appropriate entity; or
+9 (3) participating in an investigation of workplace violence.
+10 (d)(1) A hospital shall post a notice in a conspicuous location, either
+11 electronically or in print, indicating that hospital employees do not tolerate an
+12 unsafe work environment where any type of threatening or aggressive behavior
+13 is present. The notice shall remind hospital patrons of the serious legal
+14 consequences of assaulting a hospital employee.
+15 (2) As used in this subsection, “conspicuous” could include the
+16 hospital’s website, waiting room areas, or any other areas of the hospital that
+17 the hospital deems appropriate.
+18 (e) The Agency of Human Services shall collaborate with hospitals to
+19 identify incentives, funding sources, and other means to support the
+20 development and operation of workplace violence prevention programs at
+21 hospitals.
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 6 of 8
+1 Sec. 2. 18 V.S.A. § 9435 is amended to read:
+2 § 9435. EXCLUSIONS
+3 * * *
+4 (i) Excluded from this subchapter are expenditures by a hospital that are
+5 necessary to implement the security plan required pursuant to section 1911b of
+6 this title.
+7 Sec. 3. 18 V.S.A. § 9454 is amended to read:
+8 § 9454. HOSPITALS; DUTIES
+9 (a) Hospitals shall file the following information at the time and place and
+10 in the manner established by the Board:
+11 (1) a budget for the forthcoming fiscal year;
+12 (2) financial information, including costs of operation, revenues, assets,
+13 liabilities, fund balances, other income, rates, charges, units of services, and
+14 wage and salary data;
+15 (3) scope-of-service and volume-of-service information, including
+16 inpatient services, outpatient services, and ancillary services by type of service
+17 provided;
+18 (4) utilization information;
+19 (5) new hospital services and programs proposed for the forthcoming
+20 fiscal year;
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 7 of 8
+1 (6) costs associated with implementing their security plan pursuant to
+2 section 1911b of this title, including capital investments, program operation,
+3 and staff;
+4 (7) known depreciation schedules on existing buildings, a four-year
+5 capital expenditure projection, and a one-year capital expenditure plan; and
+6 (7)(8) such other information as the Board may require.
+7 * * *
+8 Sec. 4. 18 V.S.A. § 9456 is amended to read:
+9 § 9456. BUDGET REVIEW
+10 (a) The Board shall conduct reviews of each hospital’s proposed budget
+11 based on the information provided pursuant to this subchapter and in
+12 accordance with a schedule established by the Board.
+13 * * *
+14 (c) Individual hospital budgets established under this section shall:
+15 * * *
+16 (5) include a finding that the analysis provided in subdivision (b)(9) of
+17 this section is a reasonable methodology for reflecting a reduction in net
+18 revenues for non-Medicaid payers; and
+19 (6) demonstrate that they support equal access to appropriate mental
+20 health care that meets standards of quality, access, and affordability equivalent
+VT LEG #380670 v.1
+
+BILL AS INTRODUCED H.259
+2025 Page 8 of 8
+1 to other components of health care as part of an integrated, holistic system of
+2 care; and
+3 (7) allocate sufficient funds to ensure that the hospital is able to fully
+4 support all of the costs associated with operating its security plan pursuant to
+5 section 1911b of this title.
+6 * * *
+7 Sec. 5. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #380670 v.1
+
+[DELETED:  H P H I R D S S h v w A I S § ( i a p h s]
+[DELETED:  H P ( h ( w ( ( a e s e a p e ( w o ( t e ( t]
+[DELETED:  H P s i h ( a ( ( ( ( ( ( ( ( ( ( o ( e v b e]
+[DELETED:  H P ( p p r ( s h p ( a a t w a t ( r w o ( (]
+[DELETED:  H P ( ( w ( d ( ( s ( ( e u i c ( h t ( i d h]
+[DELETED:  H P S § * ( n t S § ( i ( ( l w ( i p ( ( f]
+[DELETED:  H P ( s a ( c ( * S § ( b a * ( * ( t r ( h]
+[DELETED:  H P t c ( s s * S T]

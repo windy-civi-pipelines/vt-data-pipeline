@@ -1,0 +1,2510 @@
+Title: BILL AS INTRODUCED H.177
+Official Title: BILL AS INTRODUCED H.177
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 50 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 50
+1 H.177
+2 Introduced by Representatives Cordes of Bristol and Kleppner of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Education; State funding of public education; taxation and finance;
+6 education property tax; education income tax; education finance
+7 Statement of purpose of bill as introduced: This bill proposes to transition
+8 from an education property tax to an education income tax in fiscal year 2027.
+9 This bill would create an education tax that is based on the income of all
+10 Vermont residents (both homeowners and renters) with a rate determined by
+11 locally voted budgets. This bill would eliminate the homestead education
+12 property tax and levy the nonhomestead education property tax on all property
+13 except residential dwellings and the two-acre parcel surrounding the dwellings.
+14 This bill would continue to provide the existing renter credit. This bill also
+15 proposes to update the property tax credit income sensitivity measures to
+16 provide relief to a broader class of Vermont taxpayers in fiscal year 2026.
+17 An act relating to income-based education funding
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 * * * Education Income Tax * * *
+20 Sec. 1. 32 V.S.A. chapter 151, subchapter 14 is added to read:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 2 of 50
+1 Subchapter 14. Education Income Tax
+2 § 5961. NAME OF TAX
+3 The tax imposed by this subchapter shall be known as the Vermont
+4 education income tax.
+5 § 5962. EDUCATION INCOME TAX ON INDIVIDUALS
+6 (a) In addition to the personal income tax assessed under section 5822 of
+7 this title, there shall be an education income tax imposed each taxable year
+8 upon the adjusted gross income earned or received in that year by every
+9 individual subject to income taxation under the laws of the United States, in an
+10 amount determined by the following tables and adjusted as required under this
+11 section and section 5963 of this subchapter.
+12 (1) Married individuals filing joint returns and surviving spouses:
+13 If adjusted gross income is: The tax is:
+14 Not over $64,600.00 3.35% of adjusted
+15 gross income
+16 Over $64,600.00 but $2,164.00 plus 6.60% of
+17 not over $156,150.00 the amount of adjusted
+18 gross income over $64,600.00
+19 Over $156,150.00 but $8,206.00 plus 7.60%
+20 not over $237,950.00 of the amount of adjusted
+21 gross income over $156,150.00
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 3 of 50
+1 Over $237,950.00 $14,423.00 plus 8.75%
+2 of the amount of adjusted
+3 gross income over $237,950.00
+4 (2) Heads of household:
+5 If adjusted gross income is: The tax is:
+6 Not over $51,850.00 3.35% of adjusted
+7 gross income
+8 Over $51,850.00 but $1,737.00 plus 6.60% of
+9 not over $133,850.00 the amount of adjusted
+10 gross income over $51,850.00
+11 Over $133,850.00 but $7,149.00 plus 7.60%
+12 not over $216,700.00 of the amount of adjusted
+13 gross income over $133,850.00
+14 Over $216,700.00 $13,446.00 plus 8.75%
+15 of the amount of adjusted
+16 gross income over $216,700.00
+17 (3) Unmarried individuals, other than surviving spouses or heads of
+18 household:
+19 If adjusted gross income is: The tax is:
+20 Not over $38,700.00 3.35% of adjusted
+21 gross income
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 4 of 50
+1 Over $38,700.00 but $1,296.00 plus 6.60% of
+2 not over $93,700.00 the amount of adjusted
+3 gross income over $38,700.00
+4 Over $93,700.00 but $4,926.00 plus 7.60%
+5 not over $195,450.00 of the amount of adjusted
+6 gross income over $93,700.00
+7 Over $195,450.00 $12,659.00 plus 8.75%
+8 of the amount of adjusted
+9 gross income over $195,450.00
+10 (4) Married individuals filing separate returns:
+11 If adjusted gross income is: The tax is:
+12 Not over $32,300.00 3.35% of adjusted
+13 gross income
+14 Over $32,300.00 but $1,082.00 plus 6.60% of
+15 not over $78,075.00 the amount of adjusted
+16 gross income over $32,300.00
+17 Over $78,075.00 but $4,103.00 plus 7.60%
+18 not over $118,975.00 of the amount of adjusted
+19 gross income over $78,075.00
+20 Over $118,975.00 $7,212.00 plus 8.75%
+21 of the amount of adjusted
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 5 of 50
+1 gross income over $118,975.00
+2 (b) The amounts of adjusted gross income shown in the tables in this
+3 section shall be adjusted annually for inflation by the Commissioner of Taxes
+4 pursuant to subdivision 5822(b)(2) of this chapter.
+5 (c)(1) The rates shown in the tables in this section shall be adjusted for
+6 each school district by dividing the school district’s per pupil education
+7 spending, as defined in 16 V.S.A. § 4001(6), by the prior year’s statewide
+8 average per pupil education spending and multiplying the result by the rates
+9 under this section.
+10 (2) The final rate for each school district determined under this
+11 subsection shall apply to the Vermont income, as defined in section 5963 of
+12 this title, of a resident or part-year resident for the entire taxable year. As used
+13 in this subdivision, the “final rate” for each school district means the average
+14 of the district’s rates in effect between January 1 and December 31.
+15 (3) A resident or part-year resident individual shall pay the rate adjusted
+16 under this subsection for the individual’s school district of residence on
+17 January 1 of the taxable year or, in the case of a part-year resident individual
+18 whose residence begins on a day other than January 1, the school district where
+19 the individual resides on the first day of residence in this State. The rate
+20 adjustments under this subsection shall not apply to a nonresident individual.
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 6 of 50
+1 (d) The tax liability determined under subsections (a) through (c) of this
+2 section shall be reduced by a percentage equal to the portion of adjusted gross
+3 income that is not Vermont income; provided, however, that if a taxpayer’s
+4 Vermont income exceeds the taxpayer’s adjusted gross income, no reduction
+5 shall be made and provided further that if a taxpayer has zero or negative
+6 Vermont income and the taxpayer’s Vermont income computed without regard
+7 to the reductions in section 5963 of this subchapter does not equal or exceed
+8 the taxpayer’s adjusted gross income, no tax shall be due under this section.
+9 (e) The education income tax under this subchapter shall be assessed and
+10 administered in the same manner as the personal income tax under this chapter.
+11 (f) As used in this section, “married individuals,” “surviving spouse,”
+12 “head of household,” and “unmarried individual” have the same meaning as
+13 under the Internal Revenue Code.
+14 § 5963. VERMONT INCOME OF INDIVIDUALS
+15 (a) As used in this subchapter, for any taxable year, the Vermont income of
+16 a resident individual is the adjusted gross income of the individual for that
+17 taxable year, less income exempted from State taxation under the laws of the
+18 United States.
+19 (b)(1) As used in this subchapter, for any taxable year, the Vermont income
+20 of a nonresident individual is the sum of the following items of income to the
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 7 of 50
+1 extent they are required to be included in the adjusted gross income of the
+2 individual:
+3 (A) rents and royalties derived from the ownership of property
+4 located within this State;
+5 (B) gains from the sale or exchange of property located within this
+6 State;
+7 (C) wages, salaries, commissions, or other income received with
+8 respect to services performed within this State;
+9 (D) income, other than income exempted from State taxation under
+10 the laws of the United States, derived from every business, trade, occupation,
+11 or profession to the extent that the business, trade, occupation, or profession is
+12 carried on within this State, including any compensation received:
+13 (i) under an agreement not to compete with a business operating in
+14 Vermont;
+15 (ii) for goodwill associated with the sale of a Vermont business; or
+16 (iii) for services to be performed under a contract associated with
+17 the sale of a Vermont business, unless it is shown that the compensation for
+18 services does not constitute income from the sale of the business;
+19 (E) income that was previously deferred under a nonqualified
+20 deferred compensation plan and that would have previously been included in
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 8 of 50
+1 the taxpayer’s Vermont income if it had not been deferred and income derived
+2 from such previously deferred income; and
+3 (F) proceeds from wagering transactions made within the State; or
+4 any Vermont State Lottery, tri-state lottery, or multijurisdictional lottery ticket
+5 paid to a person who purchased the ticket in Vermont, including payments
+6 received from a third party for the transfer of the rights to future proceeds
+7 related to the ticket; and the Commissioner may require withholding of any
+8 taxes due to the State under this subdivision (b)(1) from payments of wagering
+9 or lottery proceeds.
+10 (2) As used in this subchapter, for any taxable year, the Vermont income
+11 of a nonresident individual shall not include any income from the activities
+12 listed in this subdivision or the income of a nonresident through an entity, such
+13 as a partnership, limited liability company, or trust, provided that the entity’s
+14 activities in this State are limited to activities that, without more, would not
+15 constitute nexus, plus any or all of the following activities necessary to create
+16 or maintain a web page or internet site for the nonresident or entity:
+17 (A) ownership of data or programming code in this State, or use of
+18 that data or programming code by a person other than the nonresident or entity
+19 or by a person not in this State;
+20 (B) ownership of, or receipt of services from, computer servers in
+21 this State; and
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 9 of 50
+1 (C) receipt of computer processing or web hosting services from a
+2 computer service provider or web hosting service in this State.
+3 (c) As used in this subchapter, for any taxable year, the Vermont income of
+4 a part-year resident individual or trust is the sum of:
+5 (1) all items of income constituting Vermont income for the purpose of
+6 subsection (a) of this section that are earned or received during the period of
+7 the taxpayer’s residency in this State in the taxable year; and
+8 (2) all items of income constituting Vermont income for the purposes of
+9 subdivision (b)(1) of this section that are earned or received during the period
+10 of the taxpayer’s nonresidency in this State in the taxable year.
+11 § 5964. EDUCATION INCOME TAX; RENTER CREDIT
+12 (a) A resident individual or part-year resident individual shall be entitled to
+13 a nonrefundable credit against the tax imposed by section 5962 of this title for
+14 the taxable year. The total credit per taxable year shall be 21 percent of gross
+15 rent paid by the renter during the taxable year, multiplied by the percentage
+16 that the individual’s income that is earned or received during the period of the
+17 individual’s residency in this State bears to the individual’s total income.
+18 (b) As used in this section, “gross rent” means the rent and related charges
+19 paid by the individual for the right to occupy the individual’s primary dwelling
+20 as the individual’s domicile in this State during the taxable year.
+21 * * * Withholding, Estimated Payments, and Returns * * *
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 10 of 50
+1 Sec. 2. 32 V.S.A. § 5841 is amended to read:
+2 § 5841. REQUIREMENT AND RATE OF WITHHOLDING
+3 (a) Every person who is required under the laws of the United States to
+4 withhold federal income tax from payments that are also subject to Vermont
+5 income tax or education income tax shall deduct and withhold during the
+6 calendar year from the payments made by such person such the amount of tax
+7 as the Commissioner shall prescribe. Every person who makes payments of
+8 income with respect to services performed for such person that were previously
+9 deferred under a nonqualified deferred compensation plan shall deduct and
+10 withhold during the calendar year from the payments made by such person six
+11 percent of any payment (including any withheld tax) of such previously
+12 deferred income and of income derived from such previously deferred income.
+13 The Commissioner may authorize any person to deduct and withhold Vermont
+14 income tax and education income tax from any other payments that are subject
+15 to the tax taxes imposed by this chapter. Notwithstanding the foregoing, banks
+16 (as defined in 8 V.S.A. § 909a(a)) shall not be required to withhold Vermont
+17 income tax or education income tax from payments that are subject to federal
+18 back-up withholding.
+19 (b) The Commissioner shall establish such withholding tables, schedules,
+20 or formulae as will result in the withholding of such amounts from the
+21 payments made by any person during any taxable year, as shall closely
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 11 of 50
+1 approximate the income tax liabilities of the recipients of those payments with
+2 respect to those payments for that year under this chapter, including any
+3 liability for the education income tax under section 5962 of this title.
+4 * * *
+5 (d) The Commissioner shall base the withholding requirements for the
+6 education income tax under section 5962 of this title on the federal adjusted
+7 gross income of recipients from the prior year and the statewide average rates
+8 from the prior year, provided the rate shall be adjusted annually for inflation
+9 using the National Income and Product Accounts (NIPA) Implicit Price
+10 Deflator for State and Local Government Consumption Expenditures and
+11 Gross Investment as reported by the U.S. Department of Commerce, Bureau of
+12 Economic Analysis.
+13 Sec. 3. 32 V.S.A. § 5851(1) is amended to read:
+14 (1) “Tax” means, for any taxpayer and for any taxable year, the income
+15 tax liability of the taxpayer for that taxable year under section 5822 or 5962 of
+16 this title, reduced by any allowable credits against such tax.
+17 Sec. 4. 32 V.S.A. § 5852(a) is amended to read:
+18 (a) Every individual, estate, and trust subject to taxation under section 5822
+19 of this title (other than a person receiving at least two-thirds of his or her the
+20 person’s income from farming or fishing as defined under the laws of the
+21 United States) or section 5962 of this title shall make installment payments of
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 12 of 50
+1 the taxpayer’s estimated tax liability for each taxable year. The amount of
+2 each payment shall be 25 percent of the required annual payment. For any
+3 taxable year, payments shall be made on or before April 15, June 15, and
+4 September 15 of the taxable year and January 15 of the following taxable year.
+5 In applying this section to a taxable year beginning on any date other than
+6 January 1, there shall be substituted, for the months specified in this section,
+7 the months that correspond thereto.
+8 Sec. 5. 32 V.S.A. § 5861 is amended to read:
+9 § 5861. RETURNS BY INDIVIDUALS, TRUSTS, AND ESTATES
+10 (a) Every individual, trust, or estate subject to taxation for any taxable year
+11 under section 5822 or 5962 of this title shall file a Vermont personal income
+12 tax return for that taxable year if that person is required to file a United States
+13 income tax return for that year and:
+14 (1) earned or received more than $100.00 of Vermont income, or;
+15 (2) earned or received more than $1,000.00 in gross income from the
+16 sources listed in subdivisions 5823(b)(1) through (6) or subsections 5962(b)
+17 and (c) of this title, whether or not a resident, in that year,; or
+18 (3) has a tax liability under this chapter for that year.
+19 * * *
+20 (e) The Commissioner may shall require information on a Vermont
+21 personal income tax return that is sufficient to identify the school district, as
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 13 of 50
+1 defined in 16 V.S.A. § 11(a)(10), in which the taxpayer resides and whether
+2 the taxpayer’s residence is a rental dwelling in this State. The Commissioner
+3 may consider a return incomplete if the information required under this
+4 subsection is not provided and shall cause the return to be completed.
+5 * * *
+6 Sec. 6. 32 V.S.A. § 5820 is amended to read:
+7 § 5820. PURPOSE
+8 (a) This chapter is intended to conform the Vermont personal and,
+9 corporate, and education income taxes with the U.S. Internal Revenue Code,
+10 except as otherwise expressly provided, in order to simplify the taxpayer’s
+11 filing of returns, reduce the taxpayer’s accounting burdens, and facilitate the
+12 collection and administration of these taxes.
+13 (b) It is intended that, for any taxable year, individuals, estates, and trusts
+14 shall be taxed upon only their Vermont income for that year, but that the rate at
+15 which the Vermont income of any taxpayer is taxed under this chapter shall
+16 reflect the taxpayer’s ability to pay as measured by his or her the taxpayer’s
+17 adjusted gross income for the taxable year.
+18 * * * Nonhomestead Education Property Tax * * *
+19 Sec. 7. 32 V.S.A. § 5401 is amended to read:
+20 § 5401. DEFINITIONS
+21 As used in this chapter:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 14 of 50
+1 * * *
+2 (7) “Homestead”:
+3 (A) “Homestead” means the principal dwelling and parcel two acres
+4 of land surrounding the dwelling, owned and occupied by a resident individual
+5 as the individual’s domicile or owned and fully leased on April 1, provided the
+6 property is not leased for more than 182 days out of the calendar year or, for
+7 purposes of the renter credit under subsection 6066(b) of this title, is rented
+8 and occupied by a resident individual as the individual’s domicile.
+9 * * *
+10 (G) For purposes of homestead declaration and application of the
+11 homestead property tax rate, “homestead” “Homestead” also means a
+12 residence that was the homestead of the decedent at the date of death and, from
+13 the date of death through the next April 1, is held by the estate of the decedent
+14 and not rented.
+15 * * *
+16 (10) “Nonhomestead property” means all property except:
+17 * * *
+18 (C) Homesteads declared in accordance with section 5410 of this title
+19 as defined in subdivision (7) of this section.
+20 * * *
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 15 of 50
+1 (13)(A) “Education property tax spending adjustment” means the
+2 greater of one or a fraction in which:
+3 (i) the numerator is the district’s per pupil education spending plus
+4 excess spending for the school year, and
+5 (ii) the denominator is the property dollar equivalent yield for the
+6 school year, as defined in subdivision (15) of this section, multiplied by the
+7 statewide adjustment.
+8 (B) “Education income tax spending adjustment” means the greater
+9 of one or a fraction in which the numerator is the district’s per pupil education
+10 spending plus excess spending for the school year, and the denominator is the
+11 income dollar equivalent yield for the school year, as defined in subdivision
+12 (16) of this section. [Repealed.]
+13 * * *
+14 (15) “Property dollar equivalent yield” means the amount of per pupil
+15 education spending that would result in a district having a homestead tax rate
+16 of $1.00 per $100.00 of equalized education property value. [Repealed.]
+17 (16) “Income dollar equivalent yield” means the amount of per pupil
+18 education spending that would result in a district having an income percentage
+19 in subdivision 6066(a)(2) of this title of 2.0 percent. [Repealed.]
+20 * * *
+21 Sec. 8. 32 V.S.A. § 5402 is amended to read:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 16 of 50
+1 § 5402. NONHOMESTEAD EDUCATION PROPERTY TAX LIABILITY
+2 (a) A statewide education tax is imposed on all nonhomestead and
+3 homestead property at the following rates:
+4 (1) The tax rate for nonhomestead property shall be rate of $1.59 per
+5 $100.00 divided by the statewide adjustment.
+6 (2) The tax rate for homestead property shall be $1.00 multiplied by the
+7 education property tax spending adjustment for the municipality per $100.00 of
+8 equalized education property value as most recently determined under section
+9 5405 of this title. The homestead property tax rate for each municipality that is
+10 a member of a union or unified union school district shall be calculated as
+11 required under subsection (e) of this section.
+12 (b) The statewide nonhomestead education tax shall be calculated as
+13 follows:
+14 (1) The Commissioner of Taxes shall determine for each municipality
+15 the nonhomestead education tax rates rate under subsection (a) of this section
+16 divided by the number resulting from dividing the municipality’s most recent
+17 common level of appraisal by the statewide adjustment. The legislative body
+18 in each municipality shall then bill each property taxpayer at the homestead or
+19 nonhomestead rate determined by the Commissioner under this subdivision,
+20 multiplied by the nonhomestead education property tax grand list value of the
+21 property, properly classified as homestead or nonhomestead property and
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 17 of 50
+1 without regard to any other tax classification of the property. Statewide
+2 nonhomestead education property tax bills shall show the tax due and the
+3 calculation of the rate determined under subsection (a) of this section, divided
+4 by the number resulting from dividing the municipality’s most recent common
+5 level of appraisal by the statewide adjustment, multiplied by the current grand
+6 list value of the property to be taxed. Statewide nonhomestead education
+7 property tax bills shall also include language provided by the Commissioner
+8 pursuant to subsection 5405(g) of this title.
+9 (2) Taxes assessed under this section shall be assessed and collected in
+10 the same manner as taxes assessed under chapter 133 of this title with no tax
+11 classification other than as homestead or nonhomestead property; provided,
+12 however, that the tax levied under this chapter shall be billed to each taxpayer
+13 by the municipality in a manner that clearly indicates the tax is separate from
+14 any other tax assessed and collected under chapter 133, including an
+15 itemization of the separate taxes due. The bill may be on a single sheet of
+16 paper with the statewide education tax and other taxes presented separately and
+17 side by side.
+18 (3) If a district has not voted a budget by June 30, an interim homestead
+19 education tax shall be imposed at the base rate determined under subdivision
+20 (a)(2) of this section, divided by the number resulting from dividing the
+21 municipality’s most recent common level of appraisal by the statewide
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 18 of 50
+1 adjustment, but without regard to any spending adjustment under subdivision
+2 5401(13) of this title. Within 30 days after a budget is adopted and the deadline
+3 for reconsideration has passed, the Commissioner shall determine the
+4 municipality’s homestead tax rate as required under subdivision (1) of this
+5 subsection. [Repealed.]
+6 (c)(1) The treasurer of each municipality shall by December 1 of the year in
+7 which the tax is levied and on June 1 of the following year pay to the State
+8 Treasurer for deposit in the Education Fund one-half of the municipality’s
+9 statewide nonhomestead tax and one-half of the municipality’s homestead
+10 education tax, as determined under subdivision (b)(1) of this section.
+11 (2) The Secretary of Education shall determine each municipality’s net
+12 nonhomestead education tax payment and its net homestead education tax
+13 payment to the State based on grand list information received by the Secretary
+14 not later than the March 15 prior to the June 1 net payment. Payment shall be
+15 accompanied by a return prescribed by the Secretary of Education. Each
+16 municipality may retain 0.225 of one percent of the total education tax
+17 collected, only upon timely remittance of net payment to the State Treasurer or
+18 to the applicable school district or districts. Each municipality may also retain
+19 $15.00 for each late property tax credit claim filed after April 15 and before
+20 September 2, as notified by the Department of Taxes, for the cost of issuing a
+21 new property tax bill.
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 19 of 50
+1 (d) [Repealed.]
+2 (e) The Commissioner of Taxes shall determine a homestead education tax
+3 rate for each municipality that is a member of a union or unified union school
+4 district as follows:
+5 (1) For a municipality that is a member of a unified union school
+6 district, use the base rate determined under subdivision (a)(2) of this section
+7 and a spending adjustment under subdivision 5401(13) of this title based upon
+8 the per pupil education spending of the unified union.
+9 (2) For a municipality that is a member of a union school district:
+10 (A) Determine the municipal district homestead tax rate using the
+11 base rate determined under subdivision (a)(2) of this section and a spending
+12 adjustment under subdivision 5401(13) of this title based on the per pupil
+13 education spending in the municipality who attends a school other than the
+14 union school.
+15 (B) Determine the union district homestead tax rate using the base
+16 rate determined under subdivision (a)(2) of this section and a spending
+17 adjustment under subdivision 5401(13) of this title based on the per pupil
+18 education spending of the union school district.
+19 (C) Determine a combined homestead tax rate by calculating the
+20 weighted average of the rates determined under subdivisions (A) and (B) of
+21 this subdivision (2), with weighting based upon the ratio of union school long-
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 20 of 50
+1 term membership, as defined in 16 V.S.A. § 4001(7), from the member
+2 municipality to total long-term membership of the member municipality; and
+3 the ratio of long-term membership attending a school other than the union
+4 school to total long-term membership of the member municipality. Total long-
+5 term membership of the member municipality is based on the number of pupils
+6 who are legal residents of the municipality and attending school at public
+7 expense. If necessary, the Commissioner may adopt a rule to clarify and
+8 facilitate implementation of this subsection (e). [Repealed.]
+9 Sec. 9. 32 V.S.A. § 5402b is amended to read:
+10 § 5402b. STATEWIDE EDUCATION TAX YIELDS RATES;
+11 RECOMMENDATION OF THE COMMISSIONER
+12 (a) Annually, not later than December 1, the Commissioner of Taxes, after
+13 consultation with the Secretary of Education, the Secretary of Administration,
+14 and the Joint Fiscal Office, shall calculate and recommend a property dollar
+15 equivalent yield, an income dollar equivalent yield, the education income tax
+16 rates and a nonhomestead property tax rate for the following fiscal year. In
+17 making these calculations, the Commissioner shall assume:
+18 (1) the homestead base tax rate in subdivision 5402(a)(2) of this title is
+19 $1.00 per $100.00 of equalized education property value;
+20 (2) the applicable percentage in subdivision 6066(a)(2) of this title is
+21 2.0;
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 21 of 50
+1 (3) the statutory reserves under 16 V.S.A. § 4026 and this section were
+2 maintained at five percent;
+3 (4)(2) the percentage change in the average education tax bill applied to
+4 nonhomestead property and the percentage change in the average education
+5 income tax bill of homestead property and the percentage change in the
+6 average education tax bill for taxpayers who claim a credit under subsection
+7 6066(a) of this title are equal; and
+8 (5) the equalized education grand list is multiplied by the statewide
+9 adjustment in calculating the property dollar equivalent yield; and
+10 (6)(3) the nonhomestead rate is divided by the statewide adjustment.
+11 (b) For each fiscal year, the property dollar equivalent yield and the income
+12 dollar equivalent yield shall be the same as in the prior fiscal year, unless set
+13 otherwise by the General Assembly. [Repealed.]
+14 * * *
+15 Sec. 10. 32 V.S.A. § 5404 is amended to read:
+16 § 5404. DETERMINATION OF EDUCATION PROPERTY TAX GRAND
+17 LIST
+18 (a)(1) Municipalities shall determine the education property tax grand list
+19 by calculating one percent of the listed value of nonhomestead and homestead
+20 real property as provided in this section. The listed value of all nonhomestead
+21 and homestead real property in a municipality shall be its fair market value, its
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 22 of 50
+1 value established under a stabilization agreement described in section 5404a of
+2 this title, or the use value of property enrolled in a Use Value Program under
+3 chapter 124 of this title.
+4 (2) If a homestead is located on a parcel of greater than two acres, the
+5 entire parcel shall be appraised at fair market value;, the housesite homestead
+6 shall then be appraised as if it were situated on a separate parcel, and the value
+7 of the housesite homestead shall be subtracted from the value of the total
+8 parcel to determine the value of the remainder of the parcel, which shall be
+9 subject to the nonhomestead tax imposed under this chapter. Pursuant to
+10 subdivision 4152(a)(9) of this title, a homestead shall be appraised and listed at
+11 what the full fair market value of the property would be absent the exemption
+12 from nonhomestead tax.
+13 * * *
+14 Sec. 11. 32 V.S.A. § 5405 is amended to read:
+15 § 5405. DETERMINATION OF EQUALIZED EDUCATION PROPERTY
+16 TAX GRAND LIST AND COEFFICIENT OF DISPERSION
+17 * * *
+18 (c) In determining the fair market value of property that is required to be
+19 listed at fair market value, the Commissioner shall take into consideration
+20 those factors required by section 3481 of this title. The Commissioner shall
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 23 of 50
+1 value property as of April 1 preceding the determination and shall take account
+2 of all homestead declaration information available before October 1 each year.
+3 * * *
+4 (g) The Commissioner shall provide to municipalities for the front of
+5 property tax bills the district homestead property tax rate before equalization,
+6 the nonresidential nonhomestead tax rate before equalization, and the
+7 calculation process that creates the equalized homestead and nonhomestead tax
+8 rates rate. The Commissioner shall further provide to municipalities for the
+9 back of property tax bills an explanation of the common level of appraisal,
+10 including its origin and purpose.
+11 Sec. 12. 32 V.S.A. § 5406(c) is amended to read:
+12 (c) If the Director of Property Valuation and Review certifies that a
+13 municipality has completed a townwide reappraisal, the common level of
+14 appraisal for that municipality shall be equal to its new grand list value divided
+15 by its most recent equalized grand list value, for purposes of determining the
+16 nonhomestead education property tax rates rate.
+17 Sec. 13. 32 V.S.A. § 5409 is amended to read:
+18 § 5409. DUTIES OF MUNICIPALITIES AND ADMINISTRATION
+19 The following shall apply with regard to the statewide nonhomestead
+20 education property tax imposed under this chapter:
+21 * * *
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 24 of 50
+1 (2) If by August 1 a municipality has failed to issue notices of
+2 assessment of the statewide nonhomestead education property tax, or if the
+3 municipality fails for more than 90 days after the due date for any installment
+4 payment to enforce the tax in the municipality, then the Commissioner of
+5 Taxes shall either issue notices of assessment or collect the tax, or both, or
+6 bring appropriate court action to require the municipal officials to issue notices
+7 and collect the tax, as the Commissioner deems necessary.
+8 (3) In any case of administration under subdivision (2) of this section by
+9 the Commissioner of Taxes of education property tax:
+10 * * *
+11 (C) The Commissioner may abate in whole or in part the statewide
+12 nonhomestead education taxes property tax of a taxpayer who has been granted
+13 an abatement of municipal taxes under 24 V.S.A. § 1535.
+14 (4) [Repealed.]
+15 (5) In case of insufficient property tax payment by a taxpayer to a
+16 municipality, payments shall be allocated first to municipal property tax and
+17 next to statewide nonhomestead education property tax. In case of insufficient
+18 payment by a taxpayer to the Department of Taxes, payments shall be allocated
+19 first to liabilities other than the nonhomestead education taxes property tax and
+20 next to the nonhomestead education property tax.
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 25 of 50
+1 (6) In case of overpayment by a taxpayer who has an income tax
+2 liability under chapter 151 of this title and a homestead property tax liability, a
+3 refund of the overpayment, after accounting for any benefit amount allowed
+4 under chapter 154 of this title, shall be deemed to be a refund of income tax for
+5 purposes of debt setoff under chapter 151, subchapter 12 of this title.
+6 [Repealed.]
+7 (7) Notwithstanding section 435 of this title, the Commissioner shall
+8 deposit the revenue from taxes the nonhomestead education property tax
+9 imposed under this chapter in the education fund Education Fund.
+10 (8) A municipality’s liability to the State for education taxes the
+11 nonhomestead property tax shall not be reduced by any early payment property
+12 tax discount or similar discount offered by the municipality.
+13 * * * Repeals * * *
+14 Sec. 14. REPEALS; HOMESTEAD PROPERTY TAX AND CREDIT
+15 The following are repealed:
+16 (1) 32 V.S.A. § 3108(b)(4) (interest on overpayments to homestead tax
+17 liabilities);
+18 (2) 32 V.S.A. § 3800(g) (statutory purpose for veterans’ homestead
+19 property exemptions);
+20 (3) 32 V.S.A. § 3802(11) (veterans’ homestead property exemptions);
+21 and
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 26 of 50
+1 (4) 32 V.S.A. § 5410 (property tax credit; homestead declaration).
+2 Sec. 15. 32 V.S.A. § 4111(e) is amended to read:
+3 (e) When the listers return the grand list book to the town clerk, they shall
+4 notify by first-class mail, on which postage has been prepaid and that has been
+5 addressed to their last known address, all affected persons listed as property
+6 owners in the grand list book of any change in the appraised value of such
+7 property or any change in the allocation of value to the homestead as defined
+8 under subdivision 5401(7) of this title or the housesite as defined under
+9 subdivision 6061(11) of this title, and also notify them of the amount of such
+10 change and of the time and place fixed in the public notice hereinafter provided
+11 for, when persons aggrieved may be heard. No notice shall be required for a
+12 change solely to reflect a new use value set by the Current Use Advisory Board
+13 or the adjustment of that value by the common level of appraisal. Notices shall
+14 be mailed at least 14 days before the time fixed for hearing. Such personal
+15 notices shall be given in all towns and cities within the State, anything in the
+16 charter of any city to the contrary notwithstanding. At the same time, the
+17 listers shall post notices in the town clerk’s office and in at least four other
+18 public places in the town or, in the case of a city, in such other manner and
+19 places as the city charter shall provide, setting forth that they have completed
+20 and filed such book as an abstract and the time and place of the meeting for
+21 hearing grievances and making corrections. Unless the personal notices
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 27 of 50
+1 required hereby were sent by registered or certified mail, or unless an official
+2 certificate of mailing of the same was obtained from the post office, in the case
+3 of any controversy subsequently arising, it shall be presumed that the personal
+4 notices were not mailed as required.
+5 Sec. 16. 32 V.S.A § 4152(a) is amended to read:
+6 (a) When completed, the grand list of a town shall be in such form as the
+7 Director prescribes and shall contain such information as the Director
+8 prescribes, including:
+9 * * *
+10 (9) Separate columns A separate column that will show what the listed
+11 valuations full fair market value of homesteads, as defined in subdivision
+12 5401(7) of this title, and housesites as defined under subdivision 6061(11) of
+13 this title would be absent the exemption from nonhomestead property tax.
+14 Sec. 17. 32 V.S.A. § 4261 is amended to read:
+15 § 4261. CORRECTING OMISSION FROM GRAND LIST
+16 When real or personal estate is omitted from the grand list by mistake or an
+17 obvious error is found, the listers, with the approval of the selectboard, on or
+18 before December 31, may supply such omissions or correct such errors and
+19 make a certificate thereon of the fact; provided, however, the listers may make
+20 a correction resulting from the filing or rescission of a homestead declaration
+21 without approval of the selectboard.
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 28 of 50
+1 Sec. 18. 32 V.S.A. § 5400(c) is amended to read:
+2 (c) The statutory purpose of the exemption for qualified housing in
+3 subdivision 5404a(a)(6) of this title is to ensure that taxes on this rent-
+4 restricted housing provided to Vermonters of low and moderate income are
+5 more equivalent to property taxed using the State homestead rate and to adjust
+6 the costs of investment in rent-restricted housing to reflect more accurately the
+7 revenue potential of such property.
+8 * * * Municipal Property Tax Credit * * *
+9 Sec. 19. 32 V.S.A. chapter 154 is redesignated to read:
+10 CHAPTER 154. HOMESTEAD MUNICIPAL PROPERTY TAX CREDIT
+11 AND RENTER CREDIT
+12 Sec. 20. 32 V.S.A. § 6061 is amended to read:
+13 § 6061. DEFINITIONS
+14 As used in this chapter unless the context requires otherwise:
+15 (1) “Property Municipal property tax credit” means a credit of the prior
+16 tax year’s statewide or municipal property tax liability or a homestead owner
+17 credit, as authorized under section 6066 of this title, as the context requires.
+18 * * *
+19 (6) “Property Municipal property tax” means the amount of ad valorem
+20 taxes, exclusive of special assessments, interest, penalties, and charges for
+21 service, assessed by a municipality on real property in this State used as the
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 29 of 50
+1 claimant’s housesite, or that would have been assessed if the homestead had
+2 been properly declared at the time of assessment.
+3 * * *
+4 (11) “Housesite” means that portion of a homestead, as defined under
+5 subdivision 5401(7) of this title but not under subdivision 5401(7)(G) of this
+6 title, that includes as much of the land owned by the claimant surrounding the
+7 dwelling as is reasonably necessary for use of the dwelling as a home, but in
+8 no event more than two acres per dwelling unit, and, in the case of multiple
+9 dwelling units, not more than two acres per dwelling unit up to a maximum of
+10 10 acres per parcel. [Repealed.]
+11 * * *
+12 (13) “Homestead” means a homestead as defined under subdivision
+13 5401(7) of this title, but not under subdivision 5401(7)(G) of this title, and
+14 declared on or before October 15 in accordance with section 5410 6065 of this
+15 title.
+16 (14) “Statewide education tax rate” means the homestead education
+17 property tax rate multiplied by the municipality’s education spending
+18 adjustment under subdivision 5402(a)(2) of this title and used to calculate taxes
+19 assessed in the municipal fiscal year that began in the taxable year.
+20 [Repealed.]
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 30 of 50
+1 (15) “Adjusted property tax” means the amount of education and
+2 municipal property taxes on the homestead parcel after reduction for any
+3 municipal property tax credit under section 6066a of this chapter.
+4 (16) “Unadjusted property tax” means the amount of education and
+5 municipal property taxes on the homestead parcel before any reduction for a
+6 municipal property tax credit under section 6066a of this chapter.
+7 (17) “Equalized value of the housesite in the taxable year” means the
+8 value of the housesite on the grand list for April 1 of the taxable year, divided
+9 by the municipality’s common level of appraisal determined by equalization of
+10 the grand list for April 1 of the year preceding the taxable year. [Repealed.]
+11 * * *
+12 Sec. 21. 32 V.S.A. § 6062 is amended to read:
+13 § 6062. NUMBER AND IDENTITY OF CLAIMANTS; APPORTIONMENT
+14 * * *
+15 (b) Only one municipal property tax credit claimant per household per year
+16 shall be entitled to relief under this chapter.
+17 (c) When a homestead is owned by two or more persons as joint tenants,
+18 tenants by the entirety, or tenants in common and one or more of these persons
+19 are not members of the claimant’s household, the municipal property tax is the
+20 same proportion of the property tax levied on that homestead as the proportion
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 31 of 50
+1 of ownership of the homestead by the claimant and members of the claimant’s
+2 household; provided, however, that:
+3 (1) the municipal property tax of a claimant who is 62 years of age or
+4 older is the same proportion of the municipal property tax levied on that
+5 homestead as the proportion of ownership of the homestead by the claimant,
+6 members of the claimant’s household, and the claimant’s descendants, and the
+7 claimant’s siblings or spouse who have moved on an indefinite basis from the
+8 homestead to a residential care or nursing home and who claim no rebate or
+9 credit for such year under this chapter;
+10 (2) the municipal property tax of a claimant who is a joint tenant or
+11 tenant by the entirety with, and legally separated from, a spouse who is not a
+12 member of the household is the tax on the housesite for which the claimant is
+13 responsible pursuant to a court-approved settlement agreement;
+14 (3) the municipal property tax of a claimant who is a joint tenant with a
+15 former spouse and who has possession of the homestead pursuant to the joint
+16 owners’ final divorce decree is the municipal property tax for which the
+17 claimant is responsible under the joint owners’ final divorce decree or any
+18 modifying orders; and
+19 (4) if the homestead is a portion of a duplex and all owners of the duplex
+20 occupy some portion of the building as their principal residence, the municipal
+21 property tax of the claimant shall be that percentage of the total municipal
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 32 of 50
+1 property tax equal to the ratio of the claimant’s principal residence value to the
+2 total duplex building value.
+3 (d) Whenever a housesite is an integral part of a larger unit such as a farm
+4 or a multi-purpose multipurpose or multi-dwelling multidwelling building,
+5 municipal property taxes paid shall be that percentage of the total municipal
+6 property tax as the value of the housesite is to the total value. Upon a
+7 claimant’s request, the listers shall certify to the claimant the value of his or
+8 her the claimant’s homestead and housesite.
+9 * * *
+10 Sec. 22. 32 V.S.A. § 6063 is amended to read:
+11 § 6063. CLAIM AS PERSONAL; CREDIT AMOUNT AT TIME OF
+12 TRANSFER
+13 (a) The right to file a claim under this chapter is personal to the claimant
+14 and shall not survive his or her the claimant’s death, but the right may be
+15 exercised on behalf of a claimant by his or her the claimant’s legal guardian or
+16 attorney-in-fact. When a claimant dies after having filed a timely claim, the
+17 municipal property tax credit amount shall be credited to the homestead
+18 property tax liability of the claimant’s estate as provided in section 6066a of
+19 this title.
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 33 of 50
+1 (b) In case of sale or transfer of a residence, any municipal property tax
+2 credit amounts related to that residence shall be allocated to the seller at
+3 closing unless the parties otherwise agree.
+4 Sec. 23. 32 V.S.A. § 6064 is amended to read:
+5 § 6064. CLAIM APPLIED AGAINST OUTSTANDING LIABILITIES
+6 The amount of any municipal property tax credit resulting under this
+7 chapter may be applied by the Commissioner, beginning July 1 of the calendar
+8 year in which the claim is filed, against any State tax liability outstanding
+9 against the claimant.
+10 Sec. 24. 32 V.S.A. § 6065 is amended to read:
+11 § 6065. FORMS; TABLES; NOTICES
+12 (a) A homestead owner shall declare ownership of a homestead for
+13 purposes of the municipal property tax credit. The Commissioner shall adopt
+14 rules governing the eligibility requirements for declaring a homestead. In
+15 administering this chapter, the Commissioner shall provide suitable claim
+16 forms with tables of allowable claims, instructions, and worksheets for
+17 claiming a homestead municipal property tax credit.
+18 (b) Prior to June 1, the Commissioner shall also prepare and supply to each
+19 town in the State notices describing the homestead municipal property tax
+20 credit for inclusion in property tax bills. The notice shall be in simple, plain
+21 language and shall explain how to file for a property tax credit, where to find
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 34 of 50
+1 assistance filing for a credit, and any other related information as determined
+2 by the Commissioner. The notice shall direct taxpayers to a resource where
+3 they can find versions of the notice translated into the five most common non-
+4 English languages in the State. A town shall include such notice in each tax
+5 bill and notice of delinquent taxes that it mails to taxpayers who own in that
+6 town a residential property, without regard for whether the property was
+7 declared a homestead pursuant to subdivision 5401(7) of this title.
+8 (c) Notwithstanding the provisions of subsection (b) of this section, towns
+9 that use envelopes or mailers not able to accommodate notices describing the
+10 homestead municipal tax credit may distribute such notices in an alternative
+11 manner.
+12 Sec. 25. 32 V.S.A. § 6066 is amended to read:
+13 § 6066. COMPUTATION OF MUNICIPAL PROPERTY TAX CREDIT
+14 AND RENTER CREDIT
+15 (a) An eligible A claimant whose household income does not exceed
+16 $47,000.00 and who owned the homestead on April 1 of the year in which the
+17 claim is filed shall be entitled to a credit for the prior year’s homestead
+18 municipal property tax liability amount determined as follows: in an amount
+19 for the upcoming fiscal year that is equal to the amount by which the municipal
+20 property taxes for the municipal fiscal year that began in the taxable year upon
+21 the claimant’s housesite exceeds a percentage of the claimant’s household
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 35 of 50
+1 income for the taxable year, provided that in no event shall the credit under this
+2 subsection exceed the amount of the reduced property tax. The amount of the
+3 credit under this subsection shall be determined as follows:
+4 (1)(A) For a claimant with household income of $130,000.00 or more:
+5 (i) the statewide education tax rate, multiplied by the equalized
+6 value of the housesite in the taxable year;
+7 (ii) minus (if less) the sum of:
+8 (I) the income percentage of household income for the taxable
+9 year; plus
+10 (II) the statewide education tax rate, multiplied by the equalized
+11 value of the housesite in the taxable year in excess of $400,000.00.
+12 (B) For a claimant with household income of less than $90,000.00 but
+13 more than $60,000.00, the statewide education tax rate, multiplied by the
+14 equalized value of the housesite in the taxable year, minus (if less) the sum of:
+15 (i) the income percentage of household income for the taxable
+16 year; plus
+17 (ii) the statewide education tax rate, multiplied by the equalized
+18 value of the housesite in the taxable year in excess of $1,000,000.00.
+19 (C) For a claimant whose household income does not exceed
+20 $60,000.00, the statewide education tax rate, multiplied by the equalized value
+21 of the housesite in the taxable year, minus the lesser of:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 36 of 50
+1 (i) the sum of the income percentage of household income for the
+2 taxable year plus the statewide education tax rate, multiplied by the equalized
+3 value of the housesite in the taxable year in excess of $1,000,000.00; or
+4 (ii) the statewide education tax rate, multiplied by the equalized
+5 value of the housesite in the taxable year reduced by $15,000.00.
+6 (2) “Income percentage” in this section means two percent, multiplied by
+7 the education income tax spending adjustment under subdivision 5401(13)(B)
+8 of this title for the property tax year that begins in the claim year for the
+9 municipality in which the homestead residence is located.
+10 (3) A claimant whose household income does not exceed $47,000.00
+11 shall also be entitled to an additional credit amount from the claimant’s
+12 municipal taxes for the upcoming fiscal year that is equal to the amount by
+13 which the municipal property taxes for the municipal fiscal year that began in
+14 the taxable year upon the claimant’s housesite exceeds a percentage of the
+15 claimant’s household income for the taxable year as follows:
+16 If household income (rounded then the taxpayer is entitled to
+17 to the nearest dollar) is: credit for the reduced property tax in
+18 excess of this percent of that income
+19 $0.00 — 9,999.00 1.50
+20 $10,000.00 — 47,000.00 3.00
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 37 of 50
+1 (4) A claimant whose household income does not exceed $60,000.00
+2 shall also be entitled to an additional credit amount from the claimant’s
+3 statewide education tax for the upcoming fiscal year that is equal to the amount
+4 by which the education property tax for the municipal fiscal year that began in
+5 the taxable year upon the claimant’s housesite, reduced by the credit amount
+6 determined under subdivisions (1) and (2) of this subsection, exceeds a
+7 percentage of the claimant’s household income for the taxable year as follows:
+8 If household income (rounded then the taxpayer is entitled to
+9 to the nearest dollar) is: credit for the reduced property tax in
+10 excess of this percent of that income
+11 $0.00 — 9,999.00 0.50
+12 $10,000 — 24,999.00 1.50
+13 $25,000.00 — 46,999.00 2.00
+14 $47,000.00 — 60,000.00 lesser of 2.50
+15 or town rate
+16 (5) In no event shall the credit provided for in subdivision (3) or (4) of
+17 this subsection exceed the amount of the reduced property tax. The credits
+18 under subdivision (4) of this subsection shall be calculated considering only
+19 the tax due on the first $1,000,000.00 in equalized housesite value.
+20 * * *
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 38 of 50
+1 (e) Property taxes paid by a cooperative, not including a mobile home park
+2 cooperative, allocable to property used as a homestead shall be attributable to
+3 the co-op member for the purpose of computing the credit of municipal
+4 property tax liability of the co-op member under this section. Property owned
+5 by a cooperative declared as a homestead may only include the homestead and
+6 a pro rata share of any common land owned or leased by the cooperative, not
+7 to exceed the two-acre housesite limitation. The share of the cooperative’s
+8 assessed value attributable to the housesite shall be determined by the
+9 cooperative and specified annually in a notice to the co-op member. Property
+10 taxes paid by a mobile home park cooperative, allocable to property used as a
+11 housesite, shall be attributed to the owner of the housesite for the purpose of
+12 computing the credit of municipal property tax liability of the housesite owner
+13 under this section. Property owned by the mobile home park cooperative and
+14 declared as a housesite may only include common property of the cooperative
+15 contiguous with at least one mobile home lot in the park, not to exceed the
+16 two-acre housesite limitation. The share attributable to any mobile home lot
+17 shall be determined by the cooperative and specified in the cooperative
+18 agreement.
+19 (f) [Repealed.]
+20 (g) Notwithstanding subsection (d) of this section, if the land surrounding a
+21 homestead is owned by a nonprofit corporation or community land trust with
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 39 of 50
+1 tax exempt status under 26 U.S.C. § 501(c)(3), the homeowner may include an
+2 allocated amount as property tax paid on the land with the amount of property
+3 taxes paid by the homeowner on the home for the purposes of computation of
+4 the credit under this section. The allocated amount shall be determined by the
+5 nonprofit corporation or community land trust on a proportional basis. The
+6 nonprofit corporation or community land trust shall provide to that
+7 homeowner, by January 31, a certificate specifying the allocated amount. The
+8 certificate shall indicate the proportion of total property tax on the parcel that
+9 was assessed for municipal property tax and for statewide property tax.
+10 (h) A homestead owner shall be entitled to an additional property tax credit
+11 amount equal to one percent of the amount of income tax refund that the
+12 claimant elects to allocate to payment of homestead property tax under section
+13 6068 of this title. [Repealed.]
+14 * * *
+15 Sec. 26. 32 V.S.A. § 6066a is amended to read:
+16 § 6066a. DETERMINATION OF MUNICIPAL PROPERTY TAX CREDIT
+17 (a) Annually, the Commissioner shall determine the municipal property tax
+18 credit amount under section 6066 of this title, related to a homestead owned by
+19 the claimant, based on the prior taxable year’s income and crediting municipal
+20 property taxes paid in the prior year. The Commissioner shall notify the
+21 municipality in which the housesite is located of the amount of the property tax
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 40 of 50
+1 credit for the claimant for homestead municipal property tax liabilities on a
+2 monthly basis. The tax credit of a claimant who was assessed property tax by
+3 a town that revised the dates of its fiscal year, however, is the excess of the
+4 municipal property tax that was assessed in the last 12 months of the revised
+5 fiscal year, over the adjusted property tax of the claimant for the revised fiscal
+6 year, as determined under section 6066 of this title, related to a homestead
+7 owned by the claimant.
+8 (b) The Commissioner shall include in the total property tax credit amount
+9 determined under subsection (a) of this section, for credit to the taxpayer for
+10 homestead property tax liabilities, any income tax overpayment remaining
+11 after allocation under section 3112 of this title and setoff under section 5934 of
+12 this title, which the taxpayer has directed to be used for payment of property
+13 taxes. [Repealed.]
+14 (c) The Commissioner shall notify the municipality of any claim and
+15 refund amounts unresolved by November 1 at the time of final resolution,
+16 including adjudication, if any; provided, however, that towns will not be
+17 notified of any additional credit amounts after November 1 of the claim year,
+18 and such amounts shall be paid to the claimant by the Commissioner.
+19 (d) [Repealed.]
+20 (e) At the time of notice to the municipality, the Commissioner shall notify
+21 the taxpayer of the municipal property tax credit amount determined under
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 41 of 50
+1 subdivision subsection 6066(a)(1) of this title, the amount determined under
+2 subdivision 6066(a)(3) of this title, any additional credit amounts due the
+3 homestead owner under section 6066 of this title, the amount of income tax
+4 refund, if any, allocated to payment of homestead property tax liabilities, and
+5 any late-claim reduction amount.
+6 (f)(1) For taxpayers and amounts stated in the notice to towns on or before
+7 July 1, municipalities shall create and send to taxpayers a homestead property
+8 tax bill, instead of the bill required under subdivision 5402(b)(1) of this title,
+9 providing the total amount allocated to payment of homestead education
+10 property tax liabilities and notice of the balance due. Municipalities shall
+11 apply the amount allocated under this chapter to current year property taxes in
+12 equal amounts to each of the taxpayers’ property tax installments that include
+13 education taxes. Notwithstanding section 4772 of this title, if a town issues a
+14 corrected bill as a result of the notice sent by the Commissioner under
+15 subsection (a) of this section, issuance of the corrected new bill does not
+16 extend the time for payment of the original bill nor relieve the taxpayer of any
+17 interest or penalties associated with the original bill. If the corrected bill is less
+18 than the original bill, and there are also no unpaid current year taxes, interest,
+19 or penalties, and no past year delinquent taxes or penalties and interest charges,
+20 any overpayment shall be reflected on the corrected tax bill and refunded to the
+21 taxpayer.
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 42 of 50
+1 (2) For property tax credit amounts for which municipalities receive
+2 notice after November 1, municipalities shall issue a new homestead property
+3 tax bill with notice to the taxpayer of the total amount allocated to payment of
+4 homestead property tax liabilities and notice of the balance due.
+5 (3) The property tax credit amount determined for the taxpayer shall be
+6 allocated first to current year property tax on the homestead parcel, next to
+7 current-year homestead parcel penalties and interest, next to any prior year
+8 homestead parcel penalties and interest, and last to any prior year property tax
+9 on the homestead parcel. No credit shall be allocated to a property tax liability
+10 for any year after the year for which the claim or refund allocation was filed.
+11 No municipal tax-reduction incentive for early payment of taxes shall apply to
+12 any amount allocated to the property tax bill under this chapter.
+13 (4) If the property tax credit amount as described in subsection (e) of
+14 this section exceeds the property tax, penalties, and interest due for the current
+15 and all prior years, the municipality shall refund the excess to the taxpayer,
+16 without interest, within 20 days of the first date upon which taxes become due
+17 and payable or 20 days after notification of the credit amount by the
+18 Commissioner of Taxes, whichever is later. [Repealed.]
+19 (g) The Commissioner of Taxes shall pay monthly to each municipality the
+20 amount of municipal property tax credit of which the municipality was last
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 43 of 50
+1 notified related to municipal property tax on homesteads within that
+2 municipality, as determined by the Commissioner of Taxes.
+3 Sec. 27. 32 V.S.A. § 6067 is amended to read:
+4 § 6067. CREDIT LIMITATIONS
+5 Only one individual per household per taxable year shall be entitled to a
+6 municipal property tax credit under this chapter. An individual who received a
+7 homestead exemption or credit with respect to property taxes assessed by
+8 another state for the taxable year shall not be entitled to receive a credit under
+9 this chapter. No taxpayer shall receive a renter credit under subsection 6066(b)
+10 of this title in excess of $2,500.00. No taxpayer shall receive a municipal
+11 property tax credit under subdivision subsection 6066(a)(3) of this title greater
+12 than $2,400.00 or cumulative credit under subdivisions 6066(a)(1)-(2) and (4)
+13 of this title greater than $5,600.00.
+14 Sec. 28. 32 V.S.A. § 6068 is amended to read:
+15 § 6068. APPLICATION AND TIME FOR FILING
+16 (a) A property tax credit claim or request for allocation of an income tax
+17 refund to homestead property tax payment shall be filed with the
+18 Commissioner on or before the due date for filing the Vermont income tax
+19 return, without extension, and shall describe the school district in which the
+20 homestead property is located and shall particularly describe the homestead
+21 property for which the credit or allocation is sought, including the school
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 44 of 50
+1 parcel account number prescribed in subsection 5404(b) of this title. A renter
+2 credit claim shall be filed with the Commissioner on or before the due date for
+3 filing the Vermont income tax return, without extension.
+4 (b) If the claimant files a claim after October 15 but on or before March 15
+5 of the following calendar year, the municipal property tax credit under this
+6 chapter:
+7 * * *
+8 (c) No request for allocation of an income tax refund or for a renter credit
+9 claim may be made after October 15. No municipal property tax credit claim
+10 may be made after March 15 of the calendar year following the due date under
+11 subsection (a) of this section.
+12 Sec. 29. 32 V.S.A. § 6070 is amended to read:
+13 § 6070. DISALLOWED CLAIMS
+14 A claim shall be disallowed if the claimant received title to his or her the
+15 claimant’s homestead primarily for the purpose of receiving benefits under this
+16 chapter.
+17 * * * Revenue Allocation and Education Payments * * *
+18 Sec. 30. 16 V.S.A. § 4001 is amended to read:
+19 § 4001. DEFINITIONS
+20 As used in this chapter:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 45 of 50
+1 (1) “Average daily membership” of a school district or, if needed in
+2 order to calculate the appropriate homestead education income tax rate, of the
+3 municipality as defined in 32 V.S.A. § 5401(9), in any year means:
+4 * * *
+5 (2) “Equalized grand list” has the same meaning that equalized
+6 education property tax grand list has in 32 V.S.A. chapter 135.
+7 * * *
+8 Sec. 31. 16 V.S.A. § 4025 is amended to read:
+9 § 4025. EDUCATION FUND
+10 (a) The Education Fund is established to comprise the following:
+11 (1) all revenue paid to the State from the statewide education tax on
+12 nonhomestead and homestead property under 32 V.S.A. chapter 135;
+13 * * *
+14 (10) wind-powered electric generating facilities tax deposited pursuant
+15 to 32 V.S.A. § 5402c; and
+16 (11) revenues from the short-term rental surcharge under 32 V.S.A.
+17 § 9301; and
+18 (12) revenues from the education income tax imposed by 32 V.S.A.
+19 chapter 151, subchapter 14.
+20 (b) Monies in the Education Fund shall be used for the following:
+21 * * *
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 46 of 50
+1 (3) To make payments required under 32 V.S.A. § 6066(a)(1) 5964 and
+2 only that portion attributable to education taxes, as determined by the
+3 Commissioner of Taxes, of payments required under 32 V.S.A. § 6066(a)(3).
+4 The State Treasurer shall withdraw funds from the Education Fund upon
+5 warrants issued by the Commissioner of Finance and Management based on
+6 information supplied by the Commissioner of Taxes. The Commissioner of
+7 Finance and Management may draw warrants for disbursements from the Fund
+8 in anticipation of receipts. All balances in the Fund at the end of any fiscal
+9 year shall be carried forward and remain a part of the Fund. Interest accruing
+10 from the Fund shall remain in the Fund.
+11 * * *
+12 Sec. 32. 32 V.S.A. § 435(b) is amended to read:
+13 (b) The General Fund shall be composed of revenues from the following
+14 sources:
+15 * * *
+16 (5) individual income taxes levied pursuant to chapter 151 of this title,
+17 except for the education income tax surcharge imposed by section 5962 of this
+18 title;
+19 * * *
+20 * * * FY26 Income Sensitivity Adjustments * * *
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 47 of 50
+1 Sec. 33. 32 V.S.A. § 6066 is amended to read:
+2 § 6066. COMPUTATION OF PROPERTY TAX CREDIT AND RENTER
+3 CREDIT
+4 (a) An eligible claimant who owned the homestead on April 1 of the year in
+5 which the claim is filed shall be entitled to a credit for the prior year’s
+6 homestead property tax liability amount determined as follows:
+7 (1)(A) For a claimant with household income of $90,000.00
+8 $130,000.00 or more:
+9 (i) the statewide education tax rate, multiplied by the equalized
+10 value of the housesite in the taxable year;
+11 (ii) minus (if less) the sum of:
+12 (I) the income percentage of household income for the taxable
+13 year; plus
+14 (II) the statewide education tax rate, multiplied by the
+15 equalized value of the housesite in the taxable year in excess of $225,000.00
+16 $400,000.00.
+17 (B) For a claimant with household income of less than $90,000.00
+18 but more than $47,000.00 $60,000.00, the statewide education tax rate,
+19 multiplied by the equalized value of the housesite in the taxable year, minus (if
+20 less) the sum of:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 48 of 50
+1 (i) the income percentage of household income for the taxable
+2 year; plus
+3 (ii) the statewide education tax rate, multiplied by the equalized
+4 value of the housesite in the taxable year in excess of $400,000.00
+5 $1,000,000.00.
+6 (C) For a claimant whose household income does not exceed
+7 $47,000.00 $60,000.00, the statewide education tax rate, multiplied by the
+8 equalized value of the housesite in the taxable year, minus the lesser of:
+9 (i) the sum of the income percentage of household income for the
+10 taxable year plus the statewide education tax rate, multiplied by the equalized
+11 value of the housesite in the taxable year in excess of $400,000.00
+12 $1,000,000.00; or
+13 (ii) the statewide education tax rate, multiplied by the equalized
+14 value of the housesite in the taxable year reduced by $15,000.00.
+15 * * *
+16 (3) A claimant whose household income does not exceed $47,000.00
+17 shall also be entitled to an additional credit amount from the claimant’s
+18 municipal taxes for the upcoming fiscal year that is equal to the amount by
+19 which the municipal property taxes for the municipal fiscal year that began in
+20 the taxable year upon the claimant’s housesite exceeds a percentage of the
+21 claimant’s household income for the taxable year as follows:
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 49 of 50
+1 If household income (rounded then the taxpayer is entitled to
+2 to the nearest dollar) is: credit for the reduced property tax in
+3 excess of this percent of that income
+4 $0.00 — 9,999.00 1.50
+5 $10,000.00 — 47,000.00 3.00
+6 (4) A claimant whose household income does not exceed $47,000.00
+7 $60,000.00 shall also be entitled to an additional credit amount from the
+8 claimant’s statewide education tax for the upcoming fiscal year that is equal to
+9 the amount by which the education property tax for the municipal fiscal year
+10 that began in the taxable year upon the claimant’s housesite, reduced by the
+11 credit amount determined under subdivisions (1) and (2) of this subsection,
+12 exceeds a percentage of the claimant’s household income for the taxable year
+13 as follows:
+14 If household income (rounded then the taxpayer is entitled to
+15 to the nearest dollar) is: credit for the reduced property tax in
+16 excess of this percent of that income
+17 $0.00 — 9,999.00 0.50
+18 $10,000 — 24,999.00 1.50
+19 $25,000.00 — 47,000 46,999.00 2.00
+20 $47,000 — 60,000.00 lesser of 2.50
+21 or town rate
+VT LEG #380222 v.5
+BILL AS INTRODUCED H.177
+2025 Page 50 of 50
+1 (5) In no event shall the credit provided for in subdivision (3) or (4) of
+2 this subsection exceed the amount of the reduced property tax. The credits
+3 under subdivision (4) of this subsection shall be calculated considering only
+4 the tax due on the first $400,000.00 $1,000,000.00 in equalized housesite
+5 value.
+6 * * *
+7 * * * Effective Dates * * *
+8 Sec. 34. EFFECTIVE DATES
+9 (a) Sec. 33 (income sensitivity adjustments) shall take effect on July 1,
+10 2025.
+11 (b) All remaining sections shall take effect on July 1, 2026.
+VT LEG #380222 v.5
+[DELETED:  H P H I R R D S e S f T V l p e T p p A I * S]
+[DELETED:  H P S § T e § ( t u i a s (  I T  N 3   g  O $  n t   g  O $  n o   g]
+[DELETED:  H P  O $   o   g (  I T  N 3   g  O $  n t   g  O $  n o   g  O $   o   g ( h  I T  N 3   g]
+[DELETED:  H P  O $  n t   g  O $  n o   g  O $   o   g (  I T  N 3   g  O $  n t   g  O $  n o   g  O $   o]
+[DELETED:  H P   g ( s p ( e s a u ( s t i o ( u J w t a]
+[DELETED:  H P ( s i V s V t t ( a ( “ u § ( a t U ( o]
+[DELETED:  H P e i ( l ( S ( r ( t o c ( V ( ( t s ( d]
+[DELETED:  H P t f ( a p r r t o ( o l a a c o ( t o ( t]
+[DELETED:  H P ( c ( a ( s t ( s o § ( a t r t i ( p a *]
+[DELETED:  H P S § ( w i c a i d w p d T i t ( i b ( o p]
+[DELETED:  H P a r l * ( e g f u D G E S ( t t S ( o p U]
+[DELETED:  H P t e t S I J t S § ( u t i ( ( s a ( * ( p]
+[DELETED:  H P d t m s * S § ( c e f c ( s w r a * S § A]
+[DELETED:  H P * ( ( o a p p a * ( h r t a * ( * ( a *]
+[DELETED:  H P ( g ( e ( s s ( o s i ( * ( e o ( e i * S]
+[DELETED:  H P § ( h ( $ ( e e 5 a r ( f ( t d c i n m p]
+[DELETED:  H P w n c b l l p p ( t c h b a i p s ( e ( m]
+[DELETED:  H P a 5 f m s ( w T s e ( n p n a m c t $ S n]
+[DELETED:  H P ( ( r d ( d a t ( ( b a e u ( r a e ( w t]
+[DELETED:  H P t m t s t w e f S §   ( c a e r m ( $ ( 2]
+[DELETED:  H P ( m ( n i a 6 ( a ( ( d o * S §   ( b r a]
+[DELETED:  H P v t c ( e s o p s s w f * S §   * ( l t]
+[DELETED:  H P v o * ( p t c r b i S ( m a b n S § T e *]
+[DELETED:  H P ( a m p T b a ( t * ( n a ( ( m n p f n]
+[DELETED:  H P ( l r u p [ ( d i ( n t * S T ( l ( p ( a]
+[DELETED:  H P ( S ( n a o p u s c f c o b n c l p p a h]
+[DELETED:  H P r c o n S ( D p * ( v 5 t S § W o b m a w]
+[DELETED:  H P S ( s r m t r * S C A S § A ( t c * ( t s]
+[DELETED:  H P c b * ( s t d n d 1 * ( 5 d t ( p a a []
+[DELETED:  H P ( m m ( m m ( v b t * S § * ( s ( t a s]
+[DELETED:  H P o h ( o h m c h c ( t m r ( f o c m ( o p]
+[DELETED:  H P p t ( o m p c h * S §   ( a e a m p t]
+[DELETED:  H P ( c c S § T c y a S § ( p r a f c ( t c l]
+[DELETED:  H P a b t E b t d ( t h m S §   ( $ c m f p t]
+[DELETED:  H P i s c ( ( v ( ( y ( v ( m e ( y ( v ( $ o]
+[DELETED:  H P ( t v ( v ( t o m ( s m w t c I t  t c   e  $ 1  $ 3]
+[DELETED:  H P ( s s b t d p  I t  t c   e  $ 0  $ 1  $ 2  $ l   o ( t u t *]
+[DELETED:  H P ( c t p b a t a c t h c u d c t s a ( ( h]
+[DELETED:  H P t a t t n n h c w ( a c 6 * S § ( c t p m]
+[DELETED:  H P c m a m f y o ( d h a t t ( r i n a ( ( t]
+[DELETED:  H P s s h r a ( J t p p a e e c s e i t o a t]
+[DELETED:  H P ( n t h ( a c h o f N a ( t a w a C ( a]
+[DELETED:  H P n m S § O m h a t o p t o S § ( r C r h p]
+[DELETED:  H P p c f ( o c * ( c m s S § A c c * S § A]
+[DELETED:  H P ( o m * ( e * S § ( ( n * ( t ( § ( c ( *]
+[DELETED:  H P ( o C T w i F i y f * S ( s * ( e t * *]
+[DELETED:  H P S §   ( w h ( $ ( v ( ( y ( e $ ( b m l]
+[DELETED:  H P ( y ( v $ ( $ e ( t v $ ( v * ( s m w t c]
+[DELETED:  H P I t  t c   e  $ 1  $ 3 ( $ c t t c e a  I t  t c   e  $ 0  $ 1 $ 2  $ l   o]
+[DELETED:  H P ( t u t v * * S ( 2 (]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.177
+2025 Page 1 of 50
+1 H.177
+2 Introduced by Representatives Cordes of Bristol and Kleppner of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Education; State funding of public education; taxation and finance;
+6 education property tax; education income tax; education finance
+7 Statement of purpose of bill as introduced: This bill proposes to transition
+8 from an education property tax to an education income tax in fiscal year 2027.
+9 This bill would create an education tax that is based on the income of all
+10 Vermont residents (both homeowners and renters) with a rate determined by
+11 locally voted budgets. This bill would eliminate the homestead education
+12 property tax and levy the nonhomestead education property tax on all property
+13 except residential dwellings and the two-acre parcel surrounding the dwellings.
+14 This bill would continue to provide the existing renter credit. This bill also
+15 proposes to update the property tax credit income sensitivity measures to
+16 provide relief to a broader class of Vermont taxpayers in fiscal year 2026.
+17 An act relating to income-based education funding
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 * * * Education Income Tax * * *
+20 Sec. 1. 32 V.S.A. chapter 151, subchapter 14 is added to read:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 2 of 50
+1 Subchapter 14. Education Income Tax
+2 § 5961. NAME OF TAX
+3 The tax imposed by this subchapter shall be known as the Vermont
+4 education income tax.
+5 § 5962. EDUCATION INCOME TAX ON INDIVIDUALS
+6 (a) In addition to the personal income tax assessed under section 5822 of
+7 this title, there shall be an education income tax imposed each taxable year
+8 upon the adjusted gross income earned or received in that year by every
+9 individual subject to income taxation under the laws of the United States, in an
+10 amount determined by the following tables and adjusted as required under this
+11 section and section 5963 of this subchapter.
+12 (1) Married individuals filing joint returns and surviving spouses:
+13 If adjusted gross income is: The tax is:
+14 Not over $64,600.00 3.35% of adjusted
+15 gross income
+16 Over $64,600.00 but $2,164.00 plus 6.60% of
+17 not over $156,150.00 the amount of adjusted
+18 gross income over $64,600.00
+19 Over $156,150.00 but $8,206.00 plus 7.60%
+20 not over $237,950.00 of the amount of adjusted
+21 gross income over $156,150.00
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 3 of 50
+1 Over $237,950.00 $14,423.00 plus 8.75%
+2 of the amount of adjusted
+3 gross income over $237,950.00
+4 (2) Heads of household:
+5 If adjusted gross income is: The tax is:
+6 Not over $51,850.00 3.35% of adjusted
+7 gross income
+8 Over $51,850.00 but $1,737.00 plus 6.60% of
+9 not over $133,850.00 the amount of adjusted
+10 gross income over $51,850.00
+11 Over $133,850.00 but $7,149.00 plus 7.60%
+12 not over $216,700.00 of the amount of adjusted
+13 gross income over $133,850.00
+14 Over $216,700.00 $13,446.00 plus 8.75%
+15 of the amount of adjusted
+16 gross income over $216,700.00
+17 (3) Unmarried individuals, other than surviving spouses or heads of
+18 household:
+19 If adjusted gross income is: The tax is:
+20 Not over $38,700.00 3.35% of adjusted
+21 gross income
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 4 of 50
+1 Over $38,700.00 but $1,296.00 plus 6.60% of
+2 not over $93,700.00 the amount of adjusted
+3 gross income over $38,700.00
+4 Over $93,700.00 but $4,926.00 plus 7.60%
+5 not over $195,450.00 of the amount of adjusted
+6 gross income over $93,700.00
+7 Over $195,450.00 $12,659.00 plus 8.75%
+8 of the amount of adjusted
+9 gross income over $195,450.00
+10 (4) Married individuals filing separate returns:
+11 If adjusted gross income is: The tax is:
+12 Not over $32,300.00 3.35% of adjusted
+13 gross income
+14 Over $32,300.00 but $1,082.00 plus 6.60% of
+15 not over $78,075.00 the amount of adjusted
+16 gross income over $32,300.00
+17 Over $78,075.00 but $4,103.00 plus 7.60%
+18 not over $118,975.00 of the amount of adjusted
+19 gross income over $78,075.00
+20 Over $118,975.00 $7,212.00 plus 8.75%
+21 of the amount of adjusted
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 5 of 50
+1 gross income over $118,975.00
+2 (b) The amounts of adjusted gross income shown in the tables in this
+3 section shall be adjusted annually for inflation by the Commissioner of Taxes
+4 pursuant to subdivision 5822(b)(2) of this chapter.
+5 (c)(1) The rates shown in the tables in this section shall be adjusted for
+6 each school district by dividing the school district’s per pupil education
+7 spending, as defined in 16 V.S.A. § 4001(6), by the prior year’s statewide
+8 average per pupil education spending and multiplying the result by the rates
+9 under this section.
+10 (2) The final rate for each school district determined under this
+11 subsection shall apply to the Vermont income, as defined in section 5963 of
+12 this title, of a resident or part-year resident for the entire taxable year. As used
+13 in this subdivision, the “final rate” for each school district means the average
+14 of the district’s rates in effect between January 1 and December 31.
+15 (3) A resident or part-year resident individual shall pay the rate adjusted
+16 under this subsection for the individual’s school district of residence on
+17 January 1 of the taxable year or, in the case of a part-year resident individual
+18 whose residence begins on a day other than January 1, the school district where
+19 the individual resides on the first day of residence in this State. The rate
+20 adjustments under this subsection shall not apply to a nonresident individual.
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 6 of 50
+1 (d) The tax liability determined under subsections (a) through (c) of this
+2 section shall be reduced by a percentage equal to the portion of adjusted gross
+3 income that is not Vermont income; provided, however, that if a taxpayer’s
+4 Vermont income exceeds the taxpayer’s adjusted gross income, no reduction
+5 shall be made and provided further that if a taxpayer has zero or negative
+6 Vermont income and the taxpayer’s Vermont income computed without regard
+7 to the reductions in section 5963 of this subchapter does not equal or exceed
+8 the taxpayer’s adjusted gross income, no tax shall be due under this section.
+9 (e) The education income tax under this subchapter shall be assessed and
+10 administered in the same manner as the personal income tax under this chapter.
+11 (f) As used in this section, “married individuals,” “surviving spouse,”
+12 “head of household,” and “unmarried individual” have the same meaning as
+13 under the Internal Revenue Code.
+14 § 5963. VERMONT INCOME OF INDIVIDUALS
+15 (a) As used in this subchapter, for any taxable year, the Vermont income of
+16 a resident individual is the adjusted gross income of the individual for that
+17 taxable year, less income exempted from State taxation under the laws of the
+18 United States.
+19 (b)(1) As used in this subchapter, for any taxable year, the Vermont income
+20 of a nonresident individual is the sum of the following items of income to the
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 7 of 50
+1 extent they are required to be included in the adjusted gross income of the
+2 individual:
+3 (A) rents and royalties derived from the ownership of property
+4 located within this State;
+5 (B) gains from the sale or exchange of property located within this
+6 State;
+7 (C) wages, salaries, commissions, or other income received with
+8 respect to services performed within this State;
+9 (D) income, other than income exempted from State taxation under
+10 the laws of the United States, derived from every business, trade, occupation,
+11 or profession to the extent that the business, trade, occupation, or profession is
+12 carried on within this State, including any compensation received:
+13 (i) under an agreement not to compete with a business operating in
+14 Vermont;
+15 (ii) for goodwill associated with the sale of a Vermont business; or
+16 (iii) for services to be performed under a contract associated with
+17 the sale of a Vermont business, unless it is shown that the compensation for
+18 services does not constitute income from the sale of the business;
+19 (E) income that was previously deferred under a nonqualified
+20 deferred compensation plan and that would have previously been included in
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 8 of 50
+1 the taxpayer’s Vermont income if it had not been deferred and income derived
+2 from such previously deferred income; and
+3 (F) proceeds from wagering transactions made within the State; or
+4 any Vermont State Lottery, tri-state lottery, or multijurisdictional lottery ticket
+5 paid to a person who purchased the ticket in Vermont, including payments
+6 received from a third party for the transfer of the rights to future proceeds
+7 related to the ticket; and the Commissioner may require withholding of any
+8 taxes due to the State under this subdivision (b)(1) from payments of wagering
+9 or lottery proceeds.
+10 (2) As used in this subchapter, for any taxable year, the Vermont income
+11 of a nonresident individual shall not include any income from the activities
+12 listed in this subdivision or the income of a nonresident through an entity, such
+13 as a partnership, limited liability company, or trust, provided that the entity’s
+14 activities in this State are limited to activities that, without more, would not
+15 constitute nexus, plus any or all of the following activities necessary to create
+16 or maintain a web page or internet site for the nonresident or entity:
+17 (A) ownership of data or programming code in this State, or use of
+18 that data or programming code by a person other than the nonresident or entity
+19 or by a person not in this State;
+20 (B) ownership of, or receipt of services from, computer servers in
+21 this State; and
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 9 of 50
+1 (C) receipt of computer processing or web hosting services from a
+2 computer service provider or web hosting service in this State.
+3 (c) As used in this subchapter, for any taxable year, the Vermont income of
+4 a part-year resident individual or trust is the sum of:
+5 (1) all items of income constituting Vermont income for the purpose of
+6 subsection (a) of this section that are earned or received during the period of
+7 the taxpayer’s residency in this State in the taxable year; and
+8 (2) all items of income constituting Vermont income for the purposes of
+9 subdivision (b)(1) of this section that are earned or received during the period
+10 of the taxpayer’s nonresidency in this State in the taxable year.
+11 § 5964. EDUCATION INCOME TAX; RENTER CREDIT
+12 (a) A resident individual or part-year resident individual shall be entitled to
+13 a nonrefundable credit against the tax imposed by section 5962 of this title for
+14 the taxable year. The total credit per taxable year shall be 21 percent of gross
+15 rent paid by the renter during the taxable year, multiplied by the percentage
+16 that the individual’s income that is earned or received during the period of the
+17 individual’s residency in this State bears to the individual’s total income.
+18 (b) As used in this section, “gross rent” means the rent and related charges
+19 paid by the individual for the right to occupy the individual’s primary dwelling
+20 as the individual’s domicile in this State during the taxable year.
+21 * * * Withholding, Estimated Payments, and Returns * * *
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 10 of 50
+1 Sec. 2. 32 V.S.A. § 5841 is amended to read:
+2 § 5841. REQUIREMENT AND RATE OF WITHHOLDING
+3 (a) Every person who is required under the laws of the United States to
+4 withhold federal income tax from payments that are also subject to Vermont
+5 income tax or education income tax shall deduct and withhold during the
+6 calendar year from the payments made by such person such the amount of tax
+7 as the Commissioner shall prescribe. Every person who makes payments of
+8 income with respect to services performed for such person that were previously
+9 deferred under a nonqualified deferred compensation plan shall deduct and
+10 withhold during the calendar year from the payments made by such person six
+11 percent of any payment (including any withheld tax) of such previously
+12 deferred income and of income derived from such previously deferred income.
+13 The Commissioner may authorize any person to deduct and withhold Vermont
+14 income tax and education income tax from any other payments that are subject
+15 to the tax taxes imposed by this chapter. Notwithstanding the foregoing, banks
+16 (as defined in 8 V.S.A. § 909a(a)) shall not be required to withhold Vermont
+17 income tax or education income tax from payments that are subject to federal
+18 back-up withholding.
+19 (b) The Commissioner shall establish such withholding tables, schedules,
+20 or formulae as will result in the withholding of such amounts from the
+21 payments made by any person during any taxable year, as shall closely
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 11 of 50
+1 approximate the income tax liabilities of the recipients of those payments with
+2 respect to those payments for that year under this chapter, including any
+3 liability for the education income tax under section 5962 of this title.
+4 * * *
+5 (d) The Commissioner shall base the withholding requirements for the
+6 education income tax under section 5962 of this title on the federal adjusted
+7 gross income of recipients from the prior year and the statewide average rates
+8 from the prior year, provided the rate shall be adjusted annually for inflation
+9 using the National Income and Product Accounts (NIPA) Implicit Price
+10 Deflator for State and Local Government Consumption Expenditures and
+11 Gross Investment as reported by the U.S. Department of Commerce, Bureau of
+12 Economic Analysis.
+13 Sec. 3. 32 V.S.A. § 5851(1) is amended to read:
+14 (1) “Tax” means, for any taxpayer and for any taxable year, the income
+15 tax liability of the taxpayer for that taxable year under section 5822 or 5962 of
+16 this title, reduced by any allowable credits against such tax.
+17 Sec. 4. 32 V.S.A. § 5852(a) is amended to read:
+18 (a) Every individual, estate, and trust subject to taxation under section 5822
+19 of this title (other than a person receiving at least two-thirds of his or her the
+20 person’s income from farming or fishing as defined under the laws of the
+21 United States) or section 5962 of this title shall make installment payments of
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 12 of 50
+1 the taxpayer’s estimated tax liability for each taxable year. The amount of
+2 each payment shall be 25 percent of the required annual payment. For any
+3 taxable year, payments shall be made on or before April 15, June 15, and
+4 September 15 of the taxable year and January 15 of the following taxable year.
+5 In applying this section to a taxable year beginning on any date other than
+6 January 1, there shall be substituted, for the months specified in this section,
+7 the months that correspond thereto.
+8 Sec. 5. 32 V.S.A. § 5861 is amended to read:
+9 § 5861. RETURNS BY INDIVIDUALS, TRUSTS, AND ESTATES
+10 (a) Every individual, trust, or estate subject to taxation for any taxable year
+11 under section 5822 or 5962 of this title shall file a Vermont personal income
+12 tax return for that taxable year if that person is required to file a United States
+13 income tax return for that year and:
+14 (1) earned or received more than $100.00 of Vermont income, or;
+15 (2) earned or received more than $1,000.00 in gross income from the
+16 sources listed in subdivisions 5823(b)(1) through (6) or subsections 5962(b)
+17 and (c) of this title, whether or not a resident, in that year,; or
+18 (3) has a tax liability under this chapter for that year.
+19 * * *
+20 (e) The Commissioner may shall require information on a Vermont
+21 personal income tax return that is sufficient to identify the school district, as
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 13 of 50
+1 defined in 16 V.S.A. § 11(a)(10), in which the taxpayer resides and whether
+2 the taxpayer’s residence is a rental dwelling in this State. The Commissioner
+3 may consider a return incomplete if the information required under this
+4 subsection is not provided and shall cause the return to be completed.
+5 * * *
+6 Sec. 6. 32 V.S.A. § 5820 is amended to read:
+7 § 5820. PURPOSE
+8 (a) This chapter is intended to conform the Vermont personal and,
+9 corporate, and education income taxes with the U.S. Internal Revenue Code,
+10 except as otherwise expressly provided, in order to simplify the taxpayer’s
+11 filing of returns, reduce the taxpayer’s accounting burdens, and facilitate the
+12 collection and administration of these taxes.
+13 (b) It is intended that, for any taxable year, individuals, estates, and trusts
+14 shall be taxed upon only their Vermont income for that year, but that the rate at
+15 which the Vermont income of any taxpayer is taxed under this chapter shall
+16 reflect the taxpayer’s ability to pay as measured by his or her the taxpayer’s
+17 adjusted gross income for the taxable year.
+18 * * * Nonhomestead Education Property Tax * * *
+19 Sec. 7. 32 V.S.A. § 5401 is amended to read:
+20 § 5401. DEFINITIONS
+21 As used in this chapter:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 14 of 50
+1 * * *
+2 (7) “Homestead”:
+3 (A) “Homestead” means the principal dwelling and parcel two acres
+4 of land surrounding the dwelling, owned and occupied by a resident individual
+5 as the individual’s domicile or owned and fully leased on April 1, provided the
+6 property is not leased for more than 182 days out of the calendar year or, for
+7 purposes of the renter credit under subsection 6066(b) of this title, is rented
+8 and occupied by a resident individual as the individual’s domicile.
+9 * * *
+10 (G) For purposes of homestead declaration and application of the
+11 homestead property tax rate, “homestead” “Homestead” also means a
+12 residence that was the homestead of the decedent at the date of death and, from
+13 the date of death through the next April 1, is held by the estate of the decedent
+14 and not rented.
+15 * * *
+16 (10) “Nonhomestead property” means all property except:
+17 * * *
+18 (C) Homesteads declared in accordance with section 5410 of this title
+19 as defined in subdivision (7) of this section.
+20 * * *
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 15 of 50
+1 (13)(A) “Education property tax spending adjustment” means the
+2 greater of one or a fraction in which:
+3 (i) the numerator is the district’s per pupil education spending plus
+4 excess spending for the school year, and
+5 (ii) the denominator is the property dollar equivalent yield for the
+6 school year, as defined in subdivision (15) of this section, multiplied by the
+7 statewide adjustment.
+8 (B) “Education income tax spending adjustment” means the greater
+9 of one or a fraction in which the numerator is the district’s per pupil education
+10 spending plus excess spending for the school year, and the denominator is the
+11 income dollar equivalent yield for the school year, as defined in subdivision
+12 (16) of this section. [Repealed.]
+13 * * *
+14 (15) “Property dollar equivalent yield” means the amount of per pupil
+15 education spending that would result in a district having a homestead tax rate
+16 of $1.00 per $100.00 of equalized education property value. [Repealed.]
+17 (16) “Income dollar equivalent yield” means the amount of per pupil
+18 education spending that would result in a district having an income percentage
+19 in subdivision 6066(a)(2) of this title of 2.0 percent. [Repealed.]
+20 * * *
+21 Sec. 8. 32 V.S.A. § 5402 is amended to read:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 16 of 50
+1 § 5402. NONHOMESTEAD EDUCATION PROPERTY TAX LIABILITY
+2 (a) A statewide education tax is imposed on all nonhomestead and
+3 homestead property at the following rates:
+4 (1) The tax rate for nonhomestead property shall be rate of $1.59 per
+5 $100.00 divided by the statewide adjustment.
+6 (2) The tax rate for homestead property shall be $1.00 multiplied by the
+7 education property tax spending adjustment for the municipality per $100.00 of
+8 equalized education property value as most recently determined under section
+9 5405 of this title. The homestead property tax rate for each municipality that is
+10 a member of a union or unified union school district shall be calculated as
+11 required under subsection (e) of this section.
+12 (b) The statewide nonhomestead education tax shall be calculated as
+13 follows:
+14 (1) The Commissioner of Taxes shall determine for each municipality
+15 the nonhomestead education tax rates rate under subsection (a) of this section
+16 divided by the number resulting from dividing the municipality’s most recent
+17 common level of appraisal by the statewide adjustment. The legislative body
+18 in each municipality shall then bill each property taxpayer at the homestead or
+19 nonhomestead rate determined by the Commissioner under this subdivision,
+20 multiplied by the nonhomestead education property tax grand list value of the
+21 property, properly classified as homestead or nonhomestead property and
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 17 of 50
+1 without regard to any other tax classification of the property. Statewide
+2 nonhomestead education property tax bills shall show the tax due and the
+3 calculation of the rate determined under subsection (a) of this section, divided
+4 by the number resulting from dividing the municipality’s most recent common
+5 level of appraisal by the statewide adjustment, multiplied by the current grand
+6 list value of the property to be taxed. Statewide nonhomestead education
+7 property tax bills shall also include language provided by the Commissioner
+8 pursuant to subsection 5405(g) of this title.
+9 (2) Taxes assessed under this section shall be assessed and collected in
+10 the same manner as taxes assessed under chapter 133 of this title with no tax
+11 classification other than as homestead or nonhomestead property; provided,
+12 however, that the tax levied under this chapter shall be billed to each taxpayer
+13 by the municipality in a manner that clearly indicates the tax is separate from
+14 any other tax assessed and collected under chapter 133, including an
+15 itemization of the separate taxes due. The bill may be on a single sheet of
+16 paper with the statewide education tax and other taxes presented separately and
+17 side by side.
+18 (3) If a district has not voted a budget by June 30, an interim homestead
+19 education tax shall be imposed at the base rate determined under subdivision
+20 (a)(2) of this section, divided by the number resulting from dividing the
+21 municipality’s most recent common level of appraisal by the statewide
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 18 of 50
+1 adjustment, but without regard to any spending adjustment under subdivision
+2 5401(13) of this title. Within 30 days after a budget is adopted and the deadline
+3 for reconsideration has passed, the Commissioner shall determine the
+4 municipality’s homestead tax rate as required under subdivision (1) of this
+5 subsection. [Repealed.]
+6 (c)(1) The treasurer of each municipality shall by December 1 of the year in
+7 which the tax is levied and on June 1 of the following year pay to the State
+8 Treasurer for deposit in the Education Fund one-half of the municipality’s
+9 statewide nonhomestead tax and one-half of the municipality’s homestead
+10 education tax, as determined under subdivision (b)(1) of this section.
+11 (2) The Secretary of Education shall determine each municipality’s net
+12 nonhomestead education tax payment and its net homestead education tax
+13 payment to the State based on grand list information received by the Secretary
+14 not later than the March 15 prior to the June 1 net payment. Payment shall be
+15 accompanied by a return prescribed by the Secretary of Education. Each
+16 municipality may retain 0.225 of one percent of the total education tax
+17 collected, only upon timely remittance of net payment to the State Treasurer or
+18 to the applicable school district or districts. Each municipality may also retain
+19 $15.00 for each late property tax credit claim filed after April 15 and before
+20 September 2, as notified by the Department of Taxes, for the cost of issuing a
+21 new property tax bill.
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 19 of 50
+1 (d) [Repealed.]
+2 (e) The Commissioner of Taxes shall determine a homestead education tax
+3 rate for each municipality that is a member of a union or unified union school
+4 district as follows:
+5 (1) For a municipality that is a member of a unified union school
+6 district, use the base rate determined under subdivision (a)(2) of this section
+7 and a spending adjustment under subdivision 5401(13) of this title based upon
+8 the per pupil education spending of the unified union.
+9 (2) For a municipality that is a member of a union school district:
+10 (A) Determine the municipal district homestead tax rate using the
+11 base rate determined under subdivision (a)(2) of this section and a spending
+12 adjustment under subdivision 5401(13) of this title based on the per pupil
+13 education spending in the municipality who attends a school other than the
+14 union school.
+15 (B) Determine the union district homestead tax rate using the base
+16 rate determined under subdivision (a)(2) of this section and a spending
+17 adjustment under subdivision 5401(13) of this title based on the per pupil
+18 education spending of the union school district.
+19 (C) Determine a combined homestead tax rate by calculating the
+20 weighted average of the rates determined under subdivisions (A) and (B) of
+21 this subdivision (2), with weighting based upon the ratio of union school long-
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 20 of 50
+1 term membership, as defined in 16 V.S.A. § 4001(7), from the member
+2 municipality to total long-term membership of the member municipality; and
+3 the ratio of long-term membership attending a school other than the union
+4 school to total long-term membership of the member municipality. Total long-
+5 term membership of the member municipality is based on the number of pupils
+6 who are legal residents of the municipality and attending school at public
+7 expense. If necessary, the Commissioner may adopt a rule to clarify and
+8 facilitate implementation of this subsection (e). [Repealed.]
+9 Sec. 9. 32 V.S.A. § 5402b is amended to read:
+10 § 5402b. STATEWIDE EDUCATION TAX YIELDS RATES;
+11 RECOMMENDATION OF THE COMMISSIONER
+12 (a) Annually, not later than December 1, the Commissioner of Taxes, after
+13 consultation with the Secretary of Education, the Secretary of Administration,
+14 and the Joint Fiscal Office, shall calculate and recommend a property dollar
+15 equivalent yield, an income dollar equivalent yield, the education income tax
+16 rates and a nonhomestead property tax rate for the following fiscal year. In
+17 making these calculations, the Commissioner shall assume:
+18 (1) the homestead base tax rate in subdivision 5402(a)(2) of this title is
+19 $1.00 per $100.00 of equalized education property value;
+20 (2) the applicable percentage in subdivision 6066(a)(2) of this title is
+21 2.0;
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 21 of 50
+1 (3) the statutory reserves under 16 V.S.A. § 4026 and this section were
+2 maintained at five percent;
+3 (4)(2) the percentage change in the average education tax bill applied to
+4 nonhomestead property and the percentage change in the average education
+5 income tax bill of homestead property and the percentage change in the
+6 average education tax bill for taxpayers who claim a credit under subsection
+7 6066(a) of this title are equal; and
+8 (5) the equalized education grand list is multiplied by the statewide
+9 adjustment in calculating the property dollar equivalent yield; and
+10 (6)(3) the nonhomestead rate is divided by the statewide adjustment.
+11 (b) For each fiscal year, the property dollar equivalent yield and the income
+12 dollar equivalent yield shall be the same as in the prior fiscal year, unless set
+13 otherwise by the General Assembly. [Repealed.]
+14 * * *
+15 Sec. 10. 32 V.S.A. § 5404 is amended to read:
+16 § 5404. DETERMINATION OF EDUCATION PROPERTY TAX GRAND
+17 LIST
+18 (a)(1) Municipalities shall determine the education property tax grand list
+19 by calculating one percent of the listed value of nonhomestead and homestead
+20 real property as provided in this section. The listed value of all nonhomestead
+21 and homestead real property in a municipality shall be its fair market value, its
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 22 of 50
+1 value established under a stabilization agreement described in section 5404a of
+2 this title, or the use value of property enrolled in a Use Value Program under
+3 chapter 124 of this title.
+4 (2) If a homestead is located on a parcel of greater than two acres, the
+5 entire parcel shall be appraised at fair market value;, the housesite homestead
+6 shall then be appraised as if it were situated on a separate parcel, and the value
+7 of the housesite homestead shall be subtracted from the value of the total
+8 parcel to determine the value of the remainder of the parcel, which shall be
+9 subject to the nonhomestead tax imposed under this chapter. Pursuant to
+10 subdivision 4152(a)(9) of this title, a homestead shall be appraised and listed at
+11 what the full fair market value of the property would be absent the exemption
+12 from nonhomestead tax.
+13 * * *
+14 Sec. 11. 32 V.S.A. § 5405 is amended to read:
+15 § 5405. DETERMINATION OF EQUALIZED EDUCATION PROPERTY
+16 TAX GRAND LIST AND COEFFICIENT OF DISPERSION
+17 * * *
+18 (c) In determining the fair market value of property that is required to be
+19 listed at fair market value, the Commissioner shall take into consideration
+20 those factors required by section 3481 of this title. The Commissioner shall
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 23 of 50
+1 value property as of April 1 preceding the determination and shall take account
+2 of all homestead declaration information available before October 1 each year.
+3 * * *
+4 (g) The Commissioner shall provide to municipalities for the front of
+5 property tax bills the district homestead property tax rate before equalization,
+6 the nonresidential nonhomestead tax rate before equalization, and the
+7 calculation process that creates the equalized homestead and nonhomestead tax
+8 rates rate. The Commissioner shall further provide to municipalities for the
+9 back of property tax bills an explanation of the common level of appraisal,
+10 including its origin and purpose.
+11 Sec. 12. 32 V.S.A. § 5406(c) is amended to read:
+12 (c) If the Director of Property Valuation and Review certifies that a
+13 municipality has completed a townwide reappraisal, the common level of
+14 appraisal for that municipality shall be equal to its new grand list value divided
+15 by its most recent equalized grand list value, for purposes of determining the
+16 nonhomestead education property tax rates rate.
+17 Sec. 13. 32 V.S.A. § 5409 is amended to read:
+18 § 5409. DUTIES OF MUNICIPALITIES AND ADMINISTRATION
+19 The following shall apply with regard to the statewide nonhomestead
+20 education property tax imposed under this chapter:
+21 * * *
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 24 of 50
+1 (2) If by August 1 a municipality has failed to issue notices of
+2 assessment of the statewide nonhomestead education property tax, or if the
+3 municipality fails for more than 90 days after the due date for any installment
+4 payment to enforce the tax in the municipality, then the Commissioner of
+5 Taxes shall either issue notices of assessment or collect the tax, or both, or
+6 bring appropriate court action to require the municipal officials to issue notices
+7 and collect the tax, as the Commissioner deems necessary.
+8 (3) In any case of administration under subdivision (2) of this section by
+9 the Commissioner of Taxes of education property tax:
+10 * * *
+11 (C) The Commissioner may abate in whole or in part the statewide
+12 nonhomestead education taxes property tax of a taxpayer who has been granted
+13 an abatement of municipal taxes under 24 V.S.A. § 1535.
+14 (4) [Repealed.]
+15 (5) In case of insufficient property tax payment by a taxpayer to a
+16 municipality, payments shall be allocated first to municipal property tax and
+17 next to statewide nonhomestead education property tax. In case of insufficient
+18 payment by a taxpayer to the Department of Taxes, payments shall be allocated
+19 first to liabilities other than the nonhomestead education taxes property tax and
+20 next to the nonhomestead education property tax.
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 25 of 50
+1 (6) In case of overpayment by a taxpayer who has an income tax
+2 liability under chapter 151 of this title and a homestead property tax liability, a
+3 refund of the overpayment, after accounting for any benefit amount allowed
+4 under chapter 154 of this title, shall be deemed to be a refund of income tax for
+5 purposes of debt setoff under chapter 151, subchapter 12 of this title.
+6 [Repealed.]
+7 (7) Notwithstanding section 435 of this title, the Commissioner shall
+8 deposit the revenue from taxes the nonhomestead education property tax
+9 imposed under this chapter in the education fund Education Fund.
+10 (8) A municipality’s liability to the State for education taxes the
+11 nonhomestead property tax shall not be reduced by any early payment property
+12 tax discount or similar discount offered by the municipality.
+13 * * * Repeals * * *
+14 Sec. 14. REPEALS; HOMESTEAD PROPERTY TAX AND CREDIT
+15 The following are repealed:
+16 (1) 32 V.S.A. § 3108(b)(4) (interest on overpayments to homestead tax
+17 liabilities);
+18 (2) 32 V.S.A. § 3800(g) (statutory purpose for veterans’ homestead
+19 property exemptions);
+20 (3) 32 V.S.A. § 3802(11) (veterans’ homestead property exemptions);
+21 and
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 26 of 50
+1 (4) 32 V.S.A. § 5410 (property tax credit; homestead declaration).
+2 Sec. 15. 32 V.S.A. § 4111(e) is amended to read:
+3 (e) When the listers return the grand list book to the town clerk, they shall
+4 notify by first-class mail, on which postage has been prepaid and that has been
+5 addressed to their last known address, all affected persons listed as property
+6 owners in the grand list book of any change in the appraised value of such
+7 property or any change in the allocation of value to the homestead as defined
+8 under subdivision 5401(7) of this title or the housesite as defined under
+9 subdivision 6061(11) of this title, and also notify them of the amount of such
+10 change and of the time and place fixed in the public notice hereinafter provided
+11 for, when persons aggrieved may be heard. No notice shall be required for a
+12 change solely to reflect a new use value set by the Current Use Advisory Board
+13 or the adjustment of that value by the common level of appraisal. Notices shall
+14 be mailed at least 14 days before the time fixed for hearing. Such personal
+15 notices shall be given in all towns and cities within the State, anything in the
+16 charter of any city to the contrary notwithstanding. At the same time, the
+17 listers shall post notices in the town clerk’s office and in at least four other
+18 public places in the town or, in the case of a city, in such other manner and
+19 places as the city charter shall provide, setting forth that they have completed
+20 and filed such book as an abstract and the time and place of the meeting for
+21 hearing grievances and making corrections. Unless the personal notices
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 27 of 50
+1 required hereby were sent by registered or certified mail, or unless an official
+2 certificate of mailing of the same was obtained from the post office, in the case
+3 of any controversy subsequently arising, it shall be presumed that the personal
+4 notices were not mailed as required.
+5 Sec. 16. 32 V.S.A § 4152(a) is amended to read:
+6 (a) When completed, the grand list of a town shall be in such form as the
+7 Director prescribes and shall contain such information as the Director
+8 prescribes, including:
+9 * * *
+10 (9) Separate columns A separate column that will show what the listed
+11 valuations full fair market value of homesteads, as defined in subdivision
+12 5401(7) of this title, and housesites as defined under subdivision 6061(11) of
+13 this title would be absent the exemption from nonhomestead property tax.
+14 Sec. 17. 32 V.S.A. § 4261 is amended to read:
+15 § 4261. CORRECTING OMISSION FROM GRAND LIST
+16 When real or personal estate is omitted from the grand list by mistake or an
+17 obvious error is found, the listers, with the approval of the selectboard, on or
+18 before December 31, may supply such omissions or correct such errors and
+19 make a certificate thereon of the fact; provided, however, the listers may make
+20 a correction resulting from the filing or rescission of a homestead declaration
+21 without approval of the selectboard.
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 28 of 50
+1 Sec. 18. 32 V.S.A. § 5400(c) is amended to read:
+2 (c) The statutory purpose of the exemption for qualified housing in
+3 subdivision 5404a(a)(6) of this title is to ensure that taxes on this rent-
+4 restricted housing provided to Vermonters of low and moderate income are
+5 more equivalent to property taxed using the State homestead rate and to adjust
+6 the costs of investment in rent-restricted housing to reflect more accurately the
+7 revenue potential of such property.
+8 * * * Municipal Property Tax Credit * * *
+9 Sec. 19. 32 V.S.A. chapter 154 is redesignated to read:
+10 CHAPTER 154. HOMESTEAD MUNICIPAL PROPERTY TAX CREDIT
+11 AND RENTER CREDIT
+12 Sec. 20. 32 V.S.A. § 6061 is amended to read:
+13 § 6061. DEFINITIONS
+14 As used in this chapter unless the context requires otherwise:
+15 (1) “Property Municipal property tax credit” means a credit of the prior
+16 tax year’s statewide or municipal property tax liability or a homestead owner
+17 credit, as authorized under section 6066 of this title, as the context requires.
+18 * * *
+19 (6) “Property Municipal property tax” means the amount of ad valorem
+20 taxes, exclusive of special assessments, interest, penalties, and charges for
+21 service, assessed by a municipality on real property in this State used as the
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 29 of 50
+1 claimant’s housesite, or that would have been assessed if the homestead had
+2 been properly declared at the time of assessment.
+3 * * *
+4 (11) “Housesite” means that portion of a homestead, as defined under
+5 subdivision 5401(7) of this title but not under subdivision 5401(7)(G) of this
+6 title, that includes as much of the land owned by the claimant surrounding the
+7 dwelling as is reasonably necessary for use of the dwelling as a home, but in
+8 no event more than two acres per dwelling unit, and, in the case of multiple
+9 dwelling units, not more than two acres per dwelling unit up to a maximum of
+10 10 acres per parcel. [Repealed.]
+11 * * *
+12 (13) “Homestead” means a homestead as defined under subdivision
+13 5401(7) of this title, but not under subdivision 5401(7)(G) of this title, and
+14 declared on or before October 15 in accordance with section 5410 6065 of this
+15 title.
+16 (14) “Statewide education tax rate” means the homestead education
+17 property tax rate multiplied by the municipality’s education spending
+18 adjustment under subdivision 5402(a)(2) of this title and used to calculate taxes
+19 assessed in the municipal fiscal year that began in the taxable year.
+20 [Repealed.]
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 30 of 50
+1 (15) “Adjusted property tax” means the amount of education and
+2 municipal property taxes on the homestead parcel after reduction for any
+3 municipal property tax credit under section 6066a of this chapter.
+4 (16) “Unadjusted property tax” means the amount of education and
+5 municipal property taxes on the homestead parcel before any reduction for a
+6 municipal property tax credit under section 6066a of this chapter.
+7 (17) “Equalized value of the housesite in the taxable year” means the
+8 value of the housesite on the grand list for April 1 of the taxable year, divided
+9 by the municipality’s common level of appraisal determined by equalization of
+10 the grand list for April 1 of the year preceding the taxable year. [Repealed.]
+11 * * *
+12 Sec. 21. 32 V.S.A. § 6062 is amended to read:
+13 § 6062. NUMBER AND IDENTITY OF CLAIMANTS; APPORTIONMENT
+14 * * *
+15 (b) Only one municipal property tax credit claimant per household per year
+16 shall be entitled to relief under this chapter.
+17 (c) When a homestead is owned by two or more persons as joint tenants,
+18 tenants by the entirety, or tenants in common and one or more of these persons
+19 are not members of the claimant’s household, the municipal property tax is the
+20 same proportion of the property tax levied on that homestead as the proportion
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 31 of 50
+1 of ownership of the homestead by the claimant and members of the claimant’s
+2 household; provided, however, that:
+3 (1) the municipal property tax of a claimant who is 62 years of age or
+4 older is the same proportion of the municipal property tax levied on that
+5 homestead as the proportion of ownership of the homestead by the claimant,
+6 members of the claimant’s household, and the claimant’s descendants, and the
+7 claimant’s siblings or spouse who have moved on an indefinite basis from the
+8 homestead to a residential care or nursing home and who claim no rebate or
+9 credit for such year under this chapter;
+10 (2) the municipal property tax of a claimant who is a joint tenant or
+11 tenant by the entirety with, and legally separated from, a spouse who is not a
+12 member of the household is the tax on the housesite for which the claimant is
+13 responsible pursuant to a court-approved settlement agreement;
+14 (3) the municipal property tax of a claimant who is a joint tenant with a
+15 former spouse and who has possession of the homestead pursuant to the joint
+16 owners’ final divorce decree is the municipal property tax for which the
+17 claimant is responsible under the joint owners’ final divorce decree or any
+18 modifying orders; and
+19 (4) if the homestead is a portion of a duplex and all owners of the duplex
+20 occupy some portion of the building as their principal residence, the municipal
+21 property tax of the claimant shall be that percentage of the total municipal
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 32 of 50
+1 property tax equal to the ratio of the claimant’s principal residence value to the
+2 total duplex building value.
+3 (d) Whenever a housesite is an integral part of a larger unit such as a farm
+4 or a multi-purpose multipurpose or multi-dwelling multidwelling building,
+5 municipal property taxes paid shall be that percentage of the total municipal
+6 property tax as the value of the housesite is to the total value. Upon a
+7 claimant’s request, the listers shall certify to the claimant the value of his or
+8 her the claimant’s homestead and housesite.
+9 * * *
+10 Sec. 22. 32 V.S.A. § 6063 is amended to read:
+11 § 6063. CLAIM AS PERSONAL; CREDIT AMOUNT AT TIME OF
+12 TRANSFER
+13 (a) The right to file a claim under this chapter is personal to the claimant
+14 and shall not survive his or her the claimant’s death, but the right may be
+15 exercised on behalf of a claimant by his or her the claimant’s legal guardian or
+16 attorney-in-fact. When a claimant dies after having filed a timely claim, the
+17 municipal property tax credit amount shall be credited to the homestead
+18 property tax liability of the claimant’s estate as provided in section 6066a of
+19 this title.
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 33 of 50
+1 (b) In case of sale or transfer of a residence, any municipal property tax
+2 credit amounts related to that residence shall be allocated to the seller at
+3 closing unless the parties otherwise agree.
+4 Sec. 23. 32 V.S.A. § 6064 is amended to read:
+5 § 6064. CLAIM APPLIED AGAINST OUTSTANDING LIABILITIES
+6 The amount of any municipal property tax credit resulting under this
+7 chapter may be applied by the Commissioner, beginning July 1 of the calendar
+8 year in which the claim is filed, against any State tax liability outstanding
+9 against the claimant.
+10 Sec. 24. 32 V.S.A. § 6065 is amended to read:
+11 § 6065. FORMS; TABLES; NOTICES
+12 (a) A homestead owner shall declare ownership of a homestead for
+13 purposes of the municipal property tax credit. The Commissioner shall adopt
+14 rules governing the eligibility requirements for declaring a homestead. In
+15 administering this chapter, the Commissioner shall provide suitable claim
+16 forms with tables of allowable claims, instructions, and worksheets for
+17 claiming a homestead municipal property tax credit.
+18 (b) Prior to June 1, the Commissioner shall also prepare and supply to each
+19 town in the State notices describing the homestead municipal property tax
+20 credit for inclusion in property tax bills. The notice shall be in simple, plain
+21 language and shall explain how to file for a property tax credit, where to find
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 34 of 50
+1 assistance filing for a credit, and any other related information as determined
+2 by the Commissioner. The notice shall direct taxpayers to a resource where
+3 they can find versions of the notice translated into the five most common non-
+4 English languages in the State. A town shall include such notice in each tax
+5 bill and notice of delinquent taxes that it mails to taxpayers who own in that
+6 town a residential property, without regard for whether the property was
+7 declared a homestead pursuant to subdivision 5401(7) of this title.
+8 (c) Notwithstanding the provisions of subsection (b) of this section, towns
+9 that use envelopes or mailers not able to accommodate notices describing the
+10 homestead municipal tax credit may distribute such notices in an alternative
+11 manner.
+12 Sec. 25. 32 V.S.A. § 6066 is amended to read:
+13 § 6066. COMPUTATION OF MUNICIPAL PROPERTY TAX CREDIT
+14 AND RENTER CREDIT
+15 (a) An eligible A claimant whose household income does not exceed
+16 $47,000.00 and who owned the homestead on April 1 of the year in which the
+17 claim is filed shall be entitled to a credit for the prior year’s homestead
+18 municipal property tax liability amount determined as follows: in an amount
+19 for the upcoming fiscal year that is equal to the amount by which the municipal
+20 property taxes for the municipal fiscal year that began in the taxable year upon
+21 the claimant’s housesite exceeds a percentage of the claimant’s household
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 35 of 50
+1 income for the taxable year, provided that in no event shall the credit under this
+2 subsection exceed the amount of the reduced property tax. The amount of the
+3 credit under this subsection shall be determined as follows:
+4 (1)(A) For a claimant with household income of $130,000.00 or more:
+5 (i) the statewide education tax rate, multiplied by the equalized
+6 value of the housesite in the taxable year;
+7 (ii) minus (if less) the sum of:
+8 (I) the income percentage of household income for the taxable
+9 year; plus
+10 (II) the statewide education tax rate, multiplied by the equalized
+11 value of the housesite in the taxable year in excess of $400,000.00.
+12 (B) For a claimant with household income of less than $90,000.00 but
+13 more than $60,000.00, the statewide education tax rate, multiplied by the
+14 equalized value of the housesite in the taxable year, minus (if less) the sum of:
+15 (i) the income percentage of household income for the taxable
+16 year; plus
+17 (ii) the statewide education tax rate, multiplied by the equalized
+18 value of the housesite in the taxable year in excess of $1,000,000.00.
+19 (C) For a claimant whose household income does not exceed
+20 $60,000.00, the statewide education tax rate, multiplied by the equalized value
+21 of the housesite in the taxable year, minus the lesser of:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 36 of 50
+1 (i) the sum of the income percentage of household income for the
+2 taxable year plus the statewide education tax rate, multiplied by the equalized
+3 value of the housesite in the taxable year in excess of $1,000,000.00; or
+4 (ii) the statewide education tax rate, multiplied by the equalized
+5 value of the housesite in the taxable year reduced by $15,000.00.
+6 (2) “Income percentage” in this section means two percent, multiplied by
+7 the education income tax spending adjustment under subdivision 5401(13)(B)
+8 of this title for the property tax year that begins in the claim year for the
+9 municipality in which the homestead residence is located.
+10 (3) A claimant whose household income does not exceed $47,000.00
+11 shall also be entitled to an additional credit amount from the claimant’s
+12 municipal taxes for the upcoming fiscal year that is equal to the amount by
+13 which the municipal property taxes for the municipal fiscal year that began in
+14 the taxable year upon the claimant’s housesite exceeds a percentage of the
+15 claimant’s household income for the taxable year as follows:
+16 If household income (rounded then the taxpayer is entitled to
+17 to the nearest dollar) is: credit for the reduced property tax in
+18 excess of this percent of that income
+19 $0.00 — 9,999.00 1.50
+20 $10,000.00 — 47,000.00 3.00
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 37 of 50
+1 (4) A claimant whose household income does not exceed $60,000.00
+2 shall also be entitled to an additional credit amount from the claimant’s
+3 statewide education tax for the upcoming fiscal year that is equal to the amount
+4 by which the education property tax for the municipal fiscal year that began in
+5 the taxable year upon the claimant’s housesite, reduced by the credit amount
+6 determined under subdivisions (1) and (2) of this subsection, exceeds a
+7 percentage of the claimant’s household income for the taxable year as follows:
+8 If household income (rounded then the taxpayer is entitled to
+9 to the nearest dollar) is: credit for the reduced property tax in
+10 excess of this percent of that income
+11 $0.00 — 9,999.00 0.50
+12 $10,000 — 24,999.00 1.50
+13 $25,000.00 — 46,999.00 2.00
+14 $47,000.00 — 60,000.00 lesser of 2.50
+15 or town rate
+16 (5) In no event shall the credit provided for in subdivision (3) or (4) of
+17 this subsection exceed the amount of the reduced property tax. The credits
+18 under subdivision (4) of this subsection shall be calculated considering only
+19 the tax due on the first $1,000,000.00 in equalized housesite value.
+20 * * *
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 38 of 50
+1 (e) Property taxes paid by a cooperative, not including a mobile home park
+2 cooperative, allocable to property used as a homestead shall be attributable to
+3 the co-op member for the purpose of computing the credit of municipal
+4 property tax liability of the co-op member under this section. Property owned
+5 by a cooperative declared as a homestead may only include the homestead and
+6 a pro rata share of any common land owned or leased by the cooperative, not
+7 to exceed the two-acre housesite limitation. The share of the cooperative’s
+8 assessed value attributable to the housesite shall be determined by the
+9 cooperative and specified annually in a notice to the co-op member. Property
+10 taxes paid by a mobile home park cooperative, allocable to property used as a
+11 housesite, shall be attributed to the owner of the housesite for the purpose of
+12 computing the credit of municipal property tax liability of the housesite owner
+13 under this section. Property owned by the mobile home park cooperative and
+14 declared as a housesite may only include common property of the cooperative
+15 contiguous with at least one mobile home lot in the park, not to exceed the
+16 two-acre housesite limitation. The share attributable to any mobile home lot
+17 shall be determined by the cooperative and specified in the cooperative
+18 agreement.
+19 (f) [Repealed.]
+20 (g) Notwithstanding subsection (d) of this section, if the land surrounding a
+21 homestead is owned by a nonprofit corporation or community land trust with
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 39 of 50
+1 tax exempt status under 26 U.S.C. § 501(c)(3), the homeowner may include an
+2 allocated amount as property tax paid on the land with the amount of property
+3 taxes paid by the homeowner on the home for the purposes of computation of
+4 the credit under this section. The allocated amount shall be determined by the
+5 nonprofit corporation or community land trust on a proportional basis. The
+6 nonprofit corporation or community land trust shall provide to that
+7 homeowner, by January 31, a certificate specifying the allocated amount. The
+8 certificate shall indicate the proportion of total property tax on the parcel that
+9 was assessed for municipal property tax and for statewide property tax.
+10 (h) A homestead owner shall be entitled to an additional property tax credit
+11 amount equal to one percent of the amount of income tax refund that the
+12 claimant elects to allocate to payment of homestead property tax under section
+13 6068 of this title. [Repealed.]
+14 * * *
+15 Sec. 26. 32 V.S.A. § 6066a is amended to read:
+16 § 6066a. DETERMINATION OF MUNICIPAL PROPERTY TAX CREDIT
+17 (a) Annually, the Commissioner shall determine the municipal property tax
+18 credit amount under section 6066 of this title, related to a homestead owned by
+19 the claimant, based on the prior taxable year’s income and crediting municipal
+20 property taxes paid in the prior year. The Commissioner shall notify the
+21 municipality in which the housesite is located of the amount of the property tax
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 40 of 50
+1 credit for the claimant for homestead municipal property tax liabilities on a
+2 monthly basis. The tax credit of a claimant who was assessed property tax by
+3 a town that revised the dates of its fiscal year, however, is the excess of the
+4 municipal property tax that was assessed in the last 12 months of the revised
+5 fiscal year, over the adjusted property tax of the claimant for the revised fiscal
+6 year, as determined under section 6066 of this title, related to a homestead
+7 owned by the claimant.
+8 (b) The Commissioner shall include in the total property tax credit amount
+9 determined under subsection (a) of this section, for credit to the taxpayer for
+10 homestead property tax liabilities, any income tax overpayment remaining
+11 after allocation under section 3112 of this title and setoff under section 5934 of
+12 this title, which the taxpayer has directed to be used for payment of property
+13 taxes. [Repealed.]
+14 (c) The Commissioner shall notify the municipality of any claim and
+15 refund amounts unresolved by November 1 at the time of final resolution,
+16 including adjudication, if any; provided, however, that towns will not be
+17 notified of any additional credit amounts after November 1 of the claim year,
+18 and such amounts shall be paid to the claimant by the Commissioner.
+19 (d) [Repealed.]
+20 (e) At the time of notice to the municipality, the Commissioner shall notify
+21 the taxpayer of the municipal property tax credit amount determined under
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 41 of 50
+1 subdivision subsection 6066(a)(1) of this title, the amount determined under
+2 subdivision 6066(a)(3) of this title, any additional credit amounts due the
+3 homestead owner under section 6066 of this title, the amount of income tax
+4 refund, if any, allocated to payment of homestead property tax liabilities, and
+5 any late-claim reduction amount.
+6 (f)(1) For taxpayers and amounts stated in the notice to towns on or before
+7 July 1, municipalities shall create and send to taxpayers a homestead property
+8 tax bill, instead of the bill required under subdivision 5402(b)(1) of this title,
+9 providing the total amount allocated to payment of homestead education
+10 property tax liabilities and notice of the balance due. Municipalities shall
+11 apply the amount allocated under this chapter to current year property taxes in
+12 equal amounts to each of the taxpayers’ property tax installments that include
+13 education taxes. Notwithstanding section 4772 of this title, if a town issues a
+14 corrected bill as a result of the notice sent by the Commissioner under
+15 subsection (a) of this section, issuance of the corrected new bill does not
+16 extend the time for payment of the original bill nor relieve the taxpayer of any
+17 interest or penalties associated with the original bill. If the corrected bill is less
+18 than the original bill, and there are also no unpaid current year taxes, interest,
+19 or penalties, and no past year delinquent taxes or penalties and interest charges,
+20 any overpayment shall be reflected on the corrected tax bill and refunded to the
+21 taxpayer.
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 42 of 50
+1 (2) For property tax credit amounts for which municipalities receive
+2 notice after November 1, municipalities shall issue a new homestead property
+3 tax bill with notice to the taxpayer of the total amount allocated to payment of
+4 homestead property tax liabilities and notice of the balance due.
+5 (3) The property tax credit amount determined for the taxpayer shall be
+6 allocated first to current year property tax on the homestead parcel, next to
+7 current-year homestead parcel penalties and interest, next to any prior year
+8 homestead parcel penalties and interest, and last to any prior year property tax
+9 on the homestead parcel. No credit shall be allocated to a property tax liability
+10 for any year after the year for which the claim or refund allocation was filed.
+11 No municipal tax-reduction incentive for early payment of taxes shall apply to
+12 any amount allocated to the property tax bill under this chapter.
+13 (4) If the property tax credit amount as described in subsection (e) of
+14 this section exceeds the property tax, penalties, and interest due for the current
+15 and all prior years, the municipality shall refund the excess to the taxpayer,
+16 without interest, within 20 days of the first date upon which taxes become due
+17 and payable or 20 days after notification of the credit amount by the
+18 Commissioner of Taxes, whichever is later. [Repealed.]
+19 (g) The Commissioner of Taxes shall pay monthly to each municipality the
+20 amount of municipal property tax credit of which the municipality was last
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 43 of 50
+1 notified related to municipal property tax on homesteads within that
+2 municipality, as determined by the Commissioner of Taxes.
+3 Sec. 27. 32 V.S.A. § 6067 is amended to read:
+4 § 6067. CREDIT LIMITATIONS
+5 Only one individual per household per taxable year shall be entitled to a
+6 municipal property tax credit under this chapter. An individual who received a
+7 homestead exemption or credit with respect to property taxes assessed by
+8 another state for the taxable year shall not be entitled to receive a credit under
+9 this chapter. No taxpayer shall receive a renter credit under subsection 6066(b)
+10 of this title in excess of $2,500.00. No taxpayer shall receive a municipal
+11 property tax credit under subdivision subsection 6066(a)(3) of this title greater
+12 than $2,400.00 or cumulative credit under subdivisions 6066(a)(1)-(2) and (4)
+13 of this title greater than $5,600.00.
+14 Sec. 28. 32 V.S.A. § 6068 is amended to read:
+15 § 6068. APPLICATION AND TIME FOR FILING
+16 (a) A property tax credit claim or request for allocation of an income tax
+17 refund to homestead property tax payment shall be filed with the
+18 Commissioner on or before the due date for filing the Vermont income tax
+19 return, without extension, and shall describe the school district in which the
+20 homestead property is located and shall particularly describe the homestead
+21 property for which the credit or allocation is sought, including the school
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 44 of 50
+1 parcel account number prescribed in subsection 5404(b) of this title. A renter
+2 credit claim shall be filed with the Commissioner on or before the due date for
+3 filing the Vermont income tax return, without extension.
+4 (b) If the claimant files a claim after October 15 but on or before March 15
+5 of the following calendar year, the municipal property tax credit under this
+6 chapter:
+7 * * *
+8 (c) No request for allocation of an income tax refund or for a renter credit
+9 claim may be made after October 15. No municipal property tax credit claim
+10 may be made after March 15 of the calendar year following the due date under
+11 subsection (a) of this section.
+12 Sec. 29. 32 V.S.A. § 6070 is amended to read:
+13 § 6070. DISALLOWED CLAIMS
+14 A claim shall be disallowed if the claimant received title to his or her the
+15 claimant’s homestead primarily for the purpose of receiving benefits under this
+16 chapter.
+17 * * * Revenue Allocation and Education Payments * * *
+18 Sec. 30. 16 V.S.A. § 4001 is amended to read:
+19 § 4001. DEFINITIONS
+20 As used in this chapter:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 45 of 50
+1 (1) “Average daily membership” of a school district or, if needed in
+2 order to calculate the appropriate homestead education income tax rate, of the
+3 municipality as defined in 32 V.S.A. § 5401(9), in any year means:
+4 * * *
+5 (2) “Equalized grand list” has the same meaning that equalized
+6 education property tax grand list has in 32 V.S.A. chapter 135.
+7 * * *
+8 Sec. 31. 16 V.S.A. § 4025 is amended to read:
+9 § 4025. EDUCATION FUND
+10 (a) The Education Fund is established to comprise the following:
+11 (1) all revenue paid to the State from the statewide education tax on
+12 nonhomestead and homestead property under 32 V.S.A. chapter 135;
+13 * * *
+14 (10) wind-powered electric generating facilities tax deposited pursuant
+15 to 32 V.S.A. § 5402c; and
+16 (11) revenues from the short-term rental surcharge under 32 V.S.A.
+17 § 9301; and
+18 (12) revenues from the education income tax imposed by 32 V.S.A.
+19 chapter 151, subchapter 14.
+20 (b) Monies in the Education Fund shall be used for the following:
+21 * * *
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 46 of 50
+1 (3) To make payments required under 32 V.S.A. § 6066(a)(1) 5964 and
+2 only that portion attributable to education taxes, as determined by the
+3 Commissioner of Taxes, of payments required under 32 V.S.A. § 6066(a)(3).
+4 The State Treasurer shall withdraw funds from the Education Fund upon
+5 warrants issued by the Commissioner of Finance and Management based on
+6 information supplied by the Commissioner of Taxes. The Commissioner of
+7 Finance and Management may draw warrants for disbursements from the Fund
+8 in anticipation of receipts. All balances in the Fund at the end of any fiscal
+9 year shall be carried forward and remain a part of the Fund. Interest accruing
+10 from the Fund shall remain in the Fund.
+11 * * *
+12 Sec. 32. 32 V.S.A. § 435(b) is amended to read:
+13 (b) The General Fund shall be composed of revenues from the following
+14 sources:
+15 * * *
+16 (5) individual income taxes levied pursuant to chapter 151 of this title,
+17 except for the education income tax surcharge imposed by section 5962 of this
+18 title;
+19 * * *
+20 * * * FY26 Income Sensitivity Adjustments * * *
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 47 of 50
+1 Sec. 33. 32 V.S.A. § 6066 is amended to read:
+2 § 6066. COMPUTATION OF PROPERTY TAX CREDIT AND RENTER
+3 CREDIT
+4 (a) An eligible claimant who owned the homestead on April 1 of the year in
+5 which the claim is filed shall be entitled to a credit for the prior year’s
+6 homestead property tax liability amount determined as follows:
+7 (1)(A) For a claimant with household income of $90,000.00
+8 $130,000.00 or more:
+9 (i) the statewide education tax rate, multiplied by the equalized
+10 value of the housesite in the taxable year;
+11 (ii) minus (if less) the sum of:
+12 (I) the income percentage of household income for the taxable
+13 year; plus
+14 (II) the statewide education tax rate, multiplied by the
+15 equalized value of the housesite in the taxable year in excess of $225,000.00
+16 $400,000.00.
+17 (B) For a claimant with household income of less than $90,000.00
+18 but more than $47,000.00 $60,000.00, the statewide education tax rate,
+19 multiplied by the equalized value of the housesite in the taxable year, minus (if
+20 less) the sum of:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 48 of 50
+1 (i) the income percentage of household income for the taxable
+2 year; plus
+3 (ii) the statewide education tax rate, multiplied by the equalized
+4 value of the housesite in the taxable year in excess of $400,000.00
+5 $1,000,000.00.
+6 (C) For a claimant whose household income does not exceed
+7 $47,000.00 $60,000.00, the statewide education tax rate, multiplied by the
+8 equalized value of the housesite in the taxable year, minus the lesser of:
+9 (i) the sum of the income percentage of household income for the
+10 taxable year plus the statewide education tax rate, multiplied by the equalized
+11 value of the housesite in the taxable year in excess of $400,000.00
+12 $1,000,000.00; or
+13 (ii) the statewide education tax rate, multiplied by the equalized
+14 value of the housesite in the taxable year reduced by $15,000.00.
+15 * * *
+16 (3) A claimant whose household income does not exceed $47,000.00
+17 shall also be entitled to an additional credit amount from the claimant’s
+18 municipal taxes for the upcoming fiscal year that is equal to the amount by
+19 which the municipal property taxes for the municipal fiscal year that began in
+20 the taxable year upon the claimant’s housesite exceeds a percentage of the
+21 claimant’s household income for the taxable year as follows:
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 49 of 50
+1 If household income (rounded then the taxpayer is entitled to
+2 to the nearest dollar) is: credit for the reduced property tax in
+3 excess of this percent of that income
+4 $0.00 — 9,999.00 1.50
+5 $10,000.00 — 47,000.00 3.00
+6 (4) A claimant whose household income does not exceed $47,000.00
+7 $60,000.00 shall also be entitled to an additional credit amount from the
+8 claimant’s statewide education tax for the upcoming fiscal year that is equal to
+9 the amount by which the education property tax for the municipal fiscal year
+10 that began in the taxable year upon the claimant’s housesite, reduced by the
+11 credit amount determined under subdivisions (1) and (2) of this subsection,
+12 exceeds a percentage of the claimant’s household income for the taxable year
+13 as follows:
+14 If household income (rounded then the taxpayer is entitled to
+15 to the nearest dollar) is: credit for the reduced property tax in
+16 excess of this percent of that income
+17 $0.00 — 9,999.00 0.50
+18 $10,000 — 24,999.00 1.50
+19 $25,000.00 — 47,000 46,999.00 2.00
+20 $47,000 — 60,000.00 lesser of 2.50
+21 or town rate
+VT LEG #380222 v.5
+
+BILL AS INTRODUCED H.177
+2025 Page 50 of 50
+1 (5) In no event shall the credit provided for in subdivision (3) or (4) of
+2 this subsection exceed the amount of the reduced property tax. The credits
+3 under subdivision (4) of this subsection shall be calculated considering only
+4 the tax due on the first $400,000.00 $1,000,000.00 in equalized housesite
+5 value.
+6 * * *
+7 * * * Effective Dates * * *
+8 Sec. 34. EFFECTIVE DATES
+9 (a) Sec. 33 (income sensitivity adjustments) shall take effect on July 1,
+10 2025.
+11 (b) All remaining sections shall take effect on July 1, 2026.
+VT LEG #380222 v.5
+
+[DELETED:  H P H I R R D S e S f T V l p e T p p A I * S]
+[DELETED:  H P S § T e § ( t u i a s (  I T  N 3   g  O $  n t   g  O $  n o   g]
+[DELETED:  H P  O $   o   g (  I T  N 3   g  O $  n t   g  O $  n o   g  O $   o   g ( h  I T  N 3   g]
+[DELETED:  H P  O $  n t   g  O $  n o   g  O $   o   g (  I T  N 3   g  O $  n t   g  O $  n o   g  O $   o]
+[DELETED:  H P   g ( s p ( e s a u ( s t i o ( u J w t a]
+[DELETED:  H P ( s i V s V t t ( a ( “ u § ( a t U ( o]
+[DELETED:  H P e i ( l ( S ( r ( t o c ( V ( ( t s ( d]
+[DELETED:  H P t f ( a p r r t o ( o l a a c o ( t o ( t]
+[DELETED:  H P ( c ( a ( s t ( s o § ( a t r t i ( p a *]
+[DELETED:  H P S § ( w i c a i d w p d T i t ( i b ( o p]
+[DELETED:  H P a r l * ( e g f u D G E S ( t t S ( o p U]
+[DELETED:  H P t e t S I J t S § ( u t i ( ( s a ( * ( p]
+[DELETED:  H P d t m s * S § ( c e f c ( s w r a * S § A]
+[DELETED:  H P * ( ( o a p p a * ( h r t a * ( * ( a *]
+[DELETED:  H P ( g ( e ( s s ( o s i ( * ( e o ( e i * S]
+[DELETED:  H P § ( h ( $ ( e e 5 a r ( f ( t d c i n m p]
+[DELETED:  H P w n c b l l p p ( t c h b a i p s ( e ( m]
+[DELETED:  H P a 5 f m s ( w T s e ( n p n a m c t $ S n]
+[DELETED:  H P ( ( r d ( d a t ( ( b a e u ( r a e ( w t]
+[DELETED:  H P t m t s t w e f S §   ( c a e r m ( $ ( 2]
+[DELETED:  H P ( m ( n i a 6 ( a ( ( d o * S §   ( b r a]
+[DELETED:  H P v t c ( e s o p s s w f * S §   * ( l t]
+[DELETED:  H P v o * ( p t c r b i S ( m a b n S § T e *]
+[DELETED:  H P ( a m p T b a ( t * ( n a ( ( m n p f n]
+[DELETED:  H P ( l r u p [ ( d i ( n t * S T ( l ( p ( a]
+[DELETED:  H P ( S ( n a o p u s c f c o b n c l p p a h]
+[DELETED:  H P r c o n S ( D p * ( v 5 t S § W o b m a w]
+[DELETED:  H P S ( s r m t r * S C A S § A ( t c * ( t s]
+[DELETED:  H P c b * ( s t d n d 1 * ( 5 d t ( p a a []
+[DELETED:  H P ( m m ( m m ( v b t * S § * ( s ( t a s]
+[DELETED:  H P o h ( o h m c h c ( t m r ( f o c m ( o p]
+[DELETED:  H P p t ( o m p c h * S §   ( a e a m p t]
+[DELETED:  H P ( c c S § T c y a S § ( p r a f c ( t c l]
+[DELETED:  H P a b t E b t d ( t h m S §   ( $ c m f p t]
+[DELETED:  H P i s c ( ( v ( ( y ( v ( m e ( y ( v ( $ o]
+[DELETED:  H P ( t v ( v ( t o m ( s m w t c I t  t c   e  $ 1  $ 3]
+[DELETED:  H P ( s s b t d p  I t  t c   e  $ 0  $ 1  $ 2  $ l   o ( t u t *]
+[DELETED:  H P ( c t p b a t a c t h c u d c t s a ( ( h]
+[DELETED:  H P t a t t n n h c w ( a c 6 * S § ( c t p m]
+[DELETED:  H P c m a m f y o ( d h a t t ( r i n a ( ( t]
+[DELETED:  H P s s h r a ( J t p p a e e c s e i t o a t]
+[DELETED:  H P ( n t h ( a c h o f N a ( t a w a C ( a]
+[DELETED:  H P n m S § O m h a t o p t o S § ( r C r h p]
+[DELETED:  H P p c f ( o c * ( c m s S § A c c * S § A]
+[DELETED:  H P ( o m * ( e * S § ( ( n * ( t ( § ( c ( *]
+[DELETED:  H P ( o C T w i F i y f * S ( s * ( e t * *]
+[DELETED:  H P S §   ( w h ( $ ( v ( ( y ( e $ ( b m l]
+[DELETED:  H P ( y ( v $ ( $ e ( t v $ ( v * ( s m w t c]
+[DELETED:  H P I t  t c   e  $ 1  $ 3 ( $ c t t c e a  I t  t c   e  $ 0  $ 1 $ 2  $ l   o]
+[DELETED:  H P ( t u t v * * S ( 2 (]

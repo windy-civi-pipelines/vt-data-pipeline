@@ -1,0 +1,1143 @@
+Title: BILL AS INTRODUCED S.69
+Official Title: BILL AS INTRODUCED S.69
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 23
+1 S.69
+2 Introduced by Senators Harrison, Bongartz, Brennan, Clarkson, Collamore,
+3 Cummings, Hashim, Lyons, Major, Perchlik, Plunkett, Watson,
+4 Weeks, Westman and White
+5 Referred to Committee on
+6 Date:
+7 Subject: Commerce and trade; protection of personal information; privacy of
+8 minors
+9 Statement of purpose of bill as introduced: This bill proposes to require that
+10 any covered business that develops and provides online services, products, or
+11 features that children are reasonably likely to access must not use abusive or
+12 privacy-invasive design features on children.
+13 An act relating to an age-appropriate design code
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. chapter 62, subchapter 6 is added to read:
+16 Subchapter 6. Vermont Age-Appropriate Design Code Act
+17 § 2449a. DEFINITIONS
+18 As used in this subchapter:
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 2 of 23
+1 (1)(A) “Affiliate” means a legal entity that shares common branding
+2 with another legal entity or controls, is controlled by, or is under common
+3 control with another legal entity.
+4 (B) As used in subdivision (A) of this subdivision (1), “control” or
+5 “controlled” means:
+6 (i) ownership of, or the power to vote, more than 50 percent of the
+7 outstanding shares of any class of voting security of a company;
+8 (ii) control in any manner over the election of a majority of the
+9 directors or of individuals exercising similar functions; or
+10 (iii) the power to exercise controlling influence over the
+11 management of a company.
+12 (2) “Age assurance” encompasses a range of methods used to determine,
+13 estimate, or communicate the age or an age range of an online user.
+14 (3) “Algorithmic recommendation system” means a system that uses an
+15 algorithm to select, filter, and arrange media on a covered business’s website
+16 for the purpose of selecting, recommending, or prioritizing media for a user.
+17 (4)(A) “Biometric data” means data generated from the technological
+18 processing of an individual’s unique biological, physical, or physiological
+19 characteristics that allow or confirm the unique identification of the consumer,
+20 including:
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 3 of 23
+1 (i) iris or retina scans;
+2 (ii) fingerprints;
+3 (iii) facial or hand mapping, geometry, or templates;
+4 (iv) vein patterns;
+5 (v) voice prints or vocal biomarkers; and
+6 (vi) gait or personally identifying physical movement or patterns.
+7 (B) “Biometric data” does not include:
+8 (i) a digital or physical photograph;
+9 (ii) an audio or video recording; or
+10 (iii) any data generated from a digital or physical photograph, or
+11 an audio or video recording, unless such data is generated to identify a specific
+12 individual.
+13 (5) “Business associate” has the same meaning as in HIPAA.
+14 (6) “Collect” means buying, renting, gathering, obtaining, receiving, or
+15 accessing any personal data by any means. This includes receiving data from
+16 the consumer, either actively or passively, or by observing the consumer’s
+17 behavior.
+18 (7) “Compulsive use” means the repetitive use of a covered business’s
+19 service that materially disrupts one or more major life activities of a minor,
+20 including sleeping, eating, learning, reading, concentrating, communicating, or
+21 working.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 4 of 23
+1 (8)(A) “Consumer” means an individual who is a resident of the State.
+2 (B) “Consumer” does not include an individual acting in a
+3 commercial or employment context or as an employee, owner, director, officer,
+4 or contractor of a company, partnership, sole proprietorship, nonprofit, or
+5 government agency whose communications or transactions with the covered
+6 business occur solely within the context of that individual’s role with the
+7 company, partnership, sole proprietorship, nonprofit, or government agency.
+8 (9) “Consumer health data” means any personal data that a controller
+9 uses to identify a consumer’s physical or mental health condition or diagnosis,
+10 including gender-affirming health data and reproductive or sexual health data.
+11 (10) “Controller” means a person who, alone or jointly with others,
+12 determines the purpose and means of processing personal data.
+13 (11) “Covered business” means a sole proprietorship, partnership,
+14 limited liability company, corporation, association, other legal entity, or an
+15 affiliate thereof, that conducts business in this State and whose online products,
+16 services, or features are reasonably likely to be accessed by a minor and that:
+17 (A) collects consumers’ personal data or has consumers’ personal
+18 data collected on its behalf by a processor; and
+19 (B) alone or jointly with others determines the purposes and means of
+20 the processing of consumers personal data.
+21 (12) “Covered entity” has the same meaning as in HIPAA.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 5 of 23
+1 (13) “Covered minor” is a consumer who a covered business actually
+2 knows is a minor or labels as a minor pursuant to age assurance methods in
+3 rules adopted by the Attorney General.
+4 (14) “Default” means a preselected option adopted by the covered
+5 business for the online service, product, or feature.
+6 (15) “De-identified data” means data that does not identify and cannot
+7 reasonably be used to infer information about, or otherwise be linked to, an
+8 identified or identifiable individual, or a device linked to the individual, if the
+9 covered business that possesses the data:
+10 (A)(i) takes reasonable measures to ensure that the data cannot be
+11 used to reidentify an identified or identifiable individual or be associated with
+12 an individual or device that identifies or is linked or reasonably linkable to an
+13 individual or household; and
+14 (ii) for purposes of this subdivision (A), “reasonable measures”
+15 includes the de-identification requirements set forth under 45 C.F.R. § 164.514
+16 (other requirements relating to uses and disclosures of protected health
+17 information);
+18 (B) publicly commits to process the data only in a de-identified
+19 fashion and not attempt to reidentify the data; and
+20 (C) contractually obligates any recipients of the data to comply with
+21 all provisions of this subchapter.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 6 of 23
+1 (16) “Derived data” means data that is created by the derivation of
+2 information, data, assumptions, correlations, inferences, predictions, or
+3 conclusions from facts, evidence, or another source of information or data
+4 about a minor or a minor’s device.
+5 (17) “Genetic data” means any data, regardless of its format, that results
+6 from the analysis of a biological sample of an individual, or from another
+7 source enabling equivalent information to be obtained, and concerns genetic
+8 material, including deoxyribonucleic acids (DNA), ribonucleic acids (RNA),
+9 genes, chromosomes, alleles, genomes, alterations or modifications to DNA or
+10 RNA, single nucleotide polymorphisms (SNPs), epigenetic markers,
+11 uninterpreted data that results from analysis of the biological sample or other
+12 source, and any information extrapolated, derived, or inferred therefrom.
+13 (18) “Identified or identifiable individual” means an individual who can
+14 be readily identified, directly or indirectly, including by reference to an
+15 identifier such as a name, an identification number, specific geolocation data,
+16 or an online identifier.
+17 (19) “Known adult” is a consumer who a covered business actually
+18 knows is an adult or labels as an adult pursuant to age assurance methods in
+19 rules adopted by the Attorney General.
+20 (20) “Minor” means an individual under 18 years of age who is a
+21 resident of the State.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 7 of 23
+1 (21) “Neural data” means information that is collected through
+2 biosensors and that could be processed to infer or predict mental states.
+3 (22) “Online service, product, or feature” means a digital product that is
+4 accessible to the public via the internet, including a website or application, and
+5 does not mean any of the following:
+6 (A) telecommunications service, as defined in 47 U.S.C. § 153;
+7 (B) a broadband internet access service as defined in 47 C.F.R.
+8 § 54.400; or
+9 (C) the sale, delivery, or use of a physical product.
+10 (23)(A) “Personal data” means any information, including derived data
+11 and unique identifiers, that is linked or reasonably linkable to an identified or
+12 identifiable individual or to a device that identifies, is linked to, or is
+13 reasonably linkable to one or more identified or identifiable individuals in a
+14 household.
+15 (B) Personal data does not include de-identified data or publicly
+16 available information.
+17 (24)(A) “Precise geolocation data” means information derived from
+18 technology that reveals the past or present physical location of a consumer or
+19 device that identifies or is linked or reasonably linkable to one or more
+20 consumers with precision and accuracy within a radius of 1,850 feet.
+21 (B) “Precise geolocation data” does not include:
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 8 of 23
+1 (i) the content of communications;
+2 (ii) data generated by or connected to an advanced utility metering
+3 infrastructure system;
+4 (iii) a photograph, or metadata associated with a photograph or
+5 video, that cannot be linked to an individual; or
+6 (iv) data generated by equipment used by a utility company.
+7 (25) “Process” or “processing” means any operation or set of operations
+8 performed, whether by manual or automated means, on personal data or on sets
+9 of personal data, such as the collection, use, storage, disclosure, analysis,
+10 deletion, modification, or otherwise handling of personal data.
+11 (26) “Processor” means a person who processes personal data on behalf
+12 of a covered business.
+13 (27) “Profiling” means any form of automated processing performed on
+14 personal data to evaluate, analyze, or predict personal aspects related to an
+15 identified or identifiable individual’s economic situation, health, personal
+16 preferences, interests, reliability, behavior, location, or movements.
+17 (28)(A) “Publicly available information” means information that:
+18 (i) is made available through federal, state, or local government
+19 records; or
+20 (ii) a controller has a reasonable basis to believe that the consumer
+21 has lawfully made available to the general public.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 9 of 23
+1 (B) “Publicly available information” does not include:
+2 (i) biometric data collected by a business about a consumer
+3 without the consumer’s knowledge;
+4 (ii) information that is collated and combined to create a consumer
+5 profile that is made available to a user of a publicly available website either in
+6 exchange for payment or free of charge;
+7 (iii) information that is made available for sale;
+8 (iv) an inference that is generated from the information described
+9 in subdivision (ii) or (iii) of this subdivision (28)(B);
+10 (v) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+11 (vi) any inference made exclusively from multiple independent
+12 sources of publicly available information that reveals sensitive data with
+13 respect to a consumer;
+14 (vii) personal data that is created through the combination of
+15 personal data with publicly available information;
+16 (viii) genetic data, unless otherwise made publicly available by the
+17 consumer to whom the information pertains;
+18 (ix) information provided by a consumer on a website or online
+19 service made available to all members of the public, for free or for a fee, where
+20 the consumer has maintained a reasonable expectation of privacy in the
+21 information, such as by restricting the information to a specific audience; or
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 10 of 23
+1 (x) intimate images, authentic or computer-generated, known to be
+2 nonconsensual.
+3 (29) “Reasonably likely to be accessed” means an online service,
+4 product, or feature that is reasonably likely to be accessed by a covered minor
+5 based on any of the following indicators:
+6 (A) the online service, product, or feature is directed to children, as
+7 defined by the Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501–
+8 6506 and the Federal Trade Commission rules implementing that Act;
+9 (B) the online service, product, or feature is determined, based on
+10 competent and reliable evidence regarding audience composition, to be
+11 routinely accessed by an audience that is composed of at least two percent
+12 minors two through 17 years of age;
+13 (C) the online service, product, or feature contains advertisements
+14 marketed to minors;
+15 (D) the audience of the online service, product, or feature is
+16 determined, based on internal company research, to be composed of at least
+17 two percent minors two through 17 years of age; or
+18 (E) the covered business knew or should have known that at least two
+19 percent of the audience of the online service, product, or feature includes
+20 minors two through 17 years of age, provided that, in making this assessment,
+21 the business shall not collect or process any personal data that is not reasonably
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 11 of 23
+1 necessary to provide an online service, product, or feature with which a minor
+2 is actively and knowingly engaged.
+3 (30) “Sensitive data” means personal data that:
+4 (A) reveals a consumer’s government-issued identifier, such as a
+5 Social Security number, passport number, state identification card, or driver’s
+6 license number, that is not required by law to be publicly displayed;
+7 (B) reveals a consumer’s racial or ethnic origin; national origin;
+8 citizenship or immigration status; religious or philosophical beliefs; a mental
+9 or physical health condition, diagnosis, disability, or treatment; status as
+10 pregnant; income level or indebtedness; or union membership;
+11 (C) reveals a consumer’s sexual orientation, sex life, sexuality, or
+12 status as transgender or non-binary;
+13 (D) reveals a consumer’s status as a victim of a crime;
+14 (E) is a consumer’s tax return and account number, financial account
+15 log-in, financial account, debit card number, or credit card number in
+16 combination with any required security or access code, password, or
+17 credentials allowing access to an account;
+18 (F) is consumer health data;
+19 (G) is collected and analyzed concerning consumer health data that
+20 describes or reveals a past, present, or future mental or physical health
+21 condition, treatment, disability, or diagnosis, including pregnancy, to the extent
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 12 of 23
+1 the personal data is used by the controller for a purpose other than to identify a
+2 specific consumer’s physical or mental health condition or diagnosis;
+3 (H) is biometric or genetic data;
+4 (I) is collected from a covered minor;
+5 (J) is precise geolocation data;
+6 (K) are keystrokes;
+7 (L) is driving behavior; or
+8 (M) is neural data.
+9 (31)(A) “Social media platform” means a public or semipublic internet-
+10 based service or application that is primarily intended to connect and allow a
+11 user to socially interact within such service or application and enables a user
+12 to:
+13 (i) construct a public or semipublic profile for the purposes of
+14 signing into and using such service or application;
+15 (ii) populate a public list of other users with whom the user shares
+16 a social connection within such service or application; or
+17 (iii) create or post content that is viewable by other users,
+18 including content on message boards and in chat rooms, and that presents the
+19 user with content generated by other users.
+20 (B) “Social media platform” does not mean a public or semipublic
+21 internet-based service or application that:
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 13 of 23
+1 (i) exclusively provides email or direct messaging services;
+2 (ii) primarily consists of news, sports, entertainment, interactive
+3 video games, electronic commerce, or content that is preselected by the
+4 provider for which any interactive functionality is incidental to, directly related
+5 to, or dependent on the provision of such content; or
+6 (iii) is used by and under the direction of an educational entity,
+7 including a learning management system or a student engagement program.
+8 (32) “Third party” means a natural or legal person, public authority,
+9 agency, or body other than the covered minor or the covered business.
+10 § 2449b. EXCLUSIONS
+11 This subchapter does not apply to:
+12 (1) a federal, state, tribal, or local government entity in the ordinary
+13 course of its operation;
+14 (2) protected health information that a covered entity or business
+15 associate processes in accordance with, or documents that a covered entity or
+16 business associate creates for the purpose of complying with, HIPAA;
+17 (3) information used only for public health activities and purposes
+18 described in 45 C.F.R. § 164.512;
+19 (4) information that identifies a consumer in connection with:
+20 (A) activities that are subject to the Federal Policy for the Protection
+21 of Human Subjects as set forth in 45 C.F.R. Part 46;
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 14 of 23
+1 (B) research on human subjects undertaken in accordance with good
+2 clinical practice guidelines issued by the International Council for
+3 Harmonisation of Technical Requirements for Pharmaceuticals for Human
+4 Use;
+5 (C) activities that are subject to the protections provided in 21 C.F.R.
+6 Part 50 and 21 C.F.R. Part 56; or
+7 (D) research conducted in accordance with the requirements set forth
+8 in subdivisions (A)–(C) of this subdivision (4) or otherwise in accordance with
+9 State or federal law; and
+10 (5) an entity whose primary purpose is journalism as defined in
+11 12 V.S.A. § 1615(a)(2) and that has a majority of its workforce consisting of
+12 individuals engaging in journalism.
+13 § 2449c. MINIMUM DUTY OF CARE
+14 (a) A covered business that processes a covered minor’s data in any
+15 capacity owes a minimum duty of care to the covered minor.
+16 (b) As used in this subchapter, “a minimum duty of care” means the use of
+17 the personal data of a covered minor and the design of an online service,
+18 product, or feature will not result in:
+19 (1) reasonably foreseeable emotional distress as defined in 13 V.S.A.
+20 § 1061(2) to a covered minor;
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 15 of 23
+1 (2) reasonably foreseeable compulsive use of the online service,
+2 product, or feature by a covered minor; or
+3 (3) discrimination against a covered minor based upon race, ethnicity,
+4 sex, disability, sexual orientation, gender identity, gender expression, or
+5 national origin.
+6 (c) The content of the media viewed by a covered minor shall not establish
+7 emotional distress or compulsive use as those terms are used in subsection (b)
+8 of this section.
+9 (d) Nothing in this section shall be construed to require a covered business
+10 to prevent or preclude a covered minor from accessing or viewing any piece of
+11 media or category of media.
+12 § 2449d. REQUIRED DEFAULT PRIVACY SETTINGS AND TOOLS
+13 (a) Default privacy settings.
+14 (1) A covered business shall configure all default privacy settings
+15 provided to a covered minor through the online service, product, or feature to
+16 the highest level of privacy, including the following default settings:
+17 (A) not displaying the existence of the covered minor’s social media
+18 account to any known adult user unless the covered minor has expressly and
+19 unambiguously allowed a specific known adult user to view their account or
+20 has expressly and unambiguously chosen to make their account’s existence
+21 public;
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 16 of 23
+1 (B) not displaying media created or posted by the covered minor on
+2 a social media platform to any known adult user unless the covered minor has
+3 expressly and unambiguously allowed a specific known adult user to view their
+4 media or has expressly and unambiguously chosen to make their media
+5 publicly available;
+6 (C) not permitting any known adult users to like, comment on, or
+7 otherwise provide feedback on the covered minor’s media on a social media
+8 platform unless the covered minor has expressly and unambiguously allowed a
+9 specific known adult user to do so;
+10 (D) not permitting direct messaging on a social media platform
+11 between the covered minor and any known adult user unless the covered minor
+12 has expressly and unambiguously decided to allow direct messaging with a
+13 specific known adult user;
+14 (E) not displaying the covered minor’s location to other users, unless
+15 the covered minor expressly and unambiguously shares their location with a
+16 specific user;
+17 (F) not displaying the users connected to the covered minor on a
+18 social media platform unless the covered minor expressly and unambiguously
+19 chooses to share the information with a specific user;
+20 (G) disabling search engine indexing of the covered minor’s account
+21 profile; and
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 17 of 23
+1 (H) not sending push notifications to the covered minors.
+2 (2) A covered business shall not:
+3 (A) provide a covered minor with a single setting that makes all of
+4 the default privacy settings less protective at once; or
+5 (B) request or prompt a covered minor to make their privacy settings
+6 less protective, unless the change is strictly necessary for the covered minor to
+7 access a service or feature they have expressly and unambiguously requested.
+8 (b) Timely deletion of account. A covered business shall:
+9 (1) provide a prominent, accessible, and responsive tool to allow a
+10 covered minor to request the covered minor’s social media account be
+11 unpublished or deleted; and
+12 (2) honor that request not later than 15 days after a covered business
+13 receives the request.
+14 § 2449e. TRANSPARENCY
+15 (a) A covered business shall prominently and clearly provide on their
+16 website or mobile application:
+17 (1) the covered business’ privacy information, terms of service, policies,
+18 and community standards;
+19 (2) detailed descriptions of each algorithmic recommendation system in
+20 use by the covered business, including the factors used by the algorithmic
+21 recommendation system and how each factor:
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 18 of 23
+1 (A) is measured or determined;
+2 (B) uses the personal data of covered minors;
+3 (C) influences the recommendation issued by the system; and
+4 (D) is weighed relative to the other factors listed in this subdivision
+5 (2); and
+6 (3) descriptions, for every feature of the service that uses the personal
+7 data of covered minors, of:
+8 (A) the purpose of the service feature;
+9 (B) the personal data collected by the service feature;
+10 (C) the personal data used by the service feature;
+11 (D) how the personal data is used by the service feature;
+12 (E) any personal data transferred to or shared with a processor or
+13 third party by the service feature, the identity of the processor or third party,
+14 and the purpose of the transfer or sharing; and
+15 (F) how long the personal data is retained.
+16 § 2449f. PROHIBITED DATA AND DESIGN PRACTICES
+17 (a) Data privacy. A covered business shall not:
+18 (1) collect, sell, share, or retain any personal data of a covered minor
+19 that is not necessary to provide an online service, product, or feature with
+20 which the covered minor is actively and knowingly engaged;
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 19 of 23
+1 (2) use previously collected personal data of a covered minor for any
+2 purpose other than a purpose for which the personal data was collected, unless
+3 necessary to comply with any obligation under this chapter;
+4 (3) permit any consumer, including a parent or guardian of a covered
+5 minor, to monitor the online activity of a covered minor or to track the location
+6 of the covered minor without providing a conspicuous signal to the covered
+7 minor when the covered minor is being monitored or tracked;
+8 (4) use the personal data of a covered minor to select, recommend, or
+9 prioritize media for the covered minor, unless the personal data is:
+10 (A) the covered minor’s express and unambiguous request to receive:
+11 (i) media from a specific account, feed, or user, or to receive more
+12 or less media from that account, feed, or user;
+13 (ii) a specific category of media, such as “cat videos” or “breaking
+14 news,” or to see more or less of that category of media; or
+15 (iii) more or less media with similar characteristics as the media
+16 they are currently viewing;
+17 (B) user-selected privacy or accessibility settings; or
+18 (C) a search query, provided the search query is only used to select
+19 and prioritize media in response to the search; or
+20 (5) send push notifications to a covered minor between 12:00 midnight
+21 and 6:00 a.m.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 20 of 23
+1 (b) Rulemaking. The Attorney General shall have the authority to adopt
+2 rules pursuant to this subchapter that prohibits data processing or design
+3 practices of a covered business that, in the opinion of the Attorney General,
+4 lead to compulsive use or subvert or impair user autonomy, decision making,
+5 or choice during the use of an online service, product, or feature of the covered
+6 business. The Attorney General shall, at least once every two years, review
+7 and update these rules as necessary to keep pace with emerging technology.
+8 § 2449g. AGE ASSURANCE PRIVACY
+9 (a) Privacy protections for age assurance data. Covered businesses and
+10 processors shall:
+11 (1) only collect personal data of a user that is strictly necessary for age
+12 assurance;
+13 (2) immediately upon determining whether a user is a covered minor,
+14 delete any personal data collected of that user for age assurance, except
+15 whether the user is or is not determined to be a covered minor;
+16 (3) not use any personal data of a user collected for age assurance for
+17 any other purpose;
+18 (4) not combine personal data of a user collected for age assurance with
+19 any other personal data of the user, except whether the user is or is not
+20 determined to be a covered minor; and
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 21 of 23
+1 (5) implement a review process to allow users to appeal their age
+2 designation.
+3 (b) Rulemaking.
+4 (1) Subject to subdivision (2) of this subsection, the Attorney General
+5 shall, on or before July 1, 2027, adopt rules identifying commercially
+6 reasonable and technically feasible methods for covered businesses and
+7 processors to determine if a user is a covered minor, describing appropriate
+8 review processes for users appealing their age designations, and providing any
+9 additional privacy protections for age assurance data. The Attorney General
+10 shall periodically review and update these rules as necessary to keep pace with
+11 emerging technology.
+12 (2) In adopting these rules, the Attorney General shall:
+13 (A) prioritize user privacy and accessibility over the accuracy of age
+14 assurance methods; and
+15 (B) consider:
+16 (i) the size, financial resources, and technical capabilities of
+17 covered businesses and processors;
+18 (ii) the costs and effectiveness of available age assurance methods;
+19 (iii) the impact of age assurance methods on users’ safety, utility,
+20 and experience;
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 22 of 23
+1 (iv) whether and to what extent transparency measures would
+2 increase consumer trust in an age assurance method; and
+3 (v) the efficacy of requiring covered businesses and processors to:
+4 (I) use previously collected data to determine user age;
+5 (II) adopt interoperable age assurance methods; and
+6 (III) provide users with multiple options for age assurance.
+7 § 2449h. ENFORCEMENT
+8 (a) A covered business or processor that violates this subchapter or rules
+9 adopted pursuant to this subchapter commits an unfair and deceptive act in
+10 commerce in violation of section 2453 of this title.
+11 (b) The Attorney General shall have the same authority under this
+12 subchapter to make rules, conduct civil investigations, bring civil actions,
+13 and enter into assurances of discontinuance as provided under chapter 63 of
+14 this title.
+15 § 2449i. LIMITATIONS
+16 Nothing in this subchapter shall be interpreted or construed to:
+17 (1) impose liability in a manner that is inconsistent with 47 U.S.C.
+18 § 230; or
+19 (2) prevent or preclude any covered minor from deliberately or
+20 independently searching for, or specifically requesting, any media.
+VT LEG #380778 v.1
+BILL AS INTRODUCED S.69
+2025 Page 23 of 23
+1 § 2449j. RIGHTS AND FREEDOMS OF COVERED MINORS
+2 It is the intent of the General Assembly that nothing in this subchapter may
+3 be construed to infringe on the existing rights and freedoms of covered minors
+4 or be construed to discriminate against the covered minors based on race,
+5 ethnicity, sex, disability, sexual orientation, gender identity, gender expression,
+6 or national origin.
+7 Sec. 2. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #380778 v.1
+[DELETED:  S P S I S C W R D S m S a f p A I S S § A]
+[DELETED:  S P ( w c ( “ ( o ( d ( m ( e ( a f ( p c i]
+[DELETED:  S P ( ( ( ( ( ( ( ( ( ( a i ( ( a t b ( s i w]
+[DELETED:  S P ( ( c o g b c ( u i ( d ( l a s ( d ( t (]
+[DELETED:  S P ( k r ( b ( r i c ( u a i ( i ( i ( f ( a]
+[DELETED:  S P ( i c a ( f s m g R u s ( b i o ( k r ( r]
+[DELETED:  S P ( b ( a d ( ( § ( ( a i r h ( a ( t d c (]
+[DELETED:  S P ( ( i ( v ( ( p o d ( o ( p i p ( ( r ( h]
+[DELETED:  S P ( ( w ( p e ( ( i ( ( s r ( p ( c ( s t i]
+[DELETED:  S P ( n ( p b ( d 6 ( c r m ( m ( d t ( p m t]
+[DELETED:  S P n i ( ( S l ( c o p ( s ( ( l c c ( ( d c]
+[DELETED:  S P t s ( ( ( ( ( ( ( b u t ( s ( a ( i u ( i]
+[DELETED:  S P ( ( v p t ( i ( a § T ( c ( a b ( d ( ( o]
+[DELETED:  S P ( c H U ( P ( i S ( 1 i § ( c ( t p ( §]
+[DELETED:  S P ( p ( s n ( e o ( t m § ( ( p t ( a u h p]
+[DELETED:  S P ( a e m p ( o p s ( b h s ( t s ( s c ( p]
+[DELETED:  S P ( ( ( t ( l a ( ( c u ( r § ( w ( a ( u r]
+[DELETED:  S P ( ( ( ( ( ( d ( ( ( ( ( t a ( § ( ( t w]
+[DELETED:  S P ( p n ( m o m ( p ( ( o ( n ( t ( ( a ( a]
+[DELETED:  S P ( r p l o b a § ( p ( a ( d w ( a ( a d]
+[DELETED:  S P ( d ( ( s r p r a s e ( ( a ( ( c ( ( a]
+[DELETED:  S P ( i ( ( ( ( § ( a c ( s a t § N ( § ( i]
+[DELETED:  S P § I b o e o S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.69
+2025 Page 1 of 23
+1 S.69
+2 Introduced by Senators Harrison, Bongartz, Brennan, Clarkson, Collamore,
+3 Cummings, Hashim, Lyons, Major, Perchlik, Plunkett, Watson,
+4 Weeks, Westman and White
+5 Referred to Committee on
+6 Date:
+7 Subject: Commerce and trade; protection of personal information; privacy of
+8 minors
+9 Statement of purpose of bill as introduced: This bill proposes to require that
+10 any covered business that develops and provides online services, products, or
+11 features that children are reasonably likely to access must not use abusive or
+12 privacy-invasive design features on children.
+13 An act relating to an age-appropriate design code
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. chapter 62, subchapter 6 is added to read:
+16 Subchapter 6. Vermont Age-Appropriate Design Code Act
+17 § 2449a. DEFINITIONS
+18 As used in this subchapter:
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 2 of 23
+1 (1)(A) “Affiliate” means a legal entity that shares common branding
+2 with another legal entity or controls, is controlled by, or is under common
+3 control with another legal entity.
+4 (B) As used in subdivision (A) of this subdivision (1), “control” or
+5 “controlled” means:
+6 (i) ownership of, or the power to vote, more than 50 percent of the
+7 outstanding shares of any class of voting security of a company;
+8 (ii) control in any manner over the election of a majority of the
+9 directors or of individuals exercising similar functions; or
+10 (iii) the power to exercise controlling influence over the
+11 management of a company.
+12 (2) “Age assurance” encompasses a range of methods used to determine,
+13 estimate, or communicate the age or an age range of an online user.
+14 (3) “Algorithmic recommendation system” means a system that uses an
+15 algorithm to select, filter, and arrange media on a covered business’s website
+16 for the purpose of selecting, recommending, or prioritizing media for a user.
+17 (4)(A) “Biometric data” means data generated from the technological
+18 processing of an individual’s unique biological, physical, or physiological
+19 characteristics that allow or confirm the unique identification of the consumer,
+20 including:
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 3 of 23
+1 (i) iris or retina scans;
+2 (ii) fingerprints;
+3 (iii) facial or hand mapping, geometry, or templates;
+4 (iv) vein patterns;
+5 (v) voice prints or vocal biomarkers; and
+6 (vi) gait or personally identifying physical movement or patterns.
+7 (B) “Biometric data” does not include:
+8 (i) a digital or physical photograph;
+9 (ii) an audio or video recording; or
+10 (iii) any data generated from a digital or physical photograph, or
+11 an audio or video recording, unless such data is generated to identify a specific
+12 individual.
+13 (5) “Business associate” has the same meaning as in HIPAA.
+14 (6) “Collect” means buying, renting, gathering, obtaining, receiving, or
+15 accessing any personal data by any means. This includes receiving data from
+16 the consumer, either actively or passively, or by observing the consumer’s
+17 behavior.
+18 (7) “Compulsive use” means the repetitive use of a covered business’s
+19 service that materially disrupts one or more major life activities of a minor,
+20 including sleeping, eating, learning, reading, concentrating, communicating, or
+21 working.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 4 of 23
+1 (8)(A) “Consumer” means an individual who is a resident of the State.
+2 (B) “Consumer” does not include an individual acting in a
+3 commercial or employment context or as an employee, owner, director, officer,
+4 or contractor of a company, partnership, sole proprietorship, nonprofit, or
+5 government agency whose communications or transactions with the covered
+6 business occur solely within the context of that individual’s role with the
+7 company, partnership, sole proprietorship, nonprofit, or government agency.
+8 (9) “Consumer health data” means any personal data that a controller
+9 uses to identify a consumer’s physical or mental health condition or diagnosis,
+10 including gender-affirming health data and reproductive or sexual health data.
+11 (10) “Controller” means a person who, alone or jointly with others,
+12 determines the purpose and means of processing personal data.
+13 (11) “Covered business” means a sole proprietorship, partnership,
+14 limited liability company, corporation, association, other legal entity, or an
+15 affiliate thereof, that conducts business in this State and whose online products,
+16 services, or features are reasonably likely to be accessed by a minor and that:
+17 (A) collects consumers’ personal data or has consumers’ personal
+18 data collected on its behalf by a processor; and
+19 (B) alone or jointly with others determines the purposes and means of
+20 the processing of consumers personal data.
+21 (12) “Covered entity” has the same meaning as in HIPAA.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 5 of 23
+1 (13) “Covered minor” is a consumer who a covered business actually
+2 knows is a minor or labels as a minor pursuant to age assurance methods in
+3 rules adopted by the Attorney General.
+4 (14) “Default” means a preselected option adopted by the covered
+5 business for the online service, product, or feature.
+6 (15) “De-identified data” means data that does not identify and cannot
+7 reasonably be used to infer information about, or otherwise be linked to, an
+8 identified or identifiable individual, or a device linked to the individual, if the
+9 covered business that possesses the data:
+10 (A)(i) takes reasonable measures to ensure that the data cannot be
+11 used to reidentify an identified or identifiable individual or be associated with
+12 an individual or device that identifies or is linked or reasonably linkable to an
+13 individual or household; and
+14 (ii) for purposes of this subdivision (A), “reasonable measures”
+15 includes the de-identification requirements set forth under 45 C.F.R. § 164.514
+16 (other requirements relating to uses and disclosures of protected health
+17 information);
+18 (B) publicly commits to process the data only in a de-identified
+19 fashion and not attempt to reidentify the data; and
+20 (C) contractually obligates any recipients of the data to comply with
+21 all provisions of this subchapter.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 6 of 23
+1 (16) “Derived data” means data that is created by the derivation of
+2 information, data, assumptions, correlations, inferences, predictions, or
+3 conclusions from facts, evidence, or another source of information or data
+4 about a minor or a minor’s device.
+5 (17) “Genetic data” means any data, regardless of its format, that results
+6 from the analysis of a biological sample of an individual, or from another
+7 source enabling equivalent information to be obtained, and concerns genetic
+8 material, including deoxyribonucleic acids (DNA), ribonucleic acids (RNA),
+9 genes, chromosomes, alleles, genomes, alterations or modifications to DNA or
+10 RNA, single nucleotide polymorphisms (SNPs), epigenetic markers,
+11 uninterpreted data that results from analysis of the biological sample or other
+12 source, and any information extrapolated, derived, or inferred therefrom.
+13 (18) “Identified or identifiable individual” means an individual who can
+14 be readily identified, directly or indirectly, including by reference to an
+15 identifier such as a name, an identification number, specific geolocation data,
+16 or an online identifier.
+17 (19) “Known adult” is a consumer who a covered business actually
+18 knows is an adult or labels as an adult pursuant to age assurance methods in
+19 rules adopted by the Attorney General.
+20 (20) “Minor” means an individual under 18 years of age who is a
+21 resident of the State.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 7 of 23
+1 (21) “Neural data” means information that is collected through
+2 biosensors and that could be processed to infer or predict mental states.
+3 (22) “Online service, product, or feature” means a digital product that is
+4 accessible to the public via the internet, including a website or application, and
+5 does not mean any of the following:
+6 (A) telecommunications service, as defined in 47 U.S.C. § 153;
+7 (B) a broadband internet access service as defined in 47 C.F.R.
+8 § 54.400; or
+9 (C) the sale, delivery, or use of a physical product.
+10 (23)(A) “Personal data” means any information, including derived data
+11 and unique identifiers, that is linked or reasonably linkable to an identified or
+12 identifiable individual or to a device that identifies, is linked to, or is
+13 reasonably linkable to one or more identified or identifiable individuals in a
+14 household.
+15 (B) Personal data does not include de-identified data or publicly
+16 available information.
+17 (24)(A) “Precise geolocation data” means information derived from
+18 technology that reveals the past or present physical location of a consumer or
+19 device that identifies or is linked or reasonably linkable to one or more
+20 consumers with precision and accuracy within a radius of 1,850 feet.
+21 (B) “Precise geolocation data” does not include:
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 8 of 23
+1 (i) the content of communications;
+2 (ii) data generated by or connected to an advanced utility metering
+3 infrastructure system;
+4 (iii) a photograph, or metadata associated with a photograph or
+5 video, that cannot be linked to an individual; or
+6 (iv) data generated by equipment used by a utility company.
+7 (25) “Process” or “processing” means any operation or set of operations
+8 performed, whether by manual or automated means, on personal data or on sets
+9 of personal data, such as the collection, use, storage, disclosure, analysis,
+10 deletion, modification, or otherwise handling of personal data.
+11 (26) “Processor” means a person who processes personal data on behalf
+12 of a covered business.
+13 (27) “Profiling” means any form of automated processing performed on
+14 personal data to evaluate, analyze, or predict personal aspects related to an
+15 identified or identifiable individual’s economic situation, health, personal
+16 preferences, interests, reliability, behavior, location, or movements.
+17 (28)(A) “Publicly available information” means information that:
+18 (i) is made available through federal, state, or local government
+19 records; or
+20 (ii) a controller has a reasonable basis to believe that the consumer
+21 has lawfully made available to the general public.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 9 of 23
+1 (B) “Publicly available information” does not include:
+2 (i) biometric data collected by a business about a consumer
+3 without the consumer’s knowledge;
+4 (ii) information that is collated and combined to create a consumer
+5 profile that is made available to a user of a publicly available website either in
+6 exchange for payment or free of charge;
+7 (iii) information that is made available for sale;
+8 (iv) an inference that is generated from the information described
+9 in subdivision (ii) or (iii) of this subdivision (28)(B);
+10 (v) any obscene visual depiction, as defined in 18 U.S.C. § 1460;
+11 (vi) any inference made exclusively from multiple independent
+12 sources of publicly available information that reveals sensitive data with
+13 respect to a consumer;
+14 (vii) personal data that is created through the combination of
+15 personal data with publicly available information;
+16 (viii) genetic data, unless otherwise made publicly available by the
+17 consumer to whom the information pertains;
+18 (ix) information provided by a consumer on a website or online
+19 service made available to all members of the public, for free or for a fee, where
+20 the consumer has maintained a reasonable expectation of privacy in the
+21 information, such as by restricting the information to a specific audience; or
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 10 of 23
+1 (x) intimate images, authentic or computer-generated, known to be
+2 nonconsensual.
+3 (29) “Reasonably likely to be accessed” means an online service,
+4 product, or feature that is reasonably likely to be accessed by a covered minor
+5 based on any of the following indicators:
+6 (A) the online service, product, or feature is directed to children, as
+7 defined by the Children’s Online Privacy Protection Act, 15 U.S.C. §§ 6501–
+8 6506 and the Federal Trade Commission rules implementing that Act;
+9 (B) the online service, product, or feature is determined, based on
+10 competent and reliable evidence regarding audience composition, to be
+11 routinely accessed by an audience that is composed of at least two percent
+12 minors two through 17 years of age;
+13 (C) the online service, product, or feature contains advertisements
+14 marketed to minors;
+15 (D) the audience of the online service, product, or feature is
+16 determined, based on internal company research, to be composed of at least
+17 two percent minors two through 17 years of age; or
+18 (E) the covered business knew or should have known that at least two
+19 percent of the audience of the online service, product, or feature includes
+20 minors two through 17 years of age, provided that, in making this assessment,
+21 the business shall not collect or process any personal data that is not reasonably
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 11 of 23
+1 necessary to provide an online service, product, or feature with which a minor
+2 is actively and knowingly engaged.
+3 (30) “Sensitive data” means personal data that:
+4 (A) reveals a consumer’s government-issued identifier, such as a
+5 Social Security number, passport number, state identification card, or driver’s
+6 license number, that is not required by law to be publicly displayed;
+7 (B) reveals a consumer’s racial or ethnic origin; national origin;
+8 citizenship or immigration status; religious or philosophical beliefs; a mental
+9 or physical health condition, diagnosis, disability, or treatment; status as
+10 pregnant; income level or indebtedness; or union membership;
+11 (C) reveals a consumer’s sexual orientation, sex life, sexuality, or
+12 status as transgender or non-binary;
+13 (D) reveals a consumer’s status as a victim of a crime;
+14 (E) is a consumer’s tax return and account number, financial account
+15 log-in, financial account, debit card number, or credit card number in
+16 combination with any required security or access code, password, or
+17 credentials allowing access to an account;
+18 (F) is consumer health data;
+19 (G) is collected and analyzed concerning consumer health data that
+20 describes or reveals a past, present, or future mental or physical health
+21 condition, treatment, disability, or diagnosis, including pregnancy, to the extent
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 12 of 23
+1 the personal data is used by the controller for a purpose other than to identify a
+2 specific consumer’s physical or mental health condition or diagnosis;
+3 (H) is biometric or genetic data;
+4 (I) is collected from a covered minor;
+5 (J) is precise geolocation data;
+6 (K) are keystrokes;
+7 (L) is driving behavior; or
+8 (M) is neural data.
+9 (31)(A) “Social media platform” means a public or semipublic internet-
+10 based service or application that is primarily intended to connect and allow a
+11 user to socially interact within such service or application and enables a user
+12 to:
+13 (i) construct a public or semipublic profile for the purposes of
+14 signing into and using such service or application;
+15 (ii) populate a public list of other users with whom the user shares
+16 a social connection within such service or application; or
+17 (iii) create or post content that is viewable by other users,
+18 including content on message boards and in chat rooms, and that presents the
+19 user with content generated by other users.
+20 (B) “Social media platform” does not mean a public or semipublic
+21 internet-based service or application that:
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 13 of 23
+1 (i) exclusively provides email or direct messaging services;
+2 (ii) primarily consists of news, sports, entertainment, interactive
+3 video games, electronic commerce, or content that is preselected by the
+4 provider for which any interactive functionality is incidental to, directly related
+5 to, or dependent on the provision of such content; or
+6 (iii) is used by and under the direction of an educational entity,
+7 including a learning management system or a student engagement program.
+8 (32) “Third party” means a natural or legal person, public authority,
+9 agency, or body other than the covered minor or the covered business.
+10 § 2449b. EXCLUSIONS
+11 This subchapter does not apply to:
+12 (1) a federal, state, tribal, or local government entity in the ordinary
+13 course of its operation;
+14 (2) protected health information that a covered entity or business
+15 associate processes in accordance with, or documents that a covered entity or
+16 business associate creates for the purpose of complying with, HIPAA;
+17 (3) information used only for public health activities and purposes
+18 described in 45 C.F.R. § 164.512;
+19 (4) information that identifies a consumer in connection with:
+20 (A) activities that are subject to the Federal Policy for the Protection
+21 of Human Subjects as set forth in 45 C.F.R. Part 46;
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 14 of 23
+1 (B) research on human subjects undertaken in accordance with good
+2 clinical practice guidelines issued by the International Council for
+3 Harmonisation of Technical Requirements for Pharmaceuticals for Human
+4 Use;
+5 (C) activities that are subject to the protections provided in 21 C.F.R.
+6 Part 50 and 21 C.F.R. Part 56; or
+7 (D) research conducted in accordance with the requirements set forth
+8 in subdivisions (A)–(C) of this subdivision (4) or otherwise in accordance with
+9 State or federal law; and
+10 (5) an entity whose primary purpose is journalism as defined in
+11 12 V.S.A. § 1615(a)(2) and that has a majority of its workforce consisting of
+12 individuals engaging in journalism.
+13 § 2449c. MINIMUM DUTY OF CARE
+14 (a) A covered business that processes a covered minor’s data in any
+15 capacity owes a minimum duty of care to the covered minor.
+16 (b) As used in this subchapter, “a minimum duty of care” means the use of
+17 the personal data of a covered minor and the design of an online service,
+18 product, or feature will not result in:
+19 (1) reasonably foreseeable emotional distress as defined in 13 V.S.A.
+20 § 1061(2) to a covered minor;
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 15 of 23
+1 (2) reasonably foreseeable compulsive use of the online service,
+2 product, or feature by a covered minor; or
+3 (3) discrimination against a covered minor based upon race, ethnicity,
+4 sex, disability, sexual orientation, gender identity, gender expression, or
+5 national origin.
+6 (c) The content of the media viewed by a covered minor shall not establish
+7 emotional distress or compulsive use as those terms are used in subsection (b)
+8 of this section.
+9 (d) Nothing in this section shall be construed to require a covered business
+10 to prevent or preclude a covered minor from accessing or viewing any piece of
+11 media or category of media.
+12 § 2449d. REQUIRED DEFAULT PRIVACY SETTINGS AND TOOLS
+13 (a) Default privacy settings.
+14 (1) A covered business shall configure all default privacy settings
+15 provided to a covered minor through the online service, product, or feature to
+16 the highest level of privacy, including the following default settings:
+17 (A) not displaying the existence of the covered minor’s social media
+18 account to any known adult user unless the covered minor has expressly and
+19 unambiguously allowed a specific known adult user to view their account or
+20 has expressly and unambiguously chosen to make their account’s existence
+21 public;
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 16 of 23
+1 (B) not displaying media created or posted by the covered minor on
+2 a social media platform to any known adult user unless the covered minor has
+3 expressly and unambiguously allowed a specific known adult user to view their
+4 media or has expressly and unambiguously chosen to make their media
+5 publicly available;
+6 (C) not permitting any known adult users to like, comment on, or
+7 otherwise provide feedback on the covered minor’s media on a social media
+8 platform unless the covered minor has expressly and unambiguously allowed a
+9 specific known adult user to do so;
+10 (D) not permitting direct messaging on a social media platform
+11 between the covered minor and any known adult user unless the covered minor
+12 has expressly and unambiguously decided to allow direct messaging with a
+13 specific known adult user;
+14 (E) not displaying the covered minor’s location to other users, unless
+15 the covered minor expressly and unambiguously shares their location with a
+16 specific user;
+17 (F) not displaying the users connected to the covered minor on a
+18 social media platform unless the covered minor expressly and unambiguously
+19 chooses to share the information with a specific user;
+20 (G) disabling search engine indexing of the covered minor’s account
+21 profile; and
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 17 of 23
+1 (H) not sending push notifications to the covered minors.
+2 (2) A covered business shall not:
+3 (A) provide a covered minor with a single setting that makes all of
+4 the default privacy settings less protective at once; or
+5 (B) request or prompt a covered minor to make their privacy settings
+6 less protective, unless the change is strictly necessary for the covered minor to
+7 access a service or feature they have expressly and unambiguously requested.
+8 (b) Timely deletion of account. A covered business shall:
+9 (1) provide a prominent, accessible, and responsive tool to allow a
+10 covered minor to request the covered minor’s social media account be
+11 unpublished or deleted; and
+12 (2) honor that request not later than 15 days after a covered business
+13 receives the request.
+14 § 2449e. TRANSPARENCY
+15 (a) A covered business shall prominently and clearly provide on their
+16 website or mobile application:
+17 (1) the covered business’ privacy information, terms of service, policies,
+18 and community standards;
+19 (2) detailed descriptions of each algorithmic recommendation system in
+20 use by the covered business, including the factors used by the algorithmic
+21 recommendation system and how each factor:
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 18 of 23
+1 (A) is measured or determined;
+2 (B) uses the personal data of covered minors;
+3 (C) influences the recommendation issued by the system; and
+4 (D) is weighed relative to the other factors listed in this subdivision
+5 (2); and
+6 (3) descriptions, for every feature of the service that uses the personal
+7 data of covered minors, of:
+8 (A) the purpose of the service feature;
+9 (B) the personal data collected by the service feature;
+10 (C) the personal data used by the service feature;
+11 (D) how the personal data is used by the service feature;
+12 (E) any personal data transferred to or shared with a processor or
+13 third party by the service feature, the identity of the processor or third party,
+14 and the purpose of the transfer or sharing; and
+15 (F) how long the personal data is retained.
+16 § 2449f. PROHIBITED DATA AND DESIGN PRACTICES
+17 (a) Data privacy. A covered business shall not:
+18 (1) collect, sell, share, or retain any personal data of a covered minor
+19 that is not necessary to provide an online service, product, or feature with
+20 which the covered minor is actively and knowingly engaged;
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 19 of 23
+1 (2) use previously collected personal data of a covered minor for any
+2 purpose other than a purpose for which the personal data was collected, unless
+3 necessary to comply with any obligation under this chapter;
+4 (3) permit any consumer, including a parent or guardian of a covered
+5 minor, to monitor the online activity of a covered minor or to track the location
+6 of the covered minor without providing a conspicuous signal to the covered
+7 minor when the covered minor is being monitored or tracked;
+8 (4) use the personal data of a covered minor to select, recommend, or
+9 prioritize media for the covered minor, unless the personal data is:
+10 (A) the covered minor’s express and unambiguous request to receive:
+11 (i) media from a specific account, feed, or user, or to receive more
+12 or less media from that account, feed, or user;
+13 (ii) a specific category of media, such as “cat videos” or “breaking
+14 news,” or to see more or less of that category of media; or
+15 (iii) more or less media with similar characteristics as the media
+16 they are currently viewing;
+17 (B) user-selected privacy or accessibility settings; or
+18 (C) a search query, provided the search query is only used to select
+19 and prioritize media in response to the search; or
+20 (5) send push notifications to a covered minor between 12:00 midnight
+21 and 6:00 a.m.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 20 of 23
+1 (b) Rulemaking. The Attorney General shall have the authority to adopt
+2 rules pursuant to this subchapter that prohibits data processing or design
+3 practices of a covered business that, in the opinion of the Attorney General,
+4 lead to compulsive use or subvert or impair user autonomy, decision making,
+5 or choice during the use of an online service, product, or feature of the covered
+6 business. The Attorney General shall, at least once every two years, review
+7 and update these rules as necessary to keep pace with emerging technology.
+8 § 2449g. AGE ASSURANCE PRIVACY
+9 (a) Privacy protections for age assurance data. Covered businesses and
+10 processors shall:
+11 (1) only collect personal data of a user that is strictly necessary for age
+12 assurance;
+13 (2) immediately upon determining whether a user is a covered minor,
+14 delete any personal data collected of that user for age assurance, except
+15 whether the user is or is not determined to be a covered minor;
+16 (3) not use any personal data of a user collected for age assurance for
+17 any other purpose;
+18 (4) not combine personal data of a user collected for age assurance with
+19 any other personal data of the user, except whether the user is or is not
+20 determined to be a covered minor; and
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 21 of 23
+1 (5) implement a review process to allow users to appeal their age
+2 designation.
+3 (b) Rulemaking.
+4 (1) Subject to subdivision (2) of this subsection, the Attorney General
+5 shall, on or before July 1, 2027, adopt rules identifying commercially
+6 reasonable and technically feasible methods for covered businesses and
+7 processors to determine if a user is a covered minor, describing appropriate
+8 review processes for users appealing their age designations, and providing any
+9 additional privacy protections for age assurance data. The Attorney General
+10 shall periodically review and update these rules as necessary to keep pace with
+11 emerging technology.
+12 (2) In adopting these rules, the Attorney General shall:
+13 (A) prioritize user privacy and accessibility over the accuracy of age
+14 assurance methods; and
+15 (B) consider:
+16 (i) the size, financial resources, and technical capabilities of
+17 covered businesses and processors;
+18 (ii) the costs and effectiveness of available age assurance methods;
+19 (iii) the impact of age assurance methods on users’ safety, utility,
+20 and experience;
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 22 of 23
+1 (iv) whether and to what extent transparency measures would
+2 increase consumer trust in an age assurance method; and
+3 (v) the efficacy of requiring covered businesses and processors to:
+4 (I) use previously collected data to determine user age;
+5 (II) adopt interoperable age assurance methods; and
+6 (III) provide users with multiple options for age assurance.
+7 § 2449h. ENFORCEMENT
+8 (a) A covered business or processor that violates this subchapter or rules
+9 adopted pursuant to this subchapter commits an unfair and deceptive act in
+10 commerce in violation of section 2453 of this title.
+11 (b) The Attorney General shall have the same authority under this
+12 subchapter to make rules, conduct civil investigations, bring civil actions,
+13 and enter into assurances of discontinuance as provided under chapter 63 of
+14 this title.
+15 § 2449i. LIMITATIONS
+16 Nothing in this subchapter shall be interpreted or construed to:
+17 (1) impose liability in a manner that is inconsistent with 47 U.S.C.
+18 § 230; or
+19 (2) prevent or preclude any covered minor from deliberately or
+20 independently searching for, or specifically requesting, any media.
+VT LEG #380778 v.1
+
+BILL AS INTRODUCED S.69
+2025 Page 23 of 23
+1 § 2449j. RIGHTS AND FREEDOMS OF COVERED MINORS
+2 It is the intent of the General Assembly that nothing in this subchapter may
+3 be construed to infringe on the existing rights and freedoms of covered minors
+4 or be construed to discriminate against the covered minors based on race,
+5 ethnicity, sex, disability, sexual orientation, gender identity, gender expression,
+6 or national origin.
+7 Sec. 2. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2026.
+VT LEG #380778 v.1
+
+[DELETED:  S P S I S C W R D S m S a f p A I S S § A]
+[DELETED:  S P ( w c ( “ ( o ( d ( m ( e ( a f ( p c i]
+[DELETED:  S P ( ( ( ( ( ( ( ( ( ( a i ( ( a t b ( s i w]
+[DELETED:  S P ( ( c o g b c ( u i ( d ( l a s ( d ( t (]
+[DELETED:  S P ( k r ( b ( r i c ( u a i ( i ( i ( f ( a]
+[DELETED:  S P ( i c a ( f s m g R u s ( b i o ( k r ( r]
+[DELETED:  S P ( b ( a d ( ( § ( ( a i r h ( a ( t d c (]
+[DELETED:  S P ( ( i ( v ( ( p o d ( o ( p i p ( ( r ( h]
+[DELETED:  S P ( ( w ( p e ( ( i ( ( s r ( p ( c ( s t i]
+[DELETED:  S P ( n ( p b ( d 6 ( c r m ( m ( d t ( p m t]
+[DELETED:  S P n i ( ( S l ( c o p ( s ( ( l c c ( ( d c]
+[DELETED:  S P t s ( ( ( ( ( ( ( b u t ( s ( a ( i u ( i]
+[DELETED:  S P ( ( v p t ( i ( a § T ( c ( a b ( d ( ( o]
+[DELETED:  S P ( c H U ( P ( i S ( 1 i § ( c ( t p ( §]
+[DELETED:  S P ( p ( s n ( e o ( t m § ( ( p t ( a u h p]
+[DELETED:  S P ( a e m p ( o p s ( b h s ( t s ( s c ( p]
+[DELETED:  S P ( ( ( t ( l a ( ( c u ( r § ( w ( a ( u r]
+[DELETED:  S P ( ( ( ( ( ( d ( ( ( ( ( t a ( § ( ( t w]
+[DELETED:  S P ( p n ( m o m ( p ( ( o ( n ( t ( ( a ( a]
+[DELETED:  S P ( r p l o b a § ( p ( a ( d w ( a ( a d]
+[DELETED:  S P ( d ( ( s r p r a s e ( ( a ( ( c ( ( a]
+[DELETED:  S P ( i ( ( ( ( § ( a c ( s a t § N ( § ( i]
+[DELETED:  S P § I b o e o S T]

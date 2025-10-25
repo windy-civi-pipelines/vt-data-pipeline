@@ -1,0 +1,108 @@
+Title: BILL AS INTRODUCED H.405
+Official Title: BILL AS INTRODUCED H.405
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.405
+2 Introduced by Representative LaLonde of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedure; competency to stand trial
+6 Statement of purpose of bill as introduced: This bill proposes to provide that
+7 when a person has been found incompetent to stand trial for a criminal offense,
+8 the charges against the person shall be dismissed if the person has not regained
+9 competency prior to the expiration of the statute of limitations for the offense.
+10 An act relating to competency to stand trial
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 13 V.S.A. § 4817 is amended to read:
+13 § 4817. COMPETENCY TO STAND TRIAL; DETERMINATION;
+14 DISMISSAL
+15 * * *
+16 (b) A person shall not be tried for a criminal offense if the person is found
+17 incompetent to stand trial by a preponderance of the evidence.
+18 * * *
+19 (d) A person who has been found incompetent to stand trial for an alleged
+20 offense may be tried for that offense if, upon subsequent hearing, such person
+VT LEG #380760 v.1
+BILL AS INTRODUCED H.405
+2025 Page 2 of 2
+1 is found by the court having jurisdiction of the person’s trial for the offense to
+2 have become competent to stand trial.
+3 (e) When a person has been found incompetent to stand trial for an alleged
+4 offense, the charges against the person shall be dismissed if the person has not
+5 regained competency prior to the expiration of the statute of limitations for the
+6 offense under chapter 151 of this title. Dismissal of charges against a person
+7 pursuant to this subsection shall not affect whether the person may be tried for
+8 the offense after becoming competent as provided for in subsection (d) of this
+9 section.
+10 Sec. 2. 13 V.S.A. § 4509 is added to read:
+11 § 4509. EFFECT OF FINDING OF INCOMPETENCY TO STAND TRIAL
+12 The applicable limitations period for an offense shall resume running when
+13 a person is found incompetent to stand trial for the offense pursuant to section
+14 4817 of this title. If the person is subsequently found competent to stand trial
+15 for the offense, the limitations period shall be tolled upon the date of the
+16 finding.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on passage.
+VT LEG #380760 v.1
+[DELETED:  H P H I R R D S S w t c A I S §   * ( i * ( o]
+[DELETED:  H P i h ( o r o p t s S § T a 4 f f S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.405
+2025 Page 1 of 2
+1 H.405
+2 Introduced by Representative LaLonde of South Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedure; competency to stand trial
+6 Statement of purpose of bill as introduced: This bill proposes to provide that
+7 when a person has been found incompetent to stand trial for a criminal offense,
+8 the charges against the person shall be dismissed if the person has not regained
+9 competency prior to the expiration of the statute of limitations for the offense.
+10 An act relating to competency to stand trial
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 13 V.S.A. § 4817 is amended to read:
+13 § 4817. COMPETENCY TO STAND TRIAL; DETERMINATION;
+14 DISMISSAL
+15 * * *
+16 (b) A person shall not be tried for a criminal offense if the person is found
+17 incompetent to stand trial by a preponderance of the evidence.
+18 * * *
+19 (d) A person who has been found incompetent to stand trial for an alleged
+20 offense may be tried for that offense if, upon subsequent hearing, such person
+VT LEG #380760 v.1
+
+BILL AS INTRODUCED H.405
+2025 Page 2 of 2
+1 is found by the court having jurisdiction of the person’s trial for the offense to
+2 have become competent to stand trial.
+3 (e) When a person has been found incompetent to stand trial for an alleged
+4 offense, the charges against the person shall be dismissed if the person has not
+5 regained competency prior to the expiration of the statute of limitations for the
+6 offense under chapter 151 of this title. Dismissal of charges against a person
+7 pursuant to this subsection shall not affect whether the person may be tried for
+8 the offense after becoming competent as provided for in subsection (d) of this
+9 section.
+10 Sec. 2. 13 V.S.A. § 4509 is added to read:
+11 § 4509. EFFECT OF FINDING OF INCOMPETENCY TO STAND TRIAL
+12 The applicable limitations period for an offense shall resume running when
+13 a person is found incompetent to stand trial for the offense pursuant to section
+14 4817 of this title. If the person is subsequently found competent to stand trial
+15 for the offense, the limitations period shall be tolled upon the date of the
+16 finding.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on passage.
+VT LEG #380760 v.1
+
+[DELETED:  H P H I R R D S S w t c A I S §   * ( i * ( o]
+[DELETED:  H P i h ( o r o p t s S § T a 4 f f S T]

@@ -1,0 +1,1104 @@
+Title: 2 An act relating to the phaseout of consumer products containing added
+Official Title: 2 An act relating to the phaseout of consumer products containing added
+Number of Sections: 1
+Source: versions - Senate Proposal of Amendment (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 1 of 22
+1 H.238
+3 perfluoroalkyl and polyfluoroalkyl substances
+4 The Senate proposes to the House to amend the bill by striking out all after
+5 the enacting clause and inserting in lieu thereof the following:
+6 * * * PFAS in Consumer Products * * *
+7 Sec. 1. 9 V.S.A. chapter 63, subchapter 12A is amended to read:
+8 Subchapter 12A. PFAS in Consumer Products
+9 § 2494e. DEFINITIONS
+10 As used in this subchapter:
+11 (1) “Adult mattress” means a mattress other than a crib or toddler
+12 mattress.
+13 (2) “Aftermarket stain and water resistant treatments” means treatments
+14 for textile and leather consumer products used in residential settings that have
+15 been treated during the manufacturing process for stain, oil, and water
+16 resistance, but excludes products marketed or sold exclusively for use at
+17 industrial facilities during the manufacture of a carpet, rug, clothing, or shoe.
+18 (3) “Apparel” means any of the following:
+19 (A) Clothing items intended for regular wear or formal occasions,
+20 including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+21 costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 2 of 22
+1 uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+2 formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+3 for workwear. Clothing items intended for regular wear or formal occasions
+4 do not include clothing items for exclusive use by the U.S. Armed Forces,
+5 outdoor apparel for severe wet conditions, and personal protective equipment.
+6 (B) Outdoor apparel.
+7 (4) “Artificial turf” means a surface of synthetic fibers that is used in
+8 place of natural grass in recreational, residential, or commercial applications.
+9 (5) “Cleaning product” means a compound intended for routine
+10 cleaning, including general purpose cleaners, bathroom cleaners, glass
+11 cleaners, carpet cleaners, floor care products, and hand soaps. “Cleaning
+12 product” does not mean an antimicrobial pesticide.
+13 (6) “Cookware” means durable houseware items used to prepare,
+14 dispense, or store food, foodstuffs, or beverages and that are intended for direct
+15 food contact, including pots, pans, skillets, grills, baking sheets, baking molds,
+16 trays, bowls, and cooking utensils.
+17 (7) “Dental floss” means a string-like device made of cotton or other
+18 fibers intended to remove plaque and food particles from between the teeth to
+19 reduce tooth decay. The fibers of the device may be coated with wax for easier
+20 use.
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 3 of 22
+1 (8) “Fluorine treated container” means a fluorinated treated plastic
+2 container.
+3 (6)(9) “Incontinency protection product” means a disposable, absorbent
+4 hygiene product designed to absorb bodily waste for use by individuals 12
+5 years of age and older.
+6 (7)(10) “Intentionally added” means the addition of a chemical in a
+7 product that serves an intended function in the product component
+8 “Intentionally added PFAS” means PFAS added to a product regulated under
+9 this subchapter or one of its product components to provide a specific
+10 characteristic, appearance, or quality or to perform a specific function.
+11 “Intentionally added PFAS” also includes any degradation byproducts of
+12 PFAS or PFAS that are intentional breakdown products of an added chemical.
+13 For the purposes of this chapter the use of PFAS as a processing agent, mold
+14 release agent, or intermediate is considered intentional introduction where
+15 PFAS are detected in the final covered product.
+16 (8)(11) “Juvenile product” means a product designed or marketed for
+17 use by infants and children under 12 years of age:
+18 (A) including a baby or toddler foam pillow; bassinet; bedside
+19 sleeper; booster seat; changing pad; infant bouncer; infant carrier; infant seat;
+20 infant sleep positioner; infant swing; infant travel bed; infant walker; nap cot;
+21 nursing pad; nursing pillow; pacifier; play mat; playpen; play yard;
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 4 of 22
+1 polyurethane foam mat, pad, or pillow; portable foam nap mat; portable infant
+2 sleeper; portable hook-in chair; soft-sided portable crib; stroller; toddler
+3 mattress; and disposable, single-use diaper; and
+4 (B) excluding a children’s electronic product, such as a personal
+5 computer, audio and video equipment, calculator, wireless phone, game
+6 console, handheld device incorporating a video screen, or any associated
+7 peripheral such as a mouse, keyboard, power supply unit, or power cord; a
+8 medical device; or an adult mattress; and
+9 (C) excluding children’s all-terrain vehicles, as that term is defined
+10 under 23 V.S.A. § 3801.
+11 (9)(12) “Manufacturer” means any person engaged in the business of
+12 making or assembling a consumer product directly or indirectly available to
+13 consumers. “Manufacturer” excludes a distributor or retailer, except when a
+14 consumer product is made or assembled outside the United States, in which
+15 case a “manufacturer” includes the importer or first domestic distributor of the
+16 consumer product.
+17 (10)(13) “Medical device” has the same meaning given to “device” in
+18 21 U.S.C. § 321.
+19 (11)(14) “Outdoor apparel” means clothing items intended primarily for
+20 outdoor activities, including hiking, camping, skiing, climbing, bicycling, and
+21 fishing.
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 5 of 22
+1 (12)(15) “Outdoor apparel for severe wet conditions” means outdoor
+2 apparel that are extreme and extended use products designed for outdoor sports
+3 experts for applications that provide protection against extended exposure to
+4 extreme rain conditions or against extended immersion in water or wet
+5 conditions, such as from snow, in order to protect the health and safety of the
+6 user and that are not marketed for general consumer use. Examples of extreme
+7 and extended use products include outerwear for offshore fishing, offshore
+8 sailing, whitewater kayaking, and mountaineering.
+9 (13)(16) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS”
+10 means a class of fluorinated organic chemicals containing at least one fully
+11 fluorinated carbon atom.
+12 (14)(17) “Personal protective equipment” has the same meaning as in
+13 section 2494p of this title.
+14 (15)(18) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+15 “regulated PFAS” means:
+16 (A) PFAS that a manufacturer has intentionally added to a product
+17 and that have a functional or technical effect in the product, including PFAS
+18 components of intentionally added chemicals and PFAS that are intentional
+19 breakdown products of an added chemical that also have a functional or
+20 technical effect in the product; or
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 6 of 22
+1 (B) the presence of PFAS in a product or product component at or
+2 above 100 parts per million, as measured in total organic fluorine.
+3 (16)(19) “Rug or carpet” means a fabric marketed or intended for use as
+4 a floor covering.
+5 (17)(20) “Ski wax” means a lubricant applied to the bottom of snow
+6 runners, including skis and snowboards, to improve their grip and glide
+7 properties.
+8 (18)(21) “Textile” means any item made in whole or part from a natural,
+9 manmade, or synthetic fiber, yarn, or fabric, and includes leather, cotton, silk,
+10 jute, hemp, wool, viscose, nylon, or polyester. “Textile” does not include
+11 single-use paper hygiene products, including toilet paper, paper towels, tissues,
+12 or single-use absorbent hygiene products.
+13 (19)(22) “Textile articles” means textile goods of a type customarily and
+14 ordinarily used in households and businesses, and includes apparel,
+15 accessories, handbags, backpacks, draperies, shower curtains, furnishings,
+16 upholstery, bedding, towels, napkins, and table cloths. “Textile articles” does
+17 not include:
+18 (A) a vehicle, as defined in 1 U.S.C. § 4, or its component parts;
+19 (B) a vessel, as defined in 1 U.S.C. § 3, or its component parts;
+20 (C) an aircraft, as defined in 49 U.S.C. § 40102(a)(6), or its
+21 component parts;
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 7 of 22
+1 (D) filtration media and filter products used in industrial applications,
+2 including chemical or pharmaceutical manufacturing and environmental
+3 control technologies;
+4 (E) textile articles used for laboratory analysis and testing; and
+5 (F) rugs or carpets.
+6 § 2494f. AFTERMARKET STAIN AND WATER-RESISTANT
+7 TREATMENTS PROHIBITION ON PFAS IN CONSUMER
+8 PRODUCTS
+9 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+10 sale, or distribute for use in this State aftermarket stain and water-resistant
+11 treatments for rugs or carpets to which PFAS have been intentionally added in
+12 any amount.
+13 (b) This section shall not apply to the sale or resale of used products. A
+14 manufacturer shall not manufacture, sell, offer for sale, distribute for sale, or
+15 distribute for use in the State the following consumer products to which PFAS
+16 have been intentionally added in any amount:
+17 (1) aftermarket stain and water-resistant treatments;
+18 (2) artificial turf;
+19 (3) cleaning products;
+20 (4) cookware;
+21 (5) dental floss;
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 8 of 22
+1 (6) incontinency protection products;
+2 (7) juvenile products;
+3 (8) residential rugs and carpets; or
+4 (9) ski wax.
+5 (b) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+6 sale, or distribute for use in the State textiles or textile articles to which
+7 regulated PFAS have been intentionally added in any amount.
+8 (c) The prohibitions under subsections (a) and (b) of this section shall not
+9 apply to the sale, offer for sale, distribution for sale, or distribution for use of
+10 any of the products listed under subsections (a) and (b) of this section that have
+11 been previously used by a consumer for the intended purpose of the product.
+12 § 2494g. ARTIFICIAL TURF
+13 A manufacturer shall not manufacture, sell, offer for sale, distribute for sale,
+14 or distribute for use in this State artificial turf to which:
+15 (1) PFAS have been intentionally added in any amount; or
+16 (2) PFAS have entered the product from the manufacturing or
+17 processing of that product, the addition of which is known or reasonably
+18 ascertainable by the manufacturer.
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 9 of 22
+1 § 2494h. COOKWARE
+2 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+3 sale, or distribute for use in this State cookware to which PFAS have been
+4 intentionally added in any amount.
+5 (b) This section shall not apply to the sale or resale of used products.
+6 § 2494i. INCONTINENCY PROTECTION PRODUCT
+7 A manufacturer shall not manufacture, sell, offer for sale, distribute for sale,
+8 or distribute for use in this State an incontinency protection product to which
+9 PFAS have been intentionally added in any amount.
+10 § 2494j. JUVENILE PRODUCTS
+11 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+12 sale, or distribute for use in this State juvenile products to which PFAS have
+13 been intentionally added in any amount.
+14 (b) This section shall not apply to the sale or resale of used products.
+15 § 2494k. RUGS AND CARPETS
+16 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+17 sale, or distribute for use in this State a residential rug or carpet to which PFAS
+18 have been added in any amount.
+19 (b) This section shall not apply to the sale or resale of used products.
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 10 of 22
+1 § 2494l. SKI WAX
+2 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+3 sale, or distribute for use in this State ski wax or related tuning products to
+4 which PFAS have been intentionally added in any amount.
+5 (b) This section shall not apply to the sale or resale of used products.
+6 § 2494m. TEXTILES
+7 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+8 sale, or distribute for use in this State a textile or textile article to which
+9 regulated PFAS have been intentionally added in any amount.
+10 (b) This section shall not apply to the sale or resale of used products.
+11 § 2494g. FLUORINE TREATED CONTAINERS
+12 (a) A manufacturer shall not sell, offer for sale, distribute for sale, or
+13 distribute for use in the State a product listed under subdivisions 2494f(a)(1)–
+14 (9) of this title that does not contain intentionally added PFAS but that is sold,
+15 offered for sale, distributed for sale, or distributed for use in the State in a
+16 fluorine treated container.
+17 (b) The prohibition under subsection (a) of this section shall not apply to
+18 the sale, offer for sale, distribution for sale, or distribution for use of a product
+19 that has been previously used by a consumer for the intended purpose of the
+20 product.
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 11 of 22
+1 (c) Beginning on January 1, 2032, a manufacturer shall not manufacture,
+2 sell, offer for sale, distribute for sale, or distribute for use in the State a fluorine
+3 treated container or any consumer product in a fluorine treated container.
+4 § 2494n 2494h. CERTIFICATE OF COMPLIANCE
+5 (a) The Attorney General may request a certificate of compliance from a
+6 manufacturer of a consumer product regulated under this subchapter. Within
+7 60 days after receipt of the Attorney General’s request for a certificate of
+8 compliance, the manufacturer shall:
+9 (1) provide the Attorney General with a certificate attesting that the
+10 manufacturer’s product or products comply with the requirements of this
+11 subchapter; or
+12 (2) notify persons who are selling a product of the manufacturer’s in this
+13 State that the sale is prohibited because the product does not comply with this
+14 subchapter and submit to the Attorney General a list of the names and
+15 addresses of those persons notified.
+16 (b) A manufacturer required to submit a certificate of compliance pursuant
+17 to this section may rely upon a certificate of compliance provided to the
+18 manufacturer by a supplier for the purpose of determining the manufacturer’s
+19 reporting obligations. A certificate of compliance provided by a supplier in
+20 accordance with this subsection shall be used solely for the purpose of
+21 determining a manufacturer’s compliance with this section.
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 12 of 22
+1 § 2494o 2494i. VIOLATIONS
+2 (a) A violation of this subchapter is deemed to be a violation of section
+3 2453 of this title.
+4 (b) The Attorney General has the same authority to make rules, conduct
+5 civil investigations, enter into assurances of discontinuance, and bring civil
+6 actions, and private parties have the same rights and remedies, as provided
+7 under subchapter 1 of this chapter.
+8 Sec. 2. 9 V.S.A. § 2494e(19) is amended to read:
+9 (19) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+10 “regulated PFAS” means:
+11 (A) PFAS that a manufacturer has intentionally added to a product
+12 and that have a functional or technical effect in the product, including PFAS
+13 components of intentionally added chemicals and PFAS that are intentional
+14 breakdown products of an added chemical that also have a functional or
+15 technical effect in the product; or
+16 (B) the presence of PFAS in a product or product component at or
+17 above 100 50 parts per million, as measured in total organic fluorine.
+18 Sec. 3. 9 V.S.A. § 2494e(3) is amended to read:
+19 (3) “Apparel” means any of the following:
+20 (A) Clothing items intended for regular wear or formal occasions,
+21 including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 13 of 22
+1 costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+2 uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+3 formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+4 for workwear. Clothing items intended for regular wear or formal occasions
+5 do not include clothing items for exclusive use by the U.S. Armed Forces,
+6 outdoor apparel for severe wet conditions, and personal protective equipment.
+7 (B) Outdoor apparel.
+8 (C) Outdoor apparel for severe wet conditions.
+9 Sec. 4. ANR REPORT ON PFAS REGULATION
+10 (a) As used in this section, “perfluoroalkyl and polyfluoroalkyl substances”
+11 or “PFAS” means a class of fluorinated organic chemicals containing at least
+12 one fully fluorinated carbon atom.
+13 (b) On or before January 15, 2027, the Secretary of Natural Resources shall
+14 submit to the House Committees on Environment and on Human Services and
+15 the Senate Committees on Natural Resources and Energy and on Health and
+16 Welfare a report regarding the regulation by other states of PFAS in consumer
+17 products. The report shall include:
+18 (1) a summary of programs in other states that regulate PFAS in
+19 consumer products, including whether other states have implemented a
+20 regulatory program based on the definition of PFAS used in this section;
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 14 of 22
+1 (2) if other states have implemented regulatory programs for PFAS, a
+2 summary of the effectiveness of the programs, including any obstacles or
+3 difficulties these states may have faced in implementing a program, the
+4 staffing required for a program, and the time frame under which each state
+5 implemented the program;
+6 (3) a recommendation, based on review of regulatory programs in other
+7 states, on whether Vermont should establish a regulatory program for PFAS in
+8 consumer products, including the State agency in which such a program should
+9 be located, the staffing required, and a time frame for implementation;
+10 (4) whether other states have prohibited or restricted the use of fluorine
+11 treated containers, including a summary of how fluorine treated containers are
+12 used or allowed for use in other states;
+13 (5) any other information that the Secretary determines is necessary for
+14 the purpose of informing the General Assembly whether to enact a regulatory
+15 program for PFAS in consumer products; and
+16 (6) a summary of PFAS data in industrial processes, to the extent
+17 available, and whether any other state has restricted the use of PFAS-
+18 contaminated water in manufacturing.
+19 Sec. 5. REPORTS; PFAS IN COMPLEX DURABLE GOODS; FOOD
+20 (a)(1) On or before January 15, 2033, the Secretary of Natural Resources
+21 shall provide a recommendation to the House Committees on Human Services
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 15 of 22
+1 and on Environment and the Senate Committees on Health and Welfare and on
+2 Natural Resources and Energy on how to address PFAS in complex durable
+3 goods.
+4 (2) As used in this subsection, “complex durable goods” means a
+5 consumer product that is a manufactured good composed of 100 or more
+6 manufactured components, with an intended useful life of five or more years,
+7 where the product is typically not consumed, destroyed, or discarded after a
+8 single use. This includes replacement parts for complex durable goods not
+9 subject to a phaseout under this chapter.
+10 (b)(1) On or before January 15, 2033, the Secretary of Agriculture, Food
+11 and Markets shall provide a recommendation to the House Committees on
+12 Human Services and on Environment and the Senate Committees on Health
+13 and Welfare and on Natural Resources and Energy on how to address PFAS in
+14 food.
+15 (2) As used in this subsection, “food” has the same meaning as in 18
+16 V.S.A. § 4051.
+17 (c) The Secretary of Natural Resources shall update the Senate Committee
+18 on Health and Welfare, the House Committee on Environment, and the
+19 Secretary of Natural Resources on the status of the regulation of PFAS in
+20 complex durable goods and in food in other states. The first status report shall
+21 be submitted on or before January 15, 2027, as part of the report required
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 16 of 22
+1 under Sec. 4 of this act or as testimony. The second update shall be provided
+2 as testimony to the committees on or before January 15, 2029.
+3 Sec. 6. REPEALS
+4 (a) 2024 Acts and Resolves No. 131, Sec. 4 (prospective definition for
+5 outdoor apparel for severe wet conditions) is repealed.
+6 (b) 2024 Acts and Resolves No. 131, Sec. 5 (prospective definition of
+7 regulated PFAS) is repealed.
+8 Sec. 7. 2024 Acts and Resolves No. 131, Sec. 13 is amended to read:
+9 Sec. 13. EFFECTIVE DATES
+10 This act shall take effect on July 1, 2024, except that:
+11 (1) Sec. 1 (chemicals in cosmetic and menstrual products), Sec. 3 (PFAS
+12 in consumer products), Sec. 6 (PFAS in firefighting agents and equipment),
+13 and Sec. 7 (chemicals of concern in food packaging) shall take effect on
+14 January 1, 2026; and
+15 (2) Sec. 2 (9 V.S.A. § 2494b) and Sec. 5 (9 V.S.A. § 2494e(15)) shall
+16 take effect on July 1, 2027; and
+17 (3) Sec. 4 (9 V.S.A. § 2494e(3)) shall take effect on July 1, 2028.
+18 * * * PFAS in Firefighting Agents and Equipment * * *
+19 Sec. 8. 9 V.S.A. § 2494p(2) is amended to read:
+20 (2) “Intentionally added” means the addition of a chemical in a product
+21 that serves an intended function in the product component. “Intentionally
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 17 of 22
+1 added PFAS” means PFAS added to a product regulated under this subchapter
+2 or one of its product components to provide a specific characteristic,
+3 appearance, or quality or to perform a specific function. “Intentionally added
+4 PFAS” also includes any degradation byproducts of PFAS or PFAS that are
+5 intentional breakdown products of an added chemical. For the purposes of this
+6 chapter the use of PFAS as a processing agent, mold release agent, or
+7 intermediate is considered intentional introduction where PFAS are detected in
+8 the final covered product.
+9 Sec. 9. 9 V.S.A. § 2494s is amended to read:
+10 (a) A manufacturer or other person that sells firefighting equipment to any
+11 person, municipality, or State agency shall provide written notice to the
+12 purchaser at the time of sale, citing to this subchapter, if the personal protective
+13 equipment or station wear contains PFAS. The written notice shall include a
+14 statement that the personal protective equipment or station wear contains
+15 PFAS and the reason PFAS are added to the equipment not sell, offer for sale,
+16 distribute for sale, or distribute for use in this State any personal protective
+17 equipment to which PFAS have been intentionally added.
+18 (b) The manufacturer or person selling personal protective equipment or
+19 station wear and the purchaser of the personal protective equipment or station
+20 wear shall retain the notice for at least three years from the date of the
+21 transaction. The prohibitions under subsection (a) of this section shall not
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 18 of 22
+1 apply to personal protective equipment that is a respirator or respirator
+2 protection equipment, provided that a manufacturer of a respirator or respirator
+3 protection equipment shall provide written notice to the purchaser at the time
+4 of sale, citing to this subchapter if the respirator or respirator protection
+5 equipment contains PFAS. The written notice shall include a statement that
+6 the respirator or respirator protection equipment contains PFAS and the reason
+7 PFAS are added to the equipment. The manufacturer or person selling
+8 respirator or respirator protection equipment and the purchaser of the respirator
+9 or respirator protection equipment shall retain the notice for at least three years
+10 from the date of the transaction.
+11 Sec. 10. 9 V.S.A. § 2494s is amended to read:
+12 § 2494s. PROHIBITED SALE OF PERSONAL PROTECTIVE
+13 EQUIPMENT CONTAINING PFAS
+14 (a) A manufacturer or other person that sells firefighting equipment to any
+15 person, municipality, or State agency shall not sell, offer for sale, distribute for
+16 sale, or distribute for use in this State any personal protective equipment to
+17 which PFAS have been intentionally added.
+18 (b) The prohibitions under subsection (a) of this section shall not apply to
+19 personal protective equipment that is a respirator or respirator protection
+20 equipment, provided that a manufacturer of a respirator or respirator protection
+21 equipment shall provide written notice to the purchaser at the time of sale,
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 19 of 22
+1 citing to this subchapter if the respirator or respirator protection equipment
+2 contains PFAS. The written notice shall include a statement that the respirator
+3 or respirator protection equipment contains PFAS and the reason PFAS are
+4 added to the equipment. The manufacturer or person selling respirator or
+5 respirator protection equipment and the purchaser of the respirator or respirator
+6 protection equipment shall retain the notice for at least three years from the
+7 date of the transaction. [Repealed.]
+8 Sec. 11. NOTICE OF PRESENCE OF PFAS IN STATION WEAR PRIOR
+9 TO PROHIBITION OF PFAS IN APPAREL
+10 (a) As used in this section:
+11 (1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” has the
+12 same meaning as in 9 V.S.A. § 2494p.
+13 (2) “Station wear” means uniform shirts and pants worn by firefighting
+14 personnel in the performance of their duties, often underneath personal
+15 protective equipment.
+16 (b) Prior to the limitation of PFAS in textile articles under 9 V.S.A. chapter
+17 63, subchapter 12A beginning on July 1, 2026 under 9 V.S.A. § 2494f, a
+18 manufacturer or other person that sells station wear to any person,
+19 municipality, or State agency shall provide written notice to the purchaser at
+20 the time of sale, citing to this subchapter, if the station wear contains PFAS.
+21 The written notice shall include a statement that station wear contains PFAS
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 20 of 22
+1 and the reason PFAS are added to the station wear. The manufacturer or
+2 person selling station wear and the purchaser of station wear shall retain the
+3 notice for at least three years from the date of the transaction.
+4 Sec. 12. ANR REPORT ON AVAILABILITY OF PFAS-FREE PERSONAL
+5 PROTECTIVE EQUIPMENT
+6 (a) As used in this section:
+7 (1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means a
+8 class of fluorinated organic chemicals containing at least one fully fluorinated
+9 carbon atom.
+10 (2) “Personal protective equipment” means clothing designed, intended,
+11 or marketed to be worn by firefighting personnel in the performance of their
+12 duties, designed with the intent for use in fire and rescue activities, and
+13 includes jackets, pants, shoes, gloves, helmets, and respiratory equipment.
+14 (b) On or before December 15, 2028, the Agency of Natural Resources,
+15 after consultation with the Department of Public Safety, shall report to the
+16 Senate Committees on Health and Welfare and on Natural Resources and
+17 Energy and the House Committees on Human Service and on Environment
+18 regarding the availability of personal protective equipment that does not
+19 include PFAS. The report shall include:
+20 (1) a summary of the general availability in the State of personal
+21 protective equipment that does not include PFAS, including whether
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 21 of 22
+1 respirators that do not include PFAS are generally available to firefighting
+2 personnel in Vermont; and
+3 (2) a summary of the cost of personal protective equipment that does not
+4 include PFAS, including whether the personal protective equipment that does
+5 not include PFAS is available at comparable costs to personal protective
+6 equipment that includes PFAS.
+7 (c) The Agency of Natural Resources shall submit a copy of the report
+8 required under this section to the Vermont League of Cities and Towns to
+9 make available to municipal firefighting departments.
+10 * * * Effective Dates * * *
+11 Sec. 13. EFFECTIVE DATES
+12 (a) This section and Secs. 4 and 5 (reports to the General Assembly), Sec.
+13 11 (notice of PFAS in station wear), and Sec. 12 (availability of PFAS-free
+14 personal protective equipment) shall take effect on July 1, 2025.
+15 (b)(1) Sec. 1 (PFAS in consumer products) shall take effect on January 1,
+16 2026, except that:
+17 (A) 9 V.S.A. § 2494e(10) (definition of intentionally added) shall
+18 take effect on July 1, 2027;
+19 (B) 9 V.S.A. § 2494f(a)(3) (cleaning products) and (a)(5) (dental
+20 floss) and 9 V.S.A. § 2494g (fluorine treated containers) shall take effect on
+21 July 1, 2027; and
+VT LEG #383825 v.1
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 22 of 22
+1 (C) 9 V.S.A. § 2494f(a)(4) (cookware) shall take effect July 1, 2028.
+2 (2) Sec. 1 and this section shall supersede those provisions of 2024 Acts
+3 and Resolves No. 131, Sec. 3 that conflict with the provisions of this act.
+4 (c) Sec. 2 (definition of regulated PFAS) shall take effect on July 1, 2027.
+5 (d) Sec. 3 (definition of outdoor apparel) shall take effect on July 1, 2028.
+6 (e) Secs. 6 (repeal of Act 131 provisions) and 7 (amended Act 131 effective
+7 dates) shall take effect on January 1, 2026.
+8 (f) Sec. 8 (definition of intentionally added; PPE containing PFAS) shall
+9 take effect January 1, 2026 and shall supersede those provisions of 2024 Acts
+10 and Resolves No. 131, Sec. 6 that conflict with the provisions of this act.
+11 (g) Sec. 9 (prohibition on sale of PPE containing PFAS) shall take effect on
+12 July 1, 2029.
+13 (h) Sec. 10 (prohibition on sale of respirators containing PFAS) shall take
+14 effect on July 1, 2032.
+VT LEG #383825 v.1
+[DELETED:   H  P H A p T t * S S § A ( m ( f b r i ( ( i c]
+[DELETED:   H  P u f f d o ( ( p ( c c p ( d f t ( f r u]
+[DELETED:   H  P ( c ( h y ( p “ t c “ P F r P ( u ( s i n]
+[DELETED:   H  P p s m ( c c p m ( u ( m c c c c ( 2 ( o f]
+[DELETED:   H  P ( a e e c u a s ( m f ( s ( “ ( a c b t]
+[DELETED:   H  P ( a ( a ( r p ( m j s o ( o a u n ( ( ( c]
+[DELETED:   H  P ( i c ( ( §     ( s t a ( m d h ( ( ( ( (]
+[DELETED:   H  P ( ( ( ( ( s r ( a a b § A o ( ( p a]
+[DELETED:   H  P § ( s i ( § A o P § ( s b ( § ( s h (]
+[DELETED:   H  P § ( s w ( § ( s r ( § ( d ( o f ( t t p]
+[DELETED:   H  P ( s t § ( m 6 c ( m s ( S s a ( t m r a d]
+[DELETED:   H  P § ( 2 ( c a u S ( “ ( a c b t ( a S ( ( i]
+[DELETED:   H  P c u f f d o ( ( S ( o o ( s t W p ( c r]
+[DELETED:   H  P ( s d s i ( s c b ( t u ( t p ( a c S ( s]
+[DELETED:   H  P a N g ( c m w s s ( a H a f ( V ( o S c b]
+[DELETED:   H  P u a S ( o ( r S S T ( i a J ( t ( * S ( t]
+[DELETED:   H  P a o a P i c i t S ( p p e s P d e ( s w t]
+[DELETED:   H  P a p p o e t P r o f S §   ( p s w ( p e e]
+[DELETED:   H  P c c o a r p d S   ( ( s ( p p ( 6 m m t T]
+[DELETED:   H  P a p n S   ( ( c c ( o d i ( a S E r i ( p]
+[DELETED:   H  P r p ( i n e ( r m * S ( 1 p ( 2 ( t ( f J]
+[DELETED:   H  P ( ( a ( ( ( d ( t a ( J ( e]
+
+
+================================================================================
+
+Raw Text:
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 1 of 22
+1 H.238
+2 An act relating to the phaseout of consumer products containing added
+3 perfluoroalkyl and polyfluoroalkyl substances
+4 The Senate proposes to the House to amend the bill by striking out all after
+5 the enacting clause and inserting in lieu thereof the following:
+6 * * * PFAS in Consumer Products * * *
+7 Sec. 1. 9 V.S.A. chapter 63, subchapter 12A is amended to read:
+8 Subchapter 12A. PFAS in Consumer Products
+9 § 2494e. DEFINITIONS
+10 As used in this subchapter:
+11 (1) “Adult mattress” means a mattress other than a crib or toddler
+12 mattress.
+13 (2) “Aftermarket stain and water resistant treatments” means treatments
+14 for textile and leather consumer products used in residential settings that have
+15 been treated during the manufacturing process for stain, oil, and water
+16 resistance, but excludes products marketed or sold exclusively for use at
+17 industrial facilities during the manufacture of a carpet, rug, clothing, or shoe.
+18 (3) “Apparel” means any of the following:
+19 (A) Clothing items intended for regular wear or formal occasions,
+20 including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+21 costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 2 of 22
+1 uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+2 formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+3 for workwear. Clothing items intended for regular wear or formal occasions
+4 do not include clothing items for exclusive use by the U.S. Armed Forces,
+5 outdoor apparel for severe wet conditions, and personal protective equipment.
+6 (B) Outdoor apparel.
+7 (4) “Artificial turf” means a surface of synthetic fibers that is used in
+8 place of natural grass in recreational, residential, or commercial applications.
+9 (5) “Cleaning product” means a compound intended for routine
+10 cleaning, including general purpose cleaners, bathroom cleaners, glass
+11 cleaners, carpet cleaners, floor care products, and hand soaps. “Cleaning
+12 product” does not mean an antimicrobial pesticide.
+13 (6) “Cookware” means durable houseware items used to prepare,
+14 dispense, or store food, foodstuffs, or beverages and that are intended for direct
+15 food contact, including pots, pans, skillets, grills, baking sheets, baking molds,
+16 trays, bowls, and cooking utensils.
+17 (7) “Dental floss” means a string-like device made of cotton or other
+18 fibers intended to remove plaque and food particles from between the teeth to
+19 reduce tooth decay. The fibers of the device may be coated with wax for easier
+20 use.
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 3 of 22
+1 (8) “Fluorine treated container” means a fluorinated treated plastic
+2 container.
+3 (6)(9) “Incontinency protection product” means a disposable, absorbent
+4 hygiene product designed to absorb bodily waste for use by individuals 12
+5 years of age and older.
+6 (7)(10) “Intentionally added” means the addition of a chemical in a
+7 product that serves an intended function in the product component
+8 “Intentionally added PFAS” means PFAS added to a product regulated under
+9 this subchapter or one of its product components to provide a specific
+10 characteristic, appearance, or quality or to perform a specific function.
+11 “Intentionally added PFAS” also includes any degradation byproducts of
+12 PFAS or PFAS that are intentional breakdown products of an added chemical.
+13 For the purposes of this chapter the use of PFAS as a processing agent, mold
+14 release agent, or intermediate is considered intentional introduction where
+15 PFAS are detected in the final covered product.
+16 (8)(11) “Juvenile product” means a product designed or marketed for
+17 use by infants and children under 12 years of age:
+18 (A) including a baby or toddler foam pillow; bassinet; bedside
+19 sleeper; booster seat; changing pad; infant bouncer; infant carrier; infant seat;
+20 infant sleep positioner; infant swing; infant travel bed; infant walker; nap cot;
+21 nursing pad; nursing pillow; pacifier; play mat; playpen; play yard;
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 4 of 22
+1 polyurethane foam mat, pad, or pillow; portable foam nap mat; portable infant
+2 sleeper; portable hook-in chair; soft-sided portable crib; stroller; toddler
+3 mattress; and disposable, single-use diaper; and
+4 (B) excluding a children’s electronic product, such as a personal
+5 computer, audio and video equipment, calculator, wireless phone, game
+6 console, handheld device incorporating a video screen, or any associated
+7 peripheral such as a mouse, keyboard, power supply unit, or power cord; a
+8 medical device; or an adult mattress; and
+9 (C) excluding children’s all-terrain vehicles, as that term is defined
+10 under 23 V.S.A. § 3801.
+11 (9)(12) “Manufacturer” means any person engaged in the business of
+12 making or assembling a consumer product directly or indirectly available to
+13 consumers. “Manufacturer” excludes a distributor or retailer, except when a
+14 consumer product is made or assembled outside the United States, in which
+15 case a “manufacturer” includes the importer or first domestic distributor of the
+16 consumer product.
+17 (10)(13) “Medical device” has the same meaning given to “device” in
+18 21 U.S.C. § 321.
+19 (11)(14) “Outdoor apparel” means clothing items intended primarily for
+20 outdoor activities, including hiking, camping, skiing, climbing, bicycling, and
+21 fishing.
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 5 of 22
+1 (12)(15) “Outdoor apparel for severe wet conditions” means outdoor
+2 apparel that are extreme and extended use products designed for outdoor sports
+3 experts for applications that provide protection against extended exposure to
+4 extreme rain conditions or against extended immersion in water or wet
+5 conditions, such as from snow, in order to protect the health and safety of the
+6 user and that are not marketed for general consumer use. Examples of extreme
+7 and extended use products include outerwear for offshore fishing, offshore
+8 sailing, whitewater kayaking, and mountaineering.
+9 (13)(16) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS”
+10 means a class of fluorinated organic chemicals containing at least one fully
+11 fluorinated carbon atom.
+12 (14)(17) “Personal protective equipment” has the same meaning as in
+13 section 2494p of this title.
+14 (15)(18) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+15 “regulated PFAS” means:
+16 (A) PFAS that a manufacturer has intentionally added to a product
+17 and that have a functional or technical effect in the product, including PFAS
+18 components of intentionally added chemicals and PFAS that are intentional
+19 breakdown products of an added chemical that also have a functional or
+20 technical effect in the product; or
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 6 of 22
+1 (B) the presence of PFAS in a product or product component at or
+2 above 100 parts per million, as measured in total organic fluorine.
+3 (16)(19) “Rug or carpet” means a fabric marketed or intended for use as
+4 a floor covering.
+5 (17)(20) “Ski wax” means a lubricant applied to the bottom of snow
+6 runners, including skis and snowboards, to improve their grip and glide
+7 properties.
+8 (18)(21) “Textile” means any item made in whole or part from a natural,
+9 manmade, or synthetic fiber, yarn, or fabric, and includes leather, cotton, silk,
+10 jute, hemp, wool, viscose, nylon, or polyester. “Textile” does not include
+11 single-use paper hygiene products, including toilet paper, paper towels, tissues,
+12 or single-use absorbent hygiene products.
+13 (19)(22) “Textile articles” means textile goods of a type customarily and
+14 ordinarily used in households and businesses, and includes apparel,
+15 accessories, handbags, backpacks, draperies, shower curtains, furnishings,
+16 upholstery, bedding, towels, napkins, and table cloths. “Textile articles” does
+17 not include:
+18 (A) a vehicle, as defined in 1 U.S.C. § 4, or its component parts;
+19 (B) a vessel, as defined in 1 U.S.C. § 3, or its component parts;
+20 (C) an aircraft, as defined in 49 U.S.C. § 40102(a)(6), or its
+21 component parts;
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 7 of 22
+1 (D) filtration media and filter products used in industrial applications,
+2 including chemical or pharmaceutical manufacturing and environmental
+3 control technologies;
+4 (E) textile articles used for laboratory analysis and testing; and
+5 (F) rugs or carpets.
+6 § 2494f. AFTERMARKET STAIN AND WATER-RESISTANT
+7 TREATMENTS PROHIBITION ON PFAS IN CONSUMER
+8 PRODUCTS
+9 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+10 sale, or distribute for use in this State aftermarket stain and water-resistant
+11 treatments for rugs or carpets to which PFAS have been intentionally added in
+12 any amount.
+13 (b) This section shall not apply to the sale or resale of used products. A
+14 manufacturer shall not manufacture, sell, offer for sale, distribute for sale, or
+15 distribute for use in the State the following consumer products to which PFAS
+16 have been intentionally added in any amount:
+17 (1) aftermarket stain and water-resistant treatments;
+18 (2) artificial turf;
+19 (3) cleaning products;
+20 (4) cookware;
+21 (5) dental floss;
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 8 of 22
+1 (6) incontinency protection products;
+2 (7) juvenile products;
+3 (8) residential rugs and carpets; or
+4 (9) ski wax.
+5 (b) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+6 sale, or distribute for use in the State textiles or textile articles to which
+7 regulated PFAS have been intentionally added in any amount.
+8 (c) The prohibitions under subsections (a) and (b) of this section shall not
+9 apply to the sale, offer for sale, distribution for sale, or distribution for use of
+10 any of the products listed under subsections (a) and (b) of this section that have
+11 been previously used by a consumer for the intended purpose of the product.
+12 § 2494g. ARTIFICIAL TURF
+13 A manufacturer shall not manufacture, sell, offer for sale, distribute for sale,
+14 or distribute for use in this State artificial turf to which:
+15 (1) PFAS have been intentionally added in any amount; or
+16 (2) PFAS have entered the product from the manufacturing or
+17 processing of that product, the addition of which is known or reasonably
+18 ascertainable by the manufacturer.
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 9 of 22
+1 § 2494h. COOKWARE
+2 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+3 sale, or distribute for use in this State cookware to which PFAS have been
+4 intentionally added in any amount.
+5 (b) This section shall not apply to the sale or resale of used products.
+6 § 2494i. INCONTINENCY PROTECTION PRODUCT
+7 A manufacturer shall not manufacture, sell, offer for sale, distribute for sale,
+8 or distribute for use in this State an incontinency protection product to which
+9 PFAS have been intentionally added in any amount.
+10 § 2494j. JUVENILE PRODUCTS
+11 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+12 sale, or distribute for use in this State juvenile products to which PFAS have
+13 been intentionally added in any amount.
+14 (b) This section shall not apply to the sale or resale of used products.
+15 § 2494k. RUGS AND CARPETS
+16 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+17 sale, or distribute for use in this State a residential rug or carpet to which PFAS
+18 have been added in any amount.
+19 (b) This section shall not apply to the sale or resale of used products.
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 10 of 22
+1 § 2494l. SKI WAX
+2 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+3 sale, or distribute for use in this State ski wax or related tuning products to
+4 which PFAS have been intentionally added in any amount.
+5 (b) This section shall not apply to the sale or resale of used products.
+6 § 2494m. TEXTILES
+7 (a) A manufacturer shall not manufacture, sell, offer for sale, distribute for
+8 sale, or distribute for use in this State a textile or textile article to which
+9 regulated PFAS have been intentionally added in any amount.
+10 (b) This section shall not apply to the sale or resale of used products.
+11 § 2494g. FLUORINE TREATED CONTAINERS
+12 (a) A manufacturer shall not sell, offer for sale, distribute for sale, or
+13 distribute for use in the State a product listed under subdivisions 2494f(a)(1)–
+14 (9) of this title that does not contain intentionally added PFAS but that is sold,
+15 offered for sale, distributed for sale, or distributed for use in the State in a
+16 fluorine treated container.
+17 (b) The prohibition under subsection (a) of this section shall not apply to
+18 the sale, offer for sale, distribution for sale, or distribution for use of a product
+19 that has been previously used by a consumer for the intended purpose of the
+20 product.
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 11 of 22
+1 (c) Beginning on January 1, 2032, a manufacturer shall not manufacture,
+2 sell, offer for sale, distribute for sale, or distribute for use in the State a fluorine
+3 treated container or any consumer product in a fluorine treated container.
+4 § 2494n 2494h. CERTIFICATE OF COMPLIANCE
+5 (a) The Attorney General may request a certificate of compliance from a
+6 manufacturer of a consumer product regulated under this subchapter. Within
+7 60 days after receipt of the Attorney General’s request for a certificate of
+8 compliance, the manufacturer shall:
+9 (1) provide the Attorney General with a certificate attesting that the
+10 manufacturer’s product or products comply with the requirements of this
+11 subchapter; or
+12 (2) notify persons who are selling a product of the manufacturer’s in this
+13 State that the sale is prohibited because the product does not comply with this
+14 subchapter and submit to the Attorney General a list of the names and
+15 addresses of those persons notified.
+16 (b) A manufacturer required to submit a certificate of compliance pursuant
+17 to this section may rely upon a certificate of compliance provided to the
+18 manufacturer by a supplier for the purpose of determining the manufacturer’s
+19 reporting obligations. A certificate of compliance provided by a supplier in
+20 accordance with this subsection shall be used solely for the purpose of
+21 determining a manufacturer’s compliance with this section.
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 12 of 22
+1 § 2494o 2494i. VIOLATIONS
+2 (a) A violation of this subchapter is deemed to be a violation of section
+3 2453 of this title.
+4 (b) The Attorney General has the same authority to make rules, conduct
+5 civil investigations, enter into assurances of discontinuance, and bring civil
+6 actions, and private parties have the same rights and remedies, as provided
+7 under subchapter 1 of this chapter.
+8 Sec. 2. 9 V.S.A. § 2494e(19) is amended to read:
+9 (19) “Regulated perfluoroalkyl and polyfluoroalkyl substances” or
+10 “regulated PFAS” means:
+11 (A) PFAS that a manufacturer has intentionally added to a product
+12 and that have a functional or technical effect in the product, including PFAS
+13 components of intentionally added chemicals and PFAS that are intentional
+14 breakdown products of an added chemical that also have a functional or
+15 technical effect in the product; or
+16 (B) the presence of PFAS in a product or product component at or
+17 above 100 50 parts per million, as measured in total organic fluorine.
+18 Sec. 3. 9 V.S.A. § 2494e(3) is amended to read:
+19 (3) “Apparel” means any of the following:
+20 (A) Clothing items intended for regular wear or formal occasions,
+21 including undergarments, shirts, pants, skirts, dresses, overalls, bodysuits,
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 13 of 22
+1 costumes, vests, dancewear, suits, saris, scarves, tops, leggings, school
+2 uniforms, leisurewear, athletic wear, sports uniforms, everyday swimwear,
+3 formal wear, onesies, bibs, reusable diapers, footwear, and everyday uniforms
+4 for workwear. Clothing items intended for regular wear or formal occasions
+5 do not include clothing items for exclusive use by the U.S. Armed Forces,
+6 outdoor apparel for severe wet conditions, and personal protective equipment.
+7 (B) Outdoor apparel.
+8 (C) Outdoor apparel for severe wet conditions.
+9 Sec. 4. ANR REPORT ON PFAS REGULATION
+10 (a) As used in this section, “perfluoroalkyl and polyfluoroalkyl substances”
+11 or “PFAS” means a class of fluorinated organic chemicals containing at least
+12 one fully fluorinated carbon atom.
+13 (b) On or before January 15, 2027, the Secretary of Natural Resources shall
+14 submit to the House Committees on Environment and on Human Services and
+15 the Senate Committees on Natural Resources and Energy and on Health and
+16 Welfare a report regarding the regulation by other states of PFAS in consumer
+17 products. The report shall include:
+18 (1) a summary of programs in other states that regulate PFAS in
+19 consumer products, including whether other states have implemented a
+20 regulatory program based on the definition of PFAS used in this section;
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 14 of 22
+1 (2) if other states have implemented regulatory programs for PFAS, a
+2 summary of the effectiveness of the programs, including any obstacles or
+3 difficulties these states may have faced in implementing a program, the
+4 staffing required for a program, and the time frame under which each state
+5 implemented the program;
+6 (3) a recommendation, based on review of regulatory programs in other
+7 states, on whether Vermont should establish a regulatory program for PFAS in
+8 consumer products, including the State agency in which such a program should
+9 be located, the staffing required, and a time frame for implementation;
+10 (4) whether other states have prohibited or restricted the use of fluorine
+11 treated containers, including a summary of how fluorine treated containers are
+12 used or allowed for use in other states;
+13 (5) any other information that the Secretary determines is necessary for
+14 the purpose of informing the General Assembly whether to enact a regulatory
+15 program for PFAS in consumer products; and
+16 (6) a summary of PFAS data in industrial processes, to the extent
+17 available, and whether any other state has restricted the use of PFAS-
+18 contaminated water in manufacturing.
+19 Sec. 5. REPORTS; PFAS IN COMPLEX DURABLE GOODS; FOOD
+20 (a)(1) On or before January 15, 2033, the Secretary of Natural Resources
+21 shall provide a recommendation to the House Committees on Human Services
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 15 of 22
+1 and on Environment and the Senate Committees on Health and Welfare and on
+2 Natural Resources and Energy on how to address PFAS in complex durable
+3 goods.
+4 (2) As used in this subsection, “complex durable goods” means a
+5 consumer product that is a manufactured good composed of 100 or more
+6 manufactured components, with an intended useful life of five or more years,
+7 where the product is typically not consumed, destroyed, or discarded after a
+8 single use. This includes replacement parts for complex durable goods not
+9 subject to a phaseout under this chapter.
+10 (b)(1) On or before January 15, 2033, the Secretary of Agriculture, Food
+11 and Markets shall provide a recommendation to the House Committees on
+12 Human Services and on Environment and the Senate Committees on Health
+13 and Welfare and on Natural Resources and Energy on how to address PFAS in
+14 food.
+15 (2) As used in this subsection, “food” has the same meaning as in 18
+16 V.S.A. § 4051.
+17 (c) The Secretary of Natural Resources shall update the Senate Committee
+18 on Health and Welfare, the House Committee on Environment, and the
+19 Secretary of Natural Resources on the status of the regulation of PFAS in
+20 complex durable goods and in food in other states. The first status report shall
+21 be submitted on or before January 15, 2027, as part of the report required
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 16 of 22
+1 under Sec. 4 of this act or as testimony. The second update shall be provided
+2 as testimony to the committees on or before January 15, 2029.
+3 Sec. 6. REPEALS
+4 (a) 2024 Acts and Resolves No. 131, Sec. 4 (prospective definition for
+5 outdoor apparel for severe wet conditions) is repealed.
+6 (b) 2024 Acts and Resolves No. 131, Sec. 5 (prospective definition of
+7 regulated PFAS) is repealed.
+8 Sec. 7. 2024 Acts and Resolves No. 131, Sec. 13 is amended to read:
+9 Sec. 13. EFFECTIVE DATES
+10 This act shall take effect on July 1, 2024, except that:
+11 (1) Sec. 1 (chemicals in cosmetic and menstrual products), Sec. 3 (PFAS
+12 in consumer products), Sec. 6 (PFAS in firefighting agents and equipment),
+13 and Sec. 7 (chemicals of concern in food packaging) shall take effect on
+14 January 1, 2026; and
+15 (2) Sec. 2 (9 V.S.A. § 2494b) and Sec. 5 (9 V.S.A. § 2494e(15)) shall
+16 take effect on July 1, 2027; and
+17 (3) Sec. 4 (9 V.S.A. § 2494e(3)) shall take effect on July 1, 2028.
+18 * * * PFAS in Firefighting Agents and Equipment * * *
+19 Sec. 8. 9 V.S.A. § 2494p(2) is amended to read:
+20 (2) “Intentionally added” means the addition of a chemical in a product
+21 that serves an intended function in the product component. “Intentionally
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 17 of 22
+1 added PFAS” means PFAS added to a product regulated under this subchapter
+2 or one of its product components to provide a specific characteristic,
+3 appearance, or quality or to perform a specific function. “Intentionally added
+4 PFAS” also includes any degradation byproducts of PFAS or PFAS that are
+5 intentional breakdown products of an added chemical. For the purposes of this
+6 chapter the use of PFAS as a processing agent, mold release agent, or
+7 intermediate is considered intentional introduction where PFAS are detected in
+8 the final covered product.
+9 Sec. 9. 9 V.S.A. § 2494s is amended to read:
+10 (a) A manufacturer or other person that sells firefighting equipment to any
+11 person, municipality, or State agency shall provide written notice to the
+12 purchaser at the time of sale, citing to this subchapter, if the personal protective
+13 equipment or station wear contains PFAS. The written notice shall include a
+14 statement that the personal protective equipment or station wear contains
+15 PFAS and the reason PFAS are added to the equipment not sell, offer for sale,
+16 distribute for sale, or distribute for use in this State any personal protective
+17 equipment to which PFAS have been intentionally added.
+18 (b) The manufacturer or person selling personal protective equipment or
+19 station wear and the purchaser of the personal protective equipment or station
+20 wear shall retain the notice for at least three years from the date of the
+21 transaction. The prohibitions under subsection (a) of this section shall not
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 18 of 22
+1 apply to personal protective equipment that is a respirator or respirator
+2 protection equipment, provided that a manufacturer of a respirator or respirator
+3 protection equipment shall provide written notice to the purchaser at the time
+4 of sale, citing to this subchapter if the respirator or respirator protection
+5 equipment contains PFAS. The written notice shall include a statement that
+6 the respirator or respirator protection equipment contains PFAS and the reason
+7 PFAS are added to the equipment. The manufacturer or person selling
+8 respirator or respirator protection equipment and the purchaser of the respirator
+9 or respirator protection equipment shall retain the notice for at least three years
+10 from the date of the transaction.
+11 Sec. 10. 9 V.S.A. § 2494s is amended to read:
+12 § 2494s. PROHIBITED SALE OF PERSONAL PROTECTIVE
+13 EQUIPMENT CONTAINING PFAS
+14 (a) A manufacturer or other person that sells firefighting equipment to any
+15 person, municipality, or State agency shall not sell, offer for sale, distribute for
+16 sale, or distribute for use in this State any personal protective equipment to
+17 which PFAS have been intentionally added.
+18 (b) The prohibitions under subsection (a) of this section shall not apply to
+19 personal protective equipment that is a respirator or respirator protection
+20 equipment, provided that a manufacturer of a respirator or respirator protection
+21 equipment shall provide written notice to the purchaser at the time of sale,
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 19 of 22
+1 citing to this subchapter if the respirator or respirator protection equipment
+2 contains PFAS. The written notice shall include a statement that the respirator
+3 or respirator protection equipment contains PFAS and the reason PFAS are
+4 added to the equipment. The manufacturer or person selling respirator or
+5 respirator protection equipment and the purchaser of the respirator or respirator
+6 protection equipment shall retain the notice for at least three years from the
+7 date of the transaction. [Repealed.]
+8 Sec. 11. NOTICE OF PRESENCE OF PFAS IN STATION WEAR PRIOR
+9 TO PROHIBITION OF PFAS IN APPAREL
+10 (a) As used in this section:
+11 (1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” has the
+12 same meaning as in 9 V.S.A. § 2494p.
+13 (2) “Station wear” means uniform shirts and pants worn by firefighting
+14 personnel in the performance of their duties, often underneath personal
+15 protective equipment.
+16 (b) Prior to the limitation of PFAS in textile articles under 9 V.S.A. chapter
+17 63, subchapter 12A beginning on July 1, 2026 under 9 V.S.A. § 2494f, a
+18 manufacturer or other person that sells station wear to any person,
+19 municipality, or State agency shall provide written notice to the purchaser at
+20 the time of sale, citing to this subchapter, if the station wear contains PFAS.
+21 The written notice shall include a statement that station wear contains PFAS
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 20 of 22
+1 and the reason PFAS are added to the station wear. The manufacturer or
+2 person selling station wear and the purchaser of station wear shall retain the
+3 notice for at least three years from the date of the transaction.
+4 Sec. 12. ANR REPORT ON AVAILABILITY OF PFAS-FREE PERSONAL
+5 PROTECTIVE EQUIPMENT
+6 (a) As used in this section:
+7 (1) “Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” means a
+8 class of fluorinated organic chemicals containing at least one fully fluorinated
+9 carbon atom.
+10 (2) “Personal protective equipment” means clothing designed, intended,
+11 or marketed to be worn by firefighting personnel in the performance of their
+12 duties, designed with the intent for use in fire and rescue activities, and
+13 includes jackets, pants, shoes, gloves, helmets, and respiratory equipment.
+14 (b) On or before December 15, 2028, the Agency of Natural Resources,
+15 after consultation with the Department of Public Safety, shall report to the
+16 Senate Committees on Health and Welfare and on Natural Resources and
+17 Energy and the House Committees on Human Service and on Environment
+18 regarding the availability of personal protective equipment that does not
+19 include PFAS. The report shall include:
+20 (1) a summary of the general availability in the State of personal
+21 protective equipment that does not include PFAS, including whether
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 21 of 22
+1 respirators that do not include PFAS are generally available to firefighting
+2 personnel in Vermont; and
+3 (2) a summary of the cost of personal protective equipment that does not
+4 include PFAS, including whether the personal protective equipment that does
+5 not include PFAS is available at comparable costs to personal protective
+6 equipment that includes PFAS.
+7 (c) The Agency of Natural Resources shall submit a copy of the report
+8 required under this section to the Vermont League of Cities and Towns to
+9 make available to municipal firefighting departments.
+10 * * * Effective Dates * * *
+11 Sec. 13. EFFECTIVE DATES
+12 (a) This section and Secs. 4 and 5 (reports to the General Assembly), Sec.
+13 11 (notice of PFAS in station wear), and Sec. 12 (availability of PFAS-free
+14 personal protective equipment) shall take effect on July 1, 2025.
+15 (b)(1) Sec. 1 (PFAS in consumer products) shall take effect on January 1,
+16 2026, except that:
+17 (A) 9 V.S.A. § 2494e(10) (definition of intentionally added) shall
+18 take effect on July 1, 2027;
+19 (B) 9 V.S.A. § 2494f(a)(3) (cleaning products) and (a)(5) (dental
+20 floss) and 9 V.S.A. § 2494g (fluorine treated containers) shall take effect on
+21 July 1, 2027; and
+VT LEG #383825 v.1
+
+SENATE PROPOSAL OF AMENDMENT H.238
+2025 Page 22 of 22
+1 (C) 9 V.S.A. § 2494f(a)(4) (cookware) shall take effect July 1, 2028.
+2 (2) Sec. 1 and this section shall supersede those provisions of 2024 Acts
+3 and Resolves No. 131, Sec. 3 that conflict with the provisions of this act.
+4 (c) Sec. 2 (definition of regulated PFAS) shall take effect on July 1, 2027.
+5 (d) Sec. 3 (definition of outdoor apparel) shall take effect on July 1, 2028.
+6 (e) Secs. 6 (repeal of Act 131 provisions) and 7 (amended Act 131 effective
+7 dates) shall take effect on January 1, 2026.
+8 (f) Sec. 8 (definition of intentionally added; PPE containing PFAS) shall
+9 take effect January 1, 2026 and shall supersede those provisions of 2024 Acts
+10 and Resolves No. 131, Sec. 6 that conflict with the provisions of this act.
+11 (g) Sec. 9 (prohibition on sale of PPE containing PFAS) shall take effect on
+12 July 1, 2029.
+13 (h) Sec. 10 (prohibition on sale of respirators containing PFAS) shall take
+14 effect on July 1, 2032.
+VT LEG #383825 v.1
+
+[DELETED:   H  P H A p T t * S S § A ( m ( f b r i ( ( i c]
+[DELETED:   H  P u f f d o ( ( p ( c c p ( d f t ( f r u]
+[DELETED:   H  P ( c ( h y ( p “ t c “ P F r P ( u ( s i n]
+[DELETED:   H  P p s m ( c c p m ( u ( m c c c c ( 2 ( o f]
+[DELETED:   H  P ( a e e c u a s ( m f ( s ( “ ( a c b t]
+[DELETED:   H  P ( a ( a ( r p ( m j s o ( o a u n ( ( ( c]
+[DELETED:   H  P ( i c ( ( §     ( s t a ( m d h ( ( ( ( (]
+[DELETED:   H  P ( ( ( ( ( s r ( a a b § A o ( ( p a]
+[DELETED:   H  P § ( s i ( § A o P § ( s b ( § ( s h (]
+[DELETED:   H  P § ( s w ( § ( s r ( § ( d ( o f ( t t p]
+[DELETED:   H  P ( s t § ( m 6 c ( m s ( S s a ( t m r a d]
+[DELETED:   H  P § ( 2 ( c a u S ( “ ( a c b t ( a S ( ( i]
+[DELETED:   H  P c u f f d o ( ( S ( o o ( s t W p ( c r]
+[DELETED:   H  P ( s d s i ( s c b ( t u ( t p ( a c S ( s]
+[DELETED:   H  P a N g ( c m w s s ( a H a f ( V ( o S c b]
+[DELETED:   H  P u a S ( o ( r S S T ( i a J ( t ( * S ( t]
+[DELETED:   H  P a o a P i c i t S ( p p e s P d e ( s w t]
+[DELETED:   H  P a p p o e t P r o f S §   ( p s w ( p e e]
+[DELETED:   H  P c c o a r p d S   ( ( s ( p p ( 6 m m t T]
+[DELETED:   H  P a p n S   ( ( c c ( o d i ( a S E r i ( p]
+[DELETED:   H  P r p ( i n e ( r m * S ( 1 p ( 2 ( t ( f J]
+[DELETED:   H  P ( ( a ( ( ( d ( t a ( J ( e]

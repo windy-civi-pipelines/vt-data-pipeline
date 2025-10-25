@@ -1,0 +1,243 @@
+Title: 2 An act relating to Medicaid payment rates for community-based service
+Official Title: 2 An act relating to Medicaid payment rates for community-based service
+Number of Sections: 1
+Source: versions - As Passed by Both House and Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 1 of 5
+1 H.13
+3 providers
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 33 V.S.A. § 900 is amended to read:
+6 § 900. DEFINITIONS
+7 Unless otherwise required by the context, the words and phrases in this
+8 chapter shall be defined as follows As used in this chapter:
+9 * * *
+10 (7) “Community-based services” means the following services provided
+11 pursuant to Vermont’s Global Commitment to Health Section 1115 Medicaid
+12 demonstration or a successor program:
+13 (A) long-term services and supports provided to older adults and
+14 adults with disabilities in a home or community setting other than a nursing
+15 home, including enhanced residential care services;
+16 (B) home health and hospice services, adult day rehabilitation
+17 services, and assistive community care services; and
+18 (C) short- and long-term services and supports provided to
+19 individuals with mental conditions, individuals with substance use disorders,
+20 individuals with developmental or intellectual disabilities, and individuals with
+21 a brain injury, in a home or community setting that is not a clinical residential
+22 setting or a private nonmedical residential setting.
+VT LEG #383189 v.1
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 2 of 5
+1 Sec. 2. 33 V.S.A. § 911 is added to read:
+2 § 911. PAYMENT RATES FOR PROVIDERS OF COMMUNITY-BASED
+3 SERVICES
+4 (a) The Secretary of Human Services shall calculate payment rates for
+5 providers of community-based services that are reasonable and adequate to
+6 achieve the required outcomes for the populations they serve. When
+7 calculating these payment rates, the Secretary:
+8 (1) for informational purposes, shall ensure that the calculations take
+9 into account factors that include:
+10 (A) the reasonable cost of any governmental mandate that has been
+11 enacted, adopted, or imposed by any State or federal authority; and
+12 (B) a cost adjustment factor to reflect changes in reasonable costs of
+13 goods to and services of providers of community-based services, including
+14 those attributed to inflation and labor market dynamics; and
+15 (2) may consider geographic differences in wages, benefits, housing,
+16 and real estate costs in each region of the State.
+17 (b) The Secretary shall establish a methodology for calculating payment
+18 rates for providers of community-based services in accordance with this
+19 section. The methodology shall:
+20 (1) provide a schedule for conducting studies of the Medicaid
+21 reimbursement rates paid to the providers of community-based services,
+VT LEG #383189 v.1
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 3 of 5
+1 including the rates’ adequacy and their underlying methodologies, that
+2 includes studying the rates paid to providers for each type of service at least
+3 once every five years;
+4 (2) set forth a predictable timeline for redetermination of base rates;
+5 (3) include a process for calculating an annual inflationary rate
+6 adjustment;
+7 (4) to the extent permitted by the Centers for Medicare and Medicaid
+8 Services, take into account the financial needs of providers whose
+9 reimbursements may be negatively affected by client absences; and
+10 (5) use Vermont labor market rates and Vermont costs of operation.
+11 (c) The Secretary shall establish a process by which a provider of
+12 community-based services whose financial condition places it at imminent risk
+13 of closure may request provider stabilization from the Agency.
+14 (d) The Secretary shall recalculate the payment rates for providers of
+15 community-based services in accordance with this section at least annually and
+16 shall report those rates, and the amounts necessary to fund them, to the House
+17 Committees on Appropriations, on Human Services, and on Health Care and
+18 the Senate Committees on Appropriations and on Health and Welfare annually
+19 as part of the Agency’s budget presentation.
+VT LEG #383189 v.1
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 4 of 5
+1 Sec. 3. 18 V.S.A. § 8914 is amended to read:
+2 § 8914. RATES OF PAYMENTS TO DESIGNATED AND SPECIALIZED
+3 SERVICE AGENCIES
+4 (a) The Secretary of Human Services shall have sole responsibility for
+5 establishing calculate the Departments of Health’s, of Mental Health’s, and of
+6 Disabilities, Aging, and Independent Living’s rates of payments for designated
+7 and specialized service agencies that are reasonable and adequate to achieve
+8 the required outcomes for designated populations in accordance with 33 V.S.A.
+9 § 911. When establishing rates of payment for designated and specialized
+10 service agencies, the Secretary shall adjust rates to take into account factors
+11 that include:
+12 (1) the reasonable cost of any governmental mandate that has been
+13 enacted, adopted, or imposed by any State or federal authority; and
+14 (2) a cost adjustment factor to reflect changes in reasonable costs of
+15 goods and services of designated and specialized service agencies, including
+16 those attributed to inflation and labor market dynamics.
+17 (b) When establishing rates of payment for designated and specialized
+18 service agencies, the Secretary may consider geographic differences in wages,
+19 benefits, housing, and real estate costs in each region of the State.
+VT LEG #383189 v.1
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 5 of 5
+1 Sec. 4. PAYMENT RATES FOR PROVIDERS OF COMMUNITY-BASED
+2 SERVICES; UPDATE ON IMPLEMENTATION; REPORT
+3 On or before January 15, 2026, the Agency of Human Services shall report
+4 to the House Committees on Human Services and on Health Care and the
+5 Senate Committee on Health and Welfare with an update on the Agency’s
+6 implementation of 33 V.S.A. § 911, as added by Sec. 2 of this act, including
+7 the Agency’s proposed schedule for Medicaid rate studies and the
+8 methodology the Agency developed for calculating payment rates for providers
+9 of community-based services.
+10 Sec. 5. EFFECTIVE DATE
+11 This act shall take effect on passage.
+VT LEG #383189 v.1
+[DELETED:  H P H A p I S § U c * ( p d ( a h ( s ( i i a s]
+[DELETED:  H P S §   ( p a c ( i ( e ( g t ( a ( r s ( r]
+[DELETED:  H P i i o ( ( a ( S r ( ( c o ( c s C t a]
+[DELETED:  H P S §   ( e D a t § s t ( e ( g t ( s b]
+[DELETED:  H P S   O t S i t m o S T]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 1 of 5
+1 H.13
+2 An act relating to Medicaid payment rates for community-based service
+3 providers
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 33 V.S.A. § 900 is amended to read:
+6 § 900. DEFINITIONS
+7 Unless otherwise required by the context, the words and phrases in this
+8 chapter shall be defined as follows As used in this chapter:
+9 * * *
+10 (7) “Community-based services” means the following services provided
+11 pursuant to Vermont’s Global Commitment to Health Section 1115 Medicaid
+12 demonstration or a successor program:
+13 (A) long-term services and supports provided to older adults and
+14 adults with disabilities in a home or community setting other than a nursing
+15 home, including enhanced residential care services;
+16 (B) home health and hospice services, adult day rehabilitation
+17 services, and assistive community care services; and
+18 (C) short- and long-term services and supports provided to
+19 individuals with mental conditions, individuals with substance use disorders,
+20 individuals with developmental or intellectual disabilities, and individuals with
+21 a brain injury, in a home or community setting that is not a clinical residential
+22 setting or a private nonmedical residential setting.
+VT LEG #383189 v.1
+
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 2 of 5
+1 Sec. 2. 33 V.S.A. § 911 is added to read:
+2 § 911. PAYMENT RATES FOR PROVIDERS OF COMMUNITY-BASED
+3 SERVICES
+4 (a) The Secretary of Human Services shall calculate payment rates for
+5 providers of community-based services that are reasonable and adequate to
+6 achieve the required outcomes for the populations they serve. When
+7 calculating these payment rates, the Secretary:
+8 (1) for informational purposes, shall ensure that the calculations take
+9 into account factors that include:
+10 (A) the reasonable cost of any governmental mandate that has been
+11 enacted, adopted, or imposed by any State or federal authority; and
+12 (B) a cost adjustment factor to reflect changes in reasonable costs of
+13 goods to and services of providers of community-based services, including
+14 those attributed to inflation and labor market dynamics; and
+15 (2) may consider geographic differences in wages, benefits, housing,
+16 and real estate costs in each region of the State.
+17 (b) The Secretary shall establish a methodology for calculating payment
+18 rates for providers of community-based services in accordance with this
+19 section. The methodology shall:
+20 (1) provide a schedule for conducting studies of the Medicaid
+21 reimbursement rates paid to the providers of community-based services,
+VT LEG #383189 v.1
+
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 3 of 5
+1 including the rates’ adequacy and their underlying methodologies, that
+2 includes studying the rates paid to providers for each type of service at least
+3 once every five years;
+4 (2) set forth a predictable timeline for redetermination of base rates;
+5 (3) include a process for calculating an annual inflationary rate
+6 adjustment;
+7 (4) to the extent permitted by the Centers for Medicare and Medicaid
+8 Services, take into account the financial needs of providers whose
+9 reimbursements may be negatively affected by client absences; and
+10 (5) use Vermont labor market rates and Vermont costs of operation.
+11 (c) The Secretary shall establish a process by which a provider of
+12 community-based services whose financial condition places it at imminent risk
+13 of closure may request provider stabilization from the Agency.
+14 (d) The Secretary shall recalculate the payment rates for providers of
+15 community-based services in accordance with this section at least annually and
+16 shall report those rates, and the amounts necessary to fund them, to the House
+17 Committees on Appropriations, on Human Services, and on Health Care and
+18 the Senate Committees on Appropriations and on Health and Welfare annually
+19 as part of the Agency’s budget presentation.
+VT LEG #383189 v.1
+
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 4 of 5
+1 Sec. 3. 18 V.S.A. § 8914 is amended to read:
+2 § 8914. RATES OF PAYMENTS TO DESIGNATED AND SPECIALIZED
+3 SERVICE AGENCIES
+4 (a) The Secretary of Human Services shall have sole responsibility for
+5 establishing calculate the Departments of Health’s, of Mental Health’s, and of
+6 Disabilities, Aging, and Independent Living’s rates of payments for designated
+7 and specialized service agencies that are reasonable and adequate to achieve
+8 the required outcomes for designated populations in accordance with 33 V.S.A.
+9 § 911. When establishing rates of payment for designated and specialized
+10 service agencies, the Secretary shall adjust rates to take into account factors
+11 that include:
+12 (1) the reasonable cost of any governmental mandate that has been
+13 enacted, adopted, or imposed by any State or federal authority; and
+14 (2) a cost adjustment factor to reflect changes in reasonable costs of
+15 goods and services of designated and specialized service agencies, including
+16 those attributed to inflation and labor market dynamics.
+17 (b) When establishing rates of payment for designated and specialized
+18 service agencies, the Secretary may consider geographic differences in wages,
+19 benefits, housing, and real estate costs in each region of the State.
+VT LEG #383189 v.1
+
+AS PASSED BY HOUSE AND SENATE H.13
+2025 Page 5 of 5
+1 Sec. 4. PAYMENT RATES FOR PROVIDERS OF COMMUNITY-BASED
+2 SERVICES; UPDATE ON IMPLEMENTATION; REPORT
+3 On or before January 15, 2026, the Agency of Human Services shall report
+4 to the House Committees on Human Services and on Health Care and the
+5 Senate Committee on Health and Welfare with an update on the Agency’s
+6 implementation of 33 V.S.A. § 911, as added by Sec. 2 of this act, including
+7 the Agency’s proposed schedule for Medicaid rate studies and the
+8 methodology the Agency developed for calculating payment rates for providers
+9 of community-based services.
+10 Sec. 5. EFFECTIVE DATE
+11 This act shall take effect on passage.
+VT LEG #383189 v.1
+
+[DELETED:  H P H A p I S § U c * ( p d ( a h ( s ( i i a s]
+[DELETED:  H P S §   ( p a c ( i ( e ( g t ( a ( r s ( r]
+[DELETED:  H P i i o ( ( a ( S r ( ( c o ( c s C t a]
+[DELETED:  H P S §   ( e D a t § s t ( e ( g t ( s b]
+[DELETED:  H P S   O t S i t m o S T]

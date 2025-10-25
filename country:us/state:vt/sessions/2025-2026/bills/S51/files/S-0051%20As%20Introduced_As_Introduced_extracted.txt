@@ -1,0 +1,190 @@
+Title: BILL AS INTRODUCED S.51
+Official Title: BILL AS INTRODUCED S.51
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 S.51
+2 Introduced by Senators Hardy, Clarkson, Gulick, Harrison, Major, Norris,
+3 Vyhovsky, Weeks and White
+4 Referred to Committee on
+5 Date:
+6 Subject: Taxation; income tax; tax credit
+7 Statement of purpose of bill as introduced: This bill proposes to create a
+8 Vermont unpaid caregiver tax credit to provide financial support to
+9 Vermonters who spend significant time providing uncompensated care for a
+10 family member.
+11 An act relating to the Vermont unpaid caregiver tax credit
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. FINDINGS
+14 The General Assembly finds:
+15 (1) According to the U.S. Department of Labor, women in the United
+16 States 55 years of age and older provide 26.6 million hours of unpaid care to
+17 family and friends daily.
+18 (2) According to the AARP:
+19 (A) More than 75 percent of family caregivers 50 years of age and
+20 older who retired early because of family caregiving responsibilities would
+VT LEG #379761 v.1
+BILL AS INTRODUCED S.51
+2025 Page 2 of 4
+1 have remained in the workforce longer if they had access to financial or
+2 nonfinancial supports.
+3 (B) If family caregivers aged 50 years of age and older have access to
+4 support in the workplace, U.S. Gross Domestic Product could grow by an
+5 additional $1.7 trillion (5.5 percent) in 2030.
+6 (3) According to a 2023 report by the Urban Institute, entitled “Lifetime
+7 Employment-Related Costs to Women of Providing Family Care,” the
+8 employment-related costs for mothers of providing unpaid care to minor
+9 children and parents, parents-in-law, and spouses (including unmarried
+10 partners) with care needs average $295,000.00 over a lifetime.
+11 (4) Using a national survey and six focus groups, the Commonwealth
+12 Fund identified financial compensation for the time spent caregiving as a top
+13 policy priority for family caregivers.
+14 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+15 § 5813. STATUTORY PURPOSES
+16 * * *
+17 (aa) The statutory purpose of the unpaid caregiver tax credit in section
+18 5830g of this title is to provide financial support to Vermonters who spend
+19 significant time providing uncompensated care for a family member.
+VT LEG #379761 v.1
+BILL AS INTRODUCED S.51
+2025 Page 3 of 4
+1 Sec. 3. 32 V.S.A. § 5830g is added to read:
+2 § 5830g. VERMONT UNPAID CAREGIVER TAX CREDIT
+3 (a) A resident individual or part-year resident individual who provides
+4 uncompensated care shall be entitled to a refundable credit against the tax
+5 imposed by section 5822 of this title for the taxable year. The maximum
+6 allowable credit per taxable year shall be $2,500.00 for providing 12 months of
+7 uncompensated care. The credit shall be based on the number of months the
+8 individual caregiver spent providing at least 20 hours per week of
+9 uncompensated care for an individual who:
+10 (1) is related to the caregiver by blood, civil marriage, or adoption;
+11 (2) needs assistance with daily activities, home health care, or assistance
+12 remaining safe at home;
+13 (3) has a medically diagnosed disability or health condition; and
+14 (4) does not reside at a residential care home, an assisted living
+15 residence, or nursing home as defined by 33 V.S.A. § 7102, or any other
+16 similar adult care home that is licensed or required to be licensed pursuant to
+17 33 V.S.A. chapter 71.
+18 (b) Notwithstanding subsection (a) of this section, the amount of the credit
+19 under this section shall be reduced by $50.00 for each $1,000.00, or fraction
+20 thereof, by which the individual’s adjusted gross income exceeds $125,000.00,
+VT LEG #379761 v.1
+BILL AS INTRODUCED S.51
+2025 Page 4 of 4
+1 irrespective of the individual’s filing status. For purposes of this subsection,
+2 spouses filing jointly shall be considered an individual.
+3 (c) An individual claiming the credit under this section shall attest that they
+4 met all requirements under this section for the number of months claimed.
+5 Upon the Commissioner’s request, an individual claiming a credit under this
+6 section shall provide supporting documentation or other information relating to
+7 the individual’s qualification for the credit.
+8 Sec. 4. EFFECTIVE DATE
+9 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+10 January 1, 2025 and apply to taxable years beginning on and after January 1,
+11 2025.
+VT LEG #379761 v.1
+[DELETED:  S P S I S V R D S S V V f A I S T ( S f ( ( o]
+[DELETED:  S P h n ( s a ( E e c p ( F p S § * ( 5 s]
+[DELETED:  S P S § ( u i a u i u ( ( r ( ( r s 3 ( u t]
+[DELETED:  S P i s ( m U s t S N J 2]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.51
+2025 Page 1 of 4
+1 S.51
+2 Introduced by Senators Hardy, Clarkson, Gulick, Harrison, Major, Norris,
+3 Vyhovsky, Weeks and White
+4 Referred to Committee on
+5 Date:
+6 Subject: Taxation; income tax; tax credit
+7 Statement of purpose of bill as introduced: This bill proposes to create a
+8 Vermont unpaid caregiver tax credit to provide financial support to
+9 Vermonters who spend significant time providing uncompensated care for a
+10 family member.
+11 An act relating to the Vermont unpaid caregiver tax credit
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. FINDINGS
+14 The General Assembly finds:
+15 (1) According to the U.S. Department of Labor, women in the United
+16 States 55 years of age and older provide 26.6 million hours of unpaid care to
+17 family and friends daily.
+18 (2) According to the AARP:
+19 (A) More than 75 percent of family caregivers 50 years of age and
+20 older who retired early because of family caregiving responsibilities would
+VT LEG #379761 v.1
+
+BILL AS INTRODUCED S.51
+2025 Page 2 of 4
+1 have remained in the workforce longer if they had access to financial or
+2 nonfinancial supports.
+3 (B) If family caregivers aged 50 years of age and older have access to
+4 support in the workplace, U.S. Gross Domestic Product could grow by an
+5 additional $1.7 trillion (5.5 percent) in 2030.
+6 (3) According to a 2023 report by the Urban Institute, entitled “Lifetime
+7 Employment-Related Costs to Women of Providing Family Care,” the
+8 employment-related costs for mothers of providing unpaid care to minor
+9 children and parents, parents-in-law, and spouses (including unmarried
+10 partners) with care needs average $295,000.00 over a lifetime.
+11 (4) Using a national survey and six focus groups, the Commonwealth
+12 Fund identified financial compensation for the time spent caregiving as a top
+13 policy priority for family caregivers.
+14 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+15 § 5813. STATUTORY PURPOSES
+16 * * *
+17 (aa) The statutory purpose of the unpaid caregiver tax credit in section
+18 5830g of this title is to provide financial support to Vermonters who spend
+19 significant time providing uncompensated care for a family member.
+VT LEG #379761 v.1
+
+BILL AS INTRODUCED S.51
+2025 Page 3 of 4
+1 Sec. 3. 32 V.S.A. § 5830g is added to read:
+2 § 5830g. VERMONT UNPAID CAREGIVER TAX CREDIT
+3 (a) A resident individual or part-year resident individual who provides
+4 uncompensated care shall be entitled to a refundable credit against the tax
+5 imposed by section 5822 of this title for the taxable year. The maximum
+6 allowable credit per taxable year shall be $2,500.00 for providing 12 months of
+7 uncompensated care. The credit shall be based on the number of months the
+8 individual caregiver spent providing at least 20 hours per week of
+9 uncompensated care for an individual who:
+10 (1) is related to the caregiver by blood, civil marriage, or adoption;
+11 (2) needs assistance with daily activities, home health care, or assistance
+12 remaining safe at home;
+13 (3) has a medically diagnosed disability or health condition; and
+14 (4) does not reside at a residential care home, an assisted living
+15 residence, or nursing home as defined by 33 V.S.A. § 7102, or any other
+16 similar adult care home that is licensed or required to be licensed pursuant to
+17 33 V.S.A. chapter 71.
+18 (b) Notwithstanding subsection (a) of this section, the amount of the credit
+19 under this section shall be reduced by $50.00 for each $1,000.00, or fraction
+20 thereof, by which the individual’s adjusted gross income exceeds $125,000.00,
+VT LEG #379761 v.1
+
+BILL AS INTRODUCED S.51
+2025 Page 4 of 4
+1 irrespective of the individual’s filing status. For purposes of this subsection,
+2 spouses filing jointly shall be considered an individual.
+3 (c) An individual claiming the credit under this section shall attest that they
+4 met all requirements under this section for the number of months claimed.
+5 Upon the Commissioner’s request, an individual claiming a credit under this
+6 section shall provide supporting documentation or other information relating to
+7 the individual’s qualification for the credit.
+8 Sec. 4. EFFECTIVE DATE
+9 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+10 January 1, 2025 and apply to taxable years beginning on and after January 1,
+11 2025.
+VT LEG #379761 v.1
+
+[DELETED:  S P S I S V R D S S V V f A I S T ( S f ( ( o]
+[DELETED:  S P h n ( s a ( E e c p ( F p S § * ( 5 s]
+[DELETED:  S P S § ( u i a u i u ( ( r ( ( r s 3 ( u t]
+[DELETED:  S P i s ( m U s t S N J 2]

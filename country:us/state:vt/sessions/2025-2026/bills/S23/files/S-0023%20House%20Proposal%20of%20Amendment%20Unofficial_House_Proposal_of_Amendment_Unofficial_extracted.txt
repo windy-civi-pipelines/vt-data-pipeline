@@ -1,0 +1,392 @@
+Title: 2 An act relating to the use of synthetic media in elections
+Official Title: 2 An act relating to the use of synthetic media in elections
+Number of Sections: 1
+Source: versions - House Proposal of Amendment (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 1 of 8
+1 S.23
+3 The House proposes to the Senate to amend the bill by striking out all after
+4 the enacting clause and inserting in lieu thereof the following:
+5 Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+6 Subchapter 4. Use of Synthetic Media in Elections
+7 § 2031. DEFINITIONS
+8 As used in this subchapter:
+9 (1) “Deceptive and fraudulent synthetic media” means synthetic media
+10 that appears to a reasonable person to be an authentic representation of a
+11 political candidate and that injures the reputation of the candidate or attempts
+12 to unduly influence the outcome of an election.
+13 (2) “Synthetic media” means an image, an audio recording, or a video
+14 recording of a political candidate’s appearance, speech, or conduct that has
+15 been created or intentionally manipulated with the use of digital technology,
+16 including artificial intelligence, without the consent of the candidate.
+17 § 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+18 SYNTHETIC MEDIA
+19 (a) Disclosure. A person shall not, within 90 days before an election in
+20 Vermont, publish, communicate, or otherwise distribute synthetic media that
+21 the person knows is deceptive and fraudulent synthetic media unless the person
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 2 of 8
+1 includes a disclosure in the synthetic media stating: “This media has been
+2 created or intentionally manipulated by digital technology or artificial
+3 intelligence.”
+4 (1) For deceptive and fraudulent synthetic media consisting of images
+5 and video recordings, the text of the disclosure shall appear in a size that is
+6 easily readable by the average viewer. For video recordings, the disclosure
+7 shall appear for the full duration of the video recording.
+8 (2) For deceptive and fraudulent synthetic media consisting of audio
+9 recordings only, the disclosure shall be read in a clearly spoken manner and in
+10 a pitch and pace that can be easily heard by the average listener, at the
+11 beginning of the audio recording, at the end of the audio recording, and, if the
+12 audio is greater than two minutes in length, interspersed within the audio
+13 recording at intervals of not greater than two minutes each.
+14 (b) Exceptions. Subsection (a) of this section shall not apply to:
+15 (1) a radio or television broadcasting station, including a cable or
+16 satellite television operator, programmer, or producer, or to a website,
+17 streaming platform, or mobile application, that:
+18 (A) broadcasts deceptive and fraudulent synthetic media as part of a
+19 bona fide newscast, news interview, news documentary, commentary of
+20 general interest, or on-the-spot coverage of bona fide news events, so long as
+21 the broadcast clearly acknowledges through content or a disclosure, in a
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 3 of 8
+1 manner that can be easily heard or read by the average listener or viewer, that
+2 there are questions about the authenticity of the deceptive and fraudulent
+3 synthetic media;
+4 (B) is paid to broadcast deceptive and fraudulent synthetic media; or
+5 (C) is required by federal law to broadcast advertisements from
+6 legally qualified candidates;
+7 (2) a website or a regularly published newspaper, magazine, or other
+8 periodical of general circulation, including an internet or electronic
+9 publication, that routinely carries news and commentary of general interest,
+10 and that publishes deceptive and fraudulent synthetic media, if the publication
+11 clearly states that the deceptive and fraudulent synthetic media does not
+12 accurately represent the speech or conduct of the represented individual;
+13 (3) a person that produces or distributes deceptive and fraudulent
+14 synthetic media constituting satire or parody;
+15 (4) a provider of a telecommunications service or information service, as
+16 those terms are defined in the Communications Act of 1934, 47 U.S.C. § 153,
+17 for content provided by another person; or
+18 (5) a provider of an interactive computer service, as defined in 47
+19 U.S.C. § 230, for content provided by another person.
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 4 of 8
+1 § 2033. PENALTIES
+2 (a) A person that knowingly and intentionally violates a provision of this
+3 subchapter shall be fined not more than $1,000.00, unless:
+4 (1) the person commits the violation with the intent to cause violence or
+5 bodily harm, in which case the fine shall be not more than $5,000.00;
+6 (2) the person commits the violation within five years after one or more
+7 prior violations under this section, in which case the fine shall be not more than
+8 $10,000.00; or
+9 (3) the person commits the violation with the intent to cause violence or
+10 bodily harm and the person commits the violation within five years after one or
+11 more prior violations under this section, in which case the fine shall be not
+12 more than $15,000.00.
+13 (b) A candidate whose appearance, speech, conduct, or environment is
+14 misrepresented through the use of deceptive and fraudulent synthetic media in
+15 violation of section 2032 of this title may seek injunctive or other equitable
+16 relief prohibiting the publication, communication, or other distribution of such
+17 deceptive and fraudulent synthetic media.
+18 Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+19 Subchapter 5. Enforcement and Investigation
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 5 of 8
+1 § 2041. ENFORCEMENT
+2 In addition to the other remedies provided in this chapter, a State’s Attorney
+3 or the Attorney General may institute any appropriate action, injunction, or
+4 other proceeding to prevent, restrain, correct, or abate any violation of this
+5 chapter.
+6 § 2042. CIVIL INVESTIGATIONS
+7 (a)(1) The Attorney General or a State’s Attorney, whenever there is reason
+8 to believe any person to be or to have been in violation of this chapter, may
+9 examine or cause to be examined by any designated agent or representative
+10 any books, records, papers, memoranda, or physical objects of any nature
+11 bearing upon each alleged violation and may demand written responses under
+12 oath to questions bearing upon each alleged violation.
+13 (2) The Attorney General or a State’s Attorney may require the
+14 attendance of such person or of any other person having knowledge in the
+15 premises in the county where such person resides or has a place of business or
+16 in Washington County if such person is a nonresident or has no place of
+17 business within the State and may take testimony and require proof material
+18 for that person’s information and may administer oaths or take
+19 acknowledgment in respect of any book, record, paper, or memorandum.
+20 (3) The Attorney General or a State’s Attorney shall serve notice of the
+21 time, place, and cause of such examination or attendance or notice of the cause
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 6 of 8
+1 of the demand for written responses personally or by certified mail upon such
+2 person at that person’s principal place of business or, if such place is not
+3 known, to that person’s known address. Such notice shall include a statement
+4 that a knowing and intentional violation of this chapter is subject to criminal
+5 prosecution.
+6 (4) Any book, record, paper, memorandum, or other information
+7 produced by any person pursuant to this section shall not, unless otherwise
+8 ordered by a court of this State for good cause shown, be disclosed to any
+9 person other than the authorized agent or representative of the Attorney
+10 General or a State’s Attorney or another law enforcement officer engaged in
+11 legitimate law enforcement activities unless with the consent of the person
+12 producing the same, except that any transcript of oral testimony, written
+13 responses, documents, or other information produced pursuant to this section
+14 may be used in the enforcement of this chapter, including in connection with
+15 any civil action brought under this subchapter or subsection (c) of this section.
+16 (5) Nothing in this subsection is intended to prevent the Attorney
+17 General or a State’s Attorney from disclosing the results of an investigation
+18 conducted under this section, including the grounds for the decision as to
+19 whether to bring an enforcement action alleging a violation of this chapter or
+20 of any rule made pursuant to this chapter.
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 7 of 8
+1 (6) This subsection shall not be applicable to any criminal investigation
+2 or prosecution brought under the laws of this or any state.
+3 (b)(1) A person upon whom a notice is served pursuant to the provisions of
+4 this section shall comply with its terms unless otherwise provided by the order
+5 of a court of this State.
+6 (2) Any person who, with intent to avoid, evade, or prevent compliance,
+7 in whole or in part, with any civil investigation under this section, removes
+8 from any place; conceals, withholds, or destroys; or mutilates, alters, or by any
+9 other means falsifies any documentary material in the possession, custody, or
+10 control of any person subject to such notice or mistakes or conceals any
+11 information shall be fined not more than $5,000.00.
+12 (c)(1) Whenever any person fails to comply with any notice served upon
+13 that person under this section or whenever satisfactory copying or reproduction
+14 of any such material cannot be done and the person refuses to surrender the
+15 material, the Attorney General or a State’s Attorney may file, in the Superior
+16 Court in the county in which the person resides or of that person’s principal
+17 place of business or in Washington County if the person is a nonresident or has
+18 no principal place of business in this State, and serve upon the person a petition
+19 for an order of the court for the enforcement of this section.
+20 (2) Whenever any petition is filed under this section, the court shall have
+21 jurisdiction to hear and determine the matter so presented and to enter any
+VT LEG #384264 v.1
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 8 of 8
+1 order or orders as may be required to carry into effect the provisions of this
+2 section. Any disobedience of any order entered under this section by any court
+3 shall be punished as a contempt of the court.
+4 (d) Any person aggrieved by a civil investigation conducted under this
+5 section may seek relief from Washington Superior Court or the Superior Court
+6 in the county in which the aggrieved person resides. Except for cases the court
+7 considers to be of greater importance, proceedings before Superior Court as
+8 authorized by this section shall take precedence on the docket over all other
+9 cases.
+10 Sec. 3. EFFECTIVE DATE
+11 This act shall take effect on passage.
+VT LEG #384264 v.1
+[DELETED:   S  P S A T t S S § A ( t p t ( r b i §   ( V t]
+[DELETED:   S  P i c i ( a e s ( r a b a r ( ( s s ( b g t]
+[DELETED:   S  P m t s ( ( l ( p p a c a ( s ( t f ( U]
+[DELETED:   S  P § ( s ( b ( p $ ( b m m ( m v r d S S]
+[DELETED:   S  P § I o o c § ( t e a b o ( a p i b f a ( t]
+[DELETED:   S  P o p k t p ( p o p G l p r m a ( G c w o]
+[DELETED:   S  P ( o ( t o ( i f o c i ( t o m C p n f ( j]
+[DELETED:   S  P o s s ( s i c a c S T]
+
+
+================================================================================
+
+Raw Text:
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 1 of 8
+1 S.23
+2 An act relating to the use of synthetic media in elections
+3 The House proposes to the Senate to amend the bill by striking out all after
+4 the enacting clause and inserting in lieu thereof the following:
+5 Sec. 1. 17 V.S.A. chapter 35, subchapter 4 is added to read:
+6 Subchapter 4. Use of Synthetic Media in Elections
+7 § 2031. DEFINITIONS
+8 As used in this subchapter:
+9 (1) “Deceptive and fraudulent synthetic media” means synthetic media
+10 that appears to a reasonable person to be an authentic representation of a
+11 political candidate and that injures the reputation of the candidate or attempts
+12 to unduly influence the outcome of an election.
+13 (2) “Synthetic media” means an image, an audio recording, or a video
+14 recording of a political candidate’s appearance, speech, or conduct that has
+15 been created or intentionally manipulated with the use of digital technology,
+16 including artificial intelligence, without the consent of the candidate.
+17 § 2032. DISCLOSURE OF A DECEPTIVE AND FRAUDULENT
+18 SYNTHETIC MEDIA
+19 (a) Disclosure. A person shall not, within 90 days before an election in
+20 Vermont, publish, communicate, or otherwise distribute synthetic media that
+21 the person knows is deceptive and fraudulent synthetic media unless the person
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 2 of 8
+1 includes a disclosure in the synthetic media stating: “This media has been
+2 created or intentionally manipulated by digital technology or artificial
+3 intelligence.”
+4 (1) For deceptive and fraudulent synthetic media consisting of images
+5 and video recordings, the text of the disclosure shall appear in a size that is
+6 easily readable by the average viewer. For video recordings, the disclosure
+7 shall appear for the full duration of the video recording.
+8 (2) For deceptive and fraudulent synthetic media consisting of audio
+9 recordings only, the disclosure shall be read in a clearly spoken manner and in
+10 a pitch and pace that can be easily heard by the average listener, at the
+11 beginning of the audio recording, at the end of the audio recording, and, if the
+12 audio is greater than two minutes in length, interspersed within the audio
+13 recording at intervals of not greater than two minutes each.
+14 (b) Exceptions. Subsection (a) of this section shall not apply to:
+15 (1) a radio or television broadcasting station, including a cable or
+16 satellite television operator, programmer, or producer, or to a website,
+17 streaming platform, or mobile application, that:
+18 (A) broadcasts deceptive and fraudulent synthetic media as part of a
+19 bona fide newscast, news interview, news documentary, commentary of
+20 general interest, or on-the-spot coverage of bona fide news events, so long as
+21 the broadcast clearly acknowledges through content or a disclosure, in a
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 3 of 8
+1 manner that can be easily heard or read by the average listener or viewer, that
+2 there are questions about the authenticity of the deceptive and fraudulent
+3 synthetic media;
+4 (B) is paid to broadcast deceptive and fraudulent synthetic media; or
+5 (C) is required by federal law to broadcast advertisements from
+6 legally qualified candidates;
+7 (2) a website or a regularly published newspaper, magazine, or other
+8 periodical of general circulation, including an internet or electronic
+9 publication, that routinely carries news and commentary of general interest,
+10 and that publishes deceptive and fraudulent synthetic media, if the publication
+11 clearly states that the deceptive and fraudulent synthetic media does not
+12 accurately represent the speech or conduct of the represented individual;
+13 (3) a person that produces or distributes deceptive and fraudulent
+14 synthetic media constituting satire or parody;
+15 (4) a provider of a telecommunications service or information service, as
+16 those terms are defined in the Communications Act of 1934, 47 U.S.C. § 153,
+17 for content provided by another person; or
+18 (5) a provider of an interactive computer service, as defined in 47
+19 U.S.C. § 230, for content provided by another person.
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 4 of 8
+1 § 2033. PENALTIES
+2 (a) A person that knowingly and intentionally violates a provision of this
+3 subchapter shall be fined not more than $1,000.00, unless:
+4 (1) the person commits the violation with the intent to cause violence or
+5 bodily harm, in which case the fine shall be not more than $5,000.00;
+6 (2) the person commits the violation within five years after one or more
+7 prior violations under this section, in which case the fine shall be not more than
+8 $10,000.00; or
+9 (3) the person commits the violation with the intent to cause violence or
+10 bodily harm and the person commits the violation within five years after one or
+11 more prior violations under this section, in which case the fine shall be not
+12 more than $15,000.00.
+13 (b) A candidate whose appearance, speech, conduct, or environment is
+14 misrepresented through the use of deceptive and fraudulent synthetic media in
+15 violation of section 2032 of this title may seek injunctive or other equitable
+16 relief prohibiting the publication, communication, or other distribution of such
+17 deceptive and fraudulent synthetic media.
+18 Sec. 2. 17 V.S.A. chapter 35, subchapter 5 is added to read:
+19 Subchapter 5. Enforcement and Investigation
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 5 of 8
+1 § 2041. ENFORCEMENT
+2 In addition to the other remedies provided in this chapter, a State’s Attorney
+3 or the Attorney General may institute any appropriate action, injunction, or
+4 other proceeding to prevent, restrain, correct, or abate any violation of this
+5 chapter.
+6 § 2042. CIVIL INVESTIGATIONS
+7 (a)(1) The Attorney General or a State’s Attorney, whenever there is reason
+8 to believe any person to be or to have been in violation of this chapter, may
+9 examine or cause to be examined by any designated agent or representative
+10 any books, records, papers, memoranda, or physical objects of any nature
+11 bearing upon each alleged violation and may demand written responses under
+12 oath to questions bearing upon each alleged violation.
+13 (2) The Attorney General or a State’s Attorney may require the
+14 attendance of such person or of any other person having knowledge in the
+15 premises in the county where such person resides or has a place of business or
+16 in Washington County if such person is a nonresident or has no place of
+17 business within the State and may take testimony and require proof material
+18 for that person’s information and may administer oaths or take
+19 acknowledgment in respect of any book, record, paper, or memorandum.
+20 (3) The Attorney General or a State’s Attorney shall serve notice of the
+21 time, place, and cause of such examination or attendance or notice of the cause
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 6 of 8
+1 of the demand for written responses personally or by certified mail upon such
+2 person at that person’s principal place of business or, if such place is not
+3 known, to that person’s known address. Such notice shall include a statement
+4 that a knowing and intentional violation of this chapter is subject to criminal
+5 prosecution.
+6 (4) Any book, record, paper, memorandum, or other information
+7 produced by any person pursuant to this section shall not, unless otherwise
+8 ordered by a court of this State for good cause shown, be disclosed to any
+9 person other than the authorized agent or representative of the Attorney
+10 General or a State’s Attorney or another law enforcement officer engaged in
+11 legitimate law enforcement activities unless with the consent of the person
+12 producing the same, except that any transcript of oral testimony, written
+13 responses, documents, or other information produced pursuant to this section
+14 may be used in the enforcement of this chapter, including in connection with
+15 any civil action brought under this subchapter or subsection (c) of this section.
+16 (5) Nothing in this subsection is intended to prevent the Attorney
+17 General or a State’s Attorney from disclosing the results of an investigation
+18 conducted under this section, including the grounds for the decision as to
+19 whether to bring an enforcement action alleging a violation of this chapter or
+20 of any rule made pursuant to this chapter.
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 7 of 8
+1 (6) This subsection shall not be applicable to any criminal investigation
+2 or prosecution brought under the laws of this or any state.
+3 (b)(1) A person upon whom a notice is served pursuant to the provisions of
+4 this section shall comply with its terms unless otherwise provided by the order
+5 of a court of this State.
+6 (2) Any person who, with intent to avoid, evade, or prevent compliance,
+7 in whole or in part, with any civil investigation under this section, removes
+8 from any place; conceals, withholds, or destroys; or mutilates, alters, or by any
+9 other means falsifies any documentary material in the possession, custody, or
+10 control of any person subject to such notice or mistakes or conceals any
+11 information shall be fined not more than $5,000.00.
+12 (c)(1) Whenever any person fails to comply with any notice served upon
+13 that person under this section or whenever satisfactory copying or reproduction
+14 of any such material cannot be done and the person refuses to surrender the
+15 material, the Attorney General or a State’s Attorney may file, in the Superior
+16 Court in the county in which the person resides or of that person’s principal
+17 place of business or in Washington County if the person is a nonresident or has
+18 no principal place of business in this State, and serve upon the person a petition
+19 for an order of the court for the enforcement of this section.
+20 (2) Whenever any petition is filed under this section, the court shall have
+21 jurisdiction to hear and determine the matter so presented and to enter any
+VT LEG #384264 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.23
+2025 Page 8 of 8
+1 order or orders as may be required to carry into effect the provisions of this
+2 section. Any disobedience of any order entered under this section by any court
+3 shall be punished as a contempt of the court.
+4 (d) Any person aggrieved by a civil investigation conducted under this
+5 section may seek relief from Washington Superior Court or the Superior Court
+6 in the county in which the aggrieved person resides. Except for cases the court
+7 considers to be of greater importance, proceedings before Superior Court as
+8 authorized by this section shall take precedence on the docket over all other
+9 cases.
+10 Sec. 3. EFFECTIVE DATE
+11 This act shall take effect on passage.
+VT LEG #384264 v.1
+
+[DELETED:   S  P S A T t S S § A ( t p t ( r b i §   ( V t]
+[DELETED:   S  P i c i ( a e s ( r a b a r ( ( s s ( b g t]
+[DELETED:   S  P m t s ( ( l ( p p a c a ( s ( t f ( U]
+[DELETED:   S  P § ( s ( b ( p $ ( b m m ( m v r d S S]
+[DELETED:   S  P § I o o c § ( t e a b o ( a p i b f a ( t]
+[DELETED:   S  P o p k t p ( p o p G l p r m a ( G c w o]
+[DELETED:   S  P ( o ( t o ( i f o c i ( t o m C p n f ( j]
+[DELETED:   S  P o s s ( s i c a c S T]

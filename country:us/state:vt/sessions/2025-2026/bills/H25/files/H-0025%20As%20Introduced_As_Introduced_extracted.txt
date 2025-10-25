@@ -1,0 +1,233 @@
+Title: BILL AS INTRODUCED H.25
+Official Title: BILL AS INTRODUCED H.25
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 5
+1 H.25
+2 Introduced by Representatives Arsenault of Williston, Dolan of Essex
+3 Junction, and Rachelson of Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Motor vehicles; operation of vehicles; impaired driving;
+7 rehabilitation; program fees
+8 Statement of purpose of bill as introduced: This bill proposes to require that
+9 the Department of Health’s Impaired Driver Rehabilitation Program fees be
+10 imposed based on an individual’s gross income compared to the federal
+11 poverty level. The bill proposes that an individual who requests a reduction or
+12 elimination of program fees disclose the individual’s income. Using the
+13 disclosed income, the Program must charge a higher fee if the individual has
+14 greater financial resources and a lower fee if the individual has lesser financial
+15 resources.
+16 An act relating to imposing Impaired Driver Rehabilitation Program fees
+17 based on a person’s ability to pay
+VT LEG #379217 v.1
+BILL AS INTRODUCED H.25
+2025 Page 2 of 5
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 23 V.S.A. § 1209a is amended to read:
+3 § 1209a. CONDITIONS OF REINSTATEMENT; ALCOHOL AND
+4 DRIVING EDUCATION; SCREENING; THERAPY PROGRAMS
+5 (a) Conditions of reinstatement. No license or privilege to operate
+6 suspended or revoked under this subchapter, except a license or privilege to
+7 operate suspended under section 1216 of this title, shall be reinstated except as
+8 follows:
+9 (1) In the case of a first suspension, a license or privilege to operate
+10 shall be reinstated only:
+11 (A) after the individual has successfully completed the Alcohol and
+12 Driving Education Program, at the individual’s own expense, followed by an
+13 assessment of the need for further treatment by a State-designated counselor, at
+14 the individual’s own expense, to determine whether reinstatement should be
+15 further conditioned on satisfactory completion of a therapy program agreed to
+16 by the individual and the Drinking Impaired Driver Rehabilitation Program
+17 Director;
+18 (B) if the screening indicates that therapy is needed, after the
+19 individual has satisfactorily completed or shown substantial progress in
+20 completing a therapy program at the individual’s own expense agreed to by the
+21 individual and the Impaired Driver Rehabilitation Program Director;
+VT LEG #379217 v.1
+BILL AS INTRODUCED H.25
+2025 Page 3 of 5
+1 (C) if the individual elects to operate under an ignition interlock RDL
+2 or ignition interlock certificate, after the individual operates under the RDL or
+3 certificate for the applicable period set forth in subsection 1205(a) or section
+4 1206 of this title, plus any extension of this period arising from a violation of
+5 section 1213 of this title; and
+6 (D) if the individual has no pending criminal charges, civil citations,
+7 or unpaid fines or penalties for a violation under this chapter.
+8 * * *
+9 (f) Fees.
+10 (1)(A) The Department of Health’s Drinking Impaired Driver
+11 Rehabilitation Program shall assess fees for the Alcohol and Driving Education
+12 Program and the alcohol assessment screening required by subdivision
+13 (a)(1)(A) of this section. The fee for the Alcohol and Driving Education
+14 Program shall not exceed $250.00. The fee for the alcohol assessment
+15 screening shall not exceed $200.00. In the case of a more intensive or
+16 weekend residential program combining both the Alcohol and Driving
+17 Education Program and the alcohol assessment screening, the total charge shall
+18 not exceed $625.00.
+19 (B) The Commissioner of Motor Vehicles and the Department of
+20 Health’s Impaired Driver Rehabilitation Program shall engage in education and
+VT LEG #379217 v.1
+BILL AS INTRODUCED H.25
+2025 Page 4 of 5
+1 outreach to ensure that individuals eligible to enroll in the Program are aware
+2 of any required fees and any potential fee discounts.
+3 (2)(A) Upon an individual’s request, any discounted fees charged
+4 pursuant to this subsection (f) shall consider the individual’s annual gross
+5 income prior to imposing such a fee.
+6 (B) The Commissioner shall adopt rules pursuant to 3 V.S.A. chapter
+7 25 establishing a graduated fee schedule bearing a reasonable relationship to an
+8 individual’s gross income. An individual shall be found eligible for a program
+9 fee reduction based upon the federal poverty level.
+10 (i) An individual with an annual gross income of less than or equal
+11 to 175 percent of the current federal poverty guidelines shall not pay any
+12 program fees.
+13 (ii) An individual with an annual gross income of up to and
+14 including 575 percent of the current federal poverty guidelines shall be eligible
+15 for discounted program fees.
+16 (C) An individual seeking a fee reduction to enroll in any program or
+17 screening under this section shall disclose the individual’s gross income. Any
+18 income information disclosed by the individual shall remain confidential and
+19 be solely used for the purpose of assessing any fee reduction for the individual
+20 as required by this subsection (f).
+VT LEG #379217 v.1
+BILL AS INTRODUCED H.25
+2025 Page 5 of 5
+1 (3) Charges collected under this section shall be credited to separate
+2 special funds for each type of service and shall be available to the Department
+3 of Health to offset the cost of operating the Drinking Impaired Driver
+4 Rehabilitation Program.
+5 Sec. 2. RULE IMPLEMENTATION DATE
+6 The Commissioner of Motor Vehicles shall adopt the rules required by this
+7 act on or before January 1, 2026.
+8 Sec. 3. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #379217 v.1
+[DELETED:  H P H I R J R D S r S t i p e d g r A b]
+[DELETED:  H P I S §   ( s o f ( s ( D a t f b D ( i c i]
+[DELETED:  H P ( o c 1 s ( o * ( ( R P ( P s w E n ( H]
+[DELETED:  H P o o ( p i ( 2 i f ( t p ( i f ( s i b a]
+[DELETED:  H P ( s o R S T a S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.25
+2025 Page 1 of 5
+1 H.25
+2 Introduced by Representatives Arsenault of Williston, Dolan of Essex
+3 Junction, and Rachelson of Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Motor vehicles; operation of vehicles; impaired driving;
+7 rehabilitation; program fees
+8 Statement of purpose of bill as introduced: This bill proposes to require that
+9 the Department of Health’s Impaired Driver Rehabilitation Program fees be
+10 imposed based on an individual’s gross income compared to the federal
+11 poverty level. The bill proposes that an individual who requests a reduction or
+12 elimination of program fees disclose the individual’s income. Using the
+13 disclosed income, the Program must charge a higher fee if the individual has
+14 greater financial resources and a lower fee if the individual has lesser financial
+15 resources.
+16 An act relating to imposing Impaired Driver Rehabilitation Program fees
+17 based on a person’s ability to pay
+VT LEG #379217 v.1
+
+BILL AS INTRODUCED H.25
+2025 Page 2 of 5
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 23 V.S.A. § 1209a is amended to read:
+3 § 1209a. CONDITIONS OF REINSTATEMENT; ALCOHOL AND
+4 DRIVING EDUCATION; SCREENING; THERAPY PROGRAMS
+5 (a) Conditions of reinstatement. No license or privilege to operate
+6 suspended or revoked under this subchapter, except a license or privilege to
+7 operate suspended under section 1216 of this title, shall be reinstated except as
+8 follows:
+9 (1) In the case of a first suspension, a license or privilege to operate
+10 shall be reinstated only:
+11 (A) after the individual has successfully completed the Alcohol and
+12 Driving Education Program, at the individual’s own expense, followed by an
+13 assessment of the need for further treatment by a State-designated counselor, at
+14 the individual’s own expense, to determine whether reinstatement should be
+15 further conditioned on satisfactory completion of a therapy program agreed to
+16 by the individual and the Drinking Impaired Driver Rehabilitation Program
+17 Director;
+18 (B) if the screening indicates that therapy is needed, after the
+19 individual has satisfactorily completed or shown substantial progress in
+20 completing a therapy program at the individual’s own expense agreed to by the
+21 individual and the Impaired Driver Rehabilitation Program Director;
+VT LEG #379217 v.1
+
+BILL AS INTRODUCED H.25
+2025 Page 3 of 5
+1 (C) if the individual elects to operate under an ignition interlock RDL
+2 or ignition interlock certificate, after the individual operates under the RDL or
+3 certificate for the applicable period set forth in subsection 1205(a) or section
+4 1206 of this title, plus any extension of this period arising from a violation of
+5 section 1213 of this title; and
+6 (D) if the individual has no pending criminal charges, civil citations,
+7 or unpaid fines or penalties for a violation under this chapter.
+8 * * *
+9 (f) Fees.
+10 (1)(A) The Department of Health’s Drinking Impaired Driver
+11 Rehabilitation Program shall assess fees for the Alcohol and Driving Education
+12 Program and the alcohol assessment screening required by subdivision
+13 (a)(1)(A) of this section. The fee for the Alcohol and Driving Education
+14 Program shall not exceed $250.00. The fee for the alcohol assessment
+15 screening shall not exceed $200.00. In the case of a more intensive or
+16 weekend residential program combining both the Alcohol and Driving
+17 Education Program and the alcohol assessment screening, the total charge shall
+18 not exceed $625.00.
+19 (B) The Commissioner of Motor Vehicles and the Department of
+20 Health’s Impaired Driver Rehabilitation Program shall engage in education and
+VT LEG #379217 v.1
+
+BILL AS INTRODUCED H.25
+2025 Page 4 of 5
+1 outreach to ensure that individuals eligible to enroll in the Program are aware
+2 of any required fees and any potential fee discounts.
+3 (2)(A) Upon an individual’s request, any discounted fees charged
+4 pursuant to this subsection (f) shall consider the individual’s annual gross
+5 income prior to imposing such a fee.
+6 (B) The Commissioner shall adopt rules pursuant to 3 V.S.A. chapter
+7 25 establishing a graduated fee schedule bearing a reasonable relationship to an
+8 individual’s gross income. An individual shall be found eligible for a program
+9 fee reduction based upon the federal poverty level.
+10 (i) An individual with an annual gross income of less than or equal
+11 to 175 percent of the current federal poverty guidelines shall not pay any
+12 program fees.
+13 (ii) An individual with an annual gross income of up to and
+14 including 575 percent of the current federal poverty guidelines shall be eligible
+15 for discounted program fees.
+16 (C) An individual seeking a fee reduction to enroll in any program or
+17 screening under this section shall disclose the individual’s gross income. Any
+18 income information disclosed by the individual shall remain confidential and
+19 be solely used for the purpose of assessing any fee reduction for the individual
+20 as required by this subsection (f).
+VT LEG #379217 v.1
+
+BILL AS INTRODUCED H.25
+2025 Page 5 of 5
+1 (3) Charges collected under this section shall be credited to separate
+2 special funds for each type of service and shall be available to the Department
+3 of Health to offset the cost of operating the Drinking Impaired Driver
+4 Rehabilitation Program.
+5 Sec. 2. RULE IMPLEMENTATION DATE
+6 The Commissioner of Motor Vehicles shall adopt the rules required by this
+7 act on or before January 1, 2026.
+8 Sec. 3. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #379217 v.1
+
+[DELETED:  H P H I R J R D S r S t i p e d g r A b]
+[DELETED:  H P I S §   ( s o f ( s ( D a t f b D ( i c i]
+[DELETED:  H P ( o c 1 s ( o * ( ( R P ( P s w E n ( H]
+[DELETED:  H P o o ( p i ( 2 i f ( t p ( i f ( s i b a]
+[DELETED:  H P ( s o R S T a S T]

@@ -1,0 +1,1800 @@
+Title: 2 An act relating to sealing criminal history records
+Official Title: 2 An act relating to sealing criminal history records
+Number of Sections: 1
+Source: versions - As Passed By the Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 36 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY SENATE S.12
+2025 Page 1 of 36
+1 S.12
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 13 V.S.A. chapter 230 is amended to read:
+5 CHAPTER 230. EXPUNGEMENT AND SEALING OF CRIMINAL
+6 HISTORY RECORDS
+7 § 7601. DEFINITIONS
+8 As used in this chapter:
+9 (1) “Court” means the Criminal Division of the Superior Court.
+10 (2) “Criminal history record” means all information documenting an
+11 individual’s contact with the criminal justice system, including data regarding
+12 identification, arrest or citation, arraignment, judicial disposition, custody, and
+13 supervision.
+14 (3) “Predicate offense” means a criminal offense that can be used to
+15 enhance a sentence levied for a later conviction and includes operating a
+16 vehicle under the influence of alcohol or other substance in violation of
+17 23 V.S.A. § 1201, domestic assault in violation of section 1042 of this title,
+18 and stalking in violation of section 1062 of this title. “Predicate offense” shall
+19 not include misdemeanor possession of cannabis, a disorderly conduct offense
+20 under section 1026 of this title, or possession of a controlled substance in
+21 violation of 18 V.S.A. § 4230(a), 4231(a), 4232(a), 4233(a), 4234(a), 4234a(a),
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 2 of 36
+1 4234b(a), 4235(b), or 4235a(a) “Criminal justice purposes” means the
+2 investigation, apprehension, detention, adjudication, or correction of persons
+3 suspected, charged, or convicted of criminal offenses. “Criminal justice
+4 purposes” also includes criminal identification activities; the collection,
+5 storage, and dissemination of criminal history records; and screening for
+6 criminal justice employment.
+7 (4) “Qualifying crime” means:
+8 (A) a misdemeanor offense that is not:
+9 (i) a listed crime as defined in subdivision 5301(7) of this title;
+10 (ii) an offense involving sexual exploitation of children in
+11 violation of chapter 64 of this title;
+12 (iii) an offense involving violation of a protection order in
+13 violation of section 1030 of this title;
+14 (iv) prostitution as defined in section 2632 of this title, or
+15 prohibited conduct under section 2601a of this title; or
+16 (v) a predicate offense;
+17 (B) a violation of subsection 3701(a) of this title related to criminal
+18 mischief;
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 3 of 36
+1 (C) a violation of section 2501 of this title related to grand larceny;
+2 (D) a violation of section 1201 of this title related to burglary,
+3 excluding any burglary into an occupied dwelling, as defined in subdivision
+4 1201(b)(2) of this title;
+5 (E) a violation of 18 V.S.A. § 4223 related to fraud or deceit;
+6 (F) a violation of section 1802 of this title related to uttering a forged
+7 or counterfeited instrument;
+8 (G) a violation of 18 V.S.A. § 4230(a) related to possession and
+9 cultivation of cannabis;
+10 (H) a violation of 18 V.S.A. § 4231(a) related to possession of
+11 cocaine;
+12 (I) a violation of 18 V.S.A. § 4232(a) related to possession of LSD;
+13 (J) a violation of 18 V.S.A. § 4233(a) related to possession of heroin;
+14 (K) a violation of 18 V.S.A. § 4234(a) related to possession of
+15 depressant, stimulant, and narcotic drugs;
+16 (L) a violation of 18 V.S.A. § 4234a(a) related to possession of
+17 methamphetamine;
+18 (M) a violation of 18 V.S.A. § 4234b(a) related to possession of
+19 ephedrine and pseudoephedrine;
+20 (N) a violation of 18 V.S.A. § 4235(b) related to possession of
+21 hallucinogenic drugs;
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 4 of 36
+1 (O) a violation of 18 V.S.A. § 4235a(a) related to possession of
+2 ecstasy; or
+3 (P) any offense for which a person has been granted an unconditional
+4 pardon from the Governor.
+5 (A) all misdemeanor offenses except:
+6 (i) a listed crime as defined in subdivision 5301(7) of this title;
+7 (ii) a violation of chapter 64 of this title relating to sexual
+8 exploitation of children;
+9 (iii) a violation of section 1030 of this title relating to a violation
+10 of an abuse prevention order, an order against stalking or sexual assault, or a
+11 protective order concerning contact with a child;
+12 (iv) a violation of chapter 28 of this title related to abuse, neglect,
+13 and exploitation of a vulnerable adult;
+14 (v) a violation of subsection 2605(b) or (c) of this title related to
+15 voyeurism;
+16 (vi) a violation of subdivisions 352(1)–(10) of this title related to
+17 cruelty to animals;
+18 (vii) a violation of section 5409 of this title related to failure to
+19 comply with sex offender registry requirements;
+20 (viii) a violation of section 1455 of this title related to hate
+21 motivated crimes;
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 5 of 36
+1 (ix) a violation of subsection 1304(a) of this title related to cruelty
+2 to a child;
+3 (x) a violation of section 1305 of this title related to cruelty by
+4 person having custody of another;
+5 (xi) a violation of section 1306 of this title related to mistreatment
+6 of persons with impaired cognitive function;
+7 (xii) a violation of section 3151 of this title related to female
+8 genital mutilation;
+9 (xiii) a violation of subsection 3258(b) of this title related to
+10 sexual exploitation of a minor;
+11 (xiv) a violation of subdivision 4058(b)(1) of this title related to
+12 violation of an extreme risk protection order;
+13 (xv) an offense committed in a motor vehicle as defined in 23
+14 V.S.A. § 4 by a person who is the holder of a commercial driver’s license or
+15 commercial driver’s permit pursuant to 23 V.S.A. chapter 39; and
+16 (xvi) any offense that would require registration as a sex offender
+17 pursuant to chapter 167, subchapter 3 of this title; and
+18 (B) the following felonies:
+19 (i) a violation of section 1201 of this title related to burglary,
+20 excluding any burglary into an occupied dwelling, unless the person was
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 6 of 36
+1 25 years of age or younger at the time of the offense and did not carry a
+2 dangerous or deadly weapon during the commission of the offense;
+3 (ii) designated felony property offenses as defined in subdivision
+4 (5) of this section;
+5 (iii) offenses relating to possessing, cultivating, selling,
+6 dispensing, or transporting regulated drugs, including violations of 18 V.S.A.
+7 § 4230(a) and (b), 4231(a) and (b), 4232(a) and (b), 4233(a) and (b), 4233a(a),
+8 4234(a) and (b), 4234a(a) and (b), 4234b(a) and (b), 4235(b) and (c), or
+9 4235a(a) and (b); and
+10 (iv) any offense for which a person has been granted an
+11 unconditional pardon from the Governor.
+12 (5) “Designated felony property offense” means:
+13 (A) section 1801 of this title related to forgery and counterfeiting;
+14 (B) section 1802 of this title related to uttering a forged or
+15 counterfeited instrument;
+16 (C) section 1804 of this title related to counterfeiting paper money;
+17 (D) section 1816 of this title related to possession or use of credit
+18 card skimming devices;
+19 (E) section 2001 of this title related to false personation;
+20 (F) section 2002 of this title related to false pretenses or tokens;
+21 (G) section 2029 of this title related to home improvement fraud;
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 7 of 36
+1 (H) section 2030 of this title related to identity theft;
+2 (I) section 2501 of this title related to grand larceny;
+3 (J) section 2531 of this title related to embezzlement;
+4 (K) section 2532 of this title related to embezzlement by officers or
+5 servants of an incorporated bank;
+6 (L) section 2533 of this title related to embezzlement by a receiver or
+7 trustee;
+8 (M) section 2561 of this title related to receiving stolen property;
+9 (N) section 2575 of this title related to retail theft;
+10 (O) section 2582 of this title related to theft of services;
+11 (P) section 2591 of this title related to theft of rented property;
+12 (Q) section 2592 of this title related to failure to return a rented or
+13 leased motor vehicle;
+14 (R) section 3016 of this title related to false claims;
+15 (S) section 3701 of this title related to unlawful mischief;
+16 (T) section 3705 of this title related to unlawful trespass;
+17 (U) section 3733 of this title related to mills, dams, or bridges;
+18 (V) section 3761 of this title related to unauthorized removal of
+19 human remains;
+20 (W) section 3766 of this title related to grave markers and ornaments;
+21 (X) chapter 87 of this title related to computer crimes; and
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 8 of 36
+1 (Y) 18 V.S.A. § 4223 related to fraud or deceit in obtaining a
+2 regulated drug.
+3 § 7602. EXPUNGEMENT AND SEALING OF RECORD,
+4 POSTCONVICTION; PROCEDURE
+5 (a)(1) A person may file a petition with the court requesting expungement
+6 or sealing of the criminal history record related to the conviction if:
+7 (A) the person was convicted of a qualifying crime or qualifying
+8 crimes arising out of the same incident or occurrence;
+9 (B) the person was convicted of an offense for which the underlying
+10 conduct is no longer prohibited by law or designated as a criminal offense;
+11 (C) pursuant to the conditions set forth in subsection (g) of this
+12 section, the person was convicted of a violation of 23 V.S.A. § 1201(a) or
+13 § 1091 related to operating under the influence of alcohol or other substance,
+14 excluding a violation of those sections resulting in serious bodily injury or
+15 death to any person other than the operator, or related to operating a school bus
+16 with a blood alcohol concentration of 0.02 or more or operating a commercial
+17 vehicle with a blood alcohol concentration of 0.04 or more; or
+18 (D) pursuant to the conditions set forth in subsection (h) of this
+19 section, the person was convicted under 1201(c)(3)(A) of a violation of
+20 subdivision 1201(a) of this title related to burglary when the person was
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 9 of 36
+1 25 years of age or younger, and the person did not carry a dangerous or deadly
+2 weapon during commission of the offense.
+3 (2) The State’s Attorney or Attorney General shall be the respondent in
+4 the matter.
+5 (3) The court shall grant the petition without hearing if the petitioner
+6 and the respondent stipulate to the granting of the petition. The respondent
+7 shall file the stipulation with the court, and the court shall issue the petitioner
+8 an order of expungement and provide notice of the order in accordance with
+9 this section.
+10 (4) This section shall not apply to an individual licensed as a
+11 commercial driver pursuant to 23 V.S.A. chapter 39 seeking to seal or expunge
+12 a record of a conviction for a felony offense committed in a motor vehicle as
+13 defined in 23 V.S.A. § 4.
+14 (b)(1) The court shall grant the petition and order that the criminal history
+15 record be expunged pursuant to section 7606 of this title if the following
+16 conditions are met:
+17 (A) At least five years have elapsed since the date on which the
+18 person successfully completed the terms and conditions of the sentence for the
+19 conviction, or if the person has successfully completed the terms and
+20 conditions of an indeterminate term of probation that commenced at least five
+21 years previously.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 10 of 36
+1 (B) The person has not been convicted of a crime arising out of a new
+2 incident or occurrence since the person was convicted for the qualifying crime.
+3 (C) Any restitution and surcharges ordered by the court have been
+4 paid in full, provided that payment of surcharges shall not be required if the
+5 surcharges have been waived by the court pursuant to section 7282 of this title.
+6 (D) The court finds that expungement of the criminal history record
+7 serves the interests of justice.
+8 (2) The court shall grant the petition and order that all or part of the
+9 criminal history record be sealed pursuant to section 7607 of this title if the
+10 conditions of subdivisions (1)(A), (B), and (C) of this subsection are met and
+11 the court finds that:
+12 (A) sealing the criminal history record better serves the interests of
+13 justice than expungement; and
+14 (B) the person committed the qualifying crime after reaching 19
+15 years of age.
+16 (c)(1) The court shall grant the petition and order that the criminal history
+17 record be expunged pursuant to section 7606 of this title if the following
+18 conditions are met:
+19 (A) At least 10 years have elapsed since the date on which the person
+20 successfully completed the terms and conditions of the sentence for the
+21 conviction.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 11 of 36
+1 (B) The person has not been convicted of a felony arising out of a
+2 new incident or occurrence in the last seven years.
+3 (C) The person has not been convicted of a misdemeanor during the
+4 past five years.
+5 (D) Any restitution and surcharges ordered by the court for any crime
+6 of which the person has been convicted has been paid in full, provided that
+7 payment of surcharges shall not be required if the surcharges have been waived
+8 by the court pursuant to section 7282 of this title.
+9 (E) After considering the particular nature of any subsequent offense,
+10 the court finds that expungement of the criminal history record for the
+11 qualifying crime serves the interests of justice.
+12 (2) The court shall grant the petition and order that all or part of the
+13 criminal history record be sealed pursuant to section 7607 of this title if the
+14 conditions of subdivisions (1)(A), (B), (C), and (D) of this subsection are met
+15 and the court finds that:
+16 (A) sealing the criminal history record better serves the interests of
+17 justice than expungement; and
+18 (B) the person committed the qualifying crime after reaching 19
+19 years of age.
+20 (d) For petitions filed pursuant to subdivision (a)(1)(B) of this section,
+21 unless the court finds that expungement would not be in the interests of justice,
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 12 of 36
+1 the court shall grant the petition and order that the criminal history record be
+2 expunged in accordance with section 7606 of this title if the following
+3 conditions are met:
+4 (1) The petitioner has completed any sentence or supervision for the
+5 offense.
+6 (2) Any restitution and surcharges ordered by the court have been paid
+7 in full, provided that payment of surcharges shall not be required if the
+8 surcharges have been waived by the court pursuant to section 7282 of this title.
+9 (e) For petitions filed pursuant to subdivision (a)(1)(B) of this section for a
+10 conviction for possession of a regulated drug under 18 V.S.A. chapter 84,
+11 subchapter 1 in an amount that is no longer prohibited by law or for which
+12 criminal sanctions have been removed:
+13 (1) The petitioner shall bear the burden of establishing that his or her
+14 conviction was based on possessing an amount of regulated drug that is no
+15 longer prohibited by law or for which criminal sanctions have been removed.
+16 (2) There shall be a rebuttable presumption that the amount of the
+17 regulated drug specified in the affidavit of probable cause associated with the
+18 petitioner’s conviction was the amount possessed by the petitioner.
+19 (f) Prior to granting an expungement or sealing under this section for
+20 petitions filed pursuant to subdivision 7601(4)(D) of this title, the court shall
+21 make a finding that the conduct underlying the conviction under section 1201
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 13 of 36
+1 of this title did not constitute a burglary into an occupied dwelling, as defined
+2 in subdivision 1201(b)(2) of this title. The petitioner shall bear the burden of
+3 establishing this fact.
+4 (g) For petitions filed pursuant to subdivision (a)(1)(C) of this section, only
+5 petitions to seal may be considered or granted by the court. This subsection
+6 shall not apply to an individual licensed as a commercial driver pursuant to
+7 23 V.S.A. chapter 39. Unless the court finds that sealing would not be in the
+8 interests of justice, the court shall grant the petition and order that the criminal
+9 history record be sealed in accordance with section 7607 of this title if the
+10 following conditions are met:
+11 (1) At least 10 years have elapsed since the date on which the person
+12 successfully completed the terms and conditions of the sentence for the
+13 conviction, or if the person has successfully completed the terms and
+14 conditions of an indeterminate term of probation that commenced at least
+15 10 years previously.
+16 (2) At the time of the filing of the petition:
+17 (A) the person has only one conviction of a violation of 23 V.S.A.
+18 § 1201, which shall be construed in accordance with 23 V.S.A. § 1211; and
+19 (B) the person has not been convicted of a crime arising out of a new
+20 incident or occurrence since the person was convicted of a violation of
+21 23 V.S.A. § 1201(a).
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 14 of 36
+1 (3) Any restitution ordered by the court has been paid in full.
+2 (4) The court finds that sealing of the criminal history record serves the
+3 interests of justice.
+4 (h) For petitions filed pursuant to subdivision (a)(1)(D) of this section,
+5 unless the court finds that expungement or sealing would not be in the interests
+6 of justice, the court shall grant the petition and order that the criminal history
+7 record be expunged or sealed in accordance with section 7606 or 7607 of this
+8 title if the following conditions are met:
+9 (1) At least 15 years have elapsed since the date on which the person
+10 successfully completed the terms and conditions of the sentence for the
+11 conviction, or the person has successfully completed the terms and conditions
+12 of an indeterminate term of probation that commenced at least 15 years
+13 previously.
+14 (2) The person has not been convicted of a crime arising out of a new
+15 incident or occurrence since the person was convicted of a violation of
+16 subdivision 1201(c)(3)(A) of this title.
+17 (3) Any restitution ordered by the court has been paid in full.
+18 (4) The court finds that expungement or sealing of the criminal history
+19 record serves the interests of justice.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 15 of 36
+1 (a) Petition.
+2 (1) A person may file a petition with the court requesting expungement
+3 of a criminal history record related to a conviction if the person was convicted
+4 of an offense for which the underlying conduct is no longer prohibited by law
+5 or designated as a criminal offense.
+6 (2) A person may file a petition with the court requesting sealing of a
+7 criminal history record related to a conviction if the person was convicted of a
+8 qualifying crime or qualifying crimes arising out of the same incident or
+9 occurrence.
+10 (3) Whichever office prosecuted the offense resulting in the conviction,
+11 the State’s Attorney or Attorney General, shall be the respondent in the matter
+12 unless the prosecuting office authorizes the other to act as the respondent.
+13 (4) The court shall grant the petition without hearing if the petitioner
+14 and the respondent stipulate to the granting of the petition. The respondent
+15 shall file the stipulation with the court, and the court shall issue the petitioner
+16 an order of sealing and provide notice of the order in accordance with this
+17 section.
+18 (5) This section shall not apply to an individual who is the holder of a
+19 commercial driver’s license or commercial driver’s permit pursuant to 23
+20 V.S.A. chapter 39 seeking to seal a record of a conviction for a misdemeanor
+21 or felony offense committed in a motor vehicle as defined in 23 V.S.A. § 4.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 16 of 36
+1 (b) Offenses that are no longer prohibited by law. For petitions filed
+2 pursuant to subdivision (a)(1) of this section, the court shall grant the petition
+3 and order that the criminal history record be expunged if the following
+4 conditions are met:
+5 (1) The petitioner has completed any sentence or supervision for the
+6 offense.
+7 (2) Any restitution and surcharges ordered by the court have been paid
+8 in full, provided that payment of surcharges shall not be required if the
+9 surcharges have been waived by the court pursuant to section 7282 of this title.
+10 (c) Qualifying misdemeanors. For petitions filed to seal a qualifying
+11 misdemeanor pursuant to subdivision (a)(2) of this section, the court shall
+12 grant the petition and order that the criminal history record be sealed if the
+13 following conditions are met:
+14 (1) At least three years have elapsed since the date on which the person
+15 completed the terms and conditions of the sentence.
+16 (2) Any restitution and surcharges ordered by the court for any crime of
+17 which the person has been convicted has been paid in full, provided that
+18 payment of surcharges shall not be required if the surcharges have been waived
+19 by the court pursuant to section 7282 of this title.
+20 (3) The respondent has failed to show that sealing would be contrary to
+21 the interests of justice.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 17 of 36
+1 (d) Qualifying felony offenses. For petitions filed to seal a qualifying
+2 felony pursuant to subdivision (a)(2) of this section, the court shall grant the
+3 petition and order that the criminal history record be sealed if the following
+4 conditions are met:
+5 (1) At least seven years have elapsed since the date on which the person
+6 completed the terms and conditions of the sentence.
+7 (2) Any restitution and surcharges ordered by the court for any crime of
+8 which the person has been convicted has been paid in full, provided that
+9 payment of surcharges shall not be required if the surcharges have been waived
+10 by the court pursuant to section 7282 of this title.
+11 (3) The respondent has failed to show that sealing would be contrary to
+12 the interests of justice.
+13 (e) Qualifying DUI misdemeanor. For petitions filed to seal a qualifying
+14 DUI misdemeanor pursuant to subdivision (a)(2) of this section, the court shall
+15 grant the petition and order that the criminal history record be sealed if the
+16 following conditions are met:
+17 (1) At least 10 years have elapsed since the date on which the person
+18 completed the terms and conditions of the sentence.
+19 (2) Any restitution and surcharges ordered by the court for any crime of
+20 which the person has been convicted has been paid in full, provided that
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 18 of 36
+1 payment of surcharges shall not be required if the surcharges have been waived
+2 by the court pursuant to section 7282 of this title.
+3 (3) The person is not the holder of a commercial driver’s license or
+4 commercial driver’s permit pursuant to 23 V.S.A. chapter 39.
+5 (4) The respondent has failed to show that sealing would be contrary to
+6 the interests of justice.
+7 (f) Fish and Wildlife Offenses. Sealing a criminal history record related to
+8 a fish and wildlife offense shall not void any fish and wildlife license
+9 suspension or revocation imposed pursuant to the accumulation of points
+10 related to the sealed offense. Points accumulated by a person shall remain on
+11 the person’s license and, if applicable, completion of the remedial course shall
+12 be required, as set forth in 10 V.S.A. § 4502.
+13 § 7603. EXPUNGEMENT AND SEALING OF RECORD, NO
+14 CONVICTION; PROCEDURE
+15 (a) Unless either party objects in the interests of justice, the court shall
+16 issue an order sealing the criminal history record related to the citation or arrest
+17 of a person:
+18 (1) within 60 days after the final disposition of the case if:
+19 (A) the court does not make a determination of probable cause at the
+20 time of arraignment; or
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 19 of 36
+1 (B) the charge is dismissed before trial with or without prejudice; or
+2 (C) the defendant is acquitted of the charges; or
+3 (2) at any time if the prosecuting attorney and the defendant stipulate
+4 that the court may grant the petition to seal the record.
+5 (b) If a party objects to sealing or expunging a record pursuant to this
+6 section, the court shall schedule a hearing to determine if sealing or expunging
+7 the record serves the interests of justice. The defendant and the prosecuting
+8 attorney shall be the only parties in the matter.
+9 (c), (d) [Repealed.]
+10 (e) Unless either party objects in the interests of justice, the court shall
+11 issue an order expunging a criminal history record related to the citation or
+12 arrest of a person:
+13 (1) within 60 days after the final disposition of the case if:
+14 (A) the defendant is acquitted of the charges; or
+15 (B) the charge is dismissed with prejudice;
+16 (2) at any time if the prosecuting attorney and the defendant stipulate
+17 that the court may grant the petition to expunge the record. [Repealed.]
+18 (f) Unless either party objects in the interests of justice, the court shall issue
+19 an order to expunge a record sealed pursuant to subsection (a) or (g) of this
+20 section eight years after the date on which the record was sealed. [Repealed.]
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 20 of 36
+1 (g) A person may file a petition with the court requesting sealing or
+2 expungement of a criminal history record related to the citation or arrest of the
+3 person at any time. The court shall grant the petition and issue an order sealing
+4 or expunging the record if it finds that sealing or expunging the record serves
+5 the interests of justice, or if the parties stipulate to sealing or expungement of
+6 the record.
+7 (h) The court may expunge any records that were sealed pursuant to this
+8 section prior to July 1, 2018 unless the State’s Attorney’s office that
+9 prosecuted the case objects. Thirty days prior to expunging a record pursuant
+10 to this subsection, the court shall provide to the State’s Attorney’s office that
+11 prosecuted the case written notice of its intent to expunge the record.
+12 [Repealed.]
+13 § 7604. NEW CHARGE
+14 If a person is charged with a criminal offense after he or she has filed a
+15 petition for expungement pursuant to this chapter has a criminal charge
+16 pending at the time the petition for sealing or expungement is before the court,
+17 the court shall not act on the petition until disposition of the new charge.
+18 § 7605. DENIAL OF PETITION
+19 If a petition for expungement or sealing is denied by the court pursuant to
+20 this chapter, no further petition shall be brought for at least two years, unless a
+21 shorter duration is authorized by the court.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 21 of 36
+1 § 7606. EFFECT OF EXPUNGEMENT
+2 (a) Order and notice. Upon finding that the requirements for expungement
+3 have been met, the court shall issue an order that shall include provisions that
+4 its effect is to annul the record of the arrest, conviction, and sentence and that
+5 such person shall be treated in all respects as if the person had never been
+6 arrested, convicted, or sentenced for the offense. The court shall provide
+7 notice of the expungement to the respondent, Vermont Crime Information
+8 Center (VCIC), the arresting agency, the Restitution Unit of the Vermont
+9 Center for Crime Victim Services, and any other entity that may have a record
+10 related to the order to expunge. The VCIC shall provide notice of the
+11 expungement to the Federal Bureau of Investigation’s National Crime
+12 Information Center.
+13 (b) Effect.
+14 (1) Upon entry of an expungement order, the order shall be legally
+15 effective immediately and the person whose record is expunged shall be treated
+16 in all respects as if he or she the person had never been arrested, convicted, or
+17 sentenced for the offense.
+18 (2) In any application for employment, license, or civil right or privilege
+19 or in an appearance as a witness in any proceeding or hearing, a person may be
+20 required to answer questions about a previous criminal history record only with
+21 respect to arrests or convictions that have not been expunged.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 22 of 36
+1 (3) The response to an inquiry from any person regarding an expunged
+2 record shall be that “NO CRIMINAL RECORD EXISTS.”
+3 (4) Nothing in this section shall affect any right of the person whose
+4 record has been expunged to rely on it as a bar to any subsequent proceedings
+5 for the same offense.
+6 (c) Process.
+7 (1) The court shall remove the expunged offense from any accessible
+8 database that it maintains.
+9 (2) Until all charges on a docket are expunged, the case file shall remain
+10 publicly accessible.
+11 (3) When all charges on a docket have been expunged, the case file shall
+12 be destroyed pursuant to policies established by the Court Administrator.
+13 (d) Special index.
+14 (1) The court shall keep a special index of cases that have been
+15 expunged together with the expungement order. The index shall list only the
+16 name of the person convicted of the offense, his or her the person’s date of
+17 birth, the docket number, and the criminal offense that was the subject of the
+18 expungement.
+19 (2) The special index and related documents specified in subdivision (1)
+20 of this subsection shall be confidential and shall be physically and
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 23 of 36
+1 electronically segregated in a manner that ensures confidentiality and that
+2 limits access to authorized persons.
+3 (3) Inspection of the expungement order may be permitted only upon
+4 petition by the person who is the subject of the case. The Chief Superior Judge
+5 may permit special access to the index and the documents for research
+6 purposes pursuant to the rules for public access to court records.
+7 (4) [Repealed]. [Repealed.]
+8 (5) The Court Administrator shall establish policies for implementing
+9 this subsection.
+10 § 7607. EFFECT OF SEALING
+11 (a) Order and notice. Upon entry of an order to seal, the order shall be
+12 legally effective immediately and the person whose record is sealed shall be
+13 treated in all respects as if the person had never been arrested, convicted, or
+14 sentenced for the offense and that its effect is to annul the record of arrest,
+15 conviction, and sentence. The court shall provide notice of the sealing to the
+16 respondent, Vermont Crime Information Center (VCIC), the arresting agency,
+17 the Restitution Unit of the Vermont Center for Crime Victim Services, and any
+18 other entity that may have a record related to the order to seal send a copy of
+19 any order sealing a criminal history record to all of the parties and attorneys
+20 representing the parties, including to the prosecuting agency that prosecuted
+21 the offense, the Vermont Crime Information Center (VCIC), the arresting
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 24 of 36
+1 agency, and any other entity that may have a record subject to the sealing
+2 order. VCIC shall provide notice of the sealing order to the Federal Bureau of
+3 Investigation’s National Crime Information Center. The VCIC shall provide
+4 notice of the sealing to the Federal Bureau of Investigation’s National Crime
+5 Information Center.
+6 (b) Effect.
+7 (1) Except as provided in subdivision subsection (c) of this section,
+8 upon entry of a sealing order, the order shall be legally effective immediately
+9 and the person whose record is sealed shall be treated in all respects as if he or
+10 she the person had never been arrested, convicted, or sentenced for the offense.
+11 (2) In any application for employment, license, or civil right or privilege
+12 or in an appearance as a witness in any proceeding or hearing, a person may be
+13 required to answer questions about a previous criminal history record only with
+14 respect to arrests or convictions that have not been sealed.
+15 (3) The response to an inquiry from any member of the public regarding
+16 a sealed record shall be that “NO CRIMINAL RECORD EXISTS.”
+17 (4) Nothing in this section shall affect any right of the person whose
+18 record has been sealed to rely on it as a bar to any subsequent proceeding for
+19 the same offense.
+20 (c) Exceptions. A party seeking to use a sealed criminal history record in a
+21 court proceeding shall, prior to any use of the record in open court or in a
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 25 of 36
+1 public filing, notify the court of the party’s intent to do so. The court shall
+2 thereafter determine whether the record may be used prior its disclosure in the
+3 proceeding. This shall not apply to the use of a sealed record pursuant to
+4 subdivision (2), (3), (4), or (7) of this subsection. Use of a sealed document
+5 pursuant to an exception shall not change the effect of sealing under subsection
+6 (b) of this section. Notwithstanding any other provision of law or a sealing
+7 order:
+8 (1) An entity or person that possesses a sealed record may continue to
+9 use it for any litigation or claim arising out of the same incident or occurrence
+10 or involving the same defendant.
+11 (2)(A) A criminal justice agency as defined in 20 V.S.A. § 2056a and
+12 the Attorney General may use the criminal history record sealed in accordance
+13 with section 7602 or 7603 of this title without limitation for criminal justice
+14 purposes as defined in 20 V.S.A. § 2056a apply to access a sealed criminal
+15 history record by filing a petition, supported by a written affidavit, with the
+16 court. The court shall grant access to the record upon a finding that reasonable
+17 suspicion exists that a sealed record contains information that will aid in
+18 criminal justice purposes. The court may grant the petition ex parte or upon
+19 hearing at the court’s discretion.
+20 (B) A defense attorney may apply to access a sealed criminal history
+21 record by filing a petition, supported by a written affidavit, with the court. The
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 26 of 36
+1 court may grant access to the sealed record upon a finding that the sealed
+2 record may be of assistance to the attorney in representing the defendant. The
+3 court may grant the petition ex parte or upon hearing at the court’s discretion.
+4 (3) A law enforcement officer as defined in 20 V.S.A. § 2351a may
+5 access a sealed record under exigent circumstances. As used in this
+6 subdivision (3), “exigent circumstances” means a compelling need to act
+7 swiftly to prevent imminent danger to life or serious damage to property, to
+8 prevent the imminent destruction of evidence, or to prevent a suspect from
+9 fleeing. For an alleged violation of this subdivision (3), a complaint may be
+10 filed with the Vermont Criminal Justice Council. A violation of this
+11 subdivision (3) shall be subject to the penalty provided in section 7611 of this
+12 title.
+13 (4) A sealed record of a prior violation of 23 V.S.A. § 1201(a) shall be
+14 admissible as a predicate offense for the purpose of imposing an enhanced
+15 penalty for a subsequent violation of that section, in accordance with the
+16 provisions of 23 V.S.A. § 1210.
+17 (5) A person or a court in possession of an order issued by a court
+18 regarding a matter that was subsequently sealed may file or cite to that decision
+19 in any subsequent proceeding. The party or court filing or citing to that
+20 decision shall ensure that information regarding the identity of the defendant in
+21 the sealed record is redacted.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 27 of 36
+1 (6) The Vermont Crime Information Center and Criminal Justice
+2 Information Services Division of the Federal Bureau of Investigation shall
+3 have access to sealed criminal history records without limitation for the
+4 purpose of responding to queries to the National Instant Criminal Background
+5 Check System regarding firearms transfers and attempted transfers.
+6 (7) The State’s Attorney and Attorney General shall disclose
+7 information contained in a sealed criminal history record when required to
+8 meet discovery obligations.
+9 (8) The person whose criminal history records have been sealed
+10 pursuant to this chapter and the person’s attorney may access and use the
+11 sealed records in perpetuity.
+12 (9) A law enforcement agency may inspect and receive copies of the
+13 sealed criminal history records of any applicant who applies to the agency to
+14 be a law enforcement officer or a current employee for the purpose of internal
+15 investigation.
+16 (10) Persons or entities conducting research shall have access to a sealed
+17 criminal history record to carry out research pursuant to 20 V.S.A. § 2056b in
+18 perpetuity and shall not be subject to the 10-year limitation.
+19 (11) Information and materials gathered by the Department for Children
+20 and Families during a joint investigation with law enforcement, including law
+21 enforcement affidavits and related references to such information and
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 28 of 36
+1 materials, are not case records as defined in section 7601(2) of this title, and
+2 are considered Department records that shall be maintained and may be
+3 utilized as statutorily prescribed by 33 V.S.A. chapter 49 and produced in
+4 response to a court order.
+5 (12) Information and materials gathered by Adult Protective Services
+6 during a joint investigation with law enforcement, including law enforcement
+7 affidavits and other investigative materials, are not case records as defined in
+8 subdivision 7601(2) of this title, and are considered records of the Department
+9 of Disabilities, Aging, and Independent Living, which shall be maintained and
+10 may be utilized as authorized by 33 V.S.A. chapter 69 and produced in
+11 response to a court order.
+12 (d) Process.
+13 (1) The court shall bar viewing of the sealed offense in any accessible
+14 database that it maintains.
+15 (2) Until all charges on a docket have been sealed, the case file shall
+16 remain publicly accessible.
+17 (3) When all charges on a docket have been sealed, the case file shall
+18 become exempt from public access.
+19 (4) When a sealing order is issued by the court, any person or entity,
+20 except the court, that possesses criminal history records shall:
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 29 of 36
+1 (A) bar viewing of the sealed offense in any accessible database that
+2 it maintains or remove information pertaining to the sealed records from any
+3 publicly accessible database that the person or entity maintains; and
+4 (B) clearly label the criminal history record as “SEALED” to ensure
+5 compliance with this section.
+6 (e) Special index.
+7 (1) The court shall keep a special index of cases that have been sealed
+8 together with the sealing order. The index shall list only the name of the
+9 person convicted of the offense, his or her the person’s date of birth, the docket
+10 number, and the criminal offense that was the subject of the sealing.
+11 (2) The special index and related documents specified in subdivision (1)
+12 of this subsection shall be confidential and shall be physically and
+13 electronically segregated in a manner that ensures confidentiality and that
+14 limits access to authorized persons.
+15 (3) Except as provided in subsection (c) of this section, inspection of the
+16 sealing order may be permitted only upon petition by the person who is the
+17 subject of the case. The Chief Superior Judge may permit special access to the
+18 index and the documents for research purposes pursuant to the rules for public
+19 access to court records.
+20 (4) The Court Administrator shall establish policies for implementing
+21 this subsection.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 30 of 36
+1 (f) Victims Compensation Program. Upon request, the Victim’s Victims
+2 Compensation Program shall be provided with a copy, redacted of all
+3 information identifying the offender, of the affidavit for the sole purpose of
+4 verifying the expenses in a victim’s compensation application submitted
+5 pursuant to section 5353 of this title.
+6 (g) Restitution. The sealing of a criminal record shall not affect the
+7 authority of the Restitution Unit to enforce a restitution order in the same
+8 manner as a civil judgment pursuant to subdivision 5362(c)(2) of this title.
+9 § 7608. VICTIMS
+10 (a) At the time a petition is filed pursuant to this chapter, the respondent
+11 shall give notice of the petition to any victim of the offense who is known to
+12 the respondent. The victim shall have the right to offer the respondent a
+13 statement prior to any stipulation or to offer the court a statement. The
+14 disposition of the petition shall not be unnecessarily delayed pending receipt of
+15 a victim’s statement. The respondent’s inability to locate a victim after a
+16 reasonable effort has been made shall not be a bar to granting a petition.
+17 (b) As used in this section, “reasonable effort” means attempting to contact
+18 the victim by first-class mail at the victim’s last known address and, by
+19 telephone at the victim’s last known phone number, and by email at the
+20 victim’s last known email address.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 31 of 36
+1 § 7609. EXPUNGEMENT OF SEALING CRIMINAL HISTORY RECORDS
+2 OF AN INDIVIDUAL A PERSON 18–21 YEARS OF AGE
+3 (a)(1) Procedure Petition. Except as provided in subsection (b) of this
+4 section, the record of the criminal proceedings for an individual who was 18–
+5 21 years of age at the time the individual committed a qualifying crime shall be
+6 expunged within 30 days after the date on which the individual successfully
+7 completed the terms and conditions of the sentence for the conviction of the
+8 qualifying crime, absent a finding of good cause by the court. The court shall
+9 issue an order to expunge all records and files related to the arrest, citation,
+10 investigation, charge, adjudication of guilt, criminal proceedings, and
+11 probation related to the sentence. A copy of the order shall be sent to each
+12 agency, department, or official named in the order. Thereafter, the court, law
+13 enforcement officers, agencies, and departments shall reply to any request for
+14 information that no record exists with respect to such individual.
+15 Notwithstanding this subsection, the record shall not be expunged until
+16 restitution and surcharges have been paid in full, provided that payment of
+17 surcharges shall not be required if the surcharges have been waived by the
+18 court pursuant to section 7282 of this title Notwithstanding any other provision
+19 of law, a person who was 18–21 years of age at the time the person committed
+20 a qualifying crime may file a petition with the court requesting sealing of the
+21 criminal history record related to the qualifying crime after 30 days have
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 32 of 36
+1 elapsed since the person completed the terms and conditions for the sentence
+2 for the qualifying crime. The court shall grant the petition and order that the
+3 criminal history record be sealed if the following conditions are met:
+4 (A) Any restitution and surcharges ordered by the court for any crime
+5 of which the person has been convicted has been paid in full, provided that
+6 payment of surcharges shall not be required if the surcharges have been waived
+7 by the court pursuant to section 7282 of this title.
+8 (B) The respondent has failed to show that sealing would be contrary
+9 to the interest of justice.
+10 (2) Effect. Order, notice, and effect of sealing shall comply with the
+11 provisions of subsections 7607(a) and (b) of this title.
+12 (b) Exceptions.
+13 (1) A criminal history record that includes both qualifying and
+14 nonqualifying offenses shall not be eligible for expungement sealing pursuant
+15 to this section.
+16 (2) The Vermont Crime Information Center shall retain a special index
+17 of sentences for sex offenses that require registration pursuant to chapter 167,
+18 subchapter 3 of this title. This index shall only list the name and date of birth
+19 of the subject of the expunged files and records, the offense for which the
+20 subject was convicted, and the docket number of the proceeding that was the
+21 subject of the expungement. The special index shall be confidential and shall
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 33 of 36
+1 be accessed only by the Director of the Vermont Crime Information Center and
+2 an individual designated for the purpose of providing information to the
+3 Department of Corrections in the preparation of a presentence investigation in
+4 accordance with 28 V.S.A. §§ 204 and 204a. [Repealed.]
+5 (c) Petitions. An individual who was 18–21 years of age at the time the
+6 individual committed a qualifying crime may file a petition with the court
+7 requesting expungement of the criminal history record related to the qualifying
+8 crime after 30 days have elapsed since the individual completed the terms and
+9 conditions for the sentence for the qualifying crime. The court shall grant the
+10 petition and issue an order sealing or expunging the record if it finds that
+11 sealing or expunging the record serves the interests of justice. [Repealed.]
+12 § 7610. CRIMINAL HISTORY RECORD SEALING SPECIAL FUND
+13 There is established the Criminal History Record Sealing Special Fund,
+14 which shall be managed in accordance with 32 V.S.A. chapter 7, subchapter 5.
+15 Fees collected pursuant to 32 V.S.A. § 1431(e) for the filing of a petition to
+16 seal a criminal history record of a violation of 23 V.S.A. § 1201(a) shall be
+17 deposited into and credited to this Fund. This Fund shall be available to the
+18 Office of the Court Administrator, the Department of State’s Attorneys and
+19 Sheriffs, the Department of Motor Vehicles, and the Vermont Crime
+20 Information Center to offset the administrative costs of sealing such records.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 34 of 36
+1 Balances in the Fund at the end of the fiscal year shall be carried forward and
+2 remain in the Fund.
+3 § 7611. UNAUTHORIZED DISCLOSURE
+4 A State or municipal employee or contractor or any agent of the court,
+5 including an attorney and an employee or contractor of the attorney, or a law
+6 enforcement officer as defined in 20 V.S.A. § 2351a who knowingly accesses
+7 or discloses sealed criminal history record information without authorization
+8 shall be assessed a civil penalty of not more than $1,000.00. Each
+9 unauthorized disclosure shall constitute a separate civil violation.
+10 Sec. 2. 24 V.S.A. § 2296b is added to read:
+11 § 2296b. EXPUNGEMENT OF MUNICIPAL VIOLATION RECORDS
+12 (a) Expungement. Two years following the satisfaction of a judgment
+13 resulting from an adjudication of a municipal violation, the Judicial Bureau
+14 shall make an entry of “expunged” and notify the municipality of such action,
+15 provided the person has not been adjudicated for any subsequent municipal
+16 violations during that time. The data transfer to the municipality shall include
+17 the name, date of birth, ticket number, and offense. Violations of offenses
+18 adopted pursuant to chapter 117 of this title shall not be eligible for
+19 expungement under this section.
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 35 of 36
+1 (b) Effect of expungement.
+2 (1) Upon entry of an expungement order, the order shall be legally
+3 effective immediately and the individual whose record is expunged shall be
+4 treated in all respects as if the individual had never been adjudicated of the
+5 violation.
+6 (2) Upon an entry of expunged, the case will be accessible only by the
+7 Clerk of the Court for the Judicial Bureau or the Clerk’s designee.
+8 Adjudications that have been expunged shall not appear in the results of any
+9 Judicial Bureau database search by name, date of birth, or any other data
+10 identifying the defendant. Except as provided in subsection (c) of this section,
+11 any documents or other records related to an expunged adjudication that are
+12 maintained outside the Judicial Bureau’s case management system shall be
+13 destroyed.
+14 (3) Upon receiving an inquiry from any person regarding an expunged
+15 record, the Judicial Bureau and the municipality shall respond that “NO
+16 RECORD EXISTS.”
+17 (c) Exception for research entities. Research entities that maintain
+18 adjudication records for purposes of collecting, analyzing, and disseminating
+19 criminal justice data shall not be subject to the expungement requirements
+20 established in this section. Research entities shall abide by the policies
+VT LEG #382109 v.1
+AS PASSED BY SENATE S.12
+2025 Page 36 of 36
+1 established by the Court Administrator and shall not disclose any identifying
+2 information from the records they maintain.
+3 (d) Policies for implementation. The Court Administrator shall establish
+4 policies for implementing this section.
+5 (e) Application. This section shall apply to municipal violations that occur
+6 on and after July 1, 2025.
+7 Sec. 3. 23 V.S.A. § 2303 is amended to read:
+8 § 2303. EXPUNGEMENT OF VIOLATION RECORDS
+9 * * *
+10 (e) Application. This section shall apply to motor vehicle violations that
+11 occur on and after July 1, 2021.
+12 Sec. 4. EFFECTIVE DATE
+13 This act shall take effect on July 1, 2025.
+VT LEG #382109 v.1
+[DELETED:  S P S A I S C H § A ( ( i i s ( e v 2 a n u v]
+[DELETED:  S P 4 i s p s c ( ( ( ( v ( v ( p ( ( m]
+[DELETED:  S P ( ( e 1 ( ( o ( c ( c ( ( ( d ( m ( e ( h]
+[DELETED:  S P ( e ( p ( ( ( e ( o p ( a ( v ( c ( c ( m]
+[DELETED:  S P ( t ( p ( o ( g ( s ( v ( V c ( p ( ( e]
+[DELETED:  S P 2 d ( ( ( d § 4 4 ( u ( ( ( c ( ( c ( ( (]
+[DELETED:  S P ( ( ( ( s ( t ( ( ( ( ( l ( ( ( ( ( h ( (]
+[DELETED:  S P ( r §   ( o ( c ( c ( s § e d w v ( s s]
+[DELETED:  S P 2 w ( t ( a s a t ( c a d ( r c ( p c c y]
+[DELETED:  S P ( i ( p s ( s ( c c t ( j ( y ( r c ( s c]
+[DELETED:  S P ( n ( p ( o p b ( t q ( c c a ( j ( y ( u]
+[DELETED:  S P t e c ( o ( i s ( c s c ( c l ( r p ( p m]
+[DELETED:  S P o i e ( p s 2 i h f ( s c c 1 ( ( § ( i 2]
+[DELETED:  S P ( ( i ( u o r t ( s c o p ( i s ( ( r]
+[DELETED:  S P ( ( o o o ( c q o ( t u ( a s a s ( c V o]
+[DELETED:  S P ( p a c ( o ( i s ( m g f ( c ( w p b ( t]
+[DELETED:  S P ( f p c ( c ( w p b ( t ( D g f ( c ( w]
+[DELETED:  S P p b ( c ( t ( a s r t b §   ( i o ( ( t]
+[DELETED:  S P ( ( ( t ( s t a ( ( i a ( ( ( ( t ( a s]
+[DELETED:  S P ( e p o t t ( s p t p [ § I p p t § I t s]
+[DELETED:  S P § ( h i s a n C C r e I ( ( e i s ( o r r]
+[DELETED:  S P ( r ( r f ( ( d ( p ( b ( ( e n b e ( o]
+[DELETED:  S P e l ( p m p ( ( t § ( l t s c r t o a r t]
+[DELETED:  S P a o I n I ( ( u a s ( o r r ( a ( r t ( c]
+[DELETED:  S P p t p s p ( o ( u o ( t w p h c s c h ( r]
+[DELETED:  S P c r c ( a s s p f f s t ( a p p ( r i d t]
+[DELETED:  S P ( I h p C ( i m ( p s ( s b i ( c p ( a e]
+[DELETED:  S P m a u r ( d a s o m r ( ( d ( r ( b ( e]
+[DELETED:  S P ( i p ( c ( ( t p n ( o e l ( s s i a ( t]
+[DELETED:  S P ( C i v p ( a m § ( s t s d a r ( t t v]
+[DELETED:  S P §   ( s 2 e c q i i p a e i N r s c o a c]
+[DELETED:  S P e f c ( o p b ( t ( p ( ( n t ( o s o s s]
+[DELETED:  S P b a D a ( i r c c p s § T w F s d O S I]
+[DELETED:  S P B r § A i e o s u S § ( r s p v t a e]
+[DELETED:  S P ( ( e t v ( C A J i a m d ( r R ( a c e]
+[DELETED:  S P e i ( p ( o S § * ( o S T]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY SENATE S.12
+2025 Page 1 of 36
+1 S.12
+2 An act relating to sealing criminal history records
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 13 V.S.A. chapter 230 is amended to read:
+5 CHAPTER 230. EXPUNGEMENT AND SEALING OF CRIMINAL
+6 HISTORY RECORDS
+7 § 7601. DEFINITIONS
+8 As used in this chapter:
+9 (1) “Court” means the Criminal Division of the Superior Court.
+10 (2) “Criminal history record” means all information documenting an
+11 individual’s contact with the criminal justice system, including data regarding
+12 identification, arrest or citation, arraignment, judicial disposition, custody, and
+13 supervision.
+14 (3) “Predicate offense” means a criminal offense that can be used to
+15 enhance a sentence levied for a later conviction and includes operating a
+16 vehicle under the influence of alcohol or other substance in violation of
+17 23 V.S.A. § 1201, domestic assault in violation of section 1042 of this title,
+18 and stalking in violation of section 1062 of this title. “Predicate offense” shall
+19 not include misdemeanor possession of cannabis, a disorderly conduct offense
+20 under section 1026 of this title, or possession of a controlled substance in
+21 violation of 18 V.S.A. § 4230(a), 4231(a), 4232(a), 4233(a), 4234(a), 4234a(a),
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 2 of 36
+1 4234b(a), 4235(b), or 4235a(a) “Criminal justice purposes” means the
+2 investigation, apprehension, detention, adjudication, or correction of persons
+3 suspected, charged, or convicted of criminal offenses. “Criminal justice
+4 purposes” also includes criminal identification activities; the collection,
+5 storage, and dissemination of criminal history records; and screening for
+6 criminal justice employment.
+7 (4) “Qualifying crime” means:
+8 (A) a misdemeanor offense that is not:
+9 (i) a listed crime as defined in subdivision 5301(7) of this title;
+10 (ii) an offense involving sexual exploitation of children in
+11 violation of chapter 64 of this title;
+12 (iii) an offense involving violation of a protection order in
+13 violation of section 1030 of this title;
+14 (iv) prostitution as defined in section 2632 of this title, or
+15 prohibited conduct under section 2601a of this title; or
+16 (v) a predicate offense;
+17 (B) a violation of subsection 3701(a) of this title related to criminal
+18 mischief;
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 3 of 36
+1 (C) a violation of section 2501 of this title related to grand larceny;
+2 (D) a violation of section 1201 of this title related to burglary,
+3 excluding any burglary into an occupied dwelling, as defined in subdivision
+4 1201(b)(2) of this title;
+5 (E) a violation of 18 V.S.A. § 4223 related to fraud or deceit;
+6 (F) a violation of section 1802 of this title related to uttering a forged
+7 or counterfeited instrument;
+8 (G) a violation of 18 V.S.A. § 4230(a) related to possession and
+9 cultivation of cannabis;
+10 (H) a violation of 18 V.S.A. § 4231(a) related to possession of
+11 cocaine;
+12 (I) a violation of 18 V.S.A. § 4232(a) related to possession of LSD;
+13 (J) a violation of 18 V.S.A. § 4233(a) related to possession of heroin;
+14 (K) a violation of 18 V.S.A. § 4234(a) related to possession of
+15 depressant, stimulant, and narcotic drugs;
+16 (L) a violation of 18 V.S.A. § 4234a(a) related to possession of
+17 methamphetamine;
+18 (M) a violation of 18 V.S.A. § 4234b(a) related to possession of
+19 ephedrine and pseudoephedrine;
+20 (N) a violation of 18 V.S.A. § 4235(b) related to possession of
+21 hallucinogenic drugs;
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 4 of 36
+1 (O) a violation of 18 V.S.A. § 4235a(a) related to possession of
+2 ecstasy; or
+3 (P) any offense for which a person has been granted an unconditional
+4 pardon from the Governor.
+5 (A) all misdemeanor offenses except:
+6 (i) a listed crime as defined in subdivision 5301(7) of this title;
+7 (ii) a violation of chapter 64 of this title relating to sexual
+8 exploitation of children;
+9 (iii) a violation of section 1030 of this title relating to a violation
+10 of an abuse prevention order, an order against stalking or sexual assault, or a
+11 protective order concerning contact with a child;
+12 (iv) a violation of chapter 28 of this title related to abuse, neglect,
+13 and exploitation of a vulnerable adult;
+14 (v) a violation of subsection 2605(b) or (c) of this title related to
+15 voyeurism;
+16 (vi) a violation of subdivisions 352(1)–(10) of this title related to
+17 cruelty to animals;
+18 (vii) a violation of section 5409 of this title related to failure to
+19 comply with sex offender registry requirements;
+20 (viii) a violation of section 1455 of this title related to hate
+21 motivated crimes;
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 5 of 36
+1 (ix) a violation of subsection 1304(a) of this title related to cruelty
+2 to a child;
+3 (x) a violation of section 1305 of this title related to cruelty by
+4 person having custody of another;
+5 (xi) a violation of section 1306 of this title related to mistreatment
+6 of persons with impaired cognitive function;
+7 (xii) a violation of section 3151 of this title related to female
+8 genital mutilation;
+9 (xiii) a violation of subsection 3258(b) of this title related to
+10 sexual exploitation of a minor;
+11 (xiv) a violation of subdivision 4058(b)(1) of this title related to
+12 violation of an extreme risk protection order;
+13 (xv) an offense committed in a motor vehicle as defined in 23
+14 V.S.A. § 4 by a person who is the holder of a commercial driver’s license or
+15 commercial driver’s permit pursuant to 23 V.S.A. chapter 39; and
+16 (xvi) any offense that would require registration as a sex offender
+17 pursuant to chapter 167, subchapter 3 of this title; and
+18 (B) the following felonies:
+19 (i) a violation of section 1201 of this title related to burglary,
+20 excluding any burglary into an occupied dwelling, unless the person was
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 6 of 36
+1 25 years of age or younger at the time of the offense and did not carry a
+2 dangerous or deadly weapon during the commission of the offense;
+3 (ii) designated felony property offenses as defined in subdivision
+4 (5) of this section;
+5 (iii) offenses relating to possessing, cultivating, selling,
+6 dispensing, or transporting regulated drugs, including violations of 18 V.S.A.
+7 § 4230(a) and (b), 4231(a) and (b), 4232(a) and (b), 4233(a) and (b), 4233a(a),
+8 4234(a) and (b), 4234a(a) and (b), 4234b(a) and (b), 4235(b) and (c), or
+9 4235a(a) and (b); and
+10 (iv) any offense for which a person has been granted an
+11 unconditional pardon from the Governor.
+12 (5) “Designated felony property offense” means:
+13 (A) section 1801 of this title related to forgery and counterfeiting;
+14 (B) section 1802 of this title related to uttering a forged or
+15 counterfeited instrument;
+16 (C) section 1804 of this title related to counterfeiting paper money;
+17 (D) section 1816 of this title related to possession or use of credit
+18 card skimming devices;
+19 (E) section 2001 of this title related to false personation;
+20 (F) section 2002 of this title related to false pretenses or tokens;
+21 (G) section 2029 of this title related to home improvement fraud;
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 7 of 36
+1 (H) section 2030 of this title related to identity theft;
+2 (I) section 2501 of this title related to grand larceny;
+3 (J) section 2531 of this title related to embezzlement;
+4 (K) section 2532 of this title related to embezzlement by officers or
+5 servants of an incorporated bank;
+6 (L) section 2533 of this title related to embezzlement by a receiver or
+7 trustee;
+8 (M) section 2561 of this title related to receiving stolen property;
+9 (N) section 2575 of this title related to retail theft;
+10 (O) section 2582 of this title related to theft of services;
+11 (P) section 2591 of this title related to theft of rented property;
+12 (Q) section 2592 of this title related to failure to return a rented or
+13 leased motor vehicle;
+14 (R) section 3016 of this title related to false claims;
+15 (S) section 3701 of this title related to unlawful mischief;
+16 (T) section 3705 of this title related to unlawful trespass;
+17 (U) section 3733 of this title related to mills, dams, or bridges;
+18 (V) section 3761 of this title related to unauthorized removal of
+19 human remains;
+20 (W) section 3766 of this title related to grave markers and ornaments;
+21 (X) chapter 87 of this title related to computer crimes; and
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 8 of 36
+1 (Y) 18 V.S.A. § 4223 related to fraud or deceit in obtaining a
+2 regulated drug.
+3 § 7602. EXPUNGEMENT AND SEALING OF RECORD,
+4 POSTCONVICTION; PROCEDURE
+5 (a)(1) A person may file a petition with the court requesting expungement
+6 or sealing of the criminal history record related to the conviction if:
+7 (A) the person was convicted of a qualifying crime or qualifying
+8 crimes arising out of the same incident or occurrence;
+9 (B) the person was convicted of an offense for which the underlying
+10 conduct is no longer prohibited by law or designated as a criminal offense;
+11 (C) pursuant to the conditions set forth in subsection (g) of this
+12 section, the person was convicted of a violation of 23 V.S.A. § 1201(a) or
+13 § 1091 related to operating under the influence of alcohol or other substance,
+14 excluding a violation of those sections resulting in serious bodily injury or
+15 death to any person other than the operator, or related to operating a school bus
+16 with a blood alcohol concentration of 0.02 or more or operating a commercial
+17 vehicle with a blood alcohol concentration of 0.04 or more; or
+18 (D) pursuant to the conditions set forth in subsection (h) of this
+19 section, the person was convicted under 1201(c)(3)(A) of a violation of
+20 subdivision 1201(a) of this title related to burglary when the person was
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 9 of 36
+1 25 years of age or younger, and the person did not carry a dangerous or deadly
+2 weapon during commission of the offense.
+3 (2) The State’s Attorney or Attorney General shall be the respondent in
+4 the matter.
+5 (3) The court shall grant the petition without hearing if the petitioner
+6 and the respondent stipulate to the granting of the petition. The respondent
+7 shall file the stipulation with the court, and the court shall issue the petitioner
+8 an order of expungement and provide notice of the order in accordance with
+9 this section.
+10 (4) This section shall not apply to an individual licensed as a
+11 commercial driver pursuant to 23 V.S.A. chapter 39 seeking to seal or expunge
+12 a record of a conviction for a felony offense committed in a motor vehicle as
+13 defined in 23 V.S.A. § 4.
+14 (b)(1) The court shall grant the petition and order that the criminal history
+15 record be expunged pursuant to section 7606 of this title if the following
+16 conditions are met:
+17 (A) At least five years have elapsed since the date on which the
+18 person successfully completed the terms and conditions of the sentence for the
+19 conviction, or if the person has successfully completed the terms and
+20 conditions of an indeterminate term of probation that commenced at least five
+21 years previously.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 10 of 36
+1 (B) The person has not been convicted of a crime arising out of a new
+2 incident or occurrence since the person was convicted for the qualifying crime.
+3 (C) Any restitution and surcharges ordered by the court have been
+4 paid in full, provided that payment of surcharges shall not be required if the
+5 surcharges have been waived by the court pursuant to section 7282 of this title.
+6 (D) The court finds that expungement of the criminal history record
+7 serves the interests of justice.
+8 (2) The court shall grant the petition and order that all or part of the
+9 criminal history record be sealed pursuant to section 7607 of this title if the
+10 conditions of subdivisions (1)(A), (B), and (C) of this subsection are met and
+11 the court finds that:
+12 (A) sealing the criminal history record better serves the interests of
+13 justice than expungement; and
+14 (B) the person committed the qualifying crime after reaching 19
+15 years of age.
+16 (c)(1) The court shall grant the petition and order that the criminal history
+17 record be expunged pursuant to section 7606 of this title if the following
+18 conditions are met:
+19 (A) At least 10 years have elapsed since the date on which the person
+20 successfully completed the terms and conditions of the sentence for the
+21 conviction.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 11 of 36
+1 (B) The person has not been convicted of a felony arising out of a
+2 new incident or occurrence in the last seven years.
+3 (C) The person has not been convicted of a misdemeanor during the
+4 past five years.
+5 (D) Any restitution and surcharges ordered by the court for any crime
+6 of which the person has been convicted has been paid in full, provided that
+7 payment of surcharges shall not be required if the surcharges have been waived
+8 by the court pursuant to section 7282 of this title.
+9 (E) After considering the particular nature of any subsequent offense,
+10 the court finds that expungement of the criminal history record for the
+11 qualifying crime serves the interests of justice.
+12 (2) The court shall grant the petition and order that all or part of the
+13 criminal history record be sealed pursuant to section 7607 of this title if the
+14 conditions of subdivisions (1)(A), (B), (C), and (D) of this subsection are met
+15 and the court finds that:
+16 (A) sealing the criminal history record better serves the interests of
+17 justice than expungement; and
+18 (B) the person committed the qualifying crime after reaching 19
+19 years of age.
+20 (d) For petitions filed pursuant to subdivision (a)(1)(B) of this section,
+21 unless the court finds that expungement would not be in the interests of justice,
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 12 of 36
+1 the court shall grant the petition and order that the criminal history record be
+2 expunged in accordance with section 7606 of this title if the following
+3 conditions are met:
+4 (1) The petitioner has completed any sentence or supervision for the
+5 offense.
+6 (2) Any restitution and surcharges ordered by the court have been paid
+7 in full, provided that payment of surcharges shall not be required if the
+8 surcharges have been waived by the court pursuant to section 7282 of this title.
+9 (e) For petitions filed pursuant to subdivision (a)(1)(B) of this section for a
+10 conviction for possession of a regulated drug under 18 V.S.A. chapter 84,
+11 subchapter 1 in an amount that is no longer prohibited by law or for which
+12 criminal sanctions have been removed:
+13 (1) The petitioner shall bear the burden of establishing that his or her
+14 conviction was based on possessing an amount of regulated drug that is no
+15 longer prohibited by law or for which criminal sanctions have been removed.
+16 (2) There shall be a rebuttable presumption that the amount of the
+17 regulated drug specified in the affidavit of probable cause associated with the
+18 petitioner’s conviction was the amount possessed by the petitioner.
+19 (f) Prior to granting an expungement or sealing under this section for
+20 petitions filed pursuant to subdivision 7601(4)(D) of this title, the court shall
+21 make a finding that the conduct underlying the conviction under section 1201
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 13 of 36
+1 of this title did not constitute a burglary into an occupied dwelling, as defined
+2 in subdivision 1201(b)(2) of this title. The petitioner shall bear the burden of
+3 establishing this fact.
+4 (g) For petitions filed pursuant to subdivision (a)(1)(C) of this section, only
+5 petitions to seal may be considered or granted by the court. This subsection
+6 shall not apply to an individual licensed as a commercial driver pursuant to
+7 23 V.S.A. chapter 39. Unless the court finds that sealing would not be in the
+8 interests of justice, the court shall grant the petition and order that the criminal
+9 history record be sealed in accordance with section 7607 of this title if the
+10 following conditions are met:
+11 (1) At least 10 years have elapsed since the date on which the person
+12 successfully completed the terms and conditions of the sentence for the
+13 conviction, or if the person has successfully completed the terms and
+14 conditions of an indeterminate term of probation that commenced at least
+15 10 years previously.
+16 (2) At the time of the filing of the petition:
+17 (A) the person has only one conviction of a violation of 23 V.S.A.
+18 § 1201, which shall be construed in accordance with 23 V.S.A. § 1211; and
+19 (B) the person has not been convicted of a crime arising out of a new
+20 incident or occurrence since the person was convicted of a violation of
+21 23 V.S.A. § 1201(a).
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 14 of 36
+1 (3) Any restitution ordered by the court has been paid in full.
+2 (4) The court finds that sealing of the criminal history record serves the
+3 interests of justice.
+4 (h) For petitions filed pursuant to subdivision (a)(1)(D) of this section,
+5 unless the court finds that expungement or sealing would not be in the interests
+6 of justice, the court shall grant the petition and order that the criminal history
+7 record be expunged or sealed in accordance with section 7606 or 7607 of this
+8 title if the following conditions are met:
+9 (1) At least 15 years have elapsed since the date on which the person
+10 successfully completed the terms and conditions of the sentence for the
+11 conviction, or the person has successfully completed the terms and conditions
+12 of an indeterminate term of probation that commenced at least 15 years
+13 previously.
+14 (2) The person has not been convicted of a crime arising out of a new
+15 incident or occurrence since the person was convicted of a violation of
+16 subdivision 1201(c)(3)(A) of this title.
+17 (3) Any restitution ordered by the court has been paid in full.
+18 (4) The court finds that expungement or sealing of the criminal history
+19 record serves the interests of justice.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 15 of 36
+1 (a) Petition.
+2 (1) A person may file a petition with the court requesting expungement
+3 of a criminal history record related to a conviction if the person was convicted
+4 of an offense for which the underlying conduct is no longer prohibited by law
+5 or designated as a criminal offense.
+6 (2) A person may file a petition with the court requesting sealing of a
+7 criminal history record related to a conviction if the person was convicted of a
+8 qualifying crime or qualifying crimes arising out of the same incident or
+9 occurrence.
+10 (3) Whichever office prosecuted the offense resulting in the conviction,
+11 the State’s Attorney or Attorney General, shall be the respondent in the matter
+12 unless the prosecuting office authorizes the other to act as the respondent.
+13 (4) The court shall grant the petition without hearing if the petitioner
+14 and the respondent stipulate to the granting of the petition. The respondent
+15 shall file the stipulation with the court, and the court shall issue the petitioner
+16 an order of sealing and provide notice of the order in accordance with this
+17 section.
+18 (5) This section shall not apply to an individual who is the holder of a
+19 commercial driver’s license or commercial driver’s permit pursuant to 23
+20 V.S.A. chapter 39 seeking to seal a record of a conviction for a misdemeanor
+21 or felony offense committed in a motor vehicle as defined in 23 V.S.A. § 4.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 16 of 36
+1 (b) Offenses that are no longer prohibited by law. For petitions filed
+2 pursuant to subdivision (a)(1) of this section, the court shall grant the petition
+3 and order that the criminal history record be expunged if the following
+4 conditions are met:
+5 (1) The petitioner has completed any sentence or supervision for the
+6 offense.
+7 (2) Any restitution and surcharges ordered by the court have been paid
+8 in full, provided that payment of surcharges shall not be required if the
+9 surcharges have been waived by the court pursuant to section 7282 of this title.
+10 (c) Qualifying misdemeanors. For petitions filed to seal a qualifying
+11 misdemeanor pursuant to subdivision (a)(2) of this section, the court shall
+12 grant the petition and order that the criminal history record be sealed if the
+13 following conditions are met:
+14 (1) At least three years have elapsed since the date on which the person
+15 completed the terms and conditions of the sentence.
+16 (2) Any restitution and surcharges ordered by the court for any crime of
+17 which the person has been convicted has been paid in full, provided that
+18 payment of surcharges shall not be required if the surcharges have been waived
+19 by the court pursuant to section 7282 of this title.
+20 (3) The respondent has failed to show that sealing would be contrary to
+21 the interests of justice.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 17 of 36
+1 (d) Qualifying felony offenses. For petitions filed to seal a qualifying
+2 felony pursuant to subdivision (a)(2) of this section, the court shall grant the
+3 petition and order that the criminal history record be sealed if the following
+4 conditions are met:
+5 (1) At least seven years have elapsed since the date on which the person
+6 completed the terms and conditions of the sentence.
+7 (2) Any restitution and surcharges ordered by the court for any crime of
+8 which the person has been convicted has been paid in full, provided that
+9 payment of surcharges shall not be required if the surcharges have been waived
+10 by the court pursuant to section 7282 of this title.
+11 (3) The respondent has failed to show that sealing would be contrary to
+12 the interests of justice.
+13 (e) Qualifying DUI misdemeanor. For petitions filed to seal a qualifying
+14 DUI misdemeanor pursuant to subdivision (a)(2) of this section, the court shall
+15 grant the petition and order that the criminal history record be sealed if the
+16 following conditions are met:
+17 (1) At least 10 years have elapsed since the date on which the person
+18 completed the terms and conditions of the sentence.
+19 (2) Any restitution and surcharges ordered by the court for any crime of
+20 which the person has been convicted has been paid in full, provided that
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 18 of 36
+1 payment of surcharges shall not be required if the surcharges have been waived
+2 by the court pursuant to section 7282 of this title.
+3 (3) The person is not the holder of a commercial driver’s license or
+4 commercial driver’s permit pursuant to 23 V.S.A. chapter 39.
+5 (4) The respondent has failed to show that sealing would be contrary to
+6 the interests of justice.
+7 (f) Fish and Wildlife Offenses. Sealing a criminal history record related to
+8 a fish and wildlife offense shall not void any fish and wildlife license
+9 suspension or revocation imposed pursuant to the accumulation of points
+10 related to the sealed offense. Points accumulated by a person shall remain on
+11 the person’s license and, if applicable, completion of the remedial course shall
+12 be required, as set forth in 10 V.S.A. § 4502.
+13 § 7603. EXPUNGEMENT AND SEALING OF RECORD, NO
+14 CONVICTION; PROCEDURE
+15 (a) Unless either party objects in the interests of justice, the court shall
+16 issue an order sealing the criminal history record related to the citation or arrest
+17 of a person:
+18 (1) within 60 days after the final disposition of the case if:
+19 (A) the court does not make a determination of probable cause at the
+20 time of arraignment; or
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 19 of 36
+1 (B) the charge is dismissed before trial with or without prejudice; or
+2 (C) the defendant is acquitted of the charges; or
+3 (2) at any time if the prosecuting attorney and the defendant stipulate
+4 that the court may grant the petition to seal the record.
+5 (b) If a party objects to sealing or expunging a record pursuant to this
+6 section, the court shall schedule a hearing to determine if sealing or expunging
+7 the record serves the interests of justice. The defendant and the prosecuting
+8 attorney shall be the only parties in the matter.
+9 (c), (d) [Repealed.]
+10 (e) Unless either party objects in the interests of justice, the court shall
+11 issue an order expunging a criminal history record related to the citation or
+12 arrest of a person:
+13 (1) within 60 days after the final disposition of the case if:
+14 (A) the defendant is acquitted of the charges; or
+15 (B) the charge is dismissed with prejudice;
+16 (2) at any time if the prosecuting attorney and the defendant stipulate
+17 that the court may grant the petition to expunge the record. [Repealed.]
+18 (f) Unless either party objects in the interests of justice, the court shall issue
+19 an order to expunge a record sealed pursuant to subsection (a) or (g) of this
+20 section eight years after the date on which the record was sealed. [Repealed.]
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 20 of 36
+1 (g) A person may file a petition with the court requesting sealing or
+2 expungement of a criminal history record related to the citation or arrest of the
+3 person at any time. The court shall grant the petition and issue an order sealing
+4 or expunging the record if it finds that sealing or expunging the record serves
+5 the interests of justice, or if the parties stipulate to sealing or expungement of
+6 the record.
+7 (h) The court may expunge any records that were sealed pursuant to this
+8 section prior to July 1, 2018 unless the State’s Attorney’s office that
+9 prosecuted the case objects. Thirty days prior to expunging a record pursuant
+10 to this subsection, the court shall provide to the State’s Attorney’s office that
+11 prosecuted the case written notice of its intent to expunge the record.
+12 [Repealed.]
+13 § 7604. NEW CHARGE
+14 If a person is charged with a criminal offense after he or she has filed a
+15 petition for expungement pursuant to this chapter has a criminal charge
+16 pending at the time the petition for sealing or expungement is before the court,
+17 the court shall not act on the petition until disposition of the new charge.
+18 § 7605. DENIAL OF PETITION
+19 If a petition for expungement or sealing is denied by the court pursuant to
+20 this chapter, no further petition shall be brought for at least two years, unless a
+21 shorter duration is authorized by the court.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 21 of 36
+1 § 7606. EFFECT OF EXPUNGEMENT
+2 (a) Order and notice. Upon finding that the requirements for expungement
+3 have been met, the court shall issue an order that shall include provisions that
+4 its effect is to annul the record of the arrest, conviction, and sentence and that
+5 such person shall be treated in all respects as if the person had never been
+6 arrested, convicted, or sentenced for the offense. The court shall provide
+7 notice of the expungement to the respondent, Vermont Crime Information
+8 Center (VCIC), the arresting agency, the Restitution Unit of the Vermont
+9 Center for Crime Victim Services, and any other entity that may have a record
+10 related to the order to expunge. The VCIC shall provide notice of the
+11 expungement to the Federal Bureau of Investigation’s National Crime
+12 Information Center.
+13 (b) Effect.
+14 (1) Upon entry of an expungement order, the order shall be legally
+15 effective immediately and the person whose record is expunged shall be treated
+16 in all respects as if he or she the person had never been arrested, convicted, or
+17 sentenced for the offense.
+18 (2) In any application for employment, license, or civil right or privilege
+19 or in an appearance as a witness in any proceeding or hearing, a person may be
+20 required to answer questions about a previous criminal history record only with
+21 respect to arrests or convictions that have not been expunged.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 22 of 36
+1 (3) The response to an inquiry from any person regarding an expunged
+2 record shall be that “NO CRIMINAL RECORD EXISTS.”
+3 (4) Nothing in this section shall affect any right of the person whose
+4 record has been expunged to rely on it as a bar to any subsequent proceedings
+5 for the same offense.
+6 (c) Process.
+7 (1) The court shall remove the expunged offense from any accessible
+8 database that it maintains.
+9 (2) Until all charges on a docket are expunged, the case file shall remain
+10 publicly accessible.
+11 (3) When all charges on a docket have been expunged, the case file shall
+12 be destroyed pursuant to policies established by the Court Administrator.
+13 (d) Special index.
+14 (1) The court shall keep a special index of cases that have been
+15 expunged together with the expungement order. The index shall list only the
+16 name of the person convicted of the offense, his or her the person’s date of
+17 birth, the docket number, and the criminal offense that was the subject of the
+18 expungement.
+19 (2) The special index and related documents specified in subdivision (1)
+20 of this subsection shall be confidential and shall be physically and
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 23 of 36
+1 electronically segregated in a manner that ensures confidentiality and that
+2 limits access to authorized persons.
+3 (3) Inspection of the expungement order may be permitted only upon
+4 petition by the person who is the subject of the case. The Chief Superior Judge
+5 may permit special access to the index and the documents for research
+6 purposes pursuant to the rules for public access to court records.
+7 (4) [Repealed]. [Repealed.]
+8 (5) The Court Administrator shall establish policies for implementing
+9 this subsection.
+10 § 7607. EFFECT OF SEALING
+11 (a) Order and notice. Upon entry of an order to seal, the order shall be
+12 legally effective immediately and the person whose record is sealed shall be
+13 treated in all respects as if the person had never been arrested, convicted, or
+14 sentenced for the offense and that its effect is to annul the record of arrest,
+15 conviction, and sentence. The court shall provide notice of the sealing to the
+16 respondent, Vermont Crime Information Center (VCIC), the arresting agency,
+17 the Restitution Unit of the Vermont Center for Crime Victim Services, and any
+18 other entity that may have a record related to the order to seal send a copy of
+19 any order sealing a criminal history record to all of the parties and attorneys
+20 representing the parties, including to the prosecuting agency that prosecuted
+21 the offense, the Vermont Crime Information Center (VCIC), the arresting
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 24 of 36
+1 agency, and any other entity that may have a record subject to the sealing
+2 order. VCIC shall provide notice of the sealing order to the Federal Bureau of
+3 Investigation’s National Crime Information Center. The VCIC shall provide
+4 notice of the sealing to the Federal Bureau of Investigation’s National Crime
+5 Information Center.
+6 (b) Effect.
+7 (1) Except as provided in subdivision subsection (c) of this section,
+8 upon entry of a sealing order, the order shall be legally effective immediately
+9 and the person whose record is sealed shall be treated in all respects as if he or
+10 she the person had never been arrested, convicted, or sentenced for the offense.
+11 (2) In any application for employment, license, or civil right or privilege
+12 or in an appearance as a witness in any proceeding or hearing, a person may be
+13 required to answer questions about a previous criminal history record only with
+14 respect to arrests or convictions that have not been sealed.
+15 (3) The response to an inquiry from any member of the public regarding
+16 a sealed record shall be that “NO CRIMINAL RECORD EXISTS.”
+17 (4) Nothing in this section shall affect any right of the person whose
+18 record has been sealed to rely on it as a bar to any subsequent proceeding for
+19 the same offense.
+20 (c) Exceptions. A party seeking to use a sealed criminal history record in a
+21 court proceeding shall, prior to any use of the record in open court or in a
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 25 of 36
+1 public filing, notify the court of the party’s intent to do so. The court shall
+2 thereafter determine whether the record may be used prior its disclosure in the
+3 proceeding. This shall not apply to the use of a sealed record pursuant to
+4 subdivision (2), (3), (4), or (7) of this subsection. Use of a sealed document
+5 pursuant to an exception shall not change the effect of sealing under subsection
+6 (b) of this section. Notwithstanding any other provision of law or a sealing
+7 order:
+8 (1) An entity or person that possesses a sealed record may continue to
+9 use it for any litigation or claim arising out of the same incident or occurrence
+10 or involving the same defendant.
+11 (2)(A) A criminal justice agency as defined in 20 V.S.A. § 2056a and
+12 the Attorney General may use the criminal history record sealed in accordance
+13 with section 7602 or 7603 of this title without limitation for criminal justice
+14 purposes as defined in 20 V.S.A. § 2056a apply to access a sealed criminal
+15 history record by filing a petition, supported by a written affidavit, with the
+16 court. The court shall grant access to the record upon a finding that reasonable
+17 suspicion exists that a sealed record contains information that will aid in
+18 criminal justice purposes. The court may grant the petition ex parte or upon
+19 hearing at the court’s discretion.
+20 (B) A defense attorney may apply to access a sealed criminal history
+21 record by filing a petition, supported by a written affidavit, with the court. The
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 26 of 36
+1 court may grant access to the sealed record upon a finding that the sealed
+2 record may be of assistance to the attorney in representing the defendant. The
+3 court may grant the petition ex parte or upon hearing at the court’s discretion.
+4 (3) A law enforcement officer as defined in 20 V.S.A. § 2351a may
+5 access a sealed record under exigent circumstances. As used in this
+6 subdivision (3), “exigent circumstances” means a compelling need to act
+7 swiftly to prevent imminent danger to life or serious damage to property, to
+8 prevent the imminent destruction of evidence, or to prevent a suspect from
+9 fleeing. For an alleged violation of this subdivision (3), a complaint may be
+10 filed with the Vermont Criminal Justice Council. A violation of this
+11 subdivision (3) shall be subject to the penalty provided in section 7611 of this
+12 title.
+13 (4) A sealed record of a prior violation of 23 V.S.A. § 1201(a) shall be
+14 admissible as a predicate offense for the purpose of imposing an enhanced
+15 penalty for a subsequent violation of that section, in accordance with the
+16 provisions of 23 V.S.A. § 1210.
+17 (5) A person or a court in possession of an order issued by a court
+18 regarding a matter that was subsequently sealed may file or cite to that decision
+19 in any subsequent proceeding. The party or court filing or citing to that
+20 decision shall ensure that information regarding the identity of the defendant in
+21 the sealed record is redacted.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 27 of 36
+1 (6) The Vermont Crime Information Center and Criminal Justice
+2 Information Services Division of the Federal Bureau of Investigation shall
+3 have access to sealed criminal history records without limitation for the
+4 purpose of responding to queries to the National Instant Criminal Background
+5 Check System regarding firearms transfers and attempted transfers.
+6 (7) The State’s Attorney and Attorney General shall disclose
+7 information contained in a sealed criminal history record when required to
+8 meet discovery obligations.
+9 (8) The person whose criminal history records have been sealed
+10 pursuant to this chapter and the person’s attorney may access and use the
+11 sealed records in perpetuity.
+12 (9) A law enforcement agency may inspect and receive copies of the
+13 sealed criminal history records of any applicant who applies to the agency to
+14 be a law enforcement officer or a current employee for the purpose of internal
+15 investigation.
+16 (10) Persons or entities conducting research shall have access to a sealed
+17 criminal history record to carry out research pursuant to 20 V.S.A. § 2056b in
+18 perpetuity and shall not be subject to the 10-year limitation.
+19 (11) Information and materials gathered by the Department for Children
+20 and Families during a joint investigation with law enforcement, including law
+21 enforcement affidavits and related references to such information and
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 28 of 36
+1 materials, are not case records as defined in section 7601(2) of this title, and
+2 are considered Department records that shall be maintained and may be
+3 utilized as statutorily prescribed by 33 V.S.A. chapter 49 and produced in
+4 response to a court order.
+5 (12) Information and materials gathered by Adult Protective Services
+6 during a joint investigation with law enforcement, including law enforcement
+7 affidavits and other investigative materials, are not case records as defined in
+8 subdivision 7601(2) of this title, and are considered records of the Department
+9 of Disabilities, Aging, and Independent Living, which shall be maintained and
+10 may be utilized as authorized by 33 V.S.A. chapter 69 and produced in
+11 response to a court order.
+12 (d) Process.
+13 (1) The court shall bar viewing of the sealed offense in any accessible
+14 database that it maintains.
+15 (2) Until all charges on a docket have been sealed, the case file shall
+16 remain publicly accessible.
+17 (3) When all charges on a docket have been sealed, the case file shall
+18 become exempt from public access.
+19 (4) When a sealing order is issued by the court, any person or entity,
+20 except the court, that possesses criminal history records shall:
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 29 of 36
+1 (A) bar viewing of the sealed offense in any accessible database that
+2 it maintains or remove information pertaining to the sealed records from any
+3 publicly accessible database that the person or entity maintains; and
+4 (B) clearly label the criminal history record as “SEALED” to ensure
+5 compliance with this section.
+6 (e) Special index.
+7 (1) The court shall keep a special index of cases that have been sealed
+8 together with the sealing order. The index shall list only the name of the
+9 person convicted of the offense, his or her the person’s date of birth, the docket
+10 number, and the criminal offense that was the subject of the sealing.
+11 (2) The special index and related documents specified in subdivision (1)
+12 of this subsection shall be confidential and shall be physically and
+13 electronically segregated in a manner that ensures confidentiality and that
+14 limits access to authorized persons.
+15 (3) Except as provided in subsection (c) of this section, inspection of the
+16 sealing order may be permitted only upon petition by the person who is the
+17 subject of the case. The Chief Superior Judge may permit special access to the
+18 index and the documents for research purposes pursuant to the rules for public
+19 access to court records.
+20 (4) The Court Administrator shall establish policies for implementing
+21 this subsection.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 30 of 36
+1 (f) Victims Compensation Program. Upon request, the Victim’s Victims
+2 Compensation Program shall be provided with a copy, redacted of all
+3 information identifying the offender, of the affidavit for the sole purpose of
+4 verifying the expenses in a victim’s compensation application submitted
+5 pursuant to section 5353 of this title.
+6 (g) Restitution. The sealing of a criminal record shall not affect the
+7 authority of the Restitution Unit to enforce a restitution order in the same
+8 manner as a civil judgment pursuant to subdivision 5362(c)(2) of this title.
+9 § 7608. VICTIMS
+10 (a) At the time a petition is filed pursuant to this chapter, the respondent
+11 shall give notice of the petition to any victim of the offense who is known to
+12 the respondent. The victim shall have the right to offer the respondent a
+13 statement prior to any stipulation or to offer the court a statement. The
+14 disposition of the petition shall not be unnecessarily delayed pending receipt of
+15 a victim’s statement. The respondent’s inability to locate a victim after a
+16 reasonable effort has been made shall not be a bar to granting a petition.
+17 (b) As used in this section, “reasonable effort” means attempting to contact
+18 the victim by first-class mail at the victim’s last known address and, by
+19 telephone at the victim’s last known phone number, and by email at the
+20 victim’s last known email address.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 31 of 36
+1 § 7609. EXPUNGEMENT OF SEALING CRIMINAL HISTORY RECORDS
+2 OF AN INDIVIDUAL A PERSON 18–21 YEARS OF AGE
+3 (a)(1) Procedure Petition. Except as provided in subsection (b) of this
+4 section, the record of the criminal proceedings for an individual who was 18–
+5 21 years of age at the time the individual committed a qualifying crime shall be
+6 expunged within 30 days after the date on which the individual successfully
+7 completed the terms and conditions of the sentence for the conviction of the
+8 qualifying crime, absent a finding of good cause by the court. The court shall
+9 issue an order to expunge all records and files related to the arrest, citation,
+10 investigation, charge, adjudication of guilt, criminal proceedings, and
+11 probation related to the sentence. A copy of the order shall be sent to each
+12 agency, department, or official named in the order. Thereafter, the court, law
+13 enforcement officers, agencies, and departments shall reply to any request for
+14 information that no record exists with respect to such individual.
+15 Notwithstanding this subsection, the record shall not be expunged until
+16 restitution and surcharges have been paid in full, provided that payment of
+17 surcharges shall not be required if the surcharges have been waived by the
+18 court pursuant to section 7282 of this title Notwithstanding any other provision
+19 of law, a person who was 18–21 years of age at the time the person committed
+20 a qualifying crime may file a petition with the court requesting sealing of the
+21 criminal history record related to the qualifying crime after 30 days have
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 32 of 36
+1 elapsed since the person completed the terms and conditions for the sentence
+2 for the qualifying crime. The court shall grant the petition and order that the
+3 criminal history record be sealed if the following conditions are met:
+4 (A) Any restitution and surcharges ordered by the court for any crime
+5 of which the person has been convicted has been paid in full, provided that
+6 payment of surcharges shall not be required if the surcharges have been waived
+7 by the court pursuant to section 7282 of this title.
+8 (B) The respondent has failed to show that sealing would be contrary
+9 to the interest of justice.
+10 (2) Effect. Order, notice, and effect of sealing shall comply with the
+11 provisions of subsections 7607(a) and (b) of this title.
+12 (b) Exceptions.
+13 (1) A criminal history record that includes both qualifying and
+14 nonqualifying offenses shall not be eligible for expungement sealing pursuant
+15 to this section.
+16 (2) The Vermont Crime Information Center shall retain a special index
+17 of sentences for sex offenses that require registration pursuant to chapter 167,
+18 subchapter 3 of this title. This index shall only list the name and date of birth
+19 of the subject of the expunged files and records, the offense for which the
+20 subject was convicted, and the docket number of the proceeding that was the
+21 subject of the expungement. The special index shall be confidential and shall
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 33 of 36
+1 be accessed only by the Director of the Vermont Crime Information Center and
+2 an individual designated for the purpose of providing information to the
+3 Department of Corrections in the preparation of a presentence investigation in
+4 accordance with 28 V.S.A. §§ 204 and 204a. [Repealed.]
+5 (c) Petitions. An individual who was 18–21 years of age at the time the
+6 individual committed a qualifying crime may file a petition with the court
+7 requesting expungement of the criminal history record related to the qualifying
+8 crime after 30 days have elapsed since the individual completed the terms and
+9 conditions for the sentence for the qualifying crime. The court shall grant the
+10 petition and issue an order sealing or expunging the record if it finds that
+11 sealing or expunging the record serves the interests of justice. [Repealed.]
+12 § 7610. CRIMINAL HISTORY RECORD SEALING SPECIAL FUND
+13 There is established the Criminal History Record Sealing Special Fund,
+14 which shall be managed in accordance with 32 V.S.A. chapter 7, subchapter 5.
+15 Fees collected pursuant to 32 V.S.A. § 1431(e) for the filing of a petition to
+16 seal a criminal history record of a violation of 23 V.S.A. § 1201(a) shall be
+17 deposited into and credited to this Fund. This Fund shall be available to the
+18 Office of the Court Administrator, the Department of State’s Attorneys and
+19 Sheriffs, the Department of Motor Vehicles, and the Vermont Crime
+20 Information Center to offset the administrative costs of sealing such records.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 34 of 36
+1 Balances in the Fund at the end of the fiscal year shall be carried forward and
+2 remain in the Fund.
+3 § 7611. UNAUTHORIZED DISCLOSURE
+4 A State or municipal employee or contractor or any agent of the court,
+5 including an attorney and an employee or contractor of the attorney, or a law
+6 enforcement officer as defined in 20 V.S.A. § 2351a who knowingly accesses
+7 or discloses sealed criminal history record information without authorization
+8 shall be assessed a civil penalty of not more than $1,000.00. Each
+9 unauthorized disclosure shall constitute a separate civil violation.
+10 Sec. 2. 24 V.S.A. § 2296b is added to read:
+11 § 2296b. EXPUNGEMENT OF MUNICIPAL VIOLATION RECORDS
+12 (a) Expungement. Two years following the satisfaction of a judgment
+13 resulting from an adjudication of a municipal violation, the Judicial Bureau
+14 shall make an entry of “expunged” and notify the municipality of such action,
+15 provided the person has not been adjudicated for any subsequent municipal
+16 violations during that time. The data transfer to the municipality shall include
+17 the name, date of birth, ticket number, and offense. Violations of offenses
+18 adopted pursuant to chapter 117 of this title shall not be eligible for
+19 expungement under this section.
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 35 of 36
+1 (b) Effect of expungement.
+2 (1) Upon entry of an expungement order, the order shall be legally
+3 effective immediately and the individual whose record is expunged shall be
+4 treated in all respects as if the individual had never been adjudicated of the
+5 violation.
+6 (2) Upon an entry of expunged, the case will be accessible only by the
+7 Clerk of the Court for the Judicial Bureau or the Clerk’s designee.
+8 Adjudications that have been expunged shall not appear in the results of any
+9 Judicial Bureau database search by name, date of birth, or any other data
+10 identifying the defendant. Except as provided in subsection (c) of this section,
+11 any documents or other records related to an expunged adjudication that are
+12 maintained outside the Judicial Bureau’s case management system shall be
+13 destroyed.
+14 (3) Upon receiving an inquiry from any person regarding an expunged
+15 record, the Judicial Bureau and the municipality shall respond that “NO
+16 RECORD EXISTS.”
+17 (c) Exception for research entities. Research entities that maintain
+18 adjudication records for purposes of collecting, analyzing, and disseminating
+19 criminal justice data shall not be subject to the expungement requirements
+20 established in this section. Research entities shall abide by the policies
+VT LEG #382109 v.1
+
+AS PASSED BY SENATE S.12
+2025 Page 36 of 36
+1 established by the Court Administrator and shall not disclose any identifying
+2 information from the records they maintain.
+3 (d) Policies for implementation. The Court Administrator shall establish
+4 policies for implementing this section.
+5 (e) Application. This section shall apply to municipal violations that occur
+6 on and after July 1, 2025.
+7 Sec. 3. 23 V.S.A. § 2303 is amended to read:
+8 § 2303. EXPUNGEMENT OF VIOLATION RECORDS
+9 * * *
+10 (e) Application. This section shall apply to motor vehicle violations that
+11 occur on and after July 1, 2021.
+12 Sec. 4. EFFECTIVE DATE
+13 This act shall take effect on July 1, 2025.
+VT LEG #382109 v.1
+
+[DELETED:  S P S A I S C H § A ( ( i i s ( e v 2 a n u v]
+[DELETED:  S P 4 i s p s c ( ( ( ( v ( v ( p ( ( m]
+[DELETED:  S P ( ( e 1 ( ( o ( c ( c ( ( ( d ( m ( e ( h]
+[DELETED:  S P ( e ( p ( ( ( e ( o p ( a ( v ( c ( c ( m]
+[DELETED:  S P ( t ( p ( o ( g ( s ( v ( V c ( p ( ( e]
+[DELETED:  S P 2 d ( ( ( d § 4 4 ( u ( ( ( c ( ( c ( ( (]
+[DELETED:  S P ( ( ( ( s ( t ( ( ( ( ( l ( ( ( ( ( h ( (]
+[DELETED:  S P ( r §   ( o ( c ( c ( s § e d w v ( s s]
+[DELETED:  S P 2 w ( t ( a s a t ( c a d ( r c ( p c c y]
+[DELETED:  S P ( i ( p s ( s ( c c t ( j ( y ( r c ( s c]
+[DELETED:  S P ( n ( p ( o p b ( t q ( c c a ( j ( y ( u]
+[DELETED:  S P t e c ( o ( i s ( c s c ( c l ( r p ( p m]
+[DELETED:  S P o i e ( p s 2 i h f ( s c c 1 ( ( § ( i 2]
+[DELETED:  S P ( ( i ( u o r t ( s c o p ( i s ( ( r]
+[DELETED:  S P ( ( o o o ( c q o ( t u ( a s a s ( c V o]
+[DELETED:  S P ( p a c ( o ( i s ( m g f ( c ( w p b ( t]
+[DELETED:  S P ( f p c ( c ( w p b ( t ( D g f ( c ( w]
+[DELETED:  S P p b ( c ( t ( a s r t b §   ( i o ( ( t]
+[DELETED:  S P ( ( ( t ( s t a ( ( i a ( ( ( ( t ( a s]
+[DELETED:  S P ( e p o t t ( s p t p [ § I p p t § I t s]
+[DELETED:  S P § ( h i s a n C C r e I ( ( e i s ( o r r]
+[DELETED:  S P ( r ( r f ( ( d ( p ( b ( ( e n b e ( o]
+[DELETED:  S P e l ( p m p ( ( t § ( l t s c r t o a r t]
+[DELETED:  S P a o I n I ( ( u a s ( o r r ( a ( r t ( c]
+[DELETED:  S P p t p s p ( o ( u o ( t w p h c s c h ( r]
+[DELETED:  S P c r c ( a s s p f f s t ( a p p ( r i d t]
+[DELETED:  S P ( I h p C ( i m ( p s ( s b i ( c p ( a e]
+[DELETED:  S P m a u r ( d a s o m r ( ( d ( r ( b ( e]
+[DELETED:  S P ( i p ( c ( ( t p n ( o e l ( s s i a ( t]
+[DELETED:  S P ( C i v p ( a m § ( s t s d a r ( t t v]
+[DELETED:  S P §   ( s 2 e c q i i p a e i N r s c o a c]
+[DELETED:  S P e f c ( o p b ( t ( p ( ( n t ( o s o s s]
+[DELETED:  S P b a D a ( i r c c p s § T w F s d O S I]
+[DELETED:  S P B r § A i e o s u S § ( r s p v t a e]
+[DELETED:  S P ( ( e t v ( C A J i a m d ( r R ( a c e]
+[DELETED:  S P e i ( p ( o S § * ( o S T]

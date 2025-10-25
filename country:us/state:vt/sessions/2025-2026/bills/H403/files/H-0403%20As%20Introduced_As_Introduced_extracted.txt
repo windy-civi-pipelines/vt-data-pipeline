@@ -1,0 +1,323 @@
+Title: BILL AS INTRODUCED H.403
+Official Title: BILL AS INTRODUCED H.403
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.403
+2 Introduced by Representative Surprenant of Barnard
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; agriculture; employment practices; minimum wages;
+6 agricultural workers; farm employee housing
+7 Statement of purpose of bill as introduced: This bill proposes to repeal the
+8 exemption of agricultural workers from the applicability of the minimum wage
+9 laws and to provide overtime pay for agricultural workers. This bill also
+10 proposes to provide inspections to determine the adequacy of farm employee
+11 housing and a mechanism to address violations of the Vermont Residential
+12 Rental Housing Health and Safety Code.
+13 An act relating to fair labor standards and housing standards for agricultural
+14 workers
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. SHORT TITLE
+17 This act may be cited as the “Agricultural Workers’ Fair Labor Standards
+18 and Housing Act.”
+VT LEG #380747 v.1
+BILL AS INTRODUCED H.403
+2025 Page 2 of 7
+1 Sec. 2. 21 V.S.A. § 383 is amended to read:
+2 § 383. DEFINITIONS
+3 As used in this subchapter:
+4 (1) “Commissioner” means the Commissioner of Labor or designee.
+5 (2) “Employee” means any individual employed or permitted to work by
+6 an employer except:
+7 (A) any individual employed in agriculture, provided the individual is
+8 the agricultural employer’s parent, spouse, or child;
+9 * * *
+10 Sec. 3. 21 V.S.A. § 384 is amended to read:
+11 § 384. EMPLOYMENT; WAGES
+12 (a)(1) Beginning on January 1, 2022, an employer shall not employ any
+13 employee at a rate of less than $12.55, and on each subsequent January 1, the
+14 minimum wage rate shall be increased by five percent or the percentage
+15 increase of the Consumer Price Index, CPI-U, U.S. city average, not seasonally
+16 adjusted, or successor index, as calculated by the U.S. Department of Labor or
+17 successor agency for the 12 months preceding the previous September 1,
+18 whichever is smaller, but in no event shall the minimum wage be decreased.
+19 The minimum wage shall be rounded off to the nearest $0.01.
+20 * * *
+VT LEG #380747 v.1
+BILL AS INTRODUCED H.403
+2025 Page 3 of 7
+1 (b) Notwithstanding subsection (a) of this section, an employer shall not
+2 pay an employee less than one and one-half times the regular wage rate for any
+3 work done by the employee in excess of 40 hours during a workweek.
+4 However, this subsection shall not apply to:
+5 * * *
+6 (9) Any individual employed in agriculture, provided the employee
+7 receives not less than one and one-half times the regular wage rate for any
+8 work done by the employee in excess of 60 hours per week, effective January
+9 1, 2026. This subdivision shall not apply if the individual is the agricultural
+10 employer’s parent, spouse, or child.
+11 * * *
+12 Sec. 4. 6 V.S.A. chapter 213 is added to read:
+13 CHAPTER 213. ADEQUACY OF FARM EMPLOYEE HOUSING
+14 § 4751. DEFINITIONS
+15 As used in this chapter:
+16 (1) “Farm” has the same meaning as in section 2.14 of the Required
+17 Agricultural Practices.
+18 (2) “Farm employee” means an individual employed by a farm
+19 employer for farming.
+20 (3) “Farm employee housing” means housing owned or controlled by a
+21 farm employer, whether located on or off the farm premises and provided for
+VT LEG #380747 v.1
+BILL AS INTRODUCED H.403
+2025 Page 4 of 7
+1 the occupancy of the farm employee and the farm employee’s family or
+2 household members.
+3 (4) “Farm employer” means a person engaged in farming who is:
+4 (A) required to obtain a large farm permit or medium farm permit
+5 under chapter 215 of this title; or
+6 (B) is subject to the Required Agricultural Practices under chapter
+7 215 of this title and who earns at least one quarter of their annual gross income
+8 from the business of farming.
+9 (5) “Farming” has the same meaning as in section 2.16 of the Required
+10 Agricultural Practices.
+11 (6) “Secretary” means the Secretary of Agriculture, Food and Markets.
+12 § 4752. ADEQUACY OF FARM EMPLOYEE HOUSING; INSPECTION
+13 (a) When the Secretary conducts a scheduled inspection of a farm under
+14 chapter 215 of this title, the Secretary shall determine if farm employee
+15 housing is in use on the farm and shall survey farm employees regarding the
+16 adequacy, availability, and safety of the farm employee housing.
+17 (b)(1) To facilitate the survey of the farm employee housing, the Secretary
+18 shall provide farm employees with a form containing questions regarding the
+19 farm employee housing. The form shall, at a minimum, include the following
+20 questions:
+VT LEG #380747 v.1
+BILL AS INTRODUCED H.403
+2025 Page 5 of 7
+1 (A) Is the farm employee housing provided voluntarily or are you
+2 required to reside in the farm employee housing as a condition of employment?
+3 (B) Was the farm employee housing provided in clean working
+4 order?
+5 (C) Does the farm employer provide proper and timely maintenance,
+6 without undue delay?
+7 (D) Do you pay rent for the farm employee housing?
+8 (E) If you pay rent, does the rent reduce your net wages below the
+9 prevailing minimum wage?
+10 (F) Does the farm employee housing provide sleeping areas with
+11 doors or other ability to maintain privacy?
+12 (G) Is the farm employee housing provided with adequate heat,
+13 safety, ventilation, windows, or temperature control?
+14 (2) If the Secretary knows prior to an inspection that farm employees
+15 reside in farm employee housing on a farm, the Secretary shall make the form
+16 required in subdivision (1) of this subsection available to the farm employees
+17 prior to the inspection.
+18 (3) The Secretary shall ensure that the form provided to farm employees
+19 is accessible in multiple languages and shall provide interpretation or
+20 translation services if necessary for a farm employee to complete the form.
+VT LEG #380747 v.1
+BILL AS INTRODUCED H.403
+2025 Page 6 of 7
+1 (c) If the Secretary determines that a farm employer has obstructed the
+2 completion of a survey form under this section, the Secretary may assess an
+3 administrative penalty against the farm employer under the Secretary’s
+4 authority in chapter 1 of this title.
+5 § 4753. FILING WITH DIVISION OF FIRE SAFETY
+6 (a) A copy of each form submitted by a farm employee to the Secretary
+7 under this section shall be submitted to the Division of Fire Safety to inform
+8 whether the Division should conduct an inspection of the farm employee
+9 housing to determine whether or not it is safe for occupation.
+10 (b) If the Division of Fire Safety conducts an inspection of farm employee
+11 housing, the Division shall assess whether the farm employee housing satisfies
+12 the requirements of the Vermont Residential Rental Housing Health and Safety
+13 Code and shall conduct an inspection consistent with the requirements of 20
+14 V.S.A. § 2677.
+15 (c) If the Division of Fire Safety determines that the farm employee
+16 housing is in violation of the Vermont Residential Rental Housing Health and
+17 Safety Code, the Division shall provide the farm employer the opportunity to
+18 comply with requirements and timelines in the inspection report.
+19 (d) If a farm employer fails to comply with a Division of Fire Safety
+20 requirement or timeline, the Division may impose an administrative penalty
+VT LEG #380747 v.1
+BILL AS INTRODUCED H.403
+2025 Page 7 of 7
+1 reasonably related to the severity of the violation, not to exceed $1,000.00 per
+2 violation.
+3 Sec. 5. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #380747 v.1
+[DELETED:  H P H I R R D S a S e l p h R A w I S T a]
+[DELETED:  H P S § A ( ( a ( t * S § ( e m i a s w T *]
+[DELETED:  H P ( p w H * ( r w 1 e * S C § A ( A ( e ( f]
+[DELETED:  H P t h ( ( u ( 2 f ( A ( § ( c h a ( s f q]
+[DELETED:  H P ( r ( o ( w ( ( p ( d ( s ( r r p ( i t]
+[DELETED:  H P ( c a a § ( u w h ( h t C V ( h S c ( r]
+[DELETED:  H P r v S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.403
+2025 Page 1 of 7
+1 H.403
+2 Introduced by Representative Surprenant of Barnard
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; agriculture; employment practices; minimum wages;
+6 agricultural workers; farm employee housing
+7 Statement of purpose of bill as introduced: This bill proposes to repeal the
+8 exemption of agricultural workers from the applicability of the minimum wage
+9 laws and to provide overtime pay for agricultural workers. This bill also
+10 proposes to provide inspections to determine the adequacy of farm employee
+11 housing and a mechanism to address violations of the Vermont Residential
+12 Rental Housing Health and Safety Code.
+13 An act relating to fair labor standards and housing standards for agricultural
+14 workers
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. SHORT TITLE
+17 This act may be cited as the “Agricultural Workers’ Fair Labor Standards
+18 and Housing Act.”
+VT LEG #380747 v.1
+
+BILL AS INTRODUCED H.403
+2025 Page 2 of 7
+1 Sec. 2. 21 V.S.A. § 383 is amended to read:
+2 § 383. DEFINITIONS
+3 As used in this subchapter:
+4 (1) “Commissioner” means the Commissioner of Labor or designee.
+5 (2) “Employee” means any individual employed or permitted to work by
+6 an employer except:
+7 (A) any individual employed in agriculture, provided the individual is
+8 the agricultural employer’s parent, spouse, or child;
+9 * * *
+10 Sec. 3. 21 V.S.A. § 384 is amended to read:
+11 § 384. EMPLOYMENT; WAGES
+12 (a)(1) Beginning on January 1, 2022, an employer shall not employ any
+13 employee at a rate of less than $12.55, and on each subsequent January 1, the
+14 minimum wage rate shall be increased by five percent or the percentage
+15 increase of the Consumer Price Index, CPI-U, U.S. city average, not seasonally
+16 adjusted, or successor index, as calculated by the U.S. Department of Labor or
+17 successor agency for the 12 months preceding the previous September 1,
+18 whichever is smaller, but in no event shall the minimum wage be decreased.
+19 The minimum wage shall be rounded off to the nearest $0.01.
+20 * * *
+VT LEG #380747 v.1
+
+BILL AS INTRODUCED H.403
+2025 Page 3 of 7
+1 (b) Notwithstanding subsection (a) of this section, an employer shall not
+2 pay an employee less than one and one-half times the regular wage rate for any
+3 work done by the employee in excess of 40 hours during a workweek.
+4 However, this subsection shall not apply to:
+5 * * *
+6 (9) Any individual employed in agriculture, provided the employee
+7 receives not less than one and one-half times the regular wage rate for any
+8 work done by the employee in excess of 60 hours per week, effective January
+9 1, 2026. This subdivision shall not apply if the individual is the agricultural
+10 employer’s parent, spouse, or child.
+11 * * *
+12 Sec. 4. 6 V.S.A. chapter 213 is added to read:
+13 CHAPTER 213. ADEQUACY OF FARM EMPLOYEE HOUSING
+14 § 4751. DEFINITIONS
+15 As used in this chapter:
+16 (1) “Farm” has the same meaning as in section 2.14 of the Required
+17 Agricultural Practices.
+18 (2) “Farm employee” means an individual employed by a farm
+19 employer for farming.
+20 (3) “Farm employee housing” means housing owned or controlled by a
+21 farm employer, whether located on or off the farm premises and provided for
+VT LEG #380747 v.1
+
+BILL AS INTRODUCED H.403
+2025 Page 4 of 7
+1 the occupancy of the farm employee and the farm employee’s family or
+2 household members.
+3 (4) “Farm employer” means a person engaged in farming who is:
+4 (A) required to obtain a large farm permit or medium farm permit
+5 under chapter 215 of this title; or
+6 (B) is subject to the Required Agricultural Practices under chapter
+7 215 of this title and who earns at least one quarter of their annual gross income
+8 from the business of farming.
+9 (5) “Farming” has the same meaning as in section 2.16 of the Required
+10 Agricultural Practices.
+11 (6) “Secretary” means the Secretary of Agriculture, Food and Markets.
+12 § 4752. ADEQUACY OF FARM EMPLOYEE HOUSING; INSPECTION
+13 (a) When the Secretary conducts a scheduled inspection of a farm under
+14 chapter 215 of this title, the Secretary shall determine if farm employee
+15 housing is in use on the farm and shall survey farm employees regarding the
+16 adequacy, availability, and safety of the farm employee housing.
+17 (b)(1) To facilitate the survey of the farm employee housing, the Secretary
+18 shall provide farm employees with a form containing questions regarding the
+19 farm employee housing. The form shall, at a minimum, include the following
+20 questions:
+VT LEG #380747 v.1
+
+BILL AS INTRODUCED H.403
+2025 Page 5 of 7
+1 (A) Is the farm employee housing provided voluntarily or are you
+2 required to reside in the farm employee housing as a condition of employment?
+3 (B) Was the farm employee housing provided in clean working
+4 order?
+5 (C) Does the farm employer provide proper and timely maintenance,
+6 without undue delay?
+7 (D) Do you pay rent for the farm employee housing?
+8 (E) If you pay rent, does the rent reduce your net wages below the
+9 prevailing minimum wage?
+10 (F) Does the farm employee housing provide sleeping areas with
+11 doors or other ability to maintain privacy?
+12 (G) Is the farm employee housing provided with adequate heat,
+13 safety, ventilation, windows, or temperature control?
+14 (2) If the Secretary knows prior to an inspection that farm employees
+15 reside in farm employee housing on a farm, the Secretary shall make the form
+16 required in subdivision (1) of this subsection available to the farm employees
+17 prior to the inspection.
+18 (3) The Secretary shall ensure that the form provided to farm employees
+19 is accessible in multiple languages and shall provide interpretation or
+20 translation services if necessary for a farm employee to complete the form.
+VT LEG #380747 v.1
+
+BILL AS INTRODUCED H.403
+2025 Page 6 of 7
+1 (c) If the Secretary determines that a farm employer has obstructed the
+2 completion of a survey form under this section, the Secretary may assess an
+3 administrative penalty against the farm employer under the Secretary’s
+4 authority in chapter 1 of this title.
+5 § 4753. FILING WITH DIVISION OF FIRE SAFETY
+6 (a) A copy of each form submitted by a farm employee to the Secretary
+7 under this section shall be submitted to the Division of Fire Safety to inform
+8 whether the Division should conduct an inspection of the farm employee
+9 housing to determine whether or not it is safe for occupation.
+10 (b) If the Division of Fire Safety conducts an inspection of farm employee
+11 housing, the Division shall assess whether the farm employee housing satisfies
+12 the requirements of the Vermont Residential Rental Housing Health and Safety
+13 Code and shall conduct an inspection consistent with the requirements of 20
+14 V.S.A. § 2677.
+15 (c) If the Division of Fire Safety determines that the farm employee
+16 housing is in violation of the Vermont Residential Rental Housing Health and
+17 Safety Code, the Division shall provide the farm employer the opportunity to
+18 comply with requirements and timelines in the inspection report.
+19 (d) If a farm employer fails to comply with a Division of Fire Safety
+20 requirement or timeline, the Division may impose an administrative penalty
+VT LEG #380747 v.1
+
+BILL AS INTRODUCED H.403
+2025 Page 7 of 7
+1 reasonably related to the severity of the violation, not to exceed $1,000.00 per
+2 violation.
+3 Sec. 5. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #380747 v.1
+
+[DELETED:  H P H I R R D S a S e l p h R A w I S T a]
+[DELETED:  H P S § A ( ( a ( t * S § ( e m i a s w T *]
+[DELETED:  H P ( p w H * ( r w 1 e * S C § A ( A ( e ( f]
+[DELETED:  H P t h ( ( u ( 2 f ( A ( § ( c h a ( s f q]
+[DELETED:  H P ( r ( o ( w ( ( p ( d ( s ( r r p ( i t]
+[DELETED:  H P ( c a a § ( u w h ( h t C V ( h S c ( r]
+[DELETED:  H P r v S T]

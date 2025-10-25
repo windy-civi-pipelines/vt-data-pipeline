@@ -1,0 +1,127 @@
+Title: BILL AS INTRODUCED H.263
+Official Title: BILL AS INTRODUCED H.263
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 3
+1 H.263
+2 Introduced by Representatives Priestley of Bradford, Hooper of Burlington,
+3 McCann of Montpelier, McGill of Bridport, and Minier of
+4 South Burlington
+5 Referred to Committee on
+6 Date:
+7 Subject: Labor; employment practices; right to disconnect
+8 Statement of purpose of bill as introduced: This bill proposes to establish a
+9 right for employees to disconnect from communications from employers
+10 during nonworking hours.
+11 An act relating to creating a right for employees to disconnect from work
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 21 V.S.A. § 495q is added to read:
+14 § 495q. RIGHT TO DISCONNECT
+15 (a) Definitions. As used in this section:
+16 (1) “Emergency” means an unforeseen situation that:
+17 (A) threatens an employee, customer, or the public;
+18 (B) disrupts or shuts down operations; or
+19 (C) causes physical or environmental damage.
+VT LEG #380175 v.1
+BILL AS INTRODUCED H.263
+2025 Page 2 of 3
+1 (2) “Nonworking hours” means hours before and after an employee’s
+2 assigned hours of work as established by written agreement between the
+3 employer and the employee.
+4 (3) “Pattern of violation” means three or more documented instances of
+5 an employer violating an employee’s right to disconnect.
+6 (4) “Right to disconnect” means, except as provided in subsection (b),
+7 an employee has the right to ignore communications from the employer during
+8 nonworking hours.
+9 (5) “Scheduling” means changes to an employee’s schedule within 24
+10 hours of the start of the employee’s next assigned hours of work.
+11 (b) Exceptions. An employer may contact an employee during nonworking
+12 hours for an emergency or for scheduling.
+13 (c) Policy. An employer shall establish a workplace policy that provides
+14 employees with the right to disconnect from communications from the
+15 employer during nonworking hours. The policy shall not include any
+16 provisions that reduce the rights of employees to be compensated for work
+17 performed or to take time off work.
+18 (d) Administrative penalty. An employee may file a complaint concerning
+19 a pattern of violation of this section with the Commissioner of Labor. If the
+20 Commissioner determines that the employer has violated this section, the
+VT LEG #380175 v.1
+BILL AS INTRODUCED H.263
+2025 Page 3 of 3
+1 Commissioner is authorized to assess an administrative penalty of not less than
+2 $100.00.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #380175 v.1
+[DELETED:  H P H I R M S R D S S r d A I S § ( ( ( ( (]
+[DELETED:  H P ( a e ( a ( a n ( h ( h ( e e p p ( a C]
+[DELETED:  H P C $ S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.263
+2025 Page 1 of 3
+1 H.263
+2 Introduced by Representatives Priestley of Bradford, Hooper of Burlington,
+3 McCann of Montpelier, McGill of Bridport, and Minier of
+4 South Burlington
+5 Referred to Committee on
+6 Date:
+7 Subject: Labor; employment practices; right to disconnect
+8 Statement of purpose of bill as introduced: This bill proposes to establish a
+9 right for employees to disconnect from communications from employers
+10 during nonworking hours.
+11 An act relating to creating a right for employees to disconnect from work
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 21 V.S.A. § 495q is added to read:
+14 § 495q. RIGHT TO DISCONNECT
+15 (a) Definitions. As used in this section:
+16 (1) “Emergency” means an unforeseen situation that:
+17 (A) threatens an employee, customer, or the public;
+18 (B) disrupts or shuts down operations; or
+19 (C) causes physical or environmental damage.
+VT LEG #380175 v.1
+
+BILL AS INTRODUCED H.263
+2025 Page 2 of 3
+1 (2) “Nonworking hours” means hours before and after an employee’s
+2 assigned hours of work as established by written agreement between the
+3 employer and the employee.
+4 (3) “Pattern of violation” means three or more documented instances of
+5 an employer violating an employee’s right to disconnect.
+6 (4) “Right to disconnect” means, except as provided in subsection (b),
+7 an employee has the right to ignore communications from the employer during
+8 nonworking hours.
+9 (5) “Scheduling” means changes to an employee’s schedule within 24
+10 hours of the start of the employee’s next assigned hours of work.
+11 (b) Exceptions. An employer may contact an employee during nonworking
+12 hours for an emergency or for scheduling.
+13 (c) Policy. An employer shall establish a workplace policy that provides
+14 employees with the right to disconnect from communications from the
+15 employer during nonworking hours. The policy shall not include any
+16 provisions that reduce the rights of employees to be compensated for work
+17 performed or to take time off work.
+18 (d) Administrative penalty. An employee may file a complaint concerning
+19 a pattern of violation of this section with the Commissioner of Labor. If the
+20 Commissioner determines that the employer has violated this section, the
+VT LEG #380175 v.1
+
+BILL AS INTRODUCED H.263
+2025 Page 3 of 3
+1 Commissioner is authorized to assess an administrative penalty of not less than
+2 $100.00.
+3 Sec. 2. EFFECTIVE DATE
+4 This act shall take effect on July 1, 2025.
+VT LEG #380175 v.1
+
+[DELETED:  H P H I R M S R D S S r d A I S § ( ( ( ( (]
+[DELETED:  H P ( a e ( a ( a n ( h ( h ( e e p p ( a C]
+[DELETED:  H P C $ S T]

@@ -1,0 +1,888 @@
+Title: BILL AS INTRODUCED H.196
+Official Title: BILL AS INTRODUCED H.196
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 18
+1 H.196
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; energy efficiency; energy efficiency utilities
+6 Statement of purpose of bill as introduced: This bill proposes to amend the
+7 legislative direction to the Public Utility Commission to require the energy
+8 efficiency utilities to prioritize greenhouse gas emissions reductions and
+9 equitable access for all Vermonters and Vermont businesses
+10 An act relating to energy efficiency utility jurisdiction
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 30 V.S.A. § 209 is amended to read:
+13 § 209. JURISDICTION; GENERAL SCOPE
+14 * * *
+15 (d) Energy efficiency and emissions reduction.
+16 (1) Programs and measures. The Department of Public Service, any
+17 entity appointed by the Commission under subdivision (2) of this subsection,
+18 all gas and electric utility companies, and the Commission upon its own
+19 motion are encouraged to propose, develop, solicit, and monitor energy
+20 efficiency and conservation programs and measures, including electrification,
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 2 of 18
+1 energy storage, and appropriate combined heat and power systems that result
+2 in the conservation and efficient use of energy. and Any programs and
+3 measures supporting efficient use of biological and fossil-based fuels shall
+4 meet the applicable air quality standards of the Agency of Natural Resources.
+5 Such programs and measures, and their implementation, may be approved by
+6 the Commission if it determines they will be beneficial to towards the
+7 reduction of greenhouse gas emissions required under 10 V.S.A. § 578 and
+8 beneficial to consumers or the ratepayers of the companies after such notice
+9 and hearings as the Commission may require by order or by rule. The
+10 Department of Public Service shall investigate the feasibility of enhancing and
+11 expanding the efficiency programs of gas utilities and shall make any
+12 appropriate proposals to the Commission.
+13 (2) Appointment of independent efficiency entities.
+14 (A) Electricity and natural gas. In place of utility-specific programs
+15 developed pursuant to this section and section 218c of this title, the
+16 Commission shall, after notice and opportunity for hearing, provide for the
+17 development, implementation, and monitoring of gas and electric energy
+18 efficiency, and conservation, electrification, active demand management, and
+19 energy storage programs and measures, including programs and measures
+20 delivered in multiple service territories, by one or more entities appointed by
+21 the Commission for these purposes. The Commission may include appropriate
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 3 of 18
+1 combined heat and power systems that result in the conservation and efficient
+2 use of energy and meet the applicable air quality standards of the Agency of
+3 Natural Resources. Except with regard to a transmission company, the
+4 Commission may specify that the appointment of an energy efficiency utility to
+5 deliver services within an electric utility’s service territory satisfies that
+6 electric utility’s corresponding obligations, in whole or in part, under section
+7 218c of this title and under any prior orders of the Commission.
+8 (B) Thermal energy and process-fuel customers. The Commission
+9 shall provide for the coordinated development, implementation, and
+10 monitoring of cost-effective efficiency and conservation programs to thermal
+11 energy and process-fuel customers on a whole buildings basis by one or more
+12 entities appointed by the Commission for this purpose.
+13 (i) In this section, “thermal energy” means the use of fuels to
+14 control the temperature of space within buildings and to heat water. In this
+15 section, “process fuel” means fuel used in commercial and industrial
+16 production operations.
+17 (ii) Periodically on a schedule directed by the Commission, the
+18 appointed entity or entities shall propose to the Commission a plan to
+19 implement this subdivision (d)(2)(B). The proposed plan shall comply with
+20 subsections (e)–(g) of this section and shall be subject to the Commission’s
+21 approval. The Commission shall not conduct the review of the proposed plan
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 4 of 18
+1 as a contested case under 3 V.S.A. chapter 25 but shall provide notice and an
+2 opportunity for written and oral comments to the public and affected parties
+3 and State agencies.
+4 (C) The appointed entity may be used to support the attainment of
+5 building energy codes established pursuant to sections 51 and 53 of this title.
+6 The Commission shall review and approve a methodology for the appointed
+7 entities to support the attainment of code in the next Demand Resources Plan
+8 Proceeding. The Commission is authorized to approve a methodology for the
+9 appointed entity and the State to quantify energy savings achieved through
+10 code attainment, which shall be counted toward the appointed entity’s
+11 quantitative savings targets.
+12 (D) The appointed entity shall receive a total annual budget from
+13 2027 through 2030 that is equivalent to the inflation-adjusted Commission-
+14 approved budget in 2026.
+15 (3) Energy efficiency charge; regulated fuels. In addition to its existing
+16 authority, the Commission may establish by order or rule a volumetric charge
+17 to customers for the support of energy efficiency programs that meet the
+18 requirements of section 218c of this title, with priority consideration given to
+19 the greenhouse gas reduction requirements under 10 V.S.A. § 578, and due
+20 consideration to the State’s energy policy under section 202a of this title and to
+21 its energy and economic policy interests under section 218e of this title to
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 5 of 18
+1 maintain and enhance the State’s economic vitality. The charge shall be
+2 known as the energy efficiency charge, shall be shown separately on each
+3 customer’s bill, and shall be paid to a fund administrator appointed by the
+4 Commission and deposited into the Electric Efficiency Fund. When such a
+5 charge is shown, notice as to how to obtain information about energy
+6 efficiency programs approved under this section shall be provided in a manner
+7 directed by the Commission. This notice shall include, at a minimum, a toll-
+8 free telephone number, and to the extent feasible shall be on the customer’s bill
+9 and near the energy efficiency charge.
+10 (4) Supplemental funding; Programs funded under this section shall also
+11 be funded without further appropriation or offsets by each of the following:
+12 (A) Net revenues above costs associated with payments from the
+13 New England Independent System Operator (ISO-NE) for capacity savings
+14 resulting from the activities of the energy efficiency utility designated under
+15 subdivision (2)(A) of this subsection (e) that are not transferred to the State
+16 PACE Reserve Fund under 24 V.S.A. § 3270(c). These revenues shall be
+17 deposited into the Efficiency Fund established by this section.
+18 (B) Net revenues above costs from the sale of carbon credits under
+19 the cap and trade program established under section 255 of this title, which
+20 shall be deposited into the Efficiency Fund established by this section.
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 6 of 18
+1 (C) Any other monies that are appropriated to or deposited in the
+2 Electric Efficiency Fund for the delivery of thermal energy and process fuel
+3 energy efficiency services.
+4 (D) Notwithstanding subsection (e) of this section, a retail electricity
+5 provider that is also an entity appointed under subdivision (d)(2)(A), may use
+6 monies subject to subsection (e) of this section and any of the Supplemental
+7 Funding outlined in this subdivision (4) to deliver thermal and transportation
+8 measures or programs that reduce fossil fuel use regardless of the preexisting
+9 fuel source of the customer with special emphasis on measures or programs
+10 that take a new or innovative approach to reducing fossil fuel use including
+11 support for staffing necessary to implement innovative building sector policies
+12 and modifying or supplementing existing vehicle incentive programs and
+13 electric vehicle supply equipment grant programs to incentivize high-
+14 consumption fuel users, especially individuals using more than 1000 gallons of
+15 gasoline or diesel annually and those with low and moderate income, to
+16 transition to the use of battery electric vehicles. The amounts available shall
+17 include amounts annually budgeted for thermal energy and process fuel funds
+18 or from Supplemental Funding, and any carry-forward thermal energy and
+19 process fuel funds or Supplemental Funding from prior periods, on programs,
+20 measures, and services that reduce greenhouse gas emissions in the thermal
+21 energy or transportation sector.
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 7 of 18
+1 (A)(5) Regulated use of the Efficiency Fund. Balances in the Electric
+2 Efficiency Fund shall be ratepayer funds, shall be used to support the activities
+3 authorized in this subdivision in a fuel neutral manner, and shall be carried
+4 forward and remain in the Fund at the end of each fiscal year. These monies
+5 shall not be available to meet the general obligations of the State. Interest
+6 earned shall remain in the Fund. The Commission will annually provide the
+7 General Assembly with a report detailing the revenues collected and the
+8 expenditures made for energy efficiency programs under this section. The
+9 provisions of 2 V.S.A. § 20(d) (expiration of required reports) shall not apply
+10 to the report to be made under this subsection (d).
+11 (B)(A) The charge charges established by the Commission pursuant
+12 to this subdivision (3)(5) shall be in an amount determined by the Commission
+13 by rule or order that is consistent with the principles of least-cost integrated
+14 planning as defined in section 218c of this title are societally cost-effective for
+15 the purpose of reducing greenhouse gas emissions. As circumstances and
+16 programs evolve, the amount of the charge charges shall be reviewed for
+17 unrealized energy efficiency potential and shall be adjusted as necessary in
+18 order to realize all reasonably available, cost-effective energy efficiency
+19 savings. In setting the amount of the charge and its allocation, the Commission
+20 shall determine an appropriate balance among the following objectives;
+21 provided, however, that particular emphasis shall be accorded to the first four
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 8 of 18
+1 of these objectives: prioritize the reduction of greenhouse gases and seek to
+2 balance the other following objectives: reducing Vermont’s total energy
+3 demand, consumption, and expenditures; reducing the size of future power
+4 purchases; reducing the generation of greenhouse gases equitable distribution
+5 of benefits using geographic and economic indicators; limiting the need to
+6 upgrade the State’s transmission and distribution infrastructure; minimizing the
+7 costs of electricity; reducing Vermont’s total energy demand, consumption,
+8 and expenditures; providing efficiency and conservation as a part of a
+9 comprehensive resource supply strategy that includes implementation of
+10 beneficial electrification and energy storage system projects; providing the
+11 opportunity for all Vermonters to participate in efficiency and conservation
+12 programs; and targeting efficiency and conservation efforts to locations,
+13 markets, or customers where they may provide the greatest value.
+14 (C)(B) The Commission, by rule or order, shall establish a process by
+15 which a customer who pays an average annual energy efficiency charge under
+16 this subdivision (3)(5) of at least $5,000.00 may apply to the Commission to
+17 self-administer energy efficiency through an energy savings account or
+18 customer credit program that shall contain up to 75 percent and 90 percent,
+19 respectively of the customer’s energy efficiency charge payments as
+20 determined by the Commission. The remaining portion of the charge shall be
+21 used for administrative, measurement, verification, and evaluation costs and
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 9 of 18
+1 for systemwide energy benefits. Customer energy efficiency funds may be
+2 approved for use by the Commission for one or more of the following: electric
+3 energy efficiency projects and non-electric nonelectric efficiency projects,
+4 which may include thermal and process fuel efficiency, flexible load
+5 management, combined heat and power systems, demand management, energy
+6 productivity, and energy storage. These funds shall not be used for the
+7 purchase or installation of new equipment capable of combusting fossil fuels.
+8 The Commission in its rules or order shall establish criteria for each program
+9 and approval of these applications, establish application and enrollment
+10 periods, establish participant requirements, and establish the methodology for
+11 evaluation, measurement, and verification for programs. The total amount of
+12 customer energy efficiency funds that can be placed into energy savings
+13 accounts or the customer credit program annually is $2,000,000.00 and
+14 $1,000,000.00 respectively.
+15 (D) The Commission may authorize the use of funds raised through
+16 an energy efficiency charge on electric ratepayers to reduce the use of fossil
+17 fuels for space heating by supporting electric technologies that may increase
+18 electric consumption, such as air source or geothermal heat pumps if, after
+19 investigation, it finds that deployment of the technology:
+20 (i) will be beneficial to electric ratepayers as a whole;
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 10 of 18
+1 (ii) will result in cost-effective energy savings to the end-user and
+2 to the State as a whole;
+3 (iii) will result in a net reduction in State energy consumption and
+4 greenhouse gas emissions on a life-cycle basis and will not have a detrimental
+5 impact on the environment through other means such as release of refrigerants
+6 or disposal. In making a finding under this subdivision, the Commission shall
+7 consider the use of the technology at all times of year and any likely new
+8 electricity demand created by such use;
+9 (iv) will be part of a comprehensive energy efficiency and
+10 conservation program that meets the requirements of subsections (d)-(g) of this
+11 section and that makes support for the technology contingent on the energy
+12 performance of the building in which the technology is to be installed. The
+13 building’s energy performance shall achieve or shall be improved to achieve an
+14 energy performance level that is approved by the Commission and that is
+15 consistent with meeting or exceeding the goals of 10 V.S.A. § 581 (building
+16 efficiency);
+17 (v) among the product models of the technology that are suitable
+18 for use in Vermont, will employ the product models that are the most efficient
+19 available;
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 11 of 18
+1 (vi) will be promoted in conjunction with demand management
+2 strategies offered by the customer’s distribution utility to address any increase
+3 in peak electric consumption that may be caused by the deployment;
+4 (vii) will be coordinated between the energy efficiency and
+5 distribution utilities, consistent with subdivision (f)(5) of this section; and
+6 (viii) will be supported by an appropriate allocation of funds
+7 among the funding sources described in this subsection (d) and subsection (e)
+8 of this section. In the case of measures used to increase the energy
+9 performance of a building in which the technology is to be installed, the
+10 Commission shall assume installation of the technology in the building and
+11 then determine the allocation according to the proportion of the benefits
+12 provided to the regulated fuel and unregulated fuel sectors. In this subdivision
+13 (viii), “regulated fuel” and “unregulated fuel” shall have the same meaning as
+14 under subsection (e) of this section.
+15 (4)(6) Contract or order of appointment. Appointment of an entity
+16 under subdivision (2) of this subsection may be by contract or by an order of
+17 appointment. An appointment, whether by order of appointment or by
+18 contract, may only be issued after notice and opportunity for hearing. An order
+19 of appointment shall be for a limited duration not to exceed 12 years, although
+20 an entity may be reappointed by order or contract. An order of appointment
+21 may include any conditions and requirements that the Commission deems
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 12 of 18
+1 appropriate to promote the public good. For good cause, after notice and
+2 opportunity for hearing, the Commission may amend or revoke an order of
+3 appointment.
+4 (5)(7) Appointed entity; supervision. Any entity appointed by order of
+5 appointment under subdivisions (2) and (4)(6) of this subsection that is not an
+6 electric or gas utility already regulated under this title shall not be considered
+7 to be a company as defined under section 201 of this title but shall be subject
+8 to the provisions of sections 18–21, 30–32, 205–208, subsection 209(a),
+9 sections 219, 221, and subsection 231(b) of this title, to the same extent as a
+10 company as defined under section 201 of this title. The Commission and the
+11 Department of Public Service shall have jurisdiction under those sections over
+12 the entity, its directors, receivers, trustees, lessees, or other persons or
+13 companies owning or operating the entity and of all plants, equipment, and
+14 property of that entity used in or about the business carried on by it in this
+15 State as covered and included in this section. This jurisdiction shall be
+16 exercised by the Commission and the Department so far as may be necessary
+17 to enable them to perform the duties and exercise the powers conferred upon
+18 them by law. The Commission and the Department each may, when they deem
+19 the public good requires, examine the plants, equipment, and property of any
+20 entity appointed by order of appointment under subdivisions (2) and (4) of this
+21 subsection.
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 13 of 18
+1 (8) Provision of equity and justice in services; requirements. Any
+2 appointed entity shall ensure an equitable and just provision of services.
+3 (A) Not less than 25 percent of the annual budget shall be targeted
+4 for residential services for customers with low to moderate income.
+5 (B) Not less than 12.5 percent of the annual budget shall be targeted
+6 for small businesses and not-for-profit organizations.
+7 (C) The cost of providing services under this subsection (6) shall be
+8 excluded from the calculation of cost-effectiveness for the appointed entities’
+9 portfolio of services.
+10 (D) On or before September 1, 2026, the appointed entity shall
+11 propose and the Commission shall evaluate the appropriateness of a statewide
+12 low-income energy efficiency rate for regulated fuels. The Commission may
+13 consider the technical feasibility of implementation before approving such a
+14 rate. For a distribution utility that is also an appointed entity, and has a
+15 Commission approved discounted low-income rate, that appointed entity may
+16 elect to apply its Commission approved discounted low-income rate criteria to
+17 the energy efficiency charge in lieu of adopting a statewide low-income energy
+18 efficiency rate.
+19 (e) Thermal energy and process fuel efficiency funding.
+20 (1) Each of the following shall be used to deliver thermal energy and
+21 process fuel energy efficiency services in accordance with this section for
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 14 of 18
+1 unregulated fuels to Vermont consumers of such fuels. In addition, the
+2 Commission may authorize an entity appointed to deliver such services under
+3 subdivision (d)(2)(B) of this section to use monies subject to this subsection
+4 for the engineering, design, and construction of facilities for the conversion of
+5 thermal energy customers using fossil fuels to district heat if the majority of
+6 the district’s energy is from biomass sources, the district’s distribution system
+7 is highly energy efficient, and such conversion is cost effective.
+8 (A) Net revenues above costs associated with payments from the New
+9 England Independent System Operator (ISO-NE) for capacity savings resulting
+10 from the activities of the energy efficiency utility designated under subdivision
+11 (2)(A) of this subsection (e) that are not transferred to the State PACE Reserve
+12 Fund under 24 V.S.A. § 3270(c). These revenues shall be deposited into the
+13 Electric Efficiency Fund established by this section. In delivering services with
+14 respect to heating systems using the revenues subject to this subdivision (A),
+15 the entity shall give priority to incentives for the installation of high efficiency
+16 biomass heating systems and shall have a goal of offering an incentive that is
+17 equal to 25 percent of the installed cost of such a system. Provision of an
+18 incentive under this subdivision (A) for a biomass heating system shall not be
+19 contingent on the making of other energy efficiency improvements at the
+20 property on which the system will be installed.
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 15 of 18
+1 (B) Net revenues above costs from the sale of carbon credits under the
+2 cap and trade program established under section 255 of this title, which shall
+3 be deposited into the Electric Efficiency Fund established by this section.
+4 (C) Any other monies that are appropriated to or deposited in the
+5 Electric Efficiency Fund for the delivery of thermal energy and process fuel
+6 energy efficiency services.
+7 (2) If a program combines regulated fuel efficiency services with
+8 unregulated fuel efficiency services supported by funds under this section, the
+9 Commission shall allocate the costs of the program among the funding sources
+10 for the regulated and unregulated fuel sectors in proportion to the benefits
+11 provided to each sector.
+12 (3) In this subsection:
+13 (A) “Biomass” means organic nonfossil material constituting a
+14 source of renewable energy within the meaning of section 8002 of this title.
+15 (B) “District heat” means a system through which steam or hot water
+16 from a central plant is piped into buildings to be used as a source of thermal
+17 energy.
+18 (C) “Efficiency services” includes the establishment of a statewide
+19 information clearinghouse under subsection (g) of this section.
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 16 of 18
+1 (D) “Fossil fuel” means an energy source formed in the earth’s crust
+2 from decayed organic material. The common fossil fuels are petroleum, coal,
+3 and natural gas. A fossil fuel may be a regulated or unregulated fuel.
+4 (E) “Regulated fuels” means electricity and natural gas delivered by a
+5 regulated utility.
+6 (F) “Unregulated fuels” means fuels used by thermal energy and
+7 process fuel customers other than electricity and natural gas delivered by a
+8 regulated utility.
+9 (f) Goals and criteria; all energy efficiency programs. With respect to all
+10 energy efficiency programs approved under this section, the Commission shall:
+11 (1) Ensure that all retail consumers, regardless of retail electricity, gas,
+12 or heating or process fuel provider, will have an opportunity to participate in
+13 and benefit from a comprehensive set of cost-effective energy efficiency,
+14 electrification, and energy storage programs and initiatives designed to
+15 overcome barriers to participation.
+16 (2) Require that continued or improved efficiencies be made in the
+17 production, delivery, and use of energy efficiency services, including the use
+18 of compensation mechanisms for any energy efficiency entity appointed under
+19 subdivision (d)(2) of this section that are based upon verified greenhouse gas
+20 emission reductions, savings in energy usage and demand, and other
+21 performance targets specified by the Commission. The linkage between
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 17 of 18
+1 compensation and verified savings in energy usage and demand (and other
+2 performance targets) shall be reviewed and adjusted not less than triennially by
+3 the Commission.
+4 * * *
+5 (g) Thermal energy and process fuel efficiency programs; additional
+6 criteria. With respect to energy efficiency programs delivered under this
+7 section to thermal energy and process fuel customers, the Commission shall:
+8 (1) Ensure that programs are delivered on a whole-buildings basis to
+9 help meet the State’s building efficiency goals established by 10 V.S.A. § 581
+10 and to reduce greenhouse gas emissions from thermal energy and process fuel
+11 use in Vermont pursuant to 10 V.S.A. § 578.
+12 (2) Require the establishment of a statewide information clearinghouse
+13 to enable effective access for customers to and effective coordination across
+14 programs. The clearinghouse shall serve as a portal for customers to access
+15 thermal energy and process fuel efficiency services and for coordination
+16 among State, regional, and local entities involved in the planning or delivery of
+17 such services, making referrals as appropriate to service providers and to
+18 entities having information on associated environmental issues such as the
+19 presence of asbestos in existing insulation.
+VT LEG #380503 v.1
+BILL AS INTRODUCED H.196
+2025 Page 18 of 18
+1 (3) In consultation with the Agency of Natural Resources, establish
+2 annual interim goals starting in 2014 to meet the 2017 and 2020 goals for
+3 improving the energy fitness of housing stock stated in 10 V.S.A. § 581(1).
+4 (4) Ensure the monitoring of the State’s progress in meeting the goals of
+5 10 V.S.A. § 581(1). This monitoring shall be performed according to a
+6 standard methodology and on a periodic basis that is not less than annual.
+7 * * *
+8 Sec. 2. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #380503 v.1
+[DELETED:  H P H I R R D S S l e e A I S § * ( ( e a m e]
+[DELETED:  H P e i m m S t r b a D e a ( ( d C d e e d t]
+[DELETED:  H P c u N C d e 2 ( s m e e ( c s p ( a i s a]
+[DELETED:  H P a o a ( b T e P a c q ( 2 a ( a t r t c i]
+[DELETED:  H P m k c C c e d f a ( b ( N r s P d ( t s]
+[DELETED:  H P ( E e ( p m F m f t s a e c g t i o p m e]
+[DELETED:  H P ( E a f s e G e p t ( t b p t p u o s s p]
+[DELETED:  H P o b d p o u c a c b o p m ( w t s c r d u]
+[DELETED:  H P f a e w m p p T a p e c a $ ( a f e i (]
+[DELETED:  H P ( t ( g i o c e ( c s p b e c e ( f a]
+[DELETED:  H P ( s i ( d ( a o p C t p ( u ( u a c o a m]
+[DELETED:  H P a o a ( a e t t s c D t c p S e t t t e s]
+[DELETED:  H P ( a ( f ( f ( e p ( p l c r C e t e ( ( p]
+[DELETED:  H P u C s f t t i ( E f ( F E r t b e i c p]
+[DELETED:  H P ( c b ( E e ( u C f p ( ( s ( f e ( i]
+[DELETED:  H P ( f a ( r ( p r ( e ( o a e o ( p o s e p]
+[DELETED:  H P c p t * ( c s ( h a u ( t p t a s e p]
+[DELETED:  H P ( a i ( 1 s * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.196
+2025 Page 1 of 18
+1 H.196
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; energy efficiency; energy efficiency utilities
+6 Statement of purpose of bill as introduced: This bill proposes to amend the
+7 legislative direction to the Public Utility Commission to require the energy
+8 efficiency utilities to prioritize greenhouse gas emissions reductions and
+9 equitable access for all Vermonters and Vermont businesses
+10 An act relating to energy efficiency utility jurisdiction
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 30 V.S.A. § 209 is amended to read:
+13 § 209. JURISDICTION; GENERAL SCOPE
+14 * * *
+15 (d) Energy efficiency and emissions reduction.
+16 (1) Programs and measures. The Department of Public Service, any
+17 entity appointed by the Commission under subdivision (2) of this subsection,
+18 all gas and electric utility companies, and the Commission upon its own
+19 motion are encouraged to propose, develop, solicit, and monitor energy
+20 efficiency and conservation programs and measures, including electrification,
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 2 of 18
+1 energy storage, and appropriate combined heat and power systems that result
+2 in the conservation and efficient use of energy. and Any programs and
+3 measures supporting efficient use of biological and fossil-based fuels shall
+4 meet the applicable air quality standards of the Agency of Natural Resources.
+5 Such programs and measures, and their implementation, may be approved by
+6 the Commission if it determines they will be beneficial to towards the
+7 reduction of greenhouse gas emissions required under 10 V.S.A. § 578 and
+8 beneficial to consumers or the ratepayers of the companies after such notice
+9 and hearings as the Commission may require by order or by rule. The
+10 Department of Public Service shall investigate the feasibility of enhancing and
+11 expanding the efficiency programs of gas utilities and shall make any
+12 appropriate proposals to the Commission.
+13 (2) Appointment of independent efficiency entities.
+14 (A) Electricity and natural gas. In place of utility-specific programs
+15 developed pursuant to this section and section 218c of this title, the
+16 Commission shall, after notice and opportunity for hearing, provide for the
+17 development, implementation, and monitoring of gas and electric energy
+18 efficiency, and conservation, electrification, active demand management, and
+19 energy storage programs and measures, including programs and measures
+20 delivered in multiple service territories, by one or more entities appointed by
+21 the Commission for these purposes. The Commission may include appropriate
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 3 of 18
+1 combined heat and power systems that result in the conservation and efficient
+2 use of energy and meet the applicable air quality standards of the Agency of
+3 Natural Resources. Except with regard to a transmission company, the
+4 Commission may specify that the appointment of an energy efficiency utility to
+5 deliver services within an electric utility’s service territory satisfies that
+6 electric utility’s corresponding obligations, in whole or in part, under section
+7 218c of this title and under any prior orders of the Commission.
+8 (B) Thermal energy and process-fuel customers. The Commission
+9 shall provide for the coordinated development, implementation, and
+10 monitoring of cost-effective efficiency and conservation programs to thermal
+11 energy and process-fuel customers on a whole buildings basis by one or more
+12 entities appointed by the Commission for this purpose.
+13 (i) In this section, “thermal energy” means the use of fuels to
+14 control the temperature of space within buildings and to heat water. In this
+15 section, “process fuel” means fuel used in commercial and industrial
+16 production operations.
+17 (ii) Periodically on a schedule directed by the Commission, the
+18 appointed entity or entities shall propose to the Commission a plan to
+19 implement this subdivision (d)(2)(B). The proposed plan shall comply with
+20 subsections (e)–(g) of this section and shall be subject to the Commission’s
+21 approval. The Commission shall not conduct the review of the proposed plan
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 4 of 18
+1 as a contested case under 3 V.S.A. chapter 25 but shall provide notice and an
+2 opportunity for written and oral comments to the public and affected parties
+3 and State agencies.
+4 (C) The appointed entity may be used to support the attainment of
+5 building energy codes established pursuant to sections 51 and 53 of this title.
+6 The Commission shall review and approve a methodology for the appointed
+7 entities to support the attainment of code in the next Demand Resources Plan
+8 Proceeding. The Commission is authorized to approve a methodology for the
+9 appointed entity and the State to quantify energy savings achieved through
+10 code attainment, which shall be counted toward the appointed entity’s
+11 quantitative savings targets.
+12 (D) The appointed entity shall receive a total annual budget from
+13 2027 through 2030 that is equivalent to the inflation-adjusted Commission-
+14 approved budget in 2026.
+15 (3) Energy efficiency charge; regulated fuels. In addition to its existing
+16 authority, the Commission may establish by order or rule a volumetric charge
+17 to customers for the support of energy efficiency programs that meet the
+18 requirements of section 218c of this title, with priority consideration given to
+19 the greenhouse gas reduction requirements under 10 V.S.A. § 578, and due
+20 consideration to the State’s energy policy under section 202a of this title and to
+21 its energy and economic policy interests under section 218e of this title to
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 5 of 18
+1 maintain and enhance the State’s economic vitality. The charge shall be
+2 known as the energy efficiency charge, shall be shown separately on each
+3 customer’s bill, and shall be paid to a fund administrator appointed by the
+4 Commission and deposited into the Electric Efficiency Fund. When such a
+5 charge is shown, notice as to how to obtain information about energy
+6 efficiency programs approved under this section shall be provided in a manner
+7 directed by the Commission. This notice shall include, at a minimum, a toll-
+8 free telephone number, and to the extent feasible shall be on the customer’s bill
+9 and near the energy efficiency charge.
+10 (4) Supplemental funding; Programs funded under this section shall also
+11 be funded without further appropriation or offsets by each of the following:
+12 (A) Net revenues above costs associated with payments from the
+13 New England Independent System Operator (ISO-NE) for capacity savings
+14 resulting from the activities of the energy efficiency utility designated under
+15 subdivision (2)(A) of this subsection (e) that are not transferred to the State
+16 PACE Reserve Fund under 24 V.S.A. § 3270(c). These revenues shall be
+17 deposited into the Efficiency Fund established by this section.
+18 (B) Net revenues above costs from the sale of carbon credits under
+19 the cap and trade program established under section 255 of this title, which
+20 shall be deposited into the Efficiency Fund established by this section.
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 6 of 18
+1 (C) Any other monies that are appropriated to or deposited in the
+2 Electric Efficiency Fund for the delivery of thermal energy and process fuel
+3 energy efficiency services.
+4 (D) Notwithstanding subsection (e) of this section, a retail electricity
+5 provider that is also an entity appointed under subdivision (d)(2)(A), may use
+6 monies subject to subsection (e) of this section and any of the Supplemental
+7 Funding outlined in this subdivision (4) to deliver thermal and transportation
+8 measures or programs that reduce fossil fuel use regardless of the preexisting
+9 fuel source of the customer with special emphasis on measures or programs
+10 that take a new or innovative approach to reducing fossil fuel use including
+11 support for staffing necessary to implement innovative building sector policies
+12 and modifying or supplementing existing vehicle incentive programs and
+13 electric vehicle supply equipment grant programs to incentivize high-
+14 consumption fuel users, especially individuals using more than 1000 gallons of
+15 gasoline or diesel annually and those with low and moderate income, to
+16 transition to the use of battery electric vehicles. The amounts available shall
+17 include amounts annually budgeted for thermal energy and process fuel funds
+18 or from Supplemental Funding, and any carry-forward thermal energy and
+19 process fuel funds or Supplemental Funding from prior periods, on programs,
+20 measures, and services that reduce greenhouse gas emissions in the thermal
+21 energy or transportation sector.
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 7 of 18
+1 (A)(5) Regulated use of the Efficiency Fund. Balances in the Electric
+2 Efficiency Fund shall be ratepayer funds, shall be used to support the activities
+3 authorized in this subdivision in a fuel neutral manner, and shall be carried
+4 forward and remain in the Fund at the end of each fiscal year. These monies
+5 shall not be available to meet the general obligations of the State. Interest
+6 earned shall remain in the Fund. The Commission will annually provide the
+7 General Assembly with a report detailing the revenues collected and the
+8 expenditures made for energy efficiency programs under this section. The
+9 provisions of 2 V.S.A. § 20(d) (expiration of required reports) shall not apply
+10 to the report to be made under this subsection (d).
+11 (B)(A) The charge charges established by the Commission pursuant
+12 to this subdivision (3)(5) shall be in an amount determined by the Commission
+13 by rule or order that is consistent with the principles of least-cost integrated
+14 planning as defined in section 218c of this title are societally cost-effective for
+15 the purpose of reducing greenhouse gas emissions. As circumstances and
+16 programs evolve, the amount of the charge charges shall be reviewed for
+17 unrealized energy efficiency potential and shall be adjusted as necessary in
+18 order to realize all reasonably available, cost-effective energy efficiency
+19 savings. In setting the amount of the charge and its allocation, the Commission
+20 shall determine an appropriate balance among the following objectives;
+21 provided, however, that particular emphasis shall be accorded to the first four
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 8 of 18
+1 of these objectives: prioritize the reduction of greenhouse gases and seek to
+2 balance the other following objectives: reducing Vermont’s total energy
+3 demand, consumption, and expenditures; reducing the size of future power
+4 purchases; reducing the generation of greenhouse gases equitable distribution
+5 of benefits using geographic and economic indicators; limiting the need to
+6 upgrade the State’s transmission and distribution infrastructure; minimizing the
+7 costs of electricity; reducing Vermont’s total energy demand, consumption,
+8 and expenditures; providing efficiency and conservation as a part of a
+9 comprehensive resource supply strategy that includes implementation of
+10 beneficial electrification and energy storage system projects; providing the
+11 opportunity for all Vermonters to participate in efficiency and conservation
+12 programs; and targeting efficiency and conservation efforts to locations,
+13 markets, or customers where they may provide the greatest value.
+14 (C)(B) The Commission, by rule or order, shall establish a process by
+15 which a customer who pays an average annual energy efficiency charge under
+16 this subdivision (3)(5) of at least $5,000.00 may apply to the Commission to
+17 self-administer energy efficiency through an energy savings account or
+18 customer credit program that shall contain up to 75 percent and 90 percent,
+19 respectively of the customer’s energy efficiency charge payments as
+20 determined by the Commission. The remaining portion of the charge shall be
+21 used for administrative, measurement, verification, and evaluation costs and
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 9 of 18
+1 for systemwide energy benefits. Customer energy efficiency funds may be
+2 approved for use by the Commission for one or more of the following: electric
+3 energy efficiency projects and non-electric nonelectric efficiency projects,
+4 which may include thermal and process fuel efficiency, flexible load
+5 management, combined heat and power systems, demand management, energy
+6 productivity, and energy storage. These funds shall not be used for the
+7 purchase or installation of new equipment capable of combusting fossil fuels.
+8 The Commission in its rules or order shall establish criteria for each program
+9 and approval of these applications, establish application and enrollment
+10 periods, establish participant requirements, and establish the methodology for
+11 evaluation, measurement, and verification for programs. The total amount of
+12 customer energy efficiency funds that can be placed into energy savings
+13 accounts or the customer credit program annually is $2,000,000.00 and
+14 $1,000,000.00 respectively.
+15 (D) The Commission may authorize the use of funds raised through
+16 an energy efficiency charge on electric ratepayers to reduce the use of fossil
+17 fuels for space heating by supporting electric technologies that may increase
+18 electric consumption, such as air source or geothermal heat pumps if, after
+19 investigation, it finds that deployment of the technology:
+20 (i) will be beneficial to electric ratepayers as a whole;
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 10 of 18
+1 (ii) will result in cost-effective energy savings to the end-user and
+2 to the State as a whole;
+3 (iii) will result in a net reduction in State energy consumption and
+4 greenhouse gas emissions on a life-cycle basis and will not have a detrimental
+5 impact on the environment through other means such as release of refrigerants
+6 or disposal. In making a finding under this subdivision, the Commission shall
+7 consider the use of the technology at all times of year and any likely new
+8 electricity demand created by such use;
+9 (iv) will be part of a comprehensive energy efficiency and
+10 conservation program that meets the requirements of subsections (d)-(g) of this
+11 section and that makes support for the technology contingent on the energy
+12 performance of the building in which the technology is to be installed. The
+13 building’s energy performance shall achieve or shall be improved to achieve an
+14 energy performance level that is approved by the Commission and that is
+15 consistent with meeting or exceeding the goals of 10 V.S.A. § 581 (building
+16 efficiency);
+17 (v) among the product models of the technology that are suitable
+18 for use in Vermont, will employ the product models that are the most efficient
+19 available;
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 11 of 18
+1 (vi) will be promoted in conjunction with demand management
+2 strategies offered by the customer’s distribution utility to address any increase
+3 in peak electric consumption that may be caused by the deployment;
+4 (vii) will be coordinated between the energy efficiency and
+5 distribution utilities, consistent with subdivision (f)(5) of this section; and
+6 (viii) will be supported by an appropriate allocation of funds
+7 among the funding sources described in this subsection (d) and subsection (e)
+8 of this section. In the case of measures used to increase the energy
+9 performance of a building in which the technology is to be installed, the
+10 Commission shall assume installation of the technology in the building and
+11 then determine the allocation according to the proportion of the benefits
+12 provided to the regulated fuel and unregulated fuel sectors. In this subdivision
+13 (viii), “regulated fuel” and “unregulated fuel” shall have the same meaning as
+14 under subsection (e) of this section.
+15 (4)(6) Contract or order of appointment. Appointment of an entity
+16 under subdivision (2) of this subsection may be by contract or by an order of
+17 appointment. An appointment, whether by order of appointment or by
+18 contract, may only be issued after notice and opportunity for hearing. An order
+19 of appointment shall be for a limited duration not to exceed 12 years, although
+20 an entity may be reappointed by order or contract. An order of appointment
+21 may include any conditions and requirements that the Commission deems
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 12 of 18
+1 appropriate to promote the public good. For good cause, after notice and
+2 opportunity for hearing, the Commission may amend or revoke an order of
+3 appointment.
+4 (5)(7) Appointed entity; supervision. Any entity appointed by order of
+5 appointment under subdivisions (2) and (4)(6) of this subsection that is not an
+6 electric or gas utility already regulated under this title shall not be considered
+7 to be a company as defined under section 201 of this title but shall be subject
+8 to the provisions of sections 18–21, 30–32, 205–208, subsection 209(a),
+9 sections 219, 221, and subsection 231(b) of this title, to the same extent as a
+10 company as defined under section 201 of this title. The Commission and the
+11 Department of Public Service shall have jurisdiction under those sections over
+12 the entity, its directors, receivers, trustees, lessees, or other persons or
+13 companies owning or operating the entity and of all plants, equipment, and
+14 property of that entity used in or about the business carried on by it in this
+15 State as covered and included in this section. This jurisdiction shall be
+16 exercised by the Commission and the Department so far as may be necessary
+17 to enable them to perform the duties and exercise the powers conferred upon
+18 them by law. The Commission and the Department each may, when they deem
+19 the public good requires, examine the plants, equipment, and property of any
+20 entity appointed by order of appointment under subdivisions (2) and (4) of this
+21 subsection.
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 13 of 18
+1 (8) Provision of equity and justice in services; requirements. Any
+2 appointed entity shall ensure an equitable and just provision of services.
+3 (A) Not less than 25 percent of the annual budget shall be targeted
+4 for residential services for customers with low to moderate income.
+5 (B) Not less than 12.5 percent of the annual budget shall be targeted
+6 for small businesses and not-for-profit organizations.
+7 (C) The cost of providing services under this subsection (6) shall be
+8 excluded from the calculation of cost-effectiveness for the appointed entities’
+9 portfolio of services.
+10 (D) On or before September 1, 2026, the appointed entity shall
+11 propose and the Commission shall evaluate the appropriateness of a statewide
+12 low-income energy efficiency rate for regulated fuels. The Commission may
+13 consider the technical feasibility of implementation before approving such a
+14 rate. For a distribution utility that is also an appointed entity, and has a
+15 Commission approved discounted low-income rate, that appointed entity may
+16 elect to apply its Commission approved discounted low-income rate criteria to
+17 the energy efficiency charge in lieu of adopting a statewide low-income energy
+18 efficiency rate.
+19 (e) Thermal energy and process fuel efficiency funding.
+20 (1) Each of the following shall be used to deliver thermal energy and
+21 process fuel energy efficiency services in accordance with this section for
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 14 of 18
+1 unregulated fuels to Vermont consumers of such fuels. In addition, the
+2 Commission may authorize an entity appointed to deliver such services under
+3 subdivision (d)(2)(B) of this section to use monies subject to this subsection
+4 for the engineering, design, and construction of facilities for the conversion of
+5 thermal energy customers using fossil fuels to district heat if the majority of
+6 the district’s energy is from biomass sources, the district’s distribution system
+7 is highly energy efficient, and such conversion is cost effective.
+8 (A) Net revenues above costs associated with payments from the New
+9 England Independent System Operator (ISO-NE) for capacity savings resulting
+10 from the activities of the energy efficiency utility designated under subdivision
+11 (2)(A) of this subsection (e) that are not transferred to the State PACE Reserve
+12 Fund under 24 V.S.A. § 3270(c). These revenues shall be deposited into the
+13 Electric Efficiency Fund established by this section. In delivering services with
+14 respect to heating systems using the revenues subject to this subdivision (A),
+15 the entity shall give priority to incentives for the installation of high efficiency
+16 biomass heating systems and shall have a goal of offering an incentive that is
+17 equal to 25 percent of the installed cost of such a system. Provision of an
+18 incentive under this subdivision (A) for a biomass heating system shall not be
+19 contingent on the making of other energy efficiency improvements at the
+20 property on which the system will be installed.
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 15 of 18
+1 (B) Net revenues above costs from the sale of carbon credits under the
+2 cap and trade program established under section 255 of this title, which shall
+3 be deposited into the Electric Efficiency Fund established by this section.
+4 (C) Any other monies that are appropriated to or deposited in the
+5 Electric Efficiency Fund for the delivery of thermal energy and process fuel
+6 energy efficiency services.
+7 (2) If a program combines regulated fuel efficiency services with
+8 unregulated fuel efficiency services supported by funds under this section, the
+9 Commission shall allocate the costs of the program among the funding sources
+10 for the regulated and unregulated fuel sectors in proportion to the benefits
+11 provided to each sector.
+12 (3) In this subsection:
+13 (A) “Biomass” means organic nonfossil material constituting a
+14 source of renewable energy within the meaning of section 8002 of this title.
+15 (B) “District heat” means a system through which steam or hot water
+16 from a central plant is piped into buildings to be used as a source of thermal
+17 energy.
+18 (C) “Efficiency services” includes the establishment of a statewide
+19 information clearinghouse under subsection (g) of this section.
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 16 of 18
+1 (D) “Fossil fuel” means an energy source formed in the earth’s crust
+2 from decayed organic material. The common fossil fuels are petroleum, coal,
+3 and natural gas. A fossil fuel may be a regulated or unregulated fuel.
+4 (E) “Regulated fuels” means electricity and natural gas delivered by a
+5 regulated utility.
+6 (F) “Unregulated fuels” means fuels used by thermal energy and
+7 process fuel customers other than electricity and natural gas delivered by a
+8 regulated utility.
+9 (f) Goals and criteria; all energy efficiency programs. With respect to all
+10 energy efficiency programs approved under this section, the Commission shall:
+11 (1) Ensure that all retail consumers, regardless of retail electricity, gas,
+12 or heating or process fuel provider, will have an opportunity to participate in
+13 and benefit from a comprehensive set of cost-effective energy efficiency,
+14 electrification, and energy storage programs and initiatives designed to
+15 overcome barriers to participation.
+16 (2) Require that continued or improved efficiencies be made in the
+17 production, delivery, and use of energy efficiency services, including the use
+18 of compensation mechanisms for any energy efficiency entity appointed under
+19 subdivision (d)(2) of this section that are based upon verified greenhouse gas
+20 emission reductions, savings in energy usage and demand, and other
+21 performance targets specified by the Commission. The linkage between
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 17 of 18
+1 compensation and verified savings in energy usage and demand (and other
+2 performance targets) shall be reviewed and adjusted not less than triennially by
+3 the Commission.
+4 * * *
+5 (g) Thermal energy and process fuel efficiency programs; additional
+6 criteria. With respect to energy efficiency programs delivered under this
+7 section to thermal energy and process fuel customers, the Commission shall:
+8 (1) Ensure that programs are delivered on a whole-buildings basis to
+9 help meet the State’s building efficiency goals established by 10 V.S.A. § 581
+10 and to reduce greenhouse gas emissions from thermal energy and process fuel
+11 use in Vermont pursuant to 10 V.S.A. § 578.
+12 (2) Require the establishment of a statewide information clearinghouse
+13 to enable effective access for customers to and effective coordination across
+14 programs. The clearinghouse shall serve as a portal for customers to access
+15 thermal energy and process fuel efficiency services and for coordination
+16 among State, regional, and local entities involved in the planning or delivery of
+17 such services, making referrals as appropriate to service providers and to
+18 entities having information on associated environmental issues such as the
+19 presence of asbestos in existing insulation.
+VT LEG #380503 v.1
+
+BILL AS INTRODUCED H.196
+2025 Page 18 of 18
+1 (3) In consultation with the Agency of Natural Resources, establish
+2 annual interim goals starting in 2014 to meet the 2017 and 2020 goals for
+3 improving the energy fitness of housing stock stated in 10 V.S.A. § 581(1).
+4 (4) Ensure the monitoring of the State’s progress in meeting the goals of
+5 10 V.S.A. § 581(1). This monitoring shall be performed according to a
+6 standard methodology and on a periodic basis that is not less than annual.
+7 * * *
+8 Sec. 2. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #380503 v.1
+
+[DELETED:  H P H I R R D S S l e e A I S § * ( ( e a m e]
+[DELETED:  H P e i m m S t r b a D e a ( ( d C d e e d t]
+[DELETED:  H P c u N C d e 2 ( s m e e ( c s p ( a i s a]
+[DELETED:  H P a o a ( b T e P a c q ( 2 a ( a t r t c i]
+[DELETED:  H P m k c C c e d f a ( b ( N r s P d ( t s]
+[DELETED:  H P ( E e ( p m F m f t s a e c g t i o p m e]
+[DELETED:  H P ( E a f s e G e p t ( t b p t p u o s s p]
+[DELETED:  H P o b d p o u c a c b o p m ( w t s c r d u]
+[DELETED:  H P f a e w m p p T a p e c a $ ( a f e i (]
+[DELETED:  H P ( t ( g i o c e ( c s p b e c e ( f a]
+[DELETED:  H P ( s i ( d ( a o p C t p ( u ( u a c o a m]
+[DELETED:  H P a o a ( a e t t s c D t c p S e t t t e s]
+[DELETED:  H P ( a ( f ( f ( e p ( p l c r C e t e ( ( p]
+[DELETED:  H P u C s f t t i ( E f ( F E r t b e i c p]
+[DELETED:  H P ( c b ( E e ( u C f p ( ( s ( f e ( i]
+[DELETED:  H P ( f a ( r ( p r ( e ( o a e o ( p o s e p]
+[DELETED:  H P c p t * ( c s ( h a u ( t p t a s e p]
+[DELETED:  H P ( a i ( 1 s * S T]

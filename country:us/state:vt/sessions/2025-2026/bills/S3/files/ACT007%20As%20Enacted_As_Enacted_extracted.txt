@@ -1,0 +1,169 @@
+Title: No. 7. An act relating to the transfer of property to a trust.
+Official Title: No. 7. An act relating to the transfer of property to a trust.
+Number of Sections: 2
+Source: versions - As Enacted
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+No. 7 Page 1 of 3
+2025
+(S.3)
+It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1. 14A V.S.A. § 505 is amended to read:
+
+Section 2:
+§ 505. CREDITOR’S CLAIM AGAINST SETTLOR
+(a) Whether or not the terms of a trust contain a spendthrift provision, the
+following rules apply:
+(1) During the lifetime of the settlor, the property of a revocable trust is
+subject to claims of the settlor’s creditors.
+(2) With respect to an irrevocable trust, a creditor or assignee of the
+settlor may reach the maximum amount that can be distributed to or for the
+settlor’s benefit. If a trust has more than one settlor, the amount the creditor or
+assignee of a particular settlor may reach shall not exceed the settlor’s interest
+in the portion of the trust attributable to that settlor’s contribution. This
+subdivision shall not apply to an irrevocable “special needs trust” established
+for a disabled person as described in 42 U.S.C. § 1396p(d)(4) or similar federal
+law governing the transfer to such a trust.
+(3) After the death of a settlor, and subject to the settlor’s right to direct
+the source from which liabilities will be paid, the property of a trust that was
+revocable at the settlor’s death is subject to claims of the settlor’s creditors,
+costs of administration of the settlor’s estate, the expenses of the settlor’s
+funeral and disposal of remains, and statutory allowances to a surviving spouse
+VT LEG #383135 v.1
+No. 7 Page 2 of 3
+2025
+and children to the extent the settlor’s probate estate is inadequate to satisfy
+those claims, costs, expenses, and allowances.
+* * *
+(c)(1) Property held by spouses as tenants by the entirety that is conveyed
+to the spouses’ jointly or separately held revocable or irrevocable trusts, and
+any proceeds of the sale or disposition of the property, shall be immune from
+the claims of the spouses’ separate creditors to the same extent as the property
+would have been if it had remained held by the spouses as tenants by the
+entirety if the following apply:
+(A) the spouses are married to each other;
+(B) the property is held in the trust or trusts or has been deeded out of
+the trust to the spouses as tenants by the entirety;
+(C) if the trust is a joint trust, the trust may be revoked by either
+spouse acting alone but may be amended only by action of both spouses;
+(D) the property is the spouses’ property; and
+(E)(i) both spouses are current beneficiaries of one joint trust that
+holds the entire property; or
+(ii) each spouse is a current beneficiary of a separate trust and the
+two separate trusts, together, hold the entire property, whether or not other
+persons are also current or future beneficiaries of the trust or trusts.
+(2)(A) Property at any time held in a tenants by the entirety trust shall
+have the same immunity from the claims of a separate creditor of either settlor
+VT LEG #383135 v.1
+No. 7 Page 3 of 3
+2025
+as the property would have if it were held outside the trust by the settlors as
+tenants by the entirety unless otherwise provided in writing by the settlor or
+settlors who transferred the property to the trust. The property shall be treated
+in all respects as tenants by the entirety property, including for purposes of
+federal and state bankruptcy laws.
+(B) Property held in a tenants by the entirety trust shall cease to
+receive immunity from the claims of creditors upon the dissolution of the
+settlors’ marriage by a court.
+(3) Except as otherwise provided in this title, on the effective date of
+this subsection:
+(A) notwithstanding 1 V.S.A. § 214, this subsection (c) applies to all
+trusts created before, on, or after the effective date of this subsection and to
+property held by spouses as tenants by the entirety that is conveyed before, on,
+or after the effective date of this subsection;
+(B) this subsection (c) applies to all judicial proceedings concerning
+trusts commenced on or after the effective date of this subsection.
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on passage.
+Date Governor signed bill: April 24, 2025
+VT LEG #383135 v.1
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+No. 7 Page 1 of 3
+2025
+No. 7. An act relating to the transfer of property to a trust.
+(S.3)
+It is hereby enacted by the General Assembly of the State of Vermont:
+Sec. 1. 14A V.S.A. § 505 is amended to read:
+§ 505. CREDITOR’S CLAIM AGAINST SETTLOR
+(a) Whether or not the terms of a trust contain a spendthrift provision, the
+following rules apply:
+(1) During the lifetime of the settlor, the property of a revocable trust is
+subject to claims of the settlor’s creditors.
+(2) With respect to an irrevocable trust, a creditor or assignee of the
+settlor may reach the maximum amount that can be distributed to or for the
+settlor’s benefit. If a trust has more than one settlor, the amount the creditor or
+assignee of a particular settlor may reach shall not exceed the settlor’s interest
+in the portion of the trust attributable to that settlor’s contribution. This
+subdivision shall not apply to an irrevocable “special needs trust” established
+for a disabled person as described in 42 U.S.C. § 1396p(d)(4) or similar federal
+law governing the transfer to such a trust.
+(3) After the death of a settlor, and subject to the settlor’s right to direct
+the source from which liabilities will be paid, the property of a trust that was
+revocable at the settlor’s death is subject to claims of the settlor’s creditors,
+costs of administration of the settlor’s estate, the expenses of the settlor’s
+funeral and disposal of remains, and statutory allowances to a surviving spouse
+VT LEG #383135 v.1
+
+No. 7 Page 2 of 3
+2025
+and children to the extent the settlor’s probate estate is inadequate to satisfy
+those claims, costs, expenses, and allowances.
+* * *
+(c)(1) Property held by spouses as tenants by the entirety that is conveyed
+to the spouses’ jointly or separately held revocable or irrevocable trusts, and
+any proceeds of the sale or disposition of the property, shall be immune from
+the claims of the spouses’ separate creditors to the same extent as the property
+would have been if it had remained held by the spouses as tenants by the
+entirety if the following apply:
+(A) the spouses are married to each other;
+(B) the property is held in the trust or trusts or has been deeded out of
+the trust to the spouses as tenants by the entirety;
+(C) if the trust is a joint trust, the trust may be revoked by either
+spouse acting alone but may be amended only by action of both spouses;
+(D) the property is the spouses’ property; and
+(E)(i) both spouses are current beneficiaries of one joint trust that
+holds the entire property; or
+(ii) each spouse is a current beneficiary of a separate trust and the
+two separate trusts, together, hold the entire property, whether or not other
+persons are also current or future beneficiaries of the trust or trusts.
+(2)(A) Property at any time held in a tenants by the entirety trust shall
+have the same immunity from the claims of a separate creditor of either settlor
+VT LEG #383135 v.1
+
+No. 7 Page 3 of 3
+2025
+as the property would have if it were held outside the trust by the settlors as
+tenants by the entirety unless otherwise provided in writing by the settlor or
+settlors who transferred the property to the trust. The property shall be treated
+in all respects as tenants by the entirety property, including for purposes of
+federal and state bankruptcy laws.
+(B) Property held in a tenants by the entirety trust shall cease to
+receive immunity from the claims of creditors upon the dissolution of the
+settlors’ marriage by a court.
+(3) Except as otherwise provided in this title, on the effective date of
+this subsection:
+(A) notwithstanding 1 V.S.A. § 214, this subsection (c) applies to all
+trusts created before, on, or after the effective date of this subsection and to
+property held by spouses as tenants by the entirety that is conveyed before, on,
+or after the effective date of this subsection;
+(B) this subsection (c) applies to all judicial proceedings concerning
+trusts commenced on or after the effective date of this subsection.
+Sec. 2. EFFECTIVE DATE
+This act shall take effect on passage.
+Date Governor signed bill: April 24, 2025
+VT LEG #383135 v.1
+
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]

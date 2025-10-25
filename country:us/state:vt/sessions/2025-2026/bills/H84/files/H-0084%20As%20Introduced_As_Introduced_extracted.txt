@@ -1,0 +1,110 @@
+Title: BILL AS INTRODUCED H.84
+Official Title: BILL AS INTRODUCED H.84
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.84
+2 Introduced by Representatives Hooper of Burlington, Austin of Colchester,
+3 Bishop of Colchester, Bluemle of Burlington, Branagan of
+4 Georgia, Burtt of Cabot, Campbell of St. Johnsbury, Casey of
+5 Montpelier, Coffin of Cavendish, Critchlow of Colchester,
+6 Dodge of Essex, Duke of Burlington, Greer of Bennington,
+7 Hango of Berkshire, Harrison of Chittenden, Higley of Lowell,
+8 Howard of Rutland City, Kleppner of Burlington, Maguire of
+9 Rutland City, McCann of Montpelier, Morgan, M. of Milton,
+10 Morrissey of Bennington, Mrowicki of Putney, Nielsen of
+11 Brandon, Pinsonault of Dorset, and Satcowitz of Randolph
+12 Referred to Committee on
+13 Date:
+14 Subject: Health; telehealth; recordings; consent
+15 Statement of purpose of bill as introduced: This bill proposes to allow
+16 telehealth appointments to be recorded if both the patient and the provider
+17 consent.
+18 An act relating to allowing telehealth appointments to be recorded with
+19 patient and provider consent
+VT LEG #378763 v.1
+BILL AS INTRODUCED H.84
+2025 Page 2 of 2
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 18 V.S.A. § 9361 is amended to read:
+3 § 9361. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+4 SERVICES THROUGH TELEMEDICINE OR BY STORE-AND-
+5 FORWARD MEANS
+6 * * *
+7 (d) Neither a health care provider nor a patient shall create or cause to be
+8 created a recording of a provider’s telemedicine consultation with a patient
+9 unless both the patient and the provider consent to the recording.
+10 * * *
+11 Sec. 2. 18 V.S.A. § 9362 is amended to read:
+12 § 9362. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+13 SERVICES BY AUDIO-ONLY TELEPHONE
+14 * * *
+15 (d) Neither a health care provider nor a patient shall create or cause to be
+16 created a recording of a provider’s telephone consultation with a patient unless
+17 both the patient and the provider consent to the recording.
+18 * * *
+19 Sec. 3. EFFECTIVE DATE
+20 This act shall take effect on passage.
+VT LEG #378763 v.1
+[DELETED:  H P H I R B G M D H H R M B R D S S t c A p]
+[DELETED:  H P I S §     * ( c u * S §   * ( c b * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.84
+2025 Page 1 of 2
+1 H.84
+2 Introduced by Representatives Hooper of Burlington, Austin of Colchester,
+3 Bishop of Colchester, Bluemle of Burlington, Branagan of
+4 Georgia, Burtt of Cabot, Campbell of St. Johnsbury, Casey of
+5 Montpelier, Coffin of Cavendish, Critchlow of Colchester,
+6 Dodge of Essex, Duke of Burlington, Greer of Bennington,
+7 Hango of Berkshire, Harrison of Chittenden, Higley of Lowell,
+8 Howard of Rutland City, Kleppner of Burlington, Maguire of
+9 Rutland City, McCann of Montpelier, Morgan, M. of Milton,
+10 Morrissey of Bennington, Mrowicki of Putney, Nielsen of
+11 Brandon, Pinsonault of Dorset, and Satcowitz of Randolph
+12 Referred to Committee on
+13 Date:
+14 Subject: Health; telehealth; recordings; consent
+15 Statement of purpose of bill as introduced: This bill proposes to allow
+16 telehealth appointments to be recorded if both the patient and the provider
+17 consent.
+18 An act relating to allowing telehealth appointments to be recorded with
+19 patient and provider consent
+VT LEG #378763 v.1
+
+BILL AS INTRODUCED H.84
+2025 Page 2 of 2
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 18 V.S.A. § 9361 is amended to read:
+3 § 9361. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+4 SERVICES THROUGH TELEMEDICINE OR BY STORE-AND-
+5 FORWARD MEANS
+6 * * *
+7 (d) Neither a health care provider nor a patient shall create or cause to be
+8 created a recording of a provider’s telemedicine consultation with a patient
+9 unless both the patient and the provider consent to the recording.
+10 * * *
+11 Sec. 2. 18 V.S.A. § 9362 is amended to read:
+12 § 9362. HEALTH CARE PROVIDERS DELIVERING HEALTH CARE
+13 SERVICES BY AUDIO-ONLY TELEPHONE
+14 * * *
+15 (d) Neither a health care provider nor a patient shall create or cause to be
+16 created a recording of a provider’s telephone consultation with a patient unless
+17 both the patient and the provider consent to the recording.
+18 * * *
+19 Sec. 3. EFFECTIVE DATE
+20 This act shall take effect on passage.
+VT LEG #378763 v.1
+
+[DELETED:  H P H I R B G M D H H R M B R D S S t c A p]
+[DELETED:  H P I S §     * ( c u * S §   * ( c b * S T]

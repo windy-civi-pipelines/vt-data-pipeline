@@ -1,0 +1,274 @@
+Title: BILLAS PASSED BY THE HOUSE H.482
+Official Title: BILLAS PASSED BY THE HOUSE H.482
+Number of Sections: 1
+Source: versions - As Passed By the House (Official)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 6
+1 H.482
+2 Introduced by Committee on Health Care
+3 Date:
+4 Subject: Health; hospitals; health insurers; Green Mountain Care Board;
+5 hospital observer
+6 Statement of purpose of bill as introduced: This bill proposes to authorize the
+7 Green Mountain Care Board to reduce a health insurer’s reimbursement rates
+8 to one or more hospitals if the health insurer is at imminent risk of insolvency.
+9 The bill would permit the Board to reduce a hospital’s budget for the
+10 forthcoming fiscal year to account for the hospital’s budget overage in the
+11 previous fiscal year. The bill would also allow the Board to appoint an
+12 independent observer to oversee a hospital and its operations if the Board finds
+13 the hospital has made a material misrepresentation or is out of compliance with
+14 its budget and the Board believes that appointing an independent observer is in
+15 the public interest.
+16 An act relating to Green Mountain Care Board authority to adjust a
+17 hospital’s reimbursement rates and to appoint a hospital observer
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 18 V.S.A. § 9384 is added to read:
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 2 of 6
+1 § 9384. REDUCTION OR REALLOCATION OF REIMBURSEMENT
+2 RATES; RISKS TO HEALTH INSURER SOLVENCY
+3 (a) As used in this section:
+4 (1) “Hospital” has the same meaning as in section 9451 of this title.
+5 (2) “Hospital network” means a system comprising two or more
+6 affiliated hospitals, and may include other health care professionals and
+7 facilities, that derives 50 percent or more of its operating revenue, at the
+8 consolidated network level, from Vermont hospitals and in which the affiliated
+9 hospitals deliver health care services in a coordinated manner using an
+10 integrated financial and governance structure.
+11 (b) If the Green Mountain Care Board determines, after consultation with
+12 the Commissioner of Financial Regulation, that a domestic health insurer faces
+13 an acute and immediate threat to its solvency because its risk-based capital
+14 level has triggered a regulatory action level event pursuant to 8 V.S.A. § 8304,
+15 the Board may order a reduction of the insurer’s reimbursement rates to one or
+16 more Vermont hospitals as set forth in subsection (c) of this section until such
+17 time as the amount of the insurer’s risk-based capital exceeds the company
+18 action level risk-based capital threshold defined in 8 V.S.A. § 8301.
+19 (c)(1) The Board shall only order a reduction in the reimbursement rates to
+20 a hospital that meets one or both of the following criteria:
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 3 of 6
+1 (A) the hospital has more than 135 days’ cash on hand and had a
+2 positive operating margin in the previous fiscal year; or
+3 (B) the hospital is a member of a hospital network that, at the
+4 consolidated network level, has more than 135 days’ cash on hand or had a
+5 positive operating margin in the previous fiscal year, or both.
+6 (2) The Board shall order a reduction in reimbursement rates to a
+7 hospital pursuant to this subsection only to the extent necessary to remediate
+8 the threat to the domestic health insurer’s solvency.
+9 (3) In no event shall a reduction ordered by the Board pursuant to this
+10 section result in a decrease to a hospital’s or hospital network’s projected days’
+11 cash on hand to below 125 days.
+12 Sec. 2. 18 V.S.A. § 9456 is amended to read:
+13 § 9456. BUDGET REVIEW
+14 * * *
+15 (c) Individual hospital budgets established under this section shall:
+16 * * *
+17 (4) reflect budget performances for prior years reconcile any significant
+18 deviation in revenue during the previous fiscal year in excess of the budget
+19 established for the hospital pursuant to this section, using a methodology
+20 established by the Board;
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 4 of 6
+1 * * *
+2 (f)(1) The Board may, upon application, adjust a budget established under
+3 this section upon a showing of need based upon exceptional or unforeseen
+4 circumstances in accordance with the criteria and processes established under
+5 section 9405 of this title.
+6 (2) The Board may, on its own initiative, adjust the commercial health
+7 insurance reimbursement rates payable to a hospital at any time during the
+8 hospital’s fiscal year in order to ensure that the hospital operates within the
+9 budget established under this section.
+10 (g)(1) The Board may request, and a hospital shall provide, information
+11 determined by the Board to be necessary to determine whether the hospital is
+12 operating within a budget established under this section. For purposes of this
+13 subsection, subsection (h) of this section, and subdivision 9454(a)(7) of this
+14 title, the Board’s authority shall extend to an affiliated corporation or other
+15 person in the control of or controlled by the hospital to the extent that such
+16 authority is necessary to carry out the purposes of this subsection, subsection
+17 (h) of this section, or subdivision 9454(a)(7) of this title. As used in this
+18 subsection, a rebuttable presumption of “control” is created if the entity,
+19 hospital, or other person, directly or indirectly, owns, controls, holds with the
+20 power to vote, or holds proxies representing 20 percent or more of the voting
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 5 of 6
+1 securities or membership interest or other governing interest of the hospital or
+2 other controlled entity.
+3 (2)(A) The Board may, upon finding that a hospital has made a material
+4 misrepresentation in information or documents provided to the Board or that a
+5 hospital is materially noncompliant with the budget established by the Board
+6 pursuant to this section, appoint an independent observer with respect to any
+7 matter related to the Board’s review or enforcement under this section if the
+8 Board believes that doing so is in the public interest. At the direction of the
+9 Board, the independent observer may monitor the hospital’s operations, obtain
+10 information from the hospital, and report findings and recommendations to the
+11 Board.
+12 (B) An independent observer appointed pursuant to this subdivision
+13 (2) shall have the right to receive copies of all materials related to the Board’s
+14 review under this section and the hospital shall provide any information
+15 requested by the independent observer, including any information regarding
+16 the hospital’s participation in a hospital network. The independent observer
+17 shall share information provided by the hospital with the Board and with the
+18 Office of the Health Care Advocate in accordance with subdivision (d)(3) of
+19 this section but shall not otherwise disclose any confidential or proprietary
+20 information that the independent observer obtained from the hospital.
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 6 of 6
+1 (C) The Board may order a hospital to pay for all or a portion of the
+2 costs of an independent observer appointed for the hospital pursuant to this
+3 subdivision (2).
+4 * * *
+5 Sec. 3. INDEPENDENT HOSPITALOBSERVER AUTHORITY;
+6 PROSPECTIVE REPEAL
+7 18 V.S.A. § 9456(g)(2) (authority to appoint independent hospital observer)
+8 is repealed on January 1, 2030.
+9 Sec. 4. EFFECTIVE DATE
+10 This act shall take effect on passage.
+[DELETED: LASPDBYTEHEH5Pe1ofHIdbyCeonHhCDS:H;h;hhi;GnMnCeBhloStofpeofblasi:TsblpstoaetGnMnCeBdtoreahhisrtrtooeormehsiftehhirisatitrkofiTeblwdptteBdtoreahsbtfrt0fgflyrtoatfrtehsbtoeint1psfly.TeblwdaoawteBdtoata2itortooeahladisosifteBdf3tehlhsmeamlmnorisotofcew4isbtadteBdbsttaganitorisi5tepci6AnatrgtoGnMnCeBdaytoat7hsrtrsadtoatahlo8ItishyedbyteGlAyofteSeofV9S.1.18V.§4isadtor]
+[DELETED: LASPDBYTEHEH5Pe2of§.RNORRNOFRR;RSTOHHIRS()Asudintss()“”hstesemgasinsn91oftst()“ln”msasmcgtoormadh,admyieorhhcepsaf,ttds50ptormeofisogr,attcdnkl,fmVthsadinwhteahsdrhhcessinacdmruga0idfladges1()IfteGnMnCeBdd,arcnw2teCrofFlR,ttadchhirf3anaeadietttoissybeisrdc4llhstdaryanlletptto8V.§5teBdmyorarnofteisrtrstooeo6meVthsasstfhinsn()oftssnuls7teasteatofteisrdclestec8anllrdcltdddin8V.§89()TeBdsloyorarnintertrst0ahlttmsoeorbhoftefgc]
+[DELETED: LASPDBYTEHEH5Pe3of()tehlhsmetn15d’chonhdadhdpeogmnintepsfly;o()tehlisamrofahlnkt,attcdnkl,hsmetn15d’chonhdorhdpeogmnintepsfly,orb()TeBdslorarninrtrstohlpttotssnoytoteetnytortetttotedchhiss()InnoetslarnodbyteBdpttot0snrtinadetoahsorhlnspdd1chonhdtobw15d2S.2.18V.§6isadtor3§9.BTR4**5()Ilhlbsedurtssns6**7()rtbtpsfrprysreays8dninredgtepsflyrinesofteb9edfrtehlpttotss,ugam0edbyteB]
+[DELETED: LASPDBYTEHEH5Pe4of**()TeBdm,una,atabtedutssnunasgofndbdunelorucsinaewhtecaadpsedusn95oftst()TeBdm,onisoni,atteclhiertrspetoahlataytedgthsflyrinortoeetttehloswntbtedurtss0()TeBdmyr,adahlslp,i1ddbyteBdtobenytodewrtehli2ogwnabtedurtss.Frpsoft3s,sn()oftss,adsn9)oft4t,teBsaysledtoanadcnoro5pnintecloforcdbytehltoteettts6ayisnytocyottepsoftss,s7()oftss,orsn9)oftst.Asudint8s,arepnof“”iscdiftee9h,ororp,dyori,o,c,hswht0prtov,orhspsrg20ptormeoftev]
+[DELETED: LASPDBYTEHEH5Pe5ofssormpitororggitoftehloorcde()TeBdm,unfgttahlhsmeammnininordspdtoteBdortthlismyntwhtebtedbyteBpttotss,atanitorwhrttoamrrdtoteBsrworeturtssniftBdbsttdgsoisintepci.AttednoftB,teitormymrtehso,o0infmteh,adrtfsadrstot1B2()Anitoradpttotss3()slheterttorecsofalmsrdtoteB4rwurtssnadtehlslpeayi5rdbyteito,igayinr6tehspninahln.Teito7slseinpdbytehlwhteBdadwht8OeofteHhCeAeinaewhsn()o9tssnbtslntoedeayclorp0inttteitorodfmteh]
+[DELETED: LASPDBYTEHEH5Pe6of()TeBdmyorahltopyfralorapnoftcsofanitoradfrtehlpttotsn(**S.3.ITHLORAPER18V.§)(ytoatithloisrdonJy1,2S.4.EED0Tsatslteetonp]
+
+
+================================================================================
+
+Raw Text:
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 1 of 6
+1 H.482
+2 Introduced by Committee on Health Care
+3 Date:
+4 Subject: Health; hospitals; health insurers; Green Mountain Care Board;
+5 hospital observer
+6 Statement of purpose of bill as introduced: This bill proposes to authorize the
+7 Green Mountain Care Board to reduce a health insurer’s reimbursement rates
+8 to one or more hospitals if the health insurer is at imminent risk of insolvency.
+9 The bill would permit the Board to reduce a hospital’s budget for the
+10 forthcoming fiscal year to account for the hospital’s budget overage in the
+11 previous fiscal year. The bill would also allow the Board to appoint an
+12 independent observer to oversee a hospital and its operations if the Board finds
+13 the hospital has made a material misrepresentation or is out of compliance with
+14 its budget and the Board believes that appointing an independent observer is in
+15 the public interest.
+16 An act relating to Green Mountain Care Board authority to adjust a
+17 hospital’s reimbursement rates and to appoint a hospital observer
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 18 V.S.A. § 9384 is added to read:
+
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 2 of 6
+1 § 9384. REDUCTION OR REALLOCATION OF REIMBURSEMENT
+2 RATES; RISKS TO HEALTH INSURER SOLVENCY
+3 (a) As used in this section:
+4 (1) “Hospital” has the same meaning as in section 9451 of this title.
+5 (2) “Hospital network” means a system comprising two or more
+6 affiliated hospitals, and may include other health care professionals and
+7 facilities, that derives 50 percent or more of its operating revenue, at the
+8 consolidated network level, from Vermont hospitals and in which the affiliated
+9 hospitals deliver health care services in a coordinated manner using an
+10 integrated financial and governance structure.
+11 (b) If the Green Mountain Care Board determines, after consultation with
+12 the Commissioner of Financial Regulation, that a domestic health insurer faces
+13 an acute and immediate threat to its solvency because its risk-based capital
+14 level has triggered a regulatory action level event pursuant to 8 V.S.A. § 8304,
+15 the Board may order a reduction of the insurer’s reimbursement rates to one or
+16 more Vermont hospitals as set forth in subsection (c) of this section until such
+17 time as the amount of the insurer’s risk-based capital exceeds the company
+18 action level risk-based capital threshold defined in 8 V.S.A. § 8301.
+19 (c)(1) The Board shall only order a reduction in the reimbursement rates to
+20 a hospital that meets one or both of the following criteria:
+
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 3 of 6
+1 (A) the hospital has more than 135 days’ cash on hand and had a
+2 positive operating margin in the previous fiscal year; or
+3 (B) the hospital is a member of a hospital network that, at the
+4 consolidated network level, has more than 135 days’ cash on hand or had a
+5 positive operating margin in the previous fiscal year, or both.
+6 (2) The Board shall order a reduction in reimbursement rates to a
+7 hospital pursuant to this subsection only to the extent necessary to remediate
+8 the threat to the domestic health insurer’s solvency.
+9 (3) In no event shall a reduction ordered by the Board pursuant to this
+10 section result in a decrease to a hospital’s or hospital network’s projected days’
+11 cash on hand to below 125 days.
+12 Sec. 2. 18 V.S.A. § 9456 is amended to read:
+13 § 9456. BUDGET REVIEW
+14 * * *
+15 (c) Individual hospital budgets established under this section shall:
+16 * * *
+17 (4) reflect budget performances for prior years reconcile any significant
+18 deviation in revenue during the previous fiscal year in excess of the budget
+19 established for the hospital pursuant to this section, using a methodology
+20 established by the Board;
+
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 4 of 6
+1 * * *
+2 (f)(1) The Board may, upon application, adjust a budget established under
+3 this section upon a showing of need based upon exceptional or unforeseen
+4 circumstances in accordance with the criteria and processes established under
+5 section 9405 of this title.
+6 (2) The Board may, on its own initiative, adjust the commercial health
+7 insurance reimbursement rates payable to a hospital at any time during the
+8 hospital’s fiscal year in order to ensure that the hospital operates within the
+9 budget established under this section.
+10 (g)(1) The Board may request, and a hospital shall provide, information
+11 determined by the Board to be necessary to determine whether the hospital is
+12 operating within a budget established under this section. For purposes of this
+13 subsection, subsection (h) of this section, and subdivision 9454(a)(7) of this
+14 title, the Board’s authority shall extend to an affiliated corporation or other
+15 person in the control of or controlled by the hospital to the extent that such
+16 authority is necessary to carry out the purposes of this subsection, subsection
+17 (h) of this section, or subdivision 9454(a)(7) of this title. As used in this
+18 subsection, a rebuttable presumption of “control” is created if the entity,
+19 hospital, or other person, directly or indirectly, owns, controls, holds with the
+20 power to vote, or holds proxies representing 20 percent or more of the voting
+
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 5 of 6
+1 securities or membership interest or other governing interest of the hospital or
+2 other controlled entity.
+3 (2)(A) The Board may, upon finding that a hospital has made a material
+4 misrepresentation in information or documents provided to the Board or that a
+5 hospital is materially noncompliant with the budget established by the Board
+6 pursuant to this section, appoint an independent observer with respect to any
+7 matter related to the Board’s review or enforcement under this section if the
+8 Board believes that doing so is in the public interest. At the direction of the
+9 Board, the independent observer may monitor the hospital’s operations, obtain
+10 information from the hospital, and report findings and recommendations to the
+11 Board.
+12 (B) An independent observer appointed pursuant to this subdivision
+13 (2) shall have the right to receive copies of all materials related to the Board’s
+14 review under this section and the hospital shall provide any information
+15 requested by the independent observer, including any information regarding
+16 the hospital’s participation in a hospital network. The independent observer
+17 shall share information provided by the hospital with the Board and with the
+18 Office of the Health Care Advocate in accordance with subdivision (d)(3) of
+19 this section but shall not otherwise disclose any confidential or proprietary
+20 information that the independent observer obtained from the hospital.
+
+BILLAS PASSED BY THE HOUSE H.482
+2025 Page 6 of 6
+1 (C) The Board may order a hospital to pay for all or a portion of the
+2 costs of an independent observer appointed for the hospital pursuant to this
+3 subdivision (2).
+4 * * *
+5 Sec. 3. INDEPENDENT HOSPITALOBSERVER AUTHORITY;
+6 PROSPECTIVE REPEAL
+7 18 V.S.A. § 9456(g)(2) (authority to appoint independent hospital observer)
+8 is repealed on January 1, 2030.
+9 Sec. 4. EFFECTIVE DATE
+10 This act shall take effect on passage.
+
+[DELETED: LASPDBYTEHEH5Pe1ofHIdbyCeonHhCDS:H;h;hhi;GnMnCeBhloStofpeofblasi:TsblpstoaetGnMnCeBdtoreahhisrtrtooeormehsiftehhirisatitrkofiTeblwdptteBdtoreahsbtfrt0fgflyrtoatfrtehsbtoeint1psfly.TeblwdaoawteBdtoata2itortooeahladisosifteBdf3tehlhsmeamlmnorisotofcew4isbtadteBdbsttaganitorisi5tepci6AnatrgtoGnMnCeBdaytoat7hsrtrsadtoatahlo8ItishyedbyteGlAyofteSeofV9S.1.18V.§4isadtor]
+[DELETED: LASPDBYTEHEH5Pe2of§.RNORRNOFRR;RSTOHHIRS()Asudintss()“”hstesemgasinsn91oftst()“ln”msasmcgtoormadh,admyieorhhcepsaf,ttds50ptormeofisogr,attcdnkl,fmVthsadinwhteahsdrhhcessinacdmruga0idfladges1()IfteGnMnCeBdd,arcnw2teCrofFlR,ttadchhirf3anaeadietttoissybeisrdc4llhstdaryanlletptto8V.§5teBdmyorarnofteisrtrstooeo6meVthsasstfhinsn()oftssnuls7teasteatofteisrdclestec8anllrdcltdddin8V.§89()TeBdsloyorarnintertrst0ahlttmsoeorbhoftefgc]
+[DELETED: LASPDBYTEHEH5Pe3of()tehlhsmetn15d’chonhdadhdpeogmnintepsfly;o()tehlisamrofahlnkt,attcdnkl,hsmetn15d’chonhdorhdpeogmnintepsfly,orb()TeBdslorarninrtrstohlpttotssnoytoteetnytortetttotedchhiss()InnoetslarnodbyteBdpttot0snrtinadetoahsorhlnspdd1chonhdtobw15d2S.2.18V.§6isadtor3§9.BTR4**5()Ilhlbsedurtssns6**7()rtbtpsfrprysreays8dninredgtepsflyrinesofteb9edfrtehlpttotss,ugam0edbyteB]
+[DELETED: LASPDBYTEHEH5Pe4of**()TeBdm,una,atabtedutssnunasgofndbdunelorucsinaewhtecaadpsedusn95oftst()TeBdm,onisoni,atteclhiertrspetoahlataytedgthsflyrinortoeetttehloswntbtedurtss0()TeBdmyr,adahlslp,i1ddbyteBdtobenytodewrtehli2ogwnabtedurtss.Frpsoft3s,sn()oftss,adsn9)oft4t,teBsaysledtoanadcnoro5pnintecloforcdbytehltoteettts6ayisnytocyottepsoftss,s7()oftss,orsn9)oftst.Asudint8s,arepnof“”iscdiftee9h,ororp,dyori,o,c,hswht0prtov,orhspsrg20ptormeoftev]
+[DELETED: LASPDBYTEHEH5Pe5ofssormpitororggitoftehloorcde()TeBdm,unfgttahlhsmeammnininordspdtoteBdortthlismyntwhtebtedbyteBpttotss,atanitorwhrttoamrrdtoteBsrworeturtssniftBdbsttdgsoisintepci.AttednoftB,teitormymrtehso,o0infmteh,adrtfsadrstot1B2()Anitoradpttotss3()slheterttorecsofalmsrdtoteB4rwurtssnadtehlslpeayi5rdbyteito,igayinr6tehspninahln.Teito7slseinpdbytehlwhteBdadwht8OeofteHhCeAeinaewhsn()o9tssnbtslntoedeayclorp0inttteitorodfmteh]
+[DELETED: LASPDBYTEHEH5Pe6of()TeBdmyorahltopyfralorapnoftcsofanitoradfrtehlpttotsn(**S.3.ITHLORAPER18V.§)(ytoatithloisrdonJy1,2S.4.EED0Tsatslteetonp]
