@@ -1,0 +1,414 @@
+Title: 2 An act relating to the 340B prescription drug pricing program
+Official Title: 2 An act relating to the 340B prescription drug pricing program
+Number of Sections: 1
+Source: versions - As Passed by Both House and Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 1 of 8
+1 H.266
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 18 V.S.A. chapter 91, subchapter 6 is added to read:
+5 Subchapter 6. 340B Drug Pricing Program
+6 § 4681. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “340B contract pharmacy” means a pharmacy that has a contract
+9 with a 340B covered entity to receive and dispense 340B drugs to the 340B
+10 covered entity’s patients on the covered entity’s behalf.
+11 (2) “340B covered entity” means an entity participating or authorized to
+12 participate in the federal 340B drug pricing program, as described in 42 U.S.C.
+13 § 256b. The term includes a 340B covered entity’s pharmacy.
+14 (3) “340B drug” means a drug that has been subject to any offer for
+15 reduced prices by a manufacturer pursuant to 42 U.S.C. § 256b and is
+16 purchased by a 340B covered entity.
+17 (4) “Discount” means a reduction in the amount a 340B covered entity
+18 is charged for a 340B drug at the time of purchase.
+19 (5) “Manufacturer” has the same meaning as in 26 V.S.A. § 2022.
+20 (6) “Pharmacy” means a place licensed by the Vermont Board of
+21 Pharmacy at which drugs, chemicals, medicines, prescriptions, and poisons are
+22 compounded, dispensed, or sold at retail.
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 2 of 8
+1 (7) “Pharmacy benefit manager” has the same meaning as in section
+2 3602 of this title.
+3 (8) “Rebate” means a discount in which the terms are fixed and are
+4 disclosed in writing to a 340B covered entity at the time of the initial purchase
+5 of the 340B drug to which the discount applies, but which discount is not
+6 applied at the time of purchase.
+7 § 4682. DISCRIMINATION AGAINST 340B ENTITIES PROHIBITED
+8 (a) A manufacturer or its agent shall not deny, restrict, prohibit, or
+9 otherwise interfere with, directly or indirectly, the acquisition of a 340B drug
+10 by or delivery of a 340B drug to a 340B contract pharmacy on behalf of a
+11 340B covered entity unless receipt by the 340B contract pharmacy is
+12 prohibited by the U.S. Department of Health and Human Services.
+13 (b) A manufacturer or its agent shall not directly or indirectly require a
+14 340B covered entity to submit any claims, utilization, encounter, purchase, or
+15 other data as a condition for allowing the acquisition of a 340B drug by or
+16 delivery of a 340B drug to a 340B contract pharmacy unless the claims or
+17 utilization data sharing is required by the U.S. Department of Health and
+18 Human Services.
+19 (c) A manufacturer or its agent shall not interfere with the ability of a
+20 pharmacy contracted with a 340B covered entity to dispense 340B drugs to
+21 eligible patients of the 340B covered entity.
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 3 of 8
+1 (d) A manufacturer or its agent shall offer or otherwise make available
+2 340B drug pricing to a 340B covered entity or 340B contract pharmacy in the
+3 form of a discount at the time of purchase and shall not offer or otherwise
+4 make available 340B drug pricing in the form of a rebate.
+5 § 4683. MEDICAID UNAFFECTED
+6 Nothing in this subchapter shall be deemed to apply to the Vermont
+7 Medicaid program as payor.
+8 § 4684. VIOLATIONS
+9 (a) A 340B covered entity, 340B contract pharmacy, or other person
+10 injured by a manufacturer’s or its agent’s violation of this subchapter may
+11 bring an action in Superior Court for injunctive relief, compensatory and
+12 punitive damages, costs and reasonable attorney’s fees, and other appropriate
+13 relief.
+14 (b) A violation occurs each time a prohibited act is committed. For
+15 purposes of section 4682 of this subchapter, a prohibited act is defined as each
+16 package of 340B drugs that is subject to a discriminatory action by a
+17 manufacturer or its agent.
+18 § 4685. NO CONFLICT WITH FEDERAL LAW
+19 Nothing in this subchapter shall be construed or applied to conflict with or
+20 to be less restrictive than federal law for a person regulated by this subchapter.
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 4 of 8
+1 Sec. 2. 18 V.S.A. § 9406 is added to read:
+2 § 9406. REPORTING ON PARTICIPATION IN 340B DRUG PRICING
+3 PROGRAM
+4 (a) Annually on or before January 31, each hospital participating in the
+5 federal 340B drug pricing program established by 42 U.S.C. § 256b shall
+6 submit to the Green Mountain Care Board, in a form and manner prescribed by
+7 the Board, a report detailing the hospital’s participation in the program during
+8 the previous hospital fiscal year, which report shall be posted on the Green
+9 Mountain Care Board’s website and which shall contain at least the following
+10 information:
+11 (1)(A) For prescription drugs that the hospital or any entity acting on
+12 behalf of the hospital obtained through the 340B program and dispensed or
+13 administered to patients during the previous calendar year:
+14 (i) the aggregated acquisition cost for all such prescription drugs;
+15 and
+16 (ii) the aggregated payment amount that the hospital received for
+17 all such prescription drugs, with information reported separately for each of the
+18 following distribution channels:
+19 (I) dispensed drugs from an in-house pharmacy;
+20 (II) dispensed drugs from a contract pharmacy;
+21 (III) administered drugs paid separately; and
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 5 of 8
+1 (IV) administered drugs paid by bundled payments.
+2 (B) For administered drugs for which payment was bundled with
+3 payment for other services, as set forth in subdivision (A)(ii)(IV) of this
+4 subdivision (1), the hospital shall estimate the payment amount by comparing
+5 the actual acquisition cost for a drug to the wholesale acquisition cost for that
+6 drug.
+7 (2) The aggregated payment amount that the hospital made to
+8 pharmacies with which the hospital contracted to dispense drugs to its patients
+9 under the 340B program during the previous hospital fiscal year.
+10 (3) The aggregated payment amount that the hospital made to any other
+11 outside vendor for managing, administering, or facilitating any aspect of the
+12 hospital’s 340B drug program during the previous hospital fiscal year.
+13 (4) A description of the ways in which the hospital uses revenue from its
+14 participation in the 340B program to benefit its community through programs
+15 and services funded in whole or in part by revenue from the 340B program,
+16 including services that support community access to care that the hospital
+17 could not continue without this revenue.
+18 (5) A description of the hospital’s internal review and oversight of its
+19 participation in the 340B program in compliance with the U.S. Department of
+20 Health and Human Services, Health Resources and Services Administration’s
+21 340B program rules and guidance.
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 6 of 8
+1 (b) In addition to the vendor information required pursuant to subdivision
+2 (a)(3) of this section, each hospital shall also provide to the Board a list of the
+3 names of all vendors that managed, administered, or facilitated any aspect of
+4 the hospital’s 340B program during the previous calendar year, along with a
+5 brief description of the work performed by each vendor. The vendor
+6 information reported pursuant to this subsection shall be exempt from public
+7 inspection and copying under the Public Records Act and shall be kept
+8 confidential, except that the Board shall provide the information to the Office
+9 of the Health Care Advocate, which shall not further disclose this confidential
+10 information.
+11 Sec. 3. REPEAL
+12 Sec. 2 (18 V.S.A. § 9406; reporting on participation in 340B drug pricing
+13 program) is repealed on January 1, 2031.
+14 Sec. 4. 18 V.S.A. § 9407 is added to read:
+15 § 9407. OUTPATIENT PRESCRIPTION DRUGS; LIMITATIONS ON
+16 HOSPITAL CHARGES
+17 (a)(1) A hospital shall not submit a claim to a health insurer for
+18 reimbursement of a prescription drug administered in an outpatient or office
+19 setting in an amount that exceeds 120 percent of the average sales price (ASP),
+20 as calculated by the Centers for Medicare and Medicaid Services, for any drug
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 7 of 8
+1 for which the hospital charged any health insurer more than 120 percent of the
+2 ASP in effect as of April 1, 2025.
+3 (2) For any prescription drug administered in an outpatient or office
+4 setting for which a hospital charged a health insurer 120 percent or less of the
+5 ASP in effect as of April 1, 2025, the hospital shall not charge the health
+6 insurer a greater percentage of the ASP, as calculated by the Centers for
+7 Medicare and Medicaid, for that drug than the percentage of the ASP that the
+8 hospital charged the health insurer as of April 1, 2025.
+9 (3) A hospital shall update the ASP for each drug annually on January 1
+10 and July 1 based on the Centers for Medicare and Medicaid Services’ ASP
+11 calculations for the most recent calendar quarter.
+12 (b)(1) The purpose of this section is to reduce health care costs. A hospital
+13 shall not charge or collect from the patient or health insurer any amount for a
+14 prescription drug administered in an outpatient or office setting that exceeds
+15 the amounts set forth in subsection (a) of this section or increase the amounts
+16 the hospital charges for other prescription drugs, procedures, tests, imaging, or
+17 other health care goods or services in an effort to offset revenue reduced as a
+18 result of implementing this section.
+19 (2) If a hospital demonstrates to the Green Mountain Care Board in its
+20 budget submissions pursuant to subchapter 7 of this chapter that the price cap
+21 set forth in subsection (a) of this section is having a negative impact on access
+VT LEG #384075 v.1
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 8 of 8
+1 to care, the quality of care, or the sustainability of rural health care services, or
+2 a combination of these, the hospital may propose to increase the commercial
+3 reimbursement rates for one or more of its service lines, such as primary care,
+4 and the Board shall consider both the demonstrated impact and the proposed
+5 increase to reimbursement rates.
+6 (c) The provisions of this section shall remain in effect unless and until the
+7 Green Mountain Care Board establishes a different reference-based price
+8 pursuant to section 9376 of this title that applies to prescription drugs
+9 administered in an outpatient or office setting.
+10 (d) This section shall not apply to an independent hospital that is
+11 designated as a critical access hospital and that is not affiliated with another
+12 hospital or hospital network based in or outside of Vermont.
+13 Sec. 5. [Deleted.]
+14 Sec. 6. EFFECTIVE DATES
+15 (a) Sec. 4 (18 V.S.A. § 9407; outpatient prescription drugs; limitations on
+16 hospital charges) shall take effect on January 1, 2026.
+17 (b) The remainder of this act shall take effect on passage, with the first
+18 report under Sec. 2 (18 V.S.A. § 9406) due on or before January 31, 2026.
+VT LEG #384075 v.1
+[DELETED:  H P H A I S S § A ( w c ( p § ( r p ( i ( ( P c]
+[DELETED:  H P ( 3 ( d o a § ( o b 3 p ( 3 o d u H ( p e]
+[DELETED:  H P ( 3 f m § N M § ( i b p r ( p p m § N t]
+[DELETED:  H P S §   ( f s t t M i ( b a ( a ( a f ( ( (]
+[DELETED:  H P ( ( p s t d ( p u ( o h ( p a i c ( p H 3]
+[DELETED:  H P ( ( n t b i i c o i S S p S §   ( r s a]
+[DELETED:  H P f A ( s A i M h ( a c ( s p t t o r ( b s]
+[DELETED:  H P t a r a i ( G p a ( d h S S ( h ( r]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 1 of 8
+1 H.266
+2 An act relating to the 340B prescription drug pricing program
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 18 V.S.A. chapter 91, subchapter 6 is added to read:
+5 Subchapter 6. 340B Drug Pricing Program
+6 § 4681. DEFINITIONS
+7 As used in this subchapter:
+8 (1) “340B contract pharmacy” means a pharmacy that has a contract
+9 with a 340B covered entity to receive and dispense 340B drugs to the 340B
+10 covered entity’s patients on the covered entity’s behalf.
+11 (2) “340B covered entity” means an entity participating or authorized to
+12 participate in the federal 340B drug pricing program, as described in 42 U.S.C.
+13 § 256b. The term includes a 340B covered entity’s pharmacy.
+14 (3) “340B drug” means a drug that has been subject to any offer for
+15 reduced prices by a manufacturer pursuant to 42 U.S.C. § 256b and is
+16 purchased by a 340B covered entity.
+17 (4) “Discount” means a reduction in the amount a 340B covered entity
+18 is charged for a 340B drug at the time of purchase.
+19 (5) “Manufacturer” has the same meaning as in 26 V.S.A. § 2022.
+20 (6) “Pharmacy” means a place licensed by the Vermont Board of
+21 Pharmacy at which drugs, chemicals, medicines, prescriptions, and poisons are
+22 compounded, dispensed, or sold at retail.
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 2 of 8
+1 (7) “Pharmacy benefit manager” has the same meaning as in section
+2 3602 of this title.
+3 (8) “Rebate” means a discount in which the terms are fixed and are
+4 disclosed in writing to a 340B covered entity at the time of the initial purchase
+5 of the 340B drug to which the discount applies, but which discount is not
+6 applied at the time of purchase.
+7 § 4682. DISCRIMINATION AGAINST 340B ENTITIES PROHIBITED
+8 (a) A manufacturer or its agent shall not deny, restrict, prohibit, or
+9 otherwise interfere with, directly or indirectly, the acquisition of a 340B drug
+10 by or delivery of a 340B drug to a 340B contract pharmacy on behalf of a
+11 340B covered entity unless receipt by the 340B contract pharmacy is
+12 prohibited by the U.S. Department of Health and Human Services.
+13 (b) A manufacturer or its agent shall not directly or indirectly require a
+14 340B covered entity to submit any claims, utilization, encounter, purchase, or
+15 other data as a condition for allowing the acquisition of a 340B drug by or
+16 delivery of a 340B drug to a 340B contract pharmacy unless the claims or
+17 utilization data sharing is required by the U.S. Department of Health and
+18 Human Services.
+19 (c) A manufacturer or its agent shall not interfere with the ability of a
+20 pharmacy contracted with a 340B covered entity to dispense 340B drugs to
+21 eligible patients of the 340B covered entity.
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 3 of 8
+1 (d) A manufacturer or its agent shall offer or otherwise make available
+2 340B drug pricing to a 340B covered entity or 340B contract pharmacy in the
+3 form of a discount at the time of purchase and shall not offer or otherwise
+4 make available 340B drug pricing in the form of a rebate.
+5 § 4683. MEDICAID UNAFFECTED
+6 Nothing in this subchapter shall be deemed to apply to the Vermont
+7 Medicaid program as payor.
+8 § 4684. VIOLATIONS
+9 (a) A 340B covered entity, 340B contract pharmacy, or other person
+10 injured by a manufacturer’s or its agent’s violation of this subchapter may
+11 bring an action in Superior Court for injunctive relief, compensatory and
+12 punitive damages, costs and reasonable attorney’s fees, and other appropriate
+13 relief.
+14 (b) A violation occurs each time a prohibited act is committed. For
+15 purposes of section 4682 of this subchapter, a prohibited act is defined as each
+16 package of 340B drugs that is subject to a discriminatory action by a
+17 manufacturer or its agent.
+18 § 4685. NO CONFLICT WITH FEDERAL LAW
+19 Nothing in this subchapter shall be construed or applied to conflict with or
+20 to be less restrictive than federal law for a person regulated by this subchapter.
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 4 of 8
+1 Sec. 2. 18 V.S.A. § 9406 is added to read:
+2 § 9406. REPORTING ON PARTICIPATION IN 340B DRUG PRICING
+3 PROGRAM
+4 (a) Annually on or before January 31, each hospital participating in the
+5 federal 340B drug pricing program established by 42 U.S.C. § 256b shall
+6 submit to the Green Mountain Care Board, in a form and manner prescribed by
+7 the Board, a report detailing the hospital’s participation in the program during
+8 the previous hospital fiscal year, which report shall be posted on the Green
+9 Mountain Care Board’s website and which shall contain at least the following
+10 information:
+11 (1)(A) For prescription drugs that the hospital or any entity acting on
+12 behalf of the hospital obtained through the 340B program and dispensed or
+13 administered to patients during the previous calendar year:
+14 (i) the aggregated acquisition cost for all such prescription drugs;
+15 and
+16 (ii) the aggregated payment amount that the hospital received for
+17 all such prescription drugs, with information reported separately for each of the
+18 following distribution channels:
+19 (I) dispensed drugs from an in-house pharmacy;
+20 (II) dispensed drugs from a contract pharmacy;
+21 (III) administered drugs paid separately; and
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 5 of 8
+1 (IV) administered drugs paid by bundled payments.
+2 (B) For administered drugs for which payment was bundled with
+3 payment for other services, as set forth in subdivision (A)(ii)(IV) of this
+4 subdivision (1), the hospital shall estimate the payment amount by comparing
+5 the actual acquisition cost for a drug to the wholesale acquisition cost for that
+6 drug.
+7 (2) The aggregated payment amount that the hospital made to
+8 pharmacies with which the hospital contracted to dispense drugs to its patients
+9 under the 340B program during the previous hospital fiscal year.
+10 (3) The aggregated payment amount that the hospital made to any other
+11 outside vendor for managing, administering, or facilitating any aspect of the
+12 hospital’s 340B drug program during the previous hospital fiscal year.
+13 (4) A description of the ways in which the hospital uses revenue from its
+14 participation in the 340B program to benefit its community through programs
+15 and services funded in whole or in part by revenue from the 340B program,
+16 including services that support community access to care that the hospital
+17 could not continue without this revenue.
+18 (5) A description of the hospital’s internal review and oversight of its
+19 participation in the 340B program in compliance with the U.S. Department of
+20 Health and Human Services, Health Resources and Services Administration’s
+21 340B program rules and guidance.
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 6 of 8
+1 (b) In addition to the vendor information required pursuant to subdivision
+2 (a)(3) of this section, each hospital shall also provide to the Board a list of the
+3 names of all vendors that managed, administered, or facilitated any aspect of
+4 the hospital’s 340B program during the previous calendar year, along with a
+5 brief description of the work performed by each vendor. The vendor
+6 information reported pursuant to this subsection shall be exempt from public
+7 inspection and copying under the Public Records Act and shall be kept
+8 confidential, except that the Board shall provide the information to the Office
+9 of the Health Care Advocate, which shall not further disclose this confidential
+10 information.
+11 Sec. 3. REPEAL
+12 Sec. 2 (18 V.S.A. § 9406; reporting on participation in 340B drug pricing
+13 program) is repealed on January 1, 2031.
+14 Sec. 4. 18 V.S.A. § 9407 is added to read:
+15 § 9407. OUTPATIENT PRESCRIPTION DRUGS; LIMITATIONS ON
+16 HOSPITAL CHARGES
+17 (a)(1) A hospital shall not submit a claim to a health insurer for
+18 reimbursement of a prescription drug administered in an outpatient or office
+19 setting in an amount that exceeds 120 percent of the average sales price (ASP),
+20 as calculated by the Centers for Medicare and Medicaid Services, for any drug
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 7 of 8
+1 for which the hospital charged any health insurer more than 120 percent of the
+2 ASP in effect as of April 1, 2025.
+3 (2) For any prescription drug administered in an outpatient or office
+4 setting for which a hospital charged a health insurer 120 percent or less of the
+5 ASP in effect as of April 1, 2025, the hospital shall not charge the health
+6 insurer a greater percentage of the ASP, as calculated by the Centers for
+7 Medicare and Medicaid, for that drug than the percentage of the ASP that the
+8 hospital charged the health insurer as of April 1, 2025.
+9 (3) A hospital shall update the ASP for each drug annually on January 1
+10 and July 1 based on the Centers for Medicare and Medicaid Services’ ASP
+11 calculations for the most recent calendar quarter.
+12 (b)(1) The purpose of this section is to reduce health care costs. A hospital
+13 shall not charge or collect from the patient or health insurer any amount for a
+14 prescription drug administered in an outpatient or office setting that exceeds
+15 the amounts set forth in subsection (a) of this section or increase the amounts
+16 the hospital charges for other prescription drugs, procedures, tests, imaging, or
+17 other health care goods or services in an effort to offset revenue reduced as a
+18 result of implementing this section.
+19 (2) If a hospital demonstrates to the Green Mountain Care Board in its
+20 budget submissions pursuant to subchapter 7 of this chapter that the price cap
+21 set forth in subsection (a) of this section is having a negative impact on access
+VT LEG #384075 v.1
+
+AS PASSED BY HOUSE AND SENATE H.266
+2025 Page 8 of 8
+1 to care, the quality of care, or the sustainability of rural health care services, or
+2 a combination of these, the hospital may propose to increase the commercial
+3 reimbursement rates for one or more of its service lines, such as primary care,
+4 and the Board shall consider both the demonstrated impact and the proposed
+5 increase to reimbursement rates.
+6 (c) The provisions of this section shall remain in effect unless and until the
+7 Green Mountain Care Board establishes a different reference-based price
+8 pursuant to section 9376 of this title that applies to prescription drugs
+9 administered in an outpatient or office setting.
+10 (d) This section shall not apply to an independent hospital that is
+11 designated as a critical access hospital and that is not affiliated with another
+12 hospital or hospital network based in or outside of Vermont.
+13 Sec. 5. [Deleted.]
+14 Sec. 6. EFFECTIVE DATES
+15 (a) Sec. 4 (18 V.S.A. § 9407; outpatient prescription drugs; limitations on
+16 hospital charges) shall take effect on January 1, 2026.
+17 (b) The remainder of this act shall take effect on passage, with the first
+18 report under Sec. 2 (18 V.S.A. § 9406) due on or before January 31, 2026.
+VT LEG #384075 v.1
+
+[DELETED:  H P H A I S S § A ( w c ( p § ( r p ( i ( ( P c]
+[DELETED:  H P ( 3 ( d o a § ( o b 3 p ( 3 o d u H ( p e]
+[DELETED:  H P ( 3 f m § N M § ( i b p r ( p p m § N t]
+[DELETED:  H P S §   ( f s t t M i ( b a ( a ( a f ( ( (]
+[DELETED:  H P ( ( p s t d ( p u ( o h ( p a i c ( p H 3]
+[DELETED:  H P ( ( n t b i i c o i S S p S §   ( r s a]
+[DELETED:  H P f A ( s A i M h ( a c ( s p t t o r ( b s]
+[DELETED:  H P t a r a i ( G p a ( d h S S ( h ( r]

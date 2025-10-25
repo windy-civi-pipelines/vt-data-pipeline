@@ -1,0 +1,186 @@
+Title: BILL AS INTRODUCED S.86
+Official Title: BILL AS INTRODUCED S.86
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 S.86
+2 Introduced by Senators Hardy, Clarkson and Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; campaign finance; reporting requirements; disclosures;
+6 failure to file; penalties
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 candidates for State and county offices to submit a report and affirmative
+9 statement when the candidate has not made expenditures or received
+10 contributions in an amount that would otherwise require disclosure under 17
+11 V.S.A. § 2964. This bill also proposes to create penalties for the delinquent
+12 filing of a registration, report, or disclosure required by 17 V.S.A. chapter 61
+13 (campaign finance).
+14 An act relating to establishing penalties for the failure of a candidate to file
+15 campaign finance disclosures
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 17 V.S.A. § 2964 is amended to read:
+18 § 2964. CAMPAIGN REPORTS; CANDIDATES FOR STATE OFFICE,
+19 THE GENERAL ASSEMBLY, AND COUNTY OFFICE;
+20 POLITICAL COMMITTEES; POLITICAL PARTIES
+VT LEG #380297 v.2
+BILL AS INTRODUCED S.86
+2025 Page 2 of 4
+1 * * *
+2 (c) The failure of a candidate, political committee, or political party to file a
+3 report under this section shall be deemed an affirmative statement that a report
+4 is not required of the candidate, political committee, or political party under
+5 this section.
+6 (d) Each candidate for State office, the General Assembly, a two-year-term
+7 county office, or a four-year term county office who is not otherwise required
+8 to file a report pursuant to this section shall file with the Secretary of State a
+9 report and affirmative statement that the candidate has not made expenditures
+10 or accepted contributions in the amounts specified in this section.
+11 Sec. 2. 17 V.S.A. § 2974 is added to read:
+12 § 2974. DELINQUENT FILING; PENALTIES
+13 (a) If any registration, report, or disclosure is not filed in the time and
+14 manner required by this chapter:
+15 (1) The Office of the Secretary of State shall issue a notice of
+16 delinquency to the candidate for any registration, report, or disclosure required
+17 of a candidate in the time and manner required by this chapter.
+18 (2) The candidate shall have five business days from the date that the
+19 Office of the Secretary of State issues the notice to cure the delinquency.
+20 (3) Immediately following the five business day period, the delinquent
+21 candidate shall pay a $10.00 penalty for each subsequent day that the
+VT LEG #380297 v.2
+BILL AS INTRODUCED S.86
+2025 Page 3 of 4
+1 registration, report, or disclosure remains delinquent. For an individual
+2 delinquent filing, the total amount of penalties imposed pursuant to this section
+3 shall not exceed $1,000.00.
+4 (4) Notwithstanding subdivision (3) of this subsection, the Secretary of
+5 State may reduce or waive any penalty imposed under this section if the
+6 candidate demonstrates good cause, as determined by the Secretary of State.
+7 (b) The Office of the Secretary of State shall send a notice of delinquency
+8 to the email address provided by the candidate in the candidate’s consent of
+9 candidate form.
+10 (c) The Secretary of State may utilize remedies available to a claimant
+11 agency under 32 V.S.A. chapter 151, subchapter 12 to collect any unpaid
+12 penalty.
+13 (d)(1) A candidate who files a report or disclosure with intent to defraud,
+14 falsify, conceal, or cover up by any trick, scheme, or device a material fact; or,
+15 with intent to defraud, make any false, fictitious, or fraudulent claim or
+16 representation as to a material fact; or, with intent to defraud, make or use any
+17 writing or document knowing the same to contain any false, fictitious, or
+18 fraudulent claim or entry as to a material fact shall be considered to have made
+19 a false claim for the purposes of 13 V.S.A. § 3016.
+20 (2) Pursuant to 3 V.S.A. § 1223 and section 2904a of this title,
+21 complaints regarding any candidate who fails to properly file a registration,
+VT LEG #380297 v.2
+BILL AS INTRODUCED S.86
+2025 Page 4 of 4
+1 report, or disclosure required under this chapter may be filed with the Office of
+2 the Secretary of State. The Secretary of State shall refer complaints to the
+3 Attorney General or to the State’s Attorney of jurisdiction for investigation, as
+4 appropriate.
+5 Sec. 3. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #380297 v.2
+[DELETED:  S P S I S R D S f S c s c V f ( A c I S §    ]
+[DELETED:  S P * ( r i t ( c t r o S § ( m ( d o ( O ( c]
+[DELETED:  S P r d s ( S c ( t c ( a p ( f w r w f a ( c]
+[DELETED:  S P r t A a S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.86
+2025 Page 1 of 4
+1 S.86
+2 Introduced by Senators Hardy, Clarkson and Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; campaign finance; reporting requirements; disclosures;
+6 failure to file; penalties
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 candidates for State and county offices to submit a report and affirmative
+9 statement when the candidate has not made expenditures or received
+10 contributions in an amount that would otherwise require disclosure under 17
+11 V.S.A. § 2964. This bill also proposes to create penalties for the delinquent
+12 filing of a registration, report, or disclosure required by 17 V.S.A. chapter 61
+13 (campaign finance).
+14 An act relating to establishing penalties for the failure of a candidate to file
+15 campaign finance disclosures
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 17 V.S.A. § 2964 is amended to read:
+18 § 2964. CAMPAIGN REPORTS; CANDIDATES FOR STATE OFFICE,
+19 THE GENERAL ASSEMBLY, AND COUNTY OFFICE;
+20 POLITICAL COMMITTEES; POLITICAL PARTIES
+VT LEG #380297 v.2
+
+BILL AS INTRODUCED S.86
+2025 Page 2 of 4
+1 * * *
+2 (c) The failure of a candidate, political committee, or political party to file a
+3 report under this section shall be deemed an affirmative statement that a report
+4 is not required of the candidate, political committee, or political party under
+5 this section.
+6 (d) Each candidate for State office, the General Assembly, a two-year-term
+7 county office, or a four-year term county office who is not otherwise required
+8 to file a report pursuant to this section shall file with the Secretary of State a
+9 report and affirmative statement that the candidate has not made expenditures
+10 or accepted contributions in the amounts specified in this section.
+11 Sec. 2. 17 V.S.A. § 2974 is added to read:
+12 § 2974. DELINQUENT FILING; PENALTIES
+13 (a) If any registration, report, or disclosure is not filed in the time and
+14 manner required by this chapter:
+15 (1) The Office of the Secretary of State shall issue a notice of
+16 delinquency to the candidate for any registration, report, or disclosure required
+17 of a candidate in the time and manner required by this chapter.
+18 (2) The candidate shall have five business days from the date that the
+19 Office of the Secretary of State issues the notice to cure the delinquency.
+20 (3) Immediately following the five business day period, the delinquent
+21 candidate shall pay a $10.00 penalty for each subsequent day that the
+VT LEG #380297 v.2
+
+BILL AS INTRODUCED S.86
+2025 Page 3 of 4
+1 registration, report, or disclosure remains delinquent. For an individual
+2 delinquent filing, the total amount of penalties imposed pursuant to this section
+3 shall not exceed $1,000.00.
+4 (4) Notwithstanding subdivision (3) of this subsection, the Secretary of
+5 State may reduce or waive any penalty imposed under this section if the
+6 candidate demonstrates good cause, as determined by the Secretary of State.
+7 (b) The Office of the Secretary of State shall send a notice of delinquency
+8 to the email address provided by the candidate in the candidate’s consent of
+9 candidate form.
+10 (c) The Secretary of State may utilize remedies available to a claimant
+11 agency under 32 V.S.A. chapter 151, subchapter 12 to collect any unpaid
+12 penalty.
+13 (d)(1) A candidate who files a report or disclosure with intent to defraud,
+14 falsify, conceal, or cover up by any trick, scheme, or device a material fact; or,
+15 with intent to defraud, make any false, fictitious, or fraudulent claim or
+16 representation as to a material fact; or, with intent to defraud, make or use any
+17 writing or document knowing the same to contain any false, fictitious, or
+18 fraudulent claim or entry as to a material fact shall be considered to have made
+19 a false claim for the purposes of 13 V.S.A. § 3016.
+20 (2) Pursuant to 3 V.S.A. § 1223 and section 2904a of this title,
+21 complaints regarding any candidate who fails to properly file a registration,
+VT LEG #380297 v.2
+
+BILL AS INTRODUCED S.86
+2025 Page 4 of 4
+1 report, or disclosure required under this chapter may be filed with the Office of
+2 the Secretary of State. The Secretary of State shall refer complaints to the
+3 Attorney General or to the State’s Attorney of jurisdiction for investigation, as
+4 appropriate.
+5 Sec. 3. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #380297 v.2
+
+[DELETED:  S P S I S R D S f S c s c V f ( A c I S §    ]
+[DELETED:  S P * ( r i t ( c t r o S § ( m ( d o ( O ( c]
+[DELETED:  S P r d s ( S c ( t c ( a p ( f w r w f a ( c]
+[DELETED:  S P r t A a S T]

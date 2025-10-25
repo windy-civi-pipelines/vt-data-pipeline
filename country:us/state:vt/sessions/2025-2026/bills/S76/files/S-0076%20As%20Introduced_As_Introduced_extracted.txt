@@ -1,0 +1,192 @@
+Title: BILL AS INTRODUCED S.76
+Official Title: BILL AS INTRODUCED S.76
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 S.76
+2 Introduced by Senator Lyons
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health equity reporting; cancer registry; amyotrophic lateral
+6 sclerosis registry; disclosure of identifying information
+7 Statement of purpose of bill as introduced: This bill proposes to reduce from
+8 annually to every three years the submission of a report by the Department of
+9 Health analyzing health equity data. It further proposes to amend the
+10 disclosure provisions pertaining to the cancer and amyotrophic lateral sclerosis
+11 registries.
+12 An act relating to health equity data reporting and registry disclosure
+13 requirements
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 * * * Health Equity Data Reporting * * *
+16 Sec. 1. 18 V.S.A. § 253 is amended to read:
+17 § 253. DATA RESPONSIVE TO HEALTH EQUITY INQUIRIES
+18 * * *
+19 (b)(1) The Department of Health shall systematically analyze such health
+20 equity data using the smallest appropriate units of analysis feasible to detect
+VT LEG #380604 v.1
+BILL AS INTRODUCED S.76
+2025 Page 2 of 4
+1 racial and ethnic disparities, as well as disparities along the lines of primary
+2 language, sex, disability status, sexual orientation, gender identity, and
+3 socioeconomic status, and report the results of such analysis on the
+4 Department’s website periodically, but not less than biannually. The
+5 Department’s analysis shall be used to measure over time the impact of actions
+6 taken to reduce health disparities in Vermont. The data informing the
+7 Department’s analysis shall be made available to the public in accordance with
+8 State and federal law.
+9 (2) Annually Every three years beginning in 2028, on or before January
+10 15, the Department shall submit a report containing the results of the analysis
+11 conducted pursuant to subdivision (1) of this subsection to the Senate
+12 Committee on Health and Welfare and to the House Committees on Health
+13 Care and on Human Services.
+14 * * * Cancer Registry Disclosure Requirements * * *
+15 Sec. 2. 18 V.S.A. § 155 is amended to read:
+16 § 155. DISCLOSURE
+17 * * *
+18 (b) The Commissioner may furnish confidential information to the National
+19 Breast and Cervical Cancer Early Detection Program, other states’ cancer
+20 registries, federal cancer control agencies, or health researchers in order to
+21 collaborate in a national cancer registry or to collaborate in cancer control and
+VT LEG #380604 v.1
+BILL AS INTRODUCED S.76
+2025 Page 3 of 4
+1 prevention research studies. However, before releasing confidential
+2 information, the Commissioner shall first obtain from such state registries,
+3 agencies, or researchers an agreement in writing to keep assurances acceptable
+4 to the Commissioner that the identifying information shall be kept confidential
+5 and privileged as required by law. In the case of researchers, the
+6 Commissioner shall also first obtain evidence of the approval of their academic
+7 committee for the protection of human subjects established in accordance with
+8 45 C.F.R. part 46 an institutional review board or privacy board in accordance
+9 with 45 C.F.R. § 164.512(i)(1)(i)(A) and (B).
+10 * * * Amyotrophic Lateral Sclerosis Registry Disclosure Requirements * * *
+11 Sec. 3. 18 V.S.A. § 174 is amended to read:
+12 § 174. CONFIDENTIALITY
+13 (a)(1) All identifying information regarding an individual patient or health
+14 care provider is exempt from public inspection and copying under the Public
+15 Records Act and shall be kept confidential.
+16 (2) Notwithstanding subdivision (1) of this subsection, the
+17 Commissioner may enter into data sharing and protection agreements with
+18 researchers or state, regional, or national amyotrophic lateral sclerosis
+19 registries for bidirectional data exchange, provided access under such
+20 agreements is consistent with the privacy, security, and disclosure protections
+21 in this chapter. In the case of researchers, the Commissioner shall also first
+VT LEG #380604 v.1
+BILL AS INTRODUCED S.76
+2025 Page 4 of 4
+1 obtain evidence of the approval of their academic committee for the protection
+2 of human subjects established in accordance with 45 C.F.R. Part 46 an
+3 institutional review board or privacy board in accordance with 45 C.F.R.
+4 § 164.512(i)(1)(i)(A) and (B). The Commissioner shall disclose the minimum
+5 information necessary to accomplish a specified research purpose.
+6 * * *
+7 * * * Effective Date * * *
+8 Sec. 4. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #380604 v.1
+[DELETED:  S P S I S R D S s S a H d r A r I * S § * ( e]
+[DELETED:  S P r l s D D t D S ( 1 c C C * S § * ( B r c]
+[DELETED:  S P p i a t a C c 4 w * S § ( c R ( C r r a i]
+[DELETED:  S P o o i § i * * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.76
+2025 Page 1 of 4
+1 S.76
+2 Introduced by Senator Lyons
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health equity reporting; cancer registry; amyotrophic lateral
+6 sclerosis registry; disclosure of identifying information
+7 Statement of purpose of bill as introduced: This bill proposes to reduce from
+8 annually to every three years the submission of a report by the Department of
+9 Health analyzing health equity data. It further proposes to amend the
+10 disclosure provisions pertaining to the cancer and amyotrophic lateral sclerosis
+11 registries.
+12 An act relating to health equity data reporting and registry disclosure
+13 requirements
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 * * * Health Equity Data Reporting * * *
+16 Sec. 1. 18 V.S.A. § 253 is amended to read:
+17 § 253. DATA RESPONSIVE TO HEALTH EQUITY INQUIRIES
+18 * * *
+19 (b)(1) The Department of Health shall systematically analyze such health
+20 equity data using the smallest appropriate units of analysis feasible to detect
+VT LEG #380604 v.1
+
+BILL AS INTRODUCED S.76
+2025 Page 2 of 4
+1 racial and ethnic disparities, as well as disparities along the lines of primary
+2 language, sex, disability status, sexual orientation, gender identity, and
+3 socioeconomic status, and report the results of such analysis on the
+4 Department’s website periodically, but not less than biannually. The
+5 Department’s analysis shall be used to measure over time the impact of actions
+6 taken to reduce health disparities in Vermont. The data informing the
+7 Department’s analysis shall be made available to the public in accordance with
+8 State and federal law.
+9 (2) Annually Every three years beginning in 2028, on or before January
+10 15, the Department shall submit a report containing the results of the analysis
+11 conducted pursuant to subdivision (1) of this subsection to the Senate
+12 Committee on Health and Welfare and to the House Committees on Health
+13 Care and on Human Services.
+14 * * * Cancer Registry Disclosure Requirements * * *
+15 Sec. 2. 18 V.S.A. § 155 is amended to read:
+16 § 155. DISCLOSURE
+17 * * *
+18 (b) The Commissioner may furnish confidential information to the National
+19 Breast and Cervical Cancer Early Detection Program, other states’ cancer
+20 registries, federal cancer control agencies, or health researchers in order to
+21 collaborate in a national cancer registry or to collaborate in cancer control and
+VT LEG #380604 v.1
+
+BILL AS INTRODUCED S.76
+2025 Page 3 of 4
+1 prevention research studies. However, before releasing confidential
+2 information, the Commissioner shall first obtain from such state registries,
+3 agencies, or researchers an agreement in writing to keep assurances acceptable
+4 to the Commissioner that the identifying information shall be kept confidential
+5 and privileged as required by law. In the case of researchers, the
+6 Commissioner shall also first obtain evidence of the approval of their academic
+7 committee for the protection of human subjects established in accordance with
+8 45 C.F.R. part 46 an institutional review board or privacy board in accordance
+9 with 45 C.F.R. § 164.512(i)(1)(i)(A) and (B).
+10 * * * Amyotrophic Lateral Sclerosis Registry Disclosure Requirements * * *
+11 Sec. 3. 18 V.S.A. § 174 is amended to read:
+12 § 174. CONFIDENTIALITY
+13 (a)(1) All identifying information regarding an individual patient or health
+14 care provider is exempt from public inspection and copying under the Public
+15 Records Act and shall be kept confidential.
+16 (2) Notwithstanding subdivision (1) of this subsection, the
+17 Commissioner may enter into data sharing and protection agreements with
+18 researchers or state, regional, or national amyotrophic lateral sclerosis
+19 registries for bidirectional data exchange, provided access under such
+20 agreements is consistent with the privacy, security, and disclosure protections
+21 in this chapter. In the case of researchers, the Commissioner shall also first
+VT LEG #380604 v.1
+
+BILL AS INTRODUCED S.76
+2025 Page 4 of 4
+1 obtain evidence of the approval of their academic committee for the protection
+2 of human subjects established in accordance with 45 C.F.R. Part 46 an
+3 institutional review board or privacy board in accordance with 45 C.F.R.
+4 § 164.512(i)(1)(i)(A) and (B). The Commissioner shall disclose the minimum
+5 information necessary to accomplish a specified research purpose.
+6 * * *
+7 * * * Effective Date * * *
+8 Sec. 4. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #380604 v.1
+
+[DELETED:  S P S I S R D S s S a H d r A r I * S § * ( e]
+[DELETED:  S P r l s D D t D S ( 1 c C C * S § * ( B r c]
+[DELETED:  S P p i a t a C c 4 w * S § ( c R ( C r r a i]
+[DELETED:  S P o o i § i * * S T]

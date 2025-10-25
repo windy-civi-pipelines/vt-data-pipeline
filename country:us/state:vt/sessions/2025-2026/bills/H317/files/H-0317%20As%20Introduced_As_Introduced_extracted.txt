@@ -1,0 +1,300 @@
+Title: BILL AS INTRODUCED H.317
+Official Title: BILL AS INTRODUCED H.317
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 6
+1 H.317
+2 Introduced by Representatives Casey of Montpelier, Birong of Vergennes,
+3 Cooper of Pownal, Duke of Burlington, Galfetti of Barre Town,
+4 Greer of Bennington, Headrick of Burlington, Hooper of
+5 Randolph, Hooper of Burlington, Maguire of Rutland City,
+6 Masland of Thetford, Morris of Springfield, Ode of Burlington,
+7 Pinsonault of Dorset, Sibilia of Dover, Squirrell of Underhill,
+8 Toof of St. Albans Town, Waszazak of Barre City, and
+9 Yacovone of Morristown
+10 Referred to Committee on
+11 Date:
+12 Subject: Commerce and trade; credit card fees
+13 Statement of purpose of bill as introduced: This bill proposes to prohibit credit
+14 card fees on the amount of a transaction that is tax or gratuity.
+15 An act relating to credit card fees on taxes and gratuities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 9 V.S.A. chapter 63, subchapter 4A is added to read:
+18 Subchapter 4A. Credit Card Fees on Taxes and Gratuities
+19 § 2480s. PROHIBITION ON FEES
+20 (a) As used in this subchapter:
+VT LEG #379549 v.1
+BILL AS INTRODUCED H.317
+2025 Page 2 of 6
+1 (1) “Acquirer bank” means a member of a payment card network that
+2 contracts with a merchant either directly or indirectly through a processor for
+3 the settlement of electronic payment transactions.
+4 (2) “Electronic payment transaction” or “transaction” means a
+5 transaction in which a person uses a debit card, credit card, or other payment
+6 code or device issued or approved through a payment card network to debit a
+7 deposit account or use a line of credit, whether authorization is based on a
+8 signature, a personal identification number, or other means.
+9 (3) “Gratuity” means:
+10 (A) voluntary monetary contribution received by a merchant from a
+11 guest, patron, or customer for services rendered; and
+12 (B) an automatic service fee received by a merchant from a guest,
+13 patron, or customer for services rendered that is intended to replace the need
+14 for a voluntary monetary contribution pursuant to subdivision (A) of this
+15 subdivision (3).
+16 (4) “Interchange fee” means a fee established, charged, or received by a
+17 payment card network for the purpose of compensating the issuer for its
+18 involvement in an electronic payment transaction.
+19 (5) “Issuer” means a person who issues a debit card or a credit card.
+20 (6) “Merchant” means a person that collects and remits a tax.
+VT LEG #379549 v.1
+BILL AS INTRODUCED H.317
+2025 Page 3 of 6
+1 (7) “Payment card network” means an entity that directly or through
+2 licensed members, processors, or agents provides the proprietary services,
+3 infrastructure, and software that route information and data to facilitate
+4 transaction authorization, clearance, and settlement, and that merchants are
+5 required to access in order to accept a specific brand of general-purpose credit
+6 cards, charge cards, debit cards, or stored-value cards as payment for goods
+7 and services.
+8 (8) “Processor” means an entity that facilitates, services, processes, or
+9 manages a debit card or credit card authorization, billing, transfer, payment
+10 procedures, or settlement with respect to an electronic payment transaction.
+11 (b) Requirements.
+12 (1) With respect to transactions involving a merchant and subject to the
+13 restrictions set forth in subdivision (2) of this subsection, no issuer, payment
+14 card network, acquirer bank, or processor shall charge or collect from a
+15 merchant an interchange fee on the amount of the transaction that is a:
+16 (A) tax; or
+17 (B) gratuity.
+18 (2)(A) A merchant shall transmit the amount of a transaction that is tax
+19 and gratuity to the acquirer bank, payment card network, issuer, or any
+20 designee of the foregoing as part of the transaction’s authorization or
+21 settlement process.
+VT LEG #379549 v.1
+BILL AS INTRODUCED H.317
+2025 Page 4 of 6
+1 (B) An acquirer bank, payment card network, issuer, or any designee
+2 of the foregoing that does not receive from a merchant the amount of a
+3 transaction that is tax and gratuity as part of the transaction’s authorization or
+4 settlement process pursuant to subdivision (A) of this subdivision (2) may
+5 charge the merchant an interchange fee on the entire transaction.
+6 (C) A merchant that does not transmit the amount of a transaction
+7 that is tax and gratuity to the acquirer bank, payment card network, issuer, or
+8 any designee of the foregoing as part of the transaction’s authorization or
+9 settlement process pursuant to subdivision (A) of this subdivision (2) may
+10 submit tax documentation showing the tax and gratuity amount of the
+11 transaction to the acquirer bank or its designee not later than 180 days after the
+12 transaction.
+13 (D) An acquirer bank, payment card network, issuer, or any designee
+14 of the foregoing that receives tax documentation from a merchant pursuant to
+15 subdivision (C) of this subdivision (2) shall, not later than 30 days after
+16 receiving the tax documentation, credit the merchant for the amount in
+17 interchange fees that were collected on the tax and gratuity amount of the
+18 transaction.
+19 (3) A merchant that submits an amount of tax or gratuity of a transaction
+20 that is inaccurate shall provide the acquirer bank, payment card network,
+21 issuer, or any designee of the foregoing with the corrected amount not later
+VT LEG #379549 v.1
+BILL AS INTRODUCED H.317
+2025 Page 5 of 6
+1 than 30 days after the merchant receives notice that the amount was inaccurate.
+2 If the corrected amount of a transaction that is tax and gratuity:
+3 (A) is greater than what was reported by the merchant, the acquirer
+4 bank, payment card network, issuer, or any designee of the foregoing shall
+5 credit the merchant the difference in interchange fees between then amount
+6 originally reported by the merchant and the corrected amount subsequently
+7 reported by the merchant; or
+8 (B) is less than what was reported by the merchant, the merchant
+9 shall credit the acquirer bank, payment card network, issuer, or any designee of
+10 the foregoing the difference in interchange fees between the amount originally
+11 reported by the merchant and the corrected amount subsequently reported by
+12 the merchant.
+13 (4) It shall be unlawful for an issuer, payment card network, acquirer
+14 bank, or processor to alter or manipulate an interchange fee of a transaction in
+15 an effort to circumvent the effects of this section.
+16 (c) Penalties. The following penalties shall apply to violations of this
+17 subchapter:
+18 (1) Any issuer, payment card network, acquirer bank, or processor found
+19 to have violated this section shall be liable for a civil penalty of $1,000.00 per
+20 transaction.
+VT LEG #379549 v.1
+BILL AS INTRODUCED H.317
+2025 Page 6 of 6
+1 (2) Any merchant whose rights under this subchapter have been violated
+2 may maintain a civil action for damages or equitable relief as provided for in
+3 this section, including attorney’s fees, if any.
+4 (3) A violation of this section shall be deemed a violation of section
+5 2453 of this title. The Attorney General has the same authority to conduct civil
+6 investigations, enter into assurances of discontinuance, and bring civil actions
+7 as provided under subchapter 1 of this chapter.
+8 (d) Severability. If any provision of this subchapter or its application to
+9 any person or circumstance is held invalid, the invalidity does not affect other
+10 provisions or applications of this subchapter that can be given effect without
+11 the invalid provision or application, and, to this end, the provisions of this
+12 subchapter are severable.
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2025.
+VT LEG #379549 v.1
+[DELETED:  H P H I R C G R M P T Y R D S S c A I S S § (]
+[DELETED:  H P ( c t ( t c d s ( ( g ( p f s ( p i ( (]
+[DELETED:  H P ( l i t r c a ( m p ( ( r c m ( ( ( a d s]
+[DELETED:  H P ( o t s c ( t a s s t t ( o s r i t ( t i]
+[DELETED:  H P t I ( b c o r ( s t r t ( b a ( s ( t t]
+[DELETED:  H P ( m t ( 2 i a ( a p t s S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.317
+2025 Page 1 of 6
+1 H.317
+2 Introduced by Representatives Casey of Montpelier, Birong of Vergennes,
+3 Cooper of Pownal, Duke of Burlington, Galfetti of Barre Town,
+4 Greer of Bennington, Headrick of Burlington, Hooper of
+5 Randolph, Hooper of Burlington, Maguire of Rutland City,
+6 Masland of Thetford, Morris of Springfield, Ode of Burlington,
+7 Pinsonault of Dorset, Sibilia of Dover, Squirrell of Underhill,
+8 Toof of St. Albans Town, Waszazak of Barre City, and
+9 Yacovone of Morristown
+10 Referred to Committee on
+11 Date:
+12 Subject: Commerce and trade; credit card fees
+13 Statement of purpose of bill as introduced: This bill proposes to prohibit credit
+14 card fees on the amount of a transaction that is tax or gratuity.
+15 An act relating to credit card fees on taxes and gratuities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 9 V.S.A. chapter 63, subchapter 4A is added to read:
+18 Subchapter 4A. Credit Card Fees on Taxes and Gratuities
+19 § 2480s. PROHIBITION ON FEES
+20 (a) As used in this subchapter:
+VT LEG #379549 v.1
+
+BILL AS INTRODUCED H.317
+2025 Page 2 of 6
+1 (1) “Acquirer bank” means a member of a payment card network that
+2 contracts with a merchant either directly or indirectly through a processor for
+3 the settlement of electronic payment transactions.
+4 (2) “Electronic payment transaction” or “transaction” means a
+5 transaction in which a person uses a debit card, credit card, or other payment
+6 code or device issued or approved through a payment card network to debit a
+7 deposit account or use a line of credit, whether authorization is based on a
+8 signature, a personal identification number, or other means.
+9 (3) “Gratuity” means:
+10 (A) voluntary monetary contribution received by a merchant from a
+11 guest, patron, or customer for services rendered; and
+12 (B) an automatic service fee received by a merchant from a guest,
+13 patron, or customer for services rendered that is intended to replace the need
+14 for a voluntary monetary contribution pursuant to subdivision (A) of this
+15 subdivision (3).
+16 (4) “Interchange fee” means a fee established, charged, or received by a
+17 payment card network for the purpose of compensating the issuer for its
+18 involvement in an electronic payment transaction.
+19 (5) “Issuer” means a person who issues a debit card or a credit card.
+20 (6) “Merchant” means a person that collects and remits a tax.
+VT LEG #379549 v.1
+
+BILL AS INTRODUCED H.317
+2025 Page 3 of 6
+1 (7) “Payment card network” means an entity that directly or through
+2 licensed members, processors, or agents provides the proprietary services,
+3 infrastructure, and software that route information and data to facilitate
+4 transaction authorization, clearance, and settlement, and that merchants are
+5 required to access in order to accept a specific brand of general-purpose credit
+6 cards, charge cards, debit cards, or stored-value cards as payment for goods
+7 and services.
+8 (8) “Processor” means an entity that facilitates, services, processes, or
+9 manages a debit card or credit card authorization, billing, transfer, payment
+10 procedures, or settlement with respect to an electronic payment transaction.
+11 (b) Requirements.
+12 (1) With respect to transactions involving a merchant and subject to the
+13 restrictions set forth in subdivision (2) of this subsection, no issuer, payment
+14 card network, acquirer bank, or processor shall charge or collect from a
+15 merchant an interchange fee on the amount of the transaction that is a:
+16 (A) tax; or
+17 (B) gratuity.
+18 (2)(A) A merchant shall transmit the amount of a transaction that is tax
+19 and gratuity to the acquirer bank, payment card network, issuer, or any
+20 designee of the foregoing as part of the transaction’s authorization or
+21 settlement process.
+VT LEG #379549 v.1
+
+BILL AS INTRODUCED H.317
+2025 Page 4 of 6
+1 (B) An acquirer bank, payment card network, issuer, or any designee
+2 of the foregoing that does not receive from a merchant the amount of a
+3 transaction that is tax and gratuity as part of the transaction’s authorization or
+4 settlement process pursuant to subdivision (A) of this subdivision (2) may
+5 charge the merchant an interchange fee on the entire transaction.
+6 (C) A merchant that does not transmit the amount of a transaction
+7 that is tax and gratuity to the acquirer bank, payment card network, issuer, or
+8 any designee of the foregoing as part of the transaction’s authorization or
+9 settlement process pursuant to subdivision (A) of this subdivision (2) may
+10 submit tax documentation showing the tax and gratuity amount of the
+11 transaction to the acquirer bank or its designee not later than 180 days after the
+12 transaction.
+13 (D) An acquirer bank, payment card network, issuer, or any designee
+14 of the foregoing that receives tax documentation from a merchant pursuant to
+15 subdivision (C) of this subdivision (2) shall, not later than 30 days after
+16 receiving the tax documentation, credit the merchant for the amount in
+17 interchange fees that were collected on the tax and gratuity amount of the
+18 transaction.
+19 (3) A merchant that submits an amount of tax or gratuity of a transaction
+20 that is inaccurate shall provide the acquirer bank, payment card network,
+21 issuer, or any designee of the foregoing with the corrected amount not later
+VT LEG #379549 v.1
+
+BILL AS INTRODUCED H.317
+2025 Page 5 of 6
+1 than 30 days after the merchant receives notice that the amount was inaccurate.
+2 If the corrected amount of a transaction that is tax and gratuity:
+3 (A) is greater than what was reported by the merchant, the acquirer
+4 bank, payment card network, issuer, or any designee of the foregoing shall
+5 credit the merchant the difference in interchange fees between then amount
+6 originally reported by the merchant and the corrected amount subsequently
+7 reported by the merchant; or
+8 (B) is less than what was reported by the merchant, the merchant
+9 shall credit the acquirer bank, payment card network, issuer, or any designee of
+10 the foregoing the difference in interchange fees between the amount originally
+11 reported by the merchant and the corrected amount subsequently reported by
+12 the merchant.
+13 (4) It shall be unlawful for an issuer, payment card network, acquirer
+14 bank, or processor to alter or manipulate an interchange fee of a transaction in
+15 an effort to circumvent the effects of this section.
+16 (c) Penalties. The following penalties shall apply to violations of this
+17 subchapter:
+18 (1) Any issuer, payment card network, acquirer bank, or processor found
+19 to have violated this section shall be liable for a civil penalty of $1,000.00 per
+20 transaction.
+VT LEG #379549 v.1
+
+BILL AS INTRODUCED H.317
+2025 Page 6 of 6
+1 (2) Any merchant whose rights under this subchapter have been violated
+2 may maintain a civil action for damages or equitable relief as provided for in
+3 this section, including attorney’s fees, if any.
+4 (3) A violation of this section shall be deemed a violation of section
+5 2453 of this title. The Attorney General has the same authority to conduct civil
+6 investigations, enter into assurances of discontinuance, and bring civil actions
+7 as provided under subchapter 1 of this chapter.
+8 (d) Severability. If any provision of this subchapter or its application to
+9 any person or circumstance is held invalid, the invalidity does not affect other
+10 provisions or applications of this subchapter that can be given effect without
+11 the invalid provision or application, and, to this end, the provisions of this
+12 subchapter are severable.
+13 Sec. 2. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2025.
+VT LEG #379549 v.1
+
+[DELETED:  H P H I R C G R M P T Y R D S S c A I S S § (]
+[DELETED:  H P ( c t ( t c d s ( ( g ( p f s ( p i ( (]
+[DELETED:  H P ( l i t r c a ( m p ( ( r c m ( ( ( a d s]
+[DELETED:  H P ( o t s c ( t a s s t t ( o s r i t ( t i]
+[DELETED:  H P t I ( b c o r ( s t r t ( b a ( s ( t t]
+[DELETED:  H P ( m t ( 2 i a ( a p t s S T]

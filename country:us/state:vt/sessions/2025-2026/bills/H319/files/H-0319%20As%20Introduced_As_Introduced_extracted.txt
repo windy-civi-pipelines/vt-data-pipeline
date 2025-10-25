@@ -1,0 +1,2306 @@
+Title: BILL AS INTRODUCED H.319
+Official Title: BILL AS INTRODUCED H.319
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 46 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 46
+1 H.319
+2 Introduced by Representative Sheldon of Middlebury
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; solid waste; flood safety; wetlands;
+6 dams
+7 Statement of purpose of bill as introduced: This bill proposes to amend
+8 multiple environmental subjects. The bill would extend by a year the date by
+9 which an assessment of the end-of-life management of certain battery types
+10 shall be conducted and requires the battery stewardship organization in the
+11 State to complete the assessment instead of the Agency of Natural Resources.
+12 The bill also clarifies when a fuel dealer can deliver to a category one tank that
+13 does not have a valid permit or otherwise may result in a release to the
+14 environment. The bill would provide that information submitted to the
+15 Department of Environmental Conservation under the Healthy Homes
+16 Initiative shall be considered confidential. In addition, the bill would extend
+17 multiple deadline dates for reporting or rulemaking for specific flood safety,
+18 river corridor, wetlands, and dam programs.
+19 An act relating to miscellaneous environmental subjects
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 2 of 46
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Battery Extended Producer Responsibility * * *
+3 Sec. 1. 2024 Acts and Resolves No. 152, Sec. 3 is amended to read:
+4 Sec. 3. ANR BATTERY ASSESSMENT
+5 (a) On or before July 1, 2026, the Secretary of Natural Resources 2027, the
+6 stewardship organization formed pursuant to 10 V.S.A. chapter 168 shall
+7 complete an assessment of the opportunities, challenges, and feasibility of
+8 establishing mandatory end-of-life management programs for the following
+9 battery types:
+10 (1) batteries used in hybrid and electric vehicles;
+11 (2) battery energy storage systems; and
+12 (3) batteries that are not easily removable from the products they power.
+13 (b) The assessment required by this section shall include:
+14 (1) a summary of the work and progress other states have made in
+15 establishing end-of-life management programs for the three battery types listed
+16 under subsection (a) of this section; and
+17 (2) policy recommendations on whether mandatory end-of-life
+18 management programs are necessary for the battery types listed under
+19 subsection (a) of this section.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 3 of 46
+1 (c) The assessment required by this section shall be provided to the
+2 Secretary of Natural Resources, the House Committee on Environment and
+3 Energy, and the Senate Committee on Natural Resources and Energy.
+4 * * * Fuel Storage Tanks * * *
+5 Sec. 2. 10 V.S.A. § 1927(d) is amended to read:
+6 (d) No person shall deliver a regulated substance to a category one tank
+7 that is visibly designated by the Agency as not having a valid permit or not
+8 meeting standards adopted by the Secretary related to corrosion protection,
+9 spill prevention, leak detection, financial responsibility, or overfill protection
+10 that may result in the tank releasing a regulated substance to the environment.
+11 * * * Household Hazardous Waste Extended Producer Responsibility * * *
+12 Sec. 3. 10 V.S.A. § 7181 is amended to read:
+13 § 7181. DEFINITIONS
+14 As used in this chapter:
+15 * * *
+16 (4)(A) “Covered household hazardous product” means a consumer
+17 product offered for retail sale that is contained in the receptacle in which the
+18 product is offered for retail sale, if the product has any of the following
+19 characteristics:
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 4 of 46
+1 (i) the product or a component of the product is a hazardous waste
+2 under subchapter 2 of the Vermont Hazardous Waste Management
+3 Regulations, regardless of the status of the generator of the hazardous waste; or
+4 (ii) the product is a gas cylinder.
+5 (B) “Covered household hazardous product” does not mean any of
+6 the following:
+7 * * *
+8 (iv) architectural paint paint-related products as that term is
+9 defined in section 6672 of this title;
+10 * * *
+11 Sec. 4. 10 V.S.A. § 7182 is amended to read:
+12 § 7182. SALE OF COVERED HOUSEHOLD HAZARDOUS PRODUCTS;
+13 STEWARDSHIP ORGANIZATION REGISTRATION;
+14 MANUFACTURER REGISTRATION
+15 (a) Sale prohibited.
+16 (1) A manufacturer of a covered household hazardous product shall not
+17 sell, offer for sale, or deliver to a retailer for subsequent sale a covered
+18 household hazardous product without registering with the stewardship
+19 organization pursuant to subsection (c) of this section.
+20 (2) Beginning six months after a final decision on the adequacy of a
+21 collection plan by the Secretary, a manufacturer of a covered household
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 5 of 46
+1 hazardous product shall not sell, offer for sale, or deliver to a retailer for
+2 subsequent sale a covered household hazardous product unless all the
+3 following have been met:
+4 (1)(A) The manufacturer is participating in a stewardship
+5 organization implementing an approved collection plan.
+6 (2)(B) The name of the manufacturer, the manufacturer’s brand, and
+7 the name of the covered household hazardous product are submitted to the
+8 Agency of Natural Resources by a stewardship organization and listed on the
+9 stewardship organization’s website as covered by an approved collection plan.
+10 (3)(C) The stewardship organization in which the manufacturer
+11 participates has submitted an annual report consistent with the requirements of
+12 section 7185 of this title.
+13 (4)(D) The stewardship organization in which the manufacturer
+14 participates has conducted a plan audit consistent with the requirements of
+15 subsection 7185(b) of this title.
+16 (b) Stewardship organization registration requirements.
+17 (1) On or before July 1, 2025 and annually thereafter, a stewardship
+18 organization shall file a registration form with the Secretary. The Secretary
+19 shall provide the registration form to the stewardship organization. The
+20 registration form shall include:
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 6 of 46
+1 (A) a list of the manufacturers participating in the stewardship
+2 organization;
+3 (B) a list of the brands of each manufacturer participating in the
+4 stewardship organization;
+5 (C) a list of the covered household hazardous products of each
+6 manufacturer participating in the stewardship organization;
+7 (D) the name, address, and contact information of a person
+8 responsible for ensuring compliance with this chapter;
+9 (E) a description of how the stewardship organization meets the
+10 requirements of subsection 7184(b) of this title, including any reasonable
+11 requirements for participation in the stewardship organization; and
+12 (F)(B) the name, address, and contact information of a person for a
+13 nonmember manufacturer to contact regarding how to participate in the
+14 stewardship organization to satisfy the requirements of this chapter.
+15 (2) A renewal of a registration without changes may be accomplished
+16 through notifying the Agency of Natural Resources on a form provided by the
+17 Agency Beginning July 1, 2026 and annually thereafter, a stewardship
+18 organization shall renew its registration with the Secretary. A renewal
+19 registration shall include the following:
+20 (A) a list of the manufacturers participating in the stewardship
+21 organization;
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 7 of 46
+1 (B) a list of the brands of each manufacturer participating in the
+2 stewardship organization;
+3 (C) a list of the covered household hazardous products of each
+4 manufacturer participating in the stewardship organization;
+5 (D) the name, address, and contact information of a person
+6 responsible for ensuring compliance with this chapter;
+7 (E) a description of how the stewardship organization meets the
+8 requirements of subsection 7184(b) of this title, including any reasonable
+9 requirements for participation in the stewardship organization; and
+10 (F) the name, address, and contact information of a person for a
+11 nonmember manufacturer to contact regarding how to participate in the
+12 stewardship organization to satisfy the requirements of this chapter.
+13 (c) Manufacturer registration. On or before November 1, 2025, a
+14 manufacturer of a covered household hazardous product shall register with the
+15 stewardship organization in a manner proscribed by the stewardship
+16 organization.
+17 Sec. 5. 10 V.S.A. § 7183 is amended to read:
+18 § 7183. COLLECTION PLANS
+19 (a) Collection plan required. Prior to July 1, 2025 On or before July 1,
+20 2026, any stewardship organization registered with the Secretary as
+21 representing manufacturers of covered household hazardous products shall
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 8 of 46
+1 coordinate and submit to the Secretary for review one collection plan for all
+2 manufacturers.
+3 (b) Collection plan; minimum requirements. Each collection plan shall
+4 include, at a minimum, all of the following requirements:
+5 (1) Initial plan. The initial plan shall last for a period not to exceed
+6 three years and contain, at a minimum, the following requirements:
+7 (A) List of participants. A list of the manufacturers, brands, and
+8 products participating in the collection plan and a methodology for adding and
+9 removing manufacturers and notifying the Agency of new participants.
+10 (2)(B) Free statewide collection of covered household hazardous
+11 products. The collection program shall provide for reimburse municipalities
+12 when a municipality provides for free, convenient, and accessible statewide
+13 opportunities for the collection from covered entities of covered household
+14 hazardous products, including orphan covered products. A stewardship
+15 organization shall accept all covered household hazardous products collected
+16 from a covered entity and shall not refuse the collection of a covered
+17 household hazardous product, including orphan covered household products,
+18 based on the brand or manufacturer of the covered household hazardous
+19 product unless specifically exempt from this requirement. The collection
+20 program shall also provide for the payment of collection, processing, and end-
+21 of-life management of the covered household hazardous products. Collection
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 9 of 46
+1 costs include facility costs, equipment costs, labor, supplies, maintenance,
+2 events costs, and event contractor costs, including collection event set-up fees,
+3 environmental service fees, insurance fees, and shipping containers and
+4 materials.
+5 (3) Convenient collection location. The stewardship organization shall
+6 develop a collection program that allows all municipal household hazardous
+7 waste collection programs to opt to be a part of the collection plan, including
+8 collection events and facilities offered by solid waste planning entities. The
+9 plan shall make efforts to site points of collection equitably across all regions
+10 of the State to allow for convenient and reasonable access of all Vermonters to
+11 collection facilities or collection events.
+12 (4) Public education and outreach. The collection plan shall include an
+13 education and outreach program that shall include a website and may include
+14 media advertising, retail displays, articles and publications, and other public
+15 educational efforts. Outreach and education shall be suitable for the State’s
+16 diverse ethnic populations, through translated and culturally appropriate
+17 materials, including in-language and targeted outreach. Public education and
+18 outreach should include content to increase meaningful participation by
+19 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+20 During the first year of program implementation and two years after adoption
+21 of the collection plan, each stewardship organization shall carry out a survey of
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 10 of 46
+1 public awareness regarding the requirements of the program established under
+2 this chapter that can identify communities that have disparities in awareness
+3 and need more outreach. Each stewardship organization shall share the results
+4 of the public awareness surveys with the Secretary. If multiple stewardship
+5 organizations are implementing plans approved by the Secretary, the
+6 stewardship organizations shall coordinate in carrying out their education and
+7 outreach responsibilities under this subdivision and shall include in their
+8 annual reports to the Secretary a summary of their coordinated education and
+9 outreach efforts. The education and outreach program and website shall notify
+10 the public of the following:
+11 (A) that there is a free collection program for covered household
+12 hazardous products;
+13 (B) the location and hours of operation of collection points and how a
+14 covered entity can access this collection program;
+15 (C) the special handling considerations associated with covered
+16 household hazardous products; and
+17 (D) source reduction information for consumers to reduce leftover
+18 covered household products.
+19 (5) Compliance with appropriate environmental standards. In
+20 implementing a collection plan, a stewardship organization shall comply with
+21 all applicable laws related to the collection, transportation, and disposal of
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 11 of 46
+1 hazardous waste. A stewardship organization shall comply with any special
+2 handling or disposal standards established by the Secretary for covered
+3 household hazardous products or for the collection plan of the manufacturer.
+4 (6) Method of disposition. The collection plan shall describe how
+5 covered household hazardous products will be managed in the most
+6 environmentally and economically sound manner, including following the
+7 waste-management hierarchy. The management of covered household
+8 hazardous products under the collection plan shall use management activities
+9 in the following priority order: source reduction, reuse, recycling, energy
+10 recovery, and disposal. Collected covered household hazardous products shall
+11 be recycled when technically and economically feasible.
+12 (7) Performance goals. A collection plan shall include:
+13 (A) A performance goal for covered household hazardous products
+14 determined by the number of total participants at collection events and
+15 facilities listed in the collection plan during a program year divided by the total
+16 number of households. The number of households shall include seasonal
+17 households. The calculation methodology for the number of households shall
+18 be included in the plan.
+19 (B) At a minimum, the collection performance goal for the first
+20 approved plan shall be an annual participation rate of five percent of the
+21 households for every collection program based on the number of households
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 12 of 46
+1 the collection program serves. After the initial approved program plan, the
+2 stewardship organization shall propose performance goals for subsequent
+3 program plans. The Secretary shall approve the performance goals for the plan
+4 at least every five years. The stewardship organization shall use the results of
+5 the most recent waste composition study required under 6604 of this title and
+6 other relevant factors to propose the performance goals of the collection plan.
+7 If a stewardship organization does not meet its performance goals, the
+8 Secretary may require the stewardship organization to revise the collection
+9 plan to provide for one or more of the following: additional public education
+10 and outreach, additional collection events, or additional hours of operation for
+11 collection sites. A stewardship organization is not authorized to reduce or
+12 cease collection, education and outreach, or other activities implemented under
+13 an approved plan on the basis of achievement of program performance goals.
+14 (8)(C) Collection plan funding. The collection plan shall describe how
+15 the stewardship organization will fund the implementation of the collection
+16 plan and collection activities under the plan, including the costs for education
+17 and outreach, collection, processing, and end-of-life management of the
+18 covered household hazardous product all municipal collection offered to the
+19 public in a base program year. A base program year shall be based on the
+20 services provided in calendar year 2024 and any other collection facilities or
+21 events approved by the Secretary. Collection costs include facility costs,
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 13 of 46
+1 equipment costs, labor, supplies, maintenance, events costs, and event
+2 contractor costs, including collection event set-up fees, environmental service
+3 fees, insurance fees, and shipping containers and materials. The collection
+4 plan shall include how municipalities will be compensated for all costs
+5 attributed to collection of covered household hazardous products. The
+6 Secretary shall resolve disputes relating to compensation.
+7 (2) Subsequent plans. After the expiration of the initial plan approved
+8 by the Secretary, the collection plan shall include, at a minimum, the
+9 following:
+10 (A) List of participants. A list of the manufacturers, brands, and
+11 products participating in the collection plan and a methodology for adding and
+12 removing manufacturers and notifying the Agency of new participants.
+13 (B) Free statewide collection of covered household hazardous
+14 products. The collection program shall provide for free, convenient, and
+15 accessible statewide opportunities for the collection from covered entities of
+16 covered household hazardous products, including orphan covered products. A
+17 stewardship organization shall accept all covered household hazardous
+18 products collected from a covered entity and shall not refuse the collection of a
+19 covered household hazardous product, including orphan covered household
+20 products, based on the brand or manufacturer of the covered household
+21 hazardous product unless specifically exempt from this requirement. The
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 14 of 46
+1 collection program shall also provide for the payment of collection, processing,
+2 and end-of-life management of the covered household hazardous products.
+3 Collection costs include facility costs, equipment costs, labor, supplies,
+4 maintenance, events costs, and event contractor costs, including collection
+5 event set-up fees, environmental service fees, insurance fees, and shipping
+6 containers and materials.
+7 (C) Convenient collection location. The stewardship organization
+8 shall develop a collection program that allows all municipal household
+9 hazardous waste collection programs to opt to be a part of the collection plan,
+10 including collection events and facilities offered by solid waste planning
+11 entities. The plan shall make efforts to site points of collection equitably
+12 across all regions of the State to allow for convenient and reasonable access of
+13 all Vermonters to collection facilities or collection events.
+14 (D) Public education and outreach. The collection plan shall include
+15 an education and outreach program that shall include a website and may
+16 include media advertising, retail displays, articles and publications, and other
+17 public educational efforts. Outreach and education shall be suitable for the
+18 State’s diverse ethnic populations, through translated and culturally appropriate
+19 materials, including in-language and targeted outreach. Public education and
+20 outreach should include content to increase meaningful participation by
+21 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 15 of 46
+1 During the second approved plan, each stewardship organization shall carry
+2 out a survey of public awareness regarding the requirements of the program
+3 established under this chapter that can identify communities that have
+4 disparities in awareness and need more outreach. Each stewardship
+5 organization shall share the results of the public awareness surveys with the
+6 Secretary. If multiple stewardship organizations are implementing plans
+7 approved by the Secretary, the stewardship organizations shall coordinate in
+8 carrying out their education and outreach responsibilities under this
+9 subdivision (D) and shall include in their annual reports to the Secretary a
+10 summary of their coordinated education and outreach efforts. The education
+11 and outreach program and website shall notify the public of the following:
+12 (i) that there is a free collection program for covered household
+13 hazardous products;
+14 (ii) the location and hours of operation of collection points and
+15 how a covered entity can access this collection program;
+16 (iii) the special handling considerations associated with covered
+17 household hazardous products; and
+18 (iv) source reduction information for consumers to reduce leftover
+19 covered household products.
+20 (E) Compliance with appropriate environmental standards. In
+21 implementing a collection plan, a stewardship organization shall comply with
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 16 of 46
+1 all applicable laws related to the collection, transportation, and disposal of
+2 hazardous waste. A stewardship organization shall comply with any special
+3 handling or disposal standards established by the Secretary for covered
+4 household hazardous products or for the collection plan of the manufacturer.
+5 (F) Method of disposition. The collection plan shall describe how
+6 covered household hazardous products will be managed in the most
+7 environmentally and economically sound manner, including following the
+8 waste-management hierarchy. The management of covered household
+9 hazardous products under the collection plan shall use management activities
+10 in the following priority order: source reduction, reuse, recycling, energy
+11 recovery, and disposal. Collected covered household hazardous products shall
+12 be recycled when technically and economically feasible.
+13 (G) Performance goals. A collection plan shall include:
+14 (i) A performance goal for covered household hazardous products
+15 determined by the number of total participants at collection events and
+16 facilities listed in the collection plan during a program year divided by the total
+17 number of households. The number of households shall include seasonal
+18 households. The calculation methodology for the number of households shall
+19 be included in the plan.
+20 (ii) At a minimum, the collection performance goal for the initial
+21 plan approved pursuant to subdivision (b)(2) of this section shall be an annual
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 17 of 46
+1 participation rate of five percent of the households for every collection
+2 program based on the number of households the collection program serves.
+3 After the initial approved program plan, the stewardship organization shall
+4 propose performance goals for subsequent program plans. The Secretary shall
+5 approve the performance goals for the plan at least every five years. The
+6 stewardship organization shall use the results of the most recent waste
+7 composition study required under 6604 of this title and other relevant factors to
+8 propose the performance goals of the collection plan. If a stewardship
+9 organization does not meet its performance goals, the Secretary may require
+10 the stewardship organization to revise the collection plan to provide for one or
+11 more of the following: additional public education and outreach, additional
+12 collection events, or additional hours of operation for collection sites. A
+13 stewardship organization is not authorized to reduce or cease collection,
+14 education and outreach, or other activities implemented under an approved
+15 plan on the basis of achievement of program performance goals.
+16 (H) Collection plan funding. The collection plan shall describe how the
+17 stewardship organization will fund the implementation of the collection plan
+18 and collection activities under the plan, including the costs for education and
+19 outreach, collection, processing, and end-of-life management of the covered
+20 household hazardous product. Collection costs include facility costs,
+21 equipment costs, labor, supplies, maintenance, events costs, and event
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 18 of 46
+1 contractor costs, including collection event set-up fees, environmental service
+2 fees, insurance fees, and shipping containers and materials. The collection
+3 plan shall include how municipalities will be compensated for all costs
+4 attributed to collection of covered household hazardous products. The
+5 Secretary shall resolve disputes relating to compensation.
+6 (c) Term of collection plan. A collection plan approved by the Secretary
+7 under section 7187 of this title shall have a term not to exceed five years,
+8 provided that the stewardship organization remains in compliance with the
+9 requirements of this chapter and the terms of the approved collection plan.
+10 (d) Collection plan implementation. Stewardship organizations shall
+11 implement the collection plan on or before six months after the date of a final
+12 decision by the Secretary on the adequacy of the collection plan.
+13 Sec. 6. 10 V.S.A. § 7184 is amended to read:
+14 § 7184. STEWARDSHIP ORGANIZATIONS
+15 (a) Participation in a stewardship organization. A manufacturer shall meet
+16 the requirements of this chapter by participating in a stewardship organization
+17 that undertakes the responsibilities under sections 7182, 7183, and 7185 of this
+18 title.
+19 (b) Qualifications for a stewardship organization. To qualify as a
+20 stewardship organization under this chapter, an organization shall:
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 19 of 46
+1 (1) commit to assume the responsibilities, obligations, and liabilities of
+2 all manufacturers participating in the stewardship organization;
+3 (2) not create unreasonable barriers for participation in the stewardship
+4 organization; and
+5 (3) maintain a public website that lists all manufacturers and
+6 manufacturers’ brands and products covered by the stewardship organization’s
+7 approved collection plan.
+8 (c) A stewardship organization is authorized to charge its members
+9 reasonable fees for the organization, administration, and implementation of the
+10 programs required by this chapter.
+11 Sec. 7. 10 V.S.A. § 7187 is amended to read:
+12 § 7187. AGENCY RESPONSIBILITIES
+13 (a) Review and approve collection plans. The Secretary shall review and
+14 approve or deny collection plans submitted under section 7183 of this title
+15 according to the public notice and comment requirements of section 7714 of
+16 this title.
+17 * * *
+18 (g) Agency collection plan. If no stewardship organization is formed on or
+19 before July 1, 2025 or the stewardship organization fails to submit a plan or
+20 submits a plan that does not meet the requirements of this chapter, the
+21 Secretary shall adopt and administer a plan that meets the requirements of
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 20 of 46
+1 section 7183 of this title. If the Secretary administers the plan adopted under
+2 section 7183, the Secretary shall charge each manufacturer the prorated costs
+3 of plan administration, the Agency’s oversight costs, and a hazardous waste
+4 reduction assessment of 10 percent of the plan’s total cost to be deposited in
+5 the Solid Waste Management Assistance Account of the Waste Management
+6 Assistance Fund, for the purpose of providing grants to municipalities and
+7 small businesses to prevent pollution and reduce the generation of hazardous
+8 waste in the State. When determining a manufacturer’s assessment under this
+9 section, the Agency may allocate costs to a manufacturer of covered household
+10 hazardous products based on the sales of covered household hazardous
+11 products nationally prorated to the population of Vermont.
+12 Sec. 8. 10 V.S.A. § 6621a is amended to read:
+13 § 6621a. LANDFILL DISPOSAL REQUIREMENTS
+14 (a) In accordance with the following schedule, no person shall knowingly
+15 dispose of the following materials in solid waste or in landfills:
+16 * * *
+17 (12) Covered household hazardous products after July 1, 2025 2026.
+18 * * *
+19 Sec. 9. SOLID WASTE PLAN; FLEXIBILITY
+20 (a) Notwithstanding the municipal household hazardous waste (HHW)
+21 collection requirements under the State Solid Waste Plan adopted pursuant to
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 21 of 46
+1 10 V.S.A. § 6604, the Secretary of Natural Resources may grant a variance
+2 from the requirement to conduct at least two household hazardous waste
+3 collection events in that municipality. The variance shall allow a municipality
+4 to meet its obligations, as follows:
+5 (1) the municipality has partnered with another municipality to allow its
+6 residents the ability to access a permanent HHW facility in the same manner as
+7 the municipality that operates the permanent HHW facility;
+8 (2) the municipality has partnered with a nearby municipality to offer
+9 collection events to members in both municipalities;
+10 (3) the municipality has demonstrated that it has made reasonable efforts
+11 to provide alternate collection opportunities identified under subdivisions (1)
+12 and (2) of this subsection and was unable and that the cost of a collection event
+13 is unreasonable. In such circumstances the Secretary of Natural Resources
+14 may reduce the required collection events to one per year.
+15 (b) This section shall be repealed on July 1, 2027.
+16 * * * Paint Extended Producer Responsibility * * *
+17 Sec. 10. 10 V.S.A. chapter 159, subchapter 4 is amended to read:
+18 Subchapter 4. Paint Stewardship Program
+19 § 6671. PURPOSE
+20 The purpose of this subchapter is to establish an environmentally sound,
+21 cost-effective Paint Stewardship Program in the State that will undertake
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 22 of 46
+1 responsibility for the development and implementation of strategies to reduce
+2 the generation of postconsumer paint; promote the reuse of postconsumer
+3 paint; and collect, transport, and process postconsumer paint, including reuse,
+4 recycling, energy recovery, and disposal. The Paint Stewardship Program will
+5 follow the waste management hierarchy for managing and reducing
+6 postconsumer paint in the order as follows: reduce consumer generation of
+7 postconsumer paint, reuse, recycle, provide for energy recovery, and dispose.
+8 The Paint Stewardship Program will provide more opportunities for consumers
+9 to manage properly their postconsumer paint, provide fiscal relief for local
+10 government in managing postconsumer paint, keep paint out of the waste
+11 stream, and conserve natural resources.
+12 § 6672. DEFINITIONS
+13 As used in this subchapter:
+14 (1) “Aerosol coating product” means a pressurized coating product
+15 containing pigments or resins dispensed by means of a propellant and
+16 packaged and sold in a disposable aerosol container for handheld application,
+17 or for use in specialized equipment for ground traffic or marking applications.
+18 (2) “Architectural paint” means interior and exterior architectural
+19 coatings, including interior or exterior water- and oil-based coatings, primers,
+20 sealers, or wood coatings, that are sold in containers of five gallons or less.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 23 of 46
+1 “Architectural paint” does not mean industrial coatings, original equipment
+2 coatings, or specialty coatings.
+3 (3) “Coating-related product” means a product used as a paint additive,
+4 paint thinner, paint colorant, paint remover, surface sealant, surface
+5 preparation, surface adhesive, and sold for home improvement.
+6 (2)(4) “Distributor” means a company that has a contractual relationship
+7 with one or more producers to market and sell architectural paint to retailers in
+8 Vermont.
+9 (3)(5) “Energy recovery” means recovery in which all or a part of the
+10 solid waste materials are processed in order to use the heat content or other
+11 forms of energy of or from the material.
+12 (4)(6) “Environmentally sound management practices” means policies
+13 to be implemented by a producer or a stewardship organization to ensure
+14 compliance with all applicable laws and also addressing such issues as
+15 adequate record keeping, tracking and documenting the fate of materials within
+16 the State and beyond, and adequate environmental liability coverage for
+17 professional services and for the operations of the contractors working on
+18 behalf of the producer organization.
+19 (5)(7) “Municipality” means a city, town, or a village.
+20 (6) “Paint stewardship assessment” means a one-time charge that is:
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 24 of 46
+1 (A) added to the purchase price of architectural paint sold in
+2 Vermont;
+3 (B) passed from the producer to the wholesale purchaser to the
+4 retailer and then to a retail consumer; and
+5 (C) necessary to cover the cost of collecting, transporting, and
+6 processing the postconsumer paint managed through the statewide Program.
+7 (8) “Nonindustrial coating” means arts and crafts paint, automotive
+8 refinish paint, driveway sealer, faux finish or glaze, furniture oil, furniture
+9 paint, lime wash, lime paint, marine paint, antifouling paint, road and traffic
+10 marking paint, two-component paint, wood preservative, fire retardant paint,
+11 dry fog paint, chalkboard paint, and conductive paint, sold in containers of five
+12 gallons or less for commercial and homeowner use, but does not include
+13 coatings purchased for industrial or original equipment manufacturer use.
+14 (9)(A) “Paint product” includes:
+15 (i) architectural coatings;
+16 (ii) aerosol coating products;
+17 (iii) coating-related products; and
+18 (iv) nonindustrial coatings.
+19 (B) “Paint product” does not include a health and beauty product.
+20 (7)(10) “Postconsumer paint” means architectural a paint product and its
+21 containers not used and no longer wanted by a purchaser.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 25 of 46
+1 (8)(11) “Producer” means a manufacturer of architectural paint products
+2 who sells, offers for sale, or distributes that paint in Vermont under the
+3 producer’s own name or brand.
+4 (9)(12) “Recycling” means any process by which discarded products,
+5 components, and by-products are transformed into new usable or marketable
+6 materials in a manner in which the original products may lose their identity but
+7 does not include energy recovery or energy generation by means of
+8 combusting discarded products, components, and by-products with or without
+9 other waste products.
+10 (10)(13) “Retailer” means any person that offers architectural paint for
+11 sale at retail in Vermont.
+12 (11)(14) “Reuse” means the return of a product into the economic
+13 stream for use in the same kind of application as originally intended, without a
+14 change in the product’s identity.
+15 (12)(15) “Secretary” means the Secretary of Natural Resources.
+16 (13)(16) “Sell” or “sale” means any transfer of title for consideration,
+17 including remote sales conducted through sales outlets, catalogues, or the
+18 Internet or any other similar electronic means.
+19 (14)(17) “Stewardship organization” means a nonprofit corporation or
+20 nonprofit organization created by a producer or group of producers to
+21 implement the Paint Stewardship Program required under this subchapter.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 26 of 46
+1 § 6673. PAINT PRODUCT STEWARDSHIP PROGRAM
+2 (a) A producer or a stewardship organization representing producers shall
+3 submit a plan for the establishment of a Paint Product Stewardship Program to
+4 the Secretary for approval by December 1, 2013. The plan shall address the
+5 following:
+6 (1) Provide a list of participating producers and brands covered by the
+7 Program.
+8 (2) Provide specific information on the architectural paint products
+9 covered under the Program, such as interior or exterior water- and oil-based
+10 coatings, primers, sealers, or wood coatings.
+11 (3) Describe how the Program proposed under the plan will collect,
+12 transport, recycle, and process postconsumer paint products for end-of-life
+13 management, including recycling, energy recovery, and disposal, using
+14 environmentally sound management practices.
+15 (4) Describe the Program and how it will provide for convenient and
+16 available statewide collection of postconsumer architectural paint products in
+17 urban and rural areas of the State. The producer or stewardship organization
+18 shall use the existing household hazardous waste collection infrastructure when
+19 selecting collection points for postconsumer architectural paint products. A
+20 paint retailer shall be authorized as a paint collection point of postconsumer
+21 architectural paint for a Paint Product Stewardship Program if the paint retailer
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 27 of 46
+1 volunteers to act as a paint collection point and complies with all applicable
+2 laws, rules, and regulations.
+3 (5) Provide geographic information modeling to determine the number
+4 and distribution of sites for collection of postconsumer architectural paint
+5 based on the following criteria:
+6 (A) at least 90 percent of Vermont residents shall have a permanent
+7 collection site within a 15-mile radius; and
+8 (B) one additional permanent site will be established for every
+9 10,000 residents of a municipality and additional sites shall be distributed to
+10 provide convenient and reasonably equitable access for residents within each
+11 municipality, unless otherwise approved by the Secretary.
+12 (6) Establish goals to reduce the generation of postconsumer paint
+13 products, to promote the reuse of postconsumer paint products, and for the
+14 proper management of postconsumer paint products as practical based on
+15 current household hazardous waste program information. The goals may be
+16 revised by the producer or stewardship organization based on the information
+17 collected for the annual report.
+18 (7) Describe how postconsumer paint products will be managed in the
+19 most environmentally and economically sound manner, including following
+20 the waste-management hierarchy. The management of paint under the
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 28 of 46
+1 Program shall use management activities that promote source reduction, reuse,
+2 recycling, energy recovery, and disposal.
+3 (8) Describe education and outreach efforts to inform consumers of
+4 collection opportunities for postconsumer paint products and to promote the
+5 source reduction and recycling of architectural paint products for each of the
+6 following: consumers, contractors, and retailers.
+7 (b) The producer or stewardship organization shall submit a budget for the
+8 Program proposed under subsection (a) of this section, and for any amendment
+9 to the plan that would affect the Program’s costs. The budget shall include a
+10 funding mechanism under which each architectural paint producer remits to a
+11 stewardship organization payment of a paint stewardship assessment for each
+12 container of architectural paint it sells in this State. Prior to submitting the
+13 proposed budget and assessment to the Secretary, the producer or stewardship
+14 organization shall provide the budget and assessment to a third-party auditor
+15 agreed upon by the Secretary. The third-party auditor shall provide a
+16 recommendation as to whether the proposed budget and assessment is cost-
+17 effective, reasonable, and limited to covering the cost of the Program. The
+18 paint stewardship assessment shall be added to the cost of all architectural
+19 paint sold in Vermont. To ensure that the funding mechanism is equitable and
+20 sustainable, a uniform paint stewardship assessment shall be established for all
+21 architectural paint sold. The paint stewardship assessment shall be approved
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 29 of 46
+1 by the Secretary and shall be sufficient to recover, but not exceed, the costs of
+2 the Paint Stewardship Program. [Repealed.]
+3 (c) Beginning no later than July 1, 2014, or three Six months after approval
+4 of the plan for a Paint Product Stewardship Program required under subsection
+5 (a) of this section, whichever occurs later, a producer of architectural paint
+6 products sold at retail or a stewardship organization of which a producer is a
+7 member shall implement the approved plan for a Paint Product Stewardship
+8 Program.
+9 (d) A producer or a stewardship organization of which a producer is a
+10 member shall promote a Paint Product Stewardship Program and provide
+11 consumers with educational and informational materials describing collection
+12 opportunities for postconsumer paint products Statewide and promotion of
+13 waste prevention, reuse, and recycling. The educational and informational
+14 program shall make consumers aware that the funding for the operation of the
+15 Paint Product Stewardship Program has been added to the purchase price of all
+16 architectural paint products sold in the State.
+17 (e) A plan approved under this section shall provide for collection of
+18 postconsumer architectural paint at no cost to the person from whom the
+19 architectural paint product is collected.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 30 of 46
+1 (f) When a plan or amendment to an approved plan is submitted under this
+2 section, the Secretary shall make the proposed plan or amendment available for
+3 public review and comment for at least 30 days.
+4 (g) A producer or paint stewardship organization shall submit to the
+5 Secretary for review, in the same manner as required under subsection 6675(a)
+6 of this title, an amendment to an approved plan when there is:
+7 (1) a change to a paint stewardship assessment under the plan;
+8 (2) an addition to or removal of a category of products covered under
+9 the Program; or
+10 (3)(2) a revision of the product stewardship organization’s goals.
+11 (h) A plan approved by the Secretary under section 6675 of this title shall
+12 have a term not to exceed five years, provided that the producer remains in
+13 compliance with the requirements of this chapter and the terms of the approved
+14 plan.
+15 (i) In addition to the requirements specified in subsection (a) of this
+16 section, a stewardship organization shall notify the Secretary in writing within
+17 30 days of before any change to:
+18 (1) the number of collection sites for postconsumer architectural paint
+19 products identified under this section as part of the plan;
+20 (2) the producers identified under this section as part of the plan;
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 31 of 46
+1 (3) the brands of architectural paint products identified under this
+2 section as part of the plan; and
+3 (4) the processors that manage postconsumer architectural paint
+4 products identified under this section as part of the plan.
+5 (j) Upon submission of a plan to the Secretary under this section, a
+6 producer or a stewardship organization shall pay the fee required by 3 V.S.A.
+7 § 2822(j)(31). Thereafter, the producer or stewardship organization shall pay
+8 the fee required by 3 V.S.A. § 2822(j)(31) annually by July 1 of each year.
+9 § 6674. RETAILER RESPONSIBILITY
+10 (a) A producer or retailer may not sell or offer for sale architectural a paint
+11 product to any person in Vermont unless the producer of that architectural
+12 paint brand or a stewardship program of which the producer of that
+13 architectural paint brand is a member that the producer is a member of is
+14 implementing an approved plan for a Paint Product Stewardship Program as
+15 required by section 6673 of this title. A retailer complies with the
+16 requirements of this section if, on the date the architectural paint product was
+17 ordered from the producer or its agent, the producer or paint brand is listed on
+18 the Agency of Natural Resources’ website as a producer or brand participating
+19 in an approved plan for a Paint Product Stewardship Program.
+20 (b) At the time of sale to a consumer, a producer, a stewardship
+21 organization, or a retailer selling or offering architectural paint products for
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 32 of 46
+1 sale shall provide the consumer with information regarding available
+2 management options for postconsumer paint products collected through the
+3 Paint Product Stewardship Program or a brand of paint being sold under the
+4 Program.
+5 § 6675. AGENCY RESPONSIBILITY
+6 (a)(1) Within 90 days of after receipt of a plan submitted under section
+7 6673 of this title, the Secretary shall review the plan and make a determination
+8 whether or not to approve the plan. The Secretary shall issue a letter of
+9 approval for a submitted plan if:
+10 (A) the submitted plan provides for the establishment of a Paint
+11 Product Stewardship Program that meets the requirements of subsection
+12 6673(a) of this subchapter; and
+13 (B) the Secretary determines that the plan:
+14 (i) achieves convenient collection for consumers;
+15 (ii) educates the public on proper paint product management; and
+16 (iii) manages waste paint products in a manner that is
+17 environmentally safe and promotes reuse and recycling; and
+18 (iv) is cost-effective.
+19 (2) If the Secretary does not approve a submitted plan, the Secretary
+20 shall issue to the paint product stewardship organization a letter listing the
+21 reasons for the disapproval of the plan. If the Secretary disapproves a plan, a
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 33 of 46
+1 paint product stewardship organization intending to sell or continue to sell
+2 architectural paint in the State shall submit a new plan within 60 days of after
+3 receipt of the letter of disapproval.
+4 (b)(1) The Secretary shall review and approve the stewardship assessment
+5 proposed by a producer pursuant to subsection 6673(b) of this title. The
+6 Secretary shall only approve the Program budget and any assessment if the
+7 applicant has demonstrated that the costs of the Program and any proposed
+8 assessment are reasonable and the assessment does not exceed the costs of
+9 implementing an approved plan.
+10 (2) If an amended plan is submitted under subsection 6673(g) of this
+11 title that proposes to change the cost of the Program or proposes to change the
+12 paint stewardship assessment under the plan, the disapproval of any proposed
+13 new assessment or the failure of an approved new assessment to cover the total
+14 costs of the Program shall not relieve a producer or stewardship organization
+15 of its obligation to continue to implement the approved plan under the
+16 originally approved assessment.
+17 (c) Facilities solely collecting paint products for the Paint Product
+18 Stewardship Program that would not otherwise be subject to solid waste
+19 certification requirements shall not be required to obtain a solid waste
+20 certification. Persons solely transporting paint for the Paint Product
+21 Stewardship Program that would not otherwise be subject to solid waste hauler
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 34 of 46
+1 permitting requirements shall not be required to obtain a solid waste hauler’s
+2 permit.
+3 § 6676. ANTICOMPETITIVE CONDUCT
+4 (a) A producer or an organization of producers that manages postconsumer
+5 paint, including collection, transport, recycling, and processing of
+6 postconsumer paint, as required by this subchapter may engage in
+7 anticompetitive conduct to the extent necessary to implement the plan
+8 approved by the Secretary and is immune from liability for the conduct relating
+9 to antitrust, restraint of trade, unfair trade practices, and other regulation of
+10 trade or commerce.
+11 (b) The activity authorized and the immunity afforded under subsection (a)
+12 of this section shall not apply to any agreement among producers or paint
+13 stewardship organizations:
+14 (1) establishing or affecting the price of paint, except for the paint
+15 stewardship assessment approved under subsection 6675(b) of this title;
+16 (2) setting or limiting the output or production of paint;
+17 (3) setting or limiting the volume of paint sold in a geographic area;
+18 (4) restricting the geographic area where paint will be sold; or
+19 (5) restricting the customers to whom paint will be sold or the volume of
+20 paint that will be sold A manufacturer or representative organization
+21 implementing or participating in a stewardship program as required by this
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 35 of 46
+1 subchapter shall not be liable for any claim of a violation of antitrust, restraint
+2 of trade, unfair trade practice, or other anticompetitive conduct arising from
+3 conduct undertaken in accordance with the program.
+4 § 6677. PRODUCER REPORTING REQUIREMENTS
+5 No later than October 15, 2015, and annually thereafter, Annually, on or
+6 before October 15, a producer or a stewardship program of which the producer
+7 is a member shall submit to the Secretary a report describing the Paint Product
+8 Stewardship Program that the producer or Stewardship Program is
+9 implementing as required by section 6673 of this title. At a minimum, the
+10 report shall include:
+11 (1) a description of the methods the producer or Stewardship Program
+12 used to reduce, reuse, collect, transport, recycle, and process postconsumer
+13 paint products statewide in Vermont;
+14 (2) the volume and type of postconsumer paint products collected by the
+15 producer or Stewardship Program at each collection center in all regions of
+16 Vermont;
+17 (3) the volume of postconsumer paint products collected by the producer
+18 or Stewardship Program in Vermont by method of disposition, including reuse,
+19 recycling, energy recovery, and disposal;
+20 (4) an independent financial audit of the Paint Product Stewardship
+21 Program implemented by the producer or the Stewardship Program;
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 36 of 46
+1 (5) the prior year’s actual direct and indirect costs for each Program
+2 element and the administrative and overhead costs of administering the
+3 approved Program; and
+4 (6) samples of the educational materials that the producer or stewardship
+5 program provided to consumers of architectural paint..
+6 * * *
+7 § 6680. UNIVERSAL WASTE DESIGNATION FOR POSTCONSUMER
+8 PAINT
+9 (a) The requirements of Subchapter 9 of the Vermont Hazardous Waste
+10 Management Rules, which allow certain categories of hazardous waste to be
+11 managed as universal waste, shall apply to postconsumer paint products until
+12 the postconsumer paint is discarded, provided that:
+13 (1) the postconsumer paint product is collected as a part of a
+14 stewardship plan approved under this subchapter; and
+15 (2) the collected postconsumer paint product is or includes a paint
+16 product that is a hazardous waste as defined and regulated by the Vermont
+17 Hazardous Waste Management Rules.
+18 (b) When postconsumer paint product is regulated as universal waste under
+19 subsection (a) of this section, small and large quantity handlers of the
+20 postconsumer paint shall manage the postconsumer paint products in a manner
+21 that prevents releases of any universal waste or component of the universal
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 37 of 46
+1 waste to the environment. Postconsumer paint products regulated as universal
+2 waste shall, at a minimum, be contained in one or more of the following:
+3 (1) a container that remains closed, structurally sound, and compatible
+4 with the postconsumer paint products and that lacks evidence of leakage,
+5 spillage, or damage that could cause leakage under reasonably foreseeable
+6 conditions; or
+7 (2) a container that does not meet the requirements of subdivision (1) of
+8 this subsection, provided that the unacceptable container is overpacked in a
+9 container that meets the requirements of subdivision (1).
+10 (c) Containers holding postconsumer paint products that is are regulated as
+11 universal waste shall be clearly labeled to clearly identify the contents of the
+12 container, such as “Paint-Related Waste,” “Universal Waste Paint,” “Used
+13 Paint,” or “Waste Paint.”
+14 (d) Unless otherwise provided by statute, the definitions of the Vermont
+15 Hazardous Waste Management Rules shall apply to this section.
+16 § 6681. PAINT CONSUMER FEES
+17 A retailer shall charge the following fees on paint and remit the fees to the
+18 approved stewardship organization for the administration of program approved
+19 by the Secretary:
+20 (1) Half pint or smaller: No fee.
+21 (2) Greater than a half pint to one gallon: $0.65.
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 38 of 46
+1 (3) Greater than one gallon to two gallons: $1.35.
+2 (4) Greater than two gallons to five gallons: $2.45.
+3 Sec. 11. IMPLEMENTATION
+4 (a) The requirements for the sale of paint products under 10 V.S.A. § 6673
+5 shall apply to architectural coatings beginning on July 1, 2013 and all paint
+6 products beginning July 1, 2026.
+7 (b) The requirement under 10 V.S.A. § 6673 for an architectural coatings
+8 producer to submit a stewardship plan to the Secretary of Natural Resources
+9 currently applies to producers of architectural coatings as required beginning
+10 on July 1, 2013 and shall also apply to producers of paint related products
+11 beginning on July 1, 2026.
+12 (c) The requirement under 10 V.S.A. § 6677 that an architectural coatings
+13 producer annually report to the Secretary of Natural Resources currently
+14 applies to producers of architectural coatings as required beginning on July 1,
+15 2013 and shall also apply to producers of paint related products beginning on
+16 March 1, 2027.
+17 * * * Healthy Homes Initiative * * *
+18 Sec. 12. 2024 Acts and Resolves No. 78, Sec. B.1103 is amended to read:
+19 Sec. B.1103 CLIMATE AND ENVIRONMENT – FISCAL YEAR 2024
+20 ONE-TIME APPROPRIATIONS
+21 * * *
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 39 of 46
+1 (j)(1) In fiscal year 2024, the amount of $6,100,000 American Rescue Plan
+2 Act (ARPA) – Coronavirus State Fiscal Recovery Funds is appropriated to the
+3 Department of Environmental Conservation for the Healthy Homes Initiative.
+4 Funds shall be used to make repairs or improvements to drinking water,
+5 wastewater, or stormwater systems for Vermonters who have low to moderate
+6 income or who live in manufactured housing communities, or both.
+7 (2) All information submitted to or compiled by the Department of
+8 Environmental Conservation related to the issuance of individual funding
+9 awards under the Healthy Homes Initiative shall be considered confidential
+10 unless the person providing the information designates that it is not
+11 confidential. This shall include all personal information of applicants that
+12 request or receive funding. Notwithstanding 1 V.S.A. § 214, this subdivision
+13 shall take effect on passage and shall apply retroactively to July 1, 2023.
+14 * * *
+15 * * * Flood Safety * * *
+16 Sec. 13. 2024 Act and Resolves No. 121, Sec. 3 is amended to read:
+17 Sec. 3. DEPARTMENT OF ENVIRONMENTAL CONSERVATION;
+18 RIVER CORRIDOR BASE MAP; INFILL MAPPING;
+19 EDUCATION AND OUTREACH
+20 (a) On or before January 1, 2026 2027, the Department of Environmental
+21 Conservation, in consultation with the Agency of Commerce and Community
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 40 of 46
+1 Development and the regional planning commissions, shall amend by
+2 procedure the statewide River Corridor Base Map to identify areas suitable for
+3 development that are located within existing settlements and that will not cause
+4 or contribute to increases in fluvial erosion hazards.
+5 (b) Beginning on January 1, 2025 and ending on January 1, 2027 2028, the
+6 Department of Environmental Conservation shall conduct an education and
+7 outreach program to consult with and collect input from municipalities,
+8 environmental justice focus populations, the Environmental Justice Advisory
+9 Council, businesses, property owners, farmers, and other members of the
+10 public regarding how State permitting of development in mapped river
+11 corridors will be implemented, including potential restrictions on the use of
+12 land within mapped river corridors. The Department shall develop educational
+13 materials for the public as part of its charge under this section. The
+14 Department shall collect input from the public regarding the permitting of
+15 development in mapped river corridors as proposed by this act. On or before
+16 January 15, 2027 2028 and until permitting of development in mapped river
+17 corridors begins under 10 V.S.A. § 754, the Department shall submit to the
+18 Senate Committee on Natural Resources and Energy, the House Committee on
+19 Environment and Energy, and the Environmental Justice Advisory Council a
+20 report that shall include:
+21 (1) a summary of the public input it received regarding State permitting
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 41 of 46
+1 of development in mapped river corridors during the public education and
+2 outreach required under this section;
+3 (2) recommendations, based on the public input collected, for changes to
+4 the requirements for State permitting of development in mapped river
+5 corridors;
+6 (3) an analysis and summary of State permitting of development in
+7 mapped river corridors on environmental justice populations; and
+8 (4) a summary of the Department’s progress in adopting the rules
+9 required under 10 V.S.A. § 754 for the regulation of development in mapped
+10 river corridors.
+11 Sec. 14. 10 V.S.A. § 754 is amended to read:
+12 § 754. MAPPED RIVER CORRIDOR RULES
+13 (a) Rulemaking authority.
+14 (1) On or before July 1, 2027 July 15, 2028, the Secretary shall adopt
+15 rules pursuant to 3 V.S.A. chapter 25 that establish requirements for issuing
+16 and enforcing permits for:
+17 (A) all development within a mapped river corridor in the State; and
+18 (B) for development exempt from municipal regulation in flood
+19 hazard areas.
+20 (2) The Secretary shall not adopt rules under this subsection that
+21 regulate agricultural activities without the consent of the Secretary of
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 42 of 46
+1 Agriculture, Food and Markets, provided that the Secretary of Agriculture,
+2 Food and Markets shall not withhold consent under this subdivision when lack
+3 of such consent would result in the State’s noncompliance with the National
+4 Flood Insurance Program.
+5 (3) The Secretary shall seek the guidance of the Federal Emergency
+6 Management Agency in developing and drafting the rules required by this
+7 section in order to ensure that the rules are sufficient to meet eligibility
+8 requirements for the National Flood Insurance Program.
+9 * * *
+10 (e) Permit requirement. Beginning on January 1, 2028 July 1, 2029, a
+11 person shall not commence or conduct development exempt from municipal
+12 regulation in a flood hazard area or commence or conduct any development in
+13 a mapped river corridor without a permit issued under the rules required under
+14 subsection (a) of this section by the Secretary or by a State agency delegated
+15 permitting authority under subsection (f) of this section. When an application
+16 is filed under this section, the Secretary or delegated State agency shall
+17 proceed in accordance with chapter 170 of this title.
+18 * * *
+19 Sec. 15. 2024 Acts and Resolves 121, Sec. 10 is amended to read:
+20 Sec. 10. STUDY COMMITTEE ON STATE ADMINISTRATION OF
+21 THE NATIONAL FLOOD INSURANCE PROGRAM
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 43 of 46
+1 * * *
+2 (e) Report. On or before August 15, 2025 2026, the Study Committee shall
+3 submit a written report to the General Assembly with its findings and any
+4 recommendations for legislative action. Any recommendation for legislative
+5 action shall be as draft legislation.
+6 * * *
+7 Sec. 16. 2024 Acts and Resolves 121, Sec. 11(a) is amended to read:
+8 (a) The Secretary of Natural Resources shall initiate rulemaking, including
+9 pre-rulemaking, for the rules required in Sec. 5 of this act, 10 V.S.A. § 754
+10 (river corridor development), not later than July 1, 2025. The rules shall be
+11 adopted on or before July 1, 2027 2028.
+12 Sec. 17. 2024 Acts and Resolves No. 121, Sec. 29(b) is amended to read:
+13 (b) All other sections shall take effect July 1, 2024, except that:
+14 (1) Secs. 6a, 7, 8, 8a, and 9 (conforming amendments to municipal river
+15 corridor planning) shall take effect on January 1, 2028, except that in Sec. 9,
+16 24 V.S.A. § 4424(a)(2)(B)(i) (municipal compliance with the State Flood
+17 Hazard Area Standards) shall take effect on January 1, 2026 2028;
+18 * * *
+19 * * * Wetlands * * *
+20 Sec. 18. 10 V.S.A. § 918 is amended to read:
+21 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 44 of 46
+1 (a) On or before July 1 December 1, 2025, the Secretary of Natural
+2 Resources shall amend the Vermont Wetlands Rules pursuant to 3 V.S.A.
+3 chapter 25 to clarify that the goal of wetlands regulation and management in
+4 the State is the net gain of wetlands to be achieved through protection of
+5 existing wetlands and restoration of wetlands that were previously adversely
+6 affected. This condition shall not apply to wetland, river, and flood plain
+7 restoration projects, including dam removals.
+8 * * *
+9 (c) At a minimum, the Wetlands Rules shall be revised to:
+10 (1) Require an applicant for a wetland permit that authorizes adverse
+11 impacts to more than 5,000 square feet of wetlands to compensate for those
+12 impacts through restoration, enhancement, or creation of wetland resources.
+13 (2) Incorporate the net gain rule into requirements for permits issued
+14 after September 1 December 1, 2025.
+15 * * *
+16 * * * Dams * * *
+17 Sec. 19. 2024 Acts and Resolves No. 121, Sec. 22 is amended to read:
+18 Sec. 22. STUDY COMMITTEE ON DAM EMERGENCY OPERATIONS
+19 PLANNING
+20 (a) Creation. There is created the Study Committee on Dam Emergency
+21 Operations Planning to review and recommend how to improve regional
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 45 of 46
+1 emergency action planning for hazards caused by dam failure, including how
+2 to shift responsibility for emergency planning from individual municipalities to
+3 regional authorities, how to improve regional implementation of dam
+4 emergency response plans, and how to fund dam emergency action planning at
+5 the regional level.
+6 * * *
+7 (e) Report. On or before December 15, 2024 2025, the Study Committee
+8 shall submit a written report to the General Assembly with its findings and any
+9 recommendations for legislative action. Any recommendation for legislative
+10 action shall be submitted as draft legislation.
+11 (f) Meetings.
+12 (1) The Secretary of Natural Resources or designee shall call the first
+13 meeting of the Study Committee.
+14 (2) The Committee shall select a chair from among its members at the
+15 first meeting.
+16 (3) A majority of the membership of the Study Committee shall
+17 constitute a quorum.
+18 (4) The Study Committee shall cease to exist on March 1, 2025 2026.
+19 * * *
+20 Sec. 20. 2024 Acts and Resolves No. 121, Sec. 24(f) is amended to read:
+21 (f) On or before January 15 September 1, 2025, the Agency of Natural
+VT LEG #380629 v.1
+BILL AS INTRODUCED H.319
+2025 Page 46 of 46
+1 Resources shall complete its analysis of the capital and ongoing operations and
+2 maintenance costs of the Green River Dam, as authorized in 2022 Acts and
+3 Resolves No. 83, Sec. 46, and shall submit the results of the analysis to the
+4 House Committees on Environment and Energy and on Appropriations and the
+5 Senate Committees on Natural Resources and Energy and on Appropriations.
+6 * * * Effective Date * * *
+7 Sec. 21. EFFECTIVE DATE
+8 This act shall take effect on passage.
+VT LEG #380629 v.1
+[DELETED:  H P H I R R D S d S m w s S T d e D I m r A]
+[DELETED:  H P I * S S ( s c e b ( ( ( ( ( e u ( m s]
+[DELETED:  H P ( S E * S ( t m s t * S § A * ( p p c]
+[DELETED:  H P ( u R ( ( t * ( d * S §     ( ( s h o ( c]
+[DELETED:  H P h s f ( o ( t A s ( p s ( p s ( ( o s r]
+[DELETED:  H P ( o ( s ( m ( r ( r r ( n s ( t A o r ( o]
+[DELETED:  H P ( s ( m ( r ( r r ( n s ( m s o S § ( 2 r]
+[DELETED:  H P c m ( i ( t ( p r ( p w o h o f h b p p o]
+[DELETED:  H P c e e m ( d w c p o c ( e m e d m o e D o]
+[DELETED:  H P p t a o o s o a o t ( h ( c ( h ( c ( i a]
+[DELETED:  H P h h h ( c e w h i r b ( ( d f n h b ( a h]
+[DELETED:  H P t s p a t o I S p a c c a ( t p a c p s e]
+[DELETED:  H P e c f p a S ( b f ( p r ( p a c s p c p h]
+[DELETED:  H P c a C m e c ( s h i e a a ( a i p S m o e]
+[DELETED:  H P D o e d o S a c s s a ( h ( h ( h ( c ( i]
+[DELETED:  H P a h h h ( c e w h i r b ( ( d f n h b ( p]
+[DELETED:  H P p p A p a s c p o t m c s e p ( s a o h e]
+[DELETED:  H P c f p a S ( u p r ( i d S § ( t t t ( s]
+[DELETED:  H P ( a ( o ( m a ( r p S § ( a a t * ( b s S]
+[DELETED:  H P s s o r t A s w s h p S § ( d * ( * S ( c]
+[DELETED:  H P 1 f c t ( r t ( c ( t a i m ( * S S § T c]
+[DELETED:  H P r t p r f p p T t g s § A ( c p o ( c s]
+[DELETED:  H P “ c ( p p ( w V ( s f ( t c a t p b ( (]
+[DELETED:  H P ( V ( r ( p ( r p m d g c ( ( ( ( ( ( ( c]
+[DELETED:  H P ( w p ( c m d c o ( s ( s c ( ( i I ( n i]
+[DELETED:  H P § ( s t f ( P ( c c ( t m e ( a u s s p a]
+[DELETED:  H P v l ( a b ( c ( 1 p m ( p p c r c ( m t]
+[DELETED:  H P P r ( c s f ( P t f s c p o a r e p p s a]
+[DELETED:  H P b t ( o ( p m P ( m c o w p P a ( p a]
+[DELETED:  H P ( s p ( S o ( ( t ( ( h c p ( s 3 ( p (]
+[DELETED:  H P ( s ( p ( p § t § ( p p a i r r o t i ( o]
+[DELETED:  H P s m P P § ( 6 w a ( P 6 ( ( ( ( e ( ( s r]
+[DELETED:  H P p a r ( p S a a i ( t p n c o o ( S c c S]
+[DELETED:  H P p p § ( p p a a t t ( o s ( s ( ( ( ( p i]
+[DELETED:  H P s o c § N b i S i r ( u p ( p V ( o r ( P]
+[DELETED:  H P ( e a ( p * §   ( M m t ( s ( p H ( s p t]
+[DELETED:  H P w w ( w s c ( t c ( u c P ( H § A a b (     N (  $]
+[DELETED:  H P (  $ (  $ S ( s p ( p c o b ( p a 2 M * S S   *]
+[DELETED:  H P ( A D F w i ( E a u c r s * * S S     ( C]
+[DELETED:  H P D p d o ( D o e C p c l m D d J c S E r (]
+[DELETED:  H P o o ( t c ( m ( r r S § ( ( r a ( ( h ( r]
+[DELETED:  H P A F o F ( M s r * ( p r a s p i p * S S  ]
+[DELETED:  H P * ( s r a * S ( p ( a S ( ( c 2 H * * S §]
+[DELETED:  H P ( R c t e a r * ( ( i i ( a * * S S   ( O]
+[DELETED:  H P e t r e t * ( s r a ( ( m ( f ( c ( * S (]
+[DELETED:  H P R m R H S * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.319
+2025 Page 1 of 46
+1 H.319
+2 Introduced by Representative Sheldon of Middlebury
+3 Referred to Committee on
+4 Date:
+5 Subject: Conservation and development; solid waste; flood safety; wetlands;
+6 dams
+7 Statement of purpose of bill as introduced: This bill proposes to amend
+8 multiple environmental subjects. The bill would extend by a year the date by
+9 which an assessment of the end-of-life management of certain battery types
+10 shall be conducted and requires the battery stewardship organization in the
+11 State to complete the assessment instead of the Agency of Natural Resources.
+12 The bill also clarifies when a fuel dealer can deliver to a category one tank that
+13 does not have a valid permit or otherwise may result in a release to the
+14 environment. The bill would provide that information submitted to the
+15 Department of Environmental Conservation under the Healthy Homes
+16 Initiative shall be considered confidential. In addition, the bill would extend
+17 multiple deadline dates for reporting or rulemaking for specific flood safety,
+18 river corridor, wetlands, and dam programs.
+19 An act relating to miscellaneous environmental subjects
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 2 of 46
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Battery Extended Producer Responsibility * * *
+3 Sec. 1. 2024 Acts and Resolves No. 152, Sec. 3 is amended to read:
+4 Sec. 3. ANR BATTERY ASSESSMENT
+5 (a) On or before July 1, 2026, the Secretary of Natural Resources 2027, the
+6 stewardship organization formed pursuant to 10 V.S.A. chapter 168 shall
+7 complete an assessment of the opportunities, challenges, and feasibility of
+8 establishing mandatory end-of-life management programs for the following
+9 battery types:
+10 (1) batteries used in hybrid and electric vehicles;
+11 (2) battery energy storage systems; and
+12 (3) batteries that are not easily removable from the products they power.
+13 (b) The assessment required by this section shall include:
+14 (1) a summary of the work and progress other states have made in
+15 establishing end-of-life management programs for the three battery types listed
+16 under subsection (a) of this section; and
+17 (2) policy recommendations on whether mandatory end-of-life
+18 management programs are necessary for the battery types listed under
+19 subsection (a) of this section.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 3 of 46
+1 (c) The assessment required by this section shall be provided to the
+2 Secretary of Natural Resources, the House Committee on Environment and
+3 Energy, and the Senate Committee on Natural Resources and Energy.
+4 * * * Fuel Storage Tanks * * *
+5 Sec. 2. 10 V.S.A. § 1927(d) is amended to read:
+6 (d) No person shall deliver a regulated substance to a category one tank
+7 that is visibly designated by the Agency as not having a valid permit or not
+8 meeting standards adopted by the Secretary related to corrosion protection,
+9 spill prevention, leak detection, financial responsibility, or overfill protection
+10 that may result in the tank releasing a regulated substance to the environment.
+11 * * * Household Hazardous Waste Extended Producer Responsibility * * *
+12 Sec. 3. 10 V.S.A. § 7181 is amended to read:
+13 § 7181. DEFINITIONS
+14 As used in this chapter:
+15 * * *
+16 (4)(A) “Covered household hazardous product” means a consumer
+17 product offered for retail sale that is contained in the receptacle in which the
+18 product is offered for retail sale, if the product has any of the following
+19 characteristics:
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 4 of 46
+1 (i) the product or a component of the product is a hazardous waste
+2 under subchapter 2 of the Vermont Hazardous Waste Management
+3 Regulations, regardless of the status of the generator of the hazardous waste; or
+4 (ii) the product is a gas cylinder.
+5 (B) “Covered household hazardous product” does not mean any of
+6 the following:
+7 * * *
+8 (iv) architectural paint paint-related products as that term is
+9 defined in section 6672 of this title;
+10 * * *
+11 Sec. 4. 10 V.S.A. § 7182 is amended to read:
+12 § 7182. SALE OF COVERED HOUSEHOLD HAZARDOUS PRODUCTS;
+13 STEWARDSHIP ORGANIZATION REGISTRATION;
+14 MANUFACTURER REGISTRATION
+15 (a) Sale prohibited.
+16 (1) A manufacturer of a covered household hazardous product shall not
+17 sell, offer for sale, or deliver to a retailer for subsequent sale a covered
+18 household hazardous product without registering with the stewardship
+19 organization pursuant to subsection (c) of this section.
+20 (2) Beginning six months after a final decision on the adequacy of a
+21 collection plan by the Secretary, a manufacturer of a covered household
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 5 of 46
+1 hazardous product shall not sell, offer for sale, or deliver to a retailer for
+2 subsequent sale a covered household hazardous product unless all the
+3 following have been met:
+4 (1)(A) The manufacturer is participating in a stewardship
+5 organization implementing an approved collection plan.
+6 (2)(B) The name of the manufacturer, the manufacturer’s brand, and
+7 the name of the covered household hazardous product are submitted to the
+8 Agency of Natural Resources by a stewardship organization and listed on the
+9 stewardship organization’s website as covered by an approved collection plan.
+10 (3)(C) The stewardship organization in which the manufacturer
+11 participates has submitted an annual report consistent with the requirements of
+12 section 7185 of this title.
+13 (4)(D) The stewardship organization in which the manufacturer
+14 participates has conducted a plan audit consistent with the requirements of
+15 subsection 7185(b) of this title.
+16 (b) Stewardship organization registration requirements.
+17 (1) On or before July 1, 2025 and annually thereafter, a stewardship
+18 organization shall file a registration form with the Secretary. The Secretary
+19 shall provide the registration form to the stewardship organization. The
+20 registration form shall include:
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 6 of 46
+1 (A) a list of the manufacturers participating in the stewardship
+2 organization;
+3 (B) a list of the brands of each manufacturer participating in the
+4 stewardship organization;
+5 (C) a list of the covered household hazardous products of each
+6 manufacturer participating in the stewardship organization;
+7 (D) the name, address, and contact information of a person
+8 responsible for ensuring compliance with this chapter;
+9 (E) a description of how the stewardship organization meets the
+10 requirements of subsection 7184(b) of this title, including any reasonable
+11 requirements for participation in the stewardship organization; and
+12 (F)(B) the name, address, and contact information of a person for a
+13 nonmember manufacturer to contact regarding how to participate in the
+14 stewardship organization to satisfy the requirements of this chapter.
+15 (2) A renewal of a registration without changes may be accomplished
+16 through notifying the Agency of Natural Resources on a form provided by the
+17 Agency Beginning July 1, 2026 and annually thereafter, a stewardship
+18 organization shall renew its registration with the Secretary. A renewal
+19 registration shall include the following:
+20 (A) a list of the manufacturers participating in the stewardship
+21 organization;
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 7 of 46
+1 (B) a list of the brands of each manufacturer participating in the
+2 stewardship organization;
+3 (C) a list of the covered household hazardous products of each
+4 manufacturer participating in the stewardship organization;
+5 (D) the name, address, and contact information of a person
+6 responsible for ensuring compliance with this chapter;
+7 (E) a description of how the stewardship organization meets the
+8 requirements of subsection 7184(b) of this title, including any reasonable
+9 requirements for participation in the stewardship organization; and
+10 (F) the name, address, and contact information of a person for a
+11 nonmember manufacturer to contact regarding how to participate in the
+12 stewardship organization to satisfy the requirements of this chapter.
+13 (c) Manufacturer registration. On or before November 1, 2025, a
+14 manufacturer of a covered household hazardous product shall register with the
+15 stewardship organization in a manner proscribed by the stewardship
+16 organization.
+17 Sec. 5. 10 V.S.A. § 7183 is amended to read:
+18 § 7183. COLLECTION PLANS
+19 (a) Collection plan required. Prior to July 1, 2025 On or before July 1,
+20 2026, any stewardship organization registered with the Secretary as
+21 representing manufacturers of covered household hazardous products shall
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 8 of 46
+1 coordinate and submit to the Secretary for review one collection plan for all
+2 manufacturers.
+3 (b) Collection plan; minimum requirements. Each collection plan shall
+4 include, at a minimum, all of the following requirements:
+5 (1) Initial plan. The initial plan shall last for a period not to exceed
+6 three years and contain, at a minimum, the following requirements:
+7 (A) List of participants. A list of the manufacturers, brands, and
+8 products participating in the collection plan and a methodology for adding and
+9 removing manufacturers and notifying the Agency of new participants.
+10 (2)(B) Free statewide collection of covered household hazardous
+11 products. The collection program shall provide for reimburse municipalities
+12 when a municipality provides for free, convenient, and accessible statewide
+13 opportunities for the collection from covered entities of covered household
+14 hazardous products, including orphan covered products. A stewardship
+15 organization shall accept all covered household hazardous products collected
+16 from a covered entity and shall not refuse the collection of a covered
+17 household hazardous product, including orphan covered household products,
+18 based on the brand or manufacturer of the covered household hazardous
+19 product unless specifically exempt from this requirement. The collection
+20 program shall also provide for the payment of collection, processing, and end-
+21 of-life management of the covered household hazardous products. Collection
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 9 of 46
+1 costs include facility costs, equipment costs, labor, supplies, maintenance,
+2 events costs, and event contractor costs, including collection event set-up fees,
+3 environmental service fees, insurance fees, and shipping containers and
+4 materials.
+5 (3) Convenient collection location. The stewardship organization shall
+6 develop a collection program that allows all municipal household hazardous
+7 waste collection programs to opt to be a part of the collection plan, including
+8 collection events and facilities offered by solid waste planning entities. The
+9 plan shall make efforts to site points of collection equitably across all regions
+10 of the State to allow for convenient and reasonable access of all Vermonters to
+11 collection facilities or collection events.
+12 (4) Public education and outreach. The collection plan shall include an
+13 education and outreach program that shall include a website and may include
+14 media advertising, retail displays, articles and publications, and other public
+15 educational efforts. Outreach and education shall be suitable for the State’s
+16 diverse ethnic populations, through translated and culturally appropriate
+17 materials, including in-language and targeted outreach. Public education and
+18 outreach should include content to increase meaningful participation by
+19 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+20 During the first year of program implementation and two years after adoption
+21 of the collection plan, each stewardship organization shall carry out a survey of
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 10 of 46
+1 public awareness regarding the requirements of the program established under
+2 this chapter that can identify communities that have disparities in awareness
+3 and need more outreach. Each stewardship organization shall share the results
+4 of the public awareness surveys with the Secretary. If multiple stewardship
+5 organizations are implementing plans approved by the Secretary, the
+6 stewardship organizations shall coordinate in carrying out their education and
+7 outreach responsibilities under this subdivision and shall include in their
+8 annual reports to the Secretary a summary of their coordinated education and
+9 outreach efforts. The education and outreach program and website shall notify
+10 the public of the following:
+11 (A) that there is a free collection program for covered household
+12 hazardous products;
+13 (B) the location and hours of operation of collection points and how a
+14 covered entity can access this collection program;
+15 (C) the special handling considerations associated with covered
+16 household hazardous products; and
+17 (D) source reduction information for consumers to reduce leftover
+18 covered household products.
+19 (5) Compliance with appropriate environmental standards. In
+20 implementing a collection plan, a stewardship organization shall comply with
+21 all applicable laws related to the collection, transportation, and disposal of
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 11 of 46
+1 hazardous waste. A stewardship organization shall comply with any special
+2 handling or disposal standards established by the Secretary for covered
+3 household hazardous products or for the collection plan of the manufacturer.
+4 (6) Method of disposition. The collection plan shall describe how
+5 covered household hazardous products will be managed in the most
+6 environmentally and economically sound manner, including following the
+7 waste-management hierarchy. The management of covered household
+8 hazardous products under the collection plan shall use management activities
+9 in the following priority order: source reduction, reuse, recycling, energy
+10 recovery, and disposal. Collected covered household hazardous products shall
+11 be recycled when technically and economically feasible.
+12 (7) Performance goals. A collection plan shall include:
+13 (A) A performance goal for covered household hazardous products
+14 determined by the number of total participants at collection events and
+15 facilities listed in the collection plan during a program year divided by the total
+16 number of households. The number of households shall include seasonal
+17 households. The calculation methodology for the number of households shall
+18 be included in the plan.
+19 (B) At a minimum, the collection performance goal for the first
+20 approved plan shall be an annual participation rate of five percent of the
+21 households for every collection program based on the number of households
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 12 of 46
+1 the collection program serves. After the initial approved program plan, the
+2 stewardship organization shall propose performance goals for subsequent
+3 program plans. The Secretary shall approve the performance goals for the plan
+4 at least every five years. The stewardship organization shall use the results of
+5 the most recent waste composition study required under 6604 of this title and
+6 other relevant factors to propose the performance goals of the collection plan.
+7 If a stewardship organization does not meet its performance goals, the
+8 Secretary may require the stewardship organization to revise the collection
+9 plan to provide for one or more of the following: additional public education
+10 and outreach, additional collection events, or additional hours of operation for
+11 collection sites. A stewardship organization is not authorized to reduce or
+12 cease collection, education and outreach, or other activities implemented under
+13 an approved plan on the basis of achievement of program performance goals.
+14 (8)(C) Collection plan funding. The collection plan shall describe how
+15 the stewardship organization will fund the implementation of the collection
+16 plan and collection activities under the plan, including the costs for education
+17 and outreach, collection, processing, and end-of-life management of the
+18 covered household hazardous product all municipal collection offered to the
+19 public in a base program year. A base program year shall be based on the
+20 services provided in calendar year 2024 and any other collection facilities or
+21 events approved by the Secretary. Collection costs include facility costs,
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 13 of 46
+1 equipment costs, labor, supplies, maintenance, events costs, and event
+2 contractor costs, including collection event set-up fees, environmental service
+3 fees, insurance fees, and shipping containers and materials. The collection
+4 plan shall include how municipalities will be compensated for all costs
+5 attributed to collection of covered household hazardous products. The
+6 Secretary shall resolve disputes relating to compensation.
+7 (2) Subsequent plans. After the expiration of the initial plan approved
+8 by the Secretary, the collection plan shall include, at a minimum, the
+9 following:
+10 (A) List of participants. A list of the manufacturers, brands, and
+11 products participating in the collection plan and a methodology for adding and
+12 removing manufacturers and notifying the Agency of new participants.
+13 (B) Free statewide collection of covered household hazardous
+14 products. The collection program shall provide for free, convenient, and
+15 accessible statewide opportunities for the collection from covered entities of
+16 covered household hazardous products, including orphan covered products. A
+17 stewardship organization shall accept all covered household hazardous
+18 products collected from a covered entity and shall not refuse the collection of a
+19 covered household hazardous product, including orphan covered household
+20 products, based on the brand or manufacturer of the covered household
+21 hazardous product unless specifically exempt from this requirement. The
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 14 of 46
+1 collection program shall also provide for the payment of collection, processing,
+2 and end-of-life management of the covered household hazardous products.
+3 Collection costs include facility costs, equipment costs, labor, supplies,
+4 maintenance, events costs, and event contractor costs, including collection
+5 event set-up fees, environmental service fees, insurance fees, and shipping
+6 containers and materials.
+7 (C) Convenient collection location. The stewardship organization
+8 shall develop a collection program that allows all municipal household
+9 hazardous waste collection programs to opt to be a part of the collection plan,
+10 including collection events and facilities offered by solid waste planning
+11 entities. The plan shall make efforts to site points of collection equitably
+12 across all regions of the State to allow for convenient and reasonable access of
+13 all Vermonters to collection facilities or collection events.
+14 (D) Public education and outreach. The collection plan shall include
+15 an education and outreach program that shall include a website and may
+16 include media advertising, retail displays, articles and publications, and other
+17 public educational efforts. Outreach and education shall be suitable for the
+18 State’s diverse ethnic populations, through translated and culturally appropriate
+19 materials, including in-language and targeted outreach. Public education and
+20 outreach should include content to increase meaningful participation by
+21 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 15 of 46
+1 During the second approved plan, each stewardship organization shall carry
+2 out a survey of public awareness regarding the requirements of the program
+3 established under this chapter that can identify communities that have
+4 disparities in awareness and need more outreach. Each stewardship
+5 organization shall share the results of the public awareness surveys with the
+6 Secretary. If multiple stewardship organizations are implementing plans
+7 approved by the Secretary, the stewardship organizations shall coordinate in
+8 carrying out their education and outreach responsibilities under this
+9 subdivision (D) and shall include in their annual reports to the Secretary a
+10 summary of their coordinated education and outreach efforts. The education
+11 and outreach program and website shall notify the public of the following:
+12 (i) that there is a free collection program for covered household
+13 hazardous products;
+14 (ii) the location and hours of operation of collection points and
+15 how a covered entity can access this collection program;
+16 (iii) the special handling considerations associated with covered
+17 household hazardous products; and
+18 (iv) source reduction information for consumers to reduce leftover
+19 covered household products.
+20 (E) Compliance with appropriate environmental standards. In
+21 implementing a collection plan, a stewardship organization shall comply with
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 16 of 46
+1 all applicable laws related to the collection, transportation, and disposal of
+2 hazardous waste. A stewardship organization shall comply with any special
+3 handling or disposal standards established by the Secretary for covered
+4 household hazardous products or for the collection plan of the manufacturer.
+5 (F) Method of disposition. The collection plan shall describe how
+6 covered household hazardous products will be managed in the most
+7 environmentally and economically sound manner, including following the
+8 waste-management hierarchy. The management of covered household
+9 hazardous products under the collection plan shall use management activities
+10 in the following priority order: source reduction, reuse, recycling, energy
+11 recovery, and disposal. Collected covered household hazardous products shall
+12 be recycled when technically and economically feasible.
+13 (G) Performance goals. A collection plan shall include:
+14 (i) A performance goal for covered household hazardous products
+15 determined by the number of total participants at collection events and
+16 facilities listed in the collection plan during a program year divided by the total
+17 number of households. The number of households shall include seasonal
+18 households. The calculation methodology for the number of households shall
+19 be included in the plan.
+20 (ii) At a minimum, the collection performance goal for the initial
+21 plan approved pursuant to subdivision (b)(2) of this section shall be an annual
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 17 of 46
+1 participation rate of five percent of the households for every collection
+2 program based on the number of households the collection program serves.
+3 After the initial approved program plan, the stewardship organization shall
+4 propose performance goals for subsequent program plans. The Secretary shall
+5 approve the performance goals for the plan at least every five years. The
+6 stewardship organization shall use the results of the most recent waste
+7 composition study required under 6604 of this title and other relevant factors to
+8 propose the performance goals of the collection plan. If a stewardship
+9 organization does not meet its performance goals, the Secretary may require
+10 the stewardship organization to revise the collection plan to provide for one or
+11 more of the following: additional public education and outreach, additional
+12 collection events, or additional hours of operation for collection sites. A
+13 stewardship organization is not authorized to reduce or cease collection,
+14 education and outreach, or other activities implemented under an approved
+15 plan on the basis of achievement of program performance goals.
+16 (H) Collection plan funding. The collection plan shall describe how the
+17 stewardship organization will fund the implementation of the collection plan
+18 and collection activities under the plan, including the costs for education and
+19 outreach, collection, processing, and end-of-life management of the covered
+20 household hazardous product. Collection costs include facility costs,
+21 equipment costs, labor, supplies, maintenance, events costs, and event
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 18 of 46
+1 contractor costs, including collection event set-up fees, environmental service
+2 fees, insurance fees, and shipping containers and materials. The collection
+3 plan shall include how municipalities will be compensated for all costs
+4 attributed to collection of covered household hazardous products. The
+5 Secretary shall resolve disputes relating to compensation.
+6 (c) Term of collection plan. A collection plan approved by the Secretary
+7 under section 7187 of this title shall have a term not to exceed five years,
+8 provided that the stewardship organization remains in compliance with the
+9 requirements of this chapter and the terms of the approved collection plan.
+10 (d) Collection plan implementation. Stewardship organizations shall
+11 implement the collection plan on or before six months after the date of a final
+12 decision by the Secretary on the adequacy of the collection plan.
+13 Sec. 6. 10 V.S.A. § 7184 is amended to read:
+14 § 7184. STEWARDSHIP ORGANIZATIONS
+15 (a) Participation in a stewardship organization. A manufacturer shall meet
+16 the requirements of this chapter by participating in a stewardship organization
+17 that undertakes the responsibilities under sections 7182, 7183, and 7185 of this
+18 title.
+19 (b) Qualifications for a stewardship organization. To qualify as a
+20 stewardship organization under this chapter, an organization shall:
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 19 of 46
+1 (1) commit to assume the responsibilities, obligations, and liabilities of
+2 all manufacturers participating in the stewardship organization;
+3 (2) not create unreasonable barriers for participation in the stewardship
+4 organization; and
+5 (3) maintain a public website that lists all manufacturers and
+6 manufacturers’ brands and products covered by the stewardship organization’s
+7 approved collection plan.
+8 (c) A stewardship organization is authorized to charge its members
+9 reasonable fees for the organization, administration, and implementation of the
+10 programs required by this chapter.
+11 Sec. 7. 10 V.S.A. § 7187 is amended to read:
+12 § 7187. AGENCY RESPONSIBILITIES
+13 (a) Review and approve collection plans. The Secretary shall review and
+14 approve or deny collection plans submitted under section 7183 of this title
+15 according to the public notice and comment requirements of section 7714 of
+16 this title.
+17 * * *
+18 (g) Agency collection plan. If no stewardship organization is formed on or
+19 before July 1, 2025 or the stewardship organization fails to submit a plan or
+20 submits a plan that does not meet the requirements of this chapter, the
+21 Secretary shall adopt and administer a plan that meets the requirements of
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 20 of 46
+1 section 7183 of this title. If the Secretary administers the plan adopted under
+2 section 7183, the Secretary shall charge each manufacturer the prorated costs
+3 of plan administration, the Agency’s oversight costs, and a hazardous waste
+4 reduction assessment of 10 percent of the plan’s total cost to be deposited in
+5 the Solid Waste Management Assistance Account of the Waste Management
+6 Assistance Fund, for the purpose of providing grants to municipalities and
+7 small businesses to prevent pollution and reduce the generation of hazardous
+8 waste in the State. When determining a manufacturer’s assessment under this
+9 section, the Agency may allocate costs to a manufacturer of covered household
+10 hazardous products based on the sales of covered household hazardous
+11 products nationally prorated to the population of Vermont.
+12 Sec. 8. 10 V.S.A. § 6621a is amended to read:
+13 § 6621a. LANDFILL DISPOSAL REQUIREMENTS
+14 (a) In accordance with the following schedule, no person shall knowingly
+15 dispose of the following materials in solid waste or in landfills:
+16 * * *
+17 (12) Covered household hazardous products after July 1, 2025 2026.
+18 * * *
+19 Sec. 9. SOLID WASTE PLAN; FLEXIBILITY
+20 (a) Notwithstanding the municipal household hazardous waste (HHW)
+21 collection requirements under the State Solid Waste Plan adopted pursuant to
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 21 of 46
+1 10 V.S.A. § 6604, the Secretary of Natural Resources may grant a variance
+2 from the requirement to conduct at least two household hazardous waste
+3 collection events in that municipality. The variance shall allow a municipality
+4 to meet its obligations, as follows:
+5 (1) the municipality has partnered with another municipality to allow its
+6 residents the ability to access a permanent HHW facility in the same manner as
+7 the municipality that operates the permanent HHW facility;
+8 (2) the municipality has partnered with a nearby municipality to offer
+9 collection events to members in both municipalities;
+10 (3) the municipality has demonstrated that it has made reasonable efforts
+11 to provide alternate collection opportunities identified under subdivisions (1)
+12 and (2) of this subsection and was unable and that the cost of a collection event
+13 is unreasonable. In such circumstances the Secretary of Natural Resources
+14 may reduce the required collection events to one per year.
+15 (b) This section shall be repealed on July 1, 2027.
+16 * * * Paint Extended Producer Responsibility * * *
+17 Sec. 10. 10 V.S.A. chapter 159, subchapter 4 is amended to read:
+18 Subchapter 4. Paint Stewardship Program
+19 § 6671. PURPOSE
+20 The purpose of this subchapter is to establish an environmentally sound,
+21 cost-effective Paint Stewardship Program in the State that will undertake
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 22 of 46
+1 responsibility for the development and implementation of strategies to reduce
+2 the generation of postconsumer paint; promote the reuse of postconsumer
+3 paint; and collect, transport, and process postconsumer paint, including reuse,
+4 recycling, energy recovery, and disposal. The Paint Stewardship Program will
+5 follow the waste management hierarchy for managing and reducing
+6 postconsumer paint in the order as follows: reduce consumer generation of
+7 postconsumer paint, reuse, recycle, provide for energy recovery, and dispose.
+8 The Paint Stewardship Program will provide more opportunities for consumers
+9 to manage properly their postconsumer paint, provide fiscal relief for local
+10 government in managing postconsumer paint, keep paint out of the waste
+11 stream, and conserve natural resources.
+12 § 6672. DEFINITIONS
+13 As used in this subchapter:
+14 (1) “Aerosol coating product” means a pressurized coating product
+15 containing pigments or resins dispensed by means of a propellant and
+16 packaged and sold in a disposable aerosol container for handheld application,
+17 or for use in specialized equipment for ground traffic or marking applications.
+18 (2) “Architectural paint” means interior and exterior architectural
+19 coatings, including interior or exterior water- and oil-based coatings, primers,
+20 sealers, or wood coatings, that are sold in containers of five gallons or less.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 23 of 46
+1 “Architectural paint” does not mean industrial coatings, original equipment
+2 coatings, or specialty coatings.
+3 (3) “Coating-related product” means a product used as a paint additive,
+4 paint thinner, paint colorant, paint remover, surface sealant, surface
+5 preparation, surface adhesive, and sold for home improvement.
+6 (2)(4) “Distributor” means a company that has a contractual relationship
+7 with one or more producers to market and sell architectural paint to retailers in
+8 Vermont.
+9 (3)(5) “Energy recovery” means recovery in which all or a part of the
+10 solid waste materials are processed in order to use the heat content or other
+11 forms of energy of or from the material.
+12 (4)(6) “Environmentally sound management practices” means policies
+13 to be implemented by a producer or a stewardship organization to ensure
+14 compliance with all applicable laws and also addressing such issues as
+15 adequate record keeping, tracking and documenting the fate of materials within
+16 the State and beyond, and adequate environmental liability coverage for
+17 professional services and for the operations of the contractors working on
+18 behalf of the producer organization.
+19 (5)(7) “Municipality” means a city, town, or a village.
+20 (6) “Paint stewardship assessment” means a one-time charge that is:
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 24 of 46
+1 (A) added to the purchase price of architectural paint sold in
+2 Vermont;
+3 (B) passed from the producer to the wholesale purchaser to the
+4 retailer and then to a retail consumer; and
+5 (C) necessary to cover the cost of collecting, transporting, and
+6 processing the postconsumer paint managed through the statewide Program.
+7 (8) “Nonindustrial coating” means arts and crafts paint, automotive
+8 refinish paint, driveway sealer, faux finish or glaze, furniture oil, furniture
+9 paint, lime wash, lime paint, marine paint, antifouling paint, road and traffic
+10 marking paint, two-component paint, wood preservative, fire retardant paint,
+11 dry fog paint, chalkboard paint, and conductive paint, sold in containers of five
+12 gallons or less for commercial and homeowner use, but does not include
+13 coatings purchased for industrial or original equipment manufacturer use.
+14 (9)(A) “Paint product” includes:
+15 (i) architectural coatings;
+16 (ii) aerosol coating products;
+17 (iii) coating-related products; and
+18 (iv) nonindustrial coatings.
+19 (B) “Paint product” does not include a health and beauty product.
+20 (7)(10) “Postconsumer paint” means architectural a paint product and its
+21 containers not used and no longer wanted by a purchaser.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 25 of 46
+1 (8)(11) “Producer” means a manufacturer of architectural paint products
+2 who sells, offers for sale, or distributes that paint in Vermont under the
+3 producer’s own name or brand.
+4 (9)(12) “Recycling” means any process by which discarded products,
+5 components, and by-products are transformed into new usable or marketable
+6 materials in a manner in which the original products may lose their identity but
+7 does not include energy recovery or energy generation by means of
+8 combusting discarded products, components, and by-products with or without
+9 other waste products.
+10 (10)(13) “Retailer” means any person that offers architectural paint for
+11 sale at retail in Vermont.
+12 (11)(14) “Reuse” means the return of a product into the economic
+13 stream for use in the same kind of application as originally intended, without a
+14 change in the product’s identity.
+15 (12)(15) “Secretary” means the Secretary of Natural Resources.
+16 (13)(16) “Sell” or “sale” means any transfer of title for consideration,
+17 including remote sales conducted through sales outlets, catalogues, or the
+18 Internet or any other similar electronic means.
+19 (14)(17) “Stewardship organization” means a nonprofit corporation or
+20 nonprofit organization created by a producer or group of producers to
+21 implement the Paint Stewardship Program required under this subchapter.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 26 of 46
+1 § 6673. PAINT PRODUCT STEWARDSHIP PROGRAM
+2 (a) A producer or a stewardship organization representing producers shall
+3 submit a plan for the establishment of a Paint Product Stewardship Program to
+4 the Secretary for approval by December 1, 2013. The plan shall address the
+5 following:
+6 (1) Provide a list of participating producers and brands covered by the
+7 Program.
+8 (2) Provide specific information on the architectural paint products
+9 covered under the Program, such as interior or exterior water- and oil-based
+10 coatings, primers, sealers, or wood coatings.
+11 (3) Describe how the Program proposed under the plan will collect,
+12 transport, recycle, and process postconsumer paint products for end-of-life
+13 management, including recycling, energy recovery, and disposal, using
+14 environmentally sound management practices.
+15 (4) Describe the Program and how it will provide for convenient and
+16 available statewide collection of postconsumer architectural paint products in
+17 urban and rural areas of the State. The producer or stewardship organization
+18 shall use the existing household hazardous waste collection infrastructure when
+19 selecting collection points for postconsumer architectural paint products. A
+20 paint retailer shall be authorized as a paint collection point of postconsumer
+21 architectural paint for a Paint Product Stewardship Program if the paint retailer
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 27 of 46
+1 volunteers to act as a paint collection point and complies with all applicable
+2 laws, rules, and regulations.
+3 (5) Provide geographic information modeling to determine the number
+4 and distribution of sites for collection of postconsumer architectural paint
+5 based on the following criteria:
+6 (A) at least 90 percent of Vermont residents shall have a permanent
+7 collection site within a 15-mile radius; and
+8 (B) one additional permanent site will be established for every
+9 10,000 residents of a municipality and additional sites shall be distributed to
+10 provide convenient and reasonably equitable access for residents within each
+11 municipality, unless otherwise approved by the Secretary.
+12 (6) Establish goals to reduce the generation of postconsumer paint
+13 products, to promote the reuse of postconsumer paint products, and for the
+14 proper management of postconsumer paint products as practical based on
+15 current household hazardous waste program information. The goals may be
+16 revised by the producer or stewardship organization based on the information
+17 collected for the annual report.
+18 (7) Describe how postconsumer paint products will be managed in the
+19 most environmentally and economically sound manner, including following
+20 the waste-management hierarchy. The management of paint under the
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 28 of 46
+1 Program shall use management activities that promote source reduction, reuse,
+2 recycling, energy recovery, and disposal.
+3 (8) Describe education and outreach efforts to inform consumers of
+4 collection opportunities for postconsumer paint products and to promote the
+5 source reduction and recycling of architectural paint products for each of the
+6 following: consumers, contractors, and retailers.
+7 (b) The producer or stewardship organization shall submit a budget for the
+8 Program proposed under subsection (a) of this section, and for any amendment
+9 to the plan that would affect the Program’s costs. The budget shall include a
+10 funding mechanism under which each architectural paint producer remits to a
+11 stewardship organization payment of a paint stewardship assessment for each
+12 container of architectural paint it sells in this State. Prior to submitting the
+13 proposed budget and assessment to the Secretary, the producer or stewardship
+14 organization shall provide the budget and assessment to a third-party auditor
+15 agreed upon by the Secretary. The third-party auditor shall provide a
+16 recommendation as to whether the proposed budget and assessment is cost-
+17 effective, reasonable, and limited to covering the cost of the Program. The
+18 paint stewardship assessment shall be added to the cost of all architectural
+19 paint sold in Vermont. To ensure that the funding mechanism is equitable and
+20 sustainable, a uniform paint stewardship assessment shall be established for all
+21 architectural paint sold. The paint stewardship assessment shall be approved
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 29 of 46
+1 by the Secretary and shall be sufficient to recover, but not exceed, the costs of
+2 the Paint Stewardship Program. [Repealed.]
+3 (c) Beginning no later than July 1, 2014, or three Six months after approval
+4 of the plan for a Paint Product Stewardship Program required under subsection
+5 (a) of this section, whichever occurs later, a producer of architectural paint
+6 products sold at retail or a stewardship organization of which a producer is a
+7 member shall implement the approved plan for a Paint Product Stewardship
+8 Program.
+9 (d) A producer or a stewardship organization of which a producer is a
+10 member shall promote a Paint Product Stewardship Program and provide
+11 consumers with educational and informational materials describing collection
+12 opportunities for postconsumer paint products Statewide and promotion of
+13 waste prevention, reuse, and recycling. The educational and informational
+14 program shall make consumers aware that the funding for the operation of the
+15 Paint Product Stewardship Program has been added to the purchase price of all
+16 architectural paint products sold in the State.
+17 (e) A plan approved under this section shall provide for collection of
+18 postconsumer architectural paint at no cost to the person from whom the
+19 architectural paint product is collected.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 30 of 46
+1 (f) When a plan or amendment to an approved plan is submitted under this
+2 section, the Secretary shall make the proposed plan or amendment available for
+3 public review and comment for at least 30 days.
+4 (g) A producer or paint stewardship organization shall submit to the
+5 Secretary for review, in the same manner as required under subsection 6675(a)
+6 of this title, an amendment to an approved plan when there is:
+7 (1) a change to a paint stewardship assessment under the plan;
+8 (2) an addition to or removal of a category of products covered under
+9 the Program; or
+10 (3)(2) a revision of the product stewardship organization’s goals.
+11 (h) A plan approved by the Secretary under section 6675 of this title shall
+12 have a term not to exceed five years, provided that the producer remains in
+13 compliance with the requirements of this chapter and the terms of the approved
+14 plan.
+15 (i) In addition to the requirements specified in subsection (a) of this
+16 section, a stewardship organization shall notify the Secretary in writing within
+17 30 days of before any change to:
+18 (1) the number of collection sites for postconsumer architectural paint
+19 products identified under this section as part of the plan;
+20 (2) the producers identified under this section as part of the plan;
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 31 of 46
+1 (3) the brands of architectural paint products identified under this
+2 section as part of the plan; and
+3 (4) the processors that manage postconsumer architectural paint
+4 products identified under this section as part of the plan.
+5 (j) Upon submission of a plan to the Secretary under this section, a
+6 producer or a stewardship organization shall pay the fee required by 3 V.S.A.
+7 § 2822(j)(31). Thereafter, the producer or stewardship organization shall pay
+8 the fee required by 3 V.S.A. § 2822(j)(31) annually by July 1 of each year.
+9 § 6674. RETAILER RESPONSIBILITY
+10 (a) A producer or retailer may not sell or offer for sale architectural a paint
+11 product to any person in Vermont unless the producer of that architectural
+12 paint brand or a stewardship program of which the producer of that
+13 architectural paint brand is a member that the producer is a member of is
+14 implementing an approved plan for a Paint Product Stewardship Program as
+15 required by section 6673 of this title. A retailer complies with the
+16 requirements of this section if, on the date the architectural paint product was
+17 ordered from the producer or its agent, the producer or paint brand is listed on
+18 the Agency of Natural Resources’ website as a producer or brand participating
+19 in an approved plan for a Paint Product Stewardship Program.
+20 (b) At the time of sale to a consumer, a producer, a stewardship
+21 organization, or a retailer selling or offering architectural paint products for
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 32 of 46
+1 sale shall provide the consumer with information regarding available
+2 management options for postconsumer paint products collected through the
+3 Paint Product Stewardship Program or a brand of paint being sold under the
+4 Program.
+5 § 6675. AGENCY RESPONSIBILITY
+6 (a)(1) Within 90 days of after receipt of a plan submitted under section
+7 6673 of this title, the Secretary shall review the plan and make a determination
+8 whether or not to approve the plan. The Secretary shall issue a letter of
+9 approval for a submitted plan if:
+10 (A) the submitted plan provides for the establishment of a Paint
+11 Product Stewardship Program that meets the requirements of subsection
+12 6673(a) of this subchapter; and
+13 (B) the Secretary determines that the plan:
+14 (i) achieves convenient collection for consumers;
+15 (ii) educates the public on proper paint product management; and
+16 (iii) manages waste paint products in a manner that is
+17 environmentally safe and promotes reuse and recycling; and
+18 (iv) is cost-effective.
+19 (2) If the Secretary does not approve a submitted plan, the Secretary
+20 shall issue to the paint product stewardship organization a letter listing the
+21 reasons for the disapproval of the plan. If the Secretary disapproves a plan, a
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 33 of 46
+1 paint product stewardship organization intending to sell or continue to sell
+2 architectural paint in the State shall submit a new plan within 60 days of after
+3 receipt of the letter of disapproval.
+4 (b)(1) The Secretary shall review and approve the stewardship assessment
+5 proposed by a producer pursuant to subsection 6673(b) of this title. The
+6 Secretary shall only approve the Program budget and any assessment if the
+7 applicant has demonstrated that the costs of the Program and any proposed
+8 assessment are reasonable and the assessment does not exceed the costs of
+9 implementing an approved plan.
+10 (2) If an amended plan is submitted under subsection 6673(g) of this
+11 title that proposes to change the cost of the Program or proposes to change the
+12 paint stewardship assessment under the plan, the disapproval of any proposed
+13 new assessment or the failure of an approved new assessment to cover the total
+14 costs of the Program shall not relieve a producer or stewardship organization
+15 of its obligation to continue to implement the approved plan under the
+16 originally approved assessment.
+17 (c) Facilities solely collecting paint products for the Paint Product
+18 Stewardship Program that would not otherwise be subject to solid waste
+19 certification requirements shall not be required to obtain a solid waste
+20 certification. Persons solely transporting paint for the Paint Product
+21 Stewardship Program that would not otherwise be subject to solid waste hauler
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 34 of 46
+1 permitting requirements shall not be required to obtain a solid waste hauler’s
+2 permit.
+3 § 6676. ANTICOMPETITIVE CONDUCT
+4 (a) A producer or an organization of producers that manages postconsumer
+5 paint, including collection, transport, recycling, and processing of
+6 postconsumer paint, as required by this subchapter may engage in
+7 anticompetitive conduct to the extent necessary to implement the plan
+8 approved by the Secretary and is immune from liability for the conduct relating
+9 to antitrust, restraint of trade, unfair trade practices, and other regulation of
+10 trade or commerce.
+11 (b) The activity authorized and the immunity afforded under subsection (a)
+12 of this section shall not apply to any agreement among producers or paint
+13 stewardship organizations:
+14 (1) establishing or affecting the price of paint, except for the paint
+15 stewardship assessment approved under subsection 6675(b) of this title;
+16 (2) setting or limiting the output or production of paint;
+17 (3) setting or limiting the volume of paint sold in a geographic area;
+18 (4) restricting the geographic area where paint will be sold; or
+19 (5) restricting the customers to whom paint will be sold or the volume of
+20 paint that will be sold A manufacturer or representative organization
+21 implementing or participating in a stewardship program as required by this
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 35 of 46
+1 subchapter shall not be liable for any claim of a violation of antitrust, restraint
+2 of trade, unfair trade practice, or other anticompetitive conduct arising from
+3 conduct undertaken in accordance with the program.
+4 § 6677. PRODUCER REPORTING REQUIREMENTS
+5 No later than October 15, 2015, and annually thereafter, Annually, on or
+6 before October 15, a producer or a stewardship program of which the producer
+7 is a member shall submit to the Secretary a report describing the Paint Product
+8 Stewardship Program that the producer or Stewardship Program is
+9 implementing as required by section 6673 of this title. At a minimum, the
+10 report shall include:
+11 (1) a description of the methods the producer or Stewardship Program
+12 used to reduce, reuse, collect, transport, recycle, and process postconsumer
+13 paint products statewide in Vermont;
+14 (2) the volume and type of postconsumer paint products collected by the
+15 producer or Stewardship Program at each collection center in all regions of
+16 Vermont;
+17 (3) the volume of postconsumer paint products collected by the producer
+18 or Stewardship Program in Vermont by method of disposition, including reuse,
+19 recycling, energy recovery, and disposal;
+20 (4) an independent financial audit of the Paint Product Stewardship
+21 Program implemented by the producer or the Stewardship Program;
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 36 of 46
+1 (5) the prior year’s actual direct and indirect costs for each Program
+2 element and the administrative and overhead costs of administering the
+3 approved Program; and
+4 (6) samples of the educational materials that the producer or stewardship
+5 program provided to consumers of architectural paint..
+6 * * *
+7 § 6680. UNIVERSAL WASTE DESIGNATION FOR POSTCONSUMER
+8 PAINT
+9 (a) The requirements of Subchapter 9 of the Vermont Hazardous Waste
+10 Management Rules, which allow certain categories of hazardous waste to be
+11 managed as universal waste, shall apply to postconsumer paint products until
+12 the postconsumer paint is discarded, provided that:
+13 (1) the postconsumer paint product is collected as a part of a
+14 stewardship plan approved under this subchapter; and
+15 (2) the collected postconsumer paint product is or includes a paint
+16 product that is a hazardous waste as defined and regulated by the Vermont
+17 Hazardous Waste Management Rules.
+18 (b) When postconsumer paint product is regulated as universal waste under
+19 subsection (a) of this section, small and large quantity handlers of the
+20 postconsumer paint shall manage the postconsumer paint products in a manner
+21 that prevents releases of any universal waste or component of the universal
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 37 of 46
+1 waste to the environment. Postconsumer paint products regulated as universal
+2 waste shall, at a minimum, be contained in one or more of the following:
+3 (1) a container that remains closed, structurally sound, and compatible
+4 with the postconsumer paint products and that lacks evidence of leakage,
+5 spillage, or damage that could cause leakage under reasonably foreseeable
+6 conditions; or
+7 (2) a container that does not meet the requirements of subdivision (1) of
+8 this subsection, provided that the unacceptable container is overpacked in a
+9 container that meets the requirements of subdivision (1).
+10 (c) Containers holding postconsumer paint products that is are regulated as
+11 universal waste shall be clearly labeled to clearly identify the contents of the
+12 container, such as “Paint-Related Waste,” “Universal Waste Paint,” “Used
+13 Paint,” or “Waste Paint.”
+14 (d) Unless otherwise provided by statute, the definitions of the Vermont
+15 Hazardous Waste Management Rules shall apply to this section.
+16 § 6681. PAINT CONSUMER FEES
+17 A retailer shall charge the following fees on paint and remit the fees to the
+18 approved stewardship organization for the administration of program approved
+19 by the Secretary:
+20 (1) Half pint or smaller: No fee.
+21 (2) Greater than a half pint to one gallon: $0.65.
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 38 of 46
+1 (3) Greater than one gallon to two gallons: $1.35.
+2 (4) Greater than two gallons to five gallons: $2.45.
+3 Sec. 11. IMPLEMENTATION
+4 (a) The requirements for the sale of paint products under 10 V.S.A. § 6673
+5 shall apply to architectural coatings beginning on July 1, 2013 and all paint
+6 products beginning July 1, 2026.
+7 (b) The requirement under 10 V.S.A. § 6673 for an architectural coatings
+8 producer to submit a stewardship plan to the Secretary of Natural Resources
+9 currently applies to producers of architectural coatings as required beginning
+10 on July 1, 2013 and shall also apply to producers of paint related products
+11 beginning on July 1, 2026.
+12 (c) The requirement under 10 V.S.A. § 6677 that an architectural coatings
+13 producer annually report to the Secretary of Natural Resources currently
+14 applies to producers of architectural coatings as required beginning on July 1,
+15 2013 and shall also apply to producers of paint related products beginning on
+16 March 1, 2027.
+17 * * * Healthy Homes Initiative * * *
+18 Sec. 12. 2024 Acts and Resolves No. 78, Sec. B.1103 is amended to read:
+19 Sec. B.1103 CLIMATE AND ENVIRONMENT – FISCAL YEAR 2024
+20 ONE-TIME APPROPRIATIONS
+21 * * *
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 39 of 46
+1 (j)(1) In fiscal year 2024, the amount of $6,100,000 American Rescue Plan
+2 Act (ARPA) – Coronavirus State Fiscal Recovery Funds is appropriated to the
+3 Department of Environmental Conservation for the Healthy Homes Initiative.
+4 Funds shall be used to make repairs or improvements to drinking water,
+5 wastewater, or stormwater systems for Vermonters who have low to moderate
+6 income or who live in manufactured housing communities, or both.
+7 (2) All information submitted to or compiled by the Department of
+8 Environmental Conservation related to the issuance of individual funding
+9 awards under the Healthy Homes Initiative shall be considered confidential
+10 unless the person providing the information designates that it is not
+11 confidential. This shall include all personal information of applicants that
+12 request or receive funding. Notwithstanding 1 V.S.A. § 214, this subdivision
+13 shall take effect on passage and shall apply retroactively to July 1, 2023.
+14 * * *
+15 * * * Flood Safety * * *
+16 Sec. 13. 2024 Act and Resolves No. 121, Sec. 3 is amended to read:
+17 Sec. 3. DEPARTMENT OF ENVIRONMENTAL CONSERVATION;
+18 RIVER CORRIDOR BASE MAP; INFILL MAPPING;
+19 EDUCATION AND OUTREACH
+20 (a) On or before January 1, 2026 2027, the Department of Environmental
+21 Conservation, in consultation with the Agency of Commerce and Community
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 40 of 46
+1 Development and the regional planning commissions, shall amend by
+2 procedure the statewide River Corridor Base Map to identify areas suitable for
+3 development that are located within existing settlements and that will not cause
+4 or contribute to increases in fluvial erosion hazards.
+5 (b) Beginning on January 1, 2025 and ending on January 1, 2027 2028, the
+6 Department of Environmental Conservation shall conduct an education and
+7 outreach program to consult with and collect input from municipalities,
+8 environmental justice focus populations, the Environmental Justice Advisory
+9 Council, businesses, property owners, farmers, and other members of the
+10 public regarding how State permitting of development in mapped river
+11 corridors will be implemented, including potential restrictions on the use of
+12 land within mapped river corridors. The Department shall develop educational
+13 materials for the public as part of its charge under this section. The
+14 Department shall collect input from the public regarding the permitting of
+15 development in mapped river corridors as proposed by this act. On or before
+16 January 15, 2027 2028 and until permitting of development in mapped river
+17 corridors begins under 10 V.S.A. § 754, the Department shall submit to the
+18 Senate Committee on Natural Resources and Energy, the House Committee on
+19 Environment and Energy, and the Environmental Justice Advisory Council a
+20 report that shall include:
+21 (1) a summary of the public input it received regarding State permitting
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 41 of 46
+1 of development in mapped river corridors during the public education and
+2 outreach required under this section;
+3 (2) recommendations, based on the public input collected, for changes to
+4 the requirements for State permitting of development in mapped river
+5 corridors;
+6 (3) an analysis and summary of State permitting of development in
+7 mapped river corridors on environmental justice populations; and
+8 (4) a summary of the Department’s progress in adopting the rules
+9 required under 10 V.S.A. § 754 for the regulation of development in mapped
+10 river corridors.
+11 Sec. 14. 10 V.S.A. § 754 is amended to read:
+12 § 754. MAPPED RIVER CORRIDOR RULES
+13 (a) Rulemaking authority.
+14 (1) On or before July 1, 2027 July 15, 2028, the Secretary shall adopt
+15 rules pursuant to 3 V.S.A. chapter 25 that establish requirements for issuing
+16 and enforcing permits for:
+17 (A) all development within a mapped river corridor in the State; and
+18 (B) for development exempt from municipal regulation in flood
+19 hazard areas.
+20 (2) The Secretary shall not adopt rules under this subsection that
+21 regulate agricultural activities without the consent of the Secretary of
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 42 of 46
+1 Agriculture, Food and Markets, provided that the Secretary of Agriculture,
+2 Food and Markets shall not withhold consent under this subdivision when lack
+3 of such consent would result in the State’s noncompliance with the National
+4 Flood Insurance Program.
+5 (3) The Secretary shall seek the guidance of the Federal Emergency
+6 Management Agency in developing and drafting the rules required by this
+7 section in order to ensure that the rules are sufficient to meet eligibility
+8 requirements for the National Flood Insurance Program.
+9 * * *
+10 (e) Permit requirement. Beginning on January 1, 2028 July 1, 2029, a
+11 person shall not commence or conduct development exempt from municipal
+12 regulation in a flood hazard area or commence or conduct any development in
+13 a mapped river corridor without a permit issued under the rules required under
+14 subsection (a) of this section by the Secretary or by a State agency delegated
+15 permitting authority under subsection (f) of this section. When an application
+16 is filed under this section, the Secretary or delegated State agency shall
+17 proceed in accordance with chapter 170 of this title.
+18 * * *
+19 Sec. 15. 2024 Acts and Resolves 121, Sec. 10 is amended to read:
+20 Sec. 10. STUDY COMMITTEE ON STATE ADMINISTRATION OF
+21 THE NATIONAL FLOOD INSURANCE PROGRAM
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 43 of 46
+1 * * *
+2 (e) Report. On or before August 15, 2025 2026, the Study Committee shall
+3 submit a written report to the General Assembly with its findings and any
+4 recommendations for legislative action. Any recommendation for legislative
+5 action shall be as draft legislation.
+6 * * *
+7 Sec. 16. 2024 Acts and Resolves 121, Sec. 11(a) is amended to read:
+8 (a) The Secretary of Natural Resources shall initiate rulemaking, including
+9 pre-rulemaking, for the rules required in Sec. 5 of this act, 10 V.S.A. § 754
+10 (river corridor development), not later than July 1, 2025. The rules shall be
+11 adopted on or before July 1, 2027 2028.
+12 Sec. 17. 2024 Acts and Resolves No. 121, Sec. 29(b) is amended to read:
+13 (b) All other sections shall take effect July 1, 2024, except that:
+14 (1) Secs. 6a, 7, 8, 8a, and 9 (conforming amendments to municipal river
+15 corridor planning) shall take effect on January 1, 2028, except that in Sec. 9,
+16 24 V.S.A. § 4424(a)(2)(B)(i) (municipal compliance with the State Flood
+17 Hazard Area Standards) shall take effect on January 1, 2026 2028;
+18 * * *
+19 * * * Wetlands * * *
+20 Sec. 18. 10 V.S.A. § 918 is amended to read:
+21 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 44 of 46
+1 (a) On or before July 1 December 1, 2025, the Secretary of Natural
+2 Resources shall amend the Vermont Wetlands Rules pursuant to 3 V.S.A.
+3 chapter 25 to clarify that the goal of wetlands regulation and management in
+4 the State is the net gain of wetlands to be achieved through protection of
+5 existing wetlands and restoration of wetlands that were previously adversely
+6 affected. This condition shall not apply to wetland, river, and flood plain
+7 restoration projects, including dam removals.
+8 * * *
+9 (c) At a minimum, the Wetlands Rules shall be revised to:
+10 (1) Require an applicant for a wetland permit that authorizes adverse
+11 impacts to more than 5,000 square feet of wetlands to compensate for those
+12 impacts through restoration, enhancement, or creation of wetland resources.
+13 (2) Incorporate the net gain rule into requirements for permits issued
+14 after September 1 December 1, 2025.
+15 * * *
+16 * * * Dams * * *
+17 Sec. 19. 2024 Acts and Resolves No. 121, Sec. 22 is amended to read:
+18 Sec. 22. STUDY COMMITTEE ON DAM EMERGENCY OPERATIONS
+19 PLANNING
+20 (a) Creation. There is created the Study Committee on Dam Emergency
+21 Operations Planning to review and recommend how to improve regional
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 45 of 46
+1 emergency action planning for hazards caused by dam failure, including how
+2 to shift responsibility for emergency planning from individual municipalities to
+3 regional authorities, how to improve regional implementation of dam
+4 emergency response plans, and how to fund dam emergency action planning at
+5 the regional level.
+6 * * *
+7 (e) Report. On or before December 15, 2024 2025, the Study Committee
+8 shall submit a written report to the General Assembly with its findings and any
+9 recommendations for legislative action. Any recommendation for legislative
+10 action shall be submitted as draft legislation.
+11 (f) Meetings.
+12 (1) The Secretary of Natural Resources or designee shall call the first
+13 meeting of the Study Committee.
+14 (2) The Committee shall select a chair from among its members at the
+15 first meeting.
+16 (3) A majority of the membership of the Study Committee shall
+17 constitute a quorum.
+18 (4) The Study Committee shall cease to exist on March 1, 2025 2026.
+19 * * *
+20 Sec. 20. 2024 Acts and Resolves No. 121, Sec. 24(f) is amended to read:
+21 (f) On or before January 15 September 1, 2025, the Agency of Natural
+VT LEG #380629 v.1
+
+BILL AS INTRODUCED H.319
+2025 Page 46 of 46
+1 Resources shall complete its analysis of the capital and ongoing operations and
+2 maintenance costs of the Green River Dam, as authorized in 2022 Acts and
+3 Resolves No. 83, Sec. 46, and shall submit the results of the analysis to the
+4 House Committees on Environment and Energy and on Appropriations and the
+5 Senate Committees on Natural Resources and Energy and on Appropriations.
+6 * * * Effective Date * * *
+7 Sec. 21. EFFECTIVE DATE
+8 This act shall take effect on passage.
+VT LEG #380629 v.1
+
+[DELETED:  H P H I R R D S d S m w s S T d e D I m r A]
+[DELETED:  H P I * S S ( s c e b ( ( ( ( ( e u ( m s]
+[DELETED:  H P ( S E * S ( t m s t * S § A * ( p p c]
+[DELETED:  H P ( u R ( ( t * ( d * S §     ( ( s h o ( c]
+[DELETED:  H P h s f ( o ( t A s ( p s ( p s ( ( o s r]
+[DELETED:  H P ( o ( s ( m ( r ( r r ( n s ( t A o r ( o]
+[DELETED:  H P ( s ( m ( r ( r r ( n s ( m s o S § ( 2 r]
+[DELETED:  H P c m ( i ( t ( p r ( p w o h o f h b p p o]
+[DELETED:  H P c e e m ( d w c p o c ( e m e d m o e D o]
+[DELETED:  H P p t a o o s o a o t ( h ( c ( h ( c ( i a]
+[DELETED:  H P h h h ( c e w h i r b ( ( d f n h b ( a h]
+[DELETED:  H P t s p a t o I S p a c c a ( t p a c p s e]
+[DELETED:  H P e c f p a S ( b f ( p r ( p a c s p c p h]
+[DELETED:  H P c a C m e c ( s h i e a a ( a i p S m o e]
+[DELETED:  H P D o e d o S a c s s a ( h ( h ( h ( c ( i]
+[DELETED:  H P a h h h ( c e w h i r b ( ( d f n h b ( p]
+[DELETED:  H P p p A p a s c p o t m c s e p ( s a o h e]
+[DELETED:  H P c f p a S ( u p r ( i d S § ( t t t ( s]
+[DELETED:  H P ( a ( o ( m a ( r p S § ( a a t * ( b s S]
+[DELETED:  H P s s o r t A s w s h p S § ( d * ( * S ( c]
+[DELETED:  H P 1 f c t ( r t ( c ( t a i m ( * S S § T c]
+[DELETED:  H P r t p r f p p T t g s § A ( c p o ( c s]
+[DELETED:  H P “ c ( p p ( w V ( s f ( t c a t p b ( (]
+[DELETED:  H P ( V ( r ( p ( r p m d g c ( ( ( ( ( ( ( c]
+[DELETED:  H P ( w p ( c m d c o ( s ( s c ( ( i I ( n i]
+[DELETED:  H P § ( s t f ( P ( c c ( t m e ( a u s s p a]
+[DELETED:  H P v l ( a b ( c ( 1 p m ( p p c r c ( m t]
+[DELETED:  H P P r ( c s f ( P t f s c p o a r e p p s a]
+[DELETED:  H P b t ( o ( p m P ( m c o w p P a ( p a]
+[DELETED:  H P ( s p ( S o ( ( t ( ( h c p ( s 3 ( p (]
+[DELETED:  H P ( s ( p ( p § t § ( p p a i r r o t i ( o]
+[DELETED:  H P s m P P § ( 6 w a ( P 6 ( ( ( ( e ( ( s r]
+[DELETED:  H P p a r ( p S a a i ( t p n c o o ( S c c S]
+[DELETED:  H P p p § ( p p a a t t ( o s ( s ( ( ( ( p i]
+[DELETED:  H P s o c § N b i S i r ( u p ( p V ( o r ( P]
+[DELETED:  H P ( e a ( p * §   ( M m t ( s ( p H ( s p t]
+[DELETED:  H P w w ( w s c ( t c ( u c P ( H § A a b (     N (  $]
+[DELETED:  H P (  $ (  $ S ( s p ( p c o b ( p a 2 M * S S   *]
+[DELETED:  H P ( A D F w i ( E a u c r s * * S S     ( C]
+[DELETED:  H P D p d o ( D o e C p c l m D d J c S E r (]
+[DELETED:  H P o o ( t c ( m ( r r S § ( ( r a ( ( h ( r]
+[DELETED:  H P A F o F ( M s r * ( p r a s p i p * S S  ]
+[DELETED:  H P * ( s r a * S ( p ( a S ( ( c 2 H * * S §]
+[DELETED:  H P ( R c t e a r * ( ( i i ( a * * S S   ( O]
+[DELETED:  H P e t r e t * ( s r a ( ( m ( f ( c ( * S (]
+[DELETED:  H P R m R H S * S T]

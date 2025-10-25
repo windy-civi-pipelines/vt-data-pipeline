@@ -1,0 +1,329 @@
+Title: BILL AS INTRODUCED H.302
+Official Title: BILL AS INTRODUCED H.302
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.302
+2 Introduced by Representatives Bartley of Fairfax, Boyden of Cambridge,
+3 Coffin of Cavendish, Cooper of Pownal, Dodge of Essex,
+4 Hooper of Burlington, Logan of Burlington, McCann of
+5 Montpelier, Micklus of Milton, Mrowicki of Putney, Nugent of
+6 South Burlington, and Priestley of Bradford
+7 Referred to Committee on
+8 Date:
+9 Subject: Health; health insurance; Medicaid; fertility-related services
+10 Statement of purpose of bill as introduced: This bill proposes to require health
+11 insurance plans and Vermont Medicaid to provide coverage for fertility-related
+12 services. It would also direct the Agency of Human Services to seek federal
+13 approval of an amendment to Vermont’s Medicaid state plan to permit the
+14 Medicaid coverage.
+15 An act relating to health insurance and Medicaid coverage for fertility care
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 8 V.S.A. § 4099f is added to read:
+18 § 4099f. FERTILITY-RELATED SERVICES
+19 (a) Definitions. As used in this section:
+VT LEG #380804 v.1
+BILL AS INTRODUCED H.302
+2025 Page 2 of 7
+1 (1) “Experimental fertility procedure” means a procedure for which the
+2 published medical evidence is not sufficient for the American Society for
+3 Reproductive Medicine, its successor organization, or a comparable
+4 organization to regard the procedure as established medical practice.
+5 (2) “Fertility diagnostic care” means procedures, products, medications,
+6 and services intended to provide information about an individual’s fertility,
+7 including laboratory assessments and imaging studies.
+8 (3) “Fertility preservation services” means procedures, products,
+9 medications, and services intended to preserve fertility, consistent with
+10 established medical practice and professional guidelines published by the
+11 American Society for Reproductive Medicine, its successor organization, or a
+12 comparable organization, for an individual who has a medical or genetic
+13 condition or who is expected to undergo treatment that may directly or
+14 indirectly cause a risk of impairment of fertility. “Fertility preservation
+15 services” includes the procurement and cryopreservation of gametes, embryos,
+16 and reproductive material and storage from the date of cryopreservation until
+17 the individual reaches 30 years of age or for a period of five years, whichever
+18 is longer. Coverage for storage may be offered for a longer period of time.
+19 (4) “Fertility treatment” means procedures, products, medications, and
+20 services intended to achieve a pregnancy that results in a live birth and that are
+21 provided in a manner consistent with established medical practice and
+VT LEG #380804 v.1
+BILL AS INTRODUCED H.302
+2025 Page 3 of 7
+1 professional guidelines published by the American Society for Reproductive
+2 Medicine, its successor organization, or a comparable organization.
+3 (5) “Gamete” means a sperm or egg.
+4 (6) “Health care provider” has the same meaning as in 18 V.S.A.
+5 § 9402.
+6 (7) “Health insurance plan” means any individual or group health
+7 insurance policy; any hospital or medical service corporation or health
+8 maintenance organization subscriber contract; or any other health benefit plan
+9 offered, issued, or renewed for any person in this State by a health insurer.
+10 The term does not include benefit plans providing coverage for specific
+11 diseases or other limited benefit coverage.
+12 (8) “Health insurer” has the same meaning as in 18 V.S.A. § 9402.
+13 (9) “Infertility” means any and all of the following:
+14 (A) the presence of a condition recognized by a health care provider
+15 as a cause of loss or impairment of fertility, based on an individual’s medical,
+16 sexual, and reproductive history; age; physical findings; diagnostic testing; or a
+17 combination of these;
+18 (B) an individual’s inability to achieve a pregnancy after unprotected
+19 sexual intercourse over a period of not more than 12 months for an intended
+20 gestational parent under 35 years of age and a period of not more than six
+21 months for an intended gestational parent who is 35 years of age or older;
+VT LEG #380804 v.1
+BILL AS INTRODUCED H.302
+2025 Page 4 of 7
+1 pregnancy resulting in miscarriage or stillbirth does not restart the 12-month or
+2 six-month time period to qualify as having infertility if the individual and the
+3 individual’s partner have the necessary gametes to achieve pregnancy;
+4 (C) an individual’s inability to achieve a pregnancy as an individual
+5 or with a partner because the individual or the individual and the individual’s
+6 partner do not have the necessary gametes to achieve a pregnancy; or
+7 (D) an individual’s increased risk, independently or with the
+8 individual’s partner, of transmitting a serious, inheritable genetic or
+9 chromosomal abnormality to a child.
+10 (b) Required coverage. A health insurance plan shall provide coverage for
+11 the following fertility-related services:
+12 (1) Fertility diagnostic care for all covered individuals.
+13 (2) Fertility treatment for covered individuals with infertility, including
+14 intrauterine insemination treatment with donor or partner semen, at least four
+15 retrievals of oocytes under anesthesia for in vitro fertilization (IVF) with donor
+16 or partner semen or egg, unlimited embryo transfers, laboratory procedures,
+17 and ultrasounds. A health insurance plan may, but shall not be required to,
+18 provide coverage for preimplantation genetic testing as a component of IVF.
+19 (3) Fertility preservation services for all covered individuals.
+20 (c) Access to services; limitations on coverage.
+VT LEG #380804 v.1
+BILL AS INTRODUCED H.302
+2025 Page 5 of 7
+1 (1) A health insurance plan shall not establish any rate, term, or
+2 condition that places a greater financial burden on a covered individual for
+3 access to fertility-related services than for access to treatment for any other
+4 health condition.
+5 (2) A health insurance plan shall not impose any limitations on coverage
+6 for any fertility services based on a covered individual’s use of donor sperm or
+7 eggs, donor embryos, or surrogacy.
+8 (3) A health insurance plan is not required to provide coverage for:
+9 (A) any experimental fertility procedure; or
+10 (B) any nonmedical costs related to donor sperm or eggs, donor
+11 embryos, or surrogacy.
+12 Sec. 2. 33 V.S.A. § 1901n is added to read:
+13 § 1901n. COVERAGE OF FERTILITY-RELATED SERVICES
+14 (a) As used in this section:
+15 (1) “Fertility diagnostic care,” “fertility preservation services,” and
+16 “fertility treatment” have the same meanings as in 8 V.S.A. § 4099f.
+17 (2) “Health care provider” has the same meaning as in 18 V.S.A.
+18 § 9402.
+19 (b) The Agency of Human Services shall provide Medicaid coverage for
+20 the following fertility-related services:
+21 (1) Fertility diagnostic care for all Medicaid beneficiaries.
+VT LEG #380804 v.1
+BILL AS INTRODUCED H.302
+2025 Page 6 of 7
+1 (2) Fertility treatment for Medicaid beneficiaries with infertility,
+2 including intrauterine insemination treatment with donor or partner semen, at
+3 least four retrievals of oocytes under anesthesia for in vitro fertilization (IVF)
+4 with donor or partner semen or egg, unlimited embryo transfers, laboratory
+5 procedures, and ultrasounds. Vermont Medicaid may, but shall not be required
+6 to, provide coverage for preimplantation genetic testing as a component of
+7 IVF.
+8 (3) Fertility preservation services for all Medicaid beneficiaries.
+9 Sec. 3. COVERAGE FOR FERTILITY-RELATED SERVICES; MEDICAID
+10 STATE PLAN AMENDMENT
+11 On or before September 1, 2025, the Agency of Human Services shall
+12 request approval from the Centers for Medicare and Medicaid Services to
+13 amend Vermont’s Medicaid state plan to include coverage for fertility-related
+14 services as set forth in Sec. 2 of this act.
+15 Sec. 4. EFFECTIVE DATES
+16 (a) Sec. 1 (8 V.S.A. § 4099f) shall take effect on January 1, 2026 and shall
+17 apply to all health insurance plans issued on and after January 1, 2026 on such
+18 date as a health insurer offers, issues, or renews the health insurance plan, but
+19 in no event later than January 1, 2027.
+VT LEG #380804 v.1
+BILL AS INTRODUCED H.302
+2025 Page 7 of 7
+1 (b) Sec. 2 (33 V.S.A. § 1901n) shall take effect upon approval by the
+2 Centers for Medicare and Medicaid Services of Vermont’s request to provide
+3 coverage of fertility-related services as set forth in that section.
+4 (c) Sec. 3 (coverage for fertility-related services; Medicaid state plan
+5 amendment) and this section shall take effect on passage.
+VT LEG #380804 v.1
+[DELETED:  H P H I R C H M S R D S S i s a M A I S § (]
+[DELETED:  H P ( p R o ( a i ( m e A c c i s a t i ( s p]
+[DELETED:  H P p M ( ( § ( i m o T d ( ( ( a s c ( s g m]
+[DELETED:  H P p s i ( o p ( i c ( t ( ( i r o a p ( (]
+[DELETED:  H P ( c a h ( f e ( ( ( e S § ( ( “ ( § ( t (]
+[DELETED:  H P ( i l w p t I ( S   O r a s S ( a d i]
+[DELETED:  H P ( C c ( a]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.302
+2025 Page 1 of 7
+1 H.302
+2 Introduced by Representatives Bartley of Fairfax, Boyden of Cambridge,
+3 Coffin of Cavendish, Cooper of Pownal, Dodge of Essex,
+4 Hooper of Burlington, Logan of Burlington, McCann of
+5 Montpelier, Micklus of Milton, Mrowicki of Putney, Nugent of
+6 South Burlington, and Priestley of Bradford
+7 Referred to Committee on
+8 Date:
+9 Subject: Health; health insurance; Medicaid; fertility-related services
+10 Statement of purpose of bill as introduced: This bill proposes to require health
+11 insurance plans and Vermont Medicaid to provide coverage for fertility-related
+12 services. It would also direct the Agency of Human Services to seek federal
+13 approval of an amendment to Vermont’s Medicaid state plan to permit the
+14 Medicaid coverage.
+15 An act relating to health insurance and Medicaid coverage for fertility care
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 8 V.S.A. § 4099f is added to read:
+18 § 4099f. FERTILITY-RELATED SERVICES
+19 (a) Definitions. As used in this section:
+VT LEG #380804 v.1
+
+BILL AS INTRODUCED H.302
+2025 Page 2 of 7
+1 (1) “Experimental fertility procedure” means a procedure for which the
+2 published medical evidence is not sufficient for the American Society for
+3 Reproductive Medicine, its successor organization, or a comparable
+4 organization to regard the procedure as established medical practice.
+5 (2) “Fertility diagnostic care” means procedures, products, medications,
+6 and services intended to provide information about an individual’s fertility,
+7 including laboratory assessments and imaging studies.
+8 (3) “Fertility preservation services” means procedures, products,
+9 medications, and services intended to preserve fertility, consistent with
+10 established medical practice and professional guidelines published by the
+11 American Society for Reproductive Medicine, its successor organization, or a
+12 comparable organization, for an individual who has a medical or genetic
+13 condition or who is expected to undergo treatment that may directly or
+14 indirectly cause a risk of impairment of fertility. “Fertility preservation
+15 services” includes the procurement and cryopreservation of gametes, embryos,
+16 and reproductive material and storage from the date of cryopreservation until
+17 the individual reaches 30 years of age or for a period of five years, whichever
+18 is longer. Coverage for storage may be offered for a longer period of time.
+19 (4) “Fertility treatment” means procedures, products, medications, and
+20 services intended to achieve a pregnancy that results in a live birth and that are
+21 provided in a manner consistent with established medical practice and
+VT LEG #380804 v.1
+
+BILL AS INTRODUCED H.302
+2025 Page 3 of 7
+1 professional guidelines published by the American Society for Reproductive
+2 Medicine, its successor organization, or a comparable organization.
+3 (5) “Gamete” means a sperm or egg.
+4 (6) “Health care provider” has the same meaning as in 18 V.S.A.
+5 § 9402.
+6 (7) “Health insurance plan” means any individual or group health
+7 insurance policy; any hospital or medical service corporation or health
+8 maintenance organization subscriber contract; or any other health benefit plan
+9 offered, issued, or renewed for any person in this State by a health insurer.
+10 The term does not include benefit plans providing coverage for specific
+11 diseases or other limited benefit coverage.
+12 (8) “Health insurer” has the same meaning as in 18 V.S.A. § 9402.
+13 (9) “Infertility” means any and all of the following:
+14 (A) the presence of a condition recognized by a health care provider
+15 as a cause of loss or impairment of fertility, based on an individual’s medical,
+16 sexual, and reproductive history; age; physical findings; diagnostic testing; or a
+17 combination of these;
+18 (B) an individual’s inability to achieve a pregnancy after unprotected
+19 sexual intercourse over a period of not more than 12 months for an intended
+20 gestational parent under 35 years of age and a period of not more than six
+21 months for an intended gestational parent who is 35 years of age or older;
+VT LEG #380804 v.1
+
+BILL AS INTRODUCED H.302
+2025 Page 4 of 7
+1 pregnancy resulting in miscarriage or stillbirth does not restart the 12-month or
+2 six-month time period to qualify as having infertility if the individual and the
+3 individual’s partner have the necessary gametes to achieve pregnancy;
+4 (C) an individual’s inability to achieve a pregnancy as an individual
+5 or with a partner because the individual or the individual and the individual’s
+6 partner do not have the necessary gametes to achieve a pregnancy; or
+7 (D) an individual’s increased risk, independently or with the
+8 individual’s partner, of transmitting a serious, inheritable genetic or
+9 chromosomal abnormality to a child.
+10 (b) Required coverage. A health insurance plan shall provide coverage for
+11 the following fertility-related services:
+12 (1) Fertility diagnostic care for all covered individuals.
+13 (2) Fertility treatment for covered individuals with infertility, including
+14 intrauterine insemination treatment with donor or partner semen, at least four
+15 retrievals of oocytes under anesthesia for in vitro fertilization (IVF) with donor
+16 or partner semen or egg, unlimited embryo transfers, laboratory procedures,
+17 and ultrasounds. A health insurance plan may, but shall not be required to,
+18 provide coverage for preimplantation genetic testing as a component of IVF.
+19 (3) Fertility preservation services for all covered individuals.
+20 (c) Access to services; limitations on coverage.
+VT LEG #380804 v.1
+
+BILL AS INTRODUCED H.302
+2025 Page 5 of 7
+1 (1) A health insurance plan shall not establish any rate, term, or
+2 condition that places a greater financial burden on a covered individual for
+3 access to fertility-related services than for access to treatment for any other
+4 health condition.
+5 (2) A health insurance plan shall not impose any limitations on coverage
+6 for any fertility services based on a covered individual’s use of donor sperm or
+7 eggs, donor embryos, or surrogacy.
+8 (3) A health insurance plan is not required to provide coverage for:
+9 (A) any experimental fertility procedure; or
+10 (B) any nonmedical costs related to donor sperm or eggs, donor
+11 embryos, or surrogacy.
+12 Sec. 2. 33 V.S.A. § 1901n is added to read:
+13 § 1901n. COVERAGE OF FERTILITY-RELATED SERVICES
+14 (a) As used in this section:
+15 (1) “Fertility diagnostic care,” “fertility preservation services,” and
+16 “fertility treatment” have the same meanings as in 8 V.S.A. § 4099f.
+17 (2) “Health care provider” has the same meaning as in 18 V.S.A.
+18 § 9402.
+19 (b) The Agency of Human Services shall provide Medicaid coverage for
+20 the following fertility-related services:
+21 (1) Fertility diagnostic care for all Medicaid beneficiaries.
+VT LEG #380804 v.1
+
+BILL AS INTRODUCED H.302
+2025 Page 6 of 7
+1 (2) Fertility treatment for Medicaid beneficiaries with infertility,
+2 including intrauterine insemination treatment with donor or partner semen, at
+3 least four retrievals of oocytes under anesthesia for in vitro fertilization (IVF)
+4 with donor or partner semen or egg, unlimited embryo transfers, laboratory
+5 procedures, and ultrasounds. Vermont Medicaid may, but shall not be required
+6 to, provide coverage for preimplantation genetic testing as a component of
+7 IVF.
+8 (3) Fertility preservation services for all Medicaid beneficiaries.
+9 Sec. 3. COVERAGE FOR FERTILITY-RELATED SERVICES; MEDICAID
+10 STATE PLAN AMENDMENT
+11 On or before September 1, 2025, the Agency of Human Services shall
+12 request approval from the Centers for Medicare and Medicaid Services to
+13 amend Vermont’s Medicaid state plan to include coverage for fertility-related
+14 services as set forth in Sec. 2 of this act.
+15 Sec. 4. EFFECTIVE DATES
+16 (a) Sec. 1 (8 V.S.A. § 4099f) shall take effect on January 1, 2026 and shall
+17 apply to all health insurance plans issued on and after January 1, 2026 on such
+18 date as a health insurer offers, issues, or renews the health insurance plan, but
+19 in no event later than January 1, 2027.
+VT LEG #380804 v.1
+
+BILL AS INTRODUCED H.302
+2025 Page 7 of 7
+1 (b) Sec. 2 (33 V.S.A. § 1901n) shall take effect upon approval by the
+2 Centers for Medicare and Medicaid Services of Vermont’s request to provide
+3 coverage of fertility-related services as set forth in that section.
+4 (c) Sec. 3 (coverage for fertility-related services; Medicaid state plan
+5 amendment) and this section shall take effect on passage.
+VT LEG #380804 v.1
+
+[DELETED:  H P H I R C H M S R D S S i s a M A I S § (]
+[DELETED:  H P ( p R o ( a i ( m e A c c i s a t i ( s p]
+[DELETED:  H P p M ( ( § ( i m o T d ( ( ( a s c ( s g m]
+[DELETED:  H P p s i ( o p ( i c ( t ( ( i r o a p ( (]
+[DELETED:  H P ( c a h ( f e ( ( ( e S § ( ( “ ( § ( t (]
+[DELETED:  H P ( i l w p t I ( S   O r a s S ( a d i]
+[DELETED:  H P ( C c ( a]

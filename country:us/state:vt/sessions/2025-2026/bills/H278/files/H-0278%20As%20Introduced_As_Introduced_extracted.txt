@@ -1,0 +1,251 @@
+Title: BILL AS INTRODUCED H.278
+Official Title: BILL AS INTRODUCED H.278
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 5
+1 H.278
+2 Introduced by Representatives Masland of Thetford, Eastes of Guilford,
+3 Mrowicki of Putney, and Olson of Starksboro
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; energy; energy storage; community resilience
+7 Statement of purpose of bill as introduced: This bill proposes to direct the
+8 State’s electric distribution utilities and Vermont Electric Power Company
+9 (VELCO) to submit to the Department of Public Service a report, including an
+10 electric system map, identifying where energy storage facilities and flexible
+11 load management initiatives, and how much of each solution, would deliver the
+12 greatest reliability, affordability, community resilience, and sustainability
+13 benefits, which would then be used by the Clean Energy Development Board
+14 to award grants to those locations.
+15 An act relating to a plan on energy storage development
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 30 V.S.A. § 8017 is added to read:
+18 § 8017. ENERGY RESILIENCY PLAN AND MAP
+19 (a) On or before December 31, 2026, in order to develop a plan to help
+20 develop energy storage assets and flexible load solutions and address repeated
+VT LEG #379347 v.1
+BILL AS INTRODUCED H.278
+2025 Page 2 of 5
+1 issues with the electric grid, Vermont’s distribution and transmission utilities
+2 shall develop and submit a report, including a map, establishing where storage
+3 assets and flexible load management initiatives, and how much of each
+4 solution, have the greatest potential to mitigate, resolve, or forestall
+5 distribution grid and transmission grid reliability, affordability, community
+6 resiliency, and sustainability issues. This report shall utilize all relevant utility,
+7 State, and regional system reliability data and projected load growth and
+8 community health indicator data to identify where public and private fund
+9 investments will deliver the greatest value. This report and map shall be used
+10 as a guide for where best to site energy storage facilities and direct flexible
+11 load initiatives and will estimate the type and amount of each energy solution.
+12 (b) The report shall also:
+13 (1) provide a reasonable cost-benefit analysis that presents a general
+14 quantification of the value of the return on the dollars invested in energy
+15 storage assets and flexible load management initiatives, including benefits of
+16 responsible investments and associated returns, financial and nonfinancial, to
+17 ratepayers from the provision of services, including energy price arbitrage,
+18 capacity, ancillary services, and transmission and distribution asset deferral or
+19 substitution;
+20 (2) direct long-term investment returns to ratepayers that deploy energy
+21 storage systems and leverage flexible load management capabilities;
+VT LEG #379347 v.1
+BILL AS INTRODUCED H.278
+2025 Page 3 of 5
+1 (3) improve the ability to integrate renewable resources at the local,
+2 State, and regional level;
+3 (4) improve reliability and power quality;
+4 (5) estimate the effect on retail electric rates over the life of a given
+5 energy storage system compared to the effect on retail electric rates using a
+6 nonenergy storage system alternative over the life of the nonenergy storage
+7 system alternative;
+8 (6) identify utility service territories or communities or buildings where
+9 adding energy storage assets would provide a major enhanced reliability
+10 benefit, including helping to keep a hospital, community center, warming
+11 shelter, emergency response facility, or other key building or buildings online
+12 during an outage;
+13 (7) identify areas with significant existing grid constraints for
+14 electrification and for distribution generation;
+15 (8) estimate reduced greenhouse gas emissions; and
+16 (9) estimate economic development benefits.
+17 (c) The Department shall collaborate, as necessary, in the development of
+18 the plan with electric and efficiency utilities, Vermont Electric Power
+19 Company (VELCO), regional planning commissions, and energy and
+20 environmental organizations and shall integrate the report and map findings
+VT LEG #379347 v.1
+BILL AS INTRODUCED H.278
+2025 Page 4 of 5
+1 into existing required energy plans and present it to the Climate Council for
+2 inclusion in the Climate Action Plan.
+3 (d) The Department may require stakeholders to sign confidentiality
+4 agreements to address any confidential and proprietary information; however,
+5 the map shall be made available to relevant stakeholders involved in energy
+6 storage and flexible load management.
+7 (e) The Department shall submit the report and map to the Public Utility
+8 Commission and, to the degree that energy security allows, the General
+9 Assembly, identifying those areas with energy storage assets and flexible load
+10 management initiatives, including how much of each type of resource could
+11 deliver the greatest reliability, affordability, community resiliency, and
+12 sustainability value, including the associated quantitative and qualitative
+13 benefits with different investment and deployment scenarios.
+14 (f) The plan shall be updated biennially. Future revisions of the plan shall
+15 include review of the Municipal Energy Resilience Program assessment,
+16 VELCO’s Long-Range Transmission Plan, the environmental justice mapping
+17 tool, distribution utility integrated resource plans, efficiency utility demand
+18 response plans, and other relevant data.
+19 (g) The Clean Energy Development Board shall use the energy resiliency
+20 plan as a guide to award grants for the development of energy storage facilities
+21 in the identified locations.
+VT LEG #379347 v.1
+BILL AS INTRODUCED H.278
+2025 Page 5 of 5
+1 Sec. 2. 30 V.S.A. § 8015 is amended to read:
+2 § 8015. VERMONT CLEAN ENERGY DEVELOPMENT FUND
+3 * * *
+4 (e) Management of Fund.
+5 * * *
+6 (3) There is created the Clean Energy Development Board, which shall
+7 consist of seven persons appointed in accordance with subdivision (4) of this
+8 subsection.
+9 * * *
+10 (C) The Board shall utilize the report developed under section 8017
+11 of this title.
+12 * * *
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on passage.
+VT LEG #379347 v.1
+[DELETED:  H P H I R M R D S S S ( e l g b t A I S § ( d]
+[DELETED:  H P i s a s d r S c i a l ( ( q s r r c s ( s]
+[DELETED:  H P ( S ( ( e n s ( a b s d ( e ( ( ( t C e]
+[DELETED:  H P i i ( a t s ( C A m d s b ( i V t r ( p i]
+[DELETED:  H P S § * ( * ( c s * ( o * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.278
+2025 Page 1 of 5
+1 H.278
+2 Introduced by Representatives Masland of Thetford, Eastes of Guilford,
+3 Mrowicki of Putney, and Olson of Starksboro
+4 Referred to Committee on
+5 Date:
+6 Subject: Public service; energy; energy storage; community resilience
+7 Statement of purpose of bill as introduced: This bill proposes to direct the
+8 State’s electric distribution utilities and Vermont Electric Power Company
+9 (VELCO) to submit to the Department of Public Service a report, including an
+10 electric system map, identifying where energy storage facilities and flexible
+11 load management initiatives, and how much of each solution, would deliver the
+12 greatest reliability, affordability, community resilience, and sustainability
+13 benefits, which would then be used by the Clean Energy Development Board
+14 to award grants to those locations.
+15 An act relating to a plan on energy storage development
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 30 V.S.A. § 8017 is added to read:
+18 § 8017. ENERGY RESILIENCY PLAN AND MAP
+19 (a) On or before December 31, 2026, in order to develop a plan to help
+20 develop energy storage assets and flexible load solutions and address repeated
+VT LEG #379347 v.1
+
+BILL AS INTRODUCED H.278
+2025 Page 2 of 5
+1 issues with the electric grid, Vermont’s distribution and transmission utilities
+2 shall develop and submit a report, including a map, establishing where storage
+3 assets and flexible load management initiatives, and how much of each
+4 solution, have the greatest potential to mitigate, resolve, or forestall
+5 distribution grid and transmission grid reliability, affordability, community
+6 resiliency, and sustainability issues. This report shall utilize all relevant utility,
+7 State, and regional system reliability data and projected load growth and
+8 community health indicator data to identify where public and private fund
+9 investments will deliver the greatest value. This report and map shall be used
+10 as a guide for where best to site energy storage facilities and direct flexible
+11 load initiatives and will estimate the type and amount of each energy solution.
+12 (b) The report shall also:
+13 (1) provide a reasonable cost-benefit analysis that presents a general
+14 quantification of the value of the return on the dollars invested in energy
+15 storage assets and flexible load management initiatives, including benefits of
+16 responsible investments and associated returns, financial and nonfinancial, to
+17 ratepayers from the provision of services, including energy price arbitrage,
+18 capacity, ancillary services, and transmission and distribution asset deferral or
+19 substitution;
+20 (2) direct long-term investment returns to ratepayers that deploy energy
+21 storage systems and leverage flexible load management capabilities;
+VT LEG #379347 v.1
+
+BILL AS INTRODUCED H.278
+2025 Page 3 of 5
+1 (3) improve the ability to integrate renewable resources at the local,
+2 State, and regional level;
+3 (4) improve reliability and power quality;
+4 (5) estimate the effect on retail electric rates over the life of a given
+5 energy storage system compared to the effect on retail electric rates using a
+6 nonenergy storage system alternative over the life of the nonenergy storage
+7 system alternative;
+8 (6) identify utility service territories or communities or buildings where
+9 adding energy storage assets would provide a major enhanced reliability
+10 benefit, including helping to keep a hospital, community center, warming
+11 shelter, emergency response facility, or other key building or buildings online
+12 during an outage;
+13 (7) identify areas with significant existing grid constraints for
+14 electrification and for distribution generation;
+15 (8) estimate reduced greenhouse gas emissions; and
+16 (9) estimate economic development benefits.
+17 (c) The Department shall collaborate, as necessary, in the development of
+18 the plan with electric and efficiency utilities, Vermont Electric Power
+19 Company (VELCO), regional planning commissions, and energy and
+20 environmental organizations and shall integrate the report and map findings
+VT LEG #379347 v.1
+
+BILL AS INTRODUCED H.278
+2025 Page 4 of 5
+1 into existing required energy plans and present it to the Climate Council for
+2 inclusion in the Climate Action Plan.
+3 (d) The Department may require stakeholders to sign confidentiality
+4 agreements to address any confidential and proprietary information; however,
+5 the map shall be made available to relevant stakeholders involved in energy
+6 storage and flexible load management.
+7 (e) The Department shall submit the report and map to the Public Utility
+8 Commission and, to the degree that energy security allows, the General
+9 Assembly, identifying those areas with energy storage assets and flexible load
+10 management initiatives, including how much of each type of resource could
+11 deliver the greatest reliability, affordability, community resiliency, and
+12 sustainability value, including the associated quantitative and qualitative
+13 benefits with different investment and deployment scenarios.
+14 (f) The plan shall be updated biennially. Future revisions of the plan shall
+15 include review of the Municipal Energy Resilience Program assessment,
+16 VELCO’s Long-Range Transmission Plan, the environmental justice mapping
+17 tool, distribution utility integrated resource plans, efficiency utility demand
+18 response plans, and other relevant data.
+19 (g) The Clean Energy Development Board shall use the energy resiliency
+20 plan as a guide to award grants for the development of energy storage facilities
+21 in the identified locations.
+VT LEG #379347 v.1
+
+BILL AS INTRODUCED H.278
+2025 Page 5 of 5
+1 Sec. 2. 30 V.S.A. § 8015 is amended to read:
+2 § 8015. VERMONT CLEAN ENERGY DEVELOPMENT FUND
+3 * * *
+4 (e) Management of Fund.
+5 * * *
+6 (3) There is created the Clean Energy Development Board, which shall
+7 consist of seven persons appointed in accordance with subdivision (4) of this
+8 subsection.
+9 * * *
+10 (C) The Board shall utilize the report developed under section 8017
+11 of this title.
+12 * * *
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on passage.
+VT LEG #379347 v.1
+
+[DELETED:  H P H I R M R D S S S ( e l g b t A I S § ( d]
+[DELETED:  H P i s a s d r S c i a l ( ( q s r r c s ( s]
+[DELETED:  H P ( S ( ( e n s ( a b s d ( e ( ( ( t C e]
+[DELETED:  H P i i ( a t s ( C A m d s b ( i V t r ( p i]
+[DELETED:  H P S § * ( * ( c s * ( o * S T]

@@ -1,0 +1,380 @@
+Title: BILL AS INTRODUCED H.352
+Official Title: BILL AS INTRODUCED H.352
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 8
+1 H.352
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; renewable energy; solar; net metering
+6 Statement of purpose of bill as introduced: This bill proposes to create the
+7 Renewable Energy for Communities Program to be administered by the Public
+8 Utility Commission.
+9 An act relating to the Renewable Energy for Communities Program
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 30 V.S.A. § 8005b is added to read:
+12 § 8005b. RENEWABLE ENERGY FOR COMMUNITIES PROGRAM
+13 (a) Establishment. The Renewable Energy for Communities Program is
+14 established. To achieve the goals of subdivision 8005(a)(2) of this title, the
+15 Commission shall develop the Renewable Energy for Communities Program
+16 that meets the eligibility requirements of this section, which may be
+17 implemented by rule, order, or contract. Retail electricity providers shall issue
+18 periodic solicitations subject to the requirements of the Renewable Energy for
+19 Communities Program.
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 2 of 8
+1 (b) Eligible resources. Distributed renewable generation as defined in
+2 subdivision 8005(a)(2)(B) of this chapter shall be eligible to participate in this
+3 Program.
+4 (c) Objectives. It shall be the objective of the Program to develop
+5 distributed renewable generation at least-cost to ratepayers that is directed by,
+6 developed in consultation with, and directly benefits communities by one or
+7 more of the following:
+8 (1) delivering benefits from renewable energy systems to customers who
+9 have historically been marginalized or faced inequitable access to the benefits
+10 of renewable energy, including environmental justice focus populations as
+11 defined in 3 V.S.A. § 6002;
+12 (2) supporting community participation in the development and
+13 governance of distributed renewable generation;
+14 (3) supporting the delivery of benefits to tenants of buildings that are
+15 designated as affordable housing;
+16 (4) supporting the delivery of benefits to school and municipally owned
+17 buildings; and
+18 (5) advancing other priority issues as identified during program
+19 development as detailed under subsection (f) of this section.
+20 (d) Capacity requirement. Retail electricity providers shall issue
+21 solicitations for distributed renewable generation equivalent to a percentage of
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 3 of 8
+1 their requirement under subdivision 8005(a)(2) of this title, as determined by
+2 the Commission.
+3 (e) Solicitation requirement.
+4 (1) On a schedule to be developed by the Commission, each retail
+5 electricity provider with an obligation under subdivision 8005(a)(2) of this title
+6 shall issue solicitations for eligible distributed generation until it has met its
+7 capacity requirement. Coordinated solicitations shall be encouraged. Each
+8 retail electric provider shall review proposed projects in its service territory
+9 according to a set of consistent core criteria as approved by the Commission
+10 and consistent with the objectives set forth in this section.
+11 (2) Requirements for retail electricity providers that are 100 percent
+12 renewable pursuant to subdivision 8005(b)(1) of this title may be limited by
+13 the Commission to an amount equal to the provider’s requirement to meet
+14 distributed generation with load growth above the baseline year of 2024 and
+15 allowed on a less frequent solicitation schedule.
+16 (f) Program development. On or before January 1, 2027, the Commission
+17 shall implement the Renewable Energy for Communities Program. In
+18 developing the program, the Commission shall:
+19 (1) determine principles to guide the development of eligible distributed
+20 generation and consider whether additional objectives for the program as
+21 defined under subsection (c) of this section are necessary;
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 4 of 8
+1 (2) determine whether a percentage of each retail electricity provider’s
+2 capacity requirement should be reserved to serve specific customers who have
+3 previously experienced inequitable access to the benefits of renewable energy
+4 and determine any minimum requirement for those projects procured under
+5 this program for serving those specific customers;
+6 (3) establish a set of consistent review criteria to be used by all retail
+7 electricity providers in solicitations for eligible distributed generation,
+8 considering issues in addition to cost, including community support or
+9 engagement while developing the proposal; potential for local workforce
+10 development and other community benefits to be delivered to the host
+11 community; location of the project, including whether it is in a constrained
+12 area of the distribution or transmission system or in an area identified as a
+13 preferred location in a regional or municipal enhanced energy plan pursuant to
+14 24 V.S.A. § 4352; and anticipated generation profile;
+15 (4) identify reporting requirements and necessary metrics to monitor
+16 how benefits and burdens from the program are distributed across ratepayers;
+17 (5) consult with individuals representing a diverse array of perspectives,
+18 including at minimum representation from industry, retail electric providers,
+19 environmental advocates, State agencies, regional and local governments,
+20 communities identified as environmental justice focus populations in 3 V.S.A.
+21 § 6002, municipalities experiencing high energy burden as identified by
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 5 of 8
+1 Efficiency Vermont’s 2023 Energy Burden Report, renters, and multifamily
+2 affordable housing representatives;
+3 (6) determine a process for exempting or deferring retail electricity
+4 provider requirements under this section in the event no proposals below the
+5 applicable alternative compliance payment are received in response to a retail
+6 electricity provider’s solicitation;
+7 (7) determine a process for evaluating and reporting on the success of
+8 the program in achieving the stated goals; and
+9 (8) consider other issues as identified throughout the process.
+10 (g) Assistance. The Commission may use its authority under sections 20
+11 and 21 of this title as may be necessary to support engagement and technical
+12 analysis necessary to develop the Program. Funding may be used to support
+13 per diem compensation and reimbursement of expenses as permitted under
+14 32 V.S.A. § 1010 to conduct engagement with parties who are not otherwise
+15 compensated by their employer.
+16 Sec. 2. 30 V.S.A. § 8002 is amended to read:
+17 § 8002. DEFINITIONS
+18 * * *
+19 (10) “Group net metering system” means a net metering system serving
+20 more than one customer, or a single customer with multiple electric meters,
+21 located within the service area of the same retail electricity provider. Various
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 6 of 8
+1 buildings owned by municipalities, including water and wastewater districts,
+2 fire districts, villages, school districts, and towns, may constitute a group net
+3 metering system. A union or district school facility may be considered in the
+4 same group net metering system with buildings of its member schools that are
+5 located within the service area of the same retail electricity provider. A system
+6 that files a complete application for a certificate of public good on or after
+7 January 1, 2026 2027 shall not qualify for group net metering, unless the plant
+8 will be located on the same parcel, or a parcel adjacent to, the parcel where the
+9 energy is utilized.
+10 * * *
+11 (16) “Net metering system” means a plant for generation of electricity
+12 that:
+13 (A) is of not more than 500 kW capacity;
+14 (B) operates in parallel with facilities of the electric distribution
+15 system;
+16 (C) is intended primarily to offset the customer’s own electricity
+17 requirements and does not primarily supply electricity to electric vehicle
+18 supply equipment, as defined in section 201 of this title, for the resale of
+19 electricity to the public by the kWh or for other retail sales to the public,
+20 including those based in whole or in part on a flat fee per charging session or a
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 7 of 8
+1 time-based fee for occupying a parking space while using electric vehicle
+2 supply equipment;
+3 (D)(i) employs a renewable energy source; or
+4 (ii) is a qualified micro-combined heat and power system of 20
+5 kW or fewer that meets the definition of combined heat and power in
+6 subsection 8015(b) of this title and uses any fuel source that meets air quality
+7 standards; and
+8 (E)(i) for a system that files a complete application for a certificate of
+9 public good after December 31, 2024, except for systems as provided for in
+10 subdivision (ii) of this subdivision (E), generates energy that will be used on
+11 the same parcel as, or a parcel adjacent to, the parcel where the plant is located;
+12 (ii) for a system that files a complete application for a certificate
+13 of public good after December 31, 2025 2026, if the system serves a
+14 multifamily building containing qualified rental units serving low-income
+15 tenants, as defined under 32 V.S.A. § 5404a(a)(6), generates energy that will
+16 be used on the same parcel as, or a parcel adjacent to, the parcel where the
+17 plant is located; and
+18 (iii) for purposes of subdivisions (10) of this section and this
+19 subdivision (16), two parcels shall be adjacent if they share a property
+20 boundary or are adjacent and separated only by a river, stream, railroad line,
+21 private road, public highway, or similar intervening landform.
+VT LEG #379412 v.2
+BILL AS INTRODUCED H.352
+2025 Page 8 of 8
+1 * * *
+2 Sec. 3. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2025.
+VT LEG #379412 v.2
+[DELETED:  H P H I R R D S S R U A I S § ( e C t i p C]
+[DELETED:  H P ( s P ( d d m ( h o d ( g ( d ( b ( d ( s]
+[DELETED:  H P t t ( ( e s c r a a ( r t d a ( s d ( g d]
+[DELETED:  H P ( c p a t ( e c e d c a p 2 ( h ( i e c §]
+[DELETED:  H P E a ( p a e ( t ( ( a a p 3 c S § * ( m l]
+[DELETED:  H P b f m s l t J w e * ( t ( ( s ( r s e i]
+[DELETED:  H P t s ( ( k s s ( p s t ( o m t b p ( s b p]
+[DELETED:  H P * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.352
+2025 Page 1 of 8
+1 H.352
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; renewable energy; solar; net metering
+6 Statement of purpose of bill as introduced: This bill proposes to create the
+7 Renewable Energy for Communities Program to be administered by the Public
+8 Utility Commission.
+9 An act relating to the Renewable Energy for Communities Program
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 30 V.S.A. § 8005b is added to read:
+12 § 8005b. RENEWABLE ENERGY FOR COMMUNITIES PROGRAM
+13 (a) Establishment. The Renewable Energy for Communities Program is
+14 established. To achieve the goals of subdivision 8005(a)(2) of this title, the
+15 Commission shall develop the Renewable Energy for Communities Program
+16 that meets the eligibility requirements of this section, which may be
+17 implemented by rule, order, or contract. Retail electricity providers shall issue
+18 periodic solicitations subject to the requirements of the Renewable Energy for
+19 Communities Program.
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 2 of 8
+1 (b) Eligible resources. Distributed renewable generation as defined in
+2 subdivision 8005(a)(2)(B) of this chapter shall be eligible to participate in this
+3 Program.
+4 (c) Objectives. It shall be the objective of the Program to develop
+5 distributed renewable generation at least-cost to ratepayers that is directed by,
+6 developed in consultation with, and directly benefits communities by one or
+7 more of the following:
+8 (1) delivering benefits from renewable energy systems to customers who
+9 have historically been marginalized or faced inequitable access to the benefits
+10 of renewable energy, including environmental justice focus populations as
+11 defined in 3 V.S.A. § 6002;
+12 (2) supporting community participation in the development and
+13 governance of distributed renewable generation;
+14 (3) supporting the delivery of benefits to tenants of buildings that are
+15 designated as affordable housing;
+16 (4) supporting the delivery of benefits to school and municipally owned
+17 buildings; and
+18 (5) advancing other priority issues as identified during program
+19 development as detailed under subsection (f) of this section.
+20 (d) Capacity requirement. Retail electricity providers shall issue
+21 solicitations for distributed renewable generation equivalent to a percentage of
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 3 of 8
+1 their requirement under subdivision 8005(a)(2) of this title, as determined by
+2 the Commission.
+3 (e) Solicitation requirement.
+4 (1) On a schedule to be developed by the Commission, each retail
+5 electricity provider with an obligation under subdivision 8005(a)(2) of this title
+6 shall issue solicitations for eligible distributed generation until it has met its
+7 capacity requirement. Coordinated solicitations shall be encouraged. Each
+8 retail electric provider shall review proposed projects in its service territory
+9 according to a set of consistent core criteria as approved by the Commission
+10 and consistent with the objectives set forth in this section.
+11 (2) Requirements for retail electricity providers that are 100 percent
+12 renewable pursuant to subdivision 8005(b)(1) of this title may be limited by
+13 the Commission to an amount equal to the provider’s requirement to meet
+14 distributed generation with load growth above the baseline year of 2024 and
+15 allowed on a less frequent solicitation schedule.
+16 (f) Program development. On or before January 1, 2027, the Commission
+17 shall implement the Renewable Energy for Communities Program. In
+18 developing the program, the Commission shall:
+19 (1) determine principles to guide the development of eligible distributed
+20 generation and consider whether additional objectives for the program as
+21 defined under subsection (c) of this section are necessary;
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 4 of 8
+1 (2) determine whether a percentage of each retail electricity provider’s
+2 capacity requirement should be reserved to serve specific customers who have
+3 previously experienced inequitable access to the benefits of renewable energy
+4 and determine any minimum requirement for those projects procured under
+5 this program for serving those specific customers;
+6 (3) establish a set of consistent review criteria to be used by all retail
+7 electricity providers in solicitations for eligible distributed generation,
+8 considering issues in addition to cost, including community support or
+9 engagement while developing the proposal; potential for local workforce
+10 development and other community benefits to be delivered to the host
+11 community; location of the project, including whether it is in a constrained
+12 area of the distribution or transmission system or in an area identified as a
+13 preferred location in a regional or municipal enhanced energy plan pursuant to
+14 24 V.S.A. § 4352; and anticipated generation profile;
+15 (4) identify reporting requirements and necessary metrics to monitor
+16 how benefits and burdens from the program are distributed across ratepayers;
+17 (5) consult with individuals representing a diverse array of perspectives,
+18 including at minimum representation from industry, retail electric providers,
+19 environmental advocates, State agencies, regional and local governments,
+20 communities identified as environmental justice focus populations in 3 V.S.A.
+21 § 6002, municipalities experiencing high energy burden as identified by
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 5 of 8
+1 Efficiency Vermont’s 2023 Energy Burden Report, renters, and multifamily
+2 affordable housing representatives;
+3 (6) determine a process for exempting or deferring retail electricity
+4 provider requirements under this section in the event no proposals below the
+5 applicable alternative compliance payment are received in response to a retail
+6 electricity provider’s solicitation;
+7 (7) determine a process for evaluating and reporting on the success of
+8 the program in achieving the stated goals; and
+9 (8) consider other issues as identified throughout the process.
+10 (g) Assistance. The Commission may use its authority under sections 20
+11 and 21 of this title as may be necessary to support engagement and technical
+12 analysis necessary to develop the Program. Funding may be used to support
+13 per diem compensation and reimbursement of expenses as permitted under
+14 32 V.S.A. § 1010 to conduct engagement with parties who are not otherwise
+15 compensated by their employer.
+16 Sec. 2. 30 V.S.A. § 8002 is amended to read:
+17 § 8002. DEFINITIONS
+18 * * *
+19 (10) “Group net metering system” means a net metering system serving
+20 more than one customer, or a single customer with multiple electric meters,
+21 located within the service area of the same retail electricity provider. Various
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 6 of 8
+1 buildings owned by municipalities, including water and wastewater districts,
+2 fire districts, villages, school districts, and towns, may constitute a group net
+3 metering system. A union or district school facility may be considered in the
+4 same group net metering system with buildings of its member schools that are
+5 located within the service area of the same retail electricity provider. A system
+6 that files a complete application for a certificate of public good on or after
+7 January 1, 2026 2027 shall not qualify for group net metering, unless the plant
+8 will be located on the same parcel, or a parcel adjacent to, the parcel where the
+9 energy is utilized.
+10 * * *
+11 (16) “Net metering system” means a plant for generation of electricity
+12 that:
+13 (A) is of not more than 500 kW capacity;
+14 (B) operates in parallel with facilities of the electric distribution
+15 system;
+16 (C) is intended primarily to offset the customer’s own electricity
+17 requirements and does not primarily supply electricity to electric vehicle
+18 supply equipment, as defined in section 201 of this title, for the resale of
+19 electricity to the public by the kWh or for other retail sales to the public,
+20 including those based in whole or in part on a flat fee per charging session or a
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 7 of 8
+1 time-based fee for occupying a parking space while using electric vehicle
+2 supply equipment;
+3 (D)(i) employs a renewable energy source; or
+4 (ii) is a qualified micro-combined heat and power system of 20
+5 kW or fewer that meets the definition of combined heat and power in
+6 subsection 8015(b) of this title and uses any fuel source that meets air quality
+7 standards; and
+8 (E)(i) for a system that files a complete application for a certificate of
+9 public good after December 31, 2024, except for systems as provided for in
+10 subdivision (ii) of this subdivision (E), generates energy that will be used on
+11 the same parcel as, or a parcel adjacent to, the parcel where the plant is located;
+12 (ii) for a system that files a complete application for a certificate
+13 of public good after December 31, 2025 2026, if the system serves a
+14 multifamily building containing qualified rental units serving low-income
+15 tenants, as defined under 32 V.S.A. § 5404a(a)(6), generates energy that will
+16 be used on the same parcel as, or a parcel adjacent to, the parcel where the
+17 plant is located; and
+18 (iii) for purposes of subdivisions (10) of this section and this
+19 subdivision (16), two parcels shall be adjacent if they share a property
+20 boundary or are adjacent and separated only by a river, stream, railroad line,
+21 private road, public highway, or similar intervening landform.
+VT LEG #379412 v.2
+
+BILL AS INTRODUCED H.352
+2025 Page 8 of 8
+1 * * *
+2 Sec. 3. EFFECTIVE DATE
+3 This act shall take effect on July 1, 2025.
+VT LEG #379412 v.2
+
+[DELETED:  H P H I R R D S S R U A I S § ( e C t i p C]
+[DELETED:  H P ( s P ( d d m ( h o d ( g ( d ( b ( d ( s]
+[DELETED:  H P t t ( ( e s c r a a ( r t d a ( s d ( g d]
+[DELETED:  H P ( c p a t ( e c e d c a p 2 ( h ( i e c §]
+[DELETED:  H P E a ( p a e ( t ( ( a a p 3 c S § * ( m l]
+[DELETED:  H P b f m s l t J w e * ( t ( ( s ( r s e i]
+[DELETED:  H P t s ( ( k s s ( p s t ( o m t b p ( s b p]
+[DELETED:  H P * S T]

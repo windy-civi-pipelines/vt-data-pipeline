@@ -1,0 +1,188 @@
+Title: 2 An act relating to accepting and referring complaints by the State Ethics
+Official Title: 2 An act relating to accepting and referring complaints by the State Ethics
+Number of Sections: 1
+Source: versions - As Passed By the House (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE H.1
+2025 Page 1 of 4
+1 H.1
+3 Commission
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 3 V.S.A. § 1223 is amended to read:
+6 § 1223. PROCEDURE FOR ACCEPTING AND REFERRING
+7 COMPLAINTS
+8 (a) Accepting complaints.
+9 (1) On behalf of the Commission, the Executive Director shall accept
+10 complaints from any source regarding governmental ethics in any of the three
+11 branches of State government or of the State’s campaign finance law set forth
+12 in 17 V.S.A. chapter 61.
+13 (2) Complaints shall be in writing and shall include the identity of the
+14 complainant.
+15 (b) Preliminary review by Executive Director. The Executive Director
+16 shall conduct a preliminary review of complaints made to the Commission in
+17 order to take action as set forth in this subsection and section 1223a of this
+18 title, which shall include referring complaints to all relevant entities, including
+19 the Commission itself.
+20 * * *
+21 (4) Legislative and Judicial Branches; attorneys.
+VT LEG #381707 v.1
+AS PASSED BY HOUSE H.1
+2025 Page 2 of 4
+1 (A) If the complaint is in regard to conduct committed by a State
+2 Senator, the Executive Director shall refer the complaint to the Senate Ethics
+3 Panel and shall request a report back from the Panel regarding the final
+4 disposition of the complaint.
+5 (B) If the complaint is in regard to conduct committed by a State
+6 Representative, the Executive Director shall refer the complaint to the House
+7 Ethics Panel and shall request a report back from the Panel regarding the final
+8 disposition of the complaint.
+9 (C) If the complaint is in regard to conduct committed by a judicial
+10 officer, the Executive Director shall refer the complaint to the Judicial Conduct
+11 Board and shall request a report back from the Board regarding the final
+12 disposition of the complaint.
+13 (D) If the complaint is in regard to an attorney employed by the State,
+14 the Executive Director shall refer the complaint to the Professional
+15 Responsibility Board and shall request a report back from the Board regarding
+16 the final disposition of the complaint.
+17 (E) If any of the complaints described in subdivisions (A)–(D) of this
+18 subdivision (4) also allege that a crime has been committed, the Executive
+19 Director shall also refer the complaint to the Attorney General and the State’s
+20 Attorney of jurisdiction.
+VT LEG #381707 v.1
+AS PASSED BY HOUSE H.1
+2025 Page 3 of 4
+1 (5) Municipal Code of Ethics. If the complaint alleges a violation of the
+2 Municipal Code of Ethics, the Executive Director shall refer the complaint to
+3 the designated ethics liaison of the appropriate municipality.
+4 * * *
+5 (c) Consultation on unethical conduct.
+6 (1) If the Executive Director refers a complaint under subsection (b) of
+7 this section, the Executive Director shall signify any likely unethical conduct
+8 described in the complaint. Any entity receiving a referred complaint, except
+9 those in subdivision (b)(5) of this section, shall consult with the Commission
+10 regarding the application of the State Code of Ethics to facts presented in the
+11 complaint.
+12 (A) For complaints referred under subdivision (b)(4) of this section,
+13 the Executive Director shall specify the application of the State Code of Ethics
+14 to facts presented in the complaint and include a recommended action.
+15 (B) For all other complaints referred under subsection (b) of this
+16 section, except those in subdivisions (b)(4) and (5) of this section, an entity
+17 receiving a complaint shall consult with the Commission regarding the
+18 application of the State Code of Ethics to facts presented in the complaint. The
+19 consultation shall be in writing and occur within 60 days after an the entity
+20 receives a the referred complaint and prior to the entity making a determination
+VT LEG #381707 v.1
+AS PASSED BY HOUSE H.1
+2025 Page 4 of 4
+1 on the complaint, meaning either closing a complaint without further
+2 investigation or issuing findings following an investigation.
+3 (2) Any advice the Commission provides during the consultation
+4 process shall be confidential and nonbinding on the entity.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect September 1, 2025 and shall supersede those
+7 provisions of 2024 Acts and Resolves No. 171, Sec. 9 that amended 3 V.S.A.
+8 § 1223 and that conflict with the language in this act.
+VT LEG #381707 v.1
+[DELETED:  H P H A C I S §   ( ( c b i ( c ( s o t t * (]
+[DELETED:  H P ( S P d ( R E d ( o B d ( t R t ( s D A]
+[DELETED:  H P ( M t * ( ( t d t r c ( t t ( s r a c r]
+[DELETED:  H P o i ( p S T p §]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE H.1
+2025 Page 1 of 4
+1 H.1
+2 An act relating to accepting and referring complaints by the State Ethics
+3 Commission
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 3 V.S.A. § 1223 is amended to read:
+6 § 1223. PROCEDURE FOR ACCEPTING AND REFERRING
+7 COMPLAINTS
+8 (a) Accepting complaints.
+9 (1) On behalf of the Commission, the Executive Director shall accept
+10 complaints from any source regarding governmental ethics in any of the three
+11 branches of State government or of the State’s campaign finance law set forth
+12 in 17 V.S.A. chapter 61.
+13 (2) Complaints shall be in writing and shall include the identity of the
+14 complainant.
+15 (b) Preliminary review by Executive Director. The Executive Director
+16 shall conduct a preliminary review of complaints made to the Commission in
+17 order to take action as set forth in this subsection and section 1223a of this
+18 title, which shall include referring complaints to all relevant entities, including
+19 the Commission itself.
+20 * * *
+21 (4) Legislative and Judicial Branches; attorneys.
+VT LEG #381707 v.1
+
+AS PASSED BY HOUSE H.1
+2025 Page 2 of 4
+1 (A) If the complaint is in regard to conduct committed by a State
+2 Senator, the Executive Director shall refer the complaint to the Senate Ethics
+3 Panel and shall request a report back from the Panel regarding the final
+4 disposition of the complaint.
+5 (B) If the complaint is in regard to conduct committed by a State
+6 Representative, the Executive Director shall refer the complaint to the House
+7 Ethics Panel and shall request a report back from the Panel regarding the final
+8 disposition of the complaint.
+9 (C) If the complaint is in regard to conduct committed by a judicial
+10 officer, the Executive Director shall refer the complaint to the Judicial Conduct
+11 Board and shall request a report back from the Board regarding the final
+12 disposition of the complaint.
+13 (D) If the complaint is in regard to an attorney employed by the State,
+14 the Executive Director shall refer the complaint to the Professional
+15 Responsibility Board and shall request a report back from the Board regarding
+16 the final disposition of the complaint.
+17 (E) If any of the complaints described in subdivisions (A)–(D) of this
+18 subdivision (4) also allege that a crime has been committed, the Executive
+19 Director shall also refer the complaint to the Attorney General and the State’s
+20 Attorney of jurisdiction.
+VT LEG #381707 v.1
+
+AS PASSED BY HOUSE H.1
+2025 Page 3 of 4
+1 (5) Municipal Code of Ethics. If the complaint alleges a violation of the
+2 Municipal Code of Ethics, the Executive Director shall refer the complaint to
+3 the designated ethics liaison of the appropriate municipality.
+4 * * *
+5 (c) Consultation on unethical conduct.
+6 (1) If the Executive Director refers a complaint under subsection (b) of
+7 this section, the Executive Director shall signify any likely unethical conduct
+8 described in the complaint. Any entity receiving a referred complaint, except
+9 those in subdivision (b)(5) of this section, shall consult with the Commission
+10 regarding the application of the State Code of Ethics to facts presented in the
+11 complaint.
+12 (A) For complaints referred under subdivision (b)(4) of this section,
+13 the Executive Director shall specify the application of the State Code of Ethics
+14 to facts presented in the complaint and include a recommended action.
+15 (B) For all other complaints referred under subsection (b) of this
+16 section, except those in subdivisions (b)(4) and (5) of this section, an entity
+17 receiving a complaint shall consult with the Commission regarding the
+18 application of the State Code of Ethics to facts presented in the complaint. The
+19 consultation shall be in writing and occur within 60 days after an the entity
+20 receives a the referred complaint and prior to the entity making a determination
+VT LEG #381707 v.1
+
+AS PASSED BY HOUSE H.1
+2025 Page 4 of 4
+1 on the complaint, meaning either closing a complaint without further
+2 investigation or issuing findings following an investigation.
+3 (2) Any advice the Commission provides during the consultation
+4 process shall be confidential and nonbinding on the entity.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect September 1, 2025 and shall supersede those
+7 provisions of 2024 Acts and Resolves No. 171, Sec. 9 that amended 3 V.S.A.
+8 § 1223 and that conflict with the language in this act.
+VT LEG #381707 v.1
+
+[DELETED:  H P H A C I S §   ( ( c b i ( c ( s o t t * (]
+[DELETED:  H P ( S P d ( R E d ( o B d ( t R t ( s D A]
+[DELETED:  H P ( M t * ( ( t d t r c ( t t ( s r a c r]
+[DELETED:  H P o i ( p S T p §]

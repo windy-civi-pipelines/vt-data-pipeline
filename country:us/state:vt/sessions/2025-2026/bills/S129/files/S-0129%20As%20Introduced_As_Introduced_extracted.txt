@@ -1,0 +1,492 @@
+Title: BILL AS INTRODUCED S.129
+Official Title: BILL AS INTRODUCED S.129
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 10
+1 S.129
+2 Introduced by Senator Cummings
+3 Referred to Committee on
+4 Date:
+5 Subject: Money services; virtual currency; kiosk operators; regulation
+6 Statement of purpose of bill as introduced: This bill proposes to amend
+7 Vermont law as it pertains to the regulation of virtual-currency kiosk operators.
+8 An act relating to the regulation of virtual-currency kiosk operators
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 8 V.S.A. § 2577 is amended to read:
+11 § 2577. VIRTUAL-CURRENCY KIOSK OPERATORS
+12 (a) Daily transaction limit.
+13 (1) A virtual-currency kiosk operator shall not accept or dispense more
+14 than $1,000.00 $2,000.00 of cash in a day in connection with virtual-currency
+15 transactions with a single new customer in this State via one or more money
+16 transmission kiosks. As used in this section, a “new customer” means an
+17 individual who has not completed more than two virtual-currency transactions
+18 with a virtual-currency kiosk operator or who has completed a second virtual-
+19 currency transaction with a virtual-currency kiosk operator but that transaction
+20 was completed not more than 72 hours ago.
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 2 of 10
+1 (2) A virtual-currency kiosk operator shall not accept or dispense more
+2 than $5,000.00 of cash in a day in connection with virtual-currency
+3 transactions with a single existing customer in this State via one or more
+4 money transmission kiosks. As used in this section, an “existing customer”
+5 means an individual who has completed at least two virtual-currency
+6 transactions with a virtual-currency kiosk operator and the second virtual-
+7 currency transaction occurred more than 72 hours ago.
+8 (b) Fee cap. The aggregate fees and charges, directly or indirectly, charged
+9 to a customer related to a single transaction or series of related transactions
+10 involving virtual currency effected through a money transmission kiosk in this
+11 State, including any difference between the price charged to a customer to buy,
+12 sell, exchange, swap, or convert virtual currency and the prevailing market
+13 value of such virtual currency at the time of such transaction, shall not exceed
+14 the greater of the following:
+15 (1) $5.00; or
+16 (2) three percent 15 percent of the U.S. dollar equivalent of virtual
+17 currency involved in the transaction or transactions.
+18 (c) Single transaction. The purchase, sale, exchange, swap, or conversion
+19 of virtual currency, or the subsequent transfer of virtual currency, in a series of
+20 transactions shall be deemed to be a single transaction for purposes of
+21 subsection (b) of this section.
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 3 of 10
+1 (d) Licensing requirement. A virtual-currency kiosk operator shall comply
+2 with the licensing requirements of this subchapter to the extent that the virtual-
+3 currency kiosk operator engages in virtual-currency business activity.
+4 (e) Operator accountability. If a virtual-currency kiosk operator allows or
+5 facilitates another person to engage in virtual-currency business activity via a
+6 money transmission kiosk in this State that is owned, operated, or managed by
+7 the virtual-currency kiosk operator, the virtual-currency kiosk operator shall do
+8 all of the following:
+9 (1) ensure that the person engaging in virtual-currency business activity
+10 is licensed under subchapter 2 of this chapter to engage in virtual-currency
+11 business activity and complies with all other applicable provisions of this
+12 chapter;
+13 (2) ensure that any charges collected from a customer via the money
+14 transmission kiosk comply with the limits provided by subsection (b) of this
+15 section; and
+16 (3) comply with all other applicable provisions of this chapter.
+17 (f) Moratorium. To protect the public safety and welfare and safeguard the
+18 rights of consumers, virtual-currency kiosks shall not be permitted to operate
+19 in Vermont prior to July 1, 2025. This moratorium shall not apply to a virtual-
+20 currency kiosk that was operational in Vermont on or before June 30, 2024
+21 Disclosure of material risks. As part of establishing a relationship with a
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 4 of 10
+1 customer, and prior to entering into an initial transaction for, on behalf of, or
+2 with such customer, each virtual-currency kiosk operator shall disclose in
+3 clear, conspicuous, and legible writing in the English language, whether in
+4 accessible terms of service or elsewhere, all material risks associated with its
+5 products, services, and activities and virtual currency generally, including
+6 disclosures substantially similar to the following:
+7 (1) virtual currency is not legal tender, is not backed by the government,
+8 and accounts and value balances are not subject to Federal Deposit Insurance
+9 Corporation or Securities Investor Protection Corporation protections;
+10 (2) legislative and regulatory changes or actions at the State, federal, or
+11 international level may adversely affect the use, transfer, exchange, and value
+12 of virtual currency;
+13 (3) transactions in virtual currency may be irreversible and, accordingly,
+14 losses due to fraudulent or accidental transactions may not be recoverable;
+15 (4) some virtual currency transactions shall be deemed to be made when
+16 recorded on a public ledger, which is not necessarily the date or time that the
+17 customer initiates the transaction;
+18 (5) the value of virtual currency may be derived from the continued
+19 willingness of market participants to exchange fiat currency for virtual
+20 currency, which may result in the potential for permanent and total loss of
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 5 of 10
+1 value of a particular virtual currency should the market for that virtual
+2 currency disappear;
+3 (6) there is no assurance that a person who accepts a virtual currency as
+4 payment today will continue to do so in the future;
+5 (7) the volatility and unpredictability of the price of virtual currency
+6 relative to fiat currency may result in significant loss over a short period of
+7 time;
+8 (8) the nature of virtual currency may lead to an increased risk of fraud
+9 or cyber attack;
+10 (9) the nature of virtual currency means that any technological
+11 difficulties experienced by the virtual-currency kiosk operator may prevent the
+12 access or use of a customer’s virtual currency; and
+13 (10) any bond or trust account maintained by the virtual-currency kiosk
+14 operator for the benefit of its customers may not be sufficient to cover all
+15 losses incurred by customers.
+16 (g) Report. On or before January 15, 2025, the Commissioner of Financial
+17 Regulation shall report to the House Committee on Commerce and Economic
+18 Development and the Senate Committee on Finance on whether the
+19 requirements of this section coupled with relevant federal requirements are
+20 sufficient to protect customers in Vermont from fraudulent activity. If deemed
+21 necessary and appropriate by the Commissioner, the Commissioner may make
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 6 of 10
+1 recommendations for additional statutory or regulatory safeguards. In
+2 addition, the Commissioner shall make recommendations for enhanced
+3 oversight and monitoring of virtual-currency kiosks for the purpose of
+4 minimizing their use for illicit activities as described in the U.S. Government
+5 Accountability Office report on virtual currencies, GAO-22-105462, dated
+6 December 2021. Disclosure upon opening account. When opening an account
+7 for a new customer, and prior to entering into an initial transaction for, on
+8 behalf of, or with such customer, each virtual-currency kiosk operator shall
+9 disclose in clear, conspicuous, and legible writing in the English language,
+10 whether in accessible terms of service or elsewhere, all relevant terms and
+11 conditions associated with its products, services, and activities and virtual
+12 currency generally, including disclosures substantially similar to the
+13 following”
+14 (1) the customer’s liability for unauthorized virtual currency
+15 transactions;
+16 (2) under what circumstances the virtual-currency kiosk operator will,
+17 absent a court or government order, disclose information concerning the
+18 customer’s account to third parties;
+19 (3) the customer’s right to receive periodic account statements and
+20 valuations from the virtual-currency kiosk operator;
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 7 of 10
+1 (4) the customer’s right to receive a receipt, trade ticket, or other
+2 evidence of a transaction;
+3 (5) the customer’s right to prior notice of a change in the virtual-
+4 currency kiosk operator’s rules or policies; and
+5 (6) such other disclosures as are customarily given in connection with
+6 the opening of customer accounts.
+7 (h). Disclosure prior to transaction. Prior to entering into a virtual-currency
+8 transaction with a customer, each virtual-currency kiosk operator shall ensure a
+9 warning is disclosed to a customer substantially similar to the following:
+10 Customer Notice. Please Read Carefully.
+11 Did you receive a phone call from your bank, software provider, the police,
+12 or were you directed to make a payment for social security, utility bill,
+13 investment, warrants, or bail money at this kiosk? STOP
+14 Is anyone on the phone pressuring you to make a payment of any kinds?
+15 STOP
+16 I understand that the purchase and sale of cryptocurrency is a final,
+17 irreversible, and nonrefundable transaction.
+18 I confirm I am sending funds to a wallet I own or directly have control over.
+19 I confirm that I am using funds gained from my own initiative to make my
+20 transaction.
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 8 of 10
+1 (i) Blockchain analytics. A virtual-currency kiosk operator shall use
+2 blockchain analytics software to assist in the prevention of sending purchased
+3 virtual currency from a virtual-currency kiosk operator to a digital wallet
+4 known to be affiliated with fraudulent activity at the time of a transaction. The
+5 Commissioner may request evidence from any virtual-currency kiosk operator
+6 of current use of blockchain analytics.
+7 (j) Customer service. A virtual-currency kiosk operator shall provide live
+8 customer service at a minimum on Monday through Friday between the hours
+9 for 8:00 a.m. and 10:00 p.m. CST. The customer service toll free number shall
+10 be displayed on the virtual-currency kiosk or the virtual-currency kiosk screen.
+11 (k) Fraud prevention. A virtual-currency kiosk operator shall take
+12 reasonable steps to detect and prevent fraud, including establishing and
+13 maintaining a written anti-fraud policy. The anti-fraud policy shall, at a
+14 minimum, include the following:
+15 (1) the identification and assessment of fraud related risk areas;
+16 (2) procedures and controls to protect against identified risks;
+17 (3) allocation of responsibility for monitoring risks; and
+18 (4) procedures for the periodic evaluation and revision of the anti-fraud
+19 procedures, controls, and monitoring mechanisms.
+20 (l) Due diligence policy. A virtual-currency kiosk operator shall maintain,
+21 implement, and enforce a written Enhanced Due Diligence Policy. The Policy
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 9 of 10
+1 shall be reviewed and approved by the virtual-currency kiosk operator’s board
+2 of directors or an equivalent governing body of the virtual-currency kiosk
+3 operator. The Policy shall identify, at a minimum, individuals who are at risk
+4 of fraud based on age or mental capacity.
+5 (m) Compliance policies. A virtual-currency kiosk operator shall maintain,
+6 implement, and enforce written compliance policies and procedures. Such
+7 policies and procedures shall be reviewed and approved by the virtual-currency
+8 kiosk operator’s board of directors or an equivalent governing body of the
+9 virtual-currency kiosk operator.
+10 (n) Compliance officer.
+11 (1) A virtual-currency kiosk operator shall designate and employ a
+12 compliance officer who meets the following requirements:
+13 (A) is qualified to coordinate and monitor compliance with this
+14 section and all other applicable federal and State laws and regulations;
+15 (B) is employed full-time by the virtual-currency kiosk operator; and
+16 (C) is not an individual who owns more than 20 percent of the
+17 virtual-currency kiosk operator by whom the individual is employed.
+18 (2) Compliance responsibilities required under federal and State law and
+19 regulation shall be completed by one or more full-time employees of the
+20 virtual-currency kiosk operator.
+VT LEG #381384 v.1
+BILL AS INTRODUCED S.129
+2025 Page 10 of 10
+1 (o) Consumer protection officer. A virtual-currency kiosk operator shall
+2 designate and employe a consumer protection officer who meets the following
+3 requirements:
+4 (1) is qualified to coordinate and monitor compliance with this section
+5 and all other applicable federal and State laws and regulations;
+6 (2) is employed full-time by the virtual-currency kiosk operator; and
+7 (3) is not an individual who owns more than 20 percent of the virtual-
+8 currency kiosk operator by whom the individual is employed.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #381384 v.1
+[DELETED:  S P S I S R D S S V A I S § ( ( t t t i w c w]
+[DELETED:  S P ( t t m m t c ( t i S s v t ( ( c ( o t s]
+[DELETED:  S P ( w c ( f m t a ( i b c ( t s ( ( r i c D]
+[DELETED:  S P c w c a p d ( a C ( i o ( l ( r c ( w c]
+[DELETED:  S P v c ( p ( r t ( o ( d a ( o l ( R D r s n]
+[DELETED:  S P r a o m A D f b d w c c f ( t ( a c ( v]
+[DELETED:  S P ( e ( c ( t ( t w C D o i I S I i I I t]
+[DELETED:  S P ( b v k C o ( c f b ( r m m ( ( ( ( p ( i]
+[DELETED:  S P s o o o ( i p k v ( ( c ( s ( ( v ( r v]
+[DELETED:  S P ( d r ( a ( ( c S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.129
+2025 Page 1 of 10
+1 S.129
+2 Introduced by Senator Cummings
+3 Referred to Committee on
+4 Date:
+5 Subject: Money services; virtual currency; kiosk operators; regulation
+6 Statement of purpose of bill as introduced: This bill proposes to amend
+7 Vermont law as it pertains to the regulation of virtual-currency kiosk operators.
+8 An act relating to the regulation of virtual-currency kiosk operators
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 8 V.S.A. § 2577 is amended to read:
+11 § 2577. VIRTUAL-CURRENCY KIOSK OPERATORS
+12 (a) Daily transaction limit.
+13 (1) A virtual-currency kiosk operator shall not accept or dispense more
+14 than $1,000.00 $2,000.00 of cash in a day in connection with virtual-currency
+15 transactions with a single new customer in this State via one or more money
+16 transmission kiosks. As used in this section, a “new customer” means an
+17 individual who has not completed more than two virtual-currency transactions
+18 with a virtual-currency kiosk operator or who has completed a second virtual-
+19 currency transaction with a virtual-currency kiosk operator but that transaction
+20 was completed not more than 72 hours ago.
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 2 of 10
+1 (2) A virtual-currency kiosk operator shall not accept or dispense more
+2 than $5,000.00 of cash in a day in connection with virtual-currency
+3 transactions with a single existing customer in this State via one or more
+4 money transmission kiosks. As used in this section, an “existing customer”
+5 means an individual who has completed at least two virtual-currency
+6 transactions with a virtual-currency kiosk operator and the second virtual-
+7 currency transaction occurred more than 72 hours ago.
+8 (b) Fee cap. The aggregate fees and charges, directly or indirectly, charged
+9 to a customer related to a single transaction or series of related transactions
+10 involving virtual currency effected through a money transmission kiosk in this
+11 State, including any difference between the price charged to a customer to buy,
+12 sell, exchange, swap, or convert virtual currency and the prevailing market
+13 value of such virtual currency at the time of such transaction, shall not exceed
+14 the greater of the following:
+15 (1) $5.00; or
+16 (2) three percent 15 percent of the U.S. dollar equivalent of virtual
+17 currency involved in the transaction or transactions.
+18 (c) Single transaction. The purchase, sale, exchange, swap, or conversion
+19 of virtual currency, or the subsequent transfer of virtual currency, in a series of
+20 transactions shall be deemed to be a single transaction for purposes of
+21 subsection (b) of this section.
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 3 of 10
+1 (d) Licensing requirement. A virtual-currency kiosk operator shall comply
+2 with the licensing requirements of this subchapter to the extent that the virtual-
+3 currency kiosk operator engages in virtual-currency business activity.
+4 (e) Operator accountability. If a virtual-currency kiosk operator allows or
+5 facilitates another person to engage in virtual-currency business activity via a
+6 money transmission kiosk in this State that is owned, operated, or managed by
+7 the virtual-currency kiosk operator, the virtual-currency kiosk operator shall do
+8 all of the following:
+9 (1) ensure that the person engaging in virtual-currency business activity
+10 is licensed under subchapter 2 of this chapter to engage in virtual-currency
+11 business activity and complies with all other applicable provisions of this
+12 chapter;
+13 (2) ensure that any charges collected from a customer via the money
+14 transmission kiosk comply with the limits provided by subsection (b) of this
+15 section; and
+16 (3) comply with all other applicable provisions of this chapter.
+17 (f) Moratorium. To protect the public safety and welfare and safeguard the
+18 rights of consumers, virtual-currency kiosks shall not be permitted to operate
+19 in Vermont prior to July 1, 2025. This moratorium shall not apply to a virtual-
+20 currency kiosk that was operational in Vermont on or before June 30, 2024
+21 Disclosure of material risks. As part of establishing a relationship with a
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 4 of 10
+1 customer, and prior to entering into an initial transaction for, on behalf of, or
+2 with such customer, each virtual-currency kiosk operator shall disclose in
+3 clear, conspicuous, and legible writing in the English language, whether in
+4 accessible terms of service or elsewhere, all material risks associated with its
+5 products, services, and activities and virtual currency generally, including
+6 disclosures substantially similar to the following:
+7 (1) virtual currency is not legal tender, is not backed by the government,
+8 and accounts and value balances are not subject to Federal Deposit Insurance
+9 Corporation or Securities Investor Protection Corporation protections;
+10 (2) legislative and regulatory changes or actions at the State, federal, or
+11 international level may adversely affect the use, transfer, exchange, and value
+12 of virtual currency;
+13 (3) transactions in virtual currency may be irreversible and, accordingly,
+14 losses due to fraudulent or accidental transactions may not be recoverable;
+15 (4) some virtual currency transactions shall be deemed to be made when
+16 recorded on a public ledger, which is not necessarily the date or time that the
+17 customer initiates the transaction;
+18 (5) the value of virtual currency may be derived from the continued
+19 willingness of market participants to exchange fiat currency for virtual
+20 currency, which may result in the potential for permanent and total loss of
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 5 of 10
+1 value of a particular virtual currency should the market for that virtual
+2 currency disappear;
+3 (6) there is no assurance that a person who accepts a virtual currency as
+4 payment today will continue to do so in the future;
+5 (7) the volatility and unpredictability of the price of virtual currency
+6 relative to fiat currency may result in significant loss over a short period of
+7 time;
+8 (8) the nature of virtual currency may lead to an increased risk of fraud
+9 or cyber attack;
+10 (9) the nature of virtual currency means that any technological
+11 difficulties experienced by the virtual-currency kiosk operator may prevent the
+12 access or use of a customer’s virtual currency; and
+13 (10) any bond or trust account maintained by the virtual-currency kiosk
+14 operator for the benefit of its customers may not be sufficient to cover all
+15 losses incurred by customers.
+16 (g) Report. On or before January 15, 2025, the Commissioner of Financial
+17 Regulation shall report to the House Committee on Commerce and Economic
+18 Development and the Senate Committee on Finance on whether the
+19 requirements of this section coupled with relevant federal requirements are
+20 sufficient to protect customers in Vermont from fraudulent activity. If deemed
+21 necessary and appropriate by the Commissioner, the Commissioner may make
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 6 of 10
+1 recommendations for additional statutory or regulatory safeguards. In
+2 addition, the Commissioner shall make recommendations for enhanced
+3 oversight and monitoring of virtual-currency kiosks for the purpose of
+4 minimizing their use for illicit activities as described in the U.S. Government
+5 Accountability Office report on virtual currencies, GAO-22-105462, dated
+6 December 2021. Disclosure upon opening account. When opening an account
+7 for a new customer, and prior to entering into an initial transaction for, on
+8 behalf of, or with such customer, each virtual-currency kiosk operator shall
+9 disclose in clear, conspicuous, and legible writing in the English language,
+10 whether in accessible terms of service or elsewhere, all relevant terms and
+11 conditions associated with its products, services, and activities and virtual
+12 currency generally, including disclosures substantially similar to the
+13 following”
+14 (1) the customer’s liability for unauthorized virtual currency
+15 transactions;
+16 (2) under what circumstances the virtual-currency kiosk operator will,
+17 absent a court or government order, disclose information concerning the
+18 customer’s account to third parties;
+19 (3) the customer’s right to receive periodic account statements and
+20 valuations from the virtual-currency kiosk operator;
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 7 of 10
+1 (4) the customer’s right to receive a receipt, trade ticket, or other
+2 evidence of a transaction;
+3 (5) the customer’s right to prior notice of a change in the virtual-
+4 currency kiosk operator’s rules or policies; and
+5 (6) such other disclosures as are customarily given in connection with
+6 the opening of customer accounts.
+7 (h). Disclosure prior to transaction. Prior to entering into a virtual-currency
+8 transaction with a customer, each virtual-currency kiosk operator shall ensure a
+9 warning is disclosed to a customer substantially similar to the following:
+10 Customer Notice. Please Read Carefully.
+11 Did you receive a phone call from your bank, software provider, the police,
+12 or were you directed to make a payment for social security, utility bill,
+13 investment, warrants, or bail money at this kiosk? STOP
+14 Is anyone on the phone pressuring you to make a payment of any kinds?
+15 STOP
+16 I understand that the purchase and sale of cryptocurrency is a final,
+17 irreversible, and nonrefundable transaction.
+18 I confirm I am sending funds to a wallet I own or directly have control over.
+19 I confirm that I am using funds gained from my own initiative to make my
+20 transaction.
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 8 of 10
+1 (i) Blockchain analytics. A virtual-currency kiosk operator shall use
+2 blockchain analytics software to assist in the prevention of sending purchased
+3 virtual currency from a virtual-currency kiosk operator to a digital wallet
+4 known to be affiliated with fraudulent activity at the time of a transaction. The
+5 Commissioner may request evidence from any virtual-currency kiosk operator
+6 of current use of blockchain analytics.
+7 (j) Customer service. A virtual-currency kiosk operator shall provide live
+8 customer service at a minimum on Monday through Friday between the hours
+9 for 8:00 a.m. and 10:00 p.m. CST. The customer service toll free number shall
+10 be displayed on the virtual-currency kiosk or the virtual-currency kiosk screen.
+11 (k) Fraud prevention. A virtual-currency kiosk operator shall take
+12 reasonable steps to detect and prevent fraud, including establishing and
+13 maintaining a written anti-fraud policy. The anti-fraud policy shall, at a
+14 minimum, include the following:
+15 (1) the identification and assessment of fraud related risk areas;
+16 (2) procedures and controls to protect against identified risks;
+17 (3) allocation of responsibility for monitoring risks; and
+18 (4) procedures for the periodic evaluation and revision of the anti-fraud
+19 procedures, controls, and monitoring mechanisms.
+20 (l) Due diligence policy. A virtual-currency kiosk operator shall maintain,
+21 implement, and enforce a written Enhanced Due Diligence Policy. The Policy
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 9 of 10
+1 shall be reviewed and approved by the virtual-currency kiosk operator’s board
+2 of directors or an equivalent governing body of the virtual-currency kiosk
+3 operator. The Policy shall identify, at a minimum, individuals who are at risk
+4 of fraud based on age or mental capacity.
+5 (m) Compliance policies. A virtual-currency kiosk operator shall maintain,
+6 implement, and enforce written compliance policies and procedures. Such
+7 policies and procedures shall be reviewed and approved by the virtual-currency
+8 kiosk operator’s board of directors or an equivalent governing body of the
+9 virtual-currency kiosk operator.
+10 (n) Compliance officer.
+11 (1) A virtual-currency kiosk operator shall designate and employ a
+12 compliance officer who meets the following requirements:
+13 (A) is qualified to coordinate and monitor compliance with this
+14 section and all other applicable federal and State laws and regulations;
+15 (B) is employed full-time by the virtual-currency kiosk operator; and
+16 (C) is not an individual who owns more than 20 percent of the
+17 virtual-currency kiosk operator by whom the individual is employed.
+18 (2) Compliance responsibilities required under federal and State law and
+19 regulation shall be completed by one or more full-time employees of the
+20 virtual-currency kiosk operator.
+VT LEG #381384 v.1
+
+BILL AS INTRODUCED S.129
+2025 Page 10 of 10
+1 (o) Consumer protection officer. A virtual-currency kiosk operator shall
+2 designate and employe a consumer protection officer who meets the following
+3 requirements:
+4 (1) is qualified to coordinate and monitor compliance with this section
+5 and all other applicable federal and State laws and regulations;
+6 (2) is employed full-time by the virtual-currency kiosk operator; and
+7 (3) is not an individual who owns more than 20 percent of the virtual-
+8 currency kiosk operator by whom the individual is employed.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #381384 v.1
+
+[DELETED:  S P S I S R D S S V A I S § ( ( t t t i w c w]
+[DELETED:  S P ( t t m m t c ( t i S s v t ( ( c ( o t s]
+[DELETED:  S P ( w c ( f m t a ( i b c ( t s ( ( r i c D]
+[DELETED:  S P c w c a p d ( a C ( i o ( l ( r c ( w c]
+[DELETED:  S P v c ( p ( r t ( o ( d a ( o l ( R D r s n]
+[DELETED:  S P r a o m A D f b d w c c f ( t ( a c ( v]
+[DELETED:  S P ( e ( c ( t ( t w C D o i I S I i I I t]
+[DELETED:  S P ( b v k C o ( c f b ( r m m ( ( ( ( p ( i]
+[DELETED:  S P s o o o ( i p k v ( ( c ( s ( ( v ( r v]
+[DELETED:  S P ( d r ( a ( ( c S T]

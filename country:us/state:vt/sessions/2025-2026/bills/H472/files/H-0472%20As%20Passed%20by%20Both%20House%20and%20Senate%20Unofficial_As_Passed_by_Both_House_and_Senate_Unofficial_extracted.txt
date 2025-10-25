@@ -1,0 +1,602 @@
+Title: 2 An act relating to professions and occupations regulated by the Office of
+Official Title: 2 An act relating to professions and occupations regulated by the Office of
+Number of Sections: 1
+Source: versions - As Passed by Both House and Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 1 of 12
+1 H.472
+3 Professional Regulation
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * OPR Fees and Fund Management * * *
+6 Sec. 1. 3 V.S.A. § 118 is amended to read:
+7 § 118. COLLECTION AND DISPOSITION OF REVENUE
+8 (a) There is hereby created a Secretary of State Services Fund. The Fund
+9 shall be used to provide appropriations for the operations of the Office of the
+10 Secretary of State, with the exception of those operations provided for in
+11 chapter 5, subchapter 3 of this title. The Fund shall be administered as a
+12 special fund pursuant to 32 V.S.A. chapter 7, subchapter 5. At the end of each
+13 fiscal year, the unobligated balance in this Fund shall be transferred to the
+14 General Fund.
+15 (b) All revenues collected by the Secretary of State shall be deposited into
+16 the Secretary of State Services Fund except for the following revenues:
+17 (1) any revenues collected by the Office of Professional Regulation set
+18 forth in chapter 5, subchapter 3 of this title; and
+19 (2) any revenues collected pursuant to subsection 117(k) of this title.
+20 (c) The Secretary of State shall have the authority to collect and deposit
+21 into the Secretary of State Services Fund revenues generated from optional
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 2 of 12
+1 services offered in the normal course of business, including for one-time or
+2 periodic sales of data by subscription or other contractual basis.
+3 Sec. 1a. SECRETARY OF STATE; REPORT; REVENUES FROM SALES
+4 OF DATA
+5 On or before December 1, 2025, the Secretary of State shall submit to the
+6 House Committees on Energy and Digital Infrastructure, on Government
+7 Operations and Military Affairs, and on Ways and Means and to the Senate
+8 Committees on Finance, on Government Operations, and on Institutions a
+9 written report detailing the revenues generated from optional services through
+10 sales of data, as authorized pursuant to 3 V.S.A. § 118(c), including the
+11 categories of data sold.
+12 Sec. 2. 3 V.S.A. § 125 is amended to read:
+13 § 125. FEES
+14 (a) In addition to the fees otherwise authorized by law, a board or advisor
+15 profession may charge the following fees:
+16 (1) Verification of license, $20.00 $30.00.
+17 * * *
+18 (b) Unless otherwise provided by law, the following fees shall apply to all
+19 professions regulated by the Director in consultation with advisor appointees
+20 under Title 26:
+21 * * *
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 3 of 12
+1 (4) Biennial renewal, $275.00, except biennial renewal for:
+2 * * *
+3 (W) Electrology shop, $200.00.
+4 * * *
+5 (9) Apprenticeship application, $50.00.
+6 (10) Specialty or endorsement to existing license application, $100.00.
+7 (11) Disciplinary action surcharge, $250.00.
+8 (c) Notwithstanding any provisions of law to the contrary, a board shall not
+9 require payment of renewal fees for years during which a license was lapsed.
+10 [Repealed.]
+11 * * *
+12 * * * 2027 Fee Increase; Peer Support Providers * * *
+13 Sec. 3. 3 V.S.A. § 125 is amended to read:
+14 § 125. FEES
+15 * * *
+16 (b) Unless otherwise provided by law, the following fees shall apply to all
+17 professions regulated by the Director in consultation with advisor appointees
+18 under Title 26:
+19 * * *
+20 (4) Biennial renewal, $275.00, except biennial renewal for:
+21 * * *
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 4 of 12
+1 (V) Peer support providers or peer recovery support specialists,
+2 $50.00 $75.00.
+3 * * *
+4 * * * OPR Duties and Disciplinary Authority * * *
+5 Sec. 4. 3 V.S.A. § 123 is amended to read:
+6 § 123. DUTIES OF OFFICE
+7 * * *
+8 (k) For any profession attached to it, the Office shall provide a pre-
+9 application determination of an individual’s criminal background. This
+10 determination shall not be binding on the Office in a future application if the
+11 individual violates probation or parole or is convicted of another crime
+12 following the determination.
+13 * * *
+14 (2) The individual shall submit this request online, accompanied by the
+15 fee for preapplication determinations set forth in section 125 of this
+16 subchapter. If the individual thereafter applies for licensure, this
+17 preapplication fee shall be deducted from that license application fee.
+18 * * *
+19 (m) The provisions of subsection 116a(b) of this title shall not apply to the
+20 Office. The Office shall utilize the procedures within 26 V.S.A. chapter 57 to
+21 review whether regulation of a profession is still necessary.
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 5 of 12
+1 Sec. 5. 3 V.S.A. § 127 is amended to read:
+2 § 127. UNAUTHORIZED PRACTICE
+3 * * *
+4 (b)(1) A person practicing a regulated profession without authority or an
+5 employer permitting such practice may, upon the complaint of the Attorney
+6 General or a State’s Attorney or an attorney assigned by the Office of
+7 Professional Regulation, be enjoined therefrom by the Superior Court where
+8 the violation occurred or the Washington County Superior Court and may be
+9 assessed a civil penalty of not more than $5,000.00.
+10 (2)(A) The Attorney General or an attorney assigned by the Office of
+11 Professional Regulation may elect to bring an action seeking only a civil
+12 penalty of not more than $2,500.00 $5,000.00 for practicing or permitting the
+13 practice of a regulated profession without authority before the board having
+14 regulatory authority over the profession or before an administrative law officer.
+15 * * *
+16 Sec. 6. 3 V.S.A. § 129 is amended to read:
+17 § 129. POWERS OF BOARDS OR OF DIRECTOR IN ADVISOR
+18 PROFESSIONS; DISCIPLINE PROCESS
+19 (a) In addition to any other provisions of law, a board or the Director, in the
+20 case of professions that have advisor appointees, may exercise the following
+21 powers:
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 6 of 12
+1 * * *
+2 (3) Issue warnings or reprimands, suspend, revoke, limit, condition,
+3 deny, or prevent renewal of licenses, after disciplinary hearings or, in cases
+4 requiring emergency action, immediately suspend, as provided by section 814
+5 of this title. In a case involving noncompliance with a statute or rule relating
+6 to administrative duties not related to patient, client, or customer care, a board
+7 or hearing officer may determine that ordering a monetary civil penalty does
+8 not constitute a finding of unprofessional conduct. After a finding of
+9 unprofessional conduct, a respondent shall pay a disciplinary action surcharge
+10 pursuant to subdivision 125(b)(11) of this title. The proceeds from the
+11 disciplinary action surcharge shall be deposited into the Professional
+12 Regulatory Fee Fund.
+13 * * *
+14 * * * Cosmetology Certificate of Approval * * *
+15 Sec. 7. 26 V.S.A. § 281 is amended to read:
+16 § 281. POSTSECONDARY SCHOOL OF BARBERING AND
+17 COSMETOLOGY; CERTIFICATE OF APPROVAL
+18 (a) A school of barbering or cosmetology shall not be granted a certificate
+19 of approval unless the school:
+20 * * *
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 7 of 12
+1 (4) Requires a school term of training consistent with formal training
+2 requirements established by rule, which shall include practical demonstrations
+3 and theoretical studies in sanitation, sterilization, the use of antiseptics, and the
+4 use of appliances, devices, treatments, and preparations relevant to the field of
+5 licensure, and training on the care, styling, and treatment of textured hair. For
+6 purposes of this subdivision, “textured hair” means hair that is coiled, curly, or
+7 wavy. The training on the care, styling, and treatment of textured hair shall
+8 include:
+9 (A) techniques for cutting, styling, and chemical treatments for
+10 textured hair;
+11 (B) knowledge of products and tools specifically designed for
+12 textured hair;
+13 (C) best practices for hair health and scalp care for clients with
+14 textured hair; and
+15 (D) cultural competency and historical education on the significance
+16 of textured hair in diverse communities.
+17 * * *
+18 * * * Nursing Assistants; License Renewal * * *
+19 Sec. 8. 26 V.S.A. § 1645 is amended to read:
+20 § 1645. RENEWAL
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 8 of 12
+1 (a) To renew a license, a nursing assistant shall meet ongoing practice
+2 requirements set by the Board by rule.
+3 (b) The Board shall credit as ongoing practice those activities, regardless of
+4 title or obligation to hold a license, that reasonably tend to reinforce the
+5 training and skills of a licensee.
+6 (c)(1) A licensee seeking to renew an expired or lapsed license after fewer
+7 than five years of absence from practice shall repeat and pass the competency
+8 examinations approved by the Department of Disabilities, Aging, and
+9 Independent Living before licensure renewal.
+10 (2) A licensee who does not pass the competency examinations shall
+11 repeat a nursing assistant education program and competency examination.
+12 * * * Repeals; Funeral Service Escrow Agents; Motor Vehicle Racing * * *
+13 Sec. 9. 3 V.S.A. § 122 is amended to read:
+14 § 122. OFFICE OF PROFESSIONAL REGULATION
+15 The Office of Professional Regulation is created within the Office of the
+16 Secretary of State. The Office shall have a director who shall be qualified by
+17 education and professional experience to perform the duties of the position.
+18 The Director of the Office of Professional Regulation shall be a classified
+19 position with the Office of the Secretary of State. The following boards or
+20 professions are attached to the Office of Professional Regulation:
+21 * * *
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 9 of 12
+1 (21) Motor Vehicle Racing [Repealed.]
+2 * * *
+3 Sec. 10. 26 V.S.A. § 1272 is amended to read:
+4 § 1272. RULES; PREPAID FUNERAL FUNDS
+5 The Director shall adopt rules to carry out the provisions of this subchapter
+6 to ensure the proper handling of all funds paid pursuant to a prepaid funeral
+7 agreement and to protect consumers in the event of default. The rules shall
+8 include provisions relating to the following:
+9 * * *
+10 (2) The appointment of an escrow agent who may be a bank or other
+11 category of individual such as an attorney, a local elected official, next of kin,
+12 or the executor of a buyer’s estate. All prepaid arrangement funds shall be paid
+13 directly to the escrow agent and not to the funeral director or establishment.
+14 [Repealed.]
+15 * * *
+16 Sec. 11. REPEALS
+17 (a) 26 V.S.A. § 1275 (prepaid funeral expenses; duties of escrow agents) is
+18 repealed.
+19 (b) 26 V.S.A. chapter 93 (motor vehicle racing) is repealed.
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 10 of 12
+1 * * * Position; Executive Officer for the Regulation of Mental Health
+2 Professions * * *
+3 Sec. 12. OFFICE OF PROFESSIONAL REGULATION; POSITION;
+4 APPROPRIATION
+5 (a) The position of one new, permanent, full-time, classified Executive
+6 Officer for the Regulation of Mental Health Professions is created in the Office
+7 of Professional Regulation.
+8 (b) The sum of $170,000.00 is appropriated to the Office of Professional
+9 Regulation from the General Fund in fiscal year 2026 for the creation of the
+10 position of Executive Officer for the Regulation of Mental Health Professions
+11 in the Office of Professional Regulation.
+12 * * * Report; Massage Therapy Establishments * * *
+13 Sec. 13. OFFICE OF PROFESSIONAL REGULATION; REPORT;
+14 MASSAGE THERAPY ESTABLISHMENTS
+15 On or before November 15, 2025, the Office of Professional Regulation, in
+16 consultation with interested stakeholders, including representatives from the
+17 Vermont Chapter of the American Association of Massage Therapists, the
+18 Vermont Network Against Domestic and Sexual Violence, the Department of
+19 State’s Attorneys and Sheriffs, and other Vermont law enforcement agencies,
+20 shall submit to the House Committee on Government Operations and Military
+21 Affairs and the Senate Committee on Government Operations proposed
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 11 of 12
+1 legislation for the regulation, which may include licensure, of massage therapy
+2 establishments, as defined in 26 V.S.A. § 5401(2)(A).
+3 * * * Accessibility and Confidentiality of Disciplinary Matters * * *
+4 Sec. 14. 3 V.S.A. § 131 is amended to read:
+5 § 131. ACCESSIBILITY AND CONFIDENTIALITY OF DISCIPLINARY
+6 MATTERS
+7 * * *
+8 (c) The Secretary of State, through the Office of Professional Regulation,
+9 shall prepare and maintain a register of all complaints, which shall be a public
+10 record and which shall show:
+11 (1) with respect to all complaints, the following information:
+12 (A) the date and the nature of the complaint, but not including the
+13 identity of the licensee or the complainant; and
+14 (B) a summary of the completed investigation; and
+15 (2) only with respect to complaints resulting in filing of disciplinary
+16 charges or stipulations or the taking of disciplinary action, the following
+17 additional information:
+18 (A) the name and business addresses public address of the licensee
+19 and complainant;
+VT LEG #384067 v.1
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 12 of 12
+1 (B) formal charges, provided that they have been served or a
+2 reasonable effort to serve them has been made, and all subsequent pleadings
+3 filed by the parties;
+4 (C) the findings, conclusions, rulings, and orders of the board or
+5 administrative law officer;
+6 (D) the transcript of the hearing, if one has been made, and exhibits
+7 admitted at the hearing;
+8 (E) stipulations filed with the board or administrative law officer; and
+9 (F) final disposition of the matter by the appellate officer or the
+10 courts.
+11 * * *
+12 * * * Effective Dates * * *
+13 Sec. 15. EFFECTIVE DATES
+14 This act shall take effect on July 1, 2025, except that Sec. 3 (fees; peer
+15 support providers) shall take effect on July 1, 2027.
+VT LEG #384067 v.1
+[DELETED:  H P H A P I * S § ( s S c s f G ( t ( f ( ( i]
+[DELETED:  H P s p S   O H O C w s c S § ( p ( * ( p u *]
+[DELETED:  H P ( * ( * ( ( ( ( r [ * * S § * ( p u * ( *]
+[DELETED:  H P ( $ * * S § * ( a d i f * ( f s p * ( O r]
+[DELETED:  H P S § * ( e G P t a ( P p p r * S §   ( c p]
+[DELETED:  H P * ( d r o t o n u p d R * * S §   ( o *]
+[DELETED:  H P ( r a u l p w i ( t ( t ( t ( o * * S §]
+[DELETED:  H P ( r ( t t ( t e I ( r * S § T S e T p p *]
+[DELETED:  H P ( * S § T t a i * ( c o d [ * S ( r (]
+[DELETED:  H P * P S   ( O o ( R p i * S   O c V V S s A]
+[DELETED:  H P l e * S §   * ( s r ( ( i ( ( c a ( a]
+[DELETED:  H P ( r f ( a ( a ( ( c * * S T s]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 1 of 12
+1 H.472
+2 An act relating to professions and occupations regulated by the Office of
+3 Professional Regulation
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 * * * OPR Fees and Fund Management * * *
+6 Sec. 1. 3 V.S.A. § 118 is amended to read:
+7 § 118. COLLECTION AND DISPOSITION OF REVENUE
+8 (a) There is hereby created a Secretary of State Services Fund. The Fund
+9 shall be used to provide appropriations for the operations of the Office of the
+10 Secretary of State, with the exception of those operations provided for in
+11 chapter 5, subchapter 3 of this title. The Fund shall be administered as a
+12 special fund pursuant to 32 V.S.A. chapter 7, subchapter 5. At the end of each
+13 fiscal year, the unobligated balance in this Fund shall be transferred to the
+14 General Fund.
+15 (b) All revenues collected by the Secretary of State shall be deposited into
+16 the Secretary of State Services Fund except for the following revenues:
+17 (1) any revenues collected by the Office of Professional Regulation set
+18 forth in chapter 5, subchapter 3 of this title; and
+19 (2) any revenues collected pursuant to subsection 117(k) of this title.
+20 (c) The Secretary of State shall have the authority to collect and deposit
+21 into the Secretary of State Services Fund revenues generated from optional
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 2 of 12
+1 services offered in the normal course of business, including for one-time or
+2 periodic sales of data by subscription or other contractual basis.
+3 Sec. 1a. SECRETARY OF STATE; REPORT; REVENUES FROM SALES
+4 OF DATA
+5 On or before December 1, 2025, the Secretary of State shall submit to the
+6 House Committees on Energy and Digital Infrastructure, on Government
+7 Operations and Military Affairs, and on Ways and Means and to the Senate
+8 Committees on Finance, on Government Operations, and on Institutions a
+9 written report detailing the revenues generated from optional services through
+10 sales of data, as authorized pursuant to 3 V.S.A. § 118(c), including the
+11 categories of data sold.
+12 Sec. 2. 3 V.S.A. § 125 is amended to read:
+13 § 125. FEES
+14 (a) In addition to the fees otherwise authorized by law, a board or advisor
+15 profession may charge the following fees:
+16 (1) Verification of license, $20.00 $30.00.
+17 * * *
+18 (b) Unless otherwise provided by law, the following fees shall apply to all
+19 professions regulated by the Director in consultation with advisor appointees
+20 under Title 26:
+21 * * *
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 3 of 12
+1 (4) Biennial renewal, $275.00, except biennial renewal for:
+2 * * *
+3 (W) Electrology shop, $200.00.
+4 * * *
+5 (9) Apprenticeship application, $50.00.
+6 (10) Specialty or endorsement to existing license application, $100.00.
+7 (11) Disciplinary action surcharge, $250.00.
+8 (c) Notwithstanding any provisions of law to the contrary, a board shall not
+9 require payment of renewal fees for years during which a license was lapsed.
+10 [Repealed.]
+11 * * *
+12 * * * 2027 Fee Increase; Peer Support Providers * * *
+13 Sec. 3. 3 V.S.A. § 125 is amended to read:
+14 § 125. FEES
+15 * * *
+16 (b) Unless otherwise provided by law, the following fees shall apply to all
+17 professions regulated by the Director in consultation with advisor appointees
+18 under Title 26:
+19 * * *
+20 (4) Biennial renewal, $275.00, except biennial renewal for:
+21 * * *
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 4 of 12
+1 (V) Peer support providers or peer recovery support specialists,
+2 $50.00 $75.00.
+3 * * *
+4 * * * OPR Duties and Disciplinary Authority * * *
+5 Sec. 4. 3 V.S.A. § 123 is amended to read:
+6 § 123. DUTIES OF OFFICE
+7 * * *
+8 (k) For any profession attached to it, the Office shall provide a pre-
+9 application determination of an individual’s criminal background. This
+10 determination shall not be binding on the Office in a future application if the
+11 individual violates probation or parole or is convicted of another crime
+12 following the determination.
+13 * * *
+14 (2) The individual shall submit this request online, accompanied by the
+15 fee for preapplication determinations set forth in section 125 of this
+16 subchapter. If the individual thereafter applies for licensure, this
+17 preapplication fee shall be deducted from that license application fee.
+18 * * *
+19 (m) The provisions of subsection 116a(b) of this title shall not apply to the
+20 Office. The Office shall utilize the procedures within 26 V.S.A. chapter 57 to
+21 review whether regulation of a profession is still necessary.
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 5 of 12
+1 Sec. 5. 3 V.S.A. § 127 is amended to read:
+2 § 127. UNAUTHORIZED PRACTICE
+3 * * *
+4 (b)(1) A person practicing a regulated profession without authority or an
+5 employer permitting such practice may, upon the complaint of the Attorney
+6 General or a State’s Attorney or an attorney assigned by the Office of
+7 Professional Regulation, be enjoined therefrom by the Superior Court where
+8 the violation occurred or the Washington County Superior Court and may be
+9 assessed a civil penalty of not more than $5,000.00.
+10 (2)(A) The Attorney General or an attorney assigned by the Office of
+11 Professional Regulation may elect to bring an action seeking only a civil
+12 penalty of not more than $2,500.00 $5,000.00 for practicing or permitting the
+13 practice of a regulated profession without authority before the board having
+14 regulatory authority over the profession or before an administrative law officer.
+15 * * *
+16 Sec. 6. 3 V.S.A. § 129 is amended to read:
+17 § 129. POWERS OF BOARDS OR OF DIRECTOR IN ADVISOR
+18 PROFESSIONS; DISCIPLINE PROCESS
+19 (a) In addition to any other provisions of law, a board or the Director, in the
+20 case of professions that have advisor appointees, may exercise the following
+21 powers:
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 6 of 12
+1 * * *
+2 (3) Issue warnings or reprimands, suspend, revoke, limit, condition,
+3 deny, or prevent renewal of licenses, after disciplinary hearings or, in cases
+4 requiring emergency action, immediately suspend, as provided by section 814
+5 of this title. In a case involving noncompliance with a statute or rule relating
+6 to administrative duties not related to patient, client, or customer care, a board
+7 or hearing officer may determine that ordering a monetary civil penalty does
+8 not constitute a finding of unprofessional conduct. After a finding of
+9 unprofessional conduct, a respondent shall pay a disciplinary action surcharge
+10 pursuant to subdivision 125(b)(11) of this title. The proceeds from the
+11 disciplinary action surcharge shall be deposited into the Professional
+12 Regulatory Fee Fund.
+13 * * *
+14 * * * Cosmetology Certificate of Approval * * *
+15 Sec. 7. 26 V.S.A. § 281 is amended to read:
+16 § 281. POSTSECONDARY SCHOOL OF BARBERING AND
+17 COSMETOLOGY; CERTIFICATE OF APPROVAL
+18 (a) A school of barbering or cosmetology shall not be granted a certificate
+19 of approval unless the school:
+20 * * *
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 7 of 12
+1 (4) Requires a school term of training consistent with formal training
+2 requirements established by rule, which shall include practical demonstrations
+3 and theoretical studies in sanitation, sterilization, the use of antiseptics, and the
+4 use of appliances, devices, treatments, and preparations relevant to the field of
+5 licensure, and training on the care, styling, and treatment of textured hair. For
+6 purposes of this subdivision, “textured hair” means hair that is coiled, curly, or
+7 wavy. The training on the care, styling, and treatment of textured hair shall
+8 include:
+9 (A) techniques for cutting, styling, and chemical treatments for
+10 textured hair;
+11 (B) knowledge of products and tools specifically designed for
+12 textured hair;
+13 (C) best practices for hair health and scalp care for clients with
+14 textured hair; and
+15 (D) cultural competency and historical education on the significance
+16 of textured hair in diverse communities.
+17 * * *
+18 * * * Nursing Assistants; License Renewal * * *
+19 Sec. 8. 26 V.S.A. § 1645 is amended to read:
+20 § 1645. RENEWAL
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 8 of 12
+1 (a) To renew a license, a nursing assistant shall meet ongoing practice
+2 requirements set by the Board by rule.
+3 (b) The Board shall credit as ongoing practice those activities, regardless of
+4 title or obligation to hold a license, that reasonably tend to reinforce the
+5 training and skills of a licensee.
+6 (c)(1) A licensee seeking to renew an expired or lapsed license after fewer
+7 than five years of absence from practice shall repeat and pass the competency
+8 examinations approved by the Department of Disabilities, Aging, and
+9 Independent Living before licensure renewal.
+10 (2) A licensee who does not pass the competency examinations shall
+11 repeat a nursing assistant education program and competency examination.
+12 * * * Repeals; Funeral Service Escrow Agents; Motor Vehicle Racing * * *
+13 Sec. 9. 3 V.S.A. § 122 is amended to read:
+14 § 122. OFFICE OF PROFESSIONAL REGULATION
+15 The Office of Professional Regulation is created within the Office of the
+16 Secretary of State. The Office shall have a director who shall be qualified by
+17 education and professional experience to perform the duties of the position.
+18 The Director of the Office of Professional Regulation shall be a classified
+19 position with the Office of the Secretary of State. The following boards or
+20 professions are attached to the Office of Professional Regulation:
+21 * * *
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 9 of 12
+1 (21) Motor Vehicle Racing [Repealed.]
+2 * * *
+3 Sec. 10. 26 V.S.A. § 1272 is amended to read:
+4 § 1272. RULES; PREPAID FUNERAL FUNDS
+5 The Director shall adopt rules to carry out the provisions of this subchapter
+6 to ensure the proper handling of all funds paid pursuant to a prepaid funeral
+7 agreement and to protect consumers in the event of default. The rules shall
+8 include provisions relating to the following:
+9 * * *
+10 (2) The appointment of an escrow agent who may be a bank or other
+11 category of individual such as an attorney, a local elected official, next of kin,
+12 or the executor of a buyer’s estate. All prepaid arrangement funds shall be paid
+13 directly to the escrow agent and not to the funeral director or establishment.
+14 [Repealed.]
+15 * * *
+16 Sec. 11. REPEALS
+17 (a) 26 V.S.A. § 1275 (prepaid funeral expenses; duties of escrow agents) is
+18 repealed.
+19 (b) 26 V.S.A. chapter 93 (motor vehicle racing) is repealed.
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 10 of 12
+1 * * * Position; Executive Officer for the Regulation of Mental Health
+2 Professions * * *
+3 Sec. 12. OFFICE OF PROFESSIONAL REGULATION; POSITION;
+4 APPROPRIATION
+5 (a) The position of one new, permanent, full-time, classified Executive
+6 Officer for the Regulation of Mental Health Professions is created in the Office
+7 of Professional Regulation.
+8 (b) The sum of $170,000.00 is appropriated to the Office of Professional
+9 Regulation from the General Fund in fiscal year 2026 for the creation of the
+10 position of Executive Officer for the Regulation of Mental Health Professions
+11 in the Office of Professional Regulation.
+12 * * * Report; Massage Therapy Establishments * * *
+13 Sec. 13. OFFICE OF PROFESSIONAL REGULATION; REPORT;
+14 MASSAGE THERAPY ESTABLISHMENTS
+15 On or before November 15, 2025, the Office of Professional Regulation, in
+16 consultation with interested stakeholders, including representatives from the
+17 Vermont Chapter of the American Association of Massage Therapists, the
+18 Vermont Network Against Domestic and Sexual Violence, the Department of
+19 State’s Attorneys and Sheriffs, and other Vermont law enforcement agencies,
+20 shall submit to the House Committee on Government Operations and Military
+21 Affairs and the Senate Committee on Government Operations proposed
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 11 of 12
+1 legislation for the regulation, which may include licensure, of massage therapy
+2 establishments, as defined in 26 V.S.A. § 5401(2)(A).
+3 * * * Accessibility and Confidentiality of Disciplinary Matters * * *
+4 Sec. 14. 3 V.S.A. § 131 is amended to read:
+5 § 131. ACCESSIBILITY AND CONFIDENTIALITY OF DISCIPLINARY
+6 MATTERS
+7 * * *
+8 (c) The Secretary of State, through the Office of Professional Regulation,
+9 shall prepare and maintain a register of all complaints, which shall be a public
+10 record and which shall show:
+11 (1) with respect to all complaints, the following information:
+12 (A) the date and the nature of the complaint, but not including the
+13 identity of the licensee or the complainant; and
+14 (B) a summary of the completed investigation; and
+15 (2) only with respect to complaints resulting in filing of disciplinary
+16 charges or stipulations or the taking of disciplinary action, the following
+17 additional information:
+18 (A) the name and business addresses public address of the licensee
+19 and complainant;
+VT LEG #384067 v.1
+
+AS PASSED BY HOUSE AND SENATE H.472
+2025 Page 12 of 12
+1 (B) formal charges, provided that they have been served or a
+2 reasonable effort to serve them has been made, and all subsequent pleadings
+3 filed by the parties;
+4 (C) the findings, conclusions, rulings, and orders of the board or
+5 administrative law officer;
+6 (D) the transcript of the hearing, if one has been made, and exhibits
+7 admitted at the hearing;
+8 (E) stipulations filed with the board or administrative law officer; and
+9 (F) final disposition of the matter by the appellate officer or the
+10 courts.
+11 * * *
+12 * * * Effective Dates * * *
+13 Sec. 15. EFFECTIVE DATES
+14 This act shall take effect on July 1, 2025, except that Sec. 3 (fees; peer
+15 support providers) shall take effect on July 1, 2027.
+VT LEG #384067 v.1
+
+[DELETED:  H P H A P I * S § ( s S c s f G ( t ( f ( ( i]
+[DELETED:  H P s p S   O H O C w s c S § ( p ( * ( p u *]
+[DELETED:  H P ( * ( * ( ( ( ( r [ * * S § * ( p u * ( *]
+[DELETED:  H P ( $ * * S § * ( a d i f * ( f s p * ( O r]
+[DELETED:  H P S § * ( e G P t a ( P p p r * S §   ( c p]
+[DELETED:  H P * ( d r o t o n u p d R * * S §   ( o *]
+[DELETED:  H P ( r a u l p w i ( t ( t ( t ( o * * S §]
+[DELETED:  H P ( r ( t t ( t e I ( r * S § T S e T p p *]
+[DELETED:  H P ( * S § T t a i * ( c o d [ * S ( r (]
+[DELETED:  H P * P S   ( O o ( R p i * S   O c V V S s A]
+[DELETED:  H P l e * S §   * ( s r ( ( i ( ( c a ( a]
+[DELETED:  H P ( r f ( a ( a ( ( c * * S T s]

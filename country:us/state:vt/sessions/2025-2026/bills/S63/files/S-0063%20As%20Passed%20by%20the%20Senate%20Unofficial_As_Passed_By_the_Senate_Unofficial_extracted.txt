@@ -1,0 +1,1082 @@
+Title: 2 An act relating to modifying the regulatory duties of the Green Mountain
+Official Title: 2 An act relating to modifying the regulatory duties of the Green Mountain
+Number of Sections: 1
+Source: versions - As Passed By the Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY SENATE S.63
+2025 Page 1 of 22
+1 S.63
+3 Care Board
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 18 V.S.A. § 9351 is amended to read:
+6 § 9351. HEALTH INFORMATION TECHNOLOGY PLAN
+7 (a)(1) The Department of Vermont Health Access, in consultation with the
+8 Department’s Health Information Exchange Steering Committee, shall be
+9 responsible for the overall coordination of Vermont’s statewide Health
+10 Information Technology Plan. The Plan shall be revised annually and updated
+11 comprehensively every five years to provide a strategic vision for clinical
+12 health information technology.
+13 (2) The Department shall submit the proposed Plan to the Green
+14 Mountain Care Board annually on or before November 1. The Green Mountain
+15 Care Board shall approve, reject, or request modifications to the Plan within 45
+16 days following its submission; if the Board has taken no action after 45 days,
+17 the Plan shall be deemed to have been approved. [Repealed.]
+18 (3)(A) The Department, in consultation with the Steering Committee,
+19 shall administer the Plan.
+20 (B) The Plan shall include the implementation of an integrated
+21 electronic health information infrastructure for the sharing of electronic health
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 2 of 22
+1 information among health care facilities, health care professionals, public and
+2 private payers, and patients. The Plan shall provide for each patient’s
+3 electronic health information that is contained in the Vermont Health
+4 Information Exchange to be accessible to health care facilities, health care
+5 professionals, and public and private payers to the extent permitted under
+6 federal law unless the patient has affirmatively elected not to have the patient’s
+7 electronic health information shared in that manner.
+8 (C) The Plan shall include standards and protocols designed to
+9 promote patient education, patient privacy, physician best practices, electronic
+10 connectivity to health care data, access to advance care planning documents,
+11 and, overall, a more efficient and less costly means of delivering quality health
+12 care in Vermont.
+13 (D) A representative of the Green Mountain Care Board shall be a
+14 voting member of the Steering Committee.
+15 * * *
+16 (c) The Department of Vermont Health Access, in consultation with the
+17 Steering Committee and subject to Green Mountain Care Board approval, may
+18 propose updates to the Plan in addition to the annual updates as needed to
+19 reflect emerging technologies, the State’s changing needs, and such other areas
+20 as the Department deems appropriate. The Department shall solicit
+21 recommendations from interested stakeholders in order to propose updates to
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 3 of 22
+1 the Health Information Technology Plan pursuant to subsection (a) of this
+2 section and to this subsection, including applicable standards, protocols, and
+3 pilot programs, and following approval of the proposed updates by the Green
+4 Mountain Care Board, may enter into a contract or grant agreement with
+5 appropriate entities to update some or all of the Plan. Upon approval of the
+6 updated Plan by the Green Mountain Care Board, the The Department of
+7 Vermont Health Access shall distribute the updated Plan to the Secretary of
+8 Administration; the Secretary of Digital Services; the Commissioner of
+9 Financial Regulation; the Green Mountain Care Board; the Secretary of
+10 Human Services; the Commissioner of Health; the Commissioner of Mental
+11 Health; the Commissioner of Disabilities, Aging, and Independent Living; the
+12 Senate Committee on Health and Welfare; the House Committee on Health
+13 Care; affected parties; and interested stakeholders. Unless major modifications
+14 are required, the Department may present updated information about the Plan
+15 to the legislative committees of jurisdiction in lieu of creating a written report.
+16 (d) The Health Information Technology Plan shall serve as the framework
+17 within which the Green Mountain Care Board reviews certificate of need
+18 applications for information technology under section 9440b of this title. In
+19 addition, the Commissioner of Information and Innovation Secretary of Digital
+20 Services shall use the Health Information Technology Plan as the basis for
+21 independent review of State information technology procurements.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 4 of 22
+1 * * *
+2 Sec. 2. 18 V.S.A. § 9352 is amended to read:
+3 § 9352. VERMONT INFORMATION TECHNOLOGY LEADERS
+4 * * *
+5 (c) Health information exchange operation.
+6 (1) VITL shall be designated in the Health Information Technology Plan
+7 approved by the Green Mountain Care Board pursuant to section 9351 of this
+8 title to operate the exclusive statewide health information exchange network
+9 for this State. The Plan shall determine the manner in which Vermont’s health
+10 information exchange network shall be managed. The Green Mountain Care
+11 Board shall have the authority to approve VITL’s budget pursuant to chapter
+12 220 of this title. Nothing in this chapter shall impede local community
+13 providers from the exchange of electronic medical data.
+14 * * *
+15 (e) Report. On or before January 15 of each year, VITL shall file a report
+16 with the Green Mountain Care Board; the Secretary of Administration; the
+17 Secretary of Digital Services; the Commissioner of Financial Regulation; the
+18 Commissioner of Vermont Health Access; the Secretary of Human Services;
+19 the Commissioner of Health; the Commissioner of Mental Health; the
+20 Commissioner of Disabilities, Aging, and Independent Living; the Senate
+21 Committee on Health and Welfare; and the House Committee on Health Care.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 5 of 22
+1 The report shall include an assessment of progress in implementing health
+2 information technology in Vermont and recommendations for additional
+3 funding and legislation required. In addition, VITL shall publish minutes of
+4 VITL meetings and any other relevant information on a public website. The
+5 provisions of 2 V.S.A. § 20(d) (expiration of required reports) shall not apply
+6 to the report to be made under this subsection.
+7 * * *
+8 (i) Certification of meaningful use and connectivity.
+9 (1) To the extent necessary to support Vermont’s health care reform
+10 goals or as required by federal law, VITL shall be authorized to certify the
+11 meaningful use of health information technology and electronic health records
+12 by health care providers licensed in Vermont.
+13 (2) VITL, in consultation with health care providers and health care
+14 facilities, shall establish criteria for creating or maintaining connectivity to the
+15 State’s health information exchange network. VITL shall provide the criteria
+16 annually on or before March 1 to the Green Mountain Care Board established
+17 pursuant to chapter 220 of this title.
+18 * * *
+19 Sec. 3. 18 V.S.A. § 9374(h) is amended to read:
+20 (h)(1)(A) Except as otherwise provided in subdivisions (1)(C) and (2) of
+21 this subsection (h), the expenses of the Board shall be borne as follows:
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 6 of 22
+1 (i) 40.0 40 percent by the State from State monies;
+2 (ii) 28.8 36 percent by the hospitals; and
+3 (iii) 23.2 24 percent by nonprofit hospital and medical service
+4 corporations licensed under 8 V.S.A. chapter 123 or 125, health insurance
+5 companies licensed under 8 V.S.A. chapter 101, and health maintenance
+6 organizations licensed under 8 V.S.A. chapter 139; and
+7 (iv) 8.0 percent by accountable care organizations.
+8 (B) Expenses under subdivision (A)(iii) of this subdivision (1) shall
+9 be allocated to persons licensed under Title 8 based on premiums paid for
+10 health care coverage, which for the purposes of this subdivision (1) shall
+11 include major medical, comprehensive medical, hospital or surgical coverage,
+12 and comprehensive health care services plans, but shall not include long-term
+13 care, limited benefits, disability, credit or stop loss, or excess loss insurance
+14 coverage.
+15 (C) Expenses Amounts assessed pursuant to the provisions of section
+16 sections 9382 and 9441 of this title shall not be assessed in accordance with the
+17 formula set forth in subdivision (A) of this subdivision (1).
+18 (2) The Board may determine the scope of the incurred expenses to be
+19 allocated pursuant to the formula set forth in subdivision (1) of this subsection
+20 if, in the Board’s discretion, the expenses to be allocated are in the best
+21 interests of the regulated entities and of the State.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 7 of 22
+1 (3) If the amount of the proportional assessment to any entity calculated
+2 in accordance with the formula set forth in subdivision (1)(A) of this
+3 subsection would be less than $150.00, the Board shall assess the entity a
+4 minimum fee of $150.00. The Board shall apply the amounts collected based
+5 on the difference between each applicable entity’s proportional assessment
+6 amount and $150.00 to reduce the total amount assessed to the regulated
+7 entities pursuant to subdivisions (1)(A)(ii)–(iv) (1)(A)(ii) and (iii) of this
+8 subsection.
+9 * * *
+10 Sec. 4. 18 V.S.A. § 9375 is amended to read:
+11 § 9375. DUTIES
+12 * * *
+13 (b) The Board shall have the following duties:
+14 * * *
+15 (2)(A) Review and approve Vermont’s statewide Health Information
+16 Technology Plan pursuant to section 9351 of this title to ensure that the
+17 necessary infrastructure is in place to enable the State to achieve the principles
+18 expressed in section 9371 of this title.
+19 (B) Review and approve the criteria required for health care
+20 providers and health care facilities to create or maintain connectivity to the
+21 State’s health information exchange as set forth in section 9352 of this title.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 8 of 22
+1 Within 90 days following this approval, the Board shall issue an order
+2 explaining its decision.
+3 (C) Annually review and approve the budget, consistent with
+4 available funds, of the Vermont Information Technology Leaders, Inc. (VITL).
+5 This review shall take into account VITL’s responsibilities pursuant to section
+6 9352 of this title and the availability of funds needed to support those
+7 responsibilities. [Repealed.]
+8 * * *
+9 (12) Review data regarding mental health and substance abuse treatment
+10 reported to the Department of Financial Regulation pursuant to 8 V.S.A. §
+11 4089b(g)(1)(G) and discuss such information, as appropriate, with the Mental
+12 Health Technical Advisory Group established pursuant to subdivision
+13 9374(e)(2) of this title. [Repealed.]
+14 (13) Adopt by rule pursuant to 3 V.S.A. chapter 25 such standards as the
+15 Board deems necessary and appropriate to the operation and evaluation of
+16 accountable care organizations pursuant to this chapter, including reporting
+17 requirements, patient protections, and solvency and ability to assume financial
+18 risk.
+19 * * *
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 9 of 22
+1 Sec. 5. 18 V.S.A. § 9382 is amended to read:
+2 § 9382. OVERSIGHT OF ACCOUNTABLE CARE ORGANIZATIONS
+3 (a)(1) In order to be eligible to receive payments from Medicaid or
+4 commercial insurance through any payment reform program or initiative,
+5 including an all-payer model operate in Vermont, each accountable care
+6 organization shall obtain and maintain certification from the Green Mountain
+7 Care Board. The Board shall adopt rules pursuant to 3 V.S.A. chapter 25 to
+8 establish standards and processes for certifying accountable care organizations.
+9 To the extent permitted under federal law, the Board shall ensure these rules
+10 anticipate and accommodate a range of ACO models and sizes, balancing
+11 oversight with support for innovation. In order to certify an ACO to operate in
+12 this State, the Board shall ensure that the following criteria are met:
+13 (1)(A) The ACO’s governance, leadership, and management structure is
+14 transparent, reasonably and equitably represents the ACO’s participating
+15 providers and its patients, and includes a consumer advisory board and other
+16 processes for inviting and considering consumer input.
+17 (2) The ACO has established appropriate mechanisms and care models
+18 to provide, manage, and coordinate high-quality health care services for its
+19 patients, including incorporating the Blueprint for Health, coordinating
+20 services for complex high-need patients, and providing access to health care
+21 providers who are not participants in the ACO. The ACO ensures equal access
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 10 of 22
+1 to appropriate mental health care that meets standards of quality, access, and
+2 affordability equivalent to other components of health care as part of an
+3 integrated, holistic system of care , taken as a whole, support and do not hinder
+4 the State’s principles for health care reform as set forth in section 9371 of this
+5 title.
+6 (B) The ACO’s financial incentives for providers and patients are
+7 reasonably calculated to improve, or at a minimum, maintain, the quality of,
+8 access to, and affordability of care.
+9 (3)(C) The ACO has established appropriate mechanisms to receive and
+10 distribute payments to its participating health care providers in a fair and
+11 equitable manner. To the extent that the ACO has the authority and ability to
+12 establish provider reimbursement rates, the ACO shall minimize differentials
+13 in payment methodology and amounts among comparable participating
+14 providers across all practice settings, as long as doing so is not inconsistent
+15 with the ACO’s overall payment reform objectives.
+16 (4)(D) The ACO has established appropriate mechanisms and criteria
+17 for accepting health care providers to participate in the ACO that prevent
+18 unreasonable discrimination and are related to the needs of the ACO and the
+19 patient population served.
+20 (5) The ACO has established mechanisms and care models to promote
+21 evidence-based health care, patient engagement, coordination of care, use of
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 11 of 22
+1 electronic health records, and other enabling technologies to promote
+2 integrated, efficient, seamless, and effective health care services across the
+3 continuum of care, where feasible.
+4 (6) The ACO’s participating providers have the capacity for meaningful
+5 participation in health information exchanges.
+6 (7)(E) The ACO has performance standards and measures to evaluate
+7 the quality and utilization of care delivered by its participating health care
+8 providers.
+9 (8)(F) The ACO does not place any restrictions on the information its
+10 participating health care providers may provide to patients about their health or
+11 decisions regarding their health.
+12 (9) The ACO’s participating health care providers engage their patients
+13 in shared decision making to inform them of their treatment options and the
+14 related risks and benefits of each.
+15 (10)(G) The ACO offers assistance to health care consumers, including:
+16 (A)(i) maintaining a consumer telephone line for questions,
+17 complaints, and grievances from attributed patients;
+18 (B)(ii) responding and making best efforts to resolve complaints and
+19 grievances from attributed patients, including providing assistance in
+20 identifying appropriate rights under a patient’s health plan;
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 12 of 22
+1 (C)(iii) providing an accessible mechanism for explaining how ACOs
+2 work;
+3 (D)(iv) providing contact information for the Office of the Health
+4 Care Advocate; and
+5 (E)(v) sharing deidentified complaint and grievance information with
+6 the Office of the Health Care Advocate at least twice annually.
+7 (11) The ACO collaborates with providers not included in its financial
+8 model, including home- and community-based providers and dental health
+9 providers.
+10 (12) The ACO does not interfere with patients’ choice of their own
+11 health care providers under their health plan, regardless of whether a provider
+12 is participating in the ACO; does not reduce covered services; and does not
+13 increase patient cost sharing.
+14 (13) The meetings of the ACO’s governing body comply with the
+15 provisions of section 9572 of this title.
+16 (14) The impact of the ACO’s establishment and operation does not
+17 diminish access to any health care or community-based service or increase
+18 delays in access to care for the population and area it serves.
+19 (15) The ACO has in place appropriate mechanisms to conduct ongoing
+20 assessments of its legal and financial vulnerabilities.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 13 of 22
+1 (16)(H) The ACO has in place a financial guarantee sufficient to cover
+2 its potential losses.
+3 (17) The ACO provides connections and incentives to existing
+4 community services for preventing and addressing the impact of childhood
+5 adversity. The ACO collaborates on the development of quality-outcome
+6 measurements for use by primary care providers who work with children and
+7 families and fosters collaboration among care coordinators, community service
+8 providers, and families.
+9 (2) Notwithstanding subdivision (1) of this subsection, the Green
+10 Mountain Care Board may adopt rules in accordance with 3 V.S.A. chapter 25
+11 to establish a streamlined process for certification as a Medicare-only ACO for
+12 an entity authorized by the Centers for Medicare and Medicaid Services to act
+13 as an accountable care organization under the Medicare program. The
+14 streamlined process may require a Medicare-only ACO to meet one or more of
+15 the criteria set forth in subdivision (1) of this subsection. Certification
+16 obtained pursuant to the streamlined process shall apply to the Medicare-only
+17 ACO’s actions only as they relate to Medicare beneficiaries and only to the
+18 extent that the federal authorization allows.
+19 (b)(1) The Green Mountain Care Board shall adopt rules pursuant to in
+20 accordance with 3 V.S.A. chapter 25 to establish standards and processes for
+21 reviewing, modifying, and approving the budgets of ACOs with 10,000 or
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 14 of 22
+1 more that receive payments from Medicaid or commercial insurers, or both, on
+2 behalf of attributed lives in Vermont. To the extent permitted under federal
+3 law, the Board shall ensure the rules anticipate and accommodate a range of
+4 ACO models and sizes, balancing oversight with support for innovation. In its
+5 review, the Board shall review and consider:
+6 (A) information regarding utilization of the health care services
+7 delivered by health care providers participating in the ACO and the effects of
+8 care models on appropriate utilization, including the provision of innovative
+9 services;
+10 (B) the Health Resource Allocation Plan identifying Vermont’s
+11 critical health needs, goods, services, and resources as identified pursuant to
+12 section 9405 of this title;
+13 (C) the expenditure analysis for the previous year and the proposed
+14 expenditure analysis for the year under review by payer;
+15 (D) the character, competence, fiscal responsibility, and soundness of
+16 the ACO and its principals;
+17 (E) any reports from professional review organizations;
+18 (F) the ACO’s efforts to prevent duplication of high-quality services
+19 being provided efficiently and effectively by existing community-based
+20 providers in the same geographic area, as well as its integration of efforts with
+21 the Blueprint for Health and its regional care collaboratives;
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 15 of 22
+1 (G) the extent to which the ACO provides incentives for systemic
+2 health care investments to strengthen primary care, including strategies for
+3 recruiting additional primary care providers, providing resources to expand
+4 capacity in existing primary care practices, and reducing the administrative
+5 burden of reporting requirements for providers while balancing the need to
+6 have sufficient measures to evaluate adequately the quality of and access to
+7 care;
+8 (H) the extent to which the ACO provides incentives for systemic
+9 integration of community-based providers in its care model or investments to
+10 expand capacity in existing community-based providers, in order to promote
+11 seamless coordination of care across the care continuum;
+12 (I) the extent to which the ACO provides incentives for systemic
+13 health care investments in social determinants of health, such as developing
+14 support capacities that prevent hospital admissions and readmissions, reduce
+15 length of hospital stays, improve population health outcomes, reward healthy
+16 lifestyle choices, and improve the solvency of and address the financial risk to
+17 community-based providers that are participating providers of an accountable
+18 care organization;
+19 (J) the extent to which the ACO provides incentives for preventing
+20 and addressing the impacts of adverse childhood experiences (ACEs) and other
+21 traumas, such as developing quality outcome measures for use by primary care
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 16 of 22
+1 providers working with children and families, developing partnerships between
+2 nurses and families, providing opportunities for home visits, and including
+3 parent-child centers and designated agencies as participating providers in the
+4 ACO;
+5 (K) public comment on all aspects of the ACO’s costs and use and on
+6 the ACO’s proposed budget;
+7 (L) information gathered from meetings with the ACO to review and
+8 discuss its proposed budget for the forthcoming fiscal year;
+9 (M) information on the ACO’s administrative costs, as defined by the
+10 Board;
+11 (N) the effect, if any, of Medicaid reimbursement rates on the rates
+12 for other payers;
+13 (O) the extent to which the ACO makes its costs transparent and easy
+14 to understand so that patients are aware of the costs of the health care services
+15 they receive; and
+16 (P) the extent to which the ACO provides resources to primary care
+17 practices to ensure that care coordination and community services, such as
+18 mental health and substance use disorder counseling that are provided by
+19 community health teams, are available to patients without imposing
+20 unreasonable burdens on primary care providers or on ACO member
+21 organizations.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 17 of 22
+1 (2) The Green Mountain Care Board shall adopt rules pursuant to 3
+2 V.S.A. chapter 25 to establish standards and processes for reviewing,
+3 modifying, and approving the budgets of ACOs with fewer than 10,000
+4 attributed lives in Vermont. In its review, the Board may consider as many of
+5 the factors described in subdivision (1) of this subsection as the Board deems
+6 appropriate to a specific ACO’s size and scope
+7 (1) information gathered from meetings with the ACO to review and
+8 discuss its proposed budget for the forthcoming fiscal year;
+9 (2) the efficacy with which the ACO uses funds from Medicaid and
+10 commercial insurers, as applicable, to enhance and expedite the State’s health
+11 care system transformation efforts;
+12 (3) the ACO’s reasonable use of State and commercial insurance funds
+13 for its own administrative costs, as defined by the Board;
+14 (4) the ACO’s collaboration with a range of provider types, such as
+15 home- and community-based providers, dental health providers, and mental
+16 health and substance use disorder treatment providers;
+17 (5) the ACO’s use of a consumer advisory board and other mechanisms
+18 for inviting and considering consumer input; and
+19 (6) public comment on all aspects of the ACO’s costs, operations, and
+20 proposed budget.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 18 of 22
+1 (3)(A)(c)(1) The Office of the Health Care Advocate shall have the right
+2 to receive copies of all materials related to any ACO certification or budget
+3 review and may:
+4 (i)(A) ask questions of employees of the Green Mountain Care Board
+5 related to the Board’s ACO budget review;
+6 (ii)(B) submit written questions to the Board that the Board will ask
+7 of the ACO in advance of any hearing held in conjunction with the Board’s
+8 ACO review;
+9 (iii)(C) submit written comments for the Board’s consideration; and
+10 (iv)(D) ask questions and provide testimony in any hearing held in
+11 conjunction with the Board’s ACO budget review.
+12 (B)(2) The Office of the Health Care Advocate shall not disclose
+13 further any confidential or proprietary information provided to the Office
+14 pursuant to this subdivision (3) subsection.
+15 (c)(d) The Board’s rules shall include requirements for submission of
+16 information and data by ACOs and their participating providers as needed to
+17 evaluate an ACO’s success. They The rules may also establish standards as
+18 appropriate to promote an ACO’s ability to participate in applicable federal
+19 programs for ACOs.
+20 (d)(e) All information required to be filed by an ACO pursuant to this
+21 section or to rules adopted pursuant to this section shall be made available to
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 19 of 22
+1 the public upon request in accordance with 1 V.S.A. chapter 5, subchapter 3
+2 (Public Records Act), provided that individual patients or health care providers
+3 shall not be directly or indirectly identifiable.
+4 (e)(f) To the extent required to avoid federal antitrust violations, the Board
+5 shall supervise the participation of health care professionals, health care
+6 facilities, and other persons operating or participating in an accountable care
+7 organization. The Board shall ensure that its certification and oversight
+8 processes constitute sufficient State supervision over these entities to comply
+9 with federal antitrust provisions and shall refer to the Attorney General for
+10 appropriate action the activities of any individual or entity that the Board
+11 determines, after notice and an opportunity to be heard, may be in violation of
+12 State or federal antitrust laws without a countervailing benefit of improving
+13 patient care, improving access to health care, increasing efficiency, or reducing
+14 costs by modifying payment methods.
+15 (g) The Board shall collect the following amounts from an accountable care
+16 organization:
+17 (1) $10,000.00 for initial certification in accordance with subsection (a)
+18 of this section;
+19 (2) $2,000.00 annually following initial certification to maintain
+20 certification; and
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 20 of 22
+1 (3) $125,000.00 for each review of the accountable care organization’s
+2 budget in accordance with subsection (b) of this section.
+3 Sec. 6. 18 V.S.A. § 9454 is amended to read:
+4 § 9454. HOSPITALS; DUTIES
+5 * * *
+6 (b)(1) Hospitals General hospitals, as defined in section 1902 of this title,
+7 shall adopt a fiscal year that shall begin on October 1.
+8 (2) Psychiatric hospitals, as defined in section 1902 of this title but
+9 excluding those conducted, maintained, or operated by the State of Vermont,
+10 shall adopt a fiscal year that shall begin on January 1.
+11 Sec. 7. 18 V.S.A. § 9456 is amended to read:
+12 § 9456. BUDGET REVIEW
+13 * * *
+14 (d)(1)(A) Annually, the Board shall establish a budget for each general
+15 hospital, as defined in section 1902 of this title, on or before September 15,
+16 followed by a written decision by on or before October 1.
+17 (B) Annually, the Board shall establish a budget for each psychiatric
+18 hospital, as defined in section 1902 of this title but excluding those conducted,
+19 maintained, or operated by the State of Vermont, on or before December 15,
+20 followed by a written decision on or before December 31.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 21 of 22
+1 (C) Each hospital shall operate within the budget established under
+2 this section.
+3 * * *
+4 Sec. 8. 18 V.S.A. § 9572 is amended to read:
+5 § 9572. MEETINGS OF AN ACCOUNTABLE CARE ORGANIZATION’S
+6 GOVERNING BODY
+7 (a) Application. This section shall apply to all regular, special, and
+8 emergency meetings of the governing board of an accountable care
+9 organization’s governing body organization that contracts with the Vermont
+10 Medicaid program, whether the meeting is held in person or by electronic
+11 means, as well as to any other assemblage of members of the ACO’s governing
+12 body at which binding action is taken on behalf of the ACO. For purposes of
+13 this section, the term “ACO’s governing body” shall also include the
+14 governing body of any organization acting as a coordinating entity for two or
+15 more ACOs that contract with Vermont Medicaid.
+16 * * *
+17 Sec. 9. REPEAL
+18 18 V.S.A. § 9573 (Medicaid advisory rate case) is repealed.
+VT LEG #382101 v.1
+AS PASSED BY SENATE S.63
+2025 Page 22 of 22
+1 Sec. 10. EFFECTIVE DATES
+2 (a) Secs. 6 (18 V.S.A. § 9454) and 7 (18 V.S.A. § 9456) and this section
+3 shall take effect on passage.
+4 (b) The remaining sections shall take effect on July 1, 2025.
+VT LEG #382101 v.1
+[DELETED:  S P S A C I S § ( D r I c h ( M C d t ( s ( e]
+[DELETED:  S P i p e I p f e ( p c a c ( v * ( S p r a r]
+[DELETED:  S P t s p M a u V A F H H S C a t ( w a a S i]
+[DELETED:  S P * S § * ( ( a t f i B 2 p * ( w S C t C C]
+[DELETED:  S P T i f V p t * ( ( g m b ( f S a p * S ( t]
+[DELETED:  S P ( ( ( c c o ( ( b h i a c c ( s f ( a i i]
+[DELETED:  S P ( i s m o a e s * S § * ( * ( T n e ( p S]
+[DELETED:  S P W e ( a T 9 r * ( r 4 H 9 ( B a r r *]
+[DELETED:  S P S § ( c i o C e T a o t ( t p p ( t p s p]
+[DELETED:  S P t a i t t ( r a ( d e e i p w ( f u p ( e]
+[DELETED:  S P e i c ( p ( t p ( p d ( i r ( ( c ( g i]
+[DELETED:  S P ( w ( C ( t ( m p ( h i i ( p ( d d ( a]
+[DELETED:  S P ( i ( c a m f p ( M t a a s t o A e ( a r]
+[DELETED:  S P m b l A r ( d c s ( c s ( e ( t ( ( b p t]
+[DELETED:  S P ( h r c b h c ( i e s ( h s l l c c ( a t]
+[DELETED:  S P p n p A ( t ( d ( B ( f ( t t ( p m c u o]
+[DELETED:  S P ( V m a t a ( d ( c c ( f ( h h ( f ( p]
+[DELETED:  S P ( t r ( r ( o A ( ( c ( f p ( i e a p ( s]
+[DELETED:  S P t ( s ( s f o p w a d S p c ( o ( o ( c]
+[DELETED:  S P ( b S § * ( s ( e s S § * ( h f ( h m f]
+[DELETED:  S P ( t * S §   ( e o M m b t g m * S 1]
+[DELETED:  S P S ( s (]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY SENATE S.63
+2025 Page 1 of 22
+1 S.63
+2 An act relating to modifying the regulatory duties of the Green Mountain
+3 Care Board
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 18 V.S.A. § 9351 is amended to read:
+6 § 9351. HEALTH INFORMATION TECHNOLOGY PLAN
+7 (a)(1) The Department of Vermont Health Access, in consultation with the
+8 Department’s Health Information Exchange Steering Committee, shall be
+9 responsible for the overall coordination of Vermont’s statewide Health
+10 Information Technology Plan. The Plan shall be revised annually and updated
+11 comprehensively every five years to provide a strategic vision for clinical
+12 health information technology.
+13 (2) The Department shall submit the proposed Plan to the Green
+14 Mountain Care Board annually on or before November 1. The Green Mountain
+15 Care Board shall approve, reject, or request modifications to the Plan within 45
+16 days following its submission; if the Board has taken no action after 45 days,
+17 the Plan shall be deemed to have been approved. [Repealed.]
+18 (3)(A) The Department, in consultation with the Steering Committee,
+19 shall administer the Plan.
+20 (B) The Plan shall include the implementation of an integrated
+21 electronic health information infrastructure for the sharing of electronic health
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 2 of 22
+1 information among health care facilities, health care professionals, public and
+2 private payers, and patients. The Plan shall provide for each patient’s
+3 electronic health information that is contained in the Vermont Health
+4 Information Exchange to be accessible to health care facilities, health care
+5 professionals, and public and private payers to the extent permitted under
+6 federal law unless the patient has affirmatively elected not to have the patient’s
+7 electronic health information shared in that manner.
+8 (C) The Plan shall include standards and protocols designed to
+9 promote patient education, patient privacy, physician best practices, electronic
+10 connectivity to health care data, access to advance care planning documents,
+11 and, overall, a more efficient and less costly means of delivering quality health
+12 care in Vermont.
+13 (D) A representative of the Green Mountain Care Board shall be a
+14 voting member of the Steering Committee.
+15 * * *
+16 (c) The Department of Vermont Health Access, in consultation with the
+17 Steering Committee and subject to Green Mountain Care Board approval, may
+18 propose updates to the Plan in addition to the annual updates as needed to
+19 reflect emerging technologies, the State’s changing needs, and such other areas
+20 as the Department deems appropriate. The Department shall solicit
+21 recommendations from interested stakeholders in order to propose updates to
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 3 of 22
+1 the Health Information Technology Plan pursuant to subsection (a) of this
+2 section and to this subsection, including applicable standards, protocols, and
+3 pilot programs, and following approval of the proposed updates by the Green
+4 Mountain Care Board, may enter into a contract or grant agreement with
+5 appropriate entities to update some or all of the Plan. Upon approval of the
+6 updated Plan by the Green Mountain Care Board, the The Department of
+7 Vermont Health Access shall distribute the updated Plan to the Secretary of
+8 Administration; the Secretary of Digital Services; the Commissioner of
+9 Financial Regulation; the Green Mountain Care Board; the Secretary of
+10 Human Services; the Commissioner of Health; the Commissioner of Mental
+11 Health; the Commissioner of Disabilities, Aging, and Independent Living; the
+12 Senate Committee on Health and Welfare; the House Committee on Health
+13 Care; affected parties; and interested stakeholders. Unless major modifications
+14 are required, the Department may present updated information about the Plan
+15 to the legislative committees of jurisdiction in lieu of creating a written report.
+16 (d) The Health Information Technology Plan shall serve as the framework
+17 within which the Green Mountain Care Board reviews certificate of need
+18 applications for information technology under section 9440b of this title. In
+19 addition, the Commissioner of Information and Innovation Secretary of Digital
+20 Services shall use the Health Information Technology Plan as the basis for
+21 independent review of State information technology procurements.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 4 of 22
+1 * * *
+2 Sec. 2. 18 V.S.A. § 9352 is amended to read:
+3 § 9352. VERMONT INFORMATION TECHNOLOGY LEADERS
+4 * * *
+5 (c) Health information exchange operation.
+6 (1) VITL shall be designated in the Health Information Technology Plan
+7 approved by the Green Mountain Care Board pursuant to section 9351 of this
+8 title to operate the exclusive statewide health information exchange network
+9 for this State. The Plan shall determine the manner in which Vermont’s health
+10 information exchange network shall be managed. The Green Mountain Care
+11 Board shall have the authority to approve VITL’s budget pursuant to chapter
+12 220 of this title. Nothing in this chapter shall impede local community
+13 providers from the exchange of electronic medical data.
+14 * * *
+15 (e) Report. On or before January 15 of each year, VITL shall file a report
+16 with the Green Mountain Care Board; the Secretary of Administration; the
+17 Secretary of Digital Services; the Commissioner of Financial Regulation; the
+18 Commissioner of Vermont Health Access; the Secretary of Human Services;
+19 the Commissioner of Health; the Commissioner of Mental Health; the
+20 Commissioner of Disabilities, Aging, and Independent Living; the Senate
+21 Committee on Health and Welfare; and the House Committee on Health Care.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 5 of 22
+1 The report shall include an assessment of progress in implementing health
+2 information technology in Vermont and recommendations for additional
+3 funding and legislation required. In addition, VITL shall publish minutes of
+4 VITL meetings and any other relevant information on a public website. The
+5 provisions of 2 V.S.A. § 20(d) (expiration of required reports) shall not apply
+6 to the report to be made under this subsection.
+7 * * *
+8 (i) Certification of meaningful use and connectivity.
+9 (1) To the extent necessary to support Vermont’s health care reform
+10 goals or as required by federal law, VITL shall be authorized to certify the
+11 meaningful use of health information technology and electronic health records
+12 by health care providers licensed in Vermont.
+13 (2) VITL, in consultation with health care providers and health care
+14 facilities, shall establish criteria for creating or maintaining connectivity to the
+15 State’s health information exchange network. VITL shall provide the criteria
+16 annually on or before March 1 to the Green Mountain Care Board established
+17 pursuant to chapter 220 of this title.
+18 * * *
+19 Sec. 3. 18 V.S.A. § 9374(h) is amended to read:
+20 (h)(1)(A) Except as otherwise provided in subdivisions (1)(C) and (2) of
+21 this subsection (h), the expenses of the Board shall be borne as follows:
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 6 of 22
+1 (i) 40.0 40 percent by the State from State monies;
+2 (ii) 28.8 36 percent by the hospitals; and
+3 (iii) 23.2 24 percent by nonprofit hospital and medical service
+4 corporations licensed under 8 V.S.A. chapter 123 or 125, health insurance
+5 companies licensed under 8 V.S.A. chapter 101, and health maintenance
+6 organizations licensed under 8 V.S.A. chapter 139; and
+7 (iv) 8.0 percent by accountable care organizations.
+8 (B) Expenses under subdivision (A)(iii) of this subdivision (1) shall
+9 be allocated to persons licensed under Title 8 based on premiums paid for
+10 health care coverage, which for the purposes of this subdivision (1) shall
+11 include major medical, comprehensive medical, hospital or surgical coverage,
+12 and comprehensive health care services plans, but shall not include long-term
+13 care, limited benefits, disability, credit or stop loss, or excess loss insurance
+14 coverage.
+15 (C) Expenses Amounts assessed pursuant to the provisions of section
+16 sections 9382 and 9441 of this title shall not be assessed in accordance with the
+17 formula set forth in subdivision (A) of this subdivision (1).
+18 (2) The Board may determine the scope of the incurred expenses to be
+19 allocated pursuant to the formula set forth in subdivision (1) of this subsection
+20 if, in the Board’s discretion, the expenses to be allocated are in the best
+21 interests of the regulated entities and of the State.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 7 of 22
+1 (3) If the amount of the proportional assessment to any entity calculated
+2 in accordance with the formula set forth in subdivision (1)(A) of this
+3 subsection would be less than $150.00, the Board shall assess the entity a
+4 minimum fee of $150.00. The Board shall apply the amounts collected based
+5 on the difference between each applicable entity’s proportional assessment
+6 amount and $150.00 to reduce the total amount assessed to the regulated
+7 entities pursuant to subdivisions (1)(A)(ii)–(iv) (1)(A)(ii) and (iii) of this
+8 subsection.
+9 * * *
+10 Sec. 4. 18 V.S.A. § 9375 is amended to read:
+11 § 9375. DUTIES
+12 * * *
+13 (b) The Board shall have the following duties:
+14 * * *
+15 (2)(A) Review and approve Vermont’s statewide Health Information
+16 Technology Plan pursuant to section 9351 of this title to ensure that the
+17 necessary infrastructure is in place to enable the State to achieve the principles
+18 expressed in section 9371 of this title.
+19 (B) Review and approve the criteria required for health care
+20 providers and health care facilities to create or maintain connectivity to the
+21 State’s health information exchange as set forth in section 9352 of this title.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 8 of 22
+1 Within 90 days following this approval, the Board shall issue an order
+2 explaining its decision.
+3 (C) Annually review and approve the budget, consistent with
+4 available funds, of the Vermont Information Technology Leaders, Inc. (VITL).
+5 This review shall take into account VITL’s responsibilities pursuant to section
+6 9352 of this title and the availability of funds needed to support those
+7 responsibilities. [Repealed.]
+8 * * *
+9 (12) Review data regarding mental health and substance abuse treatment
+10 reported to the Department of Financial Regulation pursuant to 8 V.S.A. §
+11 4089b(g)(1)(G) and discuss such information, as appropriate, with the Mental
+12 Health Technical Advisory Group established pursuant to subdivision
+13 9374(e)(2) of this title. [Repealed.]
+14 (13) Adopt by rule pursuant to 3 V.S.A. chapter 25 such standards as the
+15 Board deems necessary and appropriate to the operation and evaluation of
+16 accountable care organizations pursuant to this chapter, including reporting
+17 requirements, patient protections, and solvency and ability to assume financial
+18 risk.
+19 * * *
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 9 of 22
+1 Sec. 5. 18 V.S.A. § 9382 is amended to read:
+2 § 9382. OVERSIGHT OF ACCOUNTABLE CARE ORGANIZATIONS
+3 (a)(1) In order to be eligible to receive payments from Medicaid or
+4 commercial insurance through any payment reform program or initiative,
+5 including an all-payer model operate in Vermont, each accountable care
+6 organization shall obtain and maintain certification from the Green Mountain
+7 Care Board. The Board shall adopt rules pursuant to 3 V.S.A. chapter 25 to
+8 establish standards and processes for certifying accountable care organizations.
+9 To the extent permitted under federal law, the Board shall ensure these rules
+10 anticipate and accommodate a range of ACO models and sizes, balancing
+11 oversight with support for innovation. In order to certify an ACO to operate in
+12 this State, the Board shall ensure that the following criteria are met:
+13 (1)(A) The ACO’s governance, leadership, and management structure is
+14 transparent, reasonably and equitably represents the ACO’s participating
+15 providers and its patients, and includes a consumer advisory board and other
+16 processes for inviting and considering consumer input.
+17 (2) The ACO has established appropriate mechanisms and care models
+18 to provide, manage, and coordinate high-quality health care services for its
+19 patients, including incorporating the Blueprint for Health, coordinating
+20 services for complex high-need patients, and providing access to health care
+21 providers who are not participants in the ACO. The ACO ensures equal access
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 10 of 22
+1 to appropriate mental health care that meets standards of quality, access, and
+2 affordability equivalent to other components of health care as part of an
+3 integrated, holistic system of care , taken as a whole, support and do not hinder
+4 the State’s principles for health care reform as set forth in section 9371 of this
+5 title.
+6 (B) The ACO’s financial incentives for providers and patients are
+7 reasonably calculated to improve, or at a minimum, maintain, the quality of,
+8 access to, and affordability of care.
+9 (3)(C) The ACO has established appropriate mechanisms to receive and
+10 distribute payments to its participating health care providers in a fair and
+11 equitable manner. To the extent that the ACO has the authority and ability to
+12 establish provider reimbursement rates, the ACO shall minimize differentials
+13 in payment methodology and amounts among comparable participating
+14 providers across all practice settings, as long as doing so is not inconsistent
+15 with the ACO’s overall payment reform objectives.
+16 (4)(D) The ACO has established appropriate mechanisms and criteria
+17 for accepting health care providers to participate in the ACO that prevent
+18 unreasonable discrimination and are related to the needs of the ACO and the
+19 patient population served.
+20 (5) The ACO has established mechanisms and care models to promote
+21 evidence-based health care, patient engagement, coordination of care, use of
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 11 of 22
+1 electronic health records, and other enabling technologies to promote
+2 integrated, efficient, seamless, and effective health care services across the
+3 continuum of care, where feasible.
+4 (6) The ACO’s participating providers have the capacity for meaningful
+5 participation in health information exchanges.
+6 (7)(E) The ACO has performance standards and measures to evaluate
+7 the quality and utilization of care delivered by its participating health care
+8 providers.
+9 (8)(F) The ACO does not place any restrictions on the information its
+10 participating health care providers may provide to patients about their health or
+11 decisions regarding their health.
+12 (9) The ACO’s participating health care providers engage their patients
+13 in shared decision making to inform them of their treatment options and the
+14 related risks and benefits of each.
+15 (10)(G) The ACO offers assistance to health care consumers, including:
+16 (A)(i) maintaining a consumer telephone line for questions,
+17 complaints, and grievances from attributed patients;
+18 (B)(ii) responding and making best efforts to resolve complaints and
+19 grievances from attributed patients, including providing assistance in
+20 identifying appropriate rights under a patient’s health plan;
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 12 of 22
+1 (C)(iii) providing an accessible mechanism for explaining how ACOs
+2 work;
+3 (D)(iv) providing contact information for the Office of the Health
+4 Care Advocate; and
+5 (E)(v) sharing deidentified complaint and grievance information with
+6 the Office of the Health Care Advocate at least twice annually.
+7 (11) The ACO collaborates with providers not included in its financial
+8 model, including home- and community-based providers and dental health
+9 providers.
+10 (12) The ACO does not interfere with patients’ choice of their own
+11 health care providers under their health plan, regardless of whether a provider
+12 is participating in the ACO; does not reduce covered services; and does not
+13 increase patient cost sharing.
+14 (13) The meetings of the ACO’s governing body comply with the
+15 provisions of section 9572 of this title.
+16 (14) The impact of the ACO’s establishment and operation does not
+17 diminish access to any health care or community-based service or increase
+18 delays in access to care for the population and area it serves.
+19 (15) The ACO has in place appropriate mechanisms to conduct ongoing
+20 assessments of its legal and financial vulnerabilities.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 13 of 22
+1 (16)(H) The ACO has in place a financial guarantee sufficient to cover
+2 its potential losses.
+3 (17) The ACO provides connections and incentives to existing
+4 community services for preventing and addressing the impact of childhood
+5 adversity. The ACO collaborates on the development of quality-outcome
+6 measurements for use by primary care providers who work with children and
+7 families and fosters collaboration among care coordinators, community service
+8 providers, and families.
+9 (2) Notwithstanding subdivision (1) of this subsection, the Green
+10 Mountain Care Board may adopt rules in accordance with 3 V.S.A. chapter 25
+11 to establish a streamlined process for certification as a Medicare-only ACO for
+12 an entity authorized by the Centers for Medicare and Medicaid Services to act
+13 as an accountable care organization under the Medicare program. The
+14 streamlined process may require a Medicare-only ACO to meet one or more of
+15 the criteria set forth in subdivision (1) of this subsection. Certification
+16 obtained pursuant to the streamlined process shall apply to the Medicare-only
+17 ACO’s actions only as they relate to Medicare beneficiaries and only to the
+18 extent that the federal authorization allows.
+19 (b)(1) The Green Mountain Care Board shall adopt rules pursuant to in
+20 accordance with 3 V.S.A. chapter 25 to establish standards and processes for
+21 reviewing, modifying, and approving the budgets of ACOs with 10,000 or
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 14 of 22
+1 more that receive payments from Medicaid or commercial insurers, or both, on
+2 behalf of attributed lives in Vermont. To the extent permitted under federal
+3 law, the Board shall ensure the rules anticipate and accommodate a range of
+4 ACO models and sizes, balancing oversight with support for innovation. In its
+5 review, the Board shall review and consider:
+6 (A) information regarding utilization of the health care services
+7 delivered by health care providers participating in the ACO and the effects of
+8 care models on appropriate utilization, including the provision of innovative
+9 services;
+10 (B) the Health Resource Allocation Plan identifying Vermont’s
+11 critical health needs, goods, services, and resources as identified pursuant to
+12 section 9405 of this title;
+13 (C) the expenditure analysis for the previous year and the proposed
+14 expenditure analysis for the year under review by payer;
+15 (D) the character, competence, fiscal responsibility, and soundness of
+16 the ACO and its principals;
+17 (E) any reports from professional review organizations;
+18 (F) the ACO’s efforts to prevent duplication of high-quality services
+19 being provided efficiently and effectively by existing community-based
+20 providers in the same geographic area, as well as its integration of efforts with
+21 the Blueprint for Health and its regional care collaboratives;
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 15 of 22
+1 (G) the extent to which the ACO provides incentives for systemic
+2 health care investments to strengthen primary care, including strategies for
+3 recruiting additional primary care providers, providing resources to expand
+4 capacity in existing primary care practices, and reducing the administrative
+5 burden of reporting requirements for providers while balancing the need to
+6 have sufficient measures to evaluate adequately the quality of and access to
+7 care;
+8 (H) the extent to which the ACO provides incentives for systemic
+9 integration of community-based providers in its care model or investments to
+10 expand capacity in existing community-based providers, in order to promote
+11 seamless coordination of care across the care continuum;
+12 (I) the extent to which the ACO provides incentives for systemic
+13 health care investments in social determinants of health, such as developing
+14 support capacities that prevent hospital admissions and readmissions, reduce
+15 length of hospital stays, improve population health outcomes, reward healthy
+16 lifestyle choices, and improve the solvency of and address the financial risk to
+17 community-based providers that are participating providers of an accountable
+18 care organization;
+19 (J) the extent to which the ACO provides incentives for preventing
+20 and addressing the impacts of adverse childhood experiences (ACEs) and other
+21 traumas, such as developing quality outcome measures for use by primary care
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 16 of 22
+1 providers working with children and families, developing partnerships between
+2 nurses and families, providing opportunities for home visits, and including
+3 parent-child centers and designated agencies as participating providers in the
+4 ACO;
+5 (K) public comment on all aspects of the ACO’s costs and use and on
+6 the ACO’s proposed budget;
+7 (L) information gathered from meetings with the ACO to review and
+8 discuss its proposed budget for the forthcoming fiscal year;
+9 (M) information on the ACO’s administrative costs, as defined by the
+10 Board;
+11 (N) the effect, if any, of Medicaid reimbursement rates on the rates
+12 for other payers;
+13 (O) the extent to which the ACO makes its costs transparent and easy
+14 to understand so that patients are aware of the costs of the health care services
+15 they receive; and
+16 (P) the extent to which the ACO provides resources to primary care
+17 practices to ensure that care coordination and community services, such as
+18 mental health and substance use disorder counseling that are provided by
+19 community health teams, are available to patients without imposing
+20 unreasonable burdens on primary care providers or on ACO member
+21 organizations.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 17 of 22
+1 (2) The Green Mountain Care Board shall adopt rules pursuant to 3
+2 V.S.A. chapter 25 to establish standards and processes for reviewing,
+3 modifying, and approving the budgets of ACOs with fewer than 10,000
+4 attributed lives in Vermont. In its review, the Board may consider as many of
+5 the factors described in subdivision (1) of this subsection as the Board deems
+6 appropriate to a specific ACO’s size and scope
+7 (1) information gathered from meetings with the ACO to review and
+8 discuss its proposed budget for the forthcoming fiscal year;
+9 (2) the efficacy with which the ACO uses funds from Medicaid and
+10 commercial insurers, as applicable, to enhance and expedite the State’s health
+11 care system transformation efforts;
+12 (3) the ACO’s reasonable use of State and commercial insurance funds
+13 for its own administrative costs, as defined by the Board;
+14 (4) the ACO’s collaboration with a range of provider types, such as
+15 home- and community-based providers, dental health providers, and mental
+16 health and substance use disorder treatment providers;
+17 (5) the ACO’s use of a consumer advisory board and other mechanisms
+18 for inviting and considering consumer input; and
+19 (6) public comment on all aspects of the ACO’s costs, operations, and
+20 proposed budget.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 18 of 22
+1 (3)(A)(c)(1) The Office of the Health Care Advocate shall have the right
+2 to receive copies of all materials related to any ACO certification or budget
+3 review and may:
+4 (i)(A) ask questions of employees of the Green Mountain Care Board
+5 related to the Board’s ACO budget review;
+6 (ii)(B) submit written questions to the Board that the Board will ask
+7 of the ACO in advance of any hearing held in conjunction with the Board’s
+8 ACO review;
+9 (iii)(C) submit written comments for the Board’s consideration; and
+10 (iv)(D) ask questions and provide testimony in any hearing held in
+11 conjunction with the Board’s ACO budget review.
+12 (B)(2) The Office of the Health Care Advocate shall not disclose
+13 further any confidential or proprietary information provided to the Office
+14 pursuant to this subdivision (3) subsection.
+15 (c)(d) The Board’s rules shall include requirements for submission of
+16 information and data by ACOs and their participating providers as needed to
+17 evaluate an ACO’s success. They The rules may also establish standards as
+18 appropriate to promote an ACO’s ability to participate in applicable federal
+19 programs for ACOs.
+20 (d)(e) All information required to be filed by an ACO pursuant to this
+21 section or to rules adopted pursuant to this section shall be made available to
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 19 of 22
+1 the public upon request in accordance with 1 V.S.A. chapter 5, subchapter 3
+2 (Public Records Act), provided that individual patients or health care providers
+3 shall not be directly or indirectly identifiable.
+4 (e)(f) To the extent required to avoid federal antitrust violations, the Board
+5 shall supervise the participation of health care professionals, health care
+6 facilities, and other persons operating or participating in an accountable care
+7 organization. The Board shall ensure that its certification and oversight
+8 processes constitute sufficient State supervision over these entities to comply
+9 with federal antitrust provisions and shall refer to the Attorney General for
+10 appropriate action the activities of any individual or entity that the Board
+11 determines, after notice and an opportunity to be heard, may be in violation of
+12 State or federal antitrust laws without a countervailing benefit of improving
+13 patient care, improving access to health care, increasing efficiency, or reducing
+14 costs by modifying payment methods.
+15 (g) The Board shall collect the following amounts from an accountable care
+16 organization:
+17 (1) $10,000.00 for initial certification in accordance with subsection (a)
+18 of this section;
+19 (2) $2,000.00 annually following initial certification to maintain
+20 certification; and
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 20 of 22
+1 (3) $125,000.00 for each review of the accountable care organization’s
+2 budget in accordance with subsection (b) of this section.
+3 Sec. 6. 18 V.S.A. § 9454 is amended to read:
+4 § 9454. HOSPITALS; DUTIES
+5 * * *
+6 (b)(1) Hospitals General hospitals, as defined in section 1902 of this title,
+7 shall adopt a fiscal year that shall begin on October 1.
+8 (2) Psychiatric hospitals, as defined in section 1902 of this title but
+9 excluding those conducted, maintained, or operated by the State of Vermont,
+10 shall adopt a fiscal year that shall begin on January 1.
+11 Sec. 7. 18 V.S.A. § 9456 is amended to read:
+12 § 9456. BUDGET REVIEW
+13 * * *
+14 (d)(1)(A) Annually, the Board shall establish a budget for each general
+15 hospital, as defined in section 1902 of this title, on or before September 15,
+16 followed by a written decision by on or before October 1.
+17 (B) Annually, the Board shall establish a budget for each psychiatric
+18 hospital, as defined in section 1902 of this title but excluding those conducted,
+19 maintained, or operated by the State of Vermont, on or before December 15,
+20 followed by a written decision on or before December 31.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 21 of 22
+1 (C) Each hospital shall operate within the budget established under
+2 this section.
+3 * * *
+4 Sec. 8. 18 V.S.A. § 9572 is amended to read:
+5 § 9572. MEETINGS OF AN ACCOUNTABLE CARE ORGANIZATION’S
+6 GOVERNING BODY
+7 (a) Application. This section shall apply to all regular, special, and
+8 emergency meetings of the governing board of an accountable care
+9 organization’s governing body organization that contracts with the Vermont
+10 Medicaid program, whether the meeting is held in person or by electronic
+11 means, as well as to any other assemblage of members of the ACO’s governing
+12 body at which binding action is taken on behalf of the ACO. For purposes of
+13 this section, the term “ACO’s governing body” shall also include the
+14 governing body of any organization acting as a coordinating entity for two or
+15 more ACOs that contract with Vermont Medicaid.
+16 * * *
+17 Sec. 9. REPEAL
+18 18 V.S.A. § 9573 (Medicaid advisory rate case) is repealed.
+VT LEG #382101 v.1
+
+AS PASSED BY SENATE S.63
+2025 Page 22 of 22
+1 Sec. 10. EFFECTIVE DATES
+2 (a) Secs. 6 (18 V.S.A. § 9454) and 7 (18 V.S.A. § 9456) and this section
+3 shall take effect on passage.
+4 (b) The remaining sections shall take effect on July 1, 2025.
+VT LEG #382101 v.1
+
+[DELETED:  S P S A C I S § ( D r I c h ( M C d t ( s ( e]
+[DELETED:  S P i p e I p f e ( p c a c ( v * ( S p r a r]
+[DELETED:  S P t s p M a u V A F H H S C a t ( w a a S i]
+[DELETED:  S P * S § * ( ( a t f i B 2 p * ( w S C t C C]
+[DELETED:  S P T i f V p t * ( ( g m b ( f S a p * S ( t]
+[DELETED:  S P ( ( ( c c o ( ( b h i a c c ( s f ( a i i]
+[DELETED:  S P ( i s m o a e s * S § * ( * ( T n e ( p S]
+[DELETED:  S P W e ( a T 9 r * ( r 4 H 9 ( B a r r *]
+[DELETED:  S P S § ( c i o C e T a o t ( t p p ( t p s p]
+[DELETED:  S P t a i t t ( r a ( d e e i p w ( f u p ( e]
+[DELETED:  S P e i c ( p ( t p ( p d ( i r ( ( c ( g i]
+[DELETED:  S P ( w ( C ( t ( m p ( h i i ( p ( d d ( a]
+[DELETED:  S P ( i ( c a m f p ( M t a a s t o A e ( a r]
+[DELETED:  S P m b l A r ( d c s ( c s ( e ( t ( ( b p t]
+[DELETED:  S P ( h r c b h c ( i e s ( h s l l c c ( a t]
+[DELETED:  S P p n p A ( t ( d ( B ( f ( t t ( p m c u o]
+[DELETED:  S P ( V m a t a ( d ( c c ( f ( h h ( f ( p]
+[DELETED:  S P ( t r ( r ( o A ( ( c ( f p ( i e a p ( s]
+[DELETED:  S P t ( s ( s f o p w a d S p c ( o ( o ( c]
+[DELETED:  S P ( b S § * ( s ( e s S § * ( h f ( h m f]
+[DELETED:  S P ( t * S §   ( e o M m b t g m * S 1]
+[DELETED:  S P S ( s (]

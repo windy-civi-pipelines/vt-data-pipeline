@@ -1,0 +1,802 @@
+Title: BILL AS INTRODUCED H.230
+Official Title: BILL AS INTRODUCED H.230
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 16
+1 H.230
+2 Introduced by Representative Satcowitz of Randolph
+3 Referred to Committee on
+4 Date:
+5 Subject: Fish and wildlife; fish and game; hunting; conservation
+6 Statement of purpose of bill as introduced: This bill proposes to amend
+7 multiple provisions related to hunting, fishing, and trapping and related to the
+8 conservation of threatened and endangered species. The bill would authorize
+9 the Commissioner of Fish and Wildlife to designate Labor Day weekend as a
+10 free mentored fishing weekend. The bill would adjust the fees for fishing
+11 tournaments based on the number of participants. The bill also increases the
+12 penalties for big game violations. In addition, the bill would allow for
+13 enforcement of a fish and wildlife violation in the Judicial Bureau based on the
+14 determination of the enforcing warden. The bill authorizes the Commissioner
+15 of Fish and Wildlife to adopt rules for the protection, conservation, and taking
+16 of amphibians and reptiles. The bill would clarify that a person could not take,
+17 collect, or possess a wild bird, wild animal, reptile, or amphibians with a
+18 permit from the Commissioner. The bill also clarifies the authority of the
+19 Commissioner of Fish and Wildlife to not disclose the location of specific
+20 endangered or threatened species. In addition, the bill would repeal the statute
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 2 of 16
+1 requiring the Department of Fish and Wildlife to reimburse farmers whose
+2 crops are damaged by black bear.
+3 An act relating to the management of fish and wildlife
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 10 V.S.A. § 4251 is amended to read:
+6 § 4251. TAKING WILD ANIMALS AND FISH; LICENSE
+7 (a) Except as provided in sections 4253 and 4254b of this title, a person
+8 shall not take wild animals or fish without first having procured a license
+9 therefor; provided, however, that a person under 15 years of age may take fish
+10 in accordance with this part and regulations of the Board, without first having
+11 procured a license therefor.
+12 (b) The Commissioner of Fish and Wildlife may designate two days each
+13 calendar year as “free fishing days” for which no license shall be required.
+14 One day shall occur in the open water fishing season and one day shall occur
+15 during the ice fishing season.
+16 (c) The Commissioner of Fish and Wildlife may designate Labor Day
+17 weekend each year as “free mentored fishing weekend,” during which one
+18 unlicensed angler can fish with one licensed angler throughout this three-day
+19 period.
+20 Sec. 2. 10 V.S.A. § 4613 is amended to read:
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 3 of 16
+1 § 4613. FISHING TOURNAMENTS
+2 (a) No person or organization shall hold a fishing tournament on the waters
+3 of the State without first obtaining a permit from the Department of Fish and
+4 Wildlife. Tournaments held on the Connecticut River, excluding Moore and
+5 Comerford Reservoirs, that do not utilize an access area in Vermont are not
+6 required to obtain a permit from the Department of Fish and Wildlife.
+7 (b) A fishing tournament means a contest in which anglers pay a fee to
+8 enter and in which the entrants compete for a prize based on the quality or size
+9 of the fish they catch. A contest may run multiple days, but the days must be
+10 consecutive for that contest to be considered a single event. A tournament that
+11 limits the entrants to people below 15 years of age or a tournament held as part
+12 of a Special Olympics program shall be exempt from paying the fee required
+13 under subsection (d) of this section.
+14 (c) The Commissioner shall adopt rules that establish the procedure for
+15 implementation of this section. The rules shall include a provision that an
+16 angler may not enter a fish that was caught and confined to an enclosed area
+17 prior to the beginning of the tournament.
+18 (d) The Commissioner shall charge a fee of $50.00 based on the number of
+19 participants for each permit issued under this section and shall deposit the fee
+20 collected into the Fish and Wildlife Fund. Tournaments with up to 25
+21 participants shall pay a fee of $10.00; tournaments with 26 to 50 participants
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 4 of 16
+1 shall pay a fee of $30.00; and tournaments with more than 50 participants shall
+2 pay a fee of $100.00.
+3 Sec. 3. 10 V.S.A. § 4518 is amended to read:
+4 § 4518. BIG GAME VIOLATIONS; THREATENED AND ENDANGERED
+5 SPECIES; SUSPENSION; VIOLATIONS
+6 (a) Whoever violates a provision of this part or orders or rules of the Board
+7 relating to taking, possessing, transporting, buying, or selling of big game;
+8 relating to threatened or endangered species; or relating to the trade in covered
+9 animal parts or products that constitutes a big game violation shall be fined not
+10 more than $1,000.00 $2,000.00 nor less than $400.00 $500.00 or imprisoned
+11 for not more than 60 days, or both. Upon a second and all subsequent
+12 convictions or any conviction while under license suspension related to the
+13 requirements of part 4 of this title, the violator shall be fined not more than
+14 $4,000.00 $5,000.00 nor less than $2,000.00 or imprisoned for not more than
+15 60 180 days, or both.
+16 (b) A “big game violation” means:
+17 (1) violations relating to taking, possessing, transporting, buying, or
+18 selling of big game;
+19 (2) violations of chapter 123 of this title and the rules related to
+20 threatened and endangered species;
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 5 of 16
+1 (3) violation of section 4280 of this title relating to criminal
+2 suspensions;
+3 (4) violations of chapter 124 of this title relating to the trade in covered
+4 animal parts or products;
+5 (5) interference with hunting, fishing, or trapping in violation of section
+6 4708 of this title; or
+7 (6) illegal commercial importation or possession of wild animals in
+8 violation of section 4709 of this title.
+9 Sec. 4. 10 V.S.A. § 4552 is amended to read:
+10 § 4552. JURISDICTION; VENUE
+11 The Vermont Criminal Division of the Superior Court shall have exclusive
+12 jurisdiction over fish and wildlife violations with the exception of violations
+13 related to section 4152 and chapters 123 and 124 of this title. Venue for
+14 adjudicating fish and wildlife violations shall be the unit of the Criminal
+15 Division of the Superior Court having jurisdiction over the geographical area
+16 where the offense is stated to have occurred.
+17 Sec. 5. 10 V.S.A. § 4572 is amended to read:
+18 § 4572. DEFINITIONS
+19 (a) As used in this subchapter, a minor fish and wildlife violation means:
+20 (1) a violation of 10 V.S.A. § 4145 (violation of access and landing area
+21 rules);
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 6 of 16
+1 (2) a violation of 10 V.S.A. § 4251 (taking wild animals and fish
+2 without a license);
+3 (3) a violation of 10 V.S.A. § 4266 (failure to carry a license on person
+4 or failure to exhibit license);
+5 (4) a violation of 10 V.S.A. § 4267 (false statements in license
+6 application; altering license; transferring license to another person; using
+7 another person’s license; or guiding an unlicensed person);
+8 (5) a violation of 10 V.S.A. § 4713 (tree or ground stands or blinds); or
+9 (6) [Repealed.]
+10 (7) a violation of a biological collection rule adopted by the Board under
+11 part 4 of this title; or
+12 (8) except for big game offenses and under revocation offenses, a
+13 warden may determine that a fish and wildlife violation not listed in this
+14 section should be charged as a minor violation based on factors such as:
+15 (A) the offender has no prior history of violations;
+16 (B) the offender was cooperative and forthcoming or reported the
+17 violation;
+18 (C) there are mitigating circumstances;
+19 (D) the totality of circumstances would lead a reasonable person to
+20 believe that the offense is minor in nature;
+21 (E) there is no possibility of forfeiture; and
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 7 of 16
+1 (F) there is no need for a criminal warrant to investigate the violation.
+2 (b) “Bureau” means the Judicial Bureau as created in 4 V.S.A. § 1102.
+3 Sec. 6. 10 V.S.A. § 4085 is added to read:
+4 § 4085. REPTILES AND AMPHIBIANS
+5 The Commissioner may adopt rules related to the protection, conservation,
+6 and taking of reptiles and amphibians. The rules may:
+7 (1) prohibit the possession and importation of species that pose a threat
+8 to species and ecosystems in Vermont and allow the Department to establish a
+9 list of prohibited or restricted species;
+10 (2) allow for waivers for possession of prohibited species legally
+11 acquired as a pet prior to July 1, 2025;
+12 (3) prohibit the taking and collection of specified reptiles and
+13 amphibians;
+14 (4) establish open seasons for common species;
+15 (5) establish daily, season, and possession limits for common species;
+16 (6) establish territorial limits for any rule under this subchapter;
+17 (7) prescribe the manner and means of taking any species or variety,
+18 including reporting and tagging of game;
+19 (8) establish restrictions on taking based upon sex, maturity, or other
+20 physical distinction of the species or variety pursued; and
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 8 of 16
+1 (9) designate Wildlife Management Units for various species or
+2 varieties.
+3 Sec. 7. 10 V.S.A. § 4709 is amended to read:
+4 § 4709. TRANSPORT, IMPORTATION, POSSESSION, AND STOCKING
+5 OF WILD ANIMALS; POSSESSION OF WILD BOAR OR FERAL
+6 SWINE
+7 (a) A person shall not bring into, transport into, transport within, transport
+8 through, or possess in the State any live wild bird or animal of any kind,
+9 including reptiles, amphibians, or any manner of feral swine, without
+10 authorization from the Commissioner or his or her the Commissioner’s
+11 designee. The importation permit may be granted under such regulations
+12 therefor as rules, requirements, or conditions that the Commissioner shall
+13 prescribe and only after the Commissioner has made such investigation and
+14 inspection of the birds or animals as she or he the Commissioner may deem
+15 necessary. The Department may dispose of unlawfully possessed or imported
+16 wildlife as it may judge best, and the State may collect treble damages from the
+17 violator of this subsection for all expenses incurred.
+18 (b) No person shall bring into the State from another country, state, or
+19 province wildlife illegally taken, transported, or possessed contrary to the laws
+20 governing the country, state, or province from which the wildlife originated.
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 9 of 16
+1 (c) No person shall place a Vermont-issued tag on wildlife taken outside
+2 the State. No person shall report big game in Vermont when the wildlife is
+3 taken outside the State.
+4 (d) Nothing in this section shall prohibit the Commissioner or duly
+5 authorized agents of the Department of Fish and Wildlife from bringing into
+6 the State for the purpose of planting, introducing, or stocking or from planting,
+7 introducing, or stocking in the State any wild bird or animal.
+8 (e) A person shall not take, collect, possess, sell, import, or export any wild
+9 bird or animal, or parts thereof, dead or alive, for commercial purposes unless
+10 authorized by the rules of the Board, rules of the Commissioner, or a permit
+11 from the Commissioner.
+12 (f) A person shall not take, collect, or possess any reptile or amphibian, or
+13 parts thereof, dead or alive, for personal use unless authorized by the rules of
+14 the Commissioner or a permit from the Commissioner.
+15 (g) Any person who violates this section may be subject to the penalties set
+16 forth in section 4518 of this title and also may be required to pay additional
+17 penalties based on reasonable mitigation and potential economic benefit
+18 associated with commercial trade.
+19 (h) The Commissioner may bring an action in the unit of the Criminal
+20 Division of the Superior Court having jurisdiction over the geographical area
+21 where the offense is stated to have occurred, or the Environmental Division of
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 10 of 16
+1 the Superior Court, to compel reasonable mitigation and recover economic
+2 benefits for commercial collection and trade violations under this subsection.
+3 (i) Applicants shall pay a permit fee of $100.00.
+4 (f)(j)(1) The Commissioner shall not issue a permit under this section for
+5 the importation or possession of the following live species, a hybrid or genetic
+6 variant of the following species, offspring of the following species, or
+7 offspring or a hybrid of a genetically engineered variant of the following
+8 species: feral swine, including wild boar, wild hog, wild swine, feral pig, feral
+9 hog, old world swine, razorback, Eurasian wild boar, or Russian wild boar (Sus
+10 scrofo Linnaeus). A feral swine is:
+11 * * *
+12 Sec. 8. 10 V.S.A. § 5403(a) is amended to read:
+13 (a) Except as authorized under this chapter, a person shall not:
+14 (1) take, possess, or transport wildlife or wild plants that are members of
+15 a threatened or endangered species; or
+16 (2) destroy or adversely impact critical habitat;
+17 (3) sell or offer for sale in intrastate commerce a threatened or
+18 endangered species;
+19 (4) deliver, receive, carry, transport, or ship a threatened or endangered
+20 species in intrastate commerce; or
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 11 of 16
+1 (5) import a threatened or endangered species into or export a threatened
+2 or endangered species from Vermont.
+3 Sec. 9. 10 V.S.A. § 5408 is amended to read:
+4 § 5408. AUTHORIZED TAKINGS; INCIDENTAL TAKINGS;
+5 DESTRUCTION OF CRITICAL HABITAT
+6 (a) Authorized taking. Notwithstanding any provision of this chapter, after
+7 obtaining the advice of the Endangered Species Committee, the Secretary may
+8 permit, under such terms and conditions as the Secretary may require as
+9 necessary to carry out the purposes of this chapter, the taking of a threatened or
+10 endangered species, the destruction of or adverse impact on critical habitat, or
+11 any act otherwise prohibited by this chapter if done for any of the following
+12 purposes:
+13 (1) scientific purposes;
+14 (2) to enhance the propagation or survival of a threatened or endangered
+15 species;
+16 (3) zoological exhibition;
+17 (4) educational purposes;
+18 (5) noncommercial cultural or ceremonial purposes; or
+19 (6) special purposes consistent with the purposes of the federal
+20 Endangered Species Act.
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 12 of 16
+1 (b) Incidental taking. After obtaining the advice of the Endangered Species
+2 Committee, the Secretary may permit, under such terms and conditions as
+3 necessary to carry out the purposes of this chapter, the incidental taking of a
+4 threatened or endangered species or the destruction of or adverse impact on
+5 critical habitat if:
+6 (1) the taking is necessary to conduct an otherwise lawful activity;
+7 (2) the taking is attendant or secondary to, and not the purpose of, the
+8 lawful activity;
+9 (3) the impact of the permitted incidental take is minimized; and
+10 (4) the incidental taking will not impair the conservation or recovery of
+11 any endangered species or threatened species.
+12 * * *
+13 (k) Public notice. Prior Except for threatened and endangered species
+14 listed by the Secretary in accordance with subsection 5410(b) of this title, to
+15 issuing a permit for an incidental taking and prior to the initial issuance or
+16 amendment of a general permit under this section, the Secretary shall provide
+17 for public notice of no not fewer than 30 days, opportunity for written
+18 comment, and opportunity to request a public informational hearing. The
+19 Except for threatened and endangered species listed by the Secretary in
+20 accordance with subsection 5410(b) of this title, the Secretary shall post permit
+21 applications, permit decisions, and the initial or amended general permits on
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 13 of 16
+1 the website of the Agency of Natural Resources. The Except for threatened and
+2 endangered species listed by the Secretary in accordance with subsection
+3 5410(b) of this title, the Secretary also shall provide notice to interested
+4 persons who request notice of permit applications, permit decisions, and
+5 proposed general permits or proposed amendments to general permits.
+6 (l) General permits.
+7 (1) The Secretary may issue general permits for activities that will not
+8 affect the continued survival or recovery of a threatened or endangered species.
+9 * * *
+10 (6) Prior Except for threatened and endangered species listed by the
+11 Secretary in accordance with subsection 5410(b) of this title, prior to issuing an
+12 initial or amended general permit under this subsection, the Secretary shall:
+13 (A) post a draft of the general permit on the Agency website;
+14 (B) provide public notice of at least 30 days; and
+15 (C) provide for written comments or a public hearing, or both.
+16 (7) For applications for coverage under the terms of an issued general
+17 permit, the applicant shall provide notice on a form provided by the Secretary.
+18 The Except for threatened and endangered species listed by the Secretary in
+19 accordance with subsection 5410(b) of this title, the Secretary shall post notice
+20 of the application on the Agency website and shall provide an opportunity for
+21 written comment, regarding whether the application complies with the terms
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 14 of 16
+1 and conditions of the general permit, for ten 10 days following receipt of the
+2 application.
+3 * * *
+4 Sec. 10. 10 V.S.A. § 5410 is amended to read:
+5 § 5410. LOCATION CONFIDENTIAL
+6 (a) The Secretary shall not disclose information regarding the specific
+7 location of threatened or endangered species sites or habitats except that the
+8 Secretary shall disclose information regarding the location of the threatened or
+9 endangered species to:
+10 (1) to the owner of land upon which the species is located;
+11 (2) to a potential buyer of land upon which the species is located who
+12 has a bona fide contract to buy the land and applies to the Secretary for
+13 disclosure of threatened or endangered species information; or
+14 (3) to qualified individuals or organizations, public agencies, and
+15 nonprofit organizations for scientific research or for preservation and planning
+16 purposes when the Secretary determines that the preservation of the species is
+17 not further endangered by the disclosure; or
+18 (4) during regulatory processes with the exception of threatened or
+19 endangered species listed under subsection (b) of this section.
+20 (b) The Secretary shall maintain a subset list of threatened and endangered
+21 species whose specific names shall not be included in regulatory planning.
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 15 of 16
+1 The subset list shall include threatened or endangered species for which the
+2 species names and locations shall not be disclosed because of the risk that the
+3 species will be significantly harmed by unauthorized take, such as illegal
+4 collection, commercial trade, human-caused mortality, or destruction of
+5 habitat. The list shall be based on the rarity of the species, known collection,
+6 and commercial trade activities in Vermont and other states or countries,
+7 incidents of human-caused mortality or destruction of habitat, and other factors
+8 that present a threat to the continued existence of the species.
+9 (c) When the Secretary issues a permit under this chapter to take a
+10 threatened or endangered species or destroy or adversely impact critical habitat
+11 and when the Secretary designates critical habitat by rule under section 5402a
+12 of this title, the Secretary shall disclose only the municipality and general
+13 location where the threatened or endangered species or designated critical
+14 habitat is located. When the Secretary designates critical habitat under section
+15 5402a of this title, the Secretary shall notify the municipality in which the
+16 critical habitat is located and shall disclose the general location of the
+17 designated critical habitat.
+18 Sec. 11. 10 V.S.A. § 4829 is amended to read:
+19 § 4829. PERSON SUFFERING DAMAGE BY DEER OR BLACK BEAR
+20 (a) A person engaged in the business of farming who suffers damage by
+21 deer to the person’s crops, fruit trees, or crop-bearing plants on land not posted
+VT LEG #380522 v.1
+BILL AS INTRODUCED H.230
+2025 Page 16 of 16
+1 against the hunting of deer, or a person engaged in the business of farming who
+2 suffers damage by black bear to the person’s cattle, sheep, swine, poultry, or
+3 bees or bee hives on land not posted against hunting or trapping of black bear
+4 is entitled to reimbursement for the damage up to an amount not to exceed
+5 $5,000.00 per year, and may apply to the Department of Fish and Wildlife
+6 within 72 hours of the occurrence of the damage for reimbursement for the
+7 damage. As used in this section, “post” means any signage that would lead a
+8 reasonable person to believe that hunting is prohibited on the land.
+9 (b) As used in this section, a person is “engaged in the business of farming”
+10 if he or she earns at least one-half of the farmer’s annual gross income from the
+11 business of farming, as that term is defined in the Internal Revenue Code, 26
+12 C.F.R. § 1.175-3. [Repealed.]
+13 Sec. 12. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2025.
+VT LEG #380522 v.1
+[DELETED:  H P H I R R D S S m c t f t p e d o o c p C e]
+[DELETED:  H P r c A I S § ( s t i p ( c O d ( w u p S]
+[DELETED:  H P § ( o W C r ( e o c l o u ( i a p ( p c p]
+[DELETED:  H P s p S §   ( r r a m f c r $ 6 ( ( s ( t]
+[DELETED:  H P ( s ( a ( 4 ( v S § T j r a D w S § ( ( r]
+[DELETED:  H P ( w ( o ( a a ( ( ( p ( w s ( ( v ( ( b (]
+[DELETED:  H P ( ( S § T a ( t l ( a ( a ( ( ( ( i ( p]
+[DELETED:  H P ( v S §     ( t i a d t p i n w v ( p g]
+[DELETED:  H P ( t t ( a t i ( b a f ( p t ( f p a ( D w]
+[DELETED:  H P t b ( ( t v o s h s * S ( ( a ( ( e ( s]
+[DELETED:  H P ( o S §   ( o p n e a p ( ( s ( ( ( ( E]
+[DELETED:  H P ( C n t c ( ( l ( ( a * ( l i a f c E a a]
+[DELETED:  H P t e 5 p p ( ( a * ( S i ( ( ( ( p T a o w]
+[DELETED:  H P a a * S § ( l S e ( ( h d ( n p n ( e ( s]
+[DELETED:  H P T s s c h a i t ( t a o l h 5 c d S § ( d]
+[DELETED:  H P a s b i $ w d r ( i b C S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.230
+2025 Page 1 of 16
+1 H.230
+2 Introduced by Representative Satcowitz of Randolph
+3 Referred to Committee on
+4 Date:
+5 Subject: Fish and wildlife; fish and game; hunting; conservation
+6 Statement of purpose of bill as introduced: This bill proposes to amend
+7 multiple provisions related to hunting, fishing, and trapping and related to the
+8 conservation of threatened and endangered species. The bill would authorize
+9 the Commissioner of Fish and Wildlife to designate Labor Day weekend as a
+10 free mentored fishing weekend. The bill would adjust the fees for fishing
+11 tournaments based on the number of participants. The bill also increases the
+12 penalties for big game violations. In addition, the bill would allow for
+13 enforcement of a fish and wildlife violation in the Judicial Bureau based on the
+14 determination of the enforcing warden. The bill authorizes the Commissioner
+15 of Fish and Wildlife to adopt rules for the protection, conservation, and taking
+16 of amphibians and reptiles. The bill would clarify that a person could not take,
+17 collect, or possess a wild bird, wild animal, reptile, or amphibians with a
+18 permit from the Commissioner. The bill also clarifies the authority of the
+19 Commissioner of Fish and Wildlife to not disclose the location of specific
+20 endangered or threatened species. In addition, the bill would repeal the statute
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 2 of 16
+1 requiring the Department of Fish and Wildlife to reimburse farmers whose
+2 crops are damaged by black bear.
+3 An act relating to the management of fish and wildlife
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 10 V.S.A. § 4251 is amended to read:
+6 § 4251. TAKING WILD ANIMALS AND FISH; LICENSE
+7 (a) Except as provided in sections 4253 and 4254b of this title, a person
+8 shall not take wild animals or fish without first having procured a license
+9 therefor; provided, however, that a person under 15 years of age may take fish
+10 in accordance with this part and regulations of the Board, without first having
+11 procured a license therefor.
+12 (b) The Commissioner of Fish and Wildlife may designate two days each
+13 calendar year as “free fishing days” for which no license shall be required.
+14 One day shall occur in the open water fishing season and one day shall occur
+15 during the ice fishing season.
+16 (c) The Commissioner of Fish and Wildlife may designate Labor Day
+17 weekend each year as “free mentored fishing weekend,” during which one
+18 unlicensed angler can fish with one licensed angler throughout this three-day
+19 period.
+20 Sec. 2. 10 V.S.A. § 4613 is amended to read:
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 3 of 16
+1 § 4613. FISHING TOURNAMENTS
+2 (a) No person or organization shall hold a fishing tournament on the waters
+3 of the State without first obtaining a permit from the Department of Fish and
+4 Wildlife. Tournaments held on the Connecticut River, excluding Moore and
+5 Comerford Reservoirs, that do not utilize an access area in Vermont are not
+6 required to obtain a permit from the Department of Fish and Wildlife.
+7 (b) A fishing tournament means a contest in which anglers pay a fee to
+8 enter and in which the entrants compete for a prize based on the quality or size
+9 of the fish they catch. A contest may run multiple days, but the days must be
+10 consecutive for that contest to be considered a single event. A tournament that
+11 limits the entrants to people below 15 years of age or a tournament held as part
+12 of a Special Olympics program shall be exempt from paying the fee required
+13 under subsection (d) of this section.
+14 (c) The Commissioner shall adopt rules that establish the procedure for
+15 implementation of this section. The rules shall include a provision that an
+16 angler may not enter a fish that was caught and confined to an enclosed area
+17 prior to the beginning of the tournament.
+18 (d) The Commissioner shall charge a fee of $50.00 based on the number of
+19 participants for each permit issued under this section and shall deposit the fee
+20 collected into the Fish and Wildlife Fund. Tournaments with up to 25
+21 participants shall pay a fee of $10.00; tournaments with 26 to 50 participants
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 4 of 16
+1 shall pay a fee of $30.00; and tournaments with more than 50 participants shall
+2 pay a fee of $100.00.
+3 Sec. 3. 10 V.S.A. § 4518 is amended to read:
+4 § 4518. BIG GAME VIOLATIONS; THREATENED AND ENDANGERED
+5 SPECIES; SUSPENSION; VIOLATIONS
+6 (a) Whoever violates a provision of this part or orders or rules of the Board
+7 relating to taking, possessing, transporting, buying, or selling of big game;
+8 relating to threatened or endangered species; or relating to the trade in covered
+9 animal parts or products that constitutes a big game violation shall be fined not
+10 more than $1,000.00 $2,000.00 nor less than $400.00 $500.00 or imprisoned
+11 for not more than 60 days, or both. Upon a second and all subsequent
+12 convictions or any conviction while under license suspension related to the
+13 requirements of part 4 of this title, the violator shall be fined not more than
+14 $4,000.00 $5,000.00 nor less than $2,000.00 or imprisoned for not more than
+15 60 180 days, or both.
+16 (b) A “big game violation” means:
+17 (1) violations relating to taking, possessing, transporting, buying, or
+18 selling of big game;
+19 (2) violations of chapter 123 of this title and the rules related to
+20 threatened and endangered species;
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 5 of 16
+1 (3) violation of section 4280 of this title relating to criminal
+2 suspensions;
+3 (4) violations of chapter 124 of this title relating to the trade in covered
+4 animal parts or products;
+5 (5) interference with hunting, fishing, or trapping in violation of section
+6 4708 of this title; or
+7 (6) illegal commercial importation or possession of wild animals in
+8 violation of section 4709 of this title.
+9 Sec. 4. 10 V.S.A. § 4552 is amended to read:
+10 § 4552. JURISDICTION; VENUE
+11 The Vermont Criminal Division of the Superior Court shall have exclusive
+12 jurisdiction over fish and wildlife violations with the exception of violations
+13 related to section 4152 and chapters 123 and 124 of this title. Venue for
+14 adjudicating fish and wildlife violations shall be the unit of the Criminal
+15 Division of the Superior Court having jurisdiction over the geographical area
+16 where the offense is stated to have occurred.
+17 Sec. 5. 10 V.S.A. § 4572 is amended to read:
+18 § 4572. DEFINITIONS
+19 (a) As used in this subchapter, a minor fish and wildlife violation means:
+20 (1) a violation of 10 V.S.A. § 4145 (violation of access and landing area
+21 rules);
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 6 of 16
+1 (2) a violation of 10 V.S.A. § 4251 (taking wild animals and fish
+2 without a license);
+3 (3) a violation of 10 V.S.A. § 4266 (failure to carry a license on person
+4 or failure to exhibit license);
+5 (4) a violation of 10 V.S.A. § 4267 (false statements in license
+6 application; altering license; transferring license to another person; using
+7 another person’s license; or guiding an unlicensed person);
+8 (5) a violation of 10 V.S.A. § 4713 (tree or ground stands or blinds); or
+9 (6) [Repealed.]
+10 (7) a violation of a biological collection rule adopted by the Board under
+11 part 4 of this title; or
+12 (8) except for big game offenses and under revocation offenses, a
+13 warden may determine that a fish and wildlife violation not listed in this
+14 section should be charged as a minor violation based on factors such as:
+15 (A) the offender has no prior history of violations;
+16 (B) the offender was cooperative and forthcoming or reported the
+17 violation;
+18 (C) there are mitigating circumstances;
+19 (D) the totality of circumstances would lead a reasonable person to
+20 believe that the offense is minor in nature;
+21 (E) there is no possibility of forfeiture; and
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 7 of 16
+1 (F) there is no need for a criminal warrant to investigate the violation.
+2 (b) “Bureau” means the Judicial Bureau as created in 4 V.S.A. § 1102.
+3 Sec. 6. 10 V.S.A. § 4085 is added to read:
+4 § 4085. REPTILES AND AMPHIBIANS
+5 The Commissioner may adopt rules related to the protection, conservation,
+6 and taking of reptiles and amphibians. The rules may:
+7 (1) prohibit the possession and importation of species that pose a threat
+8 to species and ecosystems in Vermont and allow the Department to establish a
+9 list of prohibited or restricted species;
+10 (2) allow for waivers for possession of prohibited species legally
+11 acquired as a pet prior to July 1, 2025;
+12 (3) prohibit the taking and collection of specified reptiles and
+13 amphibians;
+14 (4) establish open seasons for common species;
+15 (5) establish daily, season, and possession limits for common species;
+16 (6) establish territorial limits for any rule under this subchapter;
+17 (7) prescribe the manner and means of taking any species or variety,
+18 including reporting and tagging of game;
+19 (8) establish restrictions on taking based upon sex, maturity, or other
+20 physical distinction of the species or variety pursued; and
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 8 of 16
+1 (9) designate Wildlife Management Units for various species or
+2 varieties.
+3 Sec. 7. 10 V.S.A. § 4709 is amended to read:
+4 § 4709. TRANSPORT, IMPORTATION, POSSESSION, AND STOCKING
+5 OF WILD ANIMALS; POSSESSION OF WILD BOAR OR FERAL
+6 SWINE
+7 (a) A person shall not bring into, transport into, transport within, transport
+8 through, or possess in the State any live wild bird or animal of any kind,
+9 including reptiles, amphibians, or any manner of feral swine, without
+10 authorization from the Commissioner or his or her the Commissioner’s
+11 designee. The importation permit may be granted under such regulations
+12 therefor as rules, requirements, or conditions that the Commissioner shall
+13 prescribe and only after the Commissioner has made such investigation and
+14 inspection of the birds or animals as she or he the Commissioner may deem
+15 necessary. The Department may dispose of unlawfully possessed or imported
+16 wildlife as it may judge best, and the State may collect treble damages from the
+17 violator of this subsection for all expenses incurred.
+18 (b) No person shall bring into the State from another country, state, or
+19 province wildlife illegally taken, transported, or possessed contrary to the laws
+20 governing the country, state, or province from which the wildlife originated.
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 9 of 16
+1 (c) No person shall place a Vermont-issued tag on wildlife taken outside
+2 the State. No person shall report big game in Vermont when the wildlife is
+3 taken outside the State.
+4 (d) Nothing in this section shall prohibit the Commissioner or duly
+5 authorized agents of the Department of Fish and Wildlife from bringing into
+6 the State for the purpose of planting, introducing, or stocking or from planting,
+7 introducing, or stocking in the State any wild bird or animal.
+8 (e) A person shall not take, collect, possess, sell, import, or export any wild
+9 bird or animal, or parts thereof, dead or alive, for commercial purposes unless
+10 authorized by the rules of the Board, rules of the Commissioner, or a permit
+11 from the Commissioner.
+12 (f) A person shall not take, collect, or possess any reptile or amphibian, or
+13 parts thereof, dead or alive, for personal use unless authorized by the rules of
+14 the Commissioner or a permit from the Commissioner.
+15 (g) Any person who violates this section may be subject to the penalties set
+16 forth in section 4518 of this title and also may be required to pay additional
+17 penalties based on reasonable mitigation and potential economic benefit
+18 associated with commercial trade.
+19 (h) The Commissioner may bring an action in the unit of the Criminal
+20 Division of the Superior Court having jurisdiction over the geographical area
+21 where the offense is stated to have occurred, or the Environmental Division of
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 10 of 16
+1 the Superior Court, to compel reasonable mitigation and recover economic
+2 benefits for commercial collection and trade violations under this subsection.
+3 (i) Applicants shall pay a permit fee of $100.00.
+4 (f)(j)(1) The Commissioner shall not issue a permit under this section for
+5 the importation or possession of the following live species, a hybrid or genetic
+6 variant of the following species, offspring of the following species, or
+7 offspring or a hybrid of a genetically engineered variant of the following
+8 species: feral swine, including wild boar, wild hog, wild swine, feral pig, feral
+9 hog, old world swine, razorback, Eurasian wild boar, or Russian wild boar (Sus
+10 scrofo Linnaeus). A feral swine is:
+11 * * *
+12 Sec. 8. 10 V.S.A. § 5403(a) is amended to read:
+13 (a) Except as authorized under this chapter, a person shall not:
+14 (1) take, possess, or transport wildlife or wild plants that are members of
+15 a threatened or endangered species; or
+16 (2) destroy or adversely impact critical habitat;
+17 (3) sell or offer for sale in intrastate commerce a threatened or
+18 endangered species;
+19 (4) deliver, receive, carry, transport, or ship a threatened or endangered
+20 species in intrastate commerce; or
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 11 of 16
+1 (5) import a threatened or endangered species into or export a threatened
+2 or endangered species from Vermont.
+3 Sec. 9. 10 V.S.A. § 5408 is amended to read:
+4 § 5408. AUTHORIZED TAKINGS; INCIDENTAL TAKINGS;
+5 DESTRUCTION OF CRITICAL HABITAT
+6 (a) Authorized taking. Notwithstanding any provision of this chapter, after
+7 obtaining the advice of the Endangered Species Committee, the Secretary may
+8 permit, under such terms and conditions as the Secretary may require as
+9 necessary to carry out the purposes of this chapter, the taking of a threatened or
+10 endangered species, the destruction of or adverse impact on critical habitat, or
+11 any act otherwise prohibited by this chapter if done for any of the following
+12 purposes:
+13 (1) scientific purposes;
+14 (2) to enhance the propagation or survival of a threatened or endangered
+15 species;
+16 (3) zoological exhibition;
+17 (4) educational purposes;
+18 (5) noncommercial cultural or ceremonial purposes; or
+19 (6) special purposes consistent with the purposes of the federal
+20 Endangered Species Act.
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 12 of 16
+1 (b) Incidental taking. After obtaining the advice of the Endangered Species
+2 Committee, the Secretary may permit, under such terms and conditions as
+3 necessary to carry out the purposes of this chapter, the incidental taking of a
+4 threatened or endangered species or the destruction of or adverse impact on
+5 critical habitat if:
+6 (1) the taking is necessary to conduct an otherwise lawful activity;
+7 (2) the taking is attendant or secondary to, and not the purpose of, the
+8 lawful activity;
+9 (3) the impact of the permitted incidental take is minimized; and
+10 (4) the incidental taking will not impair the conservation or recovery of
+11 any endangered species or threatened species.
+12 * * *
+13 (k) Public notice. Prior Except for threatened and endangered species
+14 listed by the Secretary in accordance with subsection 5410(b) of this title, to
+15 issuing a permit for an incidental taking and prior to the initial issuance or
+16 amendment of a general permit under this section, the Secretary shall provide
+17 for public notice of no not fewer than 30 days, opportunity for written
+18 comment, and opportunity to request a public informational hearing. The
+19 Except for threatened and endangered species listed by the Secretary in
+20 accordance with subsection 5410(b) of this title, the Secretary shall post permit
+21 applications, permit decisions, and the initial or amended general permits on
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 13 of 16
+1 the website of the Agency of Natural Resources. The Except for threatened and
+2 endangered species listed by the Secretary in accordance with subsection
+3 5410(b) of this title, the Secretary also shall provide notice to interested
+4 persons who request notice of permit applications, permit decisions, and
+5 proposed general permits or proposed amendments to general permits.
+6 (l) General permits.
+7 (1) The Secretary may issue general permits for activities that will not
+8 affect the continued survival or recovery of a threatened or endangered species.
+9 * * *
+10 (6) Prior Except for threatened and endangered species listed by the
+11 Secretary in accordance with subsection 5410(b) of this title, prior to issuing an
+12 initial or amended general permit under this subsection, the Secretary shall:
+13 (A) post a draft of the general permit on the Agency website;
+14 (B) provide public notice of at least 30 days; and
+15 (C) provide for written comments or a public hearing, or both.
+16 (7) For applications for coverage under the terms of an issued general
+17 permit, the applicant shall provide notice on a form provided by the Secretary.
+18 The Except for threatened and endangered species listed by the Secretary in
+19 accordance with subsection 5410(b) of this title, the Secretary shall post notice
+20 of the application on the Agency website and shall provide an opportunity for
+21 written comment, regarding whether the application complies with the terms
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 14 of 16
+1 and conditions of the general permit, for ten 10 days following receipt of the
+2 application.
+3 * * *
+4 Sec. 10. 10 V.S.A. § 5410 is amended to read:
+5 § 5410. LOCATION CONFIDENTIAL
+6 (a) The Secretary shall not disclose information regarding the specific
+7 location of threatened or endangered species sites or habitats except that the
+8 Secretary shall disclose information regarding the location of the threatened or
+9 endangered species to:
+10 (1) to the owner of land upon which the species is located;
+11 (2) to a potential buyer of land upon which the species is located who
+12 has a bona fide contract to buy the land and applies to the Secretary for
+13 disclosure of threatened or endangered species information; or
+14 (3) to qualified individuals or organizations, public agencies, and
+15 nonprofit organizations for scientific research or for preservation and planning
+16 purposes when the Secretary determines that the preservation of the species is
+17 not further endangered by the disclosure; or
+18 (4) during regulatory processes with the exception of threatened or
+19 endangered species listed under subsection (b) of this section.
+20 (b) The Secretary shall maintain a subset list of threatened and endangered
+21 species whose specific names shall not be included in regulatory planning.
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 15 of 16
+1 The subset list shall include threatened or endangered species for which the
+2 species names and locations shall not be disclosed because of the risk that the
+3 species will be significantly harmed by unauthorized take, such as illegal
+4 collection, commercial trade, human-caused mortality, or destruction of
+5 habitat. The list shall be based on the rarity of the species, known collection,
+6 and commercial trade activities in Vermont and other states or countries,
+7 incidents of human-caused mortality or destruction of habitat, and other factors
+8 that present a threat to the continued existence of the species.
+9 (c) When the Secretary issues a permit under this chapter to take a
+10 threatened or endangered species or destroy or adversely impact critical habitat
+11 and when the Secretary designates critical habitat by rule under section 5402a
+12 of this title, the Secretary shall disclose only the municipality and general
+13 location where the threatened or endangered species or designated critical
+14 habitat is located. When the Secretary designates critical habitat under section
+15 5402a of this title, the Secretary shall notify the municipality in which the
+16 critical habitat is located and shall disclose the general location of the
+17 designated critical habitat.
+18 Sec. 11. 10 V.S.A. § 4829 is amended to read:
+19 § 4829. PERSON SUFFERING DAMAGE BY DEER OR BLACK BEAR
+20 (a) A person engaged in the business of farming who suffers damage by
+21 deer to the person’s crops, fruit trees, or crop-bearing plants on land not posted
+VT LEG #380522 v.1
+
+BILL AS INTRODUCED H.230
+2025 Page 16 of 16
+1 against the hunting of deer, or a person engaged in the business of farming who
+2 suffers damage by black bear to the person’s cattle, sheep, swine, poultry, or
+3 bees or bee hives on land not posted against hunting or trapping of black bear
+4 is entitled to reimbursement for the damage up to an amount not to exceed
+5 $5,000.00 per year, and may apply to the Department of Fish and Wildlife
+6 within 72 hours of the occurrence of the damage for reimbursement for the
+7 damage. As used in this section, “post” means any signage that would lead a
+8 reasonable person to believe that hunting is prohibited on the land.
+9 (b) As used in this section, a person is “engaged in the business of farming”
+10 if he or she earns at least one-half of the farmer’s annual gross income from the
+11 business of farming, as that term is defined in the Internal Revenue Code, 26
+12 C.F.R. § 1.175-3. [Repealed.]
+13 Sec. 12. EFFECTIVE DATE
+14 This act shall take effect on July 1, 2025.
+VT LEG #380522 v.1
+
+[DELETED:  H P H I R R D S S m c t f t p e d o o c p C e]
+[DELETED:  H P r c A I S § ( s t i p ( c O d ( w u p S]
+[DELETED:  H P § ( o W C r ( e o c l o u ( i a p ( p c p]
+[DELETED:  H P s p S §   ( r r a m f c r $ 6 ( ( s ( t]
+[DELETED:  H P ( s ( a ( 4 ( v S § T j r a D w S § ( ( r]
+[DELETED:  H P ( w ( o ( a a ( ( ( p ( w s ( ( v ( ( b (]
+[DELETED:  H P ( ( S § T a ( t l ( a ( a ( ( ( ( i ( p]
+[DELETED:  H P ( v S §     ( t i a d t p i n w v ( p g]
+[DELETED:  H P ( t t ( a t i ( b a f ( p t ( f p a ( D w]
+[DELETED:  H P t b ( ( t v o s h s * S ( ( a ( ( e ( s]
+[DELETED:  H P ( o S §   ( o p n e a p ( ( s ( ( ( ( E]
+[DELETED:  H P ( C n t c ( ( l ( ( a * ( l i a f c E a a]
+[DELETED:  H P t e 5 p p ( ( a * ( S i ( ( ( ( p T a o w]
+[DELETED:  H P a a * S § ( l S e ( ( h d ( n p n ( e ( s]
+[DELETED:  H P T s s c h a i t ( t a o l h 5 c d S § ( d]
+[DELETED:  H P a s b i $ w d r ( i b C S T]

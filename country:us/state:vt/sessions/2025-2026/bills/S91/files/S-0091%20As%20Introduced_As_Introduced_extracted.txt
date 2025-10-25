@@ -1,0 +1,1545 @@
+Title: BILL AS INTRODUCED S.91
+Official Title: BILL AS INTRODUCED S.91
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 31
+1 S.91
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; housing; residential rental agreements; tenant
+6 rights
+7 Statement of purpose of bill as introduced: This bill proposes to provide
+8 protections to tenants by making the charging of a rental application fee an
+9 unfair commercial practice, requiring certain rental agreements to be in
+10 writing, limiting no-cause evictions and annual rent increases, creating a rental
+11 registry, creating the Office of Tenant’s Rights Advocate, providing for the
+12 right to counsel in eviction proceedings and the expungement of eviction
+13 records, and affording tenants the right to receive notice of a landlord’s intent
+14 to sell an apartment building and to negotiate in good faith and purchase the
+15 building with a down payment revolving fund administered by the Vermont
+16 Housing and Conservation Board. The bill also proposes to add citizenship
+17 and immigration status to the existing discrimination prohibitions in public
+18 accommodations and unfair housing practices.
+19 An act relating to tenant rights
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 2 of 31
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 9 V.S.A. chapter 137 is amended to read:
+3 CHAPTER 137. RESIDENTIAL RENTAL AGREEMENTS
+4 * * *
+5 § 4454. ATTEMPT TO CIRCUMVENT REQUIRED RENTAL
+6 AGREEMENT TERMS
+7 (a) A landlord shall ensure that a rental agreement with a duration of 12
+8 months or longer is in writing and includes:
+9 (1) identification of the parties involved, including contact information
+10 for the owner and any party responsible for managing the property on the
+11 owner’s behalf;
+12 (2) a description of the property subject to the agreement;
+13 (3) the duration of the agreement, including whether the agreement is
+14 periodic or for a fixed term, with clearly specified start and end dates;
+15 (4) the financial obligations of the tenant, including the amount of rent,
+16 the due date, and the method of payment;
+17 (5) whether there are penalties for late payment of rent, including the
+18 date the penalty becomes effective and the calculation of the penalty amount;
+19 (6) the amount of any security deposit and the conditions under which
+20 part or all of the security deposit may be withheld, in compliance with section
+21 4461 of this title;
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 3 of 31
+1 (7) a description of the responsibility of the parties for maintenance and
+2 repair of the property;
+3 (8) a description of the responsibilities of the parties for the provision of,
+4 and payment for, utilities for the rental unit;
+5 (9) a statement of the rights and responsibilities of the parties to the
+6 agreement;
+7 (10) an accurate statement of the protections against retaliation in
+8 section 4465 of this title;
+9 (11) a statement that a tenant may not be evicted without cause; and
+10 (12) any other disclosure required by law.
+11 (b) No rental agreement shall contain any provision that attempts to
+12 circumvent or circumvents obligations and remedies established by this chapter
+13 and any such provision shall be unenforceable and void.
+14 Subchapter 2. Residential Rental Agreements
+15 * * *
+16 § 4456a. RESIDENTIAL RENTAL APPLICATION FEES; PROHIBITED
+17 ACTS
+18 (a) A landlord or a landlord’s agent shall not:
+19 (1) charge an application fee to any individual in order to apply to enter
+20 into a rental agreement for a residential dwelling unit; or
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 4 of 31
+1 (2) request the Social Security number of an individual or a member of
+2 an individual’s household in order to apply to enter into a rental agreement for
+3 a residential dwelling unit or to conduct a criminal background or credit check.
+4 (b) As used in this section, an “application fee” includes any fee or charge
+5 associated with a credit check, background check, or third-party processing
+6 payment or any other costs associated with a rental agreement application.
+7 (c) If required during the application process, a landlord or a landlord’s
+8 agent shall accept an original or a copy of any form of government-issued
+9 identification.
+10 (d) This section shall not be construed to prohibit a person from charging a
+11 fee to a person in order to apply to rent commercial or nonresidential property.
+12 (e) A person who violates this section commits an unfair practice in
+13 commerce in violation of section 2453 of this title.
+14 * * *
+15 § 4467. TERMINATION OF TENANCY; NOTICE
+16 (a) Termination for nonpayment of rent. The landlord may terminate a
+17 tenancy for nonpayment of rent by providing actual notice to the tenant of the
+18 date on which the tenancy will terminate, which shall be at least 14 days after
+19 the date of the actual notice. The rental agreement shall not terminate if the
+20 tenant pays or tenders rent due through the end of the rental period in which
+21 payment is made or tendered. Acceptance of partial payment of rent shall not
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 5 of 31
+1 constitute a waiver of the landlord’s remedies for nonpayment of rent or an
+2 accord and satisfaction for nonpayment of rent.
+3 (b) Termination for breach of rental agreement.
+4 (1) The landlord may terminate a tenancy for failure of the tenant to
+5 comply with a material term of the rental agreement or with obligations
+6 imposed under this chapter by actual notice given to the tenant at least 30 days
+7 prior to the termination date specified in the notice.
+8 (2) When termination is based on criminal activity, illegal drug activity,
+9 or acts of violence, any of which threaten the health or safety of other
+10 residents, the landlord may terminate the tenancy by providing actual notice to
+11 the tenant of the date on which the tenancy will terminate, which shall be at
+12 least 14 days from the date of the actual notice.
+13 (c) Termination for no cause. In the absence of a written rental agreement,
+14 subject to subdivision (3) of this subsection, the landlord may terminate a
+15 tenancy for no cause as follows:
+16 (1) If rent is payable on a monthly basis, by providing actual notice to
+17 the tenant of the date on which the tenancy will terminate, which shall be:
+18 (A) for tenants who have resided continuously in the same premises
+19 for two years or less, at least 60 days after the date of the actual notice; or
+20 (B) for tenants who have resided continuously in the same premises
+21 for more than two years, at least 90 days after the date of the actual notice.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 6 of 31
+1 (2) If rent is payable on a weekly basis, by providing actual notice to the
+2 tenant of the date on which the tenancy will terminate, which shall be at least
+3 21 days after the date of the actual notice.
+4 (3) This subsection shall apply only in the following circumstances:
+5 (A) the rental unit is one of a two-unit or three-unit owner-occupied
+6 building; or
+7 (B) the rental unit requires renovations that exceed 50 percent of the
+8 rental unit’s value to become or remain habitable, provided that the tenant shall
+9 have the right of first refusal to reoccupy the unit at market rate following
+10 renovations and the tenant had been provided with adequate relocation costs
+11 for the duration of the renovations.
+12 (d) Termination of rental agreement when property is sold. In the absence
+13 of a written rental agreement, a landlord who has contracted to sell the building
+14 may terminate a tenancy by providing actual notice to the tenant of the date on
+15 which the tenancy will terminate, which shall be at least 30 days three months
+16 after the date of the actual notice.
+17 (e) Termination for no cause under terms of written rental agreement.
+18 Subject to subdivision (2) of this subsection:
+19 (1) If there is a written rental agreement, the notice to terminate for no
+20 cause shall be at least 30 days before the end or expiration of the stated term of
+21 the rental agreement if the tenancy has continued for two years or less. The
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 7 of 31
+1 notice to terminate for no cause shall be at least 60 days before the end or
+2 expiration of the term of the rental agreement if the tenancy has continued for
+3 more than two years. If there is a written week-to-week rental agreement, the
+4 notice to terminate for no cause shall be at least seven days; however, a notice
+5 to terminate for nonpayment of rent shall be as provided in subsection (a) of
+6 this section.
+7 (2) This subsection shall apply only in the following circumstances:
+8 (A) the rental unit is one of a two-unit or three-unit owner-occupied
+9 building; or
+10 (B) the rental unit requires renovations that exceed 50 percent of the
+11 rental unit’s value to become or remain habitable, provided that the tenant shall
+12 have the right of first refusal to reoccupy the unit at market rate following
+13 renovations and the tenant had been provided with adequate relocation costs
+14 for the duration of the renovations.
+15 (f) Termination date for no cause prohibited. In all cases, the termination
+16 date shall be specifically stated in the notice.
+17 (1)(A) Except as otherwise provided in this section, a landlord shall not
+18 terminate a tenancy without cause.
+19 (B) For purposes of this subsection (f), the expiration of a rental
+20 agreement shall not constitute cause for a landlord to terminate a tenancy.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 8 of 31
+1 (2) A landlord may terminate a tenancy for no cause, if allowed by the
+2 rental agreement, within the first three months of a new tenancy.
+3 (3)(A) A landlord may terminate a tenancy for no cause if the landlord
+4 or a member of the landlord’s immediate family has a good faith intention to
+5 occupy the premises.
+6 (B) A landlord shall provide the tenant with actual notice of the date
+7 on which the tenancy will terminate, which shall be at least six months after
+8 the date of the actual notice.
+9 (C) As used in this subdivision (3), “immediate family” means:
+10 (i) an adult person related by blood, adoption, marriage, or as
+11 defined or described in similar law in another jurisdiction;
+12 (ii) an unmarried parent of a joint child;
+13 (iii) a child, grandchild, foster child, ward, or guardian; or
+14 (iv) a child, grandchild, foster child, ward, or guardian of any
+15 person listed in subdivision (i) or (ii) of this subdivision (f)(3)(C).
+16 (4) A landlord may terminate a tenancy for no cause pursuant to
+17 subsection (c) or (e) of this section.
+18 (5) A landlord may terminate a tenancy of shared occupancy for no
+19 cause pursuant to subsection (h) of this section.
+20 (6) A landlord may terminate a tenancy in order to comply with a State
+21 law or municipal government order that requires the tenant to leave.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 9 of 31
+1 (g) Conversion to condominium. If the building is being converted to
+2 condominiums, notice shall be given in accordance with 27 V.S.A. chapter 15,
+3 subchapter 2.
+4 (h) Termination of shared occupancy. A rental arrangement whereby a
+5 person rents to another individual one or more rooms in his or her the person’s
+6 personal residence that includes the shared use of any of the common living
+7 spaces, such as the living room, kitchen, or bathroom, may be terminated by
+8 either party by providing actual notice to the other of the date the rental
+9 agreement shall terminate, which shall be at least 15 days after the date of
+10 actual notice if the rent is payable monthly and at least seven days after the
+11 date of actual notice if the rent is payable weekly.
+12 (i) Multiple Termination date; multiple notices.
+13 (1) A landlord shall specifically state a termination date in a notice of
+14 termination.
+15 (2) All actual notices that are in compliance with this section shall not
+16 invalidate any other actual notice and shall be a valid basis for commencing
+17 and maintaining an action for possession pursuant to this chapter, 10 V.S.A.
+18 chapter 153, 11 V.S.A. chapter 14, or 12 V.S.A. chapter 169, notwithstanding
+19 that the notices may be based on different or unrelated grounds, dates of
+20 termination, or that the notices are sent at different times prior to or during an
+21 ejectment action. A landlord may maintain an ejectment action and rely on as
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 10 of 31
+1 many grounds for ejectment as are allowed by law at any time during the
+2 eviction process.
+3 (j) Payment after termination; effect.
+4 (1) A landlord’s acceptance of full or partial rent payment by or on
+5 behalf of a tenant after the termination of the tenancy for reasons other than
+6 nonpayment of rent or at any time during the ejectment action shall not result
+7 in the dismissal of an ejectment action or constitute a waiver of the landlord’s
+8 remedies to proceed with an eviction action based on any of the following:
+9 (A) the tenant’s breach of the terms of a rental agreement pursuant to
+10 subsection (b) of this section;
+11 (B) the tenant’s breach of the tenant’s obligations pursuant to
+12 subsections 4456(a), (b), and (c) of this title; or
+13 (C) for no cause pursuant to subsections (c), (d), (e), and (h) of this
+14 section.
+15 (2) This subsection shall apply to 10 V.S.A. chapter 153, 11 V.S.A.
+16 chapter 14, and 12 V.S.A. chapter 169.
+17 (k) Commencement of ejectment action. A notice to terminate a tenancy
+18 shall be insufficient to support a judgment of eviction unless the proceeding is
+19 commenced not later than 60 days from the termination date set forth in the
+20 notice.
+21 * * *
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 11 of 31
+1 § 4468b. MAXIMUM INCREASE IN RENT
+2 (a) A landlord shall not increase rent during any 12-month period in an
+3 amount greater than one percent above the U.S. Consumer Price Index for all
+4 Urban Consumers, Housing Component, published by the U.S. Bureau of
+5 Labor Statistics in the periodical “Monthly Labor Review and Handbook of
+6 Labor Statistics” as established annually by the Department of Housing and
+7 Community Development, or five percent, whichever is less.
+8 (b) A landlord shall specify in a notice of increase of rent:
+9 (1) the amount of the rent increase;
+10 (2) the amount of the new rent; and
+11 (3) the date on which the increase becomes effective.
+12 (c) A landlord shall notify a tenant of an increase in rent not less than 90
+13 days prior to the date the increase takes effect.
+14 * * *
+15 Subchapter 5. Tenant Rights to Purchase Property
+16 § 4476. TENANT RIGHTS TO PURCHASE PROPERTY
+17 (a) Notice.
+18 (1) An owner of a residential rental property that contains three or more
+19 dwelling units shall give to each tenant and to the Commissioner of Housing
+20 and Community Development notice by certified mail, return receipt
+21 requested, of the owner’s intention to sell the property.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 12 of 31
+1 (2) If a tenant refuses the notice, or it is otherwise undeliverable, the
+2 owner shall send the notice by first-class mail to the tenant’s last known
+3 mailing address.
+4 (3) The notice shall state the following:
+5 (A) the owner intends to sell the property;
+6 (B) the price, terms, and conditions under which the owner offers the
+7 property for sale;
+8 (C) a list of the affected tenants;
+9 (D) the status of compliance with applicable statutes, rules, and
+10 permits, to the owner’s best knowledge, and the reasons for any
+11 noncompliance; and
+12 (E) that for 45 days following the notice, the owner shall not make a
+13 final unconditional acceptance of an offer to purchase the property and that if
+14 within the 45 days the owner receives notice pursuant to subsection (c) of this
+15 section that a majority of the tenants intend to consider purchase of the
+16 property, the owner shall not make a final unconditional acceptance of an offer
+17 to purchase the property for an additional 120 days, starting from the 46th day
+18 following notice, except one from a group representing a majority of the
+19 tenants or from a nonprofit corporation approved by a majority of the tenants.
+20 (b) Resident intent to negotiate; timetable.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 13 of 31
+1 (1) The tenants shall have 45 days following notice under subsection (a)
+2 of this section to determine whether they intend to consider purchase of the
+3 property through a group representing a majority of the tenants or a nonprofit
+4 corporation approved by a majority of the tenants.
+5 (2) A majority of the tenants is determined by one vote per leasehold,
+6 and no tenant shall have more than three votes or 30 percent of the aggregate
+7 property vote, whichever is less.
+8 (3) During this 45-day period, the owner shall not accept a final
+9 unconditional offer to purchase the property.
+10 (c) Response to notice; required action.
+11 (1) If the owner does not receive notice from the tenants during the 45-
+12 day period, or if the tenants notify the owner that they do not intend to consider
+13 purchase of the property, the owner has no further restrictions regarding sale of
+14 the building pursuant to this section.
+15 (2) If, during the 45-day period, the owner receives notice in writing that
+16 a majority of the tenants intend to consider purchase of the property, then the
+17 owner shall:
+18 (A) not accept a final unconditional offer to purchase from a party
+19 other than leaseholders for 120 days following the 45-day period, a total of 165
+20 days following the notice from the leaseholders;
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 14 of 31
+1 (B) negotiate in good faith with the group representing a majority of
+2 the tenants or a nonprofit corporation approved by a majority of the tenants
+3 concerning purchase of the property;
+4 (C) consider any offer to purchase from a group representing a
+5 majority of the tenants or from a nonprofit corporation approved by a majority
+6 of the tenants; and
+7 (D) accept an offer from the tenants or nonprofit corporation if the
+8 offer:
+9 (i) equals or exceeds the appraised value of the property; or
+10 (ii) is on substantially equivalent terms and conditions as the best
+11 reasonable offer from another third party.
+12 (d) Penalties.
+13 (1) An owner who sells a property without complying with this section:
+14 (A) is liable to the tenants in the aggregate amount of $10,000.00 or
+15 50 percent of the gain realized by the owner from the sale, whichever is
+16 greater; and
+17 (B) commits an unfair practice in trade and commerce in violation of
+18 section 2453 of this title.
+19 (2) The Department of Housing and Community Development may:
+20 (A) impose an administrative penalty of not more than $5,000.00 per
+21 violation;
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 15 of 31
+1 (B) bring a civil action for damages or injunctive relief, or both; and
+2 (C) refer a violation to the Attorney General or State’s Attorney for
+3 enforcement pursuant to subdivision (1)(B) of this subsection (d).
+4 (e) Exceptions. The provisions of this section do not apply when the sale,
+5 transfer, or conveyance of the property occurs through one or more of the
+6 following:
+7 (1) through a foreclosure sale;
+8 (2) to a member of the owner’s family or to a trust for the sole benefit of
+9 members of the owner’s family;
+10 (3) among the partners who own the property;
+11 (4) incidental to financing the building;
+12 (5) between joint tenants or tenants in common;
+13 (6) pursuant to eminent domain; or
+14 (7) pursuant to a municipal tax sale.
+15 (f) Requirement for new notice of intent to sell.
+16 (1) Subject to subdivision (2) of this subsection, a notice of intent to sell
+17 issued pursuant to subsection (a) of this section is valid:
+18 (A) for a period of one year from the expiration of the 45-day period
+19 following the date of the notice; or
+20 (B) if the owner has entered into a binding purchase and sale
+21 agreement with a group representing a majority of the tenants or a nonprofit
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 16 of 31
+1 corporation approved by a majority of the tenants within one year from the
+2 expiration of the 45-day period following the date of the notice until the
+3 completion of the sale of the property under the agreement or the expiration of
+4 the agreement, whichever is sooner.
+5 (2) During the period in which a notice of intent to sell is valid, an
+6 owner shall provide a new notice of intent to sell, consistent with the
+7 requirements of subsection (a) of this section, prior to making an offer to sell
+8 the property or accepting an offer to purchase the property that is either more
+9 than five percent below the price for which the property was initially offered
+10 for sale or less than five percent above the final written offer from a group
+11 representing a majority of the tenants or a nonprofit corporation approved by a
+12 majority of the tenants.
+13 (g) Good faith. A group representing a majority of the tenants or a
+14 nonprofit corporation approved by a majority of the tenants shall negotiate in
+15 good faith with the owner for purchase of the property.
+16 Sec. 2. 3 V.S.A. § 2478 is added to read:
+17 § 2478. STATE RENTAL HOUSING REGISTRY; HOUSING DATA
+18 (a) The Department of Housing and Community Development, in
+19 coordination with the Division of Fire Safety, the Department of Health, the
+20 Enhanced 911 Board, and the Department of Taxes, shall create and maintain a
+21 publicly accessible registry of the rental housing in this State that includes a
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 17 of 31
+1 “dwelling unit” as defined in 9 V.S.A. § 4451 and a “short-term rental” as
+2 defined in 18 V.S.A. § 4301.
+3 (b) The Department of Housing and Community Development shall require
+4 for each unit that is registered the following data:
+5 (1) the name of the owner or landlord and property manager, if
+6 applicable;
+7 (2) phone number, email, and mailing address of the landlord and
+8 property manager, if applicable;
+9 (3) location of the unit and unit number or letter;
+10 (4) year built;
+11 (5) type of rental unit;
+12 (6) number of units in the building;
+13 (7) school property account number;
+14 (8) accessibility of the unit;
+15 (9) number of bedrooms and bathrooms;
+16 (10) for owners of short-term rentals, the number of whole-unit or
+17 partial-unit short-term rentals within the building, or in the case of multiple
+18 buildings on a parcel of land, on the entire lot; and
+19 (11) any other information the Department deems appropriate.
+20 (c) Upon request of the Department of Housing and Community
+21 Development, and at least annually, a municipal, district, or other local
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 18 of 31
+1 government entity that operates a rental housing health and safety program that
+2 requires registration of a rental housing unit and a fee for inclusion on the
+3 registry shall provide to the Department the data for each unit that is required
+4 pursuant to subsection (b) of this section.
+5 Sec. 3. 3 V.S.A. § 2479 is added to read:
+6 § 2479. RENTAL HOUSING REGISTRATION
+7 (a) Except as provided in subsection (c) of this section, an owner of long-
+8 term rental housing that is subject to 9 V.S.A. chapter 137 shall:
+9 (1) file with the Department of Taxes a landlord certificate; and
+10 (2) within 30 days after filing the certificate, register with and pay to the
+11 Department of Housing and Community Development an annual registration
+12 fee of $35.00 per rental unit, unless the owner has within the preceding
+13 12 months:
+14 (A) registered the unit pursuant to subsection (b) of this section; or
+15 (B) registered the unit with a municipal, district, or other local
+16 government entity that operates a rental housing health and safety program.
+17 (b) Except as provided in subsection (c) of this section, an owner of a
+18 short-term rental, as defined in 18 V.S.A. § 4301, shall, annually, within
+19 30 days after renting a unit, register with and pay to the Department of
+20 Housing and Community Development an annual registration fee of $35.00 per
+21 rental unit, unless the owner has within the preceding 12 months:
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 19 of 31
+1 (1) registered the unit pursuant to subsection (a) of this section; or
+2 (2) registered the unit with a municipal, district, or other local
+3 government entity that operates a rental housing health and safety program.
+4 (c)(1) An owner of a mobile home lot within a mobile home park who has
+5 registered the lot with the Department of Housing and Community
+6 Development and who does not own a mobile home on the lot is exempt from
+7 registering the lot pursuant to this section.
+8 (2) An owner of a mobile home lot within a mobile home park who has
+9 registered the lot with the Department and who owns a mobile home on the lot
+10 that is available for rent or rented shall register the property with the
+11 Department and pay a fee equal to the fee required by subdivision (a)(2) of this
+12 section less any fee paid within the previous 12 months pursuant to 10 V.S.A.
+13 § 6254(c).
+14 (3) An owner of a mobile home who rents the mobile home, whether
+15 located in a mobile home park, shall register pursuant to this section.
+16 (d) An owner of rental housing who fails to register pursuant to this section
+17 shall pay a late registration fee of $150.00 and may be subject to administrative
+18 penalties not to exceed $5,000.00 for each violation.
+19 Sec. 4. 3 V.S.A. § 2480 is added to read:
+20 § 2480. TENANT’S RIGHTS ADVOCATE
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 20 of 31
+1 (a) The Department of Housing and Community Development shall
+2 contract with a nonprofit organization with expertise in tenant’s rights to
+3 establish the Office of Tenant’s Rights Advocate.
+4 (b) The Office of Tenant’s Rights Advocate shall have the following
+5 functions and duties:
+6 (1) educate tenants and landlords about their rights and responsibilities
+7 and rental housing code requirements;
+8 (2) provide information, referrals, and assistance to tenants seeking help
+9 with issues arising from an existing or potential landlord-tenant relationship;
+10 (3) accept referrals from other organizations to assist individuals with
+11 rental housing needs;
+12 (4) mediate issues on behalf of and with the authorization of an
+13 individual tenant;
+14 (5) identify, investigate, and resolve complaints on behalf of individual
+15 tenants and assist them with filing and pursuit of complaints and appeals;
+16 (6) monitor, analyze, and facilitate public comment on the development
+17 and implementation of federal, State, and local laws, rules, and policies related
+18 to housing;
+19 (7) provide technical assistance to tenants intending to purchase
+20 property under 9 V.S.A. § 4476;
+21 (8) provide legal services to tenants facing eviction; and
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 21 of 31
+1 (9) recommend legislative action as may be appropriate to resolve
+2 problems encountered by tenants and landlords.
+3 (c) On or before January 15 of each year, the Office of Tenant’s Rights
+4 Advocate shall submit a report on the activities, performance, and fiscal
+5 accounts of the Office during the preceding calendar year. The report shall be
+6 submitted to the House Committee on General and Housing and the Senate
+7 Committee on Economic Development, Housing and General Affairs.
+8 (d) The Office of Tenant’s Rights Advocate may:
+9 (1) pursue administrative, judicial, and other remedies on behalf of any
+10 individual tenant or group of tenants;
+11 (2) adopt policies and procedures necessary to carry out the provisions
+12 of this chapter; and
+13 (3) take any other action necessary to fulfill the purposes of this section.
+14 (e) All State agencies shall comply with reasonable requests from the
+15 Office of Tenant’s Rights Advocate for information and assistance. The
+16 Department of Housing and Community Development may adopt rules
+17 necessary to ensure the cooperation of State agencies under this section.
+18 (f) In the absence of written consent by a complainant or an individual
+19 using the services of the Office or by a complainant’s or individual’s guardian
+20 or legal representative or the absence of a court order, the Office of Tenant’s
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 22 of 31
+1 Rights Advocate, its employees, and its contractors shall not disclose the
+2 identity of the complainant or individual.
+3 (g) The Office of Tenant’s Rights Advocate, its employees, and its
+4 contractors shall take steps necessary to avoid any conflict of interest relating
+5 to the performance of their responsibilities under this chapter. For the
+6 purposes of this chapter, a conflict of interest exists whenever the Office, its
+7 employees, or its contractors or a person affiliated with the Office, its
+8 employees, or its contractors:
+9 (1) has a direct or indirect interest in the information, referrals, or
+10 assistance provided to individuals about obtaining or providing housing
+11 services;
+12 (2) has a direct ownership interest or investment interest in a place of
+13 housing or housing provider;
+14 (3) is employed by or participating in the management of a place of
+15 housing or housing provider; or
+16 (4) receives or has the right to receive, directly or indirectly, remuneration
+17 under a compensation arrangement with a place of housing or housing
+18 provider.
+19 Sec. 5. 12 V.S.A. § 4857 is added to read:
+20 § 4857. RIGHT TO COUNSEL
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 23 of 31
+1 (a) The defendant in an action brought under subchapter 3 of this chapter
+2 shall have the right to representation by counsel throughout the proceeding.
+3 Upon the filing of the complaint, the court shall notify the defendant that the
+4 defendant has the right to counsel. If the defendant states that the defendant is
+5 unable to pay for counsel, the court shall appoint counsel to be paid by the
+6 State or set a hearing for a determination of the defendant’s ability to pay for
+7 counsel.
+8 (b) In appointing counsel under this section, the court may appoint counsel
+9 from the Office of Tenant’s Rights Advocate established in 3 V.S.A. § 2480.
+10 Sec. 6. 12 V.S.A. § 4858 is added to read:
+11 § 4858. EXPUNGEMENT
+12 (a) A person may file a petition with the court requesting expungement of
+13 an eviction proceeding under subchapter 3 of this chapter. The court shall
+14 provide notice of the petition to the plaintiff landlord at the last known address
+15 of the landlord.
+16 (b) The court shall grant the petition without hearing if the petitioner and
+17 the respondent stipulate to the granting of the petition. The respondent shall
+18 file the stipulation with the court, and the court shall issue the petitioner an
+19 order of expungement and provide notice of the order in accordance with this
+20 section.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 24 of 31
+1 (c) The court shall grant the petition and order that the eviction history
+2 record be expunged if the following conditions are met:
+3 (1) at least five years have elapsed since the issuance of the judgement
+4 under section 4854 of this title;
+5 (2) a subsequent judgement for eviction has not been issued against the
+6 individual arising out of a new incident or occurrence since the judgement
+7 giving rise to the petition;
+8 (3) the person has paid all rent, damages, costs, and reasonable
+9 attorney’s fees awarded as part of an eviction proceeding; and
+10 (4) the court finds that expungement of the eviction history record
+11 serves the interests of justice.
+12 (d) Upon entry of an order expunging files and records under this section,
+13 the proceedings in the matter shall be considered never to have occurred; all
+14 index references thereto shall be deleted; and the participant, the court, and law
+15 enforcement officers and departments shall reply to any request for
+16 information that no record exists with respect to such participant inquiry in any
+17 matter. Copies of the order shall be sent to each agency, entity, or official
+18 named therein.
+19 Sec. 7. TENANT RIGHT TO PURCHASE DOWN PAYMENT
+20 ASSISTANCE PROGRAM
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 25 of 31
+1 (a) The sum of $5,000,000.00 is appropriated from the General Fund to the
+2 Department of Housing and Community Development to grant to the Vermont
+3 Housing and Conservation Board in fiscal year 2026 for the purpose of
+4 establishing the Tenant Right to Purchase Down Payment Assistance Program.
+5 (b)(1) The Agency shall use the funds appropriated in this section to
+6 provide down payment assistance to tenants and nonprofit organizations
+7 exercising their right to purchase a residential dwelling under 9 V.S.A. chapter
+8 137, subchapter 5.
+9 (2) The Agency shall adopt one or more legal mechanisms to ensure that
+10 subsequent sales of a home that is subsidized through the Program are limited
+11 to income-eligible homebuyers.
+12 (c) The Agency may assign its rights under any investment or grant made
+13 under this section to the Vermont Housing and Conservation Board or any
+14 State agency or nonprofit organization qualifying under 26 U.S.C. § 501(c)(3),
+15 provided such assignee acknowledges and agrees to comply with the
+16 provisions of this section.
+17 (d) The Department shall report to the House Committee on General and
+18 Housing and the Senate Committee on Economic Development, Housing and
+19 General Affairs on the status of the Program annually, on or before January 15,
+20 through 2030.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 26 of 31
+1 Sec. 8. 9 V.S.A. § 4501 is amended to read:
+2 § 4501. DEFINITIONS
+3 As used in this chapter:
+4 * * *
+5 (12)(A) “Harass” means to engage in unwelcome conduct that detracts
+6 from, undermines, or interferes with a person’s:
+7 (i) use of a place of public accommodation or any of the
+8 accommodations, advantages, facilities, or privileges of a place of public
+9 accommodation because of the person’s race, creed, color, national origin,
+10 citizenship, immigration status, marital status, sex, sexual orientation, gender
+11 identity, or disability; or
+12 (ii) terms, conditions, privileges, or protections in the sale or rental
+13 of a dwelling or other real estate, or in the provision of services or facilities in
+14 connection with a dwelling or other real estate, because of the person’s race,
+15 sex, sexual orientation, gender identity, age, marital status, religious creed,
+16 color, national origin, citizenship, immigration status, or disability, or because
+17 the person intends to occupy a dwelling with one or more minor children, or
+18 because the person is a recipient of public assistance, or because the person is a
+19 victim of abuse, sexual assault, or stalking.
+20 * * *
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 27 of 31
+1 Sec. 9. 9 V.S.A. § 4502 is amended to read:
+2 § 4502. PUBLIC ACCOMMODATIONS
+3 (a) An owner or operator of a place of public accommodation or an agent
+4 or employee of such owner or operator shall not, because of the race, creed,
+5 color, national origin, citizenship, immigration status, marital status, sex,
+6 sexual orientation, or gender identity of any person, refuse, withhold from, or
+7 deny to that person any of the accommodations, advantages, facilities, and
+8 privileges of the place of public accommodation.
+9 * * *
+10 Sec. 10. 9 V.S.A. § 4503 is amended to read:
+11 § 4503. UNFAIR HOUSING PRACTICES
+12 (a) It shall be unlawful for any person:
+13 (1) To refuse to sell or rent, or refuse to negotiate for the sale or rental
+14 of, or otherwise make unavailable or deny, a dwelling or other real estate to
+15 any person because of the race, sex, sexual orientation, gender identity, age,
+16 marital status, religious creed, color, national origin, citizenship, immigration
+17 status, or disability of a person, or because a person intends to occupy a
+18 dwelling with one or more minor children, or because a person is a recipient of
+19 public assistance, or because a person is a victim of abuse, sexual assault, or
+20 stalking.
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 28 of 31
+1 (2) To discriminate against, or to harass, any person in the terms,
+2 conditions, privileges, and protections of the sale or rental of a dwelling or
+3 other real estate, or in the provision of services or facilities in connection with
+4 a dwelling or other real estate, because of the race, sex, sexual orientation,
+5 gender identity, age, marital status, religious creed, color, national origin,
+6 citizenship, immigration status, or disability of a person, or because a person
+7 intends to occupy a dwelling with one or more minor children, or because a
+8 person is a recipient of public assistance, or because a person is a victim of
+9 abuse, sexual assault, or stalking.
+10 (3) To make, print, or publish, or cause to be made, printed, or published
+11 any notice, statement, or advertisement, with respect to the sale or rental of a
+12 dwelling or other real estate that indicates any preference, limitation, or
+13 discrimination based on race, sex, sexual orientation, gender identity, age,
+14 marital status, religious creed, color, national origin, citizenship, immigration
+15 status, or disability of a person, or because a person intends to occupy a
+16 dwelling with one or more minor children, or because a person is a recipient of
+17 public assistance, or because a person is a victim of abuse, sexual assault, or
+18 stalking.
+19 (4) To represent to any person because of the race, sex, sexual
+20 orientation, gender identity, age, marital status, religious creed, color, national
+21 origin, citizenship, immigration status, or disability of a person, or because a
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 29 of 31
+1 person intends to occupy a dwelling with one or more minor children, or
+2 because a person is a recipient of public assistance, or because a person is a
+3 victim of abuse, sexual assault, or stalking, that any dwelling or other real
+4 estate is not available for inspection, sale, or rental when the dwelling or real
+5 estate is in fact so available.
+6 * * *
+7 (6) To discriminate against any person in the making or purchasing of
+8 loans or providing other financial assistance for real-estate-related transactions
+9 or in the selling, brokering, or appraising of residential real property, because
+10 of the race, sex, sexual orientation, gender identity, age, marital status,
+11 religious creed, color, national origin, citizenship, immigration status, or
+12 disability of a person, or because a person intends to occupy a dwelling with
+13 one or more minor children, or because a person is a recipient of public
+14 assistance, or because a person is a victim of abuse, sexual assault, or stalking.
+15 (7) To engage in blockbusting practices, for profit, which may include
+16 inducing or attempting to induce a person to sell or rent a dwelling by
+17 representations regarding the entry into the neighborhood of a person or
+18 persons of a particular race, sex, sexual orientation, gender identity, age,
+19 marital status, religious creed, color, national origin, citizenship, immigration
+20 status, or disability of a person, or because a person intends to occupy a
+21 dwelling with one or more minor children, or because a person is a recipient of
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 30 of 31
+1 public assistance, or because a person is a victim of abuse, sexual assault, or
+2 stalking.
+3 (8) To deny any person access to or membership or participation in any
+4 multiple listing service, real estate brokers’ organization, or other service,
+5 organization, or facility relating to the business of selling or renting dwellings,
+6 or to discriminate against any person in the terms or conditions of such access,
+7 membership, or participation, on account of race, sex, sexual orientation,
+8 gender identity, age, marital status, religious creed, color, national origin,
+9 citizenship, immigration status, or disability of a person, or because a person is
+10 a recipient of public assistance, or because a person is a victim of abuse, sexual
+11 assault, or stalking.
+12 * * *
+13 (12) To discriminate in land use decisions or in the permitting of
+14 housing because of race, sex, sexual orientation, gender identity, age, marital
+15 status, religious creed, color, national origin, citizenship, immigration status,
+16 disability, the presence of one or more minor children, income, or because of
+17 the receipt of public assistance, or because a person is a victim of abuse, sexual
+18 assault, or stalking, except as otherwise provided by law.
+19 * * *
+20 (d) The provisions of subsection (a) of this section with respect to
+21 discrimination in the sales and rentals of dwellings on the basis of citizenship
+VT LEG #380516 v.1
+BILL AS INTRODUCED S.91
+2025 Page 31 of 31
+1 or immigration status shall not preclude the verification of immigration status
+2 if required by federal law.
+3 Sec. 11. APPROPRIATION
+4 The sum of $4,000,000.00 is appropriated from the General Fund to the
+5 Department of Housing and Community Development in fiscal year 2026,
+6 $2,000,000.00 of which shall be used to fund the Office of Tenant’s Rights
+7 Advocate established in 3 V.S.A. § 2480 and $2,000,000.00 of which shall be
+8 used for legal services through the Office of Tenant’s Rights Advocate.
+9 Sec. 12. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #380516 v.1
+[DELETED:  S P S I S R D S r S p u w r r r t b H a a A]
+[DELETED:  S P I S C * §   ( m ( f o ( ( p ( t ( d ( p 4]
+[DELETED:  S P ( r ( a ( a ( s ( ( ( c a S * §   ( ( i]
+[DELETED:  S P ( a a ( a p ( a i ( f ( c * § ( t d t t p]
+[DELETED:  S P c a ( ( c i p ( o r t l ( s t ( t ( f ( f]
+[DELETED:  S P ( t 2 ( ( b ( r h r f ( o m w a ( S ( c t]
+[DELETED:  S P n e m n t t ( ( b ( r h r f ( d ( t ( a]
+[DELETED:  S P ( r ( o o ( o t ( ( d ( ( ( p ( s ( c ( l]
+[DELETED:  S P ( c s ( p p s e a a d ( ( t ( i a c t t e]
+[DELETED:  S P m e ( ( b n i r ( s ( s ( s ( c ( s c n *]
+[DELETED:  S P § ( a U L L C ( ( ( ( ( d * S § ( ( d a r]
+[DELETED:  S P ( o m ( ( ( p ( ( p n ( f w s p t f t (]
+[DELETED:  S P ( o p c ( a p ( u ( ( d p t ( a o ( o d]
+[DELETED:  S P ( t c ( m o ( o ( ( r ( ( ( 5 g ( s ( ( v]
+[DELETED:  S P ( ( e ( t f ( ( m ( ( ( ( ( ( ( i ( f ( a]
+[DELETED:  S P c e c t ( o r t t f r m ( n g S § ( c E p]
+[DELETED:  S P “ d ( f ( a ( p ( ( ( ( ( ( ( ( p b ( ( D]
+[DELETED:  S P g r r p S § ( t ( ( D f 1 ( ( g ( s 3 H r]
+[DELETED:  S P ( ( g ( r D r ( r t D s § ( l ( s p S §]
+[DELETED:  S P ( c e ( f ( a ( w ( r ( i ( t ( a t ( p (]
+[DELETED:  S P ( p ( A a s C ( ( i ( o ( ( O D n ( u o]
+[DELETED:  S P R i ( c t p e e ( a s ( h ( h ( u p S §]
+[DELETED:  S P ( s U d u S c ( f S § ( a p o ( t f o s]
+[DELETED:  S P ( r ( u ( i g ( a ( s ( t i e i m n S  ]
+[DELETED:  S P ( D H e ( p e 1 ( s t ( u S p p ( H G t]
+[DELETED:  S P S § A * ( f ( a a c i ( o c s c t b v *]
+[DELETED:  S P S § ( o c s d p * S § ( ( o a m s d p s]
+[DELETED:  S P ( c o a g c i p a ( a d d m s d p s ( o o]
+[DELETED:  S P p b v e e * ( l o o r d o a ( i r p m s d]
+[DELETED:  S P p s ( m o o m g c a a * ( h s d t a * ( d]
+[DELETED:  S P o i S T D $ A u S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.91
+2025 Page 1 of 31
+1 S.91
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Commerce and trade; housing; residential rental agreements; tenant
+6 rights
+7 Statement of purpose of bill as introduced: This bill proposes to provide
+8 protections to tenants by making the charging of a rental application fee an
+9 unfair commercial practice, requiring certain rental agreements to be in
+10 writing, limiting no-cause evictions and annual rent increases, creating a rental
+11 registry, creating the Office of Tenant’s Rights Advocate, providing for the
+12 right to counsel in eviction proceedings and the expungement of eviction
+13 records, and affording tenants the right to receive notice of a landlord’s intent
+14 to sell an apartment building and to negotiate in good faith and purchase the
+15 building with a down payment revolving fund administered by the Vermont
+16 Housing and Conservation Board. The bill also proposes to add citizenship
+17 and immigration status to the existing discrimination prohibitions in public
+18 accommodations and unfair housing practices.
+19 An act relating to tenant rights
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 2 of 31
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 9 V.S.A. chapter 137 is amended to read:
+3 CHAPTER 137. RESIDENTIAL RENTAL AGREEMENTS
+4 * * *
+5 § 4454. ATTEMPT TO CIRCUMVENT REQUIRED RENTAL
+6 AGREEMENT TERMS
+7 (a) A landlord shall ensure that a rental agreement with a duration of 12
+8 months or longer is in writing and includes:
+9 (1) identification of the parties involved, including contact information
+10 for the owner and any party responsible for managing the property on the
+11 owner’s behalf;
+12 (2) a description of the property subject to the agreement;
+13 (3) the duration of the agreement, including whether the agreement is
+14 periodic or for a fixed term, with clearly specified start and end dates;
+15 (4) the financial obligations of the tenant, including the amount of rent,
+16 the due date, and the method of payment;
+17 (5) whether there are penalties for late payment of rent, including the
+18 date the penalty becomes effective and the calculation of the penalty amount;
+19 (6) the amount of any security deposit and the conditions under which
+20 part or all of the security deposit may be withheld, in compliance with section
+21 4461 of this title;
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 3 of 31
+1 (7) a description of the responsibility of the parties for maintenance and
+2 repair of the property;
+3 (8) a description of the responsibilities of the parties for the provision of,
+4 and payment for, utilities for the rental unit;
+5 (9) a statement of the rights and responsibilities of the parties to the
+6 agreement;
+7 (10) an accurate statement of the protections against retaliation in
+8 section 4465 of this title;
+9 (11) a statement that a tenant may not be evicted without cause; and
+10 (12) any other disclosure required by law.
+11 (b) No rental agreement shall contain any provision that attempts to
+12 circumvent or circumvents obligations and remedies established by this chapter
+13 and any such provision shall be unenforceable and void.
+14 Subchapter 2. Residential Rental Agreements
+15 * * *
+16 § 4456a. RESIDENTIAL RENTAL APPLICATION FEES; PROHIBITED
+17 ACTS
+18 (a) A landlord or a landlord’s agent shall not:
+19 (1) charge an application fee to any individual in order to apply to enter
+20 into a rental agreement for a residential dwelling unit; or
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 4 of 31
+1 (2) request the Social Security number of an individual or a member of
+2 an individual’s household in order to apply to enter into a rental agreement for
+3 a residential dwelling unit or to conduct a criminal background or credit check.
+4 (b) As used in this section, an “application fee” includes any fee or charge
+5 associated with a credit check, background check, or third-party processing
+6 payment or any other costs associated with a rental agreement application.
+7 (c) If required during the application process, a landlord or a landlord’s
+8 agent shall accept an original or a copy of any form of government-issued
+9 identification.
+10 (d) This section shall not be construed to prohibit a person from charging a
+11 fee to a person in order to apply to rent commercial or nonresidential property.
+12 (e) A person who violates this section commits an unfair practice in
+13 commerce in violation of section 2453 of this title.
+14 * * *
+15 § 4467. TERMINATION OF TENANCY; NOTICE
+16 (a) Termination for nonpayment of rent. The landlord may terminate a
+17 tenancy for nonpayment of rent by providing actual notice to the tenant of the
+18 date on which the tenancy will terminate, which shall be at least 14 days after
+19 the date of the actual notice. The rental agreement shall not terminate if the
+20 tenant pays or tenders rent due through the end of the rental period in which
+21 payment is made or tendered. Acceptance of partial payment of rent shall not
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 5 of 31
+1 constitute a waiver of the landlord’s remedies for nonpayment of rent or an
+2 accord and satisfaction for nonpayment of rent.
+3 (b) Termination for breach of rental agreement.
+4 (1) The landlord may terminate a tenancy for failure of the tenant to
+5 comply with a material term of the rental agreement or with obligations
+6 imposed under this chapter by actual notice given to the tenant at least 30 days
+7 prior to the termination date specified in the notice.
+8 (2) When termination is based on criminal activity, illegal drug activity,
+9 or acts of violence, any of which threaten the health or safety of other
+10 residents, the landlord may terminate the tenancy by providing actual notice to
+11 the tenant of the date on which the tenancy will terminate, which shall be at
+12 least 14 days from the date of the actual notice.
+13 (c) Termination for no cause. In the absence of a written rental agreement,
+14 subject to subdivision (3) of this subsection, the landlord may terminate a
+15 tenancy for no cause as follows:
+16 (1) If rent is payable on a monthly basis, by providing actual notice to
+17 the tenant of the date on which the tenancy will terminate, which shall be:
+18 (A) for tenants who have resided continuously in the same premises
+19 for two years or less, at least 60 days after the date of the actual notice; or
+20 (B) for tenants who have resided continuously in the same premises
+21 for more than two years, at least 90 days after the date of the actual notice.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 6 of 31
+1 (2) If rent is payable on a weekly basis, by providing actual notice to the
+2 tenant of the date on which the tenancy will terminate, which shall be at least
+3 21 days after the date of the actual notice.
+4 (3) This subsection shall apply only in the following circumstances:
+5 (A) the rental unit is one of a two-unit or three-unit owner-occupied
+6 building; or
+7 (B) the rental unit requires renovations that exceed 50 percent of the
+8 rental unit’s value to become or remain habitable, provided that the tenant shall
+9 have the right of first refusal to reoccupy the unit at market rate following
+10 renovations and the tenant had been provided with adequate relocation costs
+11 for the duration of the renovations.
+12 (d) Termination of rental agreement when property is sold. In the absence
+13 of a written rental agreement, a landlord who has contracted to sell the building
+14 may terminate a tenancy by providing actual notice to the tenant of the date on
+15 which the tenancy will terminate, which shall be at least 30 days three months
+16 after the date of the actual notice.
+17 (e) Termination for no cause under terms of written rental agreement.
+18 Subject to subdivision (2) of this subsection:
+19 (1) If there is a written rental agreement, the notice to terminate for no
+20 cause shall be at least 30 days before the end or expiration of the stated term of
+21 the rental agreement if the tenancy has continued for two years or less. The
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 7 of 31
+1 notice to terminate for no cause shall be at least 60 days before the end or
+2 expiration of the term of the rental agreement if the tenancy has continued for
+3 more than two years. If there is a written week-to-week rental agreement, the
+4 notice to terminate for no cause shall be at least seven days; however, a notice
+5 to terminate for nonpayment of rent shall be as provided in subsection (a) of
+6 this section.
+7 (2) This subsection shall apply only in the following circumstances:
+8 (A) the rental unit is one of a two-unit or three-unit owner-occupied
+9 building; or
+10 (B) the rental unit requires renovations that exceed 50 percent of the
+11 rental unit’s value to become or remain habitable, provided that the tenant shall
+12 have the right of first refusal to reoccupy the unit at market rate following
+13 renovations and the tenant had been provided with adequate relocation costs
+14 for the duration of the renovations.
+15 (f) Termination date for no cause prohibited. In all cases, the termination
+16 date shall be specifically stated in the notice.
+17 (1)(A) Except as otherwise provided in this section, a landlord shall not
+18 terminate a tenancy without cause.
+19 (B) For purposes of this subsection (f), the expiration of a rental
+20 agreement shall not constitute cause for a landlord to terminate a tenancy.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 8 of 31
+1 (2) A landlord may terminate a tenancy for no cause, if allowed by the
+2 rental agreement, within the first three months of a new tenancy.
+3 (3)(A) A landlord may terminate a tenancy for no cause if the landlord
+4 or a member of the landlord’s immediate family has a good faith intention to
+5 occupy the premises.
+6 (B) A landlord shall provide the tenant with actual notice of the date
+7 on which the tenancy will terminate, which shall be at least six months after
+8 the date of the actual notice.
+9 (C) As used in this subdivision (3), “immediate family” means:
+10 (i) an adult person related by blood, adoption, marriage, or as
+11 defined or described in similar law in another jurisdiction;
+12 (ii) an unmarried parent of a joint child;
+13 (iii) a child, grandchild, foster child, ward, or guardian; or
+14 (iv) a child, grandchild, foster child, ward, or guardian of any
+15 person listed in subdivision (i) or (ii) of this subdivision (f)(3)(C).
+16 (4) A landlord may terminate a tenancy for no cause pursuant to
+17 subsection (c) or (e) of this section.
+18 (5) A landlord may terminate a tenancy of shared occupancy for no
+19 cause pursuant to subsection (h) of this section.
+20 (6) A landlord may terminate a tenancy in order to comply with a State
+21 law or municipal government order that requires the tenant to leave.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 9 of 31
+1 (g) Conversion to condominium. If the building is being converted to
+2 condominiums, notice shall be given in accordance with 27 V.S.A. chapter 15,
+3 subchapter 2.
+4 (h) Termination of shared occupancy. A rental arrangement whereby a
+5 person rents to another individual one or more rooms in his or her the person’s
+6 personal residence that includes the shared use of any of the common living
+7 spaces, such as the living room, kitchen, or bathroom, may be terminated by
+8 either party by providing actual notice to the other of the date the rental
+9 agreement shall terminate, which shall be at least 15 days after the date of
+10 actual notice if the rent is payable monthly and at least seven days after the
+11 date of actual notice if the rent is payable weekly.
+12 (i) Multiple Termination date; multiple notices.
+13 (1) A landlord shall specifically state a termination date in a notice of
+14 termination.
+15 (2) All actual notices that are in compliance with this section shall not
+16 invalidate any other actual notice and shall be a valid basis for commencing
+17 and maintaining an action for possession pursuant to this chapter, 10 V.S.A.
+18 chapter 153, 11 V.S.A. chapter 14, or 12 V.S.A. chapter 169, notwithstanding
+19 that the notices may be based on different or unrelated grounds, dates of
+20 termination, or that the notices are sent at different times prior to or during an
+21 ejectment action. A landlord may maintain an ejectment action and rely on as
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 10 of 31
+1 many grounds for ejectment as are allowed by law at any time during the
+2 eviction process.
+3 (j) Payment after termination; effect.
+4 (1) A landlord’s acceptance of full or partial rent payment by or on
+5 behalf of a tenant after the termination of the tenancy for reasons other than
+6 nonpayment of rent or at any time during the ejectment action shall not result
+7 in the dismissal of an ejectment action or constitute a waiver of the landlord’s
+8 remedies to proceed with an eviction action based on any of the following:
+9 (A) the tenant’s breach of the terms of a rental agreement pursuant to
+10 subsection (b) of this section;
+11 (B) the tenant’s breach of the tenant’s obligations pursuant to
+12 subsections 4456(a), (b), and (c) of this title; or
+13 (C) for no cause pursuant to subsections (c), (d), (e), and (h) of this
+14 section.
+15 (2) This subsection shall apply to 10 V.S.A. chapter 153, 11 V.S.A.
+16 chapter 14, and 12 V.S.A. chapter 169.
+17 (k) Commencement of ejectment action. A notice to terminate a tenancy
+18 shall be insufficient to support a judgment of eviction unless the proceeding is
+19 commenced not later than 60 days from the termination date set forth in the
+20 notice.
+21 * * *
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 11 of 31
+1 § 4468b. MAXIMUM INCREASE IN RENT
+2 (a) A landlord shall not increase rent during any 12-month period in an
+3 amount greater than one percent above the U.S. Consumer Price Index for all
+4 Urban Consumers, Housing Component, published by the U.S. Bureau of
+5 Labor Statistics in the periodical “Monthly Labor Review and Handbook of
+6 Labor Statistics” as established annually by the Department of Housing and
+7 Community Development, or five percent, whichever is less.
+8 (b) A landlord shall specify in a notice of increase of rent:
+9 (1) the amount of the rent increase;
+10 (2) the amount of the new rent; and
+11 (3) the date on which the increase becomes effective.
+12 (c) A landlord shall notify a tenant of an increase in rent not less than 90
+13 days prior to the date the increase takes effect.
+14 * * *
+15 Subchapter 5. Tenant Rights to Purchase Property
+16 § 4476. TENANT RIGHTS TO PURCHASE PROPERTY
+17 (a) Notice.
+18 (1) An owner of a residential rental property that contains three or more
+19 dwelling units shall give to each tenant and to the Commissioner of Housing
+20 and Community Development notice by certified mail, return receipt
+21 requested, of the owner’s intention to sell the property.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 12 of 31
+1 (2) If a tenant refuses the notice, or it is otherwise undeliverable, the
+2 owner shall send the notice by first-class mail to the tenant’s last known
+3 mailing address.
+4 (3) The notice shall state the following:
+5 (A) the owner intends to sell the property;
+6 (B) the price, terms, and conditions under which the owner offers the
+7 property for sale;
+8 (C) a list of the affected tenants;
+9 (D) the status of compliance with applicable statutes, rules, and
+10 permits, to the owner’s best knowledge, and the reasons for any
+11 noncompliance; and
+12 (E) that for 45 days following the notice, the owner shall not make a
+13 final unconditional acceptance of an offer to purchase the property and that if
+14 within the 45 days the owner receives notice pursuant to subsection (c) of this
+15 section that a majority of the tenants intend to consider purchase of the
+16 property, the owner shall not make a final unconditional acceptance of an offer
+17 to purchase the property for an additional 120 days, starting from the 46th day
+18 following notice, except one from a group representing a majority of the
+19 tenants or from a nonprofit corporation approved by a majority of the tenants.
+20 (b) Resident intent to negotiate; timetable.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 13 of 31
+1 (1) The tenants shall have 45 days following notice under subsection (a)
+2 of this section to determine whether they intend to consider purchase of the
+3 property through a group representing a majority of the tenants or a nonprofit
+4 corporation approved by a majority of the tenants.
+5 (2) A majority of the tenants is determined by one vote per leasehold,
+6 and no tenant shall have more than three votes or 30 percent of the aggregate
+7 property vote, whichever is less.
+8 (3) During this 45-day period, the owner shall not accept a final
+9 unconditional offer to purchase the property.
+10 (c) Response to notice; required action.
+11 (1) If the owner does not receive notice from the tenants during the 45-
+12 day period, or if the tenants notify the owner that they do not intend to consider
+13 purchase of the property, the owner has no further restrictions regarding sale of
+14 the building pursuant to this section.
+15 (2) If, during the 45-day period, the owner receives notice in writing that
+16 a majority of the tenants intend to consider purchase of the property, then the
+17 owner shall:
+18 (A) not accept a final unconditional offer to purchase from a party
+19 other than leaseholders for 120 days following the 45-day period, a total of 165
+20 days following the notice from the leaseholders;
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 14 of 31
+1 (B) negotiate in good faith with the group representing a majority of
+2 the tenants or a nonprofit corporation approved by a majority of the tenants
+3 concerning purchase of the property;
+4 (C) consider any offer to purchase from a group representing a
+5 majority of the tenants or from a nonprofit corporation approved by a majority
+6 of the tenants; and
+7 (D) accept an offer from the tenants or nonprofit corporation if the
+8 offer:
+9 (i) equals or exceeds the appraised value of the property; or
+10 (ii) is on substantially equivalent terms and conditions as the best
+11 reasonable offer from another third party.
+12 (d) Penalties.
+13 (1) An owner who sells a property without complying with this section:
+14 (A) is liable to the tenants in the aggregate amount of $10,000.00 or
+15 50 percent of the gain realized by the owner from the sale, whichever is
+16 greater; and
+17 (B) commits an unfair practice in trade and commerce in violation of
+18 section 2453 of this title.
+19 (2) The Department of Housing and Community Development may:
+20 (A) impose an administrative penalty of not more than $5,000.00 per
+21 violation;
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 15 of 31
+1 (B) bring a civil action for damages or injunctive relief, or both; and
+2 (C) refer a violation to the Attorney General or State’s Attorney for
+3 enforcement pursuant to subdivision (1)(B) of this subsection (d).
+4 (e) Exceptions. The provisions of this section do not apply when the sale,
+5 transfer, or conveyance of the property occurs through one or more of the
+6 following:
+7 (1) through a foreclosure sale;
+8 (2) to a member of the owner’s family or to a trust for the sole benefit of
+9 members of the owner’s family;
+10 (3) among the partners who own the property;
+11 (4) incidental to financing the building;
+12 (5) between joint tenants or tenants in common;
+13 (6) pursuant to eminent domain; or
+14 (7) pursuant to a municipal tax sale.
+15 (f) Requirement for new notice of intent to sell.
+16 (1) Subject to subdivision (2) of this subsection, a notice of intent to sell
+17 issued pursuant to subsection (a) of this section is valid:
+18 (A) for a period of one year from the expiration of the 45-day period
+19 following the date of the notice; or
+20 (B) if the owner has entered into a binding purchase and sale
+21 agreement with a group representing a majority of the tenants or a nonprofit
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 16 of 31
+1 corporation approved by a majority of the tenants within one year from the
+2 expiration of the 45-day period following the date of the notice until the
+3 completion of the sale of the property under the agreement or the expiration of
+4 the agreement, whichever is sooner.
+5 (2) During the period in which a notice of intent to sell is valid, an
+6 owner shall provide a new notice of intent to sell, consistent with the
+7 requirements of subsection (a) of this section, prior to making an offer to sell
+8 the property or accepting an offer to purchase the property that is either more
+9 than five percent below the price for which the property was initially offered
+10 for sale or less than five percent above the final written offer from a group
+11 representing a majority of the tenants or a nonprofit corporation approved by a
+12 majority of the tenants.
+13 (g) Good faith. A group representing a majority of the tenants or a
+14 nonprofit corporation approved by a majority of the tenants shall negotiate in
+15 good faith with the owner for purchase of the property.
+16 Sec. 2. 3 V.S.A. § 2478 is added to read:
+17 § 2478. STATE RENTAL HOUSING REGISTRY; HOUSING DATA
+18 (a) The Department of Housing and Community Development, in
+19 coordination with the Division of Fire Safety, the Department of Health, the
+20 Enhanced 911 Board, and the Department of Taxes, shall create and maintain a
+21 publicly accessible registry of the rental housing in this State that includes a
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 17 of 31
+1 “dwelling unit” as defined in 9 V.S.A. § 4451 and a “short-term rental” as
+2 defined in 18 V.S.A. § 4301.
+3 (b) The Department of Housing and Community Development shall require
+4 for each unit that is registered the following data:
+5 (1) the name of the owner or landlord and property manager, if
+6 applicable;
+7 (2) phone number, email, and mailing address of the landlord and
+8 property manager, if applicable;
+9 (3) location of the unit and unit number or letter;
+10 (4) year built;
+11 (5) type of rental unit;
+12 (6) number of units in the building;
+13 (7) school property account number;
+14 (8) accessibility of the unit;
+15 (9) number of bedrooms and bathrooms;
+16 (10) for owners of short-term rentals, the number of whole-unit or
+17 partial-unit short-term rentals within the building, or in the case of multiple
+18 buildings on a parcel of land, on the entire lot; and
+19 (11) any other information the Department deems appropriate.
+20 (c) Upon request of the Department of Housing and Community
+21 Development, and at least annually, a municipal, district, or other local
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 18 of 31
+1 government entity that operates a rental housing health and safety program that
+2 requires registration of a rental housing unit and a fee for inclusion on the
+3 registry shall provide to the Department the data for each unit that is required
+4 pursuant to subsection (b) of this section.
+5 Sec. 3. 3 V.S.A. § 2479 is added to read:
+6 § 2479. RENTAL HOUSING REGISTRATION
+7 (a) Except as provided in subsection (c) of this section, an owner of long-
+8 term rental housing that is subject to 9 V.S.A. chapter 137 shall:
+9 (1) file with the Department of Taxes a landlord certificate; and
+10 (2) within 30 days after filing the certificate, register with and pay to the
+11 Department of Housing and Community Development an annual registration
+12 fee of $35.00 per rental unit, unless the owner has within the preceding
+13 12 months:
+14 (A) registered the unit pursuant to subsection (b) of this section; or
+15 (B) registered the unit with a municipal, district, or other local
+16 government entity that operates a rental housing health and safety program.
+17 (b) Except as provided in subsection (c) of this section, an owner of a
+18 short-term rental, as defined in 18 V.S.A. § 4301, shall, annually, within
+19 30 days after renting a unit, register with and pay to the Department of
+20 Housing and Community Development an annual registration fee of $35.00 per
+21 rental unit, unless the owner has within the preceding 12 months:
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 19 of 31
+1 (1) registered the unit pursuant to subsection (a) of this section; or
+2 (2) registered the unit with a municipal, district, or other local
+3 government entity that operates a rental housing health and safety program.
+4 (c)(1) An owner of a mobile home lot within a mobile home park who has
+5 registered the lot with the Department of Housing and Community
+6 Development and who does not own a mobile home on the lot is exempt from
+7 registering the lot pursuant to this section.
+8 (2) An owner of a mobile home lot within a mobile home park who has
+9 registered the lot with the Department and who owns a mobile home on the lot
+10 that is available for rent or rented shall register the property with the
+11 Department and pay a fee equal to the fee required by subdivision (a)(2) of this
+12 section less any fee paid within the previous 12 months pursuant to 10 V.S.A.
+13 § 6254(c).
+14 (3) An owner of a mobile home who rents the mobile home, whether
+15 located in a mobile home park, shall register pursuant to this section.
+16 (d) An owner of rental housing who fails to register pursuant to this section
+17 shall pay a late registration fee of $150.00 and may be subject to administrative
+18 penalties not to exceed $5,000.00 for each violation.
+19 Sec. 4. 3 V.S.A. § 2480 is added to read:
+20 § 2480. TENANT’S RIGHTS ADVOCATE
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 20 of 31
+1 (a) The Department of Housing and Community Development shall
+2 contract with a nonprofit organization with expertise in tenant’s rights to
+3 establish the Office of Tenant’s Rights Advocate.
+4 (b) The Office of Tenant’s Rights Advocate shall have the following
+5 functions and duties:
+6 (1) educate tenants and landlords about their rights and responsibilities
+7 and rental housing code requirements;
+8 (2) provide information, referrals, and assistance to tenants seeking help
+9 with issues arising from an existing or potential landlord-tenant relationship;
+10 (3) accept referrals from other organizations to assist individuals with
+11 rental housing needs;
+12 (4) mediate issues on behalf of and with the authorization of an
+13 individual tenant;
+14 (5) identify, investigate, and resolve complaints on behalf of individual
+15 tenants and assist them with filing and pursuit of complaints and appeals;
+16 (6) monitor, analyze, and facilitate public comment on the development
+17 and implementation of federal, State, and local laws, rules, and policies related
+18 to housing;
+19 (7) provide technical assistance to tenants intending to purchase
+20 property under 9 V.S.A. § 4476;
+21 (8) provide legal services to tenants facing eviction; and
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 21 of 31
+1 (9) recommend legislative action as may be appropriate to resolve
+2 problems encountered by tenants and landlords.
+3 (c) On or before January 15 of each year, the Office of Tenant’s Rights
+4 Advocate shall submit a report on the activities, performance, and fiscal
+5 accounts of the Office during the preceding calendar year. The report shall be
+6 submitted to the House Committee on General and Housing and the Senate
+7 Committee on Economic Development, Housing and General Affairs.
+8 (d) The Office of Tenant’s Rights Advocate may:
+9 (1) pursue administrative, judicial, and other remedies on behalf of any
+10 individual tenant or group of tenants;
+11 (2) adopt policies and procedures necessary to carry out the provisions
+12 of this chapter; and
+13 (3) take any other action necessary to fulfill the purposes of this section.
+14 (e) All State agencies shall comply with reasonable requests from the
+15 Office of Tenant’s Rights Advocate for information and assistance. The
+16 Department of Housing and Community Development may adopt rules
+17 necessary to ensure the cooperation of State agencies under this section.
+18 (f) In the absence of written consent by a complainant or an individual
+19 using the services of the Office or by a complainant’s or individual’s guardian
+20 or legal representative or the absence of a court order, the Office of Tenant’s
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 22 of 31
+1 Rights Advocate, its employees, and its contractors shall not disclose the
+2 identity of the complainant or individual.
+3 (g) The Office of Tenant’s Rights Advocate, its employees, and its
+4 contractors shall take steps necessary to avoid any conflict of interest relating
+5 to the performance of their responsibilities under this chapter. For the
+6 purposes of this chapter, a conflict of interest exists whenever the Office, its
+7 employees, or its contractors or a person affiliated with the Office, its
+8 employees, or its contractors:
+9 (1) has a direct or indirect interest in the information, referrals, or
+10 assistance provided to individuals about obtaining or providing housing
+11 services;
+12 (2) has a direct ownership interest or investment interest in a place of
+13 housing or housing provider;
+14 (3) is employed by or participating in the management of a place of
+15 housing or housing provider; or
+16 (4) receives or has the right to receive, directly or indirectly, remuneration
+17 under a compensation arrangement with a place of housing or housing
+18 provider.
+19 Sec. 5. 12 V.S.A. § 4857 is added to read:
+20 § 4857. RIGHT TO COUNSEL
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 23 of 31
+1 (a) The defendant in an action brought under subchapter 3 of this chapter
+2 shall have the right to representation by counsel throughout the proceeding.
+3 Upon the filing of the complaint, the court shall notify the defendant that the
+4 defendant has the right to counsel. If the defendant states that the defendant is
+5 unable to pay for counsel, the court shall appoint counsel to be paid by the
+6 State or set a hearing for a determination of the defendant’s ability to pay for
+7 counsel.
+8 (b) In appointing counsel under this section, the court may appoint counsel
+9 from the Office of Tenant’s Rights Advocate established in 3 V.S.A. § 2480.
+10 Sec. 6. 12 V.S.A. § 4858 is added to read:
+11 § 4858. EXPUNGEMENT
+12 (a) A person may file a petition with the court requesting expungement of
+13 an eviction proceeding under subchapter 3 of this chapter. The court shall
+14 provide notice of the petition to the plaintiff landlord at the last known address
+15 of the landlord.
+16 (b) The court shall grant the petition without hearing if the petitioner and
+17 the respondent stipulate to the granting of the petition. The respondent shall
+18 file the stipulation with the court, and the court shall issue the petitioner an
+19 order of expungement and provide notice of the order in accordance with this
+20 section.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 24 of 31
+1 (c) The court shall grant the petition and order that the eviction history
+2 record be expunged if the following conditions are met:
+3 (1) at least five years have elapsed since the issuance of the judgement
+4 under section 4854 of this title;
+5 (2) a subsequent judgement for eviction has not been issued against the
+6 individual arising out of a new incident or occurrence since the judgement
+7 giving rise to the petition;
+8 (3) the person has paid all rent, damages, costs, and reasonable
+9 attorney’s fees awarded as part of an eviction proceeding; and
+10 (4) the court finds that expungement of the eviction history record
+11 serves the interests of justice.
+12 (d) Upon entry of an order expunging files and records under this section,
+13 the proceedings in the matter shall be considered never to have occurred; all
+14 index references thereto shall be deleted; and the participant, the court, and law
+15 enforcement officers and departments shall reply to any request for
+16 information that no record exists with respect to such participant inquiry in any
+17 matter. Copies of the order shall be sent to each agency, entity, or official
+18 named therein.
+19 Sec. 7. TENANT RIGHT TO PURCHASE DOWN PAYMENT
+20 ASSISTANCE PROGRAM
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 25 of 31
+1 (a) The sum of $5,000,000.00 is appropriated from the General Fund to the
+2 Department of Housing and Community Development to grant to the Vermont
+3 Housing and Conservation Board in fiscal year 2026 for the purpose of
+4 establishing the Tenant Right to Purchase Down Payment Assistance Program.
+5 (b)(1) The Agency shall use the funds appropriated in this section to
+6 provide down payment assistance to tenants and nonprofit organizations
+7 exercising their right to purchase a residential dwelling under 9 V.S.A. chapter
+8 137, subchapter 5.
+9 (2) The Agency shall adopt one or more legal mechanisms to ensure that
+10 subsequent sales of a home that is subsidized through the Program are limited
+11 to income-eligible homebuyers.
+12 (c) The Agency may assign its rights under any investment or grant made
+13 under this section to the Vermont Housing and Conservation Board or any
+14 State agency or nonprofit organization qualifying under 26 U.S.C. § 501(c)(3),
+15 provided such assignee acknowledges and agrees to comply with the
+16 provisions of this section.
+17 (d) The Department shall report to the House Committee on General and
+18 Housing and the Senate Committee on Economic Development, Housing and
+19 General Affairs on the status of the Program annually, on or before January 15,
+20 through 2030.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 26 of 31
+1 Sec. 8. 9 V.S.A. § 4501 is amended to read:
+2 § 4501. DEFINITIONS
+3 As used in this chapter:
+4 * * *
+5 (12)(A) “Harass” means to engage in unwelcome conduct that detracts
+6 from, undermines, or interferes with a person’s:
+7 (i) use of a place of public accommodation or any of the
+8 accommodations, advantages, facilities, or privileges of a place of public
+9 accommodation because of the person’s race, creed, color, national origin,
+10 citizenship, immigration status, marital status, sex, sexual orientation, gender
+11 identity, or disability; or
+12 (ii) terms, conditions, privileges, or protections in the sale or rental
+13 of a dwelling or other real estate, or in the provision of services or facilities in
+14 connection with a dwelling or other real estate, because of the person’s race,
+15 sex, sexual orientation, gender identity, age, marital status, religious creed,
+16 color, national origin, citizenship, immigration status, or disability, or because
+17 the person intends to occupy a dwelling with one or more minor children, or
+18 because the person is a recipient of public assistance, or because the person is a
+19 victim of abuse, sexual assault, or stalking.
+20 * * *
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 27 of 31
+1 Sec. 9. 9 V.S.A. § 4502 is amended to read:
+2 § 4502. PUBLIC ACCOMMODATIONS
+3 (a) An owner or operator of a place of public accommodation or an agent
+4 or employee of such owner or operator shall not, because of the race, creed,
+5 color, national origin, citizenship, immigration status, marital status, sex,
+6 sexual orientation, or gender identity of any person, refuse, withhold from, or
+7 deny to that person any of the accommodations, advantages, facilities, and
+8 privileges of the place of public accommodation.
+9 * * *
+10 Sec. 10. 9 V.S.A. § 4503 is amended to read:
+11 § 4503. UNFAIR HOUSING PRACTICES
+12 (a) It shall be unlawful for any person:
+13 (1) To refuse to sell or rent, or refuse to negotiate for the sale or rental
+14 of, or otherwise make unavailable or deny, a dwelling or other real estate to
+15 any person because of the race, sex, sexual orientation, gender identity, age,
+16 marital status, religious creed, color, national origin, citizenship, immigration
+17 status, or disability of a person, or because a person intends to occupy a
+18 dwelling with one or more minor children, or because a person is a recipient of
+19 public assistance, or because a person is a victim of abuse, sexual assault, or
+20 stalking.
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 28 of 31
+1 (2) To discriminate against, or to harass, any person in the terms,
+2 conditions, privileges, and protections of the sale or rental of a dwelling or
+3 other real estate, or in the provision of services or facilities in connection with
+4 a dwelling or other real estate, because of the race, sex, sexual orientation,
+5 gender identity, age, marital status, religious creed, color, national origin,
+6 citizenship, immigration status, or disability of a person, or because a person
+7 intends to occupy a dwelling with one or more minor children, or because a
+8 person is a recipient of public assistance, or because a person is a victim of
+9 abuse, sexual assault, or stalking.
+10 (3) To make, print, or publish, or cause to be made, printed, or published
+11 any notice, statement, or advertisement, with respect to the sale or rental of a
+12 dwelling or other real estate that indicates any preference, limitation, or
+13 discrimination based on race, sex, sexual orientation, gender identity, age,
+14 marital status, religious creed, color, national origin, citizenship, immigration
+15 status, or disability of a person, or because a person intends to occupy a
+16 dwelling with one or more minor children, or because a person is a recipient of
+17 public assistance, or because a person is a victim of abuse, sexual assault, or
+18 stalking.
+19 (4) To represent to any person because of the race, sex, sexual
+20 orientation, gender identity, age, marital status, religious creed, color, national
+21 origin, citizenship, immigration status, or disability of a person, or because a
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 29 of 31
+1 person intends to occupy a dwelling with one or more minor children, or
+2 because a person is a recipient of public assistance, or because a person is a
+3 victim of abuse, sexual assault, or stalking, that any dwelling or other real
+4 estate is not available for inspection, sale, or rental when the dwelling or real
+5 estate is in fact so available.
+6 * * *
+7 (6) To discriminate against any person in the making or purchasing of
+8 loans or providing other financial assistance for real-estate-related transactions
+9 or in the selling, brokering, or appraising of residential real property, because
+10 of the race, sex, sexual orientation, gender identity, age, marital status,
+11 religious creed, color, national origin, citizenship, immigration status, or
+12 disability of a person, or because a person intends to occupy a dwelling with
+13 one or more minor children, or because a person is a recipient of public
+14 assistance, or because a person is a victim of abuse, sexual assault, or stalking.
+15 (7) To engage in blockbusting practices, for profit, which may include
+16 inducing or attempting to induce a person to sell or rent a dwelling by
+17 representations regarding the entry into the neighborhood of a person or
+18 persons of a particular race, sex, sexual orientation, gender identity, age,
+19 marital status, religious creed, color, national origin, citizenship, immigration
+20 status, or disability of a person, or because a person intends to occupy a
+21 dwelling with one or more minor children, or because a person is a recipient of
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 30 of 31
+1 public assistance, or because a person is a victim of abuse, sexual assault, or
+2 stalking.
+3 (8) To deny any person access to or membership or participation in any
+4 multiple listing service, real estate brokers’ organization, or other service,
+5 organization, or facility relating to the business of selling or renting dwellings,
+6 or to discriminate against any person in the terms or conditions of such access,
+7 membership, or participation, on account of race, sex, sexual orientation,
+8 gender identity, age, marital status, religious creed, color, national origin,
+9 citizenship, immigration status, or disability of a person, or because a person is
+10 a recipient of public assistance, or because a person is a victim of abuse, sexual
+11 assault, or stalking.
+12 * * *
+13 (12) To discriminate in land use decisions or in the permitting of
+14 housing because of race, sex, sexual orientation, gender identity, age, marital
+15 status, religious creed, color, national origin, citizenship, immigration status,
+16 disability, the presence of one or more minor children, income, or because of
+17 the receipt of public assistance, or because a person is a victim of abuse, sexual
+18 assault, or stalking, except as otherwise provided by law.
+19 * * *
+20 (d) The provisions of subsection (a) of this section with respect to
+21 discrimination in the sales and rentals of dwellings on the basis of citizenship
+VT LEG #380516 v.1
+
+BILL AS INTRODUCED S.91
+2025 Page 31 of 31
+1 or immigration status shall not preclude the verification of immigration status
+2 if required by federal law.
+3 Sec. 11. APPROPRIATION
+4 The sum of $4,000,000.00 is appropriated from the General Fund to the
+5 Department of Housing and Community Development in fiscal year 2026,
+6 $2,000,000.00 of which shall be used to fund the Office of Tenant’s Rights
+7 Advocate established in 3 V.S.A. § 2480 and $2,000,000.00 of which shall be
+8 used for legal services through the Office of Tenant’s Rights Advocate.
+9 Sec. 12. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #380516 v.1
+
+[DELETED:  S P S I S R D S r S p u w r r r t b H a a A]
+[DELETED:  S P I S C * §   ( m ( f o ( ( p ( t ( d ( p 4]
+[DELETED:  S P ( r ( a ( a ( s ( ( ( c a S * §   ( ( i]
+[DELETED:  S P ( a a ( a p ( a i ( f ( c * § ( t d t t p]
+[DELETED:  S P c a ( ( c i p ( o r t l ( s t ( t ( f ( f]
+[DELETED:  S P ( t 2 ( ( b ( r h r f ( o m w a ( S ( c t]
+[DELETED:  S P n e m n t t ( ( b ( r h r f ( d ( t ( a]
+[DELETED:  S P ( r ( o o ( o t ( ( d ( ( ( p ( s ( c ( l]
+[DELETED:  S P ( c s ( p p s e a a d ( ( t ( i a c t t e]
+[DELETED:  S P m e ( ( b n i r ( s ( s ( s ( c ( s c n *]
+[DELETED:  S P § ( a U L L C ( ( ( ( ( d * S § ( ( d a r]
+[DELETED:  S P ( o m ( ( ( p ( ( p n ( f w s p t f t (]
+[DELETED:  S P ( o p c ( a p ( u ( ( d p t ( a o ( o d]
+[DELETED:  S P ( t c ( m o ( o ( ( r ( ( ( 5 g ( s ( ( v]
+[DELETED:  S P ( ( e ( t f ( ( m ( ( ( ( ( ( ( i ( f ( a]
+[DELETED:  S P c e c t ( o r t t f r m ( n g S § ( c E p]
+[DELETED:  S P “ d ( f ( a ( p ( ( ( ( ( ( ( ( p b ( ( D]
+[DELETED:  S P g r r p S § ( t ( ( D f 1 ( ( g ( s 3 H r]
+[DELETED:  S P ( ( g ( r D r ( r t D s § ( l ( s p S §]
+[DELETED:  S P ( c e ( f ( a ( w ( r ( i ( t ( a t ( p (]
+[DELETED:  S P ( p ( A a s C ( ( i ( o ( ( O D n ( u o]
+[DELETED:  S P R i ( c t p e e ( a s ( h ( h ( u p S §]
+[DELETED:  S P ( s U d u S c ( f S § ( a p o ( t f o s]
+[DELETED:  S P ( r ( u ( i g ( a ( s ( t i e i m n S  ]
+[DELETED:  S P ( D H e ( p e 1 ( s t ( u S p p ( H G t]
+[DELETED:  S P S § A * ( f ( a a c i ( o c s c t b v *]
+[DELETED:  S P S § ( o c s d p * S § ( ( o a m s d p s]
+[DELETED:  S P ( c o a g c i p a ( a d d m s d p s ( o o]
+[DELETED:  S P p b v e e * ( l o o r d o a ( i r p m s d]
+[DELETED:  S P p s ( m o o m g c a a * ( h s d t a * ( d]
+[DELETED:  S P o i S T D $ A u S T]

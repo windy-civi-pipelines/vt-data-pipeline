@@ -1,0 +1,110 @@
+Title: 2 An act relating to updating and reorganizing the health insurance statutes in
+Official Title: 2 An act relating to updating and reorganizing the health insurance statutes in
+Number of Sections: 1
+Source: versions - House Proposal of Amendment (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HOUSE PROPOSAL OF AMENDMENT S.30
+2025 Page 1 of 2
+1 S.30
+3 8 V.S.A. chapter 107
+4 The House proposes to the Senate to amend the bill as follows:
+5 First: In Sec. 2, 8 V.S.A. chapter 107, in section 4029, by striking out
+6 subdivision (2) in its entirety and inserting in lieu thereof a new subdivision (2)
+7 to read as follows:
+8 (2) TIME LIMIT ON CERTAIN DEFENSES: (a) After three years
+9 from the date of issue of this policy no misstatements, except fraudulent
+10 misstatements, made by the applicant in the application for such policy, shall
+11 be used to void the policy or to deny a claim for loss incurred or disability (as
+12 defined in the policy) commencing after the expiration of such three-year
+13 period.
+14 (The foregoing policy provision shall not be so construed as to affect any
+15 legal requirement for avoidance of a policy or denial of a claim during such
+16 initial three-year period, nor to limit the application of subdivisions 4030(1)–
+17 (5) of this title in the event of misstatement with respect to age or occupation
+18 or other insurance.) (A policy which the insured has the right to continue in
+19 force subject to its terms by the timely payment of premium (1) until at least
+20 age 50, or (2) in the case of a policy issued after age 44, for at least five years
+21 from its date of issue, may contain in lieu of the foregoing the following
+VT LEG #382560 v.1
+HOUSE PROPOSAL OF AMENDMENT S.30
+2025 Page 2 of 2
+1 provision (from which the clause in parentheses may be omitted at the
+2 insurer’s option) under the caption “INCONTESTABLE”:
+3 After this policy has been in force for a period of three years during the
+4 lifetime of the insured (excluding any period during which the insured is
+5 disabled), it shall become incontestable as to the statements contained in the
+6 application.)
+7 (b) No claim for loss incurred or disability (as defined in the policy)
+8 commencing after three years from the date of issue of this policy shall be
+9 reduced or denied on the ground that a disease or physical condition not
+10 excluded from coverage by name or specific description effective on the date
+11 of loss had existed prior to the effective date of coverage of this policy.
+12 Second: In Sec. 2, 8 V.S.A. chapter 107, in section 4030, in subdivision
+13 (3), following the first sentence, by inserting after the period, on a new line,
+14 “or, in lieu thereof:”
+15 Third: By striking out Sec. 33, effective date, in its entirety and inserting in
+16 lieu thereof a new Sec. 33 to read as follows:
+17 Sec. 33. EFFECTIVE DATE
+18 This act shall take effect on September 1, 2025.
+VT LEG #382560 v.1
+[DELETED:   S  P S A 8 T F s t ( f m b d p ( l i ( o f a f]
+[DELETED:   S  P p i A l d a ( c r e o S ( “ T l S T]
+
+
+================================================================================
+
+Raw Text:
+HOUSE PROPOSAL OF AMENDMENT S.30
+2025 Page 1 of 2
+1 S.30
+2 An act relating to updating and reorganizing the health insurance statutes in
+3 8 V.S.A. chapter 107
+4 The House proposes to the Senate to amend the bill as follows:
+5 First: In Sec. 2, 8 V.S.A. chapter 107, in section 4029, by striking out
+6 subdivision (2) in its entirety and inserting in lieu thereof a new subdivision (2)
+7 to read as follows:
+8 (2) TIME LIMIT ON CERTAIN DEFENSES: (a) After three years
+9 from the date of issue of this policy no misstatements, except fraudulent
+10 misstatements, made by the applicant in the application for such policy, shall
+11 be used to void the policy or to deny a claim for loss incurred or disability (as
+12 defined in the policy) commencing after the expiration of such three-year
+13 period.
+14 (The foregoing policy provision shall not be so construed as to affect any
+15 legal requirement for avoidance of a policy or denial of a claim during such
+16 initial three-year period, nor to limit the application of subdivisions 4030(1)–
+17 (5) of this title in the event of misstatement with respect to age or occupation
+18 or other insurance.) (A policy which the insured has the right to continue in
+19 force subject to its terms by the timely payment of premium (1) until at least
+20 age 50, or (2) in the case of a policy issued after age 44, for at least five years
+21 from its date of issue, may contain in lieu of the foregoing the following
+VT LEG #382560 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.30
+2025 Page 2 of 2
+1 provision (from which the clause in parentheses may be omitted at the
+2 insurer’s option) under the caption “INCONTESTABLE”:
+3 After this policy has been in force for a period of three years during the
+4 lifetime of the insured (excluding any period during which the insured is
+5 disabled), it shall become incontestable as to the statements contained in the
+6 application.)
+7 (b) No claim for loss incurred or disability (as defined in the policy)
+8 commencing after three years from the date of issue of this policy shall be
+9 reduced or denied on the ground that a disease or physical condition not
+10 excluded from coverage by name or specific description effective on the date
+11 of loss had existed prior to the effective date of coverage of this policy.
+12 Second: In Sec. 2, 8 V.S.A. chapter 107, in section 4030, in subdivision
+13 (3), following the first sentence, by inserting after the period, on a new line,
+14 “or, in lieu thereof:”
+15 Third: By striking out Sec. 33, effective date, in its entirety and inserting in
+16 lieu thereof a new Sec. 33 to read as follows:
+17 Sec. 33. EFFECTIVE DATE
+18 This act shall take effect on September 1, 2025.
+VT LEG #382560 v.1
+
+[DELETED:   S  P S A 8 T F s t ( f m b d p ( l i ( o f a f]
+[DELETED:   S  P p i A l d a ( c r e o S ( “ T l S T]

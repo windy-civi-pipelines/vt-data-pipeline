@@ -1,0 +1,1588 @@
+Title: 2 An act relating to miscellaneous environmental subjects
+Official Title: 2 An act relating to miscellaneous environmental subjects
+Number of Sections: 1
+Source: versions - As Passed By the House (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE H.319
+2025 Page 1 of 32
+1 H.319
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 * * * Battery Extended Producer Responsibility * * *
+5 Sec. 1. 2024 Acts and Resolves No. 152, Sec. 3 is amended to read:
+6 Sec. 3. ANR BATTERY ASSESSMENT
+7 (a) On or before July 1, 2026, the Secretary of Natural Resources 2027, the
+8 stewardship organization formed pursuant to 10 V.S.A. chapter 168 shall
+9 complete an assessment of the opportunities, challenges, and feasibility of
+10 establishing mandatory end-of-life management programs for the following
+11 battery types:
+12 (1) batteries used in hybrid and electric vehicles;
+13 (2) battery energy storage systems; and
+14 (3) batteries that are not easily removable from the products they power.
+15 (b) The assessment required by this section shall include:
+16 (1) a summary of the work and progress other states have made in
+17 establishing end-of-life management programs for the three battery types listed
+18 under subsection (a) of this section; and
+19 (2) policy recommendations on whether mandatory end-of-life
+20 management programs are necessary for the battery types listed under
+21 subsection (a) of this section.
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 2 of 32
+1 (c) The assessment required by this section shall be provided to the
+2 Secretary of Natural Resources, the House Committee on Environment and
+3 Energy, and the Senate Committee on Natural Resources and Energy.
+4 * * * Fuel Storage Tanks * * *
+5 Sec. 2. 10 V.S.A. § 1927(d) is amended to read:
+6 (d) No person shall deliver a regulated substance to a category one tank
+7 that is visibly designated by the Agency as not having a valid permit or not
+8 meeting standards adopted by the Secretary related to corrosion protection,
+9 spill prevention, leak detection, financial responsibility, or overfill protection
+10 that may result in the tank releasing a regulated substance to the environment.
+11 * * * Household Hazardous Waste Extended Producer Responsibility * * *
+12 Sec. 3. 10 V.S.A. § 7181 is amended to read:
+13 § 7181. DEFINITIONS
+14 As used in this chapter:
+15 * * *
+16 (4)(A) “Covered household hazardous product” means a consumer
+17 product offered for retail sale that is contained in the receptacle in which the
+18 product is offered for retail sale, if the product has any of the following
+19 characteristics:
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 3 of 32
+1 (i) the product or a component of the product is a hazardous waste
+2 under subchapter 2 of the Vermont Hazardous Waste Management
+3 Regulations, regardless of the status of the generator of the hazardous waste; or
+4 (ii) the product is a gas cylinder.
+5 (B) “Covered household hazardous product” does not mean any of
+6 the following:
+7 * * *
+8 (iv) architectural paint as that term is defined in section 6672 of
+9 this title;
+10 * * *
+11 Sec. 4. 10 V.S.A. § 7182 is amended to read:
+12 § 7182. SALE OF COVERED HOUSEHOLD HAZARDOUS PRODUCTS;
+13 STEWARDSHIP ORGANIZATION REGISTRATION;
+14 MANUFACTURER REGISTRATION
+15 (a) Sale prohibited.
+16 (1) A manufacturer of a covered household hazardous product shall not
+17 sell, offer for sale, or deliver to a retailer for subsequent sale a covered
+18 household hazardous product without registering with the stewardship
+19 organization pursuant to subsection (c) of this section.
+20 (2) Beginning six months after a final decision on the adequacy of a
+21 collection plan by the Secretary, a manufacturer of a covered household
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 4 of 32
+1 hazardous product shall not sell, offer for sale, or deliver to a retailer for
+2 subsequent sale a covered household hazardous product unless all the
+3 following have been met:
+4 (1)(A) The manufacturer is participating in a stewardship
+5 organization implementing an approved collection plan.
+6 (2)(B) The name of the manufacturer, the manufacturer’s brand, and
+7 the name of the covered household hazardous product are submitted to the
+8 Agency of Natural Resources by a stewardship organization and listed on the
+9 stewardship organization’s website as covered by an approved collection plan.
+10 (3)(C) The stewardship organization in which the manufacturer
+11 participates has submitted an annual report consistent with the requirements of
+12 section 7185 of this title.
+13 (4)(D) The stewardship organization in which the manufacturer
+14 participates has conducted a plan audit consistent with the requirements of
+15 subsection 7185(b) of this title.
+16 (b) Stewardship organization registration requirements.
+17 (1) On or before July 1, 2025 and annually thereafter, a stewardship
+18 organization shall file a registration form with the Secretary. The Secretary
+19 shall provide the registration form to the stewardship organization. The
+20 registration form shall include:
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 5 of 32
+1 (A) a list of the manufacturers participating in the stewardship
+2 organization;
+3 (B) a list of the brands of each manufacturer participating in the
+4 stewardship organization;
+5 (C) a list of the covered household hazardous products of each
+6 manufacturer participating in the stewardship organization;
+7 (D) the name, address, and contact information of a person
+8 responsible for ensuring compliance with this chapter;
+9 (E) a description of how the stewardship organization meets the
+10 requirements of subsection 7184(b) of this title, including any reasonable
+11 requirements for participation in the stewardship organization; and
+12 (F)(B) the name, address, and contact information of a person for a
+13 nonmember manufacturer to contact regarding how to participate in the
+14 stewardship organization to satisfy the requirements of this chapter.
+15 (2) A renewal of a registration without changes may be accomplished
+16 through notifying the Agency of Natural Resources on a form provided by the
+17 Agency Beginning July 1, 2026 and annually thereafter, a stewardship
+18 organization shall renew its registration with the Secretary. A renewal
+19 registration shall include the following:
+20 (A) a list of the manufacturers participating in the stewardship
+21 organization;
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 6 of 32
+1 (B) a list of the brands of each manufacturer participating in the
+2 stewardship organization;
+3 (C) a list of the covered household hazardous products of each
+4 manufacturer participating in the stewardship organization;
+5 (D) the name, address, and contact information of a person
+6 responsible for ensuring compliance with this chapter;
+7 (E) a description of how the stewardship organization meets the
+8 requirements of subsection 7184(b) of this title, including any reasonable
+9 requirements for participation in the stewardship organization; and
+10 (F) the name, address, and contact information of a person for a
+11 nonmember manufacturer to contact regarding how to participate in the
+12 stewardship organization to satisfy the requirements of this chapter.
+13 (c) Manufacturer registration. On or before November 1, 2025, a
+14 manufacturer of a covered household hazardous product shall register with the
+15 stewardship organization in a manner proscribed by the stewardship
+16 organization.
+17 Sec. 5. 10 V.S.A. § 7183 is amended to read:
+18 § 7183. COLLECTION PLANS
+19 (a) Collection plan required. Prior to July 1, 2025 On or before July 1,
+20 2026, any stewardship organization registered with the Secretary as
+21 representing manufacturers of covered household hazardous products shall
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 7 of 32
+1 coordinate and submit to the Secretary for review one collection plan for all
+2 manufacturers.
+3 (b) Collection plan; minimum requirements. Each collection plan shall
+4 include, at a minimum, all of the following requirements:
+5 (1) Initial plan. The initial plan shall last for a period not to exceed
+6 three years and contain, at a minimum, the following requirements:
+7 (A) List of participants. A list of the manufacturers, brands, and
+8 products participating in the collection plan and a methodology for adding and
+9 removing manufacturers and notifying the Agency of new participants.
+10 (2)(B) Free statewide collection of covered household hazardous
+11 products. The collection program shall provide reimburse municipalities when
+12 a municipality provides for free, convenient, and accessible statewide
+13 opportunities for the collection from covered entities of covered household
+14 hazardous products, including orphan covered products. A stewardship
+15 organization shall accept all covered household hazardous products collected
+16 from a covered entity and shall not refuse the collection of a covered
+17 household hazardous product, including orphan covered household products,
+18 based on the brand or manufacturer of the covered household hazardous
+19 product unless specifically exempt from this requirement. The collection
+20 program shall also provide for the payment of collection, processing, and end-
+21 of-life management of the covered household hazardous products. Collection
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 8 of 32
+1 costs include facility costs, equipment costs, labor, supplies, maintenance,
+2 events costs, and event contractor costs, including collection event set-up fees,
+3 environmental service fees, insurance fees, and shipping containers and
+4 materials.
+5 (3) Convenient collection location. The stewardship organization shall
+6 develop a collection program that allows all municipal household hazardous
+7 waste collection programs to opt to be a part of the collection plan, including
+8 collection events and facilities offered by solid waste planning entities. The
+9 plan shall make efforts to site points of collection equitably across all regions
+10 of the State to allow for convenient and reasonable access of all Vermonters to
+11 collection facilities or collection events.
+12 (4) Public education and outreach. The collection plan shall include an
+13 education and outreach program that shall include a website and may include
+14 media advertising, retail displays, articles and publications, and other public
+15 educational efforts. Outreach and education shall be suitable for the State’s
+16 diverse ethnic populations, through translated and culturally appropriate
+17 materials, including in-language and targeted outreach. Public education and
+18 outreach should include content to increase meaningful participation by
+19 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+20 During the first year of program implementation and two years after adoption
+21 of the collection plan, each stewardship organization shall carry out a survey of
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 9 of 32
+1 public awareness regarding the requirements of the program established under
+2 this chapter that can identify communities that have disparities in awareness
+3 and need more outreach. Each stewardship organization shall share the results
+4 of the public awareness surveys with the Secretary. If multiple stewardship
+5 organizations are implementing plans approved by the Secretary, the
+6 stewardship organizations shall coordinate in carrying out their education and
+7 outreach responsibilities under this subdivision and shall include in their
+8 annual reports to the Secretary a summary of their coordinated education and
+9 outreach efforts. The education and outreach program and website shall notify
+10 the public of the following:
+11 (A) that there is a free collection program for covered household
+12 hazardous products;
+13 (B) the location and hours of operation of collection points and how a
+14 covered entity can access this collection program;
+15 (C) the special handling considerations associated with covered
+16 household hazardous products; and
+17 (D) source reduction information for consumers to reduce leftover
+18 covered household products.
+19 (5) Compliance with appropriate environmental standards. In
+20 implementing a collection plan, a stewardship organization shall comply with
+21 all applicable laws related to the collection, transportation, and disposal of
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 10 of 32
+1 hazardous waste. A stewardship organization shall comply with any special
+2 handling or disposal standards established by the Secretary for covered
+3 household hazardous products or for the collection plan of the manufacturer.
+4 (6) Method of disposition. The collection plan shall describe how
+5 covered household hazardous products will be managed in the most
+6 environmentally and economically sound manner, including following the
+7 waste-management hierarchy. The management of covered household
+8 hazardous products under the collection plan shall use management activities
+9 in the following priority order: source reduction, reuse, recycling, energy
+10 recovery, and disposal. Collected covered household hazardous products shall
+11 be recycled when technically and economically feasible.
+12 (7) Performance goals. A collection plan shall include:
+13 (A) A performance goal for covered household hazardous products
+14 determined by the number of total participants at collection events and
+15 facilities listed in the collection plan during a program year divided by the total
+16 number of households. The number of households shall include seasonal
+17 households. The calculation methodology for the number of households shall
+18 be included in the plan.
+19 (B) At a minimum, the collection performance goal for the first
+20 approved plan shall be an annual participation rate of five percent of the
+21 households for every collection program based on the number of households
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 11 of 32
+1 the collection program serves. After the initial approved program plan, the
+2 stewardship organization shall propose performance goals for subsequent
+3 program plans. The Secretary shall approve the performance goals for the plan
+4 at least every five years. The stewardship organization shall use the results of
+5 the most recent waste composition study required under 6604 of this title and
+6 other relevant factors to propose the performance goals of the collection plan.
+7 If a stewardship organization does not meet its performance goals, the
+8 Secretary may require the stewardship organization to revise the collection
+9 plan to provide for one or more of the following: additional public education
+10 and outreach, additional collection events, or additional hours of operation for
+11 collection sites. A stewardship organization is not authorized to reduce or
+12 cease collection, education and outreach, or other activities implemented under
+13 an approved plan on the basis of achievement of program performance goals.
+14 (8)(C) Collection plan funding. The collection plan shall describe how
+15 the stewardship organization will fund the implementation of the collection
+16 plan and collection activities under the plan, including the costs for education
+17 and outreach, collection, processing, and end-of-life management of the
+18 covered household hazardous product all municipal collection offered to the
+19 public in a base program year. A base program year shall be based on the
+20 services provided in calendar year 2024 and any other collection facilities or
+21 events approved by the Secretary. Collection costs include facility costs,
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 12 of 32
+1 equipment costs, labor, supplies, maintenance, events costs, and event
+2 contractor costs, including collection event set-up fees, environmental service
+3 fees, insurance fees, and shipping containers and materials. The collection
+4 plan shall include how municipalities will be compensated for all costs
+5 attributed to collection of covered household hazardous products. The
+6 Secretary shall resolve disputes relating to compensation.
+7 (2) Subsequent plans. After the expiration of the initial plan approved
+8 by the Secretary, the collection plan shall include, at a minimum, the
+9 following:
+10 (A) List of participants. A list of the manufacturers, brands, and
+11 products participating in the collection plan and a methodology for adding and
+12 removing manufacturers and notifying the Agency of new participants.
+13 (B) Free statewide collection of covered household hazardous
+14 products. The collection program shall provide for free, convenient, and
+15 accessible statewide opportunities for the collection from covered entities of
+16 covered household hazardous products, including orphan covered products. A
+17 stewardship organization shall accept all covered household hazardous
+18 products collected from a covered entity and shall not refuse the collection of a
+19 covered household hazardous product, including orphan covered household
+20 products, based on the brand or manufacturer of the covered household
+21 hazardous product unless specifically exempt from this requirement. The
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 13 of 32
+1 collection program shall also provide for the payment of collection, processing,
+2 and end-of-life management of the covered household hazardous products.
+3 Collection costs include facility costs, equipment costs, labor, supplies,
+4 maintenance, events costs, and event contractor costs, including collection
+5 event set-up fees, environmental service fees, insurance fees, and shipping
+6 containers and materials.
+7 (C) Convenient collection location. The stewardship organization
+8 shall develop a collection program that allows all municipal household
+9 hazardous waste collection programs to opt to be a part of the collection plan,
+10 including collection events and facilities offered by solid waste planning
+11 entities. The plan shall make efforts to site points of collection equitably
+12 across all regions of the State to allow for convenient and reasonable access of
+13 all Vermonters to collection facilities or collection events.
+14 (D) Public education and outreach. The collection plan shall include
+15 an education and outreach program that shall include a website and may
+16 include media advertising, retail displays, articles and publications, and other
+17 public educational efforts. Outreach and education shall be suitable for the
+18 State’s diverse ethnic populations, through translated and culturally appropriate
+19 materials, including in-language and targeted outreach. Public education and
+20 outreach should include content to increase meaningful participation by
+21 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 14 of 32
+1 During the second approved plan, each stewardship organization shall carry
+2 out a survey of public awareness regarding the requirements of the program
+3 established under this chapter that can identify communities that have
+4 disparities in awareness and need more outreach. Each stewardship
+5 organization shall share the results of the public awareness surveys with the
+6 Secretary. If multiple stewardship organizations are implementing plans
+7 approved by the Secretary, the stewardship organizations shall coordinate in
+8 carrying out their education and outreach responsibilities under this
+9 subdivision (D) and shall include in their annual reports to the Secretary a
+10 summary of their coordinated education and outreach efforts. The education
+11 and outreach program and website shall notify the public of the following:
+12 (i) that there is a free collection program for covered household
+13 hazardous products;
+14 (ii) the location and hours of operation of collection points and
+15 how a covered entity can access this collection program;
+16 (iii) the special handling considerations associated with covered
+17 household hazardous products; and
+18 (iv) source reduction information for consumers to reduce leftover
+19 covered household products.
+20 (E) Compliance with appropriate environmental standards. In
+21 implementing a collection plan, a stewardship organization shall comply with
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 15 of 32
+1 all applicable laws related to the collection, transportation, and disposal of
+2 hazardous waste. A stewardship organization shall comply with any special
+3 handling or disposal standards established by the Secretary for covered
+4 household hazardous products or for the collection plan of the manufacturer.
+5 (F) Method of disposition. The collection plan shall describe how
+6 covered household hazardous products will be managed in the most
+7 environmentally and economically sound manner, including following the
+8 waste-management hierarchy. The management of covered household
+9 hazardous products under the collection plan shall use management activities
+10 in the following priority order: source reduction, reuse, recycling, energy
+11 recovery, and disposal. Collected covered household hazardous products shall
+12 be recycled when technically and economically feasible.
+13 (G) Performance goals. A collection plan shall include:
+14 (i) A performance goal for covered household hazardous products
+15 determined by the number of total participants at collection events and
+16 facilities listed in the collection plan during a program year divided by the total
+17 number of households. The number of households shall include seasonal
+18 households. The calculation methodology for the number of households shall
+19 be included in the plan.
+20 (ii) At a minimum, the collection performance goal for the initial
+21 plan approved pursuant to subdivision (1) of this subsection (b) shall be an
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 16 of 32
+1 annual participation rate of five percent of the households for every collection
+2 program based on the number of households the collection program serves.
+3 After the initial approved program plan, the stewardship organization shall
+4 propose performance goals for subsequent program plans. The Secretary shall
+5 approve the performance goals for the plan at least every five years. The
+6 stewardship organization shall use the results of the most recent waste
+7 composition study required under 6604 of this title and other relevant factors to
+8 propose the performance goals of the collection plan. If a stewardship
+9 organization does not meet its performance goals, the Secretary may require
+10 the stewardship organization to revise the collection plan to provide for one or
+11 more of the following: additional public education and outreach, additional
+12 collection events, or additional hours of operation for collection sites. A
+13 stewardship organization is not authorized to reduce or cease collection,
+14 education and outreach, or other activities implemented under an approved
+15 plan on the basis of achievement of program performance goals.
+16 (H) Collection plan funding. The collection plan shall describe how the
+17 stewardship organization will fund the implementation of the collection plan
+18 and collection activities under the plan, including the costs for education and
+19 outreach, collection, processing, and end-of-life management of the covered
+20 household hazardous product. Collection costs include facility costs,
+21 equipment costs, labor, supplies, maintenance, events costs, and event
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 17 of 32
+1 contractor costs, including collection event set-up fees, environmental service
+2 fees, insurance fees, and shipping containers and materials. The collection
+3 plan shall include how municipalities will be compensated for all costs
+4 attributed to collection of covered household hazardous products. The
+5 Secretary shall resolve disputes relating to compensation.
+6 (c) Term of collection plan. A collection plan approved by the Secretary
+7 under section 7187 of this title shall have a term not to exceed five years,
+8 provided that the stewardship organization remains in compliance with the
+9 requirements of this chapter and the terms of the approved collection plan.
+10 (d) Collection plan implementation. Stewardship organizations shall
+11 implement the collection plan on or before six months after the date of a final
+12 decision by the Secretary on the adequacy of the collection plan.
+13 Sec. 6. 10 V.S.A. § 7184 is amended to read:
+14 § 7184. STEWARDSHIP ORGANIZATIONS
+15 (a) Participation in a stewardship organization. A manufacturer shall meet
+16 the requirements of this chapter by participating in a stewardship organization
+17 that undertakes the responsibilities under sections 7182, 7183, and 7185 of this
+18 title.
+19 (b) Qualifications for a stewardship organization. To qualify as a
+20 stewardship organization under this chapter, an organization shall:
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 18 of 32
+1 (1) commit to assume the responsibilities, obligations, and liabilities of
+2 all manufacturers participating in the stewardship organization;
+3 (2) not create unreasonable barriers for participation in the stewardship
+4 organization; and
+5 (3) maintain a public website that lists all manufacturers and
+6 manufacturers’ brands and products covered by the stewardship organization’s
+7 approved collection plan.
+8 (c) A stewardship organization is authorized to charge its members
+9 reasonable fees for the organization, administration, and implementation of the
+10 programs required by this chapter.
+11 Sec. 7. 10 V.S.A. § 7187 is amended to read:
+12 § 7187. AGENCY RESPONSIBILITIES
+13 (a) Review and approve collection plans. The Secretary shall review and
+14 approve or deny collection plans submitted under section 7183 of this title
+15 according to the public notice and comment requirements of section 7714 of
+16 this title.
+17 * * *
+18 (g) Agency collection plan. If no stewardship organization is formed on or
+19 before July 1, 2025 or the stewardship organization fails to submit a plan or
+20 submits a plan that does not meet the requirements of this chapter, the
+21 Secretary shall adopt and administer a plan that meets the requirements of
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 19 of 32
+1 section 7183 of this title. If the Secretary administers the plan adopted under
+2 section 7183, the Secretary shall charge each manufacturer the prorated costs
+3 of plan administration, the Agency’s oversight costs, and a hazardous waste
+4 reduction assessment of 10 percent of the plan’s total cost to be deposited in
+5 the Solid Waste Management Assistance Account of the Waste Management
+6 Assistance Fund, for the purpose of providing grants to municipalities and
+7 small businesses to prevent pollution and reduce the generation of hazardous
+8 waste in the State. When determining a manufacturer’s assessment under this
+9 section, the Agency may allocate costs to a manufacturer of covered household
+10 hazardous products based on the sales of covered household hazardous
+11 products nationally prorated to the population of Vermont.
+12 Sec. 8. 10 V.S.A. § 6621a is amended to read:
+13 § 6621a. LANDFILL DISPOSAL REQUIREMENTS
+14 (a) In accordance with the following schedule, no person shall knowingly
+15 dispose of the following materials in solid waste or in landfills:
+16 * * *
+17 (12) Covered household hazardous products after July 1, 2025 2026.
+18 * * *
+19 Sec. 9. SOLID WASTE PLAN; FLEXIBILITY
+20 (a) Notwithstanding the municipal household hazardous waste (HHW)
+21 collection requirements under the State Solid Waste Plan adopted pursuant to
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 20 of 32
+1 10 V.S.A. § 6604, the Secretary of Natural Resources may grant a variance
+2 from the requirement to conduct at least two household hazardous waste
+3 collection events in that municipality. The variance shall allow a municipality
+4 to meet its obligations, as follows:
+5 (1) the municipality has partnered with another municipality to allow its
+6 residents the ability to access a permanent HHW facility in the same manner as
+7 the municipality that operates the permanent HHW facility;
+8 (2) the municipality has partnered with a nearby municipality to offer
+9 collection events to members in both municipalities; or
+10 (3) the municipality has demonstrated that it has made reasonable efforts
+11 to provide alternate collection opportunities identified under subdivisions (1)
+12 and (2) of this subsection and was unable and that the cost of a collection event
+13 is unreasonable. In such circumstances the Secretary of Natural Resources
+14 may reduce the required collection events to one per year.
+15 (b) This section shall be repealed on July 1, 2027.
+16 * * * Healthy Homes Initiative * * *
+17 Sec. 10. 2024 Acts and Resolves No. 78, Sec. B.1103 is amended to read:
+18 Sec. B.1103 CLIMATE AND ENVIRONMENT – FISCAL YEAR 2024
+19 ONE-TIME APPROPRIATIONS
+20 * * *
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 21 of 32
+1 (j)(1) In fiscal year 2024, the amount of $6,100,000 American Rescue Plan
+2 Act (ARPA) – Coronavirus State Fiscal Recovery Funds is appropriated to the
+3 Department of Environmental Conservation for the Healthy Homes Initiative.
+4 Funds shall be used to make repairs or improvements to drinking water,
+5 wastewater, or stormwater systems for Vermonters who have low to moderate
+6 income or who live in manufactured housing communities, or both.
+7 (2) All information submitted to or compiled by the Department of
+8 Environmental Conservation related to the issuance of individual funding
+9 awards under the Healthy Homes Initiative shall be considered confidential
+10 unless the person providing the information designates that it is not
+11 confidential. This shall include all personal information of applicants that
+12 request or receive funding. Notwithstanding 1 V.S.A. § 214, this subdivision
+13 shall take effect on passage and shall apply retroactively to July 1, 2023.
+14 * * *
+15 * * * Flood Safety * * *
+16 Sec. 11. 2024 Act and Resolves No. 121, Sec. 3 is amended to read:
+17 Sec. 3. DEPARTMENT OF ENVIRONMENTAL CONSERVATION;
+18 RIVER CORRIDOR BASE MAP; INFILL MAPPING;
+19 EDUCATION AND OUTREACH
+20 (a) On or before January 1, 2026 2027, the Department of Environmental
+21 Conservation, in consultation with the Agency of Commerce and Community
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 22 of 32
+1 Development and the regional planning commissions, shall amend by
+2 procedure the statewide River Corridor Base Map to identify areas suitable for
+3 development that are located within existing settlements and that will not cause
+4 or contribute to increases in fluvial erosion hazards.
+5 (b) Beginning on January 1, 2025 and ending on January 1, 2027 2028, the
+6 Department of Environmental Conservation shall conduct an education and
+7 outreach program to consult with and collect input from municipalities,
+8 environmental justice focus populations, the Environmental Justice Advisory
+9 Council, businesses, property owners, farmers, and other members of the
+10 public regarding how State permitting of development in mapped river
+11 corridors will be implemented, including potential restrictions on the use of
+12 land within mapped river corridors. The Department shall develop educational
+13 materials for the public as part of its charge under this section. The
+14 Department shall collect input from the public regarding the permitting of
+15 development in mapped river corridors as proposed by this act. On or before
+16 January 15, 2027 2028 and until permitting of development in mapped river
+17 corridors begins under 10 V.S.A. § 754, the Department shall submit to the
+18 Senate Committee on Natural Resources and Energy, the House Committee on
+19 Environment and Energy, and the Environmental Justice Advisory Council a
+20 report that shall include:
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 23 of 32
+1 (1) a summary of the public input it received regarding State permitting
+2 of development in mapped river corridors during the public education and
+3 outreach required under this section;
+4 (2) recommendations, based on the public input collected, for changes to
+5 the requirements for State permitting of development in mapped river
+6 corridors;
+7 (3) an analysis and summary of State permitting of development in
+8 mapped river corridors on environmental justice populations; and
+9 (4) a summary of the Department’s progress in adopting the rules
+10 required under 10 V.S.A. § 754 for the regulation of development in mapped
+11 river corridors.
+12 Sec. 12. 10 V.S.A. § 754 is amended to read:
+13 § 754. MAPPED RIVER CORRIDOR RULES
+14 (a) Rulemaking authority.
+15 (1) On or before July 1, 2027 July 15, 2028, the Secretary shall adopt
+16 rules pursuant to 3 V.S.A. chapter 25 that establish requirements for issuing
+17 and enforcing permits for:
+18 (A) all development within a mapped river corridor in the State; and
+19 (B) for development exempt from municipal regulation in flood
+20 hazard areas.
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 24 of 32
+1 (2) The Secretary shall not adopt rules under this subsection that
+2 regulate agricultural activities without the consent of the Secretary of
+3 Agriculture, Food and Markets, provided that the Secretary of Agriculture,
+4 Food and Markets shall not withhold consent under this subdivision when lack
+5 of such consent would result in the State’s noncompliance with the National
+6 Flood Insurance Program.
+7 (3) The Secretary shall seek the guidance of the Federal Emergency
+8 Management Agency in developing and drafting the rules required by this
+9 section in order to ensure that the rules are sufficient to meet eligibility
+10 requirements for the National Flood Insurance Program.
+11 * * *
+12 (e) Permit requirement. Beginning on January 1, 2028 July 1, 2029, a
+13 person shall not commence or conduct development exempt from municipal
+14 regulation in a flood hazard area or commence or conduct any development in
+15 a mapped river corridor without a permit issued under the rules required under
+16 subsection (a) of this section by the Secretary or by a State agency delegated
+17 permitting authority under subsection (f) of this section. When an application
+18 is filed under this section, the Secretary or delegated State agency shall
+19 proceed in accordance with chapter 170 of this title.
+20 * * *
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 25 of 32
+1 Sec. 13. 2024 Acts and Resolves 121, Sec. 10 is amended to read:
+2 Sec. 10. STUDY COMMITTEE ON STATE ADMINISTRATION OF
+3 THE NATIONAL FLOOD INSURANCE PROGRAM
+4 * * *
+5 (e) Report. On or before August 15, 2025 2026, the Study Committee shall
+6 submit a written report to the General Assembly with its findings and any
+7 recommendations for legislative action. Any recommendation for legislative
+8 action shall be as draft legislation.
+9 * * *
+10 Sec. 14. 2024 Acts and Resolves 121, Sec. 11(a) is amended to read:
+11 (a) The Secretary of Natural Resources shall initiate rulemaking, including
+12 pre-rulemaking, for the rules required in Sec. 5 of this act, 10 V.S.A. § 754
+13 (river corridor development), not later than July 1, 2025. The rules shall be
+14 adopted on or before July 1, 2027 2028.
+15 Sec. 15. 2024 Acts and Resolves No. 121, Sec. 29(b) is amended to read:
+16 (b) All other sections shall take effect July 1, 2024, except that:
+17 (1) Secs. 6a, 7, 8, 8a, and 9 (conforming amendments to municipal river
+18 corridor planning) shall take effect on January 1, 2028, except that in Sec. 9,
+19 24 V.S.A. § 4424(a)(2)(B)(i) (municipal compliance with the State Flood
+20 Hazard Area Standards) shall take effect on January 1, 2026 2028;
+21 * * *
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 26 of 32
+1 * * * Wetlands * * *
+2 Sec. 16. 10 V.S.A. § 918 is amended to read:
+3 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+4 (a) On or before July 1 December 1, 2025, the Secretary of Natural
+5 Resources shall amend the Vermont Wetlands Rules pursuant to 3 V.S.A.
+6 chapter 25 to clarify that the goal of wetlands regulation and management in
+7 the State is the net gain of wetlands to be achieved through protection of
+8 existing wetlands and restoration of wetlands that were previously adversely
+9 affected. This condition shall not apply to wetland, river, and flood plain
+10 restoration projects, including dam removals.
+11 * * *
+12 (c) At a minimum, the Wetlands Rules shall be revised to:
+13 (1) Require an applicant for a wetland permit that authorizes adverse
+14 impacts to more than 5,000 square feet of wetlands to compensate for those
+15 impacts through restoration, enhancement, or creation of wetland resources.
+16 (2) Incorporate the net gain rule into requirements for permits issued
+17 after September 1 December 1, 2025.
+18 * * *
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 27 of 32
+1 * * * Dams * * *
+2 Sec. 17. 2024 Acts and Resolves No. 121, Sec. 22 is amended to read:
+3 Sec. 22. STUDY COMMITTEE ON DAM EMERGENCY OPERATIONS
+4 PLANNING
+5 (a) Creation. There is created the Study Committee on Dam Emergency
+6 Operations Planning to review and recommend how to improve regional
+7 emergency action planning for hazards caused by dam failure, including how
+8 to shift responsibility for emergency planning from individual municipalities to
+9 regional authorities, how to improve regional implementation of dam
+10 emergency response plans, and how to fund dam emergency action planning at
+11 the regional level.
+12 * * *
+13 (e) Report. On or before December 15, 2024 2025, the Study Committee
+14 shall submit a written report to the General Assembly with its findings and any
+15 recommendations for legislative action. Any recommendation for legislative
+16 action shall be submitted as draft legislation.
+17 (f) Meetings.
+18 (1) The Secretary of Natural Resources or designee shall call the first
+19 meeting of the Study Committee.
+20 (2) The Committee shall select a chair from among its members at the
+21 first meeting.
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 28 of 32
+1 (3) A majority of the membership of the Study Committee shall
+2 constitute a quorum.
+3 (4) The Study Committee shall cease to exist on March 1, 2025 2026.
+4 * * *
+5 Sec. 18. 2024 Acts and Resolves No. 121, Sec. 24(f) is amended to read:
+6 (f) On or before January 15 September 1, 2025, the Agency of Natural
+7 Resources shall complete its analysis of the capital and ongoing operations and
+8 maintenance costs of the Green River Dam, as authorized in 2022 Acts and
+9 Resolves No. 83, Sec. 46, and shall submit the results of the analysis to the
+10 House Committees on Environment and Energy and on Appropriations and the
+11 Senate Committees on Natural Resources and Energy and on Appropriations.
+12 * * * Resilience Implementation Strategy * * *
+13 Sec. 19. 10 V.S.A. § 599a is amended to read:
+14 § 599a. REPORTS; RULEMAKING
+15 (a) On or before January 15, 2025, the Agency, in consultation with the
+16 State Treasurer, shall submit a report to the General Assembly detailing the
+17 feasibility and progress of carrying out the requirements of this chapter,
+18 including any recommendations for improving the administration of the
+19 Program.
+20 (b) The Agency shall adopt rules necessary to implement the requirements
+21 of this chapter, including:
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 29 of 32
+1 (1) adopting methodologies using available science and publicly
+2 available data to identify responsible parties and determine their applicable
+3 share of covered greenhouse gas emissions; and
+4 (2) requirements for registering entities that are responsible parties and
+5 issuing notices of cost recovery demands under the Program; and
+6 (3) the Resilience Implementation Strategy, which shall include:
+7 (A) practices utilizing nature-based solutions intended to stabilize
+8 floodplains, riparian zones, lake shoreland, wetlands, and similar lands;
+9 (B) practices to adapt infrastructure to the impacts of climate change;
+10 (C) practices needed to build out early warning mechanisms and
+11 support fast, effective response to climate-related threats;
+12 (D) practices that support economic and environmental sustainability
+13 in the face of changing climate conditions; and
+14 (E) criteria and procedures for prioritizing climate change adaptation
+15 projects eligible to receive monies from the Climate Superfund Cost Recovery
+16 Program.
+17 (c) On or before September 15, 2025, the Secretary shall submit to the
+18 House Committee on Environment and the Senate Committee on Natural
+19 Resources and Energy a report summarizing the Agency of Natural Resources’
+20 adoption of the Resilience Implementation Strategy. The Strategy shall
+21 include:
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 30 of 32
+1 (1) practices utilizing nature-based solutions intended to stabilize
+2 floodplains, riparian zones, lake shoreland, wetlands, and similar lands;
+3 (2) practices to adapt infrastructure to the impacts of climate change;
+4 (3) practices needed to build out early warning mechanisms and support
+5 fast, effective response to climate-related threats;
+6 (4) practices that support economic and environmental sustainability in
+7 the face of changing climate conditions; and
+8 (5) criteria and procedures for prioritizing climate change adaptation
+9 projects eligible to receive monies from the Climate Superfund Cost Recovery
+10 Program.
+11 (c)(d) In adopting the Strategy, the Agency shall:
+12 (1) consult with the Environmental Justice Advisory Council;
+13 (2) in consultation with other State agencies and departments, including
+14 the Department of Public Safety’s Division of Vermont Emergency
+15 Management, assess the adaptation needs and vulnerabilities of various areas
+16 vital to the State’s economy, normal functioning, and the health and well-being
+17 of Vermonters;
+18 (3) identify major potential, proposed, and ongoing climate change
+19 adaptation projects throughout the State;
+20 (4) identify opportunities for alignment with existing federal, State, and
+21 local funding streams;
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 31 of 32
+1 (5) consult with stakeholders, including local governments, businesses,
+2 environmental advocates, relevant subject area experts, and representatives of
+3 environmental justice focus populations;
+4 (6) consider components of the Vermont Climate Action Plan required
+5 under section 592 of this title that are related to adaptation or resilience, as
+6 defined in section 590 of this title; and
+7 (7) conduct public engagement in areas and communities that have the
+8 most significant exposure to the impacts of climate change, including
+9 disadvantaged, low-income, and rural communities and areas.
+10 (d)(e) Nothing in this section shall be construed to limit the existing
+11 authority of a State agency, department, or entity to regulate greenhouse gas
+12 emissions or establish strategies or adopt rules to mitigate climate risk and
+13 build resilience to climate change.
+14 Sec. 20. 2024 Acts and Resolves No. 122, Sec. 3(a) is amended to read:
+15 (a) On or before July 1, 2025, the Agency of Natural Resources pursuant to
+16 3 V.S.A. § 837 shall file with the Interagency Committee on Administrative
+17 Rules the proposed rule for the adoption of the Resilience Implementation
+18 Strategy required pursuant to 10 V.S.A § 599a(b)(3). On or before January 1,
+19 2026, the Agency of Natural Resources shall adopt the final rule establishing
+20 the Resilience Implementation Strategy required pursuant to 10 V.S.A
+21 § 599a(b)(3). [Repealed.]
+VT LEG #382116 v.1
+AS PASSED BY HOUSE H.319
+2025 Page 32 of 32
+1 * * * Effective Date * * *
+2 Sec. 21. EFFECTIVE DATE
+3 This act shall take effect on passage.
+VT LEG #382116 v.1
+[DELETED:  H P H A I * S S ( s c e b ( ( ( ( ( e u ( m s]
+[DELETED:  H P ( S E * S ( t m s t * S § A * ( p p c]
+[DELETED:  H P ( u R ( ( t * ( t * S §     ( ( s h o ( c]
+[DELETED:  H P h s f ( o ( t A s ( p s ( p s ( ( o s r]
+[DELETED:  H P ( o ( s ( m ( r ( r r ( n s ( t A o r ( o]
+[DELETED:  H P ( s ( m ( r ( r r ( n s ( m s o S § ( 2 r]
+[DELETED:  H P c m ( i ( t ( p r ( p a o h o f h b p p o]
+[DELETED:  H P c e e m ( d w c p o c ( e m e d m o e D o]
+[DELETED:  H P p t a o o s o a o t ( h ( c ( h ( c ( i a]
+[DELETED:  H P h h h ( c e w h i r b ( ( d f n h b ( a h]
+[DELETED:  H P t s p a t o I S p a c c a ( t p a c p s e]
+[DELETED:  H P e c f p a S ( b f ( p r ( p a c s p c p h]
+[DELETED:  H P c a C m e c ( s h i e a a ( a i p S m o e]
+[DELETED:  H P D o e d o S a c s s a ( h ( h ( h ( c ( i]
+[DELETED:  H P a h h h ( c e w h i r b ( ( d f n h b ( p]
+[DELETED:  H P a p A p a s c p o t m c s e p ( s a o h e]
+[DELETED:  H P c f p a S ( u p r ( i d S § ( t t t ( s]
+[DELETED:  H P ( a ( o ( m a ( r p S § ( a a t * ( b s S]
+[DELETED:  H P s s o r t A s w s h p S § ( d * ( * S ( c]
+[DELETED:  H P 1 f c t ( r t ( c ( t a i m ( * S S   *]
+[DELETED:  H P ( A D F w i ( E a u c r s * * S S     ( C]
+[DELETED:  H P D p d o ( D o e C p c l m D d J c S E r]
+[DELETED:  H P ( o o ( t c ( m ( r r S § ( ( r a ( ( h]
+[DELETED:  H P ( r A F o F ( M s r * ( p r a s p i p *]
+[DELETED:  H P S S   * ( s r a * S ( p ( a S ( ( c 2 H *]
+[DELETED:  H P * S § ( R c t e a r * ( ( i i ( a *]
+[DELETED:  H P * S S   ( O e t r e t * ( s r a ( ( m ( f]
+[DELETED:  H P ( c ( * S ( R m R H S * S § ( S f i P ( o]
+[DELETED:  H P ( a s ( i ( ( f ( ( s ( i ( p P ( H R a i]
+[DELETED:  H P ( f ( ( f ( t ( p P ( ( ( t M v o ( a ( l]
+[DELETED:  H P ( e e ( u d ( m d ( a e b S ( 3 R S 2 t §]
+[DELETED:  H P * S T]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE H.319
+2025 Page 1 of 32
+1 H.319
+2 An act relating to miscellaneous environmental subjects
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 * * * Battery Extended Producer Responsibility * * *
+5 Sec. 1. 2024 Acts and Resolves No. 152, Sec. 3 is amended to read:
+6 Sec. 3. ANR BATTERY ASSESSMENT
+7 (a) On or before July 1, 2026, the Secretary of Natural Resources 2027, the
+8 stewardship organization formed pursuant to 10 V.S.A. chapter 168 shall
+9 complete an assessment of the opportunities, challenges, and feasibility of
+10 establishing mandatory end-of-life management programs for the following
+11 battery types:
+12 (1) batteries used in hybrid and electric vehicles;
+13 (2) battery energy storage systems; and
+14 (3) batteries that are not easily removable from the products they power.
+15 (b) The assessment required by this section shall include:
+16 (1) a summary of the work and progress other states have made in
+17 establishing end-of-life management programs for the three battery types listed
+18 under subsection (a) of this section; and
+19 (2) policy recommendations on whether mandatory end-of-life
+20 management programs are necessary for the battery types listed under
+21 subsection (a) of this section.
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 2 of 32
+1 (c) The assessment required by this section shall be provided to the
+2 Secretary of Natural Resources, the House Committee on Environment and
+3 Energy, and the Senate Committee on Natural Resources and Energy.
+4 * * * Fuel Storage Tanks * * *
+5 Sec. 2. 10 V.S.A. § 1927(d) is amended to read:
+6 (d) No person shall deliver a regulated substance to a category one tank
+7 that is visibly designated by the Agency as not having a valid permit or not
+8 meeting standards adopted by the Secretary related to corrosion protection,
+9 spill prevention, leak detection, financial responsibility, or overfill protection
+10 that may result in the tank releasing a regulated substance to the environment.
+11 * * * Household Hazardous Waste Extended Producer Responsibility * * *
+12 Sec. 3. 10 V.S.A. § 7181 is amended to read:
+13 § 7181. DEFINITIONS
+14 As used in this chapter:
+15 * * *
+16 (4)(A) “Covered household hazardous product” means a consumer
+17 product offered for retail sale that is contained in the receptacle in which the
+18 product is offered for retail sale, if the product has any of the following
+19 characteristics:
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 3 of 32
+1 (i) the product or a component of the product is a hazardous waste
+2 under subchapter 2 of the Vermont Hazardous Waste Management
+3 Regulations, regardless of the status of the generator of the hazardous waste; or
+4 (ii) the product is a gas cylinder.
+5 (B) “Covered household hazardous product” does not mean any of
+6 the following:
+7 * * *
+8 (iv) architectural paint as that term is defined in section 6672 of
+9 this title;
+10 * * *
+11 Sec. 4. 10 V.S.A. § 7182 is amended to read:
+12 § 7182. SALE OF COVERED HOUSEHOLD HAZARDOUS PRODUCTS;
+13 STEWARDSHIP ORGANIZATION REGISTRATION;
+14 MANUFACTURER REGISTRATION
+15 (a) Sale prohibited.
+16 (1) A manufacturer of a covered household hazardous product shall not
+17 sell, offer for sale, or deliver to a retailer for subsequent sale a covered
+18 household hazardous product without registering with the stewardship
+19 organization pursuant to subsection (c) of this section.
+20 (2) Beginning six months after a final decision on the adequacy of a
+21 collection plan by the Secretary, a manufacturer of a covered household
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 4 of 32
+1 hazardous product shall not sell, offer for sale, or deliver to a retailer for
+2 subsequent sale a covered household hazardous product unless all the
+3 following have been met:
+4 (1)(A) The manufacturer is participating in a stewardship
+5 organization implementing an approved collection plan.
+6 (2)(B) The name of the manufacturer, the manufacturer’s brand, and
+7 the name of the covered household hazardous product are submitted to the
+8 Agency of Natural Resources by a stewardship organization and listed on the
+9 stewardship organization’s website as covered by an approved collection plan.
+10 (3)(C) The stewardship organization in which the manufacturer
+11 participates has submitted an annual report consistent with the requirements of
+12 section 7185 of this title.
+13 (4)(D) The stewardship organization in which the manufacturer
+14 participates has conducted a plan audit consistent with the requirements of
+15 subsection 7185(b) of this title.
+16 (b) Stewardship organization registration requirements.
+17 (1) On or before July 1, 2025 and annually thereafter, a stewardship
+18 organization shall file a registration form with the Secretary. The Secretary
+19 shall provide the registration form to the stewardship organization. The
+20 registration form shall include:
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 5 of 32
+1 (A) a list of the manufacturers participating in the stewardship
+2 organization;
+3 (B) a list of the brands of each manufacturer participating in the
+4 stewardship organization;
+5 (C) a list of the covered household hazardous products of each
+6 manufacturer participating in the stewardship organization;
+7 (D) the name, address, and contact information of a person
+8 responsible for ensuring compliance with this chapter;
+9 (E) a description of how the stewardship organization meets the
+10 requirements of subsection 7184(b) of this title, including any reasonable
+11 requirements for participation in the stewardship organization; and
+12 (F)(B) the name, address, and contact information of a person for a
+13 nonmember manufacturer to contact regarding how to participate in the
+14 stewardship organization to satisfy the requirements of this chapter.
+15 (2) A renewal of a registration without changes may be accomplished
+16 through notifying the Agency of Natural Resources on a form provided by the
+17 Agency Beginning July 1, 2026 and annually thereafter, a stewardship
+18 organization shall renew its registration with the Secretary. A renewal
+19 registration shall include the following:
+20 (A) a list of the manufacturers participating in the stewardship
+21 organization;
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 6 of 32
+1 (B) a list of the brands of each manufacturer participating in the
+2 stewardship organization;
+3 (C) a list of the covered household hazardous products of each
+4 manufacturer participating in the stewardship organization;
+5 (D) the name, address, and contact information of a person
+6 responsible for ensuring compliance with this chapter;
+7 (E) a description of how the stewardship organization meets the
+8 requirements of subsection 7184(b) of this title, including any reasonable
+9 requirements for participation in the stewardship organization; and
+10 (F) the name, address, and contact information of a person for a
+11 nonmember manufacturer to contact regarding how to participate in the
+12 stewardship organization to satisfy the requirements of this chapter.
+13 (c) Manufacturer registration. On or before November 1, 2025, a
+14 manufacturer of a covered household hazardous product shall register with the
+15 stewardship organization in a manner proscribed by the stewardship
+16 organization.
+17 Sec. 5. 10 V.S.A. § 7183 is amended to read:
+18 § 7183. COLLECTION PLANS
+19 (a) Collection plan required. Prior to July 1, 2025 On or before July 1,
+20 2026, any stewardship organization registered with the Secretary as
+21 representing manufacturers of covered household hazardous products shall
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 7 of 32
+1 coordinate and submit to the Secretary for review one collection plan for all
+2 manufacturers.
+3 (b) Collection plan; minimum requirements. Each collection plan shall
+4 include, at a minimum, all of the following requirements:
+5 (1) Initial plan. The initial plan shall last for a period not to exceed
+6 three years and contain, at a minimum, the following requirements:
+7 (A) List of participants. A list of the manufacturers, brands, and
+8 products participating in the collection plan and a methodology for adding and
+9 removing manufacturers and notifying the Agency of new participants.
+10 (2)(B) Free statewide collection of covered household hazardous
+11 products. The collection program shall provide reimburse municipalities when
+12 a municipality provides for free, convenient, and accessible statewide
+13 opportunities for the collection from covered entities of covered household
+14 hazardous products, including orphan covered products. A stewardship
+15 organization shall accept all covered household hazardous products collected
+16 from a covered entity and shall not refuse the collection of a covered
+17 household hazardous product, including orphan covered household products,
+18 based on the brand or manufacturer of the covered household hazardous
+19 product unless specifically exempt from this requirement. The collection
+20 program shall also provide for the payment of collection, processing, and end-
+21 of-life management of the covered household hazardous products. Collection
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 8 of 32
+1 costs include facility costs, equipment costs, labor, supplies, maintenance,
+2 events costs, and event contractor costs, including collection event set-up fees,
+3 environmental service fees, insurance fees, and shipping containers and
+4 materials.
+5 (3) Convenient collection location. The stewardship organization shall
+6 develop a collection program that allows all municipal household hazardous
+7 waste collection programs to opt to be a part of the collection plan, including
+8 collection events and facilities offered by solid waste planning entities. The
+9 plan shall make efforts to site points of collection equitably across all regions
+10 of the State to allow for convenient and reasonable access of all Vermonters to
+11 collection facilities or collection events.
+12 (4) Public education and outreach. The collection plan shall include an
+13 education and outreach program that shall include a website and may include
+14 media advertising, retail displays, articles and publications, and other public
+15 educational efforts. Outreach and education shall be suitable for the State’s
+16 diverse ethnic populations, through translated and culturally appropriate
+17 materials, including in-language and targeted outreach. Public education and
+18 outreach should include content to increase meaningful participation by
+19 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+20 During the first year of program implementation and two years after adoption
+21 of the collection plan, each stewardship organization shall carry out a survey of
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 9 of 32
+1 public awareness regarding the requirements of the program established under
+2 this chapter that can identify communities that have disparities in awareness
+3 and need more outreach. Each stewardship organization shall share the results
+4 of the public awareness surveys with the Secretary. If multiple stewardship
+5 organizations are implementing plans approved by the Secretary, the
+6 stewardship organizations shall coordinate in carrying out their education and
+7 outreach responsibilities under this subdivision and shall include in their
+8 annual reports to the Secretary a summary of their coordinated education and
+9 outreach efforts. The education and outreach program and website shall notify
+10 the public of the following:
+11 (A) that there is a free collection program for covered household
+12 hazardous products;
+13 (B) the location and hours of operation of collection points and how a
+14 covered entity can access this collection program;
+15 (C) the special handling considerations associated with covered
+16 household hazardous products; and
+17 (D) source reduction information for consumers to reduce leftover
+18 covered household products.
+19 (5) Compliance with appropriate environmental standards. In
+20 implementing a collection plan, a stewardship organization shall comply with
+21 all applicable laws related to the collection, transportation, and disposal of
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 10 of 32
+1 hazardous waste. A stewardship organization shall comply with any special
+2 handling or disposal standards established by the Secretary for covered
+3 household hazardous products or for the collection plan of the manufacturer.
+4 (6) Method of disposition. The collection plan shall describe how
+5 covered household hazardous products will be managed in the most
+6 environmentally and economically sound manner, including following the
+7 waste-management hierarchy. The management of covered household
+8 hazardous products under the collection plan shall use management activities
+9 in the following priority order: source reduction, reuse, recycling, energy
+10 recovery, and disposal. Collected covered household hazardous products shall
+11 be recycled when technically and economically feasible.
+12 (7) Performance goals. A collection plan shall include:
+13 (A) A performance goal for covered household hazardous products
+14 determined by the number of total participants at collection events and
+15 facilities listed in the collection plan during a program year divided by the total
+16 number of households. The number of households shall include seasonal
+17 households. The calculation methodology for the number of households shall
+18 be included in the plan.
+19 (B) At a minimum, the collection performance goal for the first
+20 approved plan shall be an annual participation rate of five percent of the
+21 households for every collection program based on the number of households
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 11 of 32
+1 the collection program serves. After the initial approved program plan, the
+2 stewardship organization shall propose performance goals for subsequent
+3 program plans. The Secretary shall approve the performance goals for the plan
+4 at least every five years. The stewardship organization shall use the results of
+5 the most recent waste composition study required under 6604 of this title and
+6 other relevant factors to propose the performance goals of the collection plan.
+7 If a stewardship organization does not meet its performance goals, the
+8 Secretary may require the stewardship organization to revise the collection
+9 plan to provide for one or more of the following: additional public education
+10 and outreach, additional collection events, or additional hours of operation for
+11 collection sites. A stewardship organization is not authorized to reduce or
+12 cease collection, education and outreach, or other activities implemented under
+13 an approved plan on the basis of achievement of program performance goals.
+14 (8)(C) Collection plan funding. The collection plan shall describe how
+15 the stewardship organization will fund the implementation of the collection
+16 plan and collection activities under the plan, including the costs for education
+17 and outreach, collection, processing, and end-of-life management of the
+18 covered household hazardous product all municipal collection offered to the
+19 public in a base program year. A base program year shall be based on the
+20 services provided in calendar year 2024 and any other collection facilities or
+21 events approved by the Secretary. Collection costs include facility costs,
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 12 of 32
+1 equipment costs, labor, supplies, maintenance, events costs, and event
+2 contractor costs, including collection event set-up fees, environmental service
+3 fees, insurance fees, and shipping containers and materials. The collection
+4 plan shall include how municipalities will be compensated for all costs
+5 attributed to collection of covered household hazardous products. The
+6 Secretary shall resolve disputes relating to compensation.
+7 (2) Subsequent plans. After the expiration of the initial plan approved
+8 by the Secretary, the collection plan shall include, at a minimum, the
+9 following:
+10 (A) List of participants. A list of the manufacturers, brands, and
+11 products participating in the collection plan and a methodology for adding and
+12 removing manufacturers and notifying the Agency of new participants.
+13 (B) Free statewide collection of covered household hazardous
+14 products. The collection program shall provide for free, convenient, and
+15 accessible statewide opportunities for the collection from covered entities of
+16 covered household hazardous products, including orphan covered products. A
+17 stewardship organization shall accept all covered household hazardous
+18 products collected from a covered entity and shall not refuse the collection of a
+19 covered household hazardous product, including orphan covered household
+20 products, based on the brand or manufacturer of the covered household
+21 hazardous product unless specifically exempt from this requirement. The
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 13 of 32
+1 collection program shall also provide for the payment of collection, processing,
+2 and end-of-life management of the covered household hazardous products.
+3 Collection costs include facility costs, equipment costs, labor, supplies,
+4 maintenance, events costs, and event contractor costs, including collection
+5 event set-up fees, environmental service fees, insurance fees, and shipping
+6 containers and materials.
+7 (C) Convenient collection location. The stewardship organization
+8 shall develop a collection program that allows all municipal household
+9 hazardous waste collection programs to opt to be a part of the collection plan,
+10 including collection events and facilities offered by solid waste planning
+11 entities. The plan shall make efforts to site points of collection equitably
+12 across all regions of the State to allow for convenient and reasonable access of
+13 all Vermonters to collection facilities or collection events.
+14 (D) Public education and outreach. The collection plan shall include
+15 an education and outreach program that shall include a website and may
+16 include media advertising, retail displays, articles and publications, and other
+17 public educational efforts. Outreach and education shall be suitable for the
+18 State’s diverse ethnic populations, through translated and culturally appropriate
+19 materials, including in-language and targeted outreach. Public education and
+20 outreach should include content to increase meaningful participation by
+21 environmental justice focus populations as required by 3 V.S.A. chapter 72.
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 14 of 32
+1 During the second approved plan, each stewardship organization shall carry
+2 out a survey of public awareness regarding the requirements of the program
+3 established under this chapter that can identify communities that have
+4 disparities in awareness and need more outreach. Each stewardship
+5 organization shall share the results of the public awareness surveys with the
+6 Secretary. If multiple stewardship organizations are implementing plans
+7 approved by the Secretary, the stewardship organizations shall coordinate in
+8 carrying out their education and outreach responsibilities under this
+9 subdivision (D) and shall include in their annual reports to the Secretary a
+10 summary of their coordinated education and outreach efforts. The education
+11 and outreach program and website shall notify the public of the following:
+12 (i) that there is a free collection program for covered household
+13 hazardous products;
+14 (ii) the location and hours of operation of collection points and
+15 how a covered entity can access this collection program;
+16 (iii) the special handling considerations associated with covered
+17 household hazardous products; and
+18 (iv) source reduction information for consumers to reduce leftover
+19 covered household products.
+20 (E) Compliance with appropriate environmental standards. In
+21 implementing a collection plan, a stewardship organization shall comply with
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 15 of 32
+1 all applicable laws related to the collection, transportation, and disposal of
+2 hazardous waste. A stewardship organization shall comply with any special
+3 handling or disposal standards established by the Secretary for covered
+4 household hazardous products or for the collection plan of the manufacturer.
+5 (F) Method of disposition. The collection plan shall describe how
+6 covered household hazardous products will be managed in the most
+7 environmentally and economically sound manner, including following the
+8 waste-management hierarchy. The management of covered household
+9 hazardous products under the collection plan shall use management activities
+10 in the following priority order: source reduction, reuse, recycling, energy
+11 recovery, and disposal. Collected covered household hazardous products shall
+12 be recycled when technically and economically feasible.
+13 (G) Performance goals. A collection plan shall include:
+14 (i) A performance goal for covered household hazardous products
+15 determined by the number of total participants at collection events and
+16 facilities listed in the collection plan during a program year divided by the total
+17 number of households. The number of households shall include seasonal
+18 households. The calculation methodology for the number of households shall
+19 be included in the plan.
+20 (ii) At a minimum, the collection performance goal for the initial
+21 plan approved pursuant to subdivision (1) of this subsection (b) shall be an
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 16 of 32
+1 annual participation rate of five percent of the households for every collection
+2 program based on the number of households the collection program serves.
+3 After the initial approved program plan, the stewardship organization shall
+4 propose performance goals for subsequent program plans. The Secretary shall
+5 approve the performance goals for the plan at least every five years. The
+6 stewardship organization shall use the results of the most recent waste
+7 composition study required under 6604 of this title and other relevant factors to
+8 propose the performance goals of the collection plan. If a stewardship
+9 organization does not meet its performance goals, the Secretary may require
+10 the stewardship organization to revise the collection plan to provide for one or
+11 more of the following: additional public education and outreach, additional
+12 collection events, or additional hours of operation for collection sites. A
+13 stewardship organization is not authorized to reduce or cease collection,
+14 education and outreach, or other activities implemented under an approved
+15 plan on the basis of achievement of program performance goals.
+16 (H) Collection plan funding. The collection plan shall describe how the
+17 stewardship organization will fund the implementation of the collection plan
+18 and collection activities under the plan, including the costs for education and
+19 outreach, collection, processing, and end-of-life management of the covered
+20 household hazardous product. Collection costs include facility costs,
+21 equipment costs, labor, supplies, maintenance, events costs, and event
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 17 of 32
+1 contractor costs, including collection event set-up fees, environmental service
+2 fees, insurance fees, and shipping containers and materials. The collection
+3 plan shall include how municipalities will be compensated for all costs
+4 attributed to collection of covered household hazardous products. The
+5 Secretary shall resolve disputes relating to compensation.
+6 (c) Term of collection plan. A collection plan approved by the Secretary
+7 under section 7187 of this title shall have a term not to exceed five years,
+8 provided that the stewardship organization remains in compliance with the
+9 requirements of this chapter and the terms of the approved collection plan.
+10 (d) Collection plan implementation. Stewardship organizations shall
+11 implement the collection plan on or before six months after the date of a final
+12 decision by the Secretary on the adequacy of the collection plan.
+13 Sec. 6. 10 V.S.A. § 7184 is amended to read:
+14 § 7184. STEWARDSHIP ORGANIZATIONS
+15 (a) Participation in a stewardship organization. A manufacturer shall meet
+16 the requirements of this chapter by participating in a stewardship organization
+17 that undertakes the responsibilities under sections 7182, 7183, and 7185 of this
+18 title.
+19 (b) Qualifications for a stewardship organization. To qualify as a
+20 stewardship organization under this chapter, an organization shall:
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 18 of 32
+1 (1) commit to assume the responsibilities, obligations, and liabilities of
+2 all manufacturers participating in the stewardship organization;
+3 (2) not create unreasonable barriers for participation in the stewardship
+4 organization; and
+5 (3) maintain a public website that lists all manufacturers and
+6 manufacturers’ brands and products covered by the stewardship organization’s
+7 approved collection plan.
+8 (c) A stewardship organization is authorized to charge its members
+9 reasonable fees for the organization, administration, and implementation of the
+10 programs required by this chapter.
+11 Sec. 7. 10 V.S.A. § 7187 is amended to read:
+12 § 7187. AGENCY RESPONSIBILITIES
+13 (a) Review and approve collection plans. The Secretary shall review and
+14 approve or deny collection plans submitted under section 7183 of this title
+15 according to the public notice and comment requirements of section 7714 of
+16 this title.
+17 * * *
+18 (g) Agency collection plan. If no stewardship organization is formed on or
+19 before July 1, 2025 or the stewardship organization fails to submit a plan or
+20 submits a plan that does not meet the requirements of this chapter, the
+21 Secretary shall adopt and administer a plan that meets the requirements of
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 19 of 32
+1 section 7183 of this title. If the Secretary administers the plan adopted under
+2 section 7183, the Secretary shall charge each manufacturer the prorated costs
+3 of plan administration, the Agency’s oversight costs, and a hazardous waste
+4 reduction assessment of 10 percent of the plan’s total cost to be deposited in
+5 the Solid Waste Management Assistance Account of the Waste Management
+6 Assistance Fund, for the purpose of providing grants to municipalities and
+7 small businesses to prevent pollution and reduce the generation of hazardous
+8 waste in the State. When determining a manufacturer’s assessment under this
+9 section, the Agency may allocate costs to a manufacturer of covered household
+10 hazardous products based on the sales of covered household hazardous
+11 products nationally prorated to the population of Vermont.
+12 Sec. 8. 10 V.S.A. § 6621a is amended to read:
+13 § 6621a. LANDFILL DISPOSAL REQUIREMENTS
+14 (a) In accordance with the following schedule, no person shall knowingly
+15 dispose of the following materials in solid waste or in landfills:
+16 * * *
+17 (12) Covered household hazardous products after July 1, 2025 2026.
+18 * * *
+19 Sec. 9. SOLID WASTE PLAN; FLEXIBILITY
+20 (a) Notwithstanding the municipal household hazardous waste (HHW)
+21 collection requirements under the State Solid Waste Plan adopted pursuant to
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 20 of 32
+1 10 V.S.A. § 6604, the Secretary of Natural Resources may grant a variance
+2 from the requirement to conduct at least two household hazardous waste
+3 collection events in that municipality. The variance shall allow a municipality
+4 to meet its obligations, as follows:
+5 (1) the municipality has partnered with another municipality to allow its
+6 residents the ability to access a permanent HHW facility in the same manner as
+7 the municipality that operates the permanent HHW facility;
+8 (2) the municipality has partnered with a nearby municipality to offer
+9 collection events to members in both municipalities; or
+10 (3) the municipality has demonstrated that it has made reasonable efforts
+11 to provide alternate collection opportunities identified under subdivisions (1)
+12 and (2) of this subsection and was unable and that the cost of a collection event
+13 is unreasonable. In such circumstances the Secretary of Natural Resources
+14 may reduce the required collection events to one per year.
+15 (b) This section shall be repealed on July 1, 2027.
+16 * * * Healthy Homes Initiative * * *
+17 Sec. 10. 2024 Acts and Resolves No. 78, Sec. B.1103 is amended to read:
+18 Sec. B.1103 CLIMATE AND ENVIRONMENT – FISCAL YEAR 2024
+19 ONE-TIME APPROPRIATIONS
+20 * * *
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 21 of 32
+1 (j)(1) In fiscal year 2024, the amount of $6,100,000 American Rescue Plan
+2 Act (ARPA) – Coronavirus State Fiscal Recovery Funds is appropriated to the
+3 Department of Environmental Conservation for the Healthy Homes Initiative.
+4 Funds shall be used to make repairs or improvements to drinking water,
+5 wastewater, or stormwater systems for Vermonters who have low to moderate
+6 income or who live in manufactured housing communities, or both.
+7 (2) All information submitted to or compiled by the Department of
+8 Environmental Conservation related to the issuance of individual funding
+9 awards under the Healthy Homes Initiative shall be considered confidential
+10 unless the person providing the information designates that it is not
+11 confidential. This shall include all personal information of applicants that
+12 request or receive funding. Notwithstanding 1 V.S.A. § 214, this subdivision
+13 shall take effect on passage and shall apply retroactively to July 1, 2023.
+14 * * *
+15 * * * Flood Safety * * *
+16 Sec. 11. 2024 Act and Resolves No. 121, Sec. 3 is amended to read:
+17 Sec. 3. DEPARTMENT OF ENVIRONMENTAL CONSERVATION;
+18 RIVER CORRIDOR BASE MAP; INFILL MAPPING;
+19 EDUCATION AND OUTREACH
+20 (a) On or before January 1, 2026 2027, the Department of Environmental
+21 Conservation, in consultation with the Agency of Commerce and Community
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 22 of 32
+1 Development and the regional planning commissions, shall amend by
+2 procedure the statewide River Corridor Base Map to identify areas suitable for
+3 development that are located within existing settlements and that will not cause
+4 or contribute to increases in fluvial erosion hazards.
+5 (b) Beginning on January 1, 2025 and ending on January 1, 2027 2028, the
+6 Department of Environmental Conservation shall conduct an education and
+7 outreach program to consult with and collect input from municipalities,
+8 environmental justice focus populations, the Environmental Justice Advisory
+9 Council, businesses, property owners, farmers, and other members of the
+10 public regarding how State permitting of development in mapped river
+11 corridors will be implemented, including potential restrictions on the use of
+12 land within mapped river corridors. The Department shall develop educational
+13 materials for the public as part of its charge under this section. The
+14 Department shall collect input from the public regarding the permitting of
+15 development in mapped river corridors as proposed by this act. On or before
+16 January 15, 2027 2028 and until permitting of development in mapped river
+17 corridors begins under 10 V.S.A. § 754, the Department shall submit to the
+18 Senate Committee on Natural Resources and Energy, the House Committee on
+19 Environment and Energy, and the Environmental Justice Advisory Council a
+20 report that shall include:
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 23 of 32
+1 (1) a summary of the public input it received regarding State permitting
+2 of development in mapped river corridors during the public education and
+3 outreach required under this section;
+4 (2) recommendations, based on the public input collected, for changes to
+5 the requirements for State permitting of development in mapped river
+6 corridors;
+7 (3) an analysis and summary of State permitting of development in
+8 mapped river corridors on environmental justice populations; and
+9 (4) a summary of the Department’s progress in adopting the rules
+10 required under 10 V.S.A. § 754 for the regulation of development in mapped
+11 river corridors.
+12 Sec. 12. 10 V.S.A. § 754 is amended to read:
+13 § 754. MAPPED RIVER CORRIDOR RULES
+14 (a) Rulemaking authority.
+15 (1) On or before July 1, 2027 July 15, 2028, the Secretary shall adopt
+16 rules pursuant to 3 V.S.A. chapter 25 that establish requirements for issuing
+17 and enforcing permits for:
+18 (A) all development within a mapped river corridor in the State; and
+19 (B) for development exempt from municipal regulation in flood
+20 hazard areas.
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 24 of 32
+1 (2) The Secretary shall not adopt rules under this subsection that
+2 regulate agricultural activities without the consent of the Secretary of
+3 Agriculture, Food and Markets, provided that the Secretary of Agriculture,
+4 Food and Markets shall not withhold consent under this subdivision when lack
+5 of such consent would result in the State’s noncompliance with the National
+6 Flood Insurance Program.
+7 (3) The Secretary shall seek the guidance of the Federal Emergency
+8 Management Agency in developing and drafting the rules required by this
+9 section in order to ensure that the rules are sufficient to meet eligibility
+10 requirements for the National Flood Insurance Program.
+11 * * *
+12 (e) Permit requirement. Beginning on January 1, 2028 July 1, 2029, a
+13 person shall not commence or conduct development exempt from municipal
+14 regulation in a flood hazard area or commence or conduct any development in
+15 a mapped river corridor without a permit issued under the rules required under
+16 subsection (a) of this section by the Secretary or by a State agency delegated
+17 permitting authority under subsection (f) of this section. When an application
+18 is filed under this section, the Secretary or delegated State agency shall
+19 proceed in accordance with chapter 170 of this title.
+20 * * *
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 25 of 32
+1 Sec. 13. 2024 Acts and Resolves 121, Sec. 10 is amended to read:
+2 Sec. 10. STUDY COMMITTEE ON STATE ADMINISTRATION OF
+3 THE NATIONAL FLOOD INSURANCE PROGRAM
+4 * * *
+5 (e) Report. On or before August 15, 2025 2026, the Study Committee shall
+6 submit a written report to the General Assembly with its findings and any
+7 recommendations for legislative action. Any recommendation for legislative
+8 action shall be as draft legislation.
+9 * * *
+10 Sec. 14. 2024 Acts and Resolves 121, Sec. 11(a) is amended to read:
+11 (a) The Secretary of Natural Resources shall initiate rulemaking, including
+12 pre-rulemaking, for the rules required in Sec. 5 of this act, 10 V.S.A. § 754
+13 (river corridor development), not later than July 1, 2025. The rules shall be
+14 adopted on or before July 1, 2027 2028.
+15 Sec. 15. 2024 Acts and Resolves No. 121, Sec. 29(b) is amended to read:
+16 (b) All other sections shall take effect July 1, 2024, except that:
+17 (1) Secs. 6a, 7, 8, 8a, and 9 (conforming amendments to municipal river
+18 corridor planning) shall take effect on January 1, 2028, except that in Sec. 9,
+19 24 V.S.A. § 4424(a)(2)(B)(i) (municipal compliance with the State Flood
+20 Hazard Area Standards) shall take effect on January 1, 2026 2028;
+21 * * *
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 26 of 32
+1 * * * Wetlands * * *
+2 Sec. 16. 10 V.S.A. § 918 is amended to read:
+3 § 918. NET GAIN OF WETLANDS; STATE GOAL; RULEMAKING
+4 (a) On or before July 1 December 1, 2025, the Secretary of Natural
+5 Resources shall amend the Vermont Wetlands Rules pursuant to 3 V.S.A.
+6 chapter 25 to clarify that the goal of wetlands regulation and management in
+7 the State is the net gain of wetlands to be achieved through protection of
+8 existing wetlands and restoration of wetlands that were previously adversely
+9 affected. This condition shall not apply to wetland, river, and flood plain
+10 restoration projects, including dam removals.
+11 * * *
+12 (c) At a minimum, the Wetlands Rules shall be revised to:
+13 (1) Require an applicant for a wetland permit that authorizes adverse
+14 impacts to more than 5,000 square feet of wetlands to compensate for those
+15 impacts through restoration, enhancement, or creation of wetland resources.
+16 (2) Incorporate the net gain rule into requirements for permits issued
+17 after September 1 December 1, 2025.
+18 * * *
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 27 of 32
+1 * * * Dams * * *
+2 Sec. 17. 2024 Acts and Resolves No. 121, Sec. 22 is amended to read:
+3 Sec. 22. STUDY COMMITTEE ON DAM EMERGENCY OPERATIONS
+4 PLANNING
+5 (a) Creation. There is created the Study Committee on Dam Emergency
+6 Operations Planning to review and recommend how to improve regional
+7 emergency action planning for hazards caused by dam failure, including how
+8 to shift responsibility for emergency planning from individual municipalities to
+9 regional authorities, how to improve regional implementation of dam
+10 emergency response plans, and how to fund dam emergency action planning at
+11 the regional level.
+12 * * *
+13 (e) Report. On or before December 15, 2024 2025, the Study Committee
+14 shall submit a written report to the General Assembly with its findings and any
+15 recommendations for legislative action. Any recommendation for legislative
+16 action shall be submitted as draft legislation.
+17 (f) Meetings.
+18 (1) The Secretary of Natural Resources or designee shall call the first
+19 meeting of the Study Committee.
+20 (2) The Committee shall select a chair from among its members at the
+21 first meeting.
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 28 of 32
+1 (3) A majority of the membership of the Study Committee shall
+2 constitute a quorum.
+3 (4) The Study Committee shall cease to exist on March 1, 2025 2026.
+4 * * *
+5 Sec. 18. 2024 Acts and Resolves No. 121, Sec. 24(f) is amended to read:
+6 (f) On or before January 15 September 1, 2025, the Agency of Natural
+7 Resources shall complete its analysis of the capital and ongoing operations and
+8 maintenance costs of the Green River Dam, as authorized in 2022 Acts and
+9 Resolves No. 83, Sec. 46, and shall submit the results of the analysis to the
+10 House Committees on Environment and Energy and on Appropriations and the
+11 Senate Committees on Natural Resources and Energy and on Appropriations.
+12 * * * Resilience Implementation Strategy * * *
+13 Sec. 19. 10 V.S.A. § 599a is amended to read:
+14 § 599a. REPORTS; RULEMAKING
+15 (a) On or before January 15, 2025, the Agency, in consultation with the
+16 State Treasurer, shall submit a report to the General Assembly detailing the
+17 feasibility and progress of carrying out the requirements of this chapter,
+18 including any recommendations for improving the administration of the
+19 Program.
+20 (b) The Agency shall adopt rules necessary to implement the requirements
+21 of this chapter, including:
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 29 of 32
+1 (1) adopting methodologies using available science and publicly
+2 available data to identify responsible parties and determine their applicable
+3 share of covered greenhouse gas emissions; and
+4 (2) requirements for registering entities that are responsible parties and
+5 issuing notices of cost recovery demands under the Program; and
+6 (3) the Resilience Implementation Strategy, which shall include:
+7 (A) practices utilizing nature-based solutions intended to stabilize
+8 floodplains, riparian zones, lake shoreland, wetlands, and similar lands;
+9 (B) practices to adapt infrastructure to the impacts of climate change;
+10 (C) practices needed to build out early warning mechanisms and
+11 support fast, effective response to climate-related threats;
+12 (D) practices that support economic and environmental sustainability
+13 in the face of changing climate conditions; and
+14 (E) criteria and procedures for prioritizing climate change adaptation
+15 projects eligible to receive monies from the Climate Superfund Cost Recovery
+16 Program.
+17 (c) On or before September 15, 2025, the Secretary shall submit to the
+18 House Committee on Environment and the Senate Committee on Natural
+19 Resources and Energy a report summarizing the Agency of Natural Resources’
+20 adoption of the Resilience Implementation Strategy. The Strategy shall
+21 include:
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 30 of 32
+1 (1) practices utilizing nature-based solutions intended to stabilize
+2 floodplains, riparian zones, lake shoreland, wetlands, and similar lands;
+3 (2) practices to adapt infrastructure to the impacts of climate change;
+4 (3) practices needed to build out early warning mechanisms and support
+5 fast, effective response to climate-related threats;
+6 (4) practices that support economic and environmental sustainability in
+7 the face of changing climate conditions; and
+8 (5) criteria and procedures for prioritizing climate change adaptation
+9 projects eligible to receive monies from the Climate Superfund Cost Recovery
+10 Program.
+11 (c)(d) In adopting the Strategy, the Agency shall:
+12 (1) consult with the Environmental Justice Advisory Council;
+13 (2) in consultation with other State agencies and departments, including
+14 the Department of Public Safety’s Division of Vermont Emergency
+15 Management, assess the adaptation needs and vulnerabilities of various areas
+16 vital to the State’s economy, normal functioning, and the health and well-being
+17 of Vermonters;
+18 (3) identify major potential, proposed, and ongoing climate change
+19 adaptation projects throughout the State;
+20 (4) identify opportunities for alignment with existing federal, State, and
+21 local funding streams;
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 31 of 32
+1 (5) consult with stakeholders, including local governments, businesses,
+2 environmental advocates, relevant subject area experts, and representatives of
+3 environmental justice focus populations;
+4 (6) consider components of the Vermont Climate Action Plan required
+5 under section 592 of this title that are related to adaptation or resilience, as
+6 defined in section 590 of this title; and
+7 (7) conduct public engagement in areas and communities that have the
+8 most significant exposure to the impacts of climate change, including
+9 disadvantaged, low-income, and rural communities and areas.
+10 (d)(e) Nothing in this section shall be construed to limit the existing
+11 authority of a State agency, department, or entity to regulate greenhouse gas
+12 emissions or establish strategies or adopt rules to mitigate climate risk and
+13 build resilience to climate change.
+14 Sec. 20. 2024 Acts and Resolves No. 122, Sec. 3(a) is amended to read:
+15 (a) On or before July 1, 2025, the Agency of Natural Resources pursuant to
+16 3 V.S.A. § 837 shall file with the Interagency Committee on Administrative
+17 Rules the proposed rule for the adoption of the Resilience Implementation
+18 Strategy required pursuant to 10 V.S.A § 599a(b)(3). On or before January 1,
+19 2026, the Agency of Natural Resources shall adopt the final rule establishing
+20 the Resilience Implementation Strategy required pursuant to 10 V.S.A
+21 § 599a(b)(3). [Repealed.]
+VT LEG #382116 v.1
+
+AS PASSED BY HOUSE H.319
+2025 Page 32 of 32
+1 * * * Effective Date * * *
+2 Sec. 21. EFFECTIVE DATE
+3 This act shall take effect on passage.
+VT LEG #382116 v.1
+
+[DELETED:  H P H A I * S S ( s c e b ( ( ( ( ( e u ( m s]
+[DELETED:  H P ( S E * S ( t m s t * S § A * ( p p c]
+[DELETED:  H P ( u R ( ( t * ( t * S §     ( ( s h o ( c]
+[DELETED:  H P h s f ( o ( t A s ( p s ( p s ( ( o s r]
+[DELETED:  H P ( o ( s ( m ( r ( r r ( n s ( t A o r ( o]
+[DELETED:  H P ( s ( m ( r ( r r ( n s ( m s o S § ( 2 r]
+[DELETED:  H P c m ( i ( t ( p r ( p a o h o f h b p p o]
+[DELETED:  H P c e e m ( d w c p o c ( e m e d m o e D o]
+[DELETED:  H P p t a o o s o a o t ( h ( c ( h ( c ( i a]
+[DELETED:  H P h h h ( c e w h i r b ( ( d f n h b ( a h]
+[DELETED:  H P t s p a t o I S p a c c a ( t p a c p s e]
+[DELETED:  H P e c f p a S ( b f ( p r ( p a c s p c p h]
+[DELETED:  H P c a C m e c ( s h i e a a ( a i p S m o e]
+[DELETED:  H P D o e d o S a c s s a ( h ( h ( h ( c ( i]
+[DELETED:  H P a h h h ( c e w h i r b ( ( d f n h b ( p]
+[DELETED:  H P a p A p a s c p o t m c s e p ( s a o h e]
+[DELETED:  H P c f p a S ( u p r ( i d S § ( t t t ( s]
+[DELETED:  H P ( a ( o ( m a ( r p S § ( a a t * ( b s S]
+[DELETED:  H P s s o r t A s w s h p S § ( d * ( * S ( c]
+[DELETED:  H P 1 f c t ( r t ( c ( t a i m ( * S S   *]
+[DELETED:  H P ( A D F w i ( E a u c r s * * S S     ( C]
+[DELETED:  H P D p d o ( D o e C p c l m D d J c S E r]
+[DELETED:  H P ( o o ( t c ( m ( r r S § ( ( r a ( ( h]
+[DELETED:  H P ( r A F o F ( M s r * ( p r a s p i p *]
+[DELETED:  H P S S   * ( s r a * S ( p ( a S ( ( c 2 H *]
+[DELETED:  H P * S § ( R c t e a r * ( ( i i ( a *]
+[DELETED:  H P * S S   ( O e t r e t * ( s r a ( ( m ( f]
+[DELETED:  H P ( c ( * S ( R m R H S * S § ( S f i P ( o]
+[DELETED:  H P ( a s ( i ( ( f ( ( s ( i ( p P ( H R a i]
+[DELETED:  H P ( f ( ( f ( t ( p P ( ( ( t M v o ( a ( l]
+[DELETED:  H P ( e e ( u d ( m d ( a e b S ( 3 R S 2 t §]
+[DELETED:  H P * S T]

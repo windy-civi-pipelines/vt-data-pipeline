@@ -1,0 +1,2169 @@
+Title: No. 43. An act relating to the fiscal year 2026 Transportation Program
+Official Title: No. 43. An act relating to the fiscal year 2026 Transportation Program
+Number of Sections: 18
+Source: versions - As Enacted
+Media Type: application/pdf
+Strikethrough Detection: 41 sections found
+
+================================================================================
+
+Section 1:
+No. 43 Page 1 of 41
+2025
+and miscellaneous changes to laws related to transportation.
+(H.488)
+It is hereby enacted by the General Assembly of the State of Vermont:
+* * * Transportation Program Adopted as Amended; Definitions * * *
+Sec. 1. TRANSPORTATION PROGRAM ADOPTED; DEFINITIONS
+(a) Adoption. The Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program appended to the Agency of Transportation’s proposed
+fiscal year 2026 budget, as amended by this act, is adopted to the extent
+federal, State, and local funds are available.
+(b) Definitions. As used in this act, unless otherwise indicated:
+(1) “Agency” means the Agency of Transportation.
+(2) “Candidate project” means a project approved by the General
+Assembly that is not anticipated to have significant expenditures for
+preliminary engineering or right-of-way expenditures, or both, during the
+budget year and funding for construction is not anticipated within a predictable
+time frame.
+(3) “Development and evaluation (D&E) project” means a project
+approved by the General Assembly that is anticipated to have preliminary
+engineering expenditures or right-of-way expenditures, or both, during the
+budget year and that the Agency is committed to delivering to construction on
+a timeline driven by priority and available funding.
+VT LEG #384128 v.1
+No. 43 Page 2 of 41
+2025
+(4) “Electric vehicle supply equipment (EVSE)” and “electric vehicle
+supply equipment available to the public” have the same meanings as in
+30 V.S.A. § 201.
+(5) “Front-of-book project” means a project approved by the General
+Assembly that is anticipated to have construction expenditures during the
+budget year or the following three years, or both, with expected expenditures
+shown over four years.
+(6) “Mileage-based user fee” or “MBUF” means a fee for vehicle use of
+the public road system with distance, stated in miles, as the measure of use.
+(7) “Plug-in electric vehicle (PEV),” “plug-in hybrid electric vehicle
+(PHEV),” and “battery electric vehicle (BEV)” have the same meanings as in
+23 V.S.A. § 4(85).
+(8) “Secretary” means the Secretary of Transportation.
+(9) “TIB funds” means monies deposited in the Transportation
+Infrastructure Bond Fund in accordance with 19 V.S.A. § 11f.
+(10) The table heading “As Proposed” means the Proposed
+Transportation Program referenced in subsection (a) of this section; the table
+heading “As Amended” means the amendments as made by this act; the table
+heading “Change” means the difference obtained by subtracting the “As
+Proposed” figure from the “As Amended” figure; the terms “change” or
+“changes” in the text refer to the project- and program-specific amendments,
+the aggregate sum of which equals the net “Change” in the applicable table
+VT LEG #384128 v.1
+No. 43 Page 3 of 41
+2025
+heading; and “State” in any tables amending authorizations indicates that the
+source of funds is State monies in the Transportation Fund, unless otherwise
+specified.
+* * * Summary of Transportation Investments * * *
+Sec. 2. FISCAL YEAR 2026 TRANSPORTATION INVESTMENTS
+INTENDED TO REDUCE TRANSPORTATION-RELATED
+GREENHOUSE GAS EMISSIONS, REDUCE FOSSIL FUEL
+USE, AND SAVE VERMONT HOUSEHOLDS MONEY
+This act includes the State’s fiscal year 2026 transportation investments
+intended to reduce transportation-related greenhouse gas emissions, reduce
+fossil fuel use, and save Vermont households money in furtherance of the
+policies articulated in 19 V.S.A. § 10b and the goals of the Comprehensive
+Energy Plan and the Vermont Climate Action Plan and to satisfy the Executive
+and Legislative Branches’ commitments to the Paris Agreement climate goals.
+In fiscal year 2026, these efforts will include the following:
+(1) Park and Ride Program. This act provides for a fiscal year
+expenditure of $2,435,740.00, which will fund two construction projects to
+create new park-and-ride facilities, the construction of improvements to two
+existing park-and-ride facilities, funding for a municipal park-and-ride grant
+program, and paving projects for existing park-and-ride facilities. This year’s
+Park and Ride Program will create 60 new State-owned spaces. Specific
+additions and improvements include:
+VT LEG #384128 v.1
+No. 43 Page 4 of 41
+2025
+(A) Manchester—construction of 50 new spaces; and
+(B) Sharon—design and construction of 10 new spaces.
+(2) Bike and Pedestrian Facilities Program. This act provides for a
+fiscal year expenditure, including local match, of $21,879,965.00, which will
+fund 33 bike and pedestrian construction projects; 17 bike and pedestrian
+design, right-of-way, or design and right-of way projects for construction in
+future fiscal years; and 10 scoping studies. The construction projects include
+the creation, improvement, or rehabilitation of walkways, sidewalks, shared-
+use paths, bike paths, and cycling lanes. Projects are funded in Arlington,
+Bakersfield, Bennington, Bethel, Brattleboro, Bristol, Burke, Burlington,
+Castleton, Chester, Danville, Enosburg Falls, Fairfax, Greensboro, Hardwick,
+Hartford, Highgate, Hinesburg, Huntington, Hyde Park, Irasburg, Jericho,
+Lyndonville, Middlebury, Montpelier, Moretown, Newfane, Newport City,
+Northfield, Pawlet, Randolph, Royalton, Rutland City, Rutland Town,
+Sheffield, Shelburne, Sheldon, South Burlington, Springfield, St. Albans City,
+St. Albans Town, Swanton, Wallingford, Waterbury, West Rutland, Williston,
+Wilmington, and Windsor. This act also provides funding for:
+(A) some of Local Motion’s operation costs to run the bike ferry on
+the Colchester Causeway, which is part of the Island Line Trail;
+(B) a small-scale municipal bicycle and pedestrian grant program for
+projects to be selected during the fiscal year;
+VT LEG #384128 v.1
+No. 43 Page 5 of 41
+2025
+(C) projects funded through the Safe Routes to School Program; and
+(D) community grants along the Lamoille Valley Rail Trail (LVRT).
+(3) Transportation Alternatives Program. This act provides for a fiscal
+year expenditure of $6,471,054.00, including local funds, which will fund 17
+transportation alternatives construction projects; 26 transportation alternatives
+design, right-of-way, or design and right-of-way projects; and eight scoping
+studies. Of these 51 projects, 20 involve environmental mitigation related to
+clean water or stormwater concerns, or both clean water and stormwater
+concerns, and 32 involve bicycle and pedestrian facilities. Projects are funded
+in Athens, Barre City, Bennington, Brandon, Brattleboro, Bridgewater, Bristol,
+Burke, Burlington, Castleton, Derby, Enosburg Falls, Fairfax, Fairlee,
+Ferrisburgh, Grafton, Guilford, Hartford, Hinesburg, Hyde Park, Jericho,
+Londonderry, Lyndon, Montgomery, Newark, Proctor, Rockingham, Rutland
+City, Shoreham, South Burlington, Springfield, St. Albans Town, Swanton,
+Tinmouth, Warren, Williston, and Wilmington.
+(4) Public Transit Program. This act provides for a fiscal year
+expenditure of $52,695,234.00 for public transit uses throughout the State.
+Included in the authorization are:
+(A) Go! Vermont, with an authorization of $380,000.00. This
+authorization supports transportation demand management (TDM) strategies,
+including the State’s Trip Planner and commuter services, to promote the use
+of carpools and vanpools.
+VT LEG #384128 v.1
+No. 43 Page 6 of 41
+2025
+(B) Mobility and Transportation Innovations (MTI) Grant Program,
+with an authorization of $340,000.00, which includes $315,000.00 in federal
+funds. This authorization continues to support projects that improve both
+mobility and access to services for transit-dependent Vermonters, reduce the
+use of single-occupancy vehicles, and reduce greenhouse gas emissions.
+(5) Rail Program. This act provides for a fiscal year expenditure of
+$61,887,348.00, including local funds and $31,894,436.00 in federal funds, for
+intercity passenger rail service, including funding for the Ethan Allen Express
+and Vermonter Amtrak services, and rail infrastructure that supports freight
+rail as well. Moving freight by rail instead of trucks lowers greenhouse gas
+emissions by up to 75 percent, on average.
+* * * Rail Program; Technical Correction * * *
+Sec. 3. RAIL PROGRAM
+(a) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Rail the following project is deleted: Barre–
+Berlin–Montpelier 04-9038–WACR Subsidy.
+(b) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Rail, the following project is added: Hartford
+HRRD(1) 25G002–White River Junction Depot Repairs.
+(c) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Rail, spending authority for Hartford HRRD(1)
+25G002–White River Junction Depot Repairs is authorized as follows:
+VT LEG #384128 v.1
+No. 43 Page 7 of 41
+2025
+FY26 As Proposed As Amended Change
+Other 0 260,000 260,000
+Total 0 260,000 260,000
+Sources of funds
+State 0 260,000 260,000
+Total 0 260,000 260,000
+* * * Town Highway Non-Federal Disasters * * *
+Sec. 4. TOWN HIGHWAY NON-FEDERAL DISASTERS
+(a) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Town Highway Non-Federal Disasters, spending is
+authorized as follows:
+FY26 As Proposed As Amended Change
+Grants 1,150,000 1,150,000 0
+Total 1,150,000 1,150,000 0
+Sources of funds
+State 1,150,000 0 -1,150,000
+Other 0 1,150,000 1,150,000
+Total 1,150,000 1,150,000 0
+(b) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Town Highway Non-Federal Disasters, the
+following footnote is added: “Other funds of $1,150,000 are amounts
+VT LEG #384128 v.1
+No. 43 Page 8 of 41
+2025
+appropriated from the PILOT Special Fund established pursuant to 32 V.S.A.
+
+Section 2:
+§ 3709.”
+* * * State and Federal Funding Updates * * *
+Sec. 5. STATE AND FEDERAL FUNDING; MILEAGE BASED USER
+FEE; UPDATES
+(a) On or before September 30, 2025 and December 15, 2025, the Secretary
+of Transportation shall provide the Joint Transportation Oversight Committee
+with a briefing on the status of State Transportation Fund revenues and federal
+funding for the fiscal year 2026 Transportation Program, funding-related
+impacts on the fiscal year 2026 Transportation Program, and the Agency’s
+progress in designing the mileage-based user fee. The briefing shall include:
+(1) a summary of federal funding that has been received to date, federal
+funding that is anticipated later in the State fiscal year, federal funding that is
+delayed, and federal funding that has been reduced or subject to rescission;
+(2) a summary of the Transportation Fund revenues to date in State
+fiscal year 2026;
+(3) a summary of the impacts on the fiscal year 2026 Transportation
+Program that are caused by changes in State Transportation Fund revenues
+from the consensus forecast or delays or reductions in federal funding;
+(4) a summary of any legislative action that may be necessary to address
+reductions in State revenues or federal funding;
+VT LEG #384128 v.1
+No. 43 Page 9 of 41
+2025
+(5) a summary of the status of State and federal funding for the design
+of the mileage-based user fee pursuant to the provisions of 2023 Acts and
+Resolves No. 62, Secs. 27–29, as amended by Sec. 17 of this act; and
+(6) the Agency’s progress in designing the mileage-based user fee.
+(b) Upon becoming aware of a significant change in State revenues or a
+reduction in federal funding, rescission of federal grants, or delay of
+anticipated federal funding that will impact the Agency’s ability to carry out
+significant portions of the fiscal year 2026 Transportation Program, the
+Secretary of Transportation may request that the Joint Transportation
+Oversight Committee meet within 14 days to review the Agency’s plan to
+address the reduction in funding.
+(c) In the event of a decrease in overall State or federal funding for the
+fiscal year 2026 Transportation Program that is in excess of four percent, the
+Secretary shall submit to the Joint Transportation Oversight Committee a
+written report detailing the impact of the decrease on projects that are in the
+2026 Transportation Program.
+* * * Relinquishment of Vermont Route 36 in the Town of St. Albans * * *
+Sec. 6. RELINQUISHMENT OF VERMONT ROUTE 36 IN THE TOWN
+OF ST. ALBANS
+Pursuant to 19 V.S.A. § 15(a)(2), the General Assembly authorizes the
+Secretary of Transportation to enter into an agreement with the Town of St.
+Albans to relinquish a segment of the State highway in the Town of St. Albans
+VT LEG #384128 v.1
+No. 43 Page 10 of 41
+2025
+known as Vermont Route 36. The segment authorized to be relinquished
+begins at mile marker 0.00, just east of the “Black Bridge” (B2), and continues
+14,963 feet (approximately 2.834 miles) easterly to mile marker 2.834, where
+Vermont Route 36 meets the boundary of the City of St. Albans, and includes
+the 0.106-mile westbound section of Vermont Route 36 and approaches at the
+entrance to the St. Albans Bay Town Park.
+* * * State-Owned Railroads; Rail Trails * * *
+Sec. 7. 5 V.S.A. chapter 58 is redesignated to read:
+CHAPTER 58. STATE ACQUISITION OF STATE-OWNED RAILROADS
+AND RAIL TRAILS
+Sec. 8. 5 V.S.A. § 3408 is amended to read:
+
+Section 3:
+§ 3408. RAILBANKING; NOTIFICATION
+(a) If the Secretary finds that the continued operation of any State-owned
+railroad property is not economically feasible under present conditions, he or
+she the Secretary may place the line in railbanked status after giving advance
+notice of such the planned railbanking to the House and Senate Committees on
+Transportation when the General Assembly is in session, and when the General
+Assembly is not in session, to the Joint Transportation Oversight Committee.
+The Agency, on behalf of the State, shall continue to hold the right-of-way of a
+railbanked line for reactivation of railroad service or for other public purposes
+not inconsistent with future reactivation of railroad service. Such The
+VT LEG #384128 v.1
+No. 43 Page 11 of 41
+2025
+railbanking shall not be treated, for purposes of any law or rule of law, as an
+abandonment of the use of the rights-of-way for railroad purposes.
+* * *
+(c)(1) The Secretary may, after consulting with municipalities, adopt rules
+consistent with the provisions of section 3408a of this chapter governing the
+interim trail use of State-owned railroad rights-of-way that have been placed in
+railbanked status.
+(2) Signs indicating the rules shall be conspicuously posted in or near all
+areas affected.
+(3) Any person who violates these rules adopted pursuant to this
+subsection shall be subject to a penalty of not more than $300.00.
+Sec. 9. 5 V.S.A. § 3408a is added to read:
+
+Section 4:
+§ 3408a. USE OF RAIL TRAILS
+(a) Definitions. As used in this section:
+(1) “Rail trail” means the right-of-way of a State-owned railroad line
+that has been authorized for railbanking and interim trail use pursuant to
+16 U.S.C. § 1247(d) or section 3408 of this chapter.
+(2) “Trail sponsor” means the Agency of Transportation in the case of a
+rail trail maintained by the Agency or the municipality in the case of a rail trail
+maintained by a municipality.
+(b) Use of rail trails. The following acts are prohibited within a rail trail
+right-of-way:
+VT LEG #384128 v.1
+No. 43 Page 12 of 41
+2025
+(1) Throwing, dropping, or discarding bottles, cans, paper, garbage,
+rubbish, sewage, or other material of any kind.
+(2) Cutting, mutilating, or removing any tree, shrub, flower, plant, top
+soil, or sod or attempting to do so.
+(3) Injury, defacement, removal, or destruction of the surface of the rail
+trail or a rail trail’s structures, appurtenances, recreation facilities, or property.
+(4) Except as authorized by the trail sponsor, erecting, placing, or
+displaying any advertising materials, posters, or placards of any kind. This
+prohibition shall not apply to official signs erected by the trail sponsor.
+(5) Except as authorized by the trail sponsor, entering or remaining on
+the rail trail for the purpose of:
+(A) selling, hiring, or leasing any goods or services; or
+(B) distributing samples, pamphlets, or advertising materials, except
+for official information authorized by the trail sponsor.
+(6) Parades, demonstrations, picnics, games, entertainment, or
+organizations, except at times and locations approved by the trail sponsor.
+(7) Harassing or molesting wildlife, except for fishing.
+(8) Using or discharging any firearms or other weapons or fireworks,
+except by a person authorized by the trail sponsor or as otherwise permitted by
+law.
+(9) Igniting fires for any purpose, except in fireplaces or firepits at
+locations designated by the trail sponsor or for trail maintenance purposes.
+VT LEG #384128 v.1
+No. 43 Page 13 of 41
+2025
+(10) Soliciting alms or contributions.
+(11) Use of motorized vehicles, except for:
+(A) maintenance purposes;
+(B) snowmobiles, subject to applicable State rules, when the
+Vermont Association of Snow Travelers, Inc. has declared the Statewide
+Snowmobile Trail System officially open;
+(C) Other Power-Driven Mobility Devices (OPDMD) utilized by an
+individual with a disability as permitted by the Agency’s Rail Trail
+Accessibility Policy;
+(D) electric bicycles as permitted pursuant to applicable State rules;
+and
+(E) other circumstances that the trail sponsor determines are
+appropriate.
+(12) Overnight camping, except at areas designated for that purpose by
+the trail sponsor.
+(c) Penalty. Any person who violates the provisions of subsection (b) of
+this section shall be subject to a civil penalty pursuant to subdivision
+3408(c)(3) of this chapter.
+VT LEG #384128 v.1
+No. 43 Page 14 of 41
+2025
+* * * Transportation Board * * *
+Sec. 10. 19 V.S.A. § 3 is amended to read:
+
+Section 5:
+§ 3. TRANSPORTATION BOARD; CREATION; MEMBERS
+A transportation board The Transportation Board is formed to be attached to
+the Agency of Transportation. There shall be seven members of the Board,
+appointed by the Governor with the advice and consent of the Senate. The
+Governor shall so far as is possible appoint Board members whose interests
+and expertise lie in various areas of the transportation field. The Governor
+shall appoint the chair Chair, and the Board may vote to appoint other officers.
+The members of the Board shall be appointed for terms of three years. Board
+members may be appointed for two additional three-year terms but shall not be
+eligible for further reappointment. No Not more than four members of the
+Board shall belong to the same political party. No member of the Board shall:
+* * *
+Sec. 11. 19 V.S.A. § 5 is amended to read:
+
+Section 6:
+§ 5. TRANSPORTATION BOARD; POWERS AND DUTIES
+* * *
+(d) Specific duties and responsibilities. The Board shall:
+* * *
+(4) provide appellate review, when requested in writing, regarding legal
+disputes in the execution of contracts awarded by the Agency or by
+municipalities cooperating with the Agency to advance projects in the State’s
+VT LEG #384128 v.1
+No. 43 Page 15 of 41
+2025
+Transportation Program, except that the Agency shall provide appellate review
+relating to bids and the competitive negotiation process under 19 V.S.A. § 10a;
+(5) provide appellate review, when requested in writing, of decisions of
+the Secretary in administering the provisions of Title 24, relating to junkyards
+salvage yards;
+* * *
+* * * Green Mountain Transit Authority * * *
+Sec. 12. 24 App. V.S.A. chapter 801 is amended to read:
+CHAPTER 801. GREEN MOUNTAIN TRANSIT AUTHORITY
+* * *
+
+Section 7:
+§ 2. AREA OF OPERATION
+(a) The area of operation shall be the urbanized area of Chittenden,
+Franklin, Grand Isle, and Washington Counties and the Towns of Orange,
+Washington, and Williamstown. The area of operation shall include Addison
+and Caledonia Counties and the Towns of Orange County other than Orange,
+Washington, and Williamstown, but only for the provision of commuter
+services. The area of operation shall include Lamoille County, but only for the
+provision of published scheduled services County as established by the U.S.
+Census Bureau. The Green Mountain Transit Authority may operate service
+outside the urbanized area of Chittenden County with approval from the
+Agency of Transportation. Nothing in this section shall be construed to
+prevent other transit providers from offering transit connecting to the
+VT LEG #384128 v.1
+No. 43 Page 16 of 41
+2025
+urbanized area of Chittenden County, or providing on demand services in that
+area, with the approval of the Agency of Transportation.
+* * *
+
+Section 8:
+§ 10. IMPLEMENTATION
+* * *
+(c) Immediately upon joining the Authority, the municipality shall appoint
+two commissioners as provided herein. The initial terms of the commissioners
+of the initial members shall be arranged by the Chittenden County Regional
+Planning Commission so that the terms of approximately one-third of the
+commissioners shall expire in each year. The initial terms of commissioners
+from municipalities joining after March 7, 1973, shall be set by the Board of
+Commissioners.
+* * *
+* * * Town Highways * * *
+Sec. 13. 19 V.S.A. § 306 is amended to read:
+
+Section 9:
+§ 306. APPROPRIATION; STATE AID FOR TOWN HIGHWAYS
+(a) General State aid to town highways.
+(1) An annual appropriation to class 1, 2, and 3 town highways shall be
+made. This appropriation shall increase over the previous fiscal year’s
+appropriation by the same percentage change as the following, whichever is
+less, or shall remain at the previous fiscal year’s appropriation if either of the
+following are negative or zero:
+VT LEG #384128 v.1
+No. 43 Page 17 of 41
+2025
+(A) the percentage change of the Agency’s total appropriations
+funded by Transportation Fund revenues, excluding appropriations for town
+highways under this subsection (a) and subsections (e) and (h) of this section,
+for the most recently closed fiscal year as compared to the fiscal year
+immediately preceding the most recently closed fiscal year; or
+* * *
+(e) State aid for town highway structures.
+(1) There shall be an annual appropriation for grants to municipalities
+for maintenance (including actions to extend life expectancy) and for
+construction of bridges and culverts; for maintenance and construction of other
+structures, including causeways and retaining walls, intended to preserve the
+integrity of the traveled portion of class 1, 2, and 3 town highways; and for
+alternatives that eliminate the need for a bridge, culvert, or other structure,
+such as the construction or reconstruction of a highway, the purchase of parcels
+of land that would be landlocked by closure of a bridge, the payment of
+damages for loss of highway access, and the substitution of other means of
+access. This appropriation shall increase over the previous fiscal year’s
+appropriation by the same percentage change as the following, whichever is
+less, or shall remain at the previous fiscal year’s appropriation if either of the
+following are negative or zero:
+(A) the percentage change in the Agency’s total appropriations
+funded by Transportation Fund revenues, excluding appropriations under this
+VT LEG #384128 v.1
+No. 43 Page 18 of 41
+2025
+subsection (e) and subsections (a) and (h) of this section, for the most recently
+closed fiscal year as compared to the fiscal year immediately preceding the
+most recently closed fiscal year; or
+(B) the percentage change in the Bureau of Labor Statistics
+Consumer Price Index for All Urban Consumers (CPI-U).
+(2) For purposes of subdivision (1)(B) of this subsection, the percentage
+change in the CPI-U is calculated by determining the increase or decrease, to
+the nearest one-tenth of a percent, in the CPI-U for the month ending on June
+30 in the calendar year one year prior to the first day of the fiscal year for
+which the appropriation will be made compared to the CPI-U for the month
+ending on June 30 in the calendar year two years prior to the first day of the
+fiscal year for which the appropriation will be made.
+(3) Each fiscal year, the Agency shall approve qualifying projects with a
+total estimated State share cost of $7,200,000.00 at a minimum as new grants.
+The Agency’s proposed appropriation for the Program shall take into account
+the estimated amount of qualifying invoices submitted to the Agency with
+respect to project grants approved in prior years but not yet completed as well
+as with respect to new project grants to be approved in the fiscal year
+Beginning with State fiscal year 2027, the minimum total estimated State share
+cost for the approved grants shall increase over the prior fiscal year’s minimum
+total estimated State share cost by the same percentage as the appropriation for
+VT LEG #384128 v.1
+No. 43 Page 19 of 41
+2025
+State aid for town highway structures is increased pursuant to subdivision (1)
+of this subsection.
+(4) In a given fiscal year, should expenditures in the Town Highway
+Structures Program exceed the amount appropriated, the Agency shall advise
+the Governor of the need to request a supplemental appropriation from the
+General Assembly to fund the additional project cost, provided that the Agency
+has previously committed to completing those projects.
+(3)(5) Funds received as grants for State aid for town highway structures
+may be used by a municipality to satisfy a portion of the matching
+requirements for federal earmarks, subject to subsection 309b(c) of this title.
+* * *
+(h) Class 2 Town Highway Roadway Program.
+(1) There shall be an annual appropriation for grants to municipalities
+for resurfacing, rehabilitation, or reconstruction of paved or unpaved class 2
+town highways. However, municipalities Municipalities that have no State
+highways or class 1 town highways within their borders may use the grants for
+such activities with respect to both class 2 and class 3 town highways. Each
+fiscal year, the Agency shall approve qualifying projects with a total estimated
+State share cost of $8,600,000.00 at a minimum as new grants. The Agency’s
+proposed appropriation for the Program shall take into account the estimated
+amount of qualifying invoices submitted to the Agency with respect to project
+grants approved in prior years but not yet completed as well as with respect to
+VT LEG #384128 v.1
+No. 43 Page 20 of 41
+2025
+new project grants to be approved in the fiscal year. This appropriation shall
+increase over the previous fiscal year’s appropriation by the same percentage
+change as the following, whichever is less, or shall remain at the previous
+fiscal year’s appropriation if either of the following are negative or zero:
+(A) the percentage change in the Agency’s total appropriations
+funded by Transportation Fund revenues, excluding appropriations under this
+subsection (h) and subsections (a) and (e) of this section, for the most recently
+closed fiscal year as compared to the fiscal year immediately preceding the
+most recently closed fiscal year; or
+(B) the percentage change in the Bureau of Labor Statistics
+Consumer Price Index for All Urban Consumers (CPI-U).
+(2) For purposes of subdivision (1)(B) of this subsection, the percentage
+change in the CPI-U is calculated by determining the increase or decrease, to
+the nearest one-tenth of a percent, in the CPI-U for the month ending on June
+30 in the calendar year one year prior to the first day of the fiscal year for
+which the appropriation will be made compared to the CPI-U for the month
+ending on June 30 in the calendar year two years prior to the first day of the
+fiscal year for which the appropriation will be made.
+(3) Each fiscal year, the Agency shall approve qualifying projects with a
+total estimated State share cost of $8,600,000.00 at a minimum as new grants.
+Beginning with State fiscal year 2027, the minimum total estimated State share
+cost for the approved grants shall increase over the prior fiscal year’s minimum
+VT LEG #384128 v.1
+No. 43 Page 21 of 41
+2025
+total estimated State share cost by the same percentage as the appropriation for
+the Class 2 Town Highway Roadway Program is increased pursuant to
+subdivision (1) of this subsection.
+(4) In a given fiscal year, should expenditures in the Class 2 Town
+Highway Roadway Program exceed the amount appropriated, the Agency shall
+advise the Governor of the need to request a supplemental appropriation from
+the General Assembly to fund the additional project cost, provided that the
+Agency has previously committed to completing those projects. Funds
+received as grants for State aid under the Class 2 Town Highway Roadway
+Program may be used by a municipality to satisfy a portion of the matching
+requirements for federal earmarks, subject to subsection 309b(c) of this title.
+* * *
+Sec. 14. CANCELLATION OF LOCALLY MANAGED PROJECTS;
+PROCESS; IMPROVEMENTS; REPORT
+The Agency of Transportation, in consultation with the Transportation
+Board, the Vermont League of Cities and Towns, and the Vermont Association
+of Planning and Development Agencies, shall engage a consultant to examine
+the requirements of 19 V.S.A. § 309c, cancellation of locally managed
+projects, to evaluate the obligations, risks, and benefits imposed by the
+provisions of that section on the State and the local sponsor of a locally
+managed project and to identify potential changes to the provisions of that
+
+Section 10:
+section to ensure that State and federal transportation funding resources are
+VT LEG #384128 v.1
+No. 43 Page 22 of 41
+2025
+appropriately administered. The Agency shall, on or before January 15, 2026,
+submit a written report to the House and Senate Committees on Transportation
+regarding the consultant’s findings and any recommendations for legislative
+action.
+Sec. 15. MUNICIPAL TRANSPORTATION ASSETS; ASSESSMENT;
+FUNDING NEEDS; REPORT
+(a) The Agency of Transportation, in consultation with the Vermont
+League of Cities and Towns and the Vermont Association of Planning and
+Development Agencies, shall engage a consultant to:
+(1) review current municipal practices relating to planning for ongoing
+maintenance, upgrades, and replacement of municipal transportation assets,
+including roads, pavement, bridges, culverts, signals, signage, highway
+equipment, and highway facilities;
+(2) develop a framework for a system to assess the current condition of
+municipal highway networks and the potential impacts of improvements to or
+degradation of those networks on the State’s transportation system;
+(3) develop a prioritization process to direct State funding to the repair,
+upgrade, or replacement of specific municipal transportation assets based on
+the need for such work in the context of the asset’s role in the State and
+regional highway networks; and
+(4) identify and recommend potential statutory changes to implement
+the assessment framework developed pursuant to subdivision (2) of this
+VT LEG #384128 v.1
+No. 43 Page 23 of 41
+2025
+subsection and the prioritization process developed pursuant to subdivision (3)
+of this subsection.
+(b) The Agency of Transportation shall, not later than January 15, 2027,
+submit a written report to the House and Senate Committees on Transportation
+regarding the consultant’s findings and recommendations for legislative action.
+Sec. 16. STATE TOWN HIGHWAY AID; MUNICIPAL GRANT
+PROGRAMS; EFFICIENCIES; IMPROVEMENTS; REPORT
+(a) The Agency of Transportation, in consultation with the Vermont
+League of Cities and Towns and the Vermont Association of Planning and
+Development Agencies, shall engage a consultant to evaluate the State’s Town
+Highway Aid and municipal grant programs administered by the Agency to
+identify potential efficiencies and improvements related to the administration
+of Town Highway Aid and municipal grant programs. The consultant shall
+evaluate the various funding streams authorized pursuant to 19 V.S.A. § 306 as
+well as programs administered through the Agency’s Municipal Assistance
+Bureau, including the Bicycle and Pedestrian Grant Program, Transportation
+Alternatives Program, Municipal Mitigation Program, Municipal Park and
+Ride Program, Better Roads Program, Municipal Highway and Stormwater
+Mitigation Program, and Grants in Aid.
+(b) On or before January 15, 2026, the Agency shall submit a written report
+to the House and Senate Committees on Transportation regarding the
+consultant’s findings and any recommendations for legislative or
+VT LEG #384128 v.1
+No. 43 Page 24 of 41
+2025
+administrative actions to improve or increase the efficiency of the Town
+Highway Aid and municipal grant programs.
+* * * Mileage-Based User Fee * * *
+Sec. 17. 2023 Acts and Resolves No. 62, Secs. 27–29 are amended to read:
+Sec. 27. MILEAGE-BASED USER FEE LEGISLATIVE INTENT
+It is the intent of the General Assembly for the State:
+(1) to start collecting a mileage-based user fee from all battery-electric
+vehicles registered in Vermont starting on July 1, 2025, which is expected to
+be the first day of the first fiscal year when more than 15 percent of new
+pleasure car registrations in the State are plug-in electric vehicles (PEVs) or
+before January 1, 2027 subject to sufficient funding being available for
+implementation;
+(2) to start subjecting subject plug-in hybrid electric vehicles (PHEVs)
+that are a pleasure car to an increased annual or a biennial registration electric
+vehicle infrastructure fee starting on July January 1, 2025, and that PHEVs
+shall not be subject to a mileage-based user fee;
+(3) to work towards examine collecting a fee on kWhs electricity that
+are is dispensed through certain electric vehicle supply equipment available to
+the public so as to supplant lost gas fuel tax revenue from out-of-state PEVs
+traveling in Vermont; and
+(4) to not commence collecting a mileage-based user fee until such the
+General Assembly has enacted legislation that establishes the amount of the fee
+VT LEG #384128 v.1
+No. 43 Page 25 of 41
+2025
+and codifies any necessary authorizing language is codified in statute and that
+legislation becomes effective.
+Sec. 28. MILEAGE-BASED USER FEE AUTHORIZATION
+(a) Within the Agency of Transportation’s Proposed Fiscal Year 2024
+Transportation Program for Environmental Policy and Sustainability, the
+Agency of Transportation, including the Department of Motor Vehicles, is
+authorized to apply for and accept a competitive federal Strategic Innovation
+for Revenue Collection grant established pursuant to the Infrastructure
+Investment and Jobs Act, Pub. L. No. 117-58 (IIJA), Sec. 13001, with up to
+$350,000.00 in Transportation Fund monies authorized for the nonfederal
+match in fiscal year 2024 and a to-be-determined amount for the nonfederal
+match in subsequent fiscal years up to $350,000.00 in Transportation Fund
+monies authorized for the nonfederal match in fiscal year 2025.
+(b) As permitted under federal regulations and grant terms, the The Agency
+shall utilize grant monies to design State or federal funding, or both, authorized
+to be used for the purpose of designing a mileage-based user fee that is
+consistent with Secs. 27 and 29 of this act.
+(c) Subject to State procurement requirements and the availability of
+sufficient funding, the Agency may retain one or more contractors or
+consultants, or both, to assist with the design of a process to commence
+collecting a mileage-based user fee on July 1, 2025 January 1, 2027.
+VT LEG #384128 v.1
+No. 43 Page 26 of 41
+2025
+Sec. 29. MILEAGE-BASED USER FEE DESIGN
+(a) Definitions. As used in Secs. 27–30 of this act:
+(1) “Account manager” means a person under contract with the Agency
+of Transportation or Department of Motor Vehicles to administer and manage
+the mileage-based user fee.
+(2) “Annual vehicle miles traveled” means the total number of miles that
+a BEV is driven between annual inspections as reported by an inspection
+mechanic to the Department of Motor Vehicles.
+(3) “Mileage-based user fee” means the total amount that an owner or
+lessee of a BEV registered in Vermont owes the State and is calculated by:
+(A) multiplying the mileage-based user fee rate by the annual vehicle
+miles traveled or,;
+(B) in the case of a terminating event, by multiplying the mileage-
+based user fee rate by the vehicle miles traveled between the last Vermont
+annual inspection and the terminating event; or
+(C) in the absence of a recorded odometer reading during the mileage
+reporting period, by multiplying the mileage-based user fee by the 98th
+percentile of estimated annual vehicle miles traveled for a pleasure car in
+Vermont.
+(4) “Mileage-based user fee rate” means the per-mile usage fee charged
+to the owner or lessee of a BEV registered in Vermont.
+VT LEG #384128 v.1
+No. 43 Page 27 of 41
+2025
+(5) “Mileage reporting period” means the time between annual
+inspections or the time between an the most recent annual inspection and a
+terminating event.
+(6) “Pleasure car” has the same meaning as in 23 V.S.A. § 4(28).
+(7) “Plug-in electric vehicle (PEV)” has the same meaning as in
+23 V.S.A. § 4(85) and includes battery electric vehicles (BEVs) and plug-in
+hybrid electric vehicles (PHEVs), which have the same meaning as in
+23 V.S.A. § 4(85)(A) and (B).
+(8) “Terminating event” means either the registering of a BEV that had
+been registered in Vermont in a different state or a change in ownership or
+lesseeship of the BEV, or both.
+(b) Commencement date. The Agency shall design a process to collect a
+mileage-based user fee for miles driven by a BEV registered in Vermont to
+commence collecting revenue on July 1, 2025 January 1, 2027.
+(c) Covered vehicles. The Agency shall design a process to collect a
+mileage-based user fee based on the annual vehicle miles traveled by BEVs
+registered in the State.
+(d) Imposition of a mileage-based user fee. The Agency shall design a
+process to collect a mileage-based user fee from the owner or lessee of a BEV
+registered in Vermont for each mileage reporting period within 60 days after
+the Vermont annual inspection on an annual, quarterly, or monthly basis
+selected by the owner or lessee and reconciled upon renewal of the vehicle
+VT LEG #384128 v.1
+No. 43 Page 28 of 41
+2025
+registration or within 60 days after a terminating event that closes the mileage
+reporting period.
+Sec. 18. INTENT
+It is the intent of the General Assembly that:
+(1) the mileage-based user fee for a BEV pleasure car be approximately
+equivalent to the average amount collected by the State in fuel tax revenue
+from the use of a non-PEV pleasure car registered in Vermont and the average
+amount collected by the State in fuel tax revenue and Electric Vehicle
+Infrastructure fee from the use of a PHEV pleasure car; and
+(2) that the mileage-based user fee for BEV pleasure cars will be an
+interim step towards gradually expanding the mileage-based user fee to all
+motor vehicles upon elimination of the State fuel taxes for motor vehicles.
+* * * Authority to Transfer Monies in State Fiscal Year 2026 * * *
+Sec. 19. AUTHORIZATION TO USE MONIES TO CONTINUE
+PARTNERSHIP WITH DRIVE ELECTRIC VERMONT IN STATE
+FISCAL YEAR 2026
+In State fiscal year 2026, the Secretary of Transportation is authorized to
+spend up to $325,000.00 in remaining monies appropriated to the Electrify
+Your Fleet Program in State Fiscal Year 2024 to continue the Agency of
+Transportation’s partnership with Drive Electric Vermont. The monies shall
+be used for programs and activities that support increased ownership and use
+of PEVs in the State through:
+VT LEG #384128 v.1
+No. 43 Page 29 of 41
+2025
+(1) stakeholder coordination;
+(2) consumer education and outreach;
+(3) infrastructure development; and
+(4) the provision of technical assistance and support to Vermont
+municipalities and Vermont businesses desiring to electrify their vehicle fleets.
+* * * Consideration of Vehicle Miles Traveled in Project Planning * * *
+Sec. 20. 19 V.S.A. § 1 is amended to read:
+
+Section 11:
+§ 1. DEFINITIONS
+As used in this title:
+* * *
+(26) “Vehicle miles traveled” means the estimated sum of the miles
+traveled by all motor vehicle trips within a specific area during a calendar year.
+Sec. 21. 19 V.S.A. § 10b is amended to read:
+
+Section 12:
+§ 10b. STATEMENT OF POLICY; GENERAL
+(a) The Agency shall be the responsible agency of the State for the
+development of transportation policy. It shall develop a mission statement to
+reflect:
+(1) that State transportation policy shall be to encompass, coordinate,
+and integrate all modes of transportation and to consider complete streets, as
+defined in section 2401 of this title, principles; and
+(2) the need for transportation projects that will improve the State’s
+economic infrastructure,; as well as the use of resources in efficient,
+VT LEG #384128 v.1
+No. 43 Page 30 of 41
+2025
+coordinated, integrated, cost-effective, and environmentally sound ways,;
+reduce vehicle miles traveled within the State when feasible; and that will be
+consistent with the recommendations of the Comprehensive Energy Plan
+(CEP) issued under 30 V.S.A. § 202b.
+* * *
+Sec. 22. 19 V.S.A. § 10c is amended to read:
+
+Section 13:
+§ 10c. STATEMENT OF POLICY; HIGHWAYS AND BRIDGES
+* * *
+(c) In choosing between the improvement of an existing highway and
+complete reconstruction, the Agency shall weigh the following factors:
+* * *
+(9) the impact on the historic, scenic, and aesthetic values of the
+municipality, as interpreted by the municipality, in which the highway is
+located; and
+(10) if it is a forest highway under federal jurisdiction; and
+(11) opportunities to reduce vehicle miles traveled or otherwise reduce
+greenhouse gas emissions related to the highway.
+* * *
+Sec. 23. 19 V.S.A. § 10i is amended to read:
+
+Section 14:
+§ 10i. TRANSPORTATION PLANNING PROCESS
+* * *
+VT LEG #384128 v.1
+No. 43 Page 31 of 41
+2025
+(c) Transportation Program. The Transportation Program shall be
+developed in a fiscally responsible manner to accomplish the following
+objectives:
+* * *
+(3) strengthening the economy, protecting the quality of the natural
+environment, and improving Vermonters’ quality of life; and
+(4) achieving the recommendations of the CEP; and
+(5) striving to reduce vehicle miles traveled and greenhouse gas
+emissions.
+* * *
+* * * Medical Transports * * *
+Sec. 24. PUBLIC TRANSIT DEMAND RESPONSE VOLUNTEER
+COORDINATORS; GRANTS; APPROPRIATION
+(a) The Agency of Transportation is authorized to utilize up to $600,000.00
+in one-time funds appropriated from the Transportation Fund to the Agency of
+Transportation in fiscal year 2026 for the purpose of providing grants to public
+transit agencies to hire volunteer coordinators. Volunteer coordinators hired
+with grants provided pursuant to this section shall be responsible for the
+identification, recruitment, and retention of volunteers to provide
+transportation services to individuals enrolled in the State’s demand response
+transportation programs.
+VT LEG #384128 v.1
+No. 43 Page 32 of 41
+2025
+(b) The Agency shall, to the extent possible, seek to provide grants to
+public transit providers in a manner that is geographically balanced and
+ensures the distribution of volunteer coordinators throughout the State.
+(c) Not later than December 15, 2026, the Agency, in consultation with
+public transit agencies that receive grants pursuant to this section, shall submit
+a written report the House and Senate Committees on Transportation regarding
+the extent to which grants issued pursuant to this section resulted in an increase
+in volunteer capacity in the State.
+Sec. 25. MEDICAID NON-EMERGENCY TRANSPORTATION
+(a) In fiscal year 2026, prior to executing a contract to provide Medicaid
+Non-Emergency Transportation services, the Department of Vermont Health
+Access shall provide to the Joint Fiscal Committee a detailed analysis
+outlining:
+(1) any potential degradation or expansion of service to eligible
+individuals under a new contract to provide Medicaid Non-Emergency
+Transportation services;
+(2) any federal requirements contained in the request for proposals for
+the new contract; and
+(3) the outcome of the consultation between the Department and the
+Agency of Transportation pursuant to subsection (b) of this section.
+VT LEG #384128 v.1
+No. 43 Page 33 of 41
+2025
+(b) The Department shall consult with the Agency of Transportation prior
+to developing the request for proposals for a new contract to provide Medicaid
+Non-Emergency Transportation services.
+Sec. 26. VOLUNTEERS PROVIDING TRANSPORTATION SERVICES;
+BACKGROUND CHECKS; EXPANSION OF VOLUNTEER
+POOL; REPORT
+(a) On or before July 15, 2025, the Department of Vermont Health Access
+shall commence meeting with the Vermont Public Transit Association, the
+Agency of Transportation, and, in the discretion of the Commissioner of
+Vermont Health Access, other stakeholders to identify potential, federally
+permissible opportunities to expand the Medicaid Non-Emergency
+Transportation program’s pool of volunteer drivers. As part of this work, the
+Department and Association shall collaborate to determine if there are specific
+classes of offenses that currently prevent volunteer drivers from providing
+transportation services through the Medicaid Non-Emergency Transportation
+program.
+(1) The Vermont Public Transit Association shall, to the extent possible,
+gather and provide to the Department anonymized information from its
+members regarding:
+(A) the number of potential volunteers who were barred from
+providing transportation services through the Medicaid Non-Emergency
+Transportation program due to a background check during the past year;
+VT LEG #384128 v.1
+No. 43 Page 34 of 41
+2025
+(B) which of the background checks currently required by the
+Medicaid Non-Emergency Transportation program resulted in potential
+volunteers being barred from providing transportation services, broken out by
+percentage; and
+(C) a summary of the offenses that resulted in potential volunteers
+being barred from providing transportation services through the Medicaid Non-
+Emergency Transportation program, broken out by:
+(i) the type of offense;
+(ii) whether the offense was a felony or misdemeanor;
+(iii) whether the offense was under State or federal law;
+(iv) the percentage of potential volunteers who were barred from
+providing transportation services through the Medicaid Non-Emergency
+Transportation program for each type of offense; and
+(v) to the extent that it is possible to determine, the number of
+rides that could have been provided by the individuals barred under each type
+of offense.
+(2) The Department shall utilize the information provided by the
+Association pursuant to subdivision (1) of this subsection to determine, to the
+extent possible, whether the identified offenses are:
+(A) fraud-based or otherwise implicate potential Medicaid fraud,
+waste, and abuse;
+VT LEG #384128 v.1
+No. 43 Page 35 of 41
+2025
+(B) an offense that otherwise bars an individual from providing
+transportation services through the Medicaid Non-Emergency Transportation
+program; or
+(C) an offense that caused harm to an individual other than the
+offender, or otherwise negatively impacted the safety of the general public.
+(b) The Department of Vermont Health Access and the Vermont Public
+Transit Association shall, on or before January 30, 2026, make themselves
+available to provide an update to the House Committees on Transportation and
+on Health Care and to the Senate Committees on Transportation and on Health
+and Welfare regarding the work performed pursuant to this section and
+opportunities that were identified to expand the Medicaid Non-Emergency
+Transportation program’s pool of volunteer drivers.
+Sec. 27. VOLUNTEER DRIVERS; PUBLICITY; OUTREACH
+(a) The Commissioner of Motor Vehicles, in consultation with the Vermont
+Public Transit Association, shall identify and pursue opportunities to
+communicate with the Vermont driving public regarding volunteer and
+community driver participation in the State’s demand response transportation
+programs, including the Older Adults and Persons with Disabilities program
+and the Medicaid Non-Emergency Transportation program. Outreach
+conducted pursuant to this section may include:
+VT LEG #384128 v.1
+No. 43 Page 36 of 41
+2025
+(1) invitations for individuals to voluntarily indicate their interest
+through the operator licensing and vehicle registration processes, subject to any
+data privacy requirements under State or federal law;
+(2) notices or other public outreach placed on the Department’s website
+or other internet-based platforms; and
+(3) messaging by the Agency of Transportation on social media
+platforms, including providing links to informational resources provided by the
+Vermont Public Transit Association.
+(b) The Department of Vermont Health Access shall develop informational
+materials related to eligibility for the Medicaid Non-Emergency Transportation
+program. The Department shall, in consultation with the Agency of
+Transportation and other relevant stakeholders, make the materials available to
+the public on the Department’s website and other internet-based platforms.
+Sec. 28. COORDINATION OF HEALTH CARE AND TRANSPORTATION
+SERVICES; WORKING GROUP; REPORT
+(a) The Secretary of Transportation, in consultation with the Commissioner
+of Vermont Health Access, shall convene a working group to improve the
+coordination of health care and transportation services in relation to individuals
+enrolled in the State’s demand response transportation programs. The working
+group shall be composed of stakeholders identified by the Secretary in
+consultation with the Commissioner of Vermont Health Access, including
+representatives of the Vermont Association of Hospitals and Health Systems,
+VT LEG #384128 v.1
+No. 43 Page 37 of 41
+2025
+independent dialysis and methadone facilities, and the Vermont Public
+Transportation Association.
+(b) The working group shall examine various options for improving the
+coordination of health care and transportation services, including:
+(1) opportunities to coordinate the scheduling of health care
+appointments and treatments to maximize the use of shared rides; and
+(2) opportunities to improve communication between the public transit
+agencies and health care providers to facilitate coordination of health care and
+transportation services for individuals enrolled in the State’s demand response
+transportation programs.
+(c) On or before January 15, 2026, the Secretary and Commissioner shall
+submit a written report to the House Committees on Transportation and on
+Health Care and the Senate Committees on Transportation and on Health and
+Welfare with the working group’s findings and any recommendations for
+legislative action.
+* * * Vehicle Identification Numbers for Certain Vehicles * * *
+Sec. 29. ULTRA-LOW VOLUME VEHICLE MANUFACTURING; KIT-
+CARS; HOMEBUILT MOTOR VEHICLES; VEHICLE
+IDENTIFICATION NUMBER; REPORT
+(a)(1) The Commissioner of Motor Vehicles, in consultation with the
+Secretary of Natural Resources and representatives of the ultra-low volume
+vehicle manufacturing industry in Vermont, shall examine processes for
+VT LEG #384128 v.1
+No. 43 Page 38 of 41
+2025
+issuing vehicle identification numbers to ultra-low volume motor vehicles, kit-
+cars, and homebuilt motor vehicles and opportunities to facilitate the
+registration of such vehicles.
+(2) As used in this section:
+(A) “Homebuilt motor vehicle” means a motor vehicle that is
+constructed or assembled by an individual from new or used parts, or both, and
+is not a kit-car.
+(B) “Kit-car” means a motor vehicle that is constructed by an
+individual from a manufactured kit that includes some or all parts and
+components necessary to construct the motor vehicle.
+(C) “Ultra-low volume motor vehicle” means a vehicle that is
+manufactured for sale by a manufacturer whose annual worldwide production
+is not more than 325 motor vehicles.
+(b) In preparing the report, the Commissioner shall:
+(1) examine how other states address motor vehicle emissions
+requirements for ultra-low volume motor vehicles, kit-cars, and homebuilt
+motor vehicles;
+(2) identify a cost-effective process for certifying the safety of ultra-low
+volume motor vehicles, kit-cars, and homebuilt motor vehicles; and
+(3) develop a streamlined process to provide State Vehicle Identification
+Numbers to ultra-low volume motor vehicles, kit-cars, and homebuilt motor
+vehicles.
+VT LEG #384128 v.1
+No. 43 Page 39 of 41
+2025
+(c) On or before January 15, 2026, the Commissioner shall submit a written
+report to the House and Senate Committees on Transportation regarding the
+Commissioner’s findings and identifying any legislative action necessary to
+enable the issuance of vehicle identification numbers to and registration of
+ultra-low volume motor vehicles, kit-cars, and homebuilt motor vehicles.
+* * * Railroad Rights-of-Way * * *
+Sec. 30. 5 V.S.A. § 3410 is added to read:
+
+Section 15:
+§ 3410. RAILROAD RIGHTS-OF-WAY; COMMUNICATIONS LEASES;
+ANNUAL REPORT
+Annually, on or before December 15, the Secretary shall report to the House
+and Senate Committees on Transportation regarding the most recent fiscal
+year’s lease revenues for State-owned railroad rights-of-way related to:
+(1) wired or wireless telephone infrastructure located in the rights-of-
+way;
+(2) broadband infrastructure located in the rights-of-way; and
+(3) leases of the rights-of-way for purposes other than the operation of
+the railroads within the rights-of-way.
+Sec. 31. AVAILABILITY OF STATE-OWNED RAILROAD RIGHT-OF-
+WAY FOR COMMUNICATIONS LEASES
+In order to expand the use of State-owned railroad rights-of-way, the
+Secretary of Transportation, in consultation with the Commissioner of Public
+VT LEG #384128 v.1
+No. 43 Page 40 of 41
+2025
+Service, shall provide information to communications companies regarding the
+availability for lease of property located in State-owned railroad rights-of-way.
+* * * Dig Safe * * *
+Sec. 32. 30 V.S.A. § 7006 is amended to read:
+
+Section 16:
+§ 7006. MARKING OF UNDERGROUND UTILITY FACILITIES
+A company notified in accordance with section 7005 of this title shall,
+within 48 72 hours, exclusive of Saturdays, Sundays, and legal holidays, of
+after the receipt of the notice, mark the approximate location of its
+underground utility facilities in the area of the proposed excavation activities;
+provided, however, if the company advises the person that the proposed
+excavation area is of such length or size that the company cannot reasonably
+mark all of the underground utility facilities within 48 72 hours, the person
+shall notify the company of the specific locations in which the excavation
+activities will first occur and the company shall mark facilities in those
+locations within 48 72 hours and the remaining facilities within a reasonable
+time thereafter. A company and an excavator may by agreement fix a later
+time for the company’s marking of the facilities, provided the marking is made
+prior to excavation activities. For the purposes of this chapter, the approximate
+location of underground facilities shall be marked with stakes, paint, or other
+physical means as designated by the Commission.
+VT LEG #384128 v.1
+No. 43 Page 41 of 41
+2025
+Sec. 33. 30 V.S.A. § 7006a is amended to read:
+
+Section 17:
+§ 7006a. MAINTENANCE OF UNDERGROUND UTILITY FACILITY
+MARKINGS
+After a company has marked its underground facilities in accordance with
+
+Section 18:
+section 7006 of this title, the excavator shall be responsible for maintenance of
+the designated markings. In the event said markings are obliterated, destroyed,
+or removed, the person engaged in excavation activities shall notify the System
+referred to in section 7002 of this title that remarking is needed. The System
+shall then notify all member companies whose facilities may be affected. The
+Each applicable company shall within 48 72 hours, exclusive of Saturdays,
+Sundays, and legal holidays, following receipt of the notice, remark the
+location of its underground utility facilities.
+* * * Effective Dates * * *
+Sec. 34. EFFECTIVE DATES
+(a) This section and Secs. 32 and 33 (dig safe) shall take effect on passage.
+(b) The remaining sections shall take effect on July 1, 2025.
+Date Governor signed bill: June 2, 2025
+VT LEG #384128 v.1
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P A A C 0 2 2 0 2 2 0 2 2 0 2 2 A A C 1 1 0 1 1 0 1 0 - 0 1 1 1 1 0]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+No. 43 Page 1 of 41
+2025
+No. 43. An act relating to the fiscal year 2026 Transportation Program
+and miscellaneous changes to laws related to transportation.
+(H.488)
+It is hereby enacted by the General Assembly of the State of Vermont:
+* * * Transportation Program Adopted as Amended; Definitions * * *
+Sec. 1. TRANSPORTATION PROGRAM ADOPTED; DEFINITIONS
+(a) Adoption. The Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program appended to the Agency of Transportation’s proposed
+fiscal year 2026 budget, as amended by this act, is adopted to the extent
+federal, State, and local funds are available.
+(b) Definitions. As used in this act, unless otherwise indicated:
+(1) “Agency” means the Agency of Transportation.
+(2) “Candidate project” means a project approved by the General
+Assembly that is not anticipated to have significant expenditures for
+preliminary engineering or right-of-way expenditures, or both, during the
+budget year and funding for construction is not anticipated within a predictable
+time frame.
+(3) “Development and evaluation (D&E) project” means a project
+approved by the General Assembly that is anticipated to have preliminary
+engineering expenditures or right-of-way expenditures, or both, during the
+budget year and that the Agency is committed to delivering to construction on
+a timeline driven by priority and available funding.
+VT LEG #384128 v.1
+
+No. 43 Page 2 of 41
+2025
+(4) “Electric vehicle supply equipment (EVSE)” and “electric vehicle
+supply equipment available to the public” have the same meanings as in
+30 V.S.A. § 201.
+(5) “Front-of-book project” means a project approved by the General
+Assembly that is anticipated to have construction expenditures during the
+budget year or the following three years, or both, with expected expenditures
+shown over four years.
+(6) “Mileage-based user fee” or “MBUF” means a fee for vehicle use of
+the public road system with distance, stated in miles, as the measure of use.
+(7) “Plug-in electric vehicle (PEV),” “plug-in hybrid electric vehicle
+(PHEV),” and “battery electric vehicle (BEV)” have the same meanings as in
+23 V.S.A. § 4(85).
+(8) “Secretary” means the Secretary of Transportation.
+(9) “TIB funds” means monies deposited in the Transportation
+Infrastructure Bond Fund in accordance with 19 V.S.A. § 11f.
+(10) The table heading “As Proposed” means the Proposed
+Transportation Program referenced in subsection (a) of this section; the table
+heading “As Amended” means the amendments as made by this act; the table
+heading “Change” means the difference obtained by subtracting the “As
+Proposed” figure from the “As Amended” figure; the terms “change” or
+“changes” in the text refer to the project- and program-specific amendments,
+the aggregate sum of which equals the net “Change” in the applicable table
+VT LEG #384128 v.1
+
+No. 43 Page 3 of 41
+2025
+heading; and “State” in any tables amending authorizations indicates that the
+source of funds is State monies in the Transportation Fund, unless otherwise
+specified.
+* * * Summary of Transportation Investments * * *
+Sec. 2. FISCAL YEAR 2026 TRANSPORTATION INVESTMENTS
+INTENDED TO REDUCE TRANSPORTATION-RELATED
+GREENHOUSE GAS EMISSIONS, REDUCE FOSSIL FUEL
+USE, AND SAVE VERMONT HOUSEHOLDS MONEY
+This act includes the State’s fiscal year 2026 transportation investments
+intended to reduce transportation-related greenhouse gas emissions, reduce
+fossil fuel use, and save Vermont households money in furtherance of the
+policies articulated in 19 V.S.A. § 10b and the goals of the Comprehensive
+Energy Plan and the Vermont Climate Action Plan and to satisfy the Executive
+and Legislative Branches’ commitments to the Paris Agreement climate goals.
+In fiscal year 2026, these efforts will include the following:
+(1) Park and Ride Program. This act provides for a fiscal year
+expenditure of $2,435,740.00, which will fund two construction projects to
+create new park-and-ride facilities, the construction of improvements to two
+existing park-and-ride facilities, funding for a municipal park-and-ride grant
+program, and paving projects for existing park-and-ride facilities. This year’s
+Park and Ride Program will create 60 new State-owned spaces. Specific
+additions and improvements include:
+VT LEG #384128 v.1
+
+No. 43 Page 4 of 41
+2025
+(A) Manchester—construction of 50 new spaces; and
+(B) Sharon—design and construction of 10 new spaces.
+(2) Bike and Pedestrian Facilities Program. This act provides for a
+fiscal year expenditure, including local match, of $21,879,965.00, which will
+fund 33 bike and pedestrian construction projects; 17 bike and pedestrian
+design, right-of-way, or design and right-of way projects for construction in
+future fiscal years; and 10 scoping studies. The construction projects include
+the creation, improvement, or rehabilitation of walkways, sidewalks, shared-
+use paths, bike paths, and cycling lanes. Projects are funded in Arlington,
+Bakersfield, Bennington, Bethel, Brattleboro, Bristol, Burke, Burlington,
+Castleton, Chester, Danville, Enosburg Falls, Fairfax, Greensboro, Hardwick,
+Hartford, Highgate, Hinesburg, Huntington, Hyde Park, Irasburg, Jericho,
+Lyndonville, Middlebury, Montpelier, Moretown, Newfane, Newport City,
+Northfield, Pawlet, Randolph, Royalton, Rutland City, Rutland Town,
+Sheffield, Shelburne, Sheldon, South Burlington, Springfield, St. Albans City,
+St. Albans Town, Swanton, Wallingford, Waterbury, West Rutland, Williston,
+Wilmington, and Windsor. This act also provides funding for:
+(A) some of Local Motion’s operation costs to run the bike ferry on
+the Colchester Causeway, which is part of the Island Line Trail;
+(B) a small-scale municipal bicycle and pedestrian grant program for
+projects to be selected during the fiscal year;
+VT LEG #384128 v.1
+
+No. 43 Page 5 of 41
+2025
+(C) projects funded through the Safe Routes to School Program; and
+(D) community grants along the Lamoille Valley Rail Trail (LVRT).
+(3) Transportation Alternatives Program. This act provides for a fiscal
+year expenditure of $6,471,054.00, including local funds, which will fund 17
+transportation alternatives construction projects; 26 transportation alternatives
+design, right-of-way, or design and right-of-way projects; and eight scoping
+studies. Of these 51 projects, 20 involve environmental mitigation related to
+clean water or stormwater concerns, or both clean water and stormwater
+concerns, and 32 involve bicycle and pedestrian facilities. Projects are funded
+in Athens, Barre City, Bennington, Brandon, Brattleboro, Bridgewater, Bristol,
+Burke, Burlington, Castleton, Derby, Enosburg Falls, Fairfax, Fairlee,
+Ferrisburgh, Grafton, Guilford, Hartford, Hinesburg, Hyde Park, Jericho,
+Londonderry, Lyndon, Montgomery, Newark, Proctor, Rockingham, Rutland
+City, Shoreham, South Burlington, Springfield, St. Albans Town, Swanton,
+Tinmouth, Warren, Williston, and Wilmington.
+(4) Public Transit Program. This act provides for a fiscal year
+expenditure of $52,695,234.00 for public transit uses throughout the State.
+Included in the authorization are:
+(A) Go! Vermont, with an authorization of $380,000.00. This
+authorization supports transportation demand management (TDM) strategies,
+including the State’s Trip Planner and commuter services, to promote the use
+of carpools and vanpools.
+VT LEG #384128 v.1
+
+No. 43 Page 6 of 41
+2025
+(B) Mobility and Transportation Innovations (MTI) Grant Program,
+with an authorization of $340,000.00, which includes $315,000.00 in federal
+funds. This authorization continues to support projects that improve both
+mobility and access to services for transit-dependent Vermonters, reduce the
+use of single-occupancy vehicles, and reduce greenhouse gas emissions.
+(5) Rail Program. This act provides for a fiscal year expenditure of
+$61,887,348.00, including local funds and $31,894,436.00 in federal funds, for
+intercity passenger rail service, including funding for the Ethan Allen Express
+and Vermonter Amtrak services, and rail infrastructure that supports freight
+rail as well. Moving freight by rail instead of trucks lowers greenhouse gas
+emissions by up to 75 percent, on average.
+* * * Rail Program; Technical Correction * * *
+Sec. 3. RAIL PROGRAM
+(a) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Rail the following project is deleted: Barre–
+Berlin–Montpelier 04-9038–WACR Subsidy.
+(b) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Rail, the following project is added: Hartford
+HRRD(1) 25G002–White River Junction Depot Repairs.
+(c) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Rail, spending authority for Hartford HRRD(1)
+25G002–White River Junction Depot Repairs is authorized as follows:
+VT LEG #384128 v.1
+
+No. 43 Page 7 of 41
+2025
+FY26 As Proposed As Amended Change
+Other 0 260,000 260,000
+Total 0 260,000 260,000
+Sources of funds
+State 0 260,000 260,000
+Total 0 260,000 260,000
+* * * Town Highway Non-Federal Disasters * * *
+Sec. 4. TOWN HIGHWAY NON-FEDERAL DISASTERS
+(a) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Town Highway Non-Federal Disasters, spending is
+authorized as follows:
+FY26 As Proposed As Amended Change
+Grants 1,150,000 1,150,000 0
+Total 1,150,000 1,150,000 0
+Sources of funds
+State 1,150,000 0 -1,150,000
+Other 0 1,150,000 1,150,000
+Total 1,150,000 1,150,000 0
+(b) Within the Agency of Transportation’s Proposed Fiscal Year 2026
+Transportation Program for Town Highway Non-Federal Disasters, the
+following footnote is added: “Other funds of $1,150,000 are amounts
+VT LEG #384128 v.1
+
+No. 43 Page 8 of 41
+2025
+appropriated from the PILOT Special Fund established pursuant to 32 V.S.A.
+§ 3709.”
+* * * State and Federal Funding Updates * * *
+Sec. 5. STATE AND FEDERAL FUNDING; MILEAGE BASED USER
+FEE; UPDATES
+(a) On or before September 30, 2025 and December 15, 2025, the Secretary
+of Transportation shall provide the Joint Transportation Oversight Committee
+with a briefing on the status of State Transportation Fund revenues and federal
+funding for the fiscal year 2026 Transportation Program, funding-related
+impacts on the fiscal year 2026 Transportation Program, and the Agency’s
+progress in designing the mileage-based user fee. The briefing shall include:
+(1) a summary of federal funding that has been received to date, federal
+funding that is anticipated later in the State fiscal year, federal funding that is
+delayed, and federal funding that has been reduced or subject to rescission;
+(2) a summary of the Transportation Fund revenues to date in State
+fiscal year 2026;
+(3) a summary of the impacts on the fiscal year 2026 Transportation
+Program that are caused by changes in State Transportation Fund revenues
+from the consensus forecast or delays or reductions in federal funding;
+(4) a summary of any legislative action that may be necessary to address
+reductions in State revenues or federal funding;
+VT LEG #384128 v.1
+
+No. 43 Page 9 of 41
+2025
+(5) a summary of the status of State and federal funding for the design
+of the mileage-based user fee pursuant to the provisions of 2023 Acts and
+Resolves No. 62, Secs. 27–29, as amended by Sec. 17 of this act; and
+(6) the Agency’s progress in designing the mileage-based user fee.
+(b) Upon becoming aware of a significant change in State revenues or a
+reduction in federal funding, rescission of federal grants, or delay of
+anticipated federal funding that will impact the Agency’s ability to carry out
+significant portions of the fiscal year 2026 Transportation Program, the
+Secretary of Transportation may request that the Joint Transportation
+Oversight Committee meet within 14 days to review the Agency’s plan to
+address the reduction in funding.
+(c) In the event of a decrease in overall State or federal funding for the
+fiscal year 2026 Transportation Program that is in excess of four percent, the
+Secretary shall submit to the Joint Transportation Oversight Committee a
+written report detailing the impact of the decrease on projects that are in the
+2026 Transportation Program.
+* * * Relinquishment of Vermont Route 36 in the Town of St. Albans * * *
+Sec. 6. RELINQUISHMENT OF VERMONT ROUTE 36 IN THE TOWN
+OF ST. ALBANS
+Pursuant to 19 V.S.A. § 15(a)(2), the General Assembly authorizes the
+Secretary of Transportation to enter into an agreement with the Town of St.
+Albans to relinquish a segment of the State highway in the Town of St. Albans
+VT LEG #384128 v.1
+
+No. 43 Page 10 of 41
+2025
+known as Vermont Route 36. The segment authorized to be relinquished
+begins at mile marker 0.00, just east of the “Black Bridge” (B2), and continues
+14,963 feet (approximately 2.834 miles) easterly to mile marker 2.834, where
+Vermont Route 36 meets the boundary of the City of St. Albans, and includes
+the 0.106-mile westbound section of Vermont Route 36 and approaches at the
+entrance to the St. Albans Bay Town Park.
+* * * State-Owned Railroads; Rail Trails * * *
+Sec. 7. 5 V.S.A. chapter 58 is redesignated to read:
+CHAPTER 58. STATE ACQUISITION OF STATE-OWNED RAILROADS
+AND RAIL TRAILS
+Sec. 8. 5 V.S.A. § 3408 is amended to read:
+§ 3408. RAILBANKING; NOTIFICATION
+(a) If the Secretary finds that the continued operation of any State-owned
+railroad property is not economically feasible under present conditions, he or
+she the Secretary may place the line in railbanked status after giving advance
+notice of such the planned railbanking to the House and Senate Committees on
+Transportation when the General Assembly is in session, and when the General
+Assembly is not in session, to the Joint Transportation Oversight Committee.
+The Agency, on behalf of the State, shall continue to hold the right-of-way of a
+railbanked line for reactivation of railroad service or for other public purposes
+not inconsistent with future reactivation of railroad service. Such The
+VT LEG #384128 v.1
+
+No. 43 Page 11 of 41
+2025
+railbanking shall not be treated, for purposes of any law or rule of law, as an
+abandonment of the use of the rights-of-way for railroad purposes.
+* * *
+(c)(1) The Secretary may, after consulting with municipalities, adopt rules
+consistent with the provisions of section 3408a of this chapter governing the
+interim trail use of State-owned railroad rights-of-way that have been placed in
+railbanked status.
+(2) Signs indicating the rules shall be conspicuously posted in or near all
+areas affected.
+(3) Any person who violates these rules adopted pursuant to this
+subsection shall be subject to a penalty of not more than $300.00.
+Sec. 9. 5 V.S.A. § 3408a is added to read:
+§ 3408a. USE OF RAIL TRAILS
+(a) Definitions. As used in this section:
+(1) “Rail trail” means the right-of-way of a State-owned railroad line
+that has been authorized for railbanking and interim trail use pursuant to
+16 U.S.C. § 1247(d) or section 3408 of this chapter.
+(2) “Trail sponsor” means the Agency of Transportation in the case of a
+rail trail maintained by the Agency or the municipality in the case of a rail trail
+maintained by a municipality.
+(b) Use of rail trails. The following acts are prohibited within a rail trail
+right-of-way:
+VT LEG #384128 v.1
+
+No. 43 Page 12 of 41
+2025
+(1) Throwing, dropping, or discarding bottles, cans, paper, garbage,
+rubbish, sewage, or other material of any kind.
+(2) Cutting, mutilating, or removing any tree, shrub, flower, plant, top
+soil, or sod or attempting to do so.
+(3) Injury, defacement, removal, or destruction of the surface of the rail
+trail or a rail trail’s structures, appurtenances, recreation facilities, or property.
+(4) Except as authorized by the trail sponsor, erecting, placing, or
+displaying any advertising materials, posters, or placards of any kind. This
+prohibition shall not apply to official signs erected by the trail sponsor.
+(5) Except as authorized by the trail sponsor, entering or remaining on
+the rail trail for the purpose of:
+(A) selling, hiring, or leasing any goods or services; or
+(B) distributing samples, pamphlets, or advertising materials, except
+for official information authorized by the trail sponsor.
+(6) Parades, demonstrations, picnics, games, entertainment, or
+organizations, except at times and locations approved by the trail sponsor.
+(7) Harassing or molesting wildlife, except for fishing.
+(8) Using or discharging any firearms or other weapons or fireworks,
+except by a person authorized by the trail sponsor or as otherwise permitted by
+law.
+(9) Igniting fires for any purpose, except in fireplaces or firepits at
+locations designated by the trail sponsor or for trail maintenance purposes.
+VT LEG #384128 v.1
+
+No. 43 Page 13 of 41
+2025
+(10) Soliciting alms or contributions.
+(11) Use of motorized vehicles, except for:
+(A) maintenance purposes;
+(B) snowmobiles, subject to applicable State rules, when the
+Vermont Association of Snow Travelers, Inc. has declared the Statewide
+Snowmobile Trail System officially open;
+(C) Other Power-Driven Mobility Devices (OPDMD) utilized by an
+individual with a disability as permitted by the Agency’s Rail Trail
+Accessibility Policy;
+(D) electric bicycles as permitted pursuant to applicable State rules;
+and
+(E) other circumstances that the trail sponsor determines are
+appropriate.
+(12) Overnight camping, except at areas designated for that purpose by
+the trail sponsor.
+(c) Penalty. Any person who violates the provisions of subsection (b) of
+this section shall be subject to a civil penalty pursuant to subdivision
+3408(c)(3) of this chapter.
+VT LEG #384128 v.1
+
+No. 43 Page 14 of 41
+2025
+* * * Transportation Board * * *
+Sec. 10. 19 V.S.A. § 3 is amended to read:
+§ 3. TRANSPORTATION BOARD; CREATION; MEMBERS
+A transportation board The Transportation Board is formed to be attached to
+the Agency of Transportation. There shall be seven members of the Board,
+appointed by the Governor with the advice and consent of the Senate. The
+Governor shall so far as is possible appoint Board members whose interests
+and expertise lie in various areas of the transportation field. The Governor
+shall appoint the chair Chair, and the Board may vote to appoint other officers.
+The members of the Board shall be appointed for terms of three years. Board
+members may be appointed for two additional three-year terms but shall not be
+eligible for further reappointment. No Not more than four members of the
+Board shall belong to the same political party. No member of the Board shall:
+* * *
+Sec. 11. 19 V.S.A. § 5 is amended to read:
+§ 5. TRANSPORTATION BOARD; POWERS AND DUTIES
+* * *
+(d) Specific duties and responsibilities. The Board shall:
+* * *
+(4) provide appellate review, when requested in writing, regarding legal
+disputes in the execution of contracts awarded by the Agency or by
+municipalities cooperating with the Agency to advance projects in the State’s
+VT LEG #384128 v.1
+
+No. 43 Page 15 of 41
+2025
+Transportation Program, except that the Agency shall provide appellate review
+relating to bids and the competitive negotiation process under 19 V.S.A. § 10a;
+(5) provide appellate review, when requested in writing, of decisions of
+the Secretary in administering the provisions of Title 24, relating to junkyards
+salvage yards;
+* * *
+* * * Green Mountain Transit Authority * * *
+Sec. 12. 24 App. V.S.A. chapter 801 is amended to read:
+CHAPTER 801. GREEN MOUNTAIN TRANSIT AUTHORITY
+* * *
+§ 2. AREA OF OPERATION
+(a) The area of operation shall be the urbanized area of Chittenden,
+Franklin, Grand Isle, and Washington Counties and the Towns of Orange,
+Washington, and Williamstown. The area of operation shall include Addison
+and Caledonia Counties and the Towns of Orange County other than Orange,
+Washington, and Williamstown, but only for the provision of commuter
+services. The area of operation shall include Lamoille County, but only for the
+provision of published scheduled services County as established by the U.S.
+Census Bureau. The Green Mountain Transit Authority may operate service
+outside the urbanized area of Chittenden County with approval from the
+Agency of Transportation. Nothing in this section shall be construed to
+prevent other transit providers from offering transit connecting to the
+VT LEG #384128 v.1
+
+No. 43 Page 16 of 41
+2025
+urbanized area of Chittenden County, or providing on demand services in that
+area, with the approval of the Agency of Transportation.
+* * *
+§ 10. IMPLEMENTATION
+* * *
+(c) Immediately upon joining the Authority, the municipality shall appoint
+two commissioners as provided herein. The initial terms of the commissioners
+of the initial members shall be arranged by the Chittenden County Regional
+Planning Commission so that the terms of approximately one-third of the
+commissioners shall expire in each year. The initial terms of commissioners
+from municipalities joining after March 7, 1973, shall be set by the Board of
+Commissioners.
+* * *
+* * * Town Highways * * *
+Sec. 13. 19 V.S.A. § 306 is amended to read:
+§ 306. APPROPRIATION; STATE AID FOR TOWN HIGHWAYS
+(a) General State aid to town highways.
+(1) An annual appropriation to class 1, 2, and 3 town highways shall be
+made. This appropriation shall increase over the previous fiscal year’s
+appropriation by the same percentage change as the following, whichever is
+less, or shall remain at the previous fiscal year’s appropriation if either of the
+following are negative or zero:
+VT LEG #384128 v.1
+
+No. 43 Page 17 of 41
+2025
+(A) the percentage change of the Agency’s total appropriations
+funded by Transportation Fund revenues, excluding appropriations for town
+highways under this subsection (a) and subsections (e) and (h) of this section,
+for the most recently closed fiscal year as compared to the fiscal year
+immediately preceding the most recently closed fiscal year; or
+* * *
+(e) State aid for town highway structures.
+(1) There shall be an annual appropriation for grants to municipalities
+for maintenance (including actions to extend life expectancy) and for
+construction of bridges and culverts; for maintenance and construction of other
+structures, including causeways and retaining walls, intended to preserve the
+integrity of the traveled portion of class 1, 2, and 3 town highways; and for
+alternatives that eliminate the need for a bridge, culvert, or other structure,
+such as the construction or reconstruction of a highway, the purchase of parcels
+of land that would be landlocked by closure of a bridge, the payment of
+damages for loss of highway access, and the substitution of other means of
+access. This appropriation shall increase over the previous fiscal year’s
+appropriation by the same percentage change as the following, whichever is
+less, or shall remain at the previous fiscal year’s appropriation if either of the
+following are negative or zero:
+(A) the percentage change in the Agency’s total appropriations
+funded by Transportation Fund revenues, excluding appropriations under this
+VT LEG #384128 v.1
+
+No. 43 Page 18 of 41
+2025
+subsection (e) and subsections (a) and (h) of this section, for the most recently
+closed fiscal year as compared to the fiscal year immediately preceding the
+most recently closed fiscal year; or
+(B) the percentage change in the Bureau of Labor Statistics
+Consumer Price Index for All Urban Consumers (CPI-U).
+(2) For purposes of subdivision (1)(B) of this subsection, the percentage
+change in the CPI-U is calculated by determining the increase or decrease, to
+the nearest one-tenth of a percent, in the CPI-U for the month ending on June
+30 in the calendar year one year prior to the first day of the fiscal year for
+which the appropriation will be made compared to the CPI-U for the month
+ending on June 30 in the calendar year two years prior to the first day of the
+fiscal year for which the appropriation will be made.
+(3) Each fiscal year, the Agency shall approve qualifying projects with a
+total estimated State share cost of $7,200,000.00 at a minimum as new grants.
+The Agency’s proposed appropriation for the Program shall take into account
+the estimated amount of qualifying invoices submitted to the Agency with
+respect to project grants approved in prior years but not yet completed as well
+as with respect to new project grants to be approved in the fiscal year
+Beginning with State fiscal year 2027, the minimum total estimated State share
+cost for the approved grants shall increase over the prior fiscal year’s minimum
+total estimated State share cost by the same percentage as the appropriation for
+VT LEG #384128 v.1
+
+No. 43 Page 19 of 41
+2025
+State aid for town highway structures is increased pursuant to subdivision (1)
+of this subsection.
+(4) In a given fiscal year, should expenditures in the Town Highway
+Structures Program exceed the amount appropriated, the Agency shall advise
+the Governor of the need to request a supplemental appropriation from the
+General Assembly to fund the additional project cost, provided that the Agency
+has previously committed to completing those projects.
+(3)(5) Funds received as grants for State aid for town highway structures
+may be used by a municipality to satisfy a portion of the matching
+requirements for federal earmarks, subject to subsection 309b(c) of this title.
+* * *
+(h) Class 2 Town Highway Roadway Program.
+(1) There shall be an annual appropriation for grants to municipalities
+for resurfacing, rehabilitation, or reconstruction of paved or unpaved class 2
+town highways. However, municipalities Municipalities that have no State
+highways or class 1 town highways within their borders may use the grants for
+such activities with respect to both class 2 and class 3 town highways. Each
+fiscal year, the Agency shall approve qualifying projects with a total estimated
+State share cost of $8,600,000.00 at a minimum as new grants. The Agency’s
+proposed appropriation for the Program shall take into account the estimated
+amount of qualifying invoices submitted to the Agency with respect to project
+grants approved in prior years but not yet completed as well as with respect to
+VT LEG #384128 v.1
+
+No. 43 Page 20 of 41
+2025
+new project grants to be approved in the fiscal year. This appropriation shall
+increase over the previous fiscal year’s appropriation by the same percentage
+change as the following, whichever is less, or shall remain at the previous
+fiscal year’s appropriation if either of the following are negative or zero:
+(A) the percentage change in the Agency’s total appropriations
+funded by Transportation Fund revenues, excluding appropriations under this
+subsection (h) and subsections (a) and (e) of this section, for the most recently
+closed fiscal year as compared to the fiscal year immediately preceding the
+most recently closed fiscal year; or
+(B) the percentage change in the Bureau of Labor Statistics
+Consumer Price Index for All Urban Consumers (CPI-U).
+(2) For purposes of subdivision (1)(B) of this subsection, the percentage
+change in the CPI-U is calculated by determining the increase or decrease, to
+the nearest one-tenth of a percent, in the CPI-U for the month ending on June
+30 in the calendar year one year prior to the first day of the fiscal year for
+which the appropriation will be made compared to the CPI-U for the month
+ending on June 30 in the calendar year two years prior to the first day of the
+fiscal year for which the appropriation will be made.
+(3) Each fiscal year, the Agency shall approve qualifying projects with a
+total estimated State share cost of $8,600,000.00 at a minimum as new grants.
+Beginning with State fiscal year 2027, the minimum total estimated State share
+cost for the approved grants shall increase over the prior fiscal year’s minimum
+VT LEG #384128 v.1
+
+No. 43 Page 21 of 41
+2025
+total estimated State share cost by the same percentage as the appropriation for
+the Class 2 Town Highway Roadway Program is increased pursuant to
+subdivision (1) of this subsection.
+(4) In a given fiscal year, should expenditures in the Class 2 Town
+Highway Roadway Program exceed the amount appropriated, the Agency shall
+advise the Governor of the need to request a supplemental appropriation from
+the General Assembly to fund the additional project cost, provided that the
+Agency has previously committed to completing those projects. Funds
+received as grants for State aid under the Class 2 Town Highway Roadway
+Program may be used by a municipality to satisfy a portion of the matching
+requirements for federal earmarks, subject to subsection 309b(c) of this title.
+* * *
+Sec. 14. CANCELLATION OF LOCALLY MANAGED PROJECTS;
+PROCESS; IMPROVEMENTS; REPORT
+The Agency of Transportation, in consultation with the Transportation
+Board, the Vermont League of Cities and Towns, and the Vermont Association
+of Planning and Development Agencies, shall engage a consultant to examine
+the requirements of 19 V.S.A. § 309c, cancellation of locally managed
+projects, to evaluate the obligations, risks, and benefits imposed by the
+provisions of that section on the State and the local sponsor of a locally
+managed project and to identify potential changes to the provisions of that
+section to ensure that State and federal transportation funding resources are
+VT LEG #384128 v.1
+
+No. 43 Page 22 of 41
+2025
+appropriately administered. The Agency shall, on or before January 15, 2026,
+submit a written report to the House and Senate Committees on Transportation
+regarding the consultant’s findings and any recommendations for legislative
+action.
+Sec. 15. MUNICIPAL TRANSPORTATION ASSETS; ASSESSMENT;
+FUNDING NEEDS; REPORT
+(a) The Agency of Transportation, in consultation with the Vermont
+League of Cities and Towns and the Vermont Association of Planning and
+Development Agencies, shall engage a consultant to:
+(1) review current municipal practices relating to planning for ongoing
+maintenance, upgrades, and replacement of municipal transportation assets,
+including roads, pavement, bridges, culverts, signals, signage, highway
+equipment, and highway facilities;
+(2) develop a framework for a system to assess the current condition of
+municipal highway networks and the potential impacts of improvements to or
+degradation of those networks on the State’s transportation system;
+(3) develop a prioritization process to direct State funding to the repair,
+upgrade, or replacement of specific municipal transportation assets based on
+the need for such work in the context of the asset’s role in the State and
+regional highway networks; and
+(4) identify and recommend potential statutory changes to implement
+the assessment framework developed pursuant to subdivision (2) of this
+VT LEG #384128 v.1
+
+No. 43 Page 23 of 41
+2025
+subsection and the prioritization process developed pursuant to subdivision (3)
+of this subsection.
+(b) The Agency of Transportation shall, not later than January 15, 2027,
+submit a written report to the House and Senate Committees on Transportation
+regarding the consultant’s findings and recommendations for legislative action.
+Sec. 16. STATE TOWN HIGHWAY AID; MUNICIPAL GRANT
+PROGRAMS; EFFICIENCIES; IMPROVEMENTS; REPORT
+(a) The Agency of Transportation, in consultation with the Vermont
+League of Cities and Towns and the Vermont Association of Planning and
+Development Agencies, shall engage a consultant to evaluate the State’s Town
+Highway Aid and municipal grant programs administered by the Agency to
+identify potential efficiencies and improvements related to the administration
+of Town Highway Aid and municipal grant programs. The consultant shall
+evaluate the various funding streams authorized pursuant to 19 V.S.A. § 306 as
+well as programs administered through the Agency’s Municipal Assistance
+Bureau, including the Bicycle and Pedestrian Grant Program, Transportation
+Alternatives Program, Municipal Mitigation Program, Municipal Park and
+Ride Program, Better Roads Program, Municipal Highway and Stormwater
+Mitigation Program, and Grants in Aid.
+(b) On or before January 15, 2026, the Agency shall submit a written report
+to the House and Senate Committees on Transportation regarding the
+consultant’s findings and any recommendations for legislative or
+VT LEG #384128 v.1
+
+No. 43 Page 24 of 41
+2025
+administrative actions to improve or increase the efficiency of the Town
+Highway Aid and municipal grant programs.
+* * * Mileage-Based User Fee * * *
+Sec. 17. 2023 Acts and Resolves No. 62, Secs. 27–29 are amended to read:
+Sec. 27. MILEAGE-BASED USER FEE LEGISLATIVE INTENT
+It is the intent of the General Assembly for the State:
+(1) to start collecting a mileage-based user fee from all battery-electric
+vehicles registered in Vermont starting on July 1, 2025, which is expected to
+be the first day of the first fiscal year when more than 15 percent of new
+pleasure car registrations in the State are plug-in electric vehicles (PEVs) or
+before January 1, 2027 subject to sufficient funding being available for
+implementation;
+(2) to start subjecting subject plug-in hybrid electric vehicles (PHEVs)
+that are a pleasure car to an increased annual or a biennial registration electric
+vehicle infrastructure fee starting on July January 1, 2025, and that PHEVs
+shall not be subject to a mileage-based user fee;
+(3) to work towards examine collecting a fee on kWhs electricity that
+are is dispensed through certain electric vehicle supply equipment available to
+the public so as to supplant lost gas fuel tax revenue from out-of-state PEVs
+traveling in Vermont; and
+(4) to not commence collecting a mileage-based user fee until such the
+General Assembly has enacted legislation that establishes the amount of the fee
+VT LEG #384128 v.1
+
+No. 43 Page 25 of 41
+2025
+and codifies any necessary authorizing language is codified in statute and that
+legislation becomes effective.
+Sec. 28. MILEAGE-BASED USER FEE AUTHORIZATION
+(a) Within the Agency of Transportation’s Proposed Fiscal Year 2024
+Transportation Program for Environmental Policy and Sustainability, the
+Agency of Transportation, including the Department of Motor Vehicles, is
+authorized to apply for and accept a competitive federal Strategic Innovation
+for Revenue Collection grant established pursuant to the Infrastructure
+Investment and Jobs Act, Pub. L. No. 117-58 (IIJA), Sec. 13001, with up to
+$350,000.00 in Transportation Fund monies authorized for the nonfederal
+match in fiscal year 2024 and a to-be-determined amount for the nonfederal
+match in subsequent fiscal years up to $350,000.00 in Transportation Fund
+monies authorized for the nonfederal match in fiscal year 2025.
+(b) As permitted under federal regulations and grant terms, the The Agency
+shall utilize grant monies to design State or federal funding, or both, authorized
+to be used for the purpose of designing a mileage-based user fee that is
+consistent with Secs. 27 and 29 of this act.
+(c) Subject to State procurement requirements and the availability of
+sufficient funding, the Agency may retain one or more contractors or
+consultants, or both, to assist with the design of a process to commence
+collecting a mileage-based user fee on July 1, 2025 January 1, 2027.
+VT LEG #384128 v.1
+
+No. 43 Page 26 of 41
+2025
+Sec. 29. MILEAGE-BASED USER FEE DESIGN
+(a) Definitions. As used in Secs. 27–30 of this act:
+(1) “Account manager” means a person under contract with the Agency
+of Transportation or Department of Motor Vehicles to administer and manage
+the mileage-based user fee.
+(2) “Annual vehicle miles traveled” means the total number of miles that
+a BEV is driven between annual inspections as reported by an inspection
+mechanic to the Department of Motor Vehicles.
+(3) “Mileage-based user fee” means the total amount that an owner or
+lessee of a BEV registered in Vermont owes the State and is calculated by:
+(A) multiplying the mileage-based user fee rate by the annual vehicle
+miles traveled or,;
+(B) in the case of a terminating event, by multiplying the mileage-
+based user fee rate by the vehicle miles traveled between the last Vermont
+annual inspection and the terminating event; or
+(C) in the absence of a recorded odometer reading during the mileage
+reporting period, by multiplying the mileage-based user fee by the 98th
+percentile of estimated annual vehicle miles traveled for a pleasure car in
+Vermont.
+(4) “Mileage-based user fee rate” means the per-mile usage fee charged
+to the owner or lessee of a BEV registered in Vermont.
+VT LEG #384128 v.1
+
+No. 43 Page 27 of 41
+2025
+(5) “Mileage reporting period” means the time between annual
+inspections or the time between an the most recent annual inspection and a
+terminating event.
+(6) “Pleasure car” has the same meaning as in 23 V.S.A. § 4(28).
+(7) “Plug-in electric vehicle (PEV)” has the same meaning as in
+23 V.S.A. § 4(85) and includes battery electric vehicles (BEVs) and plug-in
+hybrid electric vehicles (PHEVs), which have the same meaning as in
+23 V.S.A. § 4(85)(A) and (B).
+(8) “Terminating event” means either the registering of a BEV that had
+been registered in Vermont in a different state or a change in ownership or
+lesseeship of the BEV, or both.
+(b) Commencement date. The Agency shall design a process to collect a
+mileage-based user fee for miles driven by a BEV registered in Vermont to
+commence collecting revenue on July 1, 2025 January 1, 2027.
+(c) Covered vehicles. The Agency shall design a process to collect a
+mileage-based user fee based on the annual vehicle miles traveled by BEVs
+registered in the State.
+(d) Imposition of a mileage-based user fee. The Agency shall design a
+process to collect a mileage-based user fee from the owner or lessee of a BEV
+registered in Vermont for each mileage reporting period within 60 days after
+the Vermont annual inspection on an annual, quarterly, or monthly basis
+selected by the owner or lessee and reconciled upon renewal of the vehicle
+VT LEG #384128 v.1
+
+No. 43 Page 28 of 41
+2025
+registration or within 60 days after a terminating event that closes the mileage
+reporting period.
+Sec. 18. INTENT
+It is the intent of the General Assembly that:
+(1) the mileage-based user fee for a BEV pleasure car be approximately
+equivalent to the average amount collected by the State in fuel tax revenue
+from the use of a non-PEV pleasure car registered in Vermont and the average
+amount collected by the State in fuel tax revenue and Electric Vehicle
+Infrastructure fee from the use of a PHEV pleasure car; and
+(2) that the mileage-based user fee for BEV pleasure cars will be an
+interim step towards gradually expanding the mileage-based user fee to all
+motor vehicles upon elimination of the State fuel taxes for motor vehicles.
+* * * Authority to Transfer Monies in State Fiscal Year 2026 * * *
+Sec. 19. AUTHORIZATION TO USE MONIES TO CONTINUE
+PARTNERSHIP WITH DRIVE ELECTRIC VERMONT IN STATE
+FISCAL YEAR 2026
+In State fiscal year 2026, the Secretary of Transportation is authorized to
+spend up to $325,000.00 in remaining monies appropriated to the Electrify
+Your Fleet Program in State Fiscal Year 2024 to continue the Agency of
+Transportation’s partnership with Drive Electric Vermont. The monies shall
+be used for programs and activities that support increased ownership and use
+of PEVs in the State through:
+VT LEG #384128 v.1
+
+No. 43 Page 29 of 41
+2025
+(1) stakeholder coordination;
+(2) consumer education and outreach;
+(3) infrastructure development; and
+(4) the provision of technical assistance and support to Vermont
+municipalities and Vermont businesses desiring to electrify their vehicle fleets.
+* * * Consideration of Vehicle Miles Traveled in Project Planning * * *
+Sec. 20. 19 V.S.A. § 1 is amended to read:
+§ 1. DEFINITIONS
+As used in this title:
+* * *
+(26) “Vehicle miles traveled” means the estimated sum of the miles
+traveled by all motor vehicle trips within a specific area during a calendar year.
+Sec. 21. 19 V.S.A. § 10b is amended to read:
+§ 10b. STATEMENT OF POLICY; GENERAL
+(a) The Agency shall be the responsible agency of the State for the
+development of transportation policy. It shall develop a mission statement to
+reflect:
+(1) that State transportation policy shall be to encompass, coordinate,
+and integrate all modes of transportation and to consider complete streets, as
+defined in section 2401 of this title, principles; and
+(2) the need for transportation projects that will improve the State’s
+economic infrastructure,; as well as the use of resources in efficient,
+VT LEG #384128 v.1
+
+No. 43 Page 30 of 41
+2025
+coordinated, integrated, cost-effective, and environmentally sound ways,;
+reduce vehicle miles traveled within the State when feasible; and that will be
+consistent with the recommendations of the Comprehensive Energy Plan
+(CEP) issued under 30 V.S.A. § 202b.
+* * *
+Sec. 22. 19 V.S.A. § 10c is amended to read:
+§ 10c. STATEMENT OF POLICY; HIGHWAYS AND BRIDGES
+* * *
+(c) In choosing between the improvement of an existing highway and
+complete reconstruction, the Agency shall weigh the following factors:
+* * *
+(9) the impact on the historic, scenic, and aesthetic values of the
+municipality, as interpreted by the municipality, in which the highway is
+located; and
+(10) if it is a forest highway under federal jurisdiction; and
+(11) opportunities to reduce vehicle miles traveled or otherwise reduce
+greenhouse gas emissions related to the highway.
+* * *
+Sec. 23. 19 V.S.A. § 10i is amended to read:
+§ 10i. TRANSPORTATION PLANNING PROCESS
+* * *
+VT LEG #384128 v.1
+
+No. 43 Page 31 of 41
+2025
+(c) Transportation Program. The Transportation Program shall be
+developed in a fiscally responsible manner to accomplish the following
+objectives:
+* * *
+(3) strengthening the economy, protecting the quality of the natural
+environment, and improving Vermonters’ quality of life; and
+(4) achieving the recommendations of the CEP; and
+(5) striving to reduce vehicle miles traveled and greenhouse gas
+emissions.
+* * *
+* * * Medical Transports * * *
+Sec. 24. PUBLIC TRANSIT DEMAND RESPONSE VOLUNTEER
+COORDINATORS; GRANTS; APPROPRIATION
+(a) The Agency of Transportation is authorized to utilize up to $600,000.00
+in one-time funds appropriated from the Transportation Fund to the Agency of
+Transportation in fiscal year 2026 for the purpose of providing grants to public
+transit agencies to hire volunteer coordinators. Volunteer coordinators hired
+with grants provided pursuant to this section shall be responsible for the
+identification, recruitment, and retention of volunteers to provide
+transportation services to individuals enrolled in the State’s demand response
+transportation programs.
+VT LEG #384128 v.1
+
+No. 43 Page 32 of 41
+2025
+(b) The Agency shall, to the extent possible, seek to provide grants to
+public transit providers in a manner that is geographically balanced and
+ensures the distribution of volunteer coordinators throughout the State.
+(c) Not later than December 15, 2026, the Agency, in consultation with
+public transit agencies that receive grants pursuant to this section, shall submit
+a written report the House and Senate Committees on Transportation regarding
+the extent to which grants issued pursuant to this section resulted in an increase
+in volunteer capacity in the State.
+Sec. 25. MEDICAID NON-EMERGENCY TRANSPORTATION
+(a) In fiscal year 2026, prior to executing a contract to provide Medicaid
+Non-Emergency Transportation services, the Department of Vermont Health
+Access shall provide to the Joint Fiscal Committee a detailed analysis
+outlining:
+(1) any potential degradation or expansion of service to eligible
+individuals under a new contract to provide Medicaid Non-Emergency
+Transportation services;
+(2) any federal requirements contained in the request for proposals for
+the new contract; and
+(3) the outcome of the consultation between the Department and the
+Agency of Transportation pursuant to subsection (b) of this section.
+VT LEG #384128 v.1
+
+No. 43 Page 33 of 41
+2025
+(b) The Department shall consult with the Agency of Transportation prior
+to developing the request for proposals for a new contract to provide Medicaid
+Non-Emergency Transportation services.
+Sec. 26. VOLUNTEERS PROVIDING TRANSPORTATION SERVICES;
+BACKGROUND CHECKS; EXPANSION OF VOLUNTEER
+POOL; REPORT
+(a) On or before July 15, 2025, the Department of Vermont Health Access
+shall commence meeting with the Vermont Public Transit Association, the
+Agency of Transportation, and, in the discretion of the Commissioner of
+Vermont Health Access, other stakeholders to identify potential, federally
+permissible opportunities to expand the Medicaid Non-Emergency
+Transportation program’s pool of volunteer drivers. As part of this work, the
+Department and Association shall collaborate to determine if there are specific
+classes of offenses that currently prevent volunteer drivers from providing
+transportation services through the Medicaid Non-Emergency Transportation
+program.
+(1) The Vermont Public Transit Association shall, to the extent possible,
+gather and provide to the Department anonymized information from its
+members regarding:
+(A) the number of potential volunteers who were barred from
+providing transportation services through the Medicaid Non-Emergency
+Transportation program due to a background check during the past year;
+VT LEG #384128 v.1
+
+No. 43 Page 34 of 41
+2025
+(B) which of the background checks currently required by the
+Medicaid Non-Emergency Transportation program resulted in potential
+volunteers being barred from providing transportation services, broken out by
+percentage; and
+(C) a summary of the offenses that resulted in potential volunteers
+being barred from providing transportation services through the Medicaid Non-
+Emergency Transportation program, broken out by:
+(i) the type of offense;
+(ii) whether the offense was a felony or misdemeanor;
+(iii) whether the offense was under State or federal law;
+(iv) the percentage of potential volunteers who were barred from
+providing transportation services through the Medicaid Non-Emergency
+Transportation program for each type of offense; and
+(v) to the extent that it is possible to determine, the number of
+rides that could have been provided by the individuals barred under each type
+of offense.
+(2) The Department shall utilize the information provided by the
+Association pursuant to subdivision (1) of this subsection to determine, to the
+extent possible, whether the identified offenses are:
+(A) fraud-based or otherwise implicate potential Medicaid fraud,
+waste, and abuse;
+VT LEG #384128 v.1
+
+No. 43 Page 35 of 41
+2025
+(B) an offense that otherwise bars an individual from providing
+transportation services through the Medicaid Non-Emergency Transportation
+program; or
+(C) an offense that caused harm to an individual other than the
+offender, or otherwise negatively impacted the safety of the general public.
+(b) The Department of Vermont Health Access and the Vermont Public
+Transit Association shall, on or before January 30, 2026, make themselves
+available to provide an update to the House Committees on Transportation and
+on Health Care and to the Senate Committees on Transportation and on Health
+and Welfare regarding the work performed pursuant to this section and
+opportunities that were identified to expand the Medicaid Non-Emergency
+Transportation program’s pool of volunteer drivers.
+Sec. 27. VOLUNTEER DRIVERS; PUBLICITY; OUTREACH
+(a) The Commissioner of Motor Vehicles, in consultation with the Vermont
+Public Transit Association, shall identify and pursue opportunities to
+communicate with the Vermont driving public regarding volunteer and
+community driver participation in the State’s demand response transportation
+programs, including the Older Adults and Persons with Disabilities program
+and the Medicaid Non-Emergency Transportation program. Outreach
+conducted pursuant to this section may include:
+VT LEG #384128 v.1
+
+No. 43 Page 36 of 41
+2025
+(1) invitations for individuals to voluntarily indicate their interest
+through the operator licensing and vehicle registration processes, subject to any
+data privacy requirements under State or federal law;
+(2) notices or other public outreach placed on the Department’s website
+or other internet-based platforms; and
+(3) messaging by the Agency of Transportation on social media
+platforms, including providing links to informational resources provided by the
+Vermont Public Transit Association.
+(b) The Department of Vermont Health Access shall develop informational
+materials related to eligibility for the Medicaid Non-Emergency Transportation
+program. The Department shall, in consultation with the Agency of
+Transportation and other relevant stakeholders, make the materials available to
+the public on the Department’s website and other internet-based platforms.
+Sec. 28. COORDINATION OF HEALTH CARE AND TRANSPORTATION
+SERVICES; WORKING GROUP; REPORT
+(a) The Secretary of Transportation, in consultation with the Commissioner
+of Vermont Health Access, shall convene a working group to improve the
+coordination of health care and transportation services in relation to individuals
+enrolled in the State’s demand response transportation programs. The working
+group shall be composed of stakeholders identified by the Secretary in
+consultation with the Commissioner of Vermont Health Access, including
+representatives of the Vermont Association of Hospitals and Health Systems,
+VT LEG #384128 v.1
+
+No. 43 Page 37 of 41
+2025
+independent dialysis and methadone facilities, and the Vermont Public
+Transportation Association.
+(b) The working group shall examine various options for improving the
+coordination of health care and transportation services, including:
+(1) opportunities to coordinate the scheduling of health care
+appointments and treatments to maximize the use of shared rides; and
+(2) opportunities to improve communication between the public transit
+agencies and health care providers to facilitate coordination of health care and
+transportation services for individuals enrolled in the State’s demand response
+transportation programs.
+(c) On or before January 15, 2026, the Secretary and Commissioner shall
+submit a written report to the House Committees on Transportation and on
+Health Care and the Senate Committees on Transportation and on Health and
+Welfare with the working group’s findings and any recommendations for
+legislative action.
+* * * Vehicle Identification Numbers for Certain Vehicles * * *
+Sec. 29. ULTRA-LOW VOLUME VEHICLE MANUFACTURING; KIT-
+CARS; HOMEBUILT MOTOR VEHICLES; VEHICLE
+IDENTIFICATION NUMBER; REPORT
+(a)(1) The Commissioner of Motor Vehicles, in consultation with the
+Secretary of Natural Resources and representatives of the ultra-low volume
+vehicle manufacturing industry in Vermont, shall examine processes for
+VT LEG #384128 v.1
+
+No. 43 Page 38 of 41
+2025
+issuing vehicle identification numbers to ultra-low volume motor vehicles, kit-
+cars, and homebuilt motor vehicles and opportunities to facilitate the
+registration of such vehicles.
+(2) As used in this section:
+(A) “Homebuilt motor vehicle” means a motor vehicle that is
+constructed or assembled by an individual from new or used parts, or both, and
+is not a kit-car.
+(B) “Kit-car” means a motor vehicle that is constructed by an
+individual from a manufactured kit that includes some or all parts and
+components necessary to construct the motor vehicle.
+(C) “Ultra-low volume motor vehicle” means a vehicle that is
+manufactured for sale by a manufacturer whose annual worldwide production
+is not more than 325 motor vehicles.
+(b) In preparing the report, the Commissioner shall:
+(1) examine how other states address motor vehicle emissions
+requirements for ultra-low volume motor vehicles, kit-cars, and homebuilt
+motor vehicles;
+(2) identify a cost-effective process for certifying the safety of ultra-low
+volume motor vehicles, kit-cars, and homebuilt motor vehicles; and
+(3) develop a streamlined process to provide State Vehicle Identification
+Numbers to ultra-low volume motor vehicles, kit-cars, and homebuilt motor
+vehicles.
+VT LEG #384128 v.1
+
+No. 43 Page 39 of 41
+2025
+(c) On or before January 15, 2026, the Commissioner shall submit a written
+report to the House and Senate Committees on Transportation regarding the
+Commissioner’s findings and identifying any legislative action necessary to
+enable the issuance of vehicle identification numbers to and registration of
+ultra-low volume motor vehicles, kit-cars, and homebuilt motor vehicles.
+* * * Railroad Rights-of-Way * * *
+Sec. 30. 5 V.S.A. § 3410 is added to read:
+§ 3410. RAILROAD RIGHTS-OF-WAY; COMMUNICATIONS LEASES;
+ANNUAL REPORT
+Annually, on or before December 15, the Secretary shall report to the House
+and Senate Committees on Transportation regarding the most recent fiscal
+year’s lease revenues for State-owned railroad rights-of-way related to:
+(1) wired or wireless telephone infrastructure located in the rights-of-
+way;
+(2) broadband infrastructure located in the rights-of-way; and
+(3) leases of the rights-of-way for purposes other than the operation of
+the railroads within the rights-of-way.
+Sec. 31. AVAILABILITY OF STATE-OWNED RAILROAD RIGHT-OF-
+WAY FOR COMMUNICATIONS LEASES
+In order to expand the use of State-owned railroad rights-of-way, the
+Secretary of Transportation, in consultation with the Commissioner of Public
+VT LEG #384128 v.1
+
+No. 43 Page 40 of 41
+2025
+Service, shall provide information to communications companies regarding the
+availability for lease of property located in State-owned railroad rights-of-way.
+* * * Dig Safe * * *
+Sec. 32. 30 V.S.A. § 7006 is amended to read:
+§ 7006. MARKING OF UNDERGROUND UTILITY FACILITIES
+A company notified in accordance with section 7005 of this title shall,
+within 48 72 hours, exclusive of Saturdays, Sundays, and legal holidays, of
+after the receipt of the notice, mark the approximate location of its
+underground utility facilities in the area of the proposed excavation activities;
+provided, however, if the company advises the person that the proposed
+excavation area is of such length or size that the company cannot reasonably
+mark all of the underground utility facilities within 48 72 hours, the person
+shall notify the company of the specific locations in which the excavation
+activities will first occur and the company shall mark facilities in those
+locations within 48 72 hours and the remaining facilities within a reasonable
+time thereafter. A company and an excavator may by agreement fix a later
+time for the company’s marking of the facilities, provided the marking is made
+prior to excavation activities. For the purposes of this chapter, the approximate
+location of underground facilities shall be marked with stakes, paint, or other
+physical means as designated by the Commission.
+VT LEG #384128 v.1
+
+No. 43 Page 41 of 41
+2025
+Sec. 33. 30 V.S.A. § 7006a is amended to read:
+§ 7006a. MAINTENANCE OF UNDERGROUND UTILITY FACILITY
+MARKINGS
+After a company has marked its underground facilities in accordance with
+section 7006 of this title, the excavator shall be responsible for maintenance of
+the designated markings. In the event said markings are obliterated, destroyed,
+or removed, the person engaged in excavation activities shall notify the System
+referred to in section 7002 of this title that remarking is needed. The System
+shall then notify all member companies whose facilities may be affected. The
+Each applicable company shall within 48 72 hours, exclusive of Saturdays,
+Sundays, and legal holidays, following receipt of the notice, remark the
+location of its underground utility facilities.
+* * * Effective Dates * * *
+Sec. 34. EFFECTIVE DATES
+(a) This section and Secs. 32 and 33 (dig safe) shall take effect on passage.
+(b) The remaining sections shall take effect on July 1, 2025.
+Date Governor signed bill: June 2, 2025
+VT LEG #384128 v.1
+
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P A A C 0 2 2 0 2 2 0 2 2 0 2 2 A A C 1 1 0 1 1 0 1 0 - 0 1 1 1 1 0]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]

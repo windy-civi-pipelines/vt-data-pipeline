@@ -1,0 +1,192 @@
+Title: BILL AS INTRODUCED S.83
+Official Title: BILL AS INTRODUCED S.83
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 S.83
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Consumer protection; credit reporting; court procedure; hospitals;
+6 medical debt
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit credit
+8 reporting agencies from reporting or maintaining information in a consumer’s
+9 file relating to a medical debt. It would limit the amount of interest that could
+10 be charged on medical debt and would prohibit a court from ordering the
+11 attachment of a person’s property or garnishing a person’s wages to pay off a
+12 medical debt. It would also prohibit hospitals, hospital-affiliated outpatient
+13 clinics and facilities, ambulatory surgical centers, and medical debt collectors
+14 from reporting medical debt to credit reporting agencies.
+15 An act relating to protections against medical debt
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 9 V.S.A. § 41a is amended to read:
+18 § 41a. LEGAL RATES
+VT LEG #378803 v.1
+BILL AS INTRODUCED S.83
+2025 Page 2 of 4
+1 (a) Except as specifically provided by law, the rate of interest or the sum
+2 allowed for forbearance or use of money shall be 12 percent per annum
+3 computed by the actuarial method.
+4 (b) The rate of interest or the sum allowed:
+5 * * *
+6 (10)(A) Except as provided in subdivision (B) of this subdivision (10),
+7 for medical debt, the interest shall be limited to the rate of interest equal to the
+8 weekly average one-year constant maturity Treasury yield, but not less than 1.5
+9 percent per annum nor more than four percent per annum, as published by the
+10 Board of Governors of the Federal Reserve System for the calendar week
+11 preceding the date on which the consumer was first provided with a bill.
+12 (B) A patient receiving financial assistance pursuant to 18 V.S.A.
+13 chapter 221, subchapter 10 shall not be charged any interest or late fees on
+14 medical debt.
+15 (C) As used in this subdivision (10):
+16 (i) “Medical debt” means a debt arising from the receipt of health
+17 care services.
+18 (ii) “Health care services” means services for the diagnosis,
+19 prevention, treatment, cure, or relief of a physical, dental, behavioral, or mental
+20 health condition or substance use disorder, including counseling, procedures,
+21 products, devices, and medications.
+VT LEG #378803 v.1
+BILL AS INTRODUCED S.83
+2025 Page 3 of 4
+1 * * *
+2 Sec. 2. 9 V.S.A. § 2466d is added to read:
+3 § 2466d. REPORTING OF MEDICAL DEBT INFORMATION
+4 PROHIBITED
+5 A credit reporting agency shall not report or maintain in the file on a
+6 consumer information relating to a medical debt, as defined in 18 V.S.A.
+7 § 9481.
+8 Sec. 3. 12 V.S.A. § 1044 is added to read:
+9 § 1044. LIMITATIONS ON ENFORCEMENT OF MEDICAL DEBT
+10 (a) Notwithstanding any other provision of law or rule to the contrary,
+11 the court shall not order attachment of or execution or trustee process on any
+12 person’s property or earnings in order to enforce a medical debt against the
+13 person.
+14 (b) As used in this section:
+15 (1) “Medical debt” means a debt arising from the receipt of health care
+16 services.
+17 (2) “Health care services” means services for the diagnosis, prevention,
+18 treatment, cure, or relief of a physical, dental, behavioral, or mental health
+19 condition or substance use disorder, including counseling, procedures,
+20 products, devices, and medications.
+VT LEG #378803 v.1
+BILL AS INTRODUCED S.83
+2025 Page 4 of 4
+1 Sec. 4. 18 V.S.A. chapter 221, subchapter 10 is amended to read:
+2 Subchapter 10. Patient Financial Assistance and Medical Debt
+3 * * *
+4 § 9485. PROHIBITION ON SALE OR REPORTING OF MEDICAL DEBT
+5 (a) No large health care facility shall sell its medical debt.
+6 (b) No large health care facility or medical debt collector shall report or
+7 otherwise furnish any portion of a medical debt to a credit reporting agency.
+8 * * *
+9 Sec. 5. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025, provided that the limitations on
+11 interest in Sec. 1 (9 V.S.A. § 41a) shall apply only to new medical debt
+12 incurred on or after July 1, 2025.
+VT LEG #378803 v.1
+[DELETED:  S P S I S R D S m S r f b a m c f A I S §]
+[DELETED:  S P ( a c ( * ( f w p B p ( c m ( ( c ( p h p]
+[DELETED:  S P * S §   A c § S § ( t p p ( ( s ( t c p]
+[DELETED:  S P S S * § ( ( o * S T i i]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.83
+2025 Page 1 of 4
+1 S.83
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Consumer protection; credit reporting; court procedure; hospitals;
+6 medical debt
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit credit
+8 reporting agencies from reporting or maintaining information in a consumer’s
+9 file relating to a medical debt. It would limit the amount of interest that could
+10 be charged on medical debt and would prohibit a court from ordering the
+11 attachment of a person’s property or garnishing a person’s wages to pay off a
+12 medical debt. It would also prohibit hospitals, hospital-affiliated outpatient
+13 clinics and facilities, ambulatory surgical centers, and medical debt collectors
+14 from reporting medical debt to credit reporting agencies.
+15 An act relating to protections against medical debt
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 9 V.S.A. § 41a is amended to read:
+18 § 41a. LEGAL RATES
+VT LEG #378803 v.1
+
+BILL AS INTRODUCED S.83
+2025 Page 2 of 4
+1 (a) Except as specifically provided by law, the rate of interest or the sum
+2 allowed for forbearance or use of money shall be 12 percent per annum
+3 computed by the actuarial method.
+4 (b) The rate of interest or the sum allowed:
+5 * * *
+6 (10)(A) Except as provided in subdivision (B) of this subdivision (10),
+7 for medical debt, the interest shall be limited to the rate of interest equal to the
+8 weekly average one-year constant maturity Treasury yield, but not less than 1.5
+9 percent per annum nor more than four percent per annum, as published by the
+10 Board of Governors of the Federal Reserve System for the calendar week
+11 preceding the date on which the consumer was first provided with a bill.
+12 (B) A patient receiving financial assistance pursuant to 18 V.S.A.
+13 chapter 221, subchapter 10 shall not be charged any interest or late fees on
+14 medical debt.
+15 (C) As used in this subdivision (10):
+16 (i) “Medical debt” means a debt arising from the receipt of health
+17 care services.
+18 (ii) “Health care services” means services for the diagnosis,
+19 prevention, treatment, cure, or relief of a physical, dental, behavioral, or mental
+20 health condition or substance use disorder, including counseling, procedures,
+21 products, devices, and medications.
+VT LEG #378803 v.1
+
+BILL AS INTRODUCED S.83
+2025 Page 3 of 4
+1 * * *
+2 Sec. 2. 9 V.S.A. § 2466d is added to read:
+3 § 2466d. REPORTING OF MEDICAL DEBT INFORMATION
+4 PROHIBITED
+5 A credit reporting agency shall not report or maintain in the file on a
+6 consumer information relating to a medical debt, as defined in 18 V.S.A.
+7 § 9481.
+8 Sec. 3. 12 V.S.A. § 1044 is added to read:
+9 § 1044. LIMITATIONS ON ENFORCEMENT OF MEDICAL DEBT
+10 (a) Notwithstanding any other provision of law or rule to the contrary,
+11 the court shall not order attachment of or execution or trustee process on any
+12 person’s property or earnings in order to enforce a medical debt against the
+13 person.
+14 (b) As used in this section:
+15 (1) “Medical debt” means a debt arising from the receipt of health care
+16 services.
+17 (2) “Health care services” means services for the diagnosis, prevention,
+18 treatment, cure, or relief of a physical, dental, behavioral, or mental health
+19 condition or substance use disorder, including counseling, procedures,
+20 products, devices, and medications.
+VT LEG #378803 v.1
+
+BILL AS INTRODUCED S.83
+2025 Page 4 of 4
+1 Sec. 4. 18 V.S.A. chapter 221, subchapter 10 is amended to read:
+2 Subchapter 10. Patient Financial Assistance and Medical Debt
+3 * * *
+4 § 9485. PROHIBITION ON SALE OR REPORTING OF MEDICAL DEBT
+5 (a) No large health care facility shall sell its medical debt.
+6 (b) No large health care facility or medical debt collector shall report or
+7 otherwise furnish any portion of a medical debt to a credit reporting agency.
+8 * * *
+9 Sec. 5. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025, provided that the limitations on
+11 interest in Sec. 1 (9 V.S.A. § 41a) shall apply only to new medical debt
+12 incurred on or after July 1, 2025.
+VT LEG #378803 v.1
+
+[DELETED:  S P S I S R D S m S r f b a m c f A I S §]
+[DELETED:  S P ( a c ( * ( f w p B p ( c m ( ( c ( p h p]
+[DELETED:  S P * S §   A c § S § ( t p p ( ( s ( t c p]
+[DELETED:  S P S S * § ( ( o * S T i i]

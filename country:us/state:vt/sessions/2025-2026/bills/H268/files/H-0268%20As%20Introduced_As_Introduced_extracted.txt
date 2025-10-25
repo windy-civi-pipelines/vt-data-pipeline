@@ -1,0 +1,957 @@
+Title: BILL AS INTRODUCED H.268
+Official Title: BILL AS INTRODUCED H.268
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 19
+1 H.268
+2 Introduced by Representative Rachelson of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; involuntary towing and storage; consumer protection
+6 Statement of purpose of bill as introduced: This bill proposes to establish
+7 certain consumer protections related to the towing and storage of vehicles.
+8 An act relating to consumer protections related to the towing and storage of
+9 vehicles
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 23 V.S.A. chapter 42 is added to read:
+12 CHAPTER 42. TOWING OF MOTOR VEHICLES
+13 § 4251. SHORT TITLE
+14 This chapter may be cited as the “Vermont Consumer Protection Towing
+15 Act.”
+16 § 4252. PURPOSE
+17 The purpose of the Vermont Consumer Protection Towing Act is to
+18 establish minimum standards for towing and storage services and to promote
+19 fair and honest practices in the towing industry.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 2 of 19
+1 § 4253. DEFINITIONS
+2 As used in this chapter:
+3 (1) “Automobile club” means a legal entity that, in consideration of
+4 dues, assessments, or periodic payments of money, promises its members or
+5 subscribers to assist them in matters relating to motor travel or the operation,
+6 use, or maintenance of a motor vehicle, including auto dealers and insurance
+7 companies, by supplying services, which may include towing service,
+8 emergency road service, and indemnification service.
+9 (2) “Dealer” has the same meaning as in subdivision 4(8) of this title.
+10 (3) “Drop fee” means a charge offered instead of a standard tow fee that
+11 allows an owner or operator who arrives on scene prior to a vehicle being
+12 towed to stop a tow that is in process.
+13 (4) “Emergency towing” means the towing of a vehicle due to a motor
+14 vehicle crash, mechanical breakdown on a public highway, or other
+15 emergency-related incident necessitating vehicle removal for public safety
+16 with or without the owner’s or operator’s consent.
+17 (5) “Government agency towing” means the towing of government-
+18 owned or government-controlled vehicles by the government agency that owns
+19 or controls them.
+20 (6) “Owner” means the person to whom a vehicle is registered or to
+21 whom it is leased, if the terms of the lease require the lessee to maintain and
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 3 of 19
+1 repair the vehicle. For the purposes of this chapter, a rental vehicle company is
+2 the owner of a vehicle rented pursuant to a rental agreement.
+3 (7) “Private property towing” means the towing of a vehicle, without the
+4 owner’s or operator’s consent, from private property where it was illegally
+5 parked, or for which some exigent circumstance necessitated its removal, to a
+6 nearby location.
+7 (8) “Rental vehicle company” means any person, including a franchisee,
+8 in the business of renting vehicles to the public.
+9 (9) “Seizure towing” means the taking of a vehicle for law enforcement
+10 purposes, such as the maintenance of the chain of custody of evidence,
+11 forfeiture of assets, or unpaid parking tickets.
+12 (10) “Storage services” means storing a towed vehicle at a towing-
+13 storage lot.
+14 (11) “Tow truck” means a motor vehicle equipped to tow or pick up
+15 vehicles, including damaged or disabled vehicles.
+16 (12) “Towing company” means any corporation, association, sole-
+17 proprietorship, co-partnership, company, firm, or other aggregation of
+18 individuals that exists to provide towing or storage services. A towing
+19 company does not include an automobile club, dealer, or insurance company.
+20 (13) “Towing or storage services” means towing services or storage
+21 services, or both.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 4 of 19
+1 (14) “Towing services” means towing or otherwise moving vehicles by
+2 means of a tow truck.
+3 (15) “Towing-storage lot” means a property used to store vehicles that
+4 have been towed.
+5 § 4254. APPLICABILITY; RULEMAKING; COMPLAINTS
+6 (a) Applicability.
+7 (1) This chapter shall apply to any person engaging in, or offering to
+8 engage in, the business of providing towing or storage services in Vermont.
+9 This chapter shall not apply to vehicles towed into Vermont or towed through
+10 Vermont, provided that the tow originates in another jurisdiction.
+11 (2) Notwithstanding subdivision (1) of this subsection, this chapter shall
+12 not apply to towing and storage services by an automobile club, dealer, or
+13 insurance company or the towing of an abandoned motor vehicle as defined in
+14 section 2151 of this title.
+15 (b) Regulatory authority. This chapter confers exclusive regulatory
+16 jurisdiction over towing companies and the provision of towing and storage
+17 services to the Department of Motor Vehicles.
+18 (c) Rulemaking. The Department shall adopt rules pursuant to 3 V.S.A.
+19 chapter 25 for the administration of this chapter, including the assessment of
+20 administrative penalties in addition to those penalties allowed under section
+21 4266 of this chapter.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 5 of 19
+1 (d) Complaints. The Department shall establish a complaint mechanism
+2 for consumers and insurers.
+3 § 4255. EMERGENCY TOWING
+4 (a) Prohibitions. It is a misdemeanor for a towing company to stop or
+5 cause an individual to stop at the scene of a crash or near a disabled vehicle for
+6 the purpose of soliciting an engagement for emergency towing services, either
+7 directly or indirectly, or, unless requested to perform the services by a law
+8 enforcement officer or public agency pursuant to that agency’s procedures or
+9 unless summoned to the scene or requested to stop by the owner or operator of
+10 a disabled vehicle, to provide towing emergency towing services, to move a
+11 vehicle from a highway when there is an injury as the result of a crash, or to
+12 accrue charges for services provided under those circumstances.
+13 (b) Selection of towing company.
+14 (1) The owner or operator of the vehicle being towed shall summon to
+15 the scene the towing company of the owner’s or operator’s choice in
+16 consultation with law enforcement or authorized municipal personnel and
+17 designate the location where the vehicle is to be towed.
+18 (2) The provisions of subdivision (1) of this subsection shall not apply
+19 when the owner or operator is incapacitated, otherwise unable to summon a
+20 tow company, or defers to law enforcement or authorized municipal personnel.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 6 of 19
+1 (3) The authority provided to the owner or operator in subdivision (1) of
+2 this subsection may be superseded by the law enforcement officer or
+3 authorized municipal personnel if the towing company of choice cannot
+4 respond to the scene in a timely fashion and the vehicle is a hazard, impedes
+5 the flow of traffic, or may not legally remain in its location in the opinion of
+6 the law enforcement officer or authorized municipal personnel.
+7 (c) Record of caller.
+8 (1) If a towing company is summoned for an emergency tow by the
+9 owner or operator of a disabled vehicle, the towing company shall record the
+10 first name, last name, and telephone number of the individual who summoned
+11 it to the scene and the make, model, year, color, vehicle identification number
+12 (VIN), and license plate number of the towed vehicle.
+13 (2) If a towing company is summoned for an emergency tow by a law
+14 enforcement officer or designee of a public safety agency with jurisdiction, the
+15 towing company shall record the identity of the law enforcement officer or
+16 designee of a public safety agency with jurisdiction and the log number, call
+17 number, incident number, or dispatch number assigned to the incident as
+18 applicable.
+19 (d) Visual documentation. Prior to towing a vehicle under this section, a
+20 towing company shall take photographs, video, or other visual documentation
+21 to evidence the location of the vehicle and any damages.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 7 of 19
+1 (e) Record retention and production.
+2 (1) The towing company shall maintain a record of the information
+3 described in subsections (c) and (d) of this section and shall retain that
+4 information for three years.
+5 (2) The towing company shall make the records required to be
+6 maintained under subdivision (1) of this subsection available within 48 hours
+7 after receipt of a written request from law enforcement or the Department of
+8 Motor Vehicles.
+9 (f) Storage. The towing company shall properly secure all towed vehicles
+10 and make all reasonable efforts to prevent further damage, weather damage, or
+11 theft to all towed vehicles, including the vehicle’s cargo and contents.
+12 § 4256. PRIVATE PROPERTY TOWING REQUIREMENTS
+13 (a) Establishment of a private tow-away zone. The owner of private
+14 property may establish a private tow-away zone by posting a sign that is at
+15 least 18 inches by 24 inches in size and includes a statement that the property
+16 is a tow-away zone, a description of persons authorized to park on the
+17 property, and the address and telephone number for where towed vehicles are
+18 stored.
+19 (b) Prohibition and record of caller. A towing company shall not tow a
+20 vehicle under this section unless it receives a request for a tow. The towing
+21 company shall record the date, time, and name of the requestor.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 8 of 19
+1 (c) Visual documentation. Prior to towing a vehicle under this section, a
+2 towing company shall take photographs, video, or other visual documentation
+3 to evidence that the vehicle is clearly parked on private property in violation of
+4 a private tow-away zone. The towing company shall record the time and date
+5 of the photographs, video, or other visual documentation.
+6 (d) Record retention and production.
+7 (1) The towing company shall maintain a record of the information
+8 described in subsections (b) and (c) of this section and shall retain that
+9 information for three years.
+10 (2) The towing company shall make the records required to be
+11 maintained under subdivision (1) of this subsection available within 48 hours
+12 after receipt of a written request from law enforcement or the Department of
+13 Motor Vehicles.
+14 (e) Location and storage.
+15 (1) A towing company shall ensure that a vehicle towed under this
+16 section is taken to a location that is within 25 miles of the location of the
+17 private tow-away zone.
+18 (2) The towing company shall properly secure all towed vehicles and
+19 make all reasonable efforts to prevent further damage, weather damage, or
+20 theft to all towed vehicles, including the vehicle’s cargo and contents.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 9 of 19
+1 (f) Release of vehicle prior to towing. If the owner or operator of a vehicle
+2 is parked in violation of a private tow-away zone and arrives while the vehicle
+3 is being removed, the towing company shall give the vehicle owner or operator
+4 oral or written notification that the vehicle owner or operator may pay a drop
+5 fee for the release of the vehicle. Upon payment of that fee, the towing
+6 company shall release the vehicle and give the vehicle owner or operator a
+7 receipt showing both the full amount normally assessed and the actual amount
+8 received.
+9 (g) Notice. The towing company shall provide notice of the tow to law
+10 enforcement within two hours after removing the vehicle from the private tow-
+11 away zone.
+12 § 4257. SEIZURE TOWING
+13 (a) Location and storage.
+14 (1) A towing company shall ensure that a vehicle towed under this
+15 section is taken to a location that is within 25 miles of the location where the
+16 vehicle is towed from.
+17 (2) The towing company shall properly secure all towed vehicles and
+18 make all reasonable efforts to prevent further damage, weather damage, or
+19 theft to all towed vehicles, including the vehicle’s cargo and contents.
+20 (b) Release of vehicle prior to towing. If the owner or operator of a vehicle
+21 that is being towed because of unpaid parking tickets arrives while the vehicle
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 10 of 19
+1 is being towed, the towing company shall give the vehicle owner or operator
+2 oral or written notification that the vehicle owner or operator may pay a drop
+3 fee for the release of the vehicle. Upon payment of that fee, the towing
+4 company shall release the vehicle and give the vehicle owner or operator a
+5 receipt showing both the full amount normally assessed and the actual amount
+6 received.
+7 § 4258. ESTIMATE REQUIREMENTS
+8 (a) Estimate required. If the owner or operator of a vehicle is present at the
+9 time and location of a tow, the towing company shall furnish the owner or
+10 operator of the vehicle with a written itemized estimate of all charges and
+11 services to be performed.
+12 (b) Estimate contents. The estimate required under subsection (a) of this
+13 section shall include all of the following:
+14 (1) the name, address, telephone number, and motor carrier permit
+15 number of the towing company;
+16 (2) the license plate number of the tow truck performing the tow; and
+17 (3) an itemized description and cost for all services, including charges
+18 for labor, special equipment, mileage from dispatch to return, and storage fees
+19 expressed as a daily rate.
+20 (c) Signature required.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 11 of 19
+1 (1) The towing company shall obtain the vehicle owner’s or operator’s
+2 written or electronic signature on the itemized estimate and shall furnish a
+3 copy to the individual who signs the estimate.
+4 (2) The requirements in subdivision (1) of this subsection may be
+5 completed after the vehicle is attached and removed to the nearest safe
+6 shoulder or highway if done at the request of law enforcement or a public
+7 agency, provided the estimate is furnished prior to the removal of the vehicle
+8 from the nearest safe shoulder or highway.
+9 (d) Record retention and production.
+10 (1) The towing company shall maintain the records required under
+11 subsection (a) of this section and shall retain that information for three years.
+12 (2) The towing company shall make the records required to be
+13 maintained under subdivision (1) of this subsection available within 48 hours
+14 after receipt of a written request from law enforcement or the Department of
+15 Motor Vehicles.
+16 § 4259. INVOICE REQUIREMENTS
+17 (a) Invoice required. All services rendered by a towing company,
+18 including any warranty or zero-cost services, shall be recorded on an invoice.
+19 Each additional service must be set forth individually as a single line item with
+20 an explanation and the exact charge for the service.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 12 of 19
+1 (b) Invoice contents. Each itemized invoice for towing costs shall contain
+2 the following:
+3 (1) the location from which the vehicle was towed;
+4 (2) the storage location of the vehicle;
+5 (3) the name, address, and telephone number of the towing company;
+6 (4) a description of the vehicle, including the make, model, year, color,
+7 vehicle identification number (VIN), and license plate number of the towed
+8 vehicle;
+9 (5) the charge for the tow; and
+10 (6) the daily storage charge and the number of days the vehicle was
+11 stored.
+12 (c) Record retention and production.
+13 (1) The towing company shall maintain the records required under
+14 subsection (a) of this section and shall retain that information for three years.
+15 (2) The towing company shall make the records required to be
+16 maintained under subdivision (1) of this subsection available within 48 hours
+17 after receipt of a written request from law enforcement or the Department of
+18 Motor Vehicles.
+19 § 4260. NOTICE REQUIREMENTS
+20 (a) Notice required. Within 24 hours after the commencement of towing,
+21 the towing company must commence a search of the records of the Department
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 13 of 19
+1 of Motor Vehicles to ascertain the identity of the owner and any lienholder of
+2 the towed vehicle. Written notice shall be given directly to the owner by
+3 registered mail within five business days after the commencement of towing,
+4 and no storage charges beyond the initial 24-hour charge shall accrue until the
+5 notice requirement has been met.
+6 (b) Notice contents. Notice to the owner or insurer shall contain the
+7 following:
+8 (1) the name, address, and telephone number of the towing company;
+9 (2) the date and time the vehicle was towed;
+10 (3) the location from which the vehicle was towed;
+11 (4) the address where the vehicle is or will be stored and the address and
+12 telephone number where payment and business transactions take place if either
+13 is different from the address and telephone number of the towing company;
+14 (5) the name of the tow truck operator; and
+15 (6) a description of the vehicle, including the make, model, year, color,
+16 vehicle identification number (VIN), and license plate number of the towed
+17 vehicle.
+18 § 4261. LICENSE REQUIREMENTS; INSURANCE; DISPLAY
+19 (a) Application.
+20 (1) The Department of Motor Vehicles shall approve an application for a
+21 towing company license or renewal and issue or renew the license, provided
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 14 of 19
+1 the applicant submits an approvable application on a form prescribed by the
+2 Department of Motor Vehicles and pays a $50.00 application fee.
+3 (2) An application shall include:
+4 (A) the applicant’s workers’ compensation coverage;
+5 (B) a certification that the applicant is current and in good standing
+6 with the Department of Labor’s Unemployment Insurance Program;
+7 (C) the financial responsibility of an applicant relating to liability
+8 insurance or bond requirements;
+9 (D) the applicant’s standard hours of operation;
+10 (E) the applicant’s after-hours access policy;
+11 (F) the applicant’s business address and contact information;
+12 (G) the applicant’s towing and storage charges; and
+13 (H) any other information the Department of Motor Vehicles may
+14 require.
+15 (3) The applicant must not have been convicted of fraud or had a civil
+16 judgment rendered against it for fraud. In addition, each officer, director, or
+17 partner of an applicant that is a corporation or partnership must not have been
+18 convicted of fraud or had a civil judgment rendered against the individual for
+19 fraud during the officer’s, director’s, or partner’s tenure.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 15 of 19
+1 (b) Insurance.
+2 (1) The applicant must provide proof of minimum insurance
+3 requirements of the following or a sufficient surety bond as determined by the
+4 Commissioner of Motor Vehicles:
+5 (A) $100,000.00 for liability for bodily injury or property damage per
+6 occurrence; and
+7 (B) $50,000.00 of legal liability per occurrence, to protect against
+8 vehicle damage, including fire and theft, from the time a vehicle comes into the
+9 custody of a towing company until it is redeemed or sold.
+10 (2) Cancellation of or failure to maintain the insurance required by
+11 subdivision (1) of this subsection automatically revokes the applicant’s license.
+12 (c) Display. A towing company granted a license or renewal under this
+13 section shall prominently display the license, hours of operation, and charges
+14 for towing and storage at the towing company’s primary place of business and
+15 website, if one is maintained.
+16 (d) Licenses are nonassignable and nontransferable. Licenses shall be
+17 nonassignable and nontransferable and shall be surrendered to the Department
+18 of Motor Vehicles immediately upon the towing company ceasing to do
+19 business as a towing company.
+20 § 4262. MAXIMUM CHARGES
+21 (a) A towing company shall not charge more than the following rates:
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 16 of 19
+1 (1) $130.00 per tow or $4.50 per mile towed;
+2 (2) $30.00 per drop fee;
+3 (3) $35.00 per day of storage for any day that the towing company is
+4 operating under its standard hours of operation; and
+5 (4) $35.00 for access to a towed vehicle for the recovery of personal
+6 items outside the towing company’s standard hours of operation.
+7 (b) Notwithstanding subsection (a) of this section, charges for towing an
+8 abandoned vehicle from public property shall be in accordance with section
+9 2158 of this title and fees for towing or storing a vehicle pursuant to municipal
+10 ordinance shall be as established by the municipality in accordance with
+11 section 1753 of this title.
+12 (c) No charge shall be made in excess of the estimated price without the
+13 prior consent of the owner or operator of the vehicle.
+14 § 4263. HOURS OF OPERATION
+15 A towing-storage lot shall have, at a minimum, the following standard hours
+16 of operation: 7:00 a.m.–6:00 p.m. Monday–Friday, exclusive of federal and
+17 State holidays, and on at least one weekend day.
+18 § 4264. RELEASE OF VEHICLE; METHODS OF PAYMENT
+19 (a) A towing company shall release a towed vehicle to the owner or the
+20 insurance company representative upon receipt of payment.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 17 of 19
+1 (b) A towing company shall only release a towed vehicle to the insurance
+2 company representative if:
+3 (1) the owner’s insurance company representative presents proof that the
+4 towed vehicle is insured with the company; or
+5 (2) the owner of the towed vehicle approves release of the towed vehicle
+6 to the insurance company representative.
+7 (c) The owner of the towed vehicle or the owner of the towed vehicle’s
+8 insurance company representative shall have the right to inspect the vehicle
+9 before accepting its return.
+10 (d) A towing company shall accept, at a minimum, cash, an insurance
+11 check, a credit card, a debit card, a certified check, or a money order.
+12 § 4265. PROHIBITED ACTS
+13 (a) It shall be unlawful for a towing company or an individual acting on
+14 behalf of a towing company to:
+15 (1) falsely represent, either expressly or by implication, that the towing
+16 company represents or is approved by any private organization that provides
+17 emergency road service for disabled motor vehicles;
+18 (2) require an owner or operator of a motor vehicle involved in a crash
+19 or breakdown to preauthorize one or more of the following: more than 24
+20 hours of storage, tear down, or repair work as a condition to providing towing
+21 services for the vehicle;
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 18 of 19
+1 (3) charge more than one towing fee when the owner or operator of a
+2 disabled vehicle requests transport of the vehicle to a repair facility owned or
+3 operated by the towing company;
+4 (4) operate a towing company or offer towing or storage services
+5 without being a towing company licensed by the Department of Motor
+6 Vehicles;
+7 (5) charge more than the maximum fees as allowed under section 4262
+8 of this chapter;
+9 (6) submit false or fraudulent information to obtain a towing license; or
+10 (7) violate any other provision of this chapter.
+11 (b) Towing companies shall not tow disabled vehicles to a repair facility
+12 unless the owner or operator of the disabled vehicle gives written consent
+13 before removal of the disabled vehicle.
+14 (c) No towing company shall refuse to release a vehicle to the owner or the
+15 owner’s insurer upon tender of full payment of an itemized invoice for all
+16 lawful charges made in connection with the towing and storage of a vehicle.
+17 (d) No towing company shall refuse, including prior to payment of fees and
+18 release of a towed vehicle, the right of physical inspection of the towed vehicle
+19 by the owner or the owner’s insurer or the recovery of personal items left in the
+20 vehicle during the towing company’s standard hours of operation.
+VT LEG #379117 v.2
+BILL AS INTRODUCED H.268
+2025 Page 19 of 19
+1 (e) No towing company shall charge storage for any day where release of
+2 the towed vehicle or access to the towed vehicle by the owner or insurer is not
+3 permitted by the towing company.
+4 § 4266. PENALTIES AND ENFORCEMENT
+5 (a) The Department of Motor Vehicles shall have authority for the
+6 inspection of all locations operated by a towing company.
+7 (b) The Department of Motor Vehicles shall investigate any suspected
+8 violations and complaints that are filed with the Department and take all proper
+9 and necessary remedial action.
+10 (c) Any towing company that submits false or fraudulent information to
+11 obtain a towing license shall have its license revoked.
+12 Sec. 2. RULEMAKING
+13 Unless extended by the Legislative Committee on Administrative Rules
+14 pursuant to 3 V.S.A. § 843(c), the Department of Motor Vehicles shall adopt
+15 rules required under 23 V.S.A. § 4254(c), as added by Sec. 1 of this act, not
+16 later than June 1, 2026, to be effective July 1, 2026.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2025.
+VT LEG #379117 v.2
+[DELETED:  H P H I R R D S S c A v I S C § T A § T e f]
+[DELETED:  H P § A ( d s u c e ( ( a t ( v e w ( o o ( w]
+[DELETED:  H P r t ( o p n ( i ( p f ( s ( v ( p i c ( s]
+[DELETED:  H P ( m ( h § ( ( e T V ( n i s ( j s ( c a 4]
+[DELETED:  H P ( f § ( c t d e u a v a ( ( t c d ( w t]
+[DELETED:  H P ( t a r t t ( ( o f i ( ( e t d n a ( t t]
+[DELETED:  H P ( ( d i ( m a M ( a t § ( p l i p s ( v c]
+[DELETED:  H P ( t t a o ( ( d i ( m a M ( ( s p ( m t]
+[DELETED:  H P ( i i o f c r r ( e a § ( ( s v ( m t ( t]
+[DELETED:  H P i o f c r r § ( t o s ( s ( n ( ( f e (]
+[DELETED:  H P ( w c ( c s a f ( ( s ( m a M § ( i E a]
+[DELETED:  H P ( t ( ( ( ( v v ( ( s ( ( s ( m a M § ( t]
+[DELETED:  H P o t r a n ( f ( ( ( ( t i ( ( v v § ( ( t]
+[DELETED:  H P t D ( ( ( w ( i ( ( ( ( ( r ( j p c f]
+[DELETED:  H P ( ( r C ( o ( v c ( s ( s f w ( n o b § (]
+[DELETED:  H P ( ( ( o ( i ( a 2 o s ( p § A o S § ( i]
+[DELETED:  H P ( c ( t ( t ( i b ( c § ( b ( c e ( o h s]
+[DELETED:  H P ( d o ( w V ( o ( ( ( u b ( o l ( r b v]
+[DELETED:  H P ( t p § ( i ( v a ( o S U p r l S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.268
+2025 Page 1 of 19
+1 H.268
+2 Introduced by Representative Rachelson of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; involuntary towing and storage; consumer protection
+6 Statement of purpose of bill as introduced: This bill proposes to establish
+7 certain consumer protections related to the towing and storage of vehicles.
+8 An act relating to consumer protections related to the towing and storage of
+9 vehicles
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 23 V.S.A. chapter 42 is added to read:
+12 CHAPTER 42. TOWING OF MOTOR VEHICLES
+13 § 4251. SHORT TITLE
+14 This chapter may be cited as the “Vermont Consumer Protection Towing
+15 Act.”
+16 § 4252. PURPOSE
+17 The purpose of the Vermont Consumer Protection Towing Act is to
+18 establish minimum standards for towing and storage services and to promote
+19 fair and honest practices in the towing industry.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 2 of 19
+1 § 4253. DEFINITIONS
+2 As used in this chapter:
+3 (1) “Automobile club” means a legal entity that, in consideration of
+4 dues, assessments, or periodic payments of money, promises its members or
+5 subscribers to assist them in matters relating to motor travel or the operation,
+6 use, or maintenance of a motor vehicle, including auto dealers and insurance
+7 companies, by supplying services, which may include towing service,
+8 emergency road service, and indemnification service.
+9 (2) “Dealer” has the same meaning as in subdivision 4(8) of this title.
+10 (3) “Drop fee” means a charge offered instead of a standard tow fee that
+11 allows an owner or operator who arrives on scene prior to a vehicle being
+12 towed to stop a tow that is in process.
+13 (4) “Emergency towing” means the towing of a vehicle due to a motor
+14 vehicle crash, mechanical breakdown on a public highway, or other
+15 emergency-related incident necessitating vehicle removal for public safety
+16 with or without the owner’s or operator’s consent.
+17 (5) “Government agency towing” means the towing of government-
+18 owned or government-controlled vehicles by the government agency that owns
+19 or controls them.
+20 (6) “Owner” means the person to whom a vehicle is registered or to
+21 whom it is leased, if the terms of the lease require the lessee to maintain and
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 3 of 19
+1 repair the vehicle. For the purposes of this chapter, a rental vehicle company is
+2 the owner of a vehicle rented pursuant to a rental agreement.
+3 (7) “Private property towing” means the towing of a vehicle, without the
+4 owner’s or operator’s consent, from private property where it was illegally
+5 parked, or for which some exigent circumstance necessitated its removal, to a
+6 nearby location.
+7 (8) “Rental vehicle company” means any person, including a franchisee,
+8 in the business of renting vehicles to the public.
+9 (9) “Seizure towing” means the taking of a vehicle for law enforcement
+10 purposes, such as the maintenance of the chain of custody of evidence,
+11 forfeiture of assets, or unpaid parking tickets.
+12 (10) “Storage services” means storing a towed vehicle at a towing-
+13 storage lot.
+14 (11) “Tow truck” means a motor vehicle equipped to tow or pick up
+15 vehicles, including damaged or disabled vehicles.
+16 (12) “Towing company” means any corporation, association, sole-
+17 proprietorship, co-partnership, company, firm, or other aggregation of
+18 individuals that exists to provide towing or storage services. A towing
+19 company does not include an automobile club, dealer, or insurance company.
+20 (13) “Towing or storage services” means towing services or storage
+21 services, or both.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 4 of 19
+1 (14) “Towing services” means towing or otherwise moving vehicles by
+2 means of a tow truck.
+3 (15) “Towing-storage lot” means a property used to store vehicles that
+4 have been towed.
+5 § 4254. APPLICABILITY; RULEMAKING; COMPLAINTS
+6 (a) Applicability.
+7 (1) This chapter shall apply to any person engaging in, or offering to
+8 engage in, the business of providing towing or storage services in Vermont.
+9 This chapter shall not apply to vehicles towed into Vermont or towed through
+10 Vermont, provided that the tow originates in another jurisdiction.
+11 (2) Notwithstanding subdivision (1) of this subsection, this chapter shall
+12 not apply to towing and storage services by an automobile club, dealer, or
+13 insurance company or the towing of an abandoned motor vehicle as defined in
+14 section 2151 of this title.
+15 (b) Regulatory authority. This chapter confers exclusive regulatory
+16 jurisdiction over towing companies and the provision of towing and storage
+17 services to the Department of Motor Vehicles.
+18 (c) Rulemaking. The Department shall adopt rules pursuant to 3 V.S.A.
+19 chapter 25 for the administration of this chapter, including the assessment of
+20 administrative penalties in addition to those penalties allowed under section
+21 4266 of this chapter.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 5 of 19
+1 (d) Complaints. The Department shall establish a complaint mechanism
+2 for consumers and insurers.
+3 § 4255. EMERGENCY TOWING
+4 (a) Prohibitions. It is a misdemeanor for a towing company to stop or
+5 cause an individual to stop at the scene of a crash or near a disabled vehicle for
+6 the purpose of soliciting an engagement for emergency towing services, either
+7 directly or indirectly, or, unless requested to perform the services by a law
+8 enforcement officer or public agency pursuant to that agency’s procedures or
+9 unless summoned to the scene or requested to stop by the owner or operator of
+10 a disabled vehicle, to provide towing emergency towing services, to move a
+11 vehicle from a highway when there is an injury as the result of a crash, or to
+12 accrue charges for services provided under those circumstances.
+13 (b) Selection of towing company.
+14 (1) The owner or operator of the vehicle being towed shall summon to
+15 the scene the towing company of the owner’s or operator’s choice in
+16 consultation with law enforcement or authorized municipal personnel and
+17 designate the location where the vehicle is to be towed.
+18 (2) The provisions of subdivision (1) of this subsection shall not apply
+19 when the owner or operator is incapacitated, otherwise unable to summon a
+20 tow company, or defers to law enforcement or authorized municipal personnel.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 6 of 19
+1 (3) The authority provided to the owner or operator in subdivision (1) of
+2 this subsection may be superseded by the law enforcement officer or
+3 authorized municipal personnel if the towing company of choice cannot
+4 respond to the scene in a timely fashion and the vehicle is a hazard, impedes
+5 the flow of traffic, or may not legally remain in its location in the opinion of
+6 the law enforcement officer or authorized municipal personnel.
+7 (c) Record of caller.
+8 (1) If a towing company is summoned for an emergency tow by the
+9 owner or operator of a disabled vehicle, the towing company shall record the
+10 first name, last name, and telephone number of the individual who summoned
+11 it to the scene and the make, model, year, color, vehicle identification number
+12 (VIN), and license plate number of the towed vehicle.
+13 (2) If a towing company is summoned for an emergency tow by a law
+14 enforcement officer or designee of a public safety agency with jurisdiction, the
+15 towing company shall record the identity of the law enforcement officer or
+16 designee of a public safety agency with jurisdiction and the log number, call
+17 number, incident number, or dispatch number assigned to the incident as
+18 applicable.
+19 (d) Visual documentation. Prior to towing a vehicle under this section, a
+20 towing company shall take photographs, video, or other visual documentation
+21 to evidence the location of the vehicle and any damages.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 7 of 19
+1 (e) Record retention and production.
+2 (1) The towing company shall maintain a record of the information
+3 described in subsections (c) and (d) of this section and shall retain that
+4 information for three years.
+5 (2) The towing company shall make the records required to be
+6 maintained under subdivision (1) of this subsection available within 48 hours
+7 after receipt of a written request from law enforcement or the Department of
+8 Motor Vehicles.
+9 (f) Storage. The towing company shall properly secure all towed vehicles
+10 and make all reasonable efforts to prevent further damage, weather damage, or
+11 theft to all towed vehicles, including the vehicle’s cargo and contents.
+12 § 4256. PRIVATE PROPERTY TOWING REQUIREMENTS
+13 (a) Establishment of a private tow-away zone. The owner of private
+14 property may establish a private tow-away zone by posting a sign that is at
+15 least 18 inches by 24 inches in size and includes a statement that the property
+16 is a tow-away zone, a description of persons authorized to park on the
+17 property, and the address and telephone number for where towed vehicles are
+18 stored.
+19 (b) Prohibition and record of caller. A towing company shall not tow a
+20 vehicle under this section unless it receives a request for a tow. The towing
+21 company shall record the date, time, and name of the requestor.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 8 of 19
+1 (c) Visual documentation. Prior to towing a vehicle under this section, a
+2 towing company shall take photographs, video, or other visual documentation
+3 to evidence that the vehicle is clearly parked on private property in violation of
+4 a private tow-away zone. The towing company shall record the time and date
+5 of the photographs, video, or other visual documentation.
+6 (d) Record retention and production.
+7 (1) The towing company shall maintain a record of the information
+8 described in subsections (b) and (c) of this section and shall retain that
+9 information for three years.
+10 (2) The towing company shall make the records required to be
+11 maintained under subdivision (1) of this subsection available within 48 hours
+12 after receipt of a written request from law enforcement or the Department of
+13 Motor Vehicles.
+14 (e) Location and storage.
+15 (1) A towing company shall ensure that a vehicle towed under this
+16 section is taken to a location that is within 25 miles of the location of the
+17 private tow-away zone.
+18 (2) The towing company shall properly secure all towed vehicles and
+19 make all reasonable efforts to prevent further damage, weather damage, or
+20 theft to all towed vehicles, including the vehicle’s cargo and contents.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 9 of 19
+1 (f) Release of vehicle prior to towing. If the owner or operator of a vehicle
+2 is parked in violation of a private tow-away zone and arrives while the vehicle
+3 is being removed, the towing company shall give the vehicle owner or operator
+4 oral or written notification that the vehicle owner or operator may pay a drop
+5 fee for the release of the vehicle. Upon payment of that fee, the towing
+6 company shall release the vehicle and give the vehicle owner or operator a
+7 receipt showing both the full amount normally assessed and the actual amount
+8 received.
+9 (g) Notice. The towing company shall provide notice of the tow to law
+10 enforcement within two hours after removing the vehicle from the private tow-
+11 away zone.
+12 § 4257. SEIZURE TOWING
+13 (a) Location and storage.
+14 (1) A towing company shall ensure that a vehicle towed under this
+15 section is taken to a location that is within 25 miles of the location where the
+16 vehicle is towed from.
+17 (2) The towing company shall properly secure all towed vehicles and
+18 make all reasonable efforts to prevent further damage, weather damage, or
+19 theft to all towed vehicles, including the vehicle’s cargo and contents.
+20 (b) Release of vehicle prior to towing. If the owner or operator of a vehicle
+21 that is being towed because of unpaid parking tickets arrives while the vehicle
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 10 of 19
+1 is being towed, the towing company shall give the vehicle owner or operator
+2 oral or written notification that the vehicle owner or operator may pay a drop
+3 fee for the release of the vehicle. Upon payment of that fee, the towing
+4 company shall release the vehicle and give the vehicle owner or operator a
+5 receipt showing both the full amount normally assessed and the actual amount
+6 received.
+7 § 4258. ESTIMATE REQUIREMENTS
+8 (a) Estimate required. If the owner or operator of a vehicle is present at the
+9 time and location of a tow, the towing company shall furnish the owner or
+10 operator of the vehicle with a written itemized estimate of all charges and
+11 services to be performed.
+12 (b) Estimate contents. The estimate required under subsection (a) of this
+13 section shall include all of the following:
+14 (1) the name, address, telephone number, and motor carrier permit
+15 number of the towing company;
+16 (2) the license plate number of the tow truck performing the tow; and
+17 (3) an itemized description and cost for all services, including charges
+18 for labor, special equipment, mileage from dispatch to return, and storage fees
+19 expressed as a daily rate.
+20 (c) Signature required.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 11 of 19
+1 (1) The towing company shall obtain the vehicle owner’s or operator’s
+2 written or electronic signature on the itemized estimate and shall furnish a
+3 copy to the individual who signs the estimate.
+4 (2) The requirements in subdivision (1) of this subsection may be
+5 completed after the vehicle is attached and removed to the nearest safe
+6 shoulder or highway if done at the request of law enforcement or a public
+7 agency, provided the estimate is furnished prior to the removal of the vehicle
+8 from the nearest safe shoulder or highway.
+9 (d) Record retention and production.
+10 (1) The towing company shall maintain the records required under
+11 subsection (a) of this section and shall retain that information for three years.
+12 (2) The towing company shall make the records required to be
+13 maintained under subdivision (1) of this subsection available within 48 hours
+14 after receipt of a written request from law enforcement or the Department of
+15 Motor Vehicles.
+16 § 4259. INVOICE REQUIREMENTS
+17 (a) Invoice required. All services rendered by a towing company,
+18 including any warranty or zero-cost services, shall be recorded on an invoice.
+19 Each additional service must be set forth individually as a single line item with
+20 an explanation and the exact charge for the service.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 12 of 19
+1 (b) Invoice contents. Each itemized invoice for towing costs shall contain
+2 the following:
+3 (1) the location from which the vehicle was towed;
+4 (2) the storage location of the vehicle;
+5 (3) the name, address, and telephone number of the towing company;
+6 (4) a description of the vehicle, including the make, model, year, color,
+7 vehicle identification number (VIN), and license plate number of the towed
+8 vehicle;
+9 (5) the charge for the tow; and
+10 (6) the daily storage charge and the number of days the vehicle was
+11 stored.
+12 (c) Record retention and production.
+13 (1) The towing company shall maintain the records required under
+14 subsection (a) of this section and shall retain that information for three years.
+15 (2) The towing company shall make the records required to be
+16 maintained under subdivision (1) of this subsection available within 48 hours
+17 after receipt of a written request from law enforcement or the Department of
+18 Motor Vehicles.
+19 § 4260. NOTICE REQUIREMENTS
+20 (a) Notice required. Within 24 hours after the commencement of towing,
+21 the towing company must commence a search of the records of the Department
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 13 of 19
+1 of Motor Vehicles to ascertain the identity of the owner and any lienholder of
+2 the towed vehicle. Written notice shall be given directly to the owner by
+3 registered mail within five business days after the commencement of towing,
+4 and no storage charges beyond the initial 24-hour charge shall accrue until the
+5 notice requirement has been met.
+6 (b) Notice contents. Notice to the owner or insurer shall contain the
+7 following:
+8 (1) the name, address, and telephone number of the towing company;
+9 (2) the date and time the vehicle was towed;
+10 (3) the location from which the vehicle was towed;
+11 (4) the address where the vehicle is or will be stored and the address and
+12 telephone number where payment and business transactions take place if either
+13 is different from the address and telephone number of the towing company;
+14 (5) the name of the tow truck operator; and
+15 (6) a description of the vehicle, including the make, model, year, color,
+16 vehicle identification number (VIN), and license plate number of the towed
+17 vehicle.
+18 § 4261. LICENSE REQUIREMENTS; INSURANCE; DISPLAY
+19 (a) Application.
+20 (1) The Department of Motor Vehicles shall approve an application for a
+21 towing company license or renewal and issue or renew the license, provided
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 14 of 19
+1 the applicant submits an approvable application on a form prescribed by the
+2 Department of Motor Vehicles and pays a $50.00 application fee.
+3 (2) An application shall include:
+4 (A) the applicant’s workers’ compensation coverage;
+5 (B) a certification that the applicant is current and in good standing
+6 with the Department of Labor’s Unemployment Insurance Program;
+7 (C) the financial responsibility of an applicant relating to liability
+8 insurance or bond requirements;
+9 (D) the applicant’s standard hours of operation;
+10 (E) the applicant’s after-hours access policy;
+11 (F) the applicant’s business address and contact information;
+12 (G) the applicant’s towing and storage charges; and
+13 (H) any other information the Department of Motor Vehicles may
+14 require.
+15 (3) The applicant must not have been convicted of fraud or had a civil
+16 judgment rendered against it for fraud. In addition, each officer, director, or
+17 partner of an applicant that is a corporation or partnership must not have been
+18 convicted of fraud or had a civil judgment rendered against the individual for
+19 fraud during the officer’s, director’s, or partner’s tenure.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 15 of 19
+1 (b) Insurance.
+2 (1) The applicant must provide proof of minimum insurance
+3 requirements of the following or a sufficient surety bond as determined by the
+4 Commissioner of Motor Vehicles:
+5 (A) $100,000.00 for liability for bodily injury or property damage per
+6 occurrence; and
+7 (B) $50,000.00 of legal liability per occurrence, to protect against
+8 vehicle damage, including fire and theft, from the time a vehicle comes into the
+9 custody of a towing company until it is redeemed or sold.
+10 (2) Cancellation of or failure to maintain the insurance required by
+11 subdivision (1) of this subsection automatically revokes the applicant’s license.
+12 (c) Display. A towing company granted a license or renewal under this
+13 section shall prominently display the license, hours of operation, and charges
+14 for towing and storage at the towing company’s primary place of business and
+15 website, if one is maintained.
+16 (d) Licenses are nonassignable and nontransferable. Licenses shall be
+17 nonassignable and nontransferable and shall be surrendered to the Department
+18 of Motor Vehicles immediately upon the towing company ceasing to do
+19 business as a towing company.
+20 § 4262. MAXIMUM CHARGES
+21 (a) A towing company shall not charge more than the following rates:
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 16 of 19
+1 (1) $130.00 per tow or $4.50 per mile towed;
+2 (2) $30.00 per drop fee;
+3 (3) $35.00 per day of storage for any day that the towing company is
+4 operating under its standard hours of operation; and
+5 (4) $35.00 for access to a towed vehicle for the recovery of personal
+6 items outside the towing company’s standard hours of operation.
+7 (b) Notwithstanding subsection (a) of this section, charges for towing an
+8 abandoned vehicle from public property shall be in accordance with section
+9 2158 of this title and fees for towing or storing a vehicle pursuant to municipal
+10 ordinance shall be as established by the municipality in accordance with
+11 section 1753 of this title.
+12 (c) No charge shall be made in excess of the estimated price without the
+13 prior consent of the owner or operator of the vehicle.
+14 § 4263. HOURS OF OPERATION
+15 A towing-storage lot shall have, at a minimum, the following standard hours
+16 of operation: 7:00 a.m.–6:00 p.m. Monday–Friday, exclusive of federal and
+17 State holidays, and on at least one weekend day.
+18 § 4264. RELEASE OF VEHICLE; METHODS OF PAYMENT
+19 (a) A towing company shall release a towed vehicle to the owner or the
+20 insurance company representative upon receipt of payment.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 17 of 19
+1 (b) A towing company shall only release a towed vehicle to the insurance
+2 company representative if:
+3 (1) the owner’s insurance company representative presents proof that the
+4 towed vehicle is insured with the company; or
+5 (2) the owner of the towed vehicle approves release of the towed vehicle
+6 to the insurance company representative.
+7 (c) The owner of the towed vehicle or the owner of the towed vehicle’s
+8 insurance company representative shall have the right to inspect the vehicle
+9 before accepting its return.
+10 (d) A towing company shall accept, at a minimum, cash, an insurance
+11 check, a credit card, a debit card, a certified check, or a money order.
+12 § 4265. PROHIBITED ACTS
+13 (a) It shall be unlawful for a towing company or an individual acting on
+14 behalf of a towing company to:
+15 (1) falsely represent, either expressly or by implication, that the towing
+16 company represents or is approved by any private organization that provides
+17 emergency road service for disabled motor vehicles;
+18 (2) require an owner or operator of a motor vehicle involved in a crash
+19 or breakdown to preauthorize one or more of the following: more than 24
+20 hours of storage, tear down, or repair work as a condition to providing towing
+21 services for the vehicle;
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 18 of 19
+1 (3) charge more than one towing fee when the owner or operator of a
+2 disabled vehicle requests transport of the vehicle to a repair facility owned or
+3 operated by the towing company;
+4 (4) operate a towing company or offer towing or storage services
+5 without being a towing company licensed by the Department of Motor
+6 Vehicles;
+7 (5) charge more than the maximum fees as allowed under section 4262
+8 of this chapter;
+9 (6) submit false or fraudulent information to obtain a towing license; or
+10 (7) violate any other provision of this chapter.
+11 (b) Towing companies shall not tow disabled vehicles to a repair facility
+12 unless the owner or operator of the disabled vehicle gives written consent
+13 before removal of the disabled vehicle.
+14 (c) No towing company shall refuse to release a vehicle to the owner or the
+15 owner’s insurer upon tender of full payment of an itemized invoice for all
+16 lawful charges made in connection with the towing and storage of a vehicle.
+17 (d) No towing company shall refuse, including prior to payment of fees and
+18 release of a towed vehicle, the right of physical inspection of the towed vehicle
+19 by the owner or the owner’s insurer or the recovery of personal items left in the
+20 vehicle during the towing company’s standard hours of operation.
+VT LEG #379117 v.2
+
+BILL AS INTRODUCED H.268
+2025 Page 19 of 19
+1 (e) No towing company shall charge storage for any day where release of
+2 the towed vehicle or access to the towed vehicle by the owner or insurer is not
+3 permitted by the towing company.
+4 § 4266. PENALTIES AND ENFORCEMENT
+5 (a) The Department of Motor Vehicles shall have authority for the
+6 inspection of all locations operated by a towing company.
+7 (b) The Department of Motor Vehicles shall investigate any suspected
+8 violations and complaints that are filed with the Department and take all proper
+9 and necessary remedial action.
+10 (c) Any towing company that submits false or fraudulent information to
+11 obtain a towing license shall have its license revoked.
+12 Sec. 2. RULEMAKING
+13 Unless extended by the Legislative Committee on Administrative Rules
+14 pursuant to 3 V.S.A. § 843(c), the Department of Motor Vehicles shall adopt
+15 rules required under 23 V.S.A. § 4254(c), as added by Sec. 1 of this act, not
+16 later than June 1, 2026, to be effective July 1, 2026.
+17 Sec. 3. EFFECTIVE DATE
+18 This act shall take effect on July 1, 2025.
+VT LEG #379117 v.2
+
+[DELETED:  H P H I R R D S S c A v I S C § T A § T e f]
+[DELETED:  H P § A ( d s u c e ( ( a t ( v e w ( o o ( w]
+[DELETED:  H P r t ( o p n ( i ( p f ( s ( v ( p i c ( s]
+[DELETED:  H P ( m ( h § ( ( e T V ( n i s ( j s ( c a 4]
+[DELETED:  H P ( f § ( c t d e u a v a ( ( t c d ( w t]
+[DELETED:  H P ( t a r t t ( ( o f i ( ( e t d n a ( t t]
+[DELETED:  H P ( ( d i ( m a M ( a t § ( p l i p s ( v c]
+[DELETED:  H P ( t t a o ( ( d i ( m a M ( ( s p ( m t]
+[DELETED:  H P ( i i o f c r r ( e a § ( ( s v ( m t ( t]
+[DELETED:  H P i o f c r r § ( t o s ( s ( n ( ( f e (]
+[DELETED:  H P ( w c ( c s a f ( ( s ( m a M § ( i E a]
+[DELETED:  H P ( t ( ( ( ( v v ( ( s ( ( s ( m a M § ( t]
+[DELETED:  H P o t r a n ( f ( ( ( ( t i ( ( v v § ( ( t]
+[DELETED:  H P t D ( ( ( w ( i ( ( ( ( ( r ( j p c f]
+[DELETED:  H P ( ( r C ( o ( v c ( s ( s f w ( n o b § (]
+[DELETED:  H P ( ( ( o ( i ( a 2 o s ( p § A o S § ( i]
+[DELETED:  H P ( c ( t ( t ( i b ( c § ( b ( c e ( o h s]
+[DELETED:  H P ( d o ( w V ( o ( ( ( u b ( o l ( r b v]
+[DELETED:  H P ( t p § ( i ( v a ( o S U p r l S T]

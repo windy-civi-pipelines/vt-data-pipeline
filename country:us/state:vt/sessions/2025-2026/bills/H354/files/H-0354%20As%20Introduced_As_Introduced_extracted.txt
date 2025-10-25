@@ -1,0 +1,196 @@
+Title: BILL AS INTRODUCED H.354
+Official Title: BILL AS INTRODUCED H.354
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.354
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; thermal energy; thermal efficiency benefits
+6 charge
+7 Statement of purpose of bill as introduced: This bill proposes to direct the
+8 Public Utility Commission to establish a thermal efficiency benefits charge.
+9 An act relating to a thermal efficiency benefits charge
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 30 V.S.A. § 209(e) is amended to read:
+12 (e) Thermal energy and process fuel efficiency funding.
+13 (1) Each of the following shall be used to deliver thermal energy and
+14 process fuel energy efficiency services in accordance with this section for
+15 unregulated fuels to Vermont consumers of such fuels. In addition, the
+16 Commission may authorize an entity appointed to deliver such services under
+17 subdivision (d)(2)(B) of this section to use monies subject to this subsection
+18 for the engineering, design, and construction of facilities for the conversion of
+19 thermal energy customers using fossil fuels to district heat if the majority of
+VT LEG #380960 v.1
+BILL AS INTRODUCED H.354
+2025 Page 2 of 4
+1 the district’s energy is from biomass sources, the district’s distribution system
+2 is highly energy efficient, and such conversion is cost effective.
+3 (A) Capacity savings. Net revenues above costs associated with
+4 payments from the New England Independent System Operator (ISO-NE) for
+5 capacity savings resulting from the activities of the energy efficiency utility
+6 designated under subdivision (2)(A) of this subsection (e) that are not
+7 transferred to the State PACE Reserve Fund under 24 V.S.A. § 3270(c). These
+8 revenues shall be deposited into the Electric Efficiency Fund established by
+9 this section. In delivering services with respect to heating systems using the
+10 revenues subject to this subdivision (A), the entity shall give priority to
+11 incentives for the installation of high efficiency biomass heating systems and
+12 shall have a goal of offering an incentive that is equal to 25 percent of the
+13 installed cost of such a system. Provision of an incentive under this
+14 subdivision (A) for a biomass heating system shall not be contingent on the
+15 making of other energy efficiency improvements at the property on which the
+16 system will be installed.
+17 (B) RGGI. Net revenues above costs from the sale of carbon credits
+18 under the cap and trade program established under section 255 of this title,
+19 which shall be deposited into the Electric Efficiency Fund established by this
+20 section.
+VT LEG #380960 v.1
+BILL AS INTRODUCED H.354
+2025 Page 3 of 4
+1 (C) Other funds. Any other monies that are appropriated to or
+2 deposited in the Electric Efficiency Fund for the delivery of thermal energy
+3 and process fuel energy efficiency services.
+4 (D) Thermal efficiency benefits charge; unregulated fuels. The
+5 Commission may establish by order or rule a volumetric charge to customers
+6 for the support of thermal efficiency programs that are societally cost-effective
+7 to implement and support the greenhouse gas reduction requirements under 10
+8 V.S.A. § 578. The charge shall be known as the thermal efficiency benefits
+9 charge, shall be shown separately on each customer’s bill, and shall be paid to
+10 a fund administrator appointed by the Commission and deposited into the
+11 Electric Efficiency Fund.
+12 (2) If a program combines regulated fuel efficiency services with
+13 unregulated fuel efficiency services supported by funds under this section, the
+14 Commission shall allocate the costs of the program among the funding sources
+15 for the regulated and unregulated fuel sectors in proportion to the benefits
+16 provided to each sector.
+17 (3) In As used in this subsection:
+18 (A) “Biomass” means organic nonfossil material constituting a
+19 source of renewable energy within the meaning of section 8002 of this title.
+VT LEG #380960 v.1
+BILL AS INTRODUCED H.354
+2025 Page 4 of 4
+1 (B) “District heat” means a system through which steam or hot water
+2 from a central plant is piped into buildings to be used as a source of thermal
+3 energy.
+4 (C) “Efficiency services” includes the establishment of a statewide
+5 information clearinghouse under subsection (g) of this section.
+6 (D) “Fossil fuel” means an energy source formed in the earth’s crust
+7 from decayed organic material. The common fossil fuels are petroleum, coal,
+8 and natural gas. A fossil fuel may be a regulated or unregulated fuel.
+9 (E) “Regulated fuels” means electricity and natural gas delivered by a
+10 regulated utility.
+11 (F) “Unregulated fuels” means fuels used by thermal energy and
+12 process fuel customers other than electricity and natural gas delivered by a
+13 regulated utility.
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2025.
+VT LEG #380960 v.1
+[DELETED:  H P H I R R D S c S P A I S ( ( p u C s f t]
+[DELETED:  H P t i ( p c d t r t r i s i s m s ( u w s]
+[DELETED:  H P ( d a ( C f t V c a E ( u C f p ( ( s]
+[DELETED:  H P ( f e ( i ( f a ( r ( p r S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.354
+2025 Page 1 of 4
+1 H.354
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; thermal energy; thermal efficiency benefits
+6 charge
+7 Statement of purpose of bill as introduced: This bill proposes to direct the
+8 Public Utility Commission to establish a thermal efficiency benefits charge.
+9 An act relating to a thermal efficiency benefits charge
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 30 V.S.A. § 209(e) is amended to read:
+12 (e) Thermal energy and process fuel efficiency funding.
+13 (1) Each of the following shall be used to deliver thermal energy and
+14 process fuel energy efficiency services in accordance with this section for
+15 unregulated fuels to Vermont consumers of such fuels. In addition, the
+16 Commission may authorize an entity appointed to deliver such services under
+17 subdivision (d)(2)(B) of this section to use monies subject to this subsection
+18 for the engineering, design, and construction of facilities for the conversion of
+19 thermal energy customers using fossil fuels to district heat if the majority of
+VT LEG #380960 v.1
+
+BILL AS INTRODUCED H.354
+2025 Page 2 of 4
+1 the district’s energy is from biomass sources, the district’s distribution system
+2 is highly energy efficient, and such conversion is cost effective.
+3 (A) Capacity savings. Net revenues above costs associated with
+4 payments from the New England Independent System Operator (ISO-NE) for
+5 capacity savings resulting from the activities of the energy efficiency utility
+6 designated under subdivision (2)(A) of this subsection (e) that are not
+7 transferred to the State PACE Reserve Fund under 24 V.S.A. § 3270(c). These
+8 revenues shall be deposited into the Electric Efficiency Fund established by
+9 this section. In delivering services with respect to heating systems using the
+10 revenues subject to this subdivision (A), the entity shall give priority to
+11 incentives for the installation of high efficiency biomass heating systems and
+12 shall have a goal of offering an incentive that is equal to 25 percent of the
+13 installed cost of such a system. Provision of an incentive under this
+14 subdivision (A) for a biomass heating system shall not be contingent on the
+15 making of other energy efficiency improvements at the property on which the
+16 system will be installed.
+17 (B) RGGI. Net revenues above costs from the sale of carbon credits
+18 under the cap and trade program established under section 255 of this title,
+19 which shall be deposited into the Electric Efficiency Fund established by this
+20 section.
+VT LEG #380960 v.1
+
+BILL AS INTRODUCED H.354
+2025 Page 3 of 4
+1 (C) Other funds. Any other monies that are appropriated to or
+2 deposited in the Electric Efficiency Fund for the delivery of thermal energy
+3 and process fuel energy efficiency services.
+4 (D) Thermal efficiency benefits charge; unregulated fuels. The
+5 Commission may establish by order or rule a volumetric charge to customers
+6 for the support of thermal efficiency programs that are societally cost-effective
+7 to implement and support the greenhouse gas reduction requirements under 10
+8 V.S.A. § 578. The charge shall be known as the thermal efficiency benefits
+9 charge, shall be shown separately on each customer’s bill, and shall be paid to
+10 a fund administrator appointed by the Commission and deposited into the
+11 Electric Efficiency Fund.
+12 (2) If a program combines regulated fuel efficiency services with
+13 unregulated fuel efficiency services supported by funds under this section, the
+14 Commission shall allocate the costs of the program among the funding sources
+15 for the regulated and unregulated fuel sectors in proportion to the benefits
+16 provided to each sector.
+17 (3) In As used in this subsection:
+18 (A) “Biomass” means organic nonfossil material constituting a
+19 source of renewable energy within the meaning of section 8002 of this title.
+VT LEG #380960 v.1
+
+BILL AS INTRODUCED H.354
+2025 Page 4 of 4
+1 (B) “District heat” means a system through which steam or hot water
+2 from a central plant is piped into buildings to be used as a source of thermal
+3 energy.
+4 (C) “Efficiency services” includes the establishment of a statewide
+5 information clearinghouse under subsection (g) of this section.
+6 (D) “Fossil fuel” means an energy source formed in the earth’s crust
+7 from decayed organic material. The common fossil fuels are petroleum, coal,
+8 and natural gas. A fossil fuel may be a regulated or unregulated fuel.
+9 (E) “Regulated fuels” means electricity and natural gas delivered by a
+10 regulated utility.
+11 (F) “Unregulated fuels” means fuels used by thermal energy and
+12 process fuel customers other than electricity and natural gas delivered by a
+13 regulated utility.
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2025.
+VT LEG #380960 v.1
+
+[DELETED:  H P H I R R D S c S P A I S ( ( p u C s f t]
+[DELETED:  H P t i ( p c d t r t r i s i s m s ( u w s]
+[DELETED:  H P ( d a ( C f t V c a E ( u C f p ( ( s]
+[DELETED:  H P ( f e ( i ( f a ( r ( p r S T]

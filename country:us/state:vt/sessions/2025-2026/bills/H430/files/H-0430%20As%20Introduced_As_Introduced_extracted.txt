@@ -1,0 +1,178 @@
+Title: BILL AS INTRODUCED H.430
+Official Title: BILL AS INTRODUCED H.430
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.430
+2 Introduced by Representatives Galfetti of Barre Town and Waszazak of Barre
+3 City
+4 Referred to Committee on
+5 Date:
+6 Subject: Health; health insurance; age rating; tobacco rating
+7 Statement of purpose of bill as introduced: This bill proposes to allow health
+8 insurers in Vermont to vary premiums for individual and small group health
+9 insurance plans based on beneficiary age and tobacco usage.
+10 An act relating to allowing health insurance premiums to vary based on age
+11 and tobacco usage
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 33 V.S.A. § 1811 is amended to read:
+14 § 1811. HEALTH BENEFIT PLANS FOR INDIVIDUALS AND SMALL
+15 EMPLOYERS
+16 * * *
+17 (f)(1) A registered carrier shall use a community rating method acceptable
+18 to the Commissioner of Financial Regulation for determining premiums for
+19 health benefit plans. Except as provided in subdivision (2) of this subsection,
+20 the following risk classification factors are prohibited from use in rating
+VT LEG #380505 v.1
+BILL AS INTRODUCED H.430
+2025 Page 2 of 4
+1 individuals, small employers, or employees of small employers, or the
+2 dependents of such individuals or employees:
+3 (A) demographic rating, including age and gender rating;
+4 (B) geographic area rating;
+5 (C) industry rating;
+6 (D) medical underwriting and screening;
+7 (E) experience rating;
+8 (F) tier rating; or
+9 (G) durational rating.
+10 (2)(A)(i) A registered carrier may vary the premium rate for a health
+11 benefit plan as follows:
+12 (I) based on age, provided that the maximum rate differential
+13 for age as determined by ratio shall not exceed 3 to 1; and
+14 (II) based on tobacco usage, provided that the maximum rate
+15 differential for tobacco usage as determined by ratio shall not exceed 1.5 to 1.
+16 (ii) The Commissioner of Financial Regulation shall, by rule,
+17 adopt standards and a process for permitting registered carriers to use one or
+18 more risk classifications in their community rating method in addition to those
+19 specified in subdivision (i) of this subdivision (2)(A), provided that the
+20 premium charged shall not deviate above or below the community rate filed by
+21 the carrier by more than 20 percent after the application of age and tobacco
+VT LEG #380505 v.1
+BILL AS INTRODUCED H.430
+2025 Page 3 of 4
+1 rating, if applicable, and provided further that the Commissioner of Financial
+2 Regulation’s rules may not permit any medical underwriting and screening and
+3 shall give due consideration to the need for affordability and accessibility of
+4 health insurance.
+5 (B) The Commissioner of Financial Regulation’s rules shall permit a
+6 carrier, including a hospital or medical service corporation and a health
+7 maintenance organization, to establish rewards, premium discounts, split
+8 benefit designs, rebates, or otherwise waive or modify applicable co-payments,
+9 deductibles, or other cost-sharing amounts in return for adherence by a
+10 member or subscriber to programs of health promotion and disease prevention.
+11 The Commissioner of Financial Regulation shall consult with the
+12 Commissioner of Health, the Director of the Blueprint for Health, and the
+13 Commissioner of Vermont Health Access in the development of health
+14 promotion and disease prevention rules that are consistent with the Blueprint
+15 for Health. Such rules shall:
+16 (i) limit any reward, discount, rebate, or waiver or modification of
+17 cost-sharing amounts to not more than a total of 15 percent of the cost of the
+18 premium for the applicable coverage tier, provided that the sum of any rate
+19 deviations under subdivision (A) of this subdivision (2) does not exceed 30
+20 percent after the application of age and tobacco rating, if applicable;
+21 * * *
+VT LEG #380505 v.1
+BILL AS INTRODUCED H.430
+2025 Page 4 of 4
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on January 1, 2026.
+VT LEG #380505 v.1
+[DELETED:  H P H I R C R D S S i i A a I S §   * ( t h t]
+[DELETED:  H P i d ( ( ( ( ( ( ( ( b ( f ( d ( a m s p t]
+[DELETED:  H P r R s h ( c m b d m T C C p f ( c p d p *]
+[DELETED:  H P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.430
+2025 Page 1 of 4
+1 H.430
+2 Introduced by Representatives Galfetti of Barre Town and Waszazak of Barre
+3 City
+4 Referred to Committee on
+5 Date:
+6 Subject: Health; health insurance; age rating; tobacco rating
+7 Statement of purpose of bill as introduced: This bill proposes to allow health
+8 insurers in Vermont to vary premiums for individual and small group health
+9 insurance plans based on beneficiary age and tobacco usage.
+10 An act relating to allowing health insurance premiums to vary based on age
+11 and tobacco usage
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 33 V.S.A. § 1811 is amended to read:
+14 § 1811. HEALTH BENEFIT PLANS FOR INDIVIDUALS AND SMALL
+15 EMPLOYERS
+16 * * *
+17 (f)(1) A registered carrier shall use a community rating method acceptable
+18 to the Commissioner of Financial Regulation for determining premiums for
+19 health benefit plans. Except as provided in subdivision (2) of this subsection,
+20 the following risk classification factors are prohibited from use in rating
+VT LEG #380505 v.1
+
+BILL AS INTRODUCED H.430
+2025 Page 2 of 4
+1 individuals, small employers, or employees of small employers, or the
+2 dependents of such individuals or employees:
+3 (A) demographic rating, including age and gender rating;
+4 (B) geographic area rating;
+5 (C) industry rating;
+6 (D) medical underwriting and screening;
+7 (E) experience rating;
+8 (F) tier rating; or
+9 (G) durational rating.
+10 (2)(A)(i) A registered carrier may vary the premium rate for a health
+11 benefit plan as follows:
+12 (I) based on age, provided that the maximum rate differential
+13 for age as determined by ratio shall not exceed 3 to 1; and
+14 (II) based on tobacco usage, provided that the maximum rate
+15 differential for tobacco usage as determined by ratio shall not exceed 1.5 to 1.
+16 (ii) The Commissioner of Financial Regulation shall, by rule,
+17 adopt standards and a process for permitting registered carriers to use one or
+18 more risk classifications in their community rating method in addition to those
+19 specified in subdivision (i) of this subdivision (2)(A), provided that the
+20 premium charged shall not deviate above or below the community rate filed by
+21 the carrier by more than 20 percent after the application of age and tobacco
+VT LEG #380505 v.1
+
+BILL AS INTRODUCED H.430
+2025 Page 3 of 4
+1 rating, if applicable, and provided further that the Commissioner of Financial
+2 Regulation’s rules may not permit any medical underwriting and screening and
+3 shall give due consideration to the need for affordability and accessibility of
+4 health insurance.
+5 (B) The Commissioner of Financial Regulation’s rules shall permit a
+6 carrier, including a hospital or medical service corporation and a health
+7 maintenance organization, to establish rewards, premium discounts, split
+8 benefit designs, rebates, or otherwise waive or modify applicable co-payments,
+9 deductibles, or other cost-sharing amounts in return for adherence by a
+10 member or subscriber to programs of health promotion and disease prevention.
+11 The Commissioner of Financial Regulation shall consult with the
+12 Commissioner of Health, the Director of the Blueprint for Health, and the
+13 Commissioner of Vermont Health Access in the development of health
+14 promotion and disease prevention rules that are consistent with the Blueprint
+15 for Health. Such rules shall:
+16 (i) limit any reward, discount, rebate, or waiver or modification of
+17 cost-sharing amounts to not more than a total of 15 percent of the cost of the
+18 premium for the applicable coverage tier, provided that the sum of any rate
+19 deviations under subdivision (A) of this subdivision (2) does not exceed 30
+20 percent after the application of age and tobacco rating, if applicable;
+21 * * *
+VT LEG #380505 v.1
+
+BILL AS INTRODUCED H.430
+2025 Page 4 of 4
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on January 1, 2026.
+VT LEG #380505 v.1
+
+[DELETED:  H P H I R C R D S S i i A a I S §   * ( t h t]
+[DELETED:  H P i d ( ( ( ( ( ( ( ( b ( f ( d ( a m s p t]
+[DELETED:  H P r R s h ( c m b d m T C C p f ( c p d p *]
+[DELETED:  H P S T]

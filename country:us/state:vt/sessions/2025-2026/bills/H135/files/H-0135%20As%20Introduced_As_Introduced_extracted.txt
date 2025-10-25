@@ -1,0 +1,802 @@
+Title: BILL AS INTRODUCED H.135
+Official Title: BILL AS INTRODUCED H.135
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 16
+1 H.135
+2 Introduced by Representative Canfield of Fair Haven
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; income tax; income tax credits; tobacco products tax;
+6 property tax hearing officers; flood abatement
+7 Statement of purpose of bill as introduced: This bill proposes to make several
+8 technical and policy changes to Vermont tax laws, including the annual link up
+9 to federal income tax laws, requiring a joint income tax return when taxpayers
+10 file jointly at the federal level, changing some definitions used for the tobacco
+11 products tax, and increasing the pay for property tax hearing officers. The bill
+12 also extends reimbursement to municipalities of State education property taxes
+13 that were abated due to flooding.
+14 An act relating to administrative and policy changes to Vermont tax laws
+15 and extending reimbursement to municipalities for tax abatement due to
+16 flooding
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 * * * Personal Income Tax * * *
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 2 of 16
+1 Sec. 1. 32 V.S.A. § 5824 is amended to read:
+2 § 5824. ADOPTION OF FEDERAL INCOME TAX LAWS
+3 The statutes of the United States relating to the federal income tax, as in
+4 effect on December 31, 2023 2024, but without regard to federal income tax
+5 rates under 26 U.S.C. § 1, are hereby adopted for the purpose of computing the
+6 tax liability under this chapter and shall continue in effect as adopted until
+7 amended, repealed, or replaced by act of the General Assembly.
+8 Sec. 2. 32 V.S.A. § 7402 is amended to read:
+9 § 7402. DEFINITIONS
+10 As used in this chapter unless the context requires otherwise:
+11 * * *
+12 (8) “Laws of the United States” means the U.S. Internal Revenue Code
+13 of 1986, as amended through December 31, 2023 2024. As used in this
+14 chapter, “Internal Revenue Code” has the same meaning as “laws of the United
+15 States” as defined in this subdivision. The date through which amendments to
+16 the U.S. Internal Revenue Code of 1986 are adopted under this subdivision
+17 shall continue in effect until amended, repealed, or replaced by act of the
+18 General Assembly.
+19 * * *
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 3 of 16
+1 Sec. 3. 32 V.S.A. § 5861(c) is amended to read:
+2 (c) Spouses or a surviving spouse may shall file a joint Vermont personal
+3 income tax return for any taxable year for which the spouses file or the
+4 surviving spouse are permitted to file files a joint federal income tax return
+5 under the laws of the United States, unless the Commissioner allows a different
+6 filing status.
+7 Sec. 4. 32 V.S.A. § 5830f is amended to read:
+8 § 5830f. VERMONT CHILD TAX CREDIT
+9 (a) A resident individual or part-year resident individual who is entitled to a
+10 child tax credit under the laws of the United States or who would have been
+11 entitled to a child tax credit under the laws of the United States but for the fact
+12 that the individual or the individual’s spouse does not have a taxpayer
+13 identification number shall be entitled to a refundable credit against the tax
+14 imposed by section 5822 of this title for the taxable year. The total credit per
+15 taxable year shall be in the amount of $1,000.00 per qualifying child, as
+16 defined under 26 U.S.C. § 152(c) but notwithstanding the taxpayer
+17 identification number requirements under 26 U.S.C. § 24(e) and (h)(7), who is
+18 five six years of age or younger as of the close of the calendar year in which
+19 the taxable year of the taxpayer begins. For a part-year resident individual, the
+20 amount of the credit shall be multiplied by the percentage that the individual’s
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 4 of 16
+1 income that is earned or received during the period of the individual’s
+2 residency in this State bears to the individual’s total income.
+3 * * *
+4 Sec. 5. 32 V.S.A. § 5828b is amended to read:
+5 § 5828b. EARNED INCOME TAX CREDIT
+6 (a) A resident individual or part-year resident individual who is entitled to
+7 an earned income tax credit granted under the laws of the United States or who
+8 would have been entitled to an earned income tax credit under the laws of the
+9 United States but for the fact that the individual, the individual’s spouse, or one
+10 or more of the individual’s children does not have a qualifying taxpayer
+11 identification number shall be entitled to a credit against the tax imposed for
+12 each year by section 5822 of this title. The credit shall be for an individual
+13 who claims one or more qualifying children 38 percent or for an individual
+14 who does not claim one or more qualifying children 100 percent of the earned
+15 income tax credit granted to the individual under the laws of the United States
+16 or that would have been granted to the individual under the laws of the United
+17 States but for the fact that the individual, the individual’s spouse, or one or
+18 more of the individual’s children does not have a qualifying taxpayer
+19 identification number, multiplied by the percentage that the individual’s
+20 income that is earned or received during the period of the individual’s
+21 residency in this State bears to the individual’s total income. A resident
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 5 of 16
+1 individual or part-year resident individual who would have been entitled to or
+2 granted an earned income tax credit under the laws of the United States but for
+3 the fact that the individual, the individual’s spouse, or one or more of the
+4 individual’s children does not have a qualifying taxpayer identification number
+5 shall be entitled to a credit under this section.
+6 * * *
+7 Sec. 6. 32 V.S.A. § 5811(21) is amended to read:
+8 (21) “Taxable income” means, in the case of an individual, federal
+9 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+10 * * *
+11 (B) decreased by the following items of income (to the extent such
+12 income is included in federal adjusted gross income):
+13 * * *
+14 (v) the amount of any federal deduction or credit that the taxpayer
+15 would have been allowed for the cultivation, testing, processing, or sale of
+16 cannabis or cannabis products as authorized under 7 V.S.A. chapter 33 or 37,
+17 but for 26 U.S.C. § 280E; and
+18 * * *
+19 (vii) U.S. military retirement income and U.S. military survivor
+20 benefit income received by the surviving spouse or dependent of the deceased
+21 service member; and
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 6 of 16
+1 * * *
+2 Sec. 7. 32 V.S.A. § 5830e is amended to read:
+3 § 5830e. RETIREMENT INCOME; SOCIAL SECURITY INCOME
+4 (a) Social Security income. The portion of federally taxable Social
+5 Security benefits excluded from taxable income under subdivision
+6 5811(21)(B)(iv) of this chapter shall be as follows:
+7 (1) For taxpayers whose filing status is single, married filing separately,
+8 head of household, or surviving spouse:
+9 (A) If the federal adjusted gross income of the taxpayer is less than or
+10 equal to $50,000.00 $55,000.00, all federally taxable benefits received under
+11 the federal Social Security Act shall be excluded.
+12 (B) If the federal adjusted gross income of the taxpayer is greater than
+13 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+14 federally taxable benefits received under the Social Security Act to be
+15 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+16 gross income over $50,000.00 $55,000.00, determined by:
+17 (i) subtracting the federal adjusted gross income of the taxpayer
+18 from $60,000.00 $65,000.00;
+19 (ii) dividing the value under subdivision (i) of this subdivision (B)
+20 by $10,000.00; and
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 7 of 16
+1 (iii) multiplying the value under subdivision (ii) of this subdivision
+2 (B) by the federally taxable benefits received under the Social Security Act.
+3 (C) If the federal adjusted gross income of the taxpayer is equal to or
+4 greater than $60,000.00 $65,000.00, no amount of the federally taxable
+5 benefits received under the Social Security Act shall be excluded under this
+6 section.
+7 (2) For taxpayers whose filing status is married filing jointly:
+8 (A) If the federal adjusted gross income of the taxpayer is less than or
+9 equal to $65,000.00 $70,000.00, all federally taxable benefits received under
+10 the Social Security Act shall be excluded.
+11 (B) If the federal adjusted gross income of the taxpayer is greater than
+12 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+13 federally taxable benefits received under the Social Security Act to be
+14 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+15 gross income over $65,000.00 $70,000.00, determined by:
+16 (i) subtracting the federal adjusted gross income of the taxpayer
+17 from $75,000.00 $80,000.00;
+18 (ii) dividing the value under subdivision (i) of this subdivision (B)
+19 by $10,000.00; and
+20 (iii) multiplying the value under subdivision (ii) of this subdivision
+21 (B) by the federally taxable benefits received under the Social Security Act.
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 8 of 16
+1 (C) If the federal adjusted gross income of the taxpayer is equal to or
+2 greater than $75,000.00 $80,000.00, no amount of the federally taxable
+3 benefits received under the Social Security Act shall be excluded under this
+4 section.
+5 (b) Civil Service Retirement System income. The portion of income
+6 received from the Civil Service Retirement System excluded from taxable
+7 income under subdivision 5811(21)(B)(iv) of this title shall be subject to the
+8 limitations under subsection (e) of this section and shall be determined as
+9 follows:
+10 (1) For taxpayers whose filing status is single, married filing separately,
+11 head of household, or surviving spouse:
+12 (A) If the federal adjusted gross income of the taxpayer is less than or
+13 equal to $50,000.00 $55,000.00, the first $10,000.00 of income received from
+14 the Civil Service Retirement System shall be excluded.
+15 (B) If the federal adjusted gross income of the taxpayer is greater than
+16 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+17 the first $10,000.00 of income received from the Civil Service Retirement
+18 System to be excluded shall be proportional to the amount of the taxpayer’s
+19 federal adjusted gross income over $50,000.00 $55,000.00, determined by:
+20 (i) subtracting the federal adjusted gross income of the taxpayer
+21 from $60,000.00 $65,000.00;
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 9 of 16
+1 (ii) dividing the value under subdivision (i) of this subdivision (B)
+2 by $10,000.00; and
+3 (iii) multiplying the value under subdivision (ii) of this subdivision
+4 (B) by the first $10,000.00 of income received from the Civil Service
+5 Retirement System.
+6 (C) If the federal adjusted gross income of the taxpayer is equal to or
+7 greater than $60,000.00 $65,000.00, no amount of the income received from
+8 the Civil Service Retirement System shall be excluded under this section.
+9 (2) For taxpayers whose filing status is married filing jointly:
+10 (A) If the federal adjusted gross income of the taxpayer is less than or
+11 equal to $65,000.00 $70,000.00, the first $10,000.00 of income received from
+12 the Civil Service Retirement System shall be excluded.
+13 (B) If the federal adjusted gross income of the taxpayer is greater than
+14 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+15 the first $10,000.00 of income received from the Civil Service Retirement
+16 System to be excluded shall be proportional to the amount of the taxpayer’s
+17 federal adjusted gross income over $65,000.00 $70,000.00, determined by:
+18 (i) subtracting the federal adjusted gross income of the taxpayer
+19 from $75,000.00 $80,000.00;
+20 (ii) dividing the value under subdivision (i) of this subdivision (B)
+21 by $10,000.00; and
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 10 of 16
+1 (iii) multiplying the value under subdivision (ii) of this subdivision
+2 (B) by the first $10,000.00 of income received from the Civil Service
+3 Retirement System.
+4 (C) If the federal adjusted gross income of the taxpayer is equal to or
+5 greater than $75,000.00 $80,000.00, no amount of the income received from
+6 the Civil Service Retirement System shall be excluded under this section.
+7 (c) Other contributory retirement systems; earnings not covered by Social
+8 Security. Other retirement income, except U.S. military retirement income
+9 pursuant to subsection (d) of this section, received by a taxpayer of this State
+10 shall be excluded pursuant to subsection (b) of this section as though the
+11 income were received from the Civil Service Retirement System and shall be
+12 subject to the limitations under subsection (e)(d) of this section, provided that:
+13 * * *
+14 (d) U.S. military retirement income. U.S. military retirement income
+15 received by a taxpayer of this State shall be excluded pursuant to subsection
+16 (b) of this section as though the income were received from the Civil Service
+17 Retirement System and shall be subject to the limitations under subsection (e)
+18 of this section.
+19 (e) Requirement to elect one exclusion. A taxpayer of this State who is
+20 eligible during the taxable year for the Social Security income exclusion under
+21 subsection (a) of this section and any one or both of the exclusions under
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 11 of 16
+1 subsections (b)–(d) and (c) of this section shall elect either one of the
+2 exclusions for which the taxpayer is eligible under subsections (b)–(d) and (c)
+3 of this section or the Social Security income exclusion under subsection (a) of
+4 this section, but not both, for the taxable year. A taxpayer of this State who is
+5 eligible during the taxable year for more than one of the both exclusions under
+6 subsections (b)–(d) and (c) of this section shall elect only one of the exclusions
+7 for which the taxpayer is eligible for the taxable year.
+8 * * * Tobacco Products Tax * * *
+9 Sec. 8. 32 V.S.A. § 7702 is amended to read:
+10 § 7702. DEFINITIONS
+11 As used in this chapter unless the context otherwise requires:
+12 * * *
+13 (15) “Other tobacco products” means any product manufactured from,
+14 derived from, or containing tobacco or nicotine, whether natural or synthetic,
+15 that is intended for human consumption by smoking, chewing, or in any other
+16 manner, including products sold as a tobacco substitute, as defined in 7 V.S.A.
+17 § 1001(8), and including any liquids, whether nicotine based or not, or delivery
+18 devices sold separately for use with a tobacco substitute, but shall not include
+19 cigarettes, little cigars, roll-your-own tobacco, snuff, new smokeless tobacco as
+20 defined in this section, or cannabis products as defined in 7 V.S.A. § 831.
+21 * * *
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 12 of 16
+1 (20) “New smokeless tobacco” means any tobacco product
+2 manufactured from, derived from, or containing tobacco or nicotine, whether
+3 natural or synthetic, that is not intended to be smoked, has a moisture content
+4 of less than 45 percent, or is offered in individual single-dose tablets or other
+5 discrete single-use units.
+6 * * *
+7 * * * Pay for Property Valuation Hearing Officers * * *
+8 Sec. 9. 32 V.S.A. § 4465 is amended to read:
+9 § 4465. APPOINTMENT OF PROPERTY VALUATION HEARING
+10 OFFICER; OATH; PAY
+11 When an appeal to the Director is not withdrawn or forwarded by the
+12 Director to Superior Court pursuant to subsection 4461(a) of this title, the
+13 Director shall refer the appeal in writing to a person not employed by the
+14 Director, appointed by the Director as hearing officer. The Director shall have
+15 the right to remove a hearing officer for inefficiency, malfeasance in office, or
+16 other cause. In like manner, the Director shall appoint a hearing officer to fill
+17 any vacancy created by resignation, removal, or other cause. Before entering
+18 into their duties, persons appointed as hearing officers shall take and subscribe
+19 the oath of the office prescribed in the Constitution, which oath shall be filed
+20 with the Director. The Director Commissioner of Taxes shall pay each hearing
+21 officer a sum not to exceed $150.00 per diem for each day wherein hearings
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 13 of 16
+1 are held $38.00 per hour plus a cost-of-living adjustment in an amount equal to
+2 any adjustment approved for exempt employees by the Secretary of
+3 Administration, together with reasonable expenses as the Director
+4 Commissioner may determine. A hearing officer may subpoena witnesses,
+5 records, and documents in the manner provided by law for serving subpoenas
+6 in civil actions and may administer oaths to witnesses.
+7 * * * Flooding Abatement Program * * *
+8 Sec. 10. 2024 Acts and Resolves No. 82, Sec. 1, as amended by 2024 Acts and
+9 Resolves No. 108, Sec. 3, is further amended to read:
+10 Sec. 1. REIMBURSEMENT TO MUNICIPALITIES OF STATE
+11 EDUCATION PROPERTY TAXES THAT WERE ABATED DUE
+12 TO FLOODING
+13 (a)(1) The Commissioner of Taxes may approve an application by a
+14 municipality for reimbursement of State education property tax payments owed
+15 under 32 V.S.A. § 5402(c) and 16 V.S.A. § 426. To be eligible for
+16 reimbursement under this section, prior to November 15, 2024 2025, a
+17 municipality must have abated, in proportion to the abated municipal tax,
+18 under 24 V.S.A. § 1535 the State education property taxes that were assessed
+19 on eligible property, after application of any property tax credit allowed under
+20 32 V.S.A. chapter 154.
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 14 of 16
+1 (2) As used in this subsection, “eligible property” means property lost
+2 or destroyed due directly or indirectly to severe storms and flooding in an area
+3 that was declared a federal disaster between July 1, 2023 and October 15, 2023
+4 December 31, 2024, provided the loss or destruction resulted in one or more of
+5 the following:
+6 (A) a 50 percent or greater loss in value to the primary structure on
+7 the property;
+8 (B) loss of use by the property owner of the primary structure on the
+9 property for 60 days or more;
+10 (C) loss of access by the property owner to utilities for the primary
+11 structure on the property for 60 days or more; or
+12 (D) condemnation of the primary structure on the property under
+13 federal, State, or municipal law, as applicable.
+14 (b) If a municipality demonstrates that, due to disruption to tax collections
+15 resulting from flooding in an area that was declared a federal disaster between
+16 July 1, 2023 and October 15, 2023 December 31, 2024, the municipality
+17 incurred unanticipated interest expenses on funds borrowed to make State
+18 education property tax payments owed under 32 V.S.A. § 5402(c) and 16
+19 V.S.A. § 426, the municipality may be reimbursed by an amount equal to its
+20 reasonable interest expenses under this subsection, provided the amount of
+21 reimbursed interest expenses shall not exceed eight percent.
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 15 of 16
+1 * * *
+2 * * * Property Tax Credit Late Fee * * *
+3 Sec. 11. 32 V.S.A. § 5402(c)(2) is amended to read:
+4 (2) The Secretary of Education shall determine each municipality’s net
+5 nonhomestead education tax payment and its net homestead education tax
+6 payment to the State based on grand list information received by the Secretary
+7 not later than the March 15 prior to the June 1 net payment. Payment shall be
+8 accompanied by a return prescribed by the Secretary of Education. Each
+9 municipality may retain 0.225 of one percent of the total education tax
+10 collected, only upon timely remittance of net payment to the State Treasurer or
+11 to the applicable school district or districts. Each municipality may also retain
+12 $15.00 for each late property tax credit claim filed after April 15 and before
+13 September 2, as notified by the Department of Taxes, for the cost of issuing a
+14 new property tax bill.
+15 * * * Downtown and Village Center Tax Credit * * *
+16 Sec. 12. 32 V.S.A. § 5930ee is amended to read:
+17 § 5930ee. LIMITATIONS
+18 Beginning in fiscal year 2010 and thereafter, the State Board may award tax
+19 credits to all qualified applicants under this subchapter, provided that:
+VT LEG #379736 v.1
+BILL AS INTRODUCED H.135
+2025 Page 16 of 16
+1 (1) the total amount of tax credits awarded annually, together with sales
+2 tax reallocated under section 9819 of this title, does not exceed $3,000,000.00
+3 $5,000,000.00;
+4 * * *
+5 * * * Effective Dates * * *
+6 Sec. 13. EFFECTIVE DATES
+7 This act shall take effect on passage except:
+8 (1) notwithstanding 1 V.S.A. § 214, Secs. 1 and 2 (annual conformity to
+9 federal tax laws) shall take effect retroactively on January 1, 2025 and shall
+10 apply to taxable years beginning on and after January 1, 2024;
+11 (2) notwithstanding 1 V.S.A. § 214, Sec. 3 (personal income tax filings,
+12 credits, and exemptions) shall take effect retroactively on January 1, 2025 and
+13 shall apply to taxable years beginning on and after January 1, 2025;
+14 (3) Sec. 9 (pay for property valuation hearing officers) shall take effect
+15 on July 1, 2025; and
+16 (4) notwithstanding 1 V.S.A. § 214, Sec. 10 (flooding abatement
+17 reimbursement program) shall take effect retroactively on November 15, 2024.
+VT LEG #379736 v.1
+[DELETED:  H P H I R D S p S t t f p a t A a f I *]
+[DELETED:  H P S § T e r t a S § A * ( o c S t s G *]
+[DELETED:  H P S ( i s u f S § ( c e t i i t d i f t a]
+[DELETED:  H P i r * S § ( a w U o i e w w i o S m i i r]
+[DELETED:  H P i g t i s * S ( a * ( i * ( w c b * ( b s]
+[DELETED:  H P * S § ( S 5 ( h ( e t ( $ f e g ( f ( b]
+[DELETED:  H P ( ( ( g b s ( ( e t ( $ f e g ( f ( b ( (]
+[DELETED:  H P ( g b s ( r i l f ( h ( e t ( $ t S f ( f]
+[DELETED:  H P ( b ( ( R ( g t ( ( e t ( $ t S f ( f ( b]
+[DELETED:  H P ( ( R ( g t ( S p s i s * ( r ( R o ( e s]
+[DELETED:  H P s e o t e s f * S § A * ( d t m § d c d *]
+[DELETED:  H P ( m n o d * * S §   W D D D t o a i t w o]
+[DELETED:  H P a a A C r i * S R S     ( m u r m u o 3]
+[DELETED:  H P ( o t D t ( t ( p ( s ( f ( r J i e V r r]
+[DELETED:  H P * * S ( n p n a m c t $ S n * S § B c]
+[DELETED:  H P ( t $ * * S T ( f a ( c s ( o ( r]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.135
+2025 Page 1 of 16
+1 H.135
+2 Introduced by Representative Canfield of Fair Haven
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; income tax; income tax credits; tobacco products tax;
+6 property tax hearing officers; flood abatement
+7 Statement of purpose of bill as introduced: This bill proposes to make several
+8 technical and policy changes to Vermont tax laws, including the annual link up
+9 to federal income tax laws, requiring a joint income tax return when taxpayers
+10 file jointly at the federal level, changing some definitions used for the tobacco
+11 products tax, and increasing the pay for property tax hearing officers. The bill
+12 also extends reimbursement to municipalities of State education property taxes
+13 that were abated due to flooding.
+14 An act relating to administrative and policy changes to Vermont tax laws
+15 and extending reimbursement to municipalities for tax abatement due to
+16 flooding
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 * * * Personal Income Tax * * *
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 2 of 16
+1 Sec. 1. 32 V.S.A. § 5824 is amended to read:
+2 § 5824. ADOPTION OF FEDERAL INCOME TAX LAWS
+3 The statutes of the United States relating to the federal income tax, as in
+4 effect on December 31, 2023 2024, but without regard to federal income tax
+5 rates under 26 U.S.C. § 1, are hereby adopted for the purpose of computing the
+6 tax liability under this chapter and shall continue in effect as adopted until
+7 amended, repealed, or replaced by act of the General Assembly.
+8 Sec. 2. 32 V.S.A. § 7402 is amended to read:
+9 § 7402. DEFINITIONS
+10 As used in this chapter unless the context requires otherwise:
+11 * * *
+12 (8) “Laws of the United States” means the U.S. Internal Revenue Code
+13 of 1986, as amended through December 31, 2023 2024. As used in this
+14 chapter, “Internal Revenue Code” has the same meaning as “laws of the United
+15 States” as defined in this subdivision. The date through which amendments to
+16 the U.S. Internal Revenue Code of 1986 are adopted under this subdivision
+17 shall continue in effect until amended, repealed, or replaced by act of the
+18 General Assembly.
+19 * * *
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 3 of 16
+1 Sec. 3. 32 V.S.A. § 5861(c) is amended to read:
+2 (c) Spouses or a surviving spouse may shall file a joint Vermont personal
+3 income tax return for any taxable year for which the spouses file or the
+4 surviving spouse are permitted to file files a joint federal income tax return
+5 under the laws of the United States, unless the Commissioner allows a different
+6 filing status.
+7 Sec. 4. 32 V.S.A. § 5830f is amended to read:
+8 § 5830f. VERMONT CHILD TAX CREDIT
+9 (a) A resident individual or part-year resident individual who is entitled to a
+10 child tax credit under the laws of the United States or who would have been
+11 entitled to a child tax credit under the laws of the United States but for the fact
+12 that the individual or the individual’s spouse does not have a taxpayer
+13 identification number shall be entitled to a refundable credit against the tax
+14 imposed by section 5822 of this title for the taxable year. The total credit per
+15 taxable year shall be in the amount of $1,000.00 per qualifying child, as
+16 defined under 26 U.S.C. § 152(c) but notwithstanding the taxpayer
+17 identification number requirements under 26 U.S.C. § 24(e) and (h)(7), who is
+18 five six years of age or younger as of the close of the calendar year in which
+19 the taxable year of the taxpayer begins. For a part-year resident individual, the
+20 amount of the credit shall be multiplied by the percentage that the individual’s
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 4 of 16
+1 income that is earned or received during the period of the individual’s
+2 residency in this State bears to the individual’s total income.
+3 * * *
+4 Sec. 5. 32 V.S.A. § 5828b is amended to read:
+5 § 5828b. EARNED INCOME TAX CREDIT
+6 (a) A resident individual or part-year resident individual who is entitled to
+7 an earned income tax credit granted under the laws of the United States or who
+8 would have been entitled to an earned income tax credit under the laws of the
+9 United States but for the fact that the individual, the individual’s spouse, or one
+10 or more of the individual’s children does not have a qualifying taxpayer
+11 identification number shall be entitled to a credit against the tax imposed for
+12 each year by section 5822 of this title. The credit shall be for an individual
+13 who claims one or more qualifying children 38 percent or for an individual
+14 who does not claim one or more qualifying children 100 percent of the earned
+15 income tax credit granted to the individual under the laws of the United States
+16 or that would have been granted to the individual under the laws of the United
+17 States but for the fact that the individual, the individual’s spouse, or one or
+18 more of the individual’s children does not have a qualifying taxpayer
+19 identification number, multiplied by the percentage that the individual’s
+20 income that is earned or received during the period of the individual’s
+21 residency in this State bears to the individual’s total income. A resident
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 5 of 16
+1 individual or part-year resident individual who would have been entitled to or
+2 granted an earned income tax credit under the laws of the United States but for
+3 the fact that the individual, the individual’s spouse, or one or more of the
+4 individual’s children does not have a qualifying taxpayer identification number
+5 shall be entitled to a credit under this section.
+6 * * *
+7 Sec. 6. 32 V.S.A. § 5811(21) is amended to read:
+8 (21) “Taxable income” means, in the case of an individual, federal
+9 adjusted gross income determined without regard to 26 U.S.C. § 168(k) and:
+10 * * *
+11 (B) decreased by the following items of income (to the extent such
+12 income is included in federal adjusted gross income):
+13 * * *
+14 (v) the amount of any federal deduction or credit that the taxpayer
+15 would have been allowed for the cultivation, testing, processing, or sale of
+16 cannabis or cannabis products as authorized under 7 V.S.A. chapter 33 or 37,
+17 but for 26 U.S.C. § 280E; and
+18 * * *
+19 (vii) U.S. military retirement income and U.S. military survivor
+20 benefit income received by the surviving spouse or dependent of the deceased
+21 service member; and
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 6 of 16
+1 * * *
+2 Sec. 7. 32 V.S.A. § 5830e is amended to read:
+3 § 5830e. RETIREMENT INCOME; SOCIAL SECURITY INCOME
+4 (a) Social Security income. The portion of federally taxable Social
+5 Security benefits excluded from taxable income under subdivision
+6 5811(21)(B)(iv) of this chapter shall be as follows:
+7 (1) For taxpayers whose filing status is single, married filing separately,
+8 head of household, or surviving spouse:
+9 (A) If the federal adjusted gross income of the taxpayer is less than or
+10 equal to $50,000.00 $55,000.00, all federally taxable benefits received under
+11 the federal Social Security Act shall be excluded.
+12 (B) If the federal adjusted gross income of the taxpayer is greater than
+13 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+14 federally taxable benefits received under the Social Security Act to be
+15 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+16 gross income over $50,000.00 $55,000.00, determined by:
+17 (i) subtracting the federal adjusted gross income of the taxpayer
+18 from $60,000.00 $65,000.00;
+19 (ii) dividing the value under subdivision (i) of this subdivision (B)
+20 by $10,000.00; and
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 7 of 16
+1 (iii) multiplying the value under subdivision (ii) of this subdivision
+2 (B) by the federally taxable benefits received under the Social Security Act.
+3 (C) If the federal adjusted gross income of the taxpayer is equal to or
+4 greater than $60,000.00 $65,000.00, no amount of the federally taxable
+5 benefits received under the Social Security Act shall be excluded under this
+6 section.
+7 (2) For taxpayers whose filing status is married filing jointly:
+8 (A) If the federal adjusted gross income of the taxpayer is less than or
+9 equal to $65,000.00 $70,000.00, all federally taxable benefits received under
+10 the Social Security Act shall be excluded.
+11 (B) If the federal adjusted gross income of the taxpayer is greater than
+12 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+13 federally taxable benefits received under the Social Security Act to be
+14 excluded shall be proportional to the amount of the taxpayer’s federal adjusted
+15 gross income over $65,000.00 $70,000.00, determined by:
+16 (i) subtracting the federal adjusted gross income of the taxpayer
+17 from $75,000.00 $80,000.00;
+18 (ii) dividing the value under subdivision (i) of this subdivision (B)
+19 by $10,000.00; and
+20 (iii) multiplying the value under subdivision (ii) of this subdivision
+21 (B) by the federally taxable benefits received under the Social Security Act.
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 8 of 16
+1 (C) If the federal adjusted gross income of the taxpayer is equal to or
+2 greater than $75,000.00 $80,000.00, no amount of the federally taxable
+3 benefits received under the Social Security Act shall be excluded under this
+4 section.
+5 (b) Civil Service Retirement System income. The portion of income
+6 received from the Civil Service Retirement System excluded from taxable
+7 income under subdivision 5811(21)(B)(iv) of this title shall be subject to the
+8 limitations under subsection (e) of this section and shall be determined as
+9 follows:
+10 (1) For taxpayers whose filing status is single, married filing separately,
+11 head of household, or surviving spouse:
+12 (A) If the federal adjusted gross income of the taxpayer is less than or
+13 equal to $50,000.00 $55,000.00, the first $10,000.00 of income received from
+14 the Civil Service Retirement System shall be excluded.
+15 (B) If the federal adjusted gross income of the taxpayer is greater than
+16 $50,000.00 $55,000.00 but less than $60,000.00 $65,000.00, the percentage of
+17 the first $10,000.00 of income received from the Civil Service Retirement
+18 System to be excluded shall be proportional to the amount of the taxpayer’s
+19 federal adjusted gross income over $50,000.00 $55,000.00, determined by:
+20 (i) subtracting the federal adjusted gross income of the taxpayer
+21 from $60,000.00 $65,000.00;
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 9 of 16
+1 (ii) dividing the value under subdivision (i) of this subdivision (B)
+2 by $10,000.00; and
+3 (iii) multiplying the value under subdivision (ii) of this subdivision
+4 (B) by the first $10,000.00 of income received from the Civil Service
+5 Retirement System.
+6 (C) If the federal adjusted gross income of the taxpayer is equal to or
+7 greater than $60,000.00 $65,000.00, no amount of the income received from
+8 the Civil Service Retirement System shall be excluded under this section.
+9 (2) For taxpayers whose filing status is married filing jointly:
+10 (A) If the federal adjusted gross income of the taxpayer is less than or
+11 equal to $65,000.00 $70,000.00, the first $10,000.00 of income received from
+12 the Civil Service Retirement System shall be excluded.
+13 (B) If the federal adjusted gross income of the taxpayer is greater than
+14 $65,000.00 $70,000.00 but less than $75,000.00 $80,000.00, the percentage of
+15 the first $10,000.00 of income received from the Civil Service Retirement
+16 System to be excluded shall be proportional to the amount of the taxpayer’s
+17 federal adjusted gross income over $65,000.00 $70,000.00, determined by:
+18 (i) subtracting the federal adjusted gross income of the taxpayer
+19 from $75,000.00 $80,000.00;
+20 (ii) dividing the value under subdivision (i) of this subdivision (B)
+21 by $10,000.00; and
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 10 of 16
+1 (iii) multiplying the value under subdivision (ii) of this subdivision
+2 (B) by the first $10,000.00 of income received from the Civil Service
+3 Retirement System.
+4 (C) If the federal adjusted gross income of the taxpayer is equal to or
+5 greater than $75,000.00 $80,000.00, no amount of the income received from
+6 the Civil Service Retirement System shall be excluded under this section.
+7 (c) Other contributory retirement systems; earnings not covered by Social
+8 Security. Other retirement income, except U.S. military retirement income
+9 pursuant to subsection (d) of this section, received by a taxpayer of this State
+10 shall be excluded pursuant to subsection (b) of this section as though the
+11 income were received from the Civil Service Retirement System and shall be
+12 subject to the limitations under subsection (e)(d) of this section, provided that:
+13 * * *
+14 (d) U.S. military retirement income. U.S. military retirement income
+15 received by a taxpayer of this State shall be excluded pursuant to subsection
+16 (b) of this section as though the income were received from the Civil Service
+17 Retirement System and shall be subject to the limitations under subsection (e)
+18 of this section.
+19 (e) Requirement to elect one exclusion. A taxpayer of this State who is
+20 eligible during the taxable year for the Social Security income exclusion under
+21 subsection (a) of this section and any one or both of the exclusions under
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 11 of 16
+1 subsections (b)–(d) and (c) of this section shall elect either one of the
+2 exclusions for which the taxpayer is eligible under subsections (b)–(d) and (c)
+3 of this section or the Social Security income exclusion under subsection (a) of
+4 this section, but not both, for the taxable year. A taxpayer of this State who is
+5 eligible during the taxable year for more than one of the both exclusions under
+6 subsections (b)–(d) and (c) of this section shall elect only one of the exclusions
+7 for which the taxpayer is eligible for the taxable year.
+8 * * * Tobacco Products Tax * * *
+9 Sec. 8. 32 V.S.A. § 7702 is amended to read:
+10 § 7702. DEFINITIONS
+11 As used in this chapter unless the context otherwise requires:
+12 * * *
+13 (15) “Other tobacco products” means any product manufactured from,
+14 derived from, or containing tobacco or nicotine, whether natural or synthetic,
+15 that is intended for human consumption by smoking, chewing, or in any other
+16 manner, including products sold as a tobacco substitute, as defined in 7 V.S.A.
+17 § 1001(8), and including any liquids, whether nicotine based or not, or delivery
+18 devices sold separately for use with a tobacco substitute, but shall not include
+19 cigarettes, little cigars, roll-your-own tobacco, snuff, new smokeless tobacco as
+20 defined in this section, or cannabis products as defined in 7 V.S.A. § 831.
+21 * * *
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 12 of 16
+1 (20) “New smokeless tobacco” means any tobacco product
+2 manufactured from, derived from, or containing tobacco or nicotine, whether
+3 natural or synthetic, that is not intended to be smoked, has a moisture content
+4 of less than 45 percent, or is offered in individual single-dose tablets or other
+5 discrete single-use units.
+6 * * *
+7 * * * Pay for Property Valuation Hearing Officers * * *
+8 Sec. 9. 32 V.S.A. § 4465 is amended to read:
+9 § 4465. APPOINTMENT OF PROPERTY VALUATION HEARING
+10 OFFICER; OATH; PAY
+11 When an appeal to the Director is not withdrawn or forwarded by the
+12 Director to Superior Court pursuant to subsection 4461(a) of this title, the
+13 Director shall refer the appeal in writing to a person not employed by the
+14 Director, appointed by the Director as hearing officer. The Director shall have
+15 the right to remove a hearing officer for inefficiency, malfeasance in office, or
+16 other cause. In like manner, the Director shall appoint a hearing officer to fill
+17 any vacancy created by resignation, removal, or other cause. Before entering
+18 into their duties, persons appointed as hearing officers shall take and subscribe
+19 the oath of the office prescribed in the Constitution, which oath shall be filed
+20 with the Director. The Director Commissioner of Taxes shall pay each hearing
+21 officer a sum not to exceed $150.00 per diem for each day wherein hearings
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 13 of 16
+1 are held $38.00 per hour plus a cost-of-living adjustment in an amount equal to
+2 any adjustment approved for exempt employees by the Secretary of
+3 Administration, together with reasonable expenses as the Director
+4 Commissioner may determine. A hearing officer may subpoena witnesses,
+5 records, and documents in the manner provided by law for serving subpoenas
+6 in civil actions and may administer oaths to witnesses.
+7 * * * Flooding Abatement Program * * *
+8 Sec. 10. 2024 Acts and Resolves No. 82, Sec. 1, as amended by 2024 Acts and
+9 Resolves No. 108, Sec. 3, is further amended to read:
+10 Sec. 1. REIMBURSEMENT TO MUNICIPALITIES OF STATE
+11 EDUCATION PROPERTY TAXES THAT WERE ABATED DUE
+12 TO FLOODING
+13 (a)(1) The Commissioner of Taxes may approve an application by a
+14 municipality for reimbursement of State education property tax payments owed
+15 under 32 V.S.A. § 5402(c) and 16 V.S.A. § 426. To be eligible for
+16 reimbursement under this section, prior to November 15, 2024 2025, a
+17 municipality must have abated, in proportion to the abated municipal tax,
+18 under 24 V.S.A. § 1535 the State education property taxes that were assessed
+19 on eligible property, after application of any property tax credit allowed under
+20 32 V.S.A. chapter 154.
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 14 of 16
+1 (2) As used in this subsection, “eligible property” means property lost
+2 or destroyed due directly or indirectly to severe storms and flooding in an area
+3 that was declared a federal disaster between July 1, 2023 and October 15, 2023
+4 December 31, 2024, provided the loss or destruction resulted in one or more of
+5 the following:
+6 (A) a 50 percent or greater loss in value to the primary structure on
+7 the property;
+8 (B) loss of use by the property owner of the primary structure on the
+9 property for 60 days or more;
+10 (C) loss of access by the property owner to utilities for the primary
+11 structure on the property for 60 days or more; or
+12 (D) condemnation of the primary structure on the property under
+13 federal, State, or municipal law, as applicable.
+14 (b) If a municipality demonstrates that, due to disruption to tax collections
+15 resulting from flooding in an area that was declared a federal disaster between
+16 July 1, 2023 and October 15, 2023 December 31, 2024, the municipality
+17 incurred unanticipated interest expenses on funds borrowed to make State
+18 education property tax payments owed under 32 V.S.A. § 5402(c) and 16
+19 V.S.A. § 426, the municipality may be reimbursed by an amount equal to its
+20 reasonable interest expenses under this subsection, provided the amount of
+21 reimbursed interest expenses shall not exceed eight percent.
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 15 of 16
+1 * * *
+2 * * * Property Tax Credit Late Fee * * *
+3 Sec. 11. 32 V.S.A. § 5402(c)(2) is amended to read:
+4 (2) The Secretary of Education shall determine each municipality’s net
+5 nonhomestead education tax payment and its net homestead education tax
+6 payment to the State based on grand list information received by the Secretary
+7 not later than the March 15 prior to the June 1 net payment. Payment shall be
+8 accompanied by a return prescribed by the Secretary of Education. Each
+9 municipality may retain 0.225 of one percent of the total education tax
+10 collected, only upon timely remittance of net payment to the State Treasurer or
+11 to the applicable school district or districts. Each municipality may also retain
+12 $15.00 for each late property tax credit claim filed after April 15 and before
+13 September 2, as notified by the Department of Taxes, for the cost of issuing a
+14 new property tax bill.
+15 * * * Downtown and Village Center Tax Credit * * *
+16 Sec. 12. 32 V.S.A. § 5930ee is amended to read:
+17 § 5930ee. LIMITATIONS
+18 Beginning in fiscal year 2010 and thereafter, the State Board may award tax
+19 credits to all qualified applicants under this subchapter, provided that:
+VT LEG #379736 v.1
+
+BILL AS INTRODUCED H.135
+2025 Page 16 of 16
+1 (1) the total amount of tax credits awarded annually, together with sales
+2 tax reallocated under section 9819 of this title, does not exceed $3,000,000.00
+3 $5,000,000.00;
+4 * * *
+5 * * * Effective Dates * * *
+6 Sec. 13. EFFECTIVE DATES
+7 This act shall take effect on passage except:
+8 (1) notwithstanding 1 V.S.A. § 214, Secs. 1 and 2 (annual conformity to
+9 federal tax laws) shall take effect retroactively on January 1, 2025 and shall
+10 apply to taxable years beginning on and after January 1, 2024;
+11 (2) notwithstanding 1 V.S.A. § 214, Sec. 3 (personal income tax filings,
+12 credits, and exemptions) shall take effect retroactively on January 1, 2025 and
+13 shall apply to taxable years beginning on and after January 1, 2025;
+14 (3) Sec. 9 (pay for property valuation hearing officers) shall take effect
+15 on July 1, 2025; and
+16 (4) notwithstanding 1 V.S.A. § 214, Sec. 10 (flooding abatement
+17 reimbursement program) shall take effect retroactively on November 15, 2024.
+VT LEG #379736 v.1
+
+[DELETED:  H P H I R D S p S t t f p a t A a f I *]
+[DELETED:  H P S § T e r t a S § A * ( o c S t s G *]
+[DELETED:  H P S ( i s u f S § ( c e t i i t d i f t a]
+[DELETED:  H P i r * S § ( a w U o i e w w i o S m i i r]
+[DELETED:  H P i g t i s * S ( a * ( i * ( w c b * ( b s]
+[DELETED:  H P * S § ( S 5 ( h ( e t ( $ f e g ( f ( b]
+[DELETED:  H P ( ( ( g b s ( ( e t ( $ f e g ( f ( b ( (]
+[DELETED:  H P ( g b s ( r i l f ( h ( e t ( $ t S f ( f]
+[DELETED:  H P ( b ( ( R ( g t ( ( e t ( $ t S f ( f ( b]
+[DELETED:  H P ( ( R ( g t ( S p s i s * ( r ( R o ( e s]
+[DELETED:  H P s e o t e s f * S § A * ( d t m § d c d *]
+[DELETED:  H P ( m n o d * * S §   W D D D t o a i t w o]
+[DELETED:  H P a a A C r i * S R S     ( m u r m u o 3]
+[DELETED:  H P ( o t D t ( t ( p ( s ( f ( r J i e V r r]
+[DELETED:  H P * * S ( n p n a m c t $ S n * S § B c]
+[DELETED:  H P ( t $ * * S T ( f a ( c s ( o ( r]

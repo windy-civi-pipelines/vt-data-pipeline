@@ -1,0 +1,206 @@
+Title: BILL AS INTRODUCED H.372
+Official Title: BILL AS INTRODUCED H.372
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.372
+2 Introduced by Representative O’Brien of Tunbridge
+3 Referred to Committee on
+4 Date:
+5 Subject: Agriculture
+6 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+7 application of neonicotinoid pesticides to nursery starts or potted plants.
+8 An act relating to application of neonicotinoid pesticides to nursery starts
+9 and herbaceous plants
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 6 V.S.A. § 1101 is amended to read:
+12 § 1101. DEFINITIONS
+13 As used in this chapter unless the context clearly requires otherwise:
+14 (1) “Secretary” has the same meaning stated in subdivision 911(4) of
+15 this title.
+16 * * *
+17 (4) “Economic poison” has the same meaning stated in subdivision
+18 911(5) of this title.
+19 * * *
+VT LEG #379830 v.1
+BILL AS INTRODUCED H.372
+2025 Page 2 of 4
+1 (6) “Pesticide” for the purposes of this chapter is used interchangeably
+2 with “economic poison.”
+3 * * *
+4 (8) “Neonicotinoid pesticide” means any economic poison containing a
+5 chemical belonging to the neonicotinoid class of chemicals.
+6 * * *
+7 (15) “Ornamental plants” mean perennials, annuals, and groundcover
+8 purposefully planted for aesthetic reasons.
+9 (16) “Nursery starts” are young plants that have been grown in a nursery
+10 and are ready to be transplanted. “Nursery starts” may be known as seedlings
+11 or starter plants.
+12 (17) “Potted plant” means any herbaceous, horticultural, or ornamental
+13 plant sold in a container that is less than a gallon in size and that is not a
+14 nursery start.
+15 Sec. 2. 6 V.S.A. § 1105c is amended to read:
+16 § 1105c. NEONICOTINOID PESTICIDES; PROHIBITED USES
+17 (a) The following uses of neonicotinoid pesticides are prohibited:
+18 (1) the outdoor application of neonicotinoid pesticides to any crop
+19 during bloom;
+VT LEG #379830 v.1
+BILL AS INTRODUCED H.372
+2025 Page 3 of 4
+1 (2) the outdoor application of neonicotinoid pesticides to soybeans or
+2 any crop in the cereal grains crop group (crop groups 15, 15-22, 16, and 16-
+3 22);
+4 (3) the outdoor application of neonicotinoid pesticides to crops in the
+5 leafy vegetables; brassica; bulb vegetables; herbs and spices; and stalk, stem,
+6 and leaf petiole vegetables crop groups (crop groups 3, 3-07, 4, 4-16, 5, 5-16,
+7 19, 22, 25, and 26) harvested after bloom; and
+8 (4) the application of neonicotinoid pesticides to ornamental plants; and
+9 (5) the application of neonicotinoid pesticides to nursery starts or potted
+10 plants.
+11 (b) The Secretary of Agriculture, Food and Markets, after consultation with
+12 the Secretary of Natural Resources, may issue a written exemption order to
+13 suspend the provisions of subsection (a) of this section if the Secretary
+14 determines that:
+15 (1) a valid environmental emergency or agricultural emergency exists;
+16 (2) the pesticide would be effective in addressing the environmental
+17 emergency or the agricultural emergency; and
+18 (3) no other, less harmful pesticide or pest management practice would
+19 be effective in addressing the environmental emergency or the agricultural
+20 emergency.
+VT LEG #379830 v.1
+BILL AS INTRODUCED H.372
+2025 Page 4 of 4
+1 (c) A written exemption order issued under subsection (b) of this section
+2 shall:
+3 (1) not be valid for more than one year;
+4 (2) specify the neonicotinoid pesticides, uses, and crops, or plants to
+5 which the exemption order applies; the date on which the exemption order
+6 takes effect; the exemption order’s duration; and the exemption order’s
+7 geographic scope, which may include specific farms, fields, or properties; and
+8 (3) provide a detailed evaluation determining that an agricultural
+9 emergency or an environmental emergency exists.
+10 (d) A written exemption order issued under subsection (b) of this section
+11 may:
+12 (1) establish restrictions related to the use of neonicotinoid pesticides to
+13 which the exemption order applies to minimize harm to pollinator populations,
+14 bird populations, ecosystem health, and public health; or
+15 (2) establish other restrictions related to the use of neonicotinoid
+16 pesticides to which the exemption order applies that the Secretary of
+17 Agriculture, Food and Markets considers necessary.
+18 * * *
+19 Sec. 3. EFFECTIVE DATE
+20 This act shall take effect on July 1, 2025.
+VT LEG #379830 v.1
+[DELETED:  H P H I R R D S S a A a I S § A ( t * ( 9 *]
+[DELETED:  H P ( w * ( c * ( p ( a o ( p n S § ( ( d]
+[DELETED:  H P ( a 2 ( l a 1 ( ( p ( t s d ( ( e ( b e]
+[DELETED:  H P ( s ( ( w t g ( e ( m ( w b ( p A * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.372
+2025 Page 1 of 4
+1 H.372
+2 Introduced by Representative O’Brien of Tunbridge
+3 Referred to Committee on
+4 Date:
+5 Subject: Agriculture
+6 Statement of purpose of bill as introduced: This bill proposes to prohibit the
+7 application of neonicotinoid pesticides to nursery starts or potted plants.
+8 An act relating to application of neonicotinoid pesticides to nursery starts
+9 and herbaceous plants
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 6 V.S.A. § 1101 is amended to read:
+12 § 1101. DEFINITIONS
+13 As used in this chapter unless the context clearly requires otherwise:
+14 (1) “Secretary” has the same meaning stated in subdivision 911(4) of
+15 this title.
+16 * * *
+17 (4) “Economic poison” has the same meaning stated in subdivision
+18 911(5) of this title.
+19 * * *
+VT LEG #379830 v.1
+
+BILL AS INTRODUCED H.372
+2025 Page 2 of 4
+1 (6) “Pesticide” for the purposes of this chapter is used interchangeably
+2 with “economic poison.”
+3 * * *
+4 (8) “Neonicotinoid pesticide” means any economic poison containing a
+5 chemical belonging to the neonicotinoid class of chemicals.
+6 * * *
+7 (15) “Ornamental plants” mean perennials, annuals, and groundcover
+8 purposefully planted for aesthetic reasons.
+9 (16) “Nursery starts” are young plants that have been grown in a nursery
+10 and are ready to be transplanted. “Nursery starts” may be known as seedlings
+11 or starter plants.
+12 (17) “Potted plant” means any herbaceous, horticultural, or ornamental
+13 plant sold in a container that is less than a gallon in size and that is not a
+14 nursery start.
+15 Sec. 2. 6 V.S.A. § 1105c is amended to read:
+16 § 1105c. NEONICOTINOID PESTICIDES; PROHIBITED USES
+17 (a) The following uses of neonicotinoid pesticides are prohibited:
+18 (1) the outdoor application of neonicotinoid pesticides to any crop
+19 during bloom;
+VT LEG #379830 v.1
+
+BILL AS INTRODUCED H.372
+2025 Page 3 of 4
+1 (2) the outdoor application of neonicotinoid pesticides to soybeans or
+2 any crop in the cereal grains crop group (crop groups 15, 15-22, 16, and 16-
+3 22);
+4 (3) the outdoor application of neonicotinoid pesticides to crops in the
+5 leafy vegetables; brassica; bulb vegetables; herbs and spices; and stalk, stem,
+6 and leaf petiole vegetables crop groups (crop groups 3, 3-07, 4, 4-16, 5, 5-16,
+7 19, 22, 25, and 26) harvested after bloom; and
+8 (4) the application of neonicotinoid pesticides to ornamental plants; and
+9 (5) the application of neonicotinoid pesticides to nursery starts or potted
+10 plants.
+11 (b) The Secretary of Agriculture, Food and Markets, after consultation with
+12 the Secretary of Natural Resources, may issue a written exemption order to
+13 suspend the provisions of subsection (a) of this section if the Secretary
+14 determines that:
+15 (1) a valid environmental emergency or agricultural emergency exists;
+16 (2) the pesticide would be effective in addressing the environmental
+17 emergency or the agricultural emergency; and
+18 (3) no other, less harmful pesticide or pest management practice would
+19 be effective in addressing the environmental emergency or the agricultural
+20 emergency.
+VT LEG #379830 v.1
+
+BILL AS INTRODUCED H.372
+2025 Page 4 of 4
+1 (c) A written exemption order issued under subsection (b) of this section
+2 shall:
+3 (1) not be valid for more than one year;
+4 (2) specify the neonicotinoid pesticides, uses, and crops, or plants to
+5 which the exemption order applies; the date on which the exemption order
+6 takes effect; the exemption order’s duration; and the exemption order’s
+7 geographic scope, which may include specific farms, fields, or properties; and
+8 (3) provide a detailed evaluation determining that an agricultural
+9 emergency or an environmental emergency exists.
+10 (d) A written exemption order issued under subsection (b) of this section
+11 may:
+12 (1) establish restrictions related to the use of neonicotinoid pesticides to
+13 which the exemption order applies to minimize harm to pollinator populations,
+14 bird populations, ecosystem health, and public health; or
+15 (2) establish other restrictions related to the use of neonicotinoid
+16 pesticides to which the exemption order applies that the Secretary of
+17 Agriculture, Food and Markets considers necessary.
+18 * * *
+19 Sec. 3. EFFECTIVE DATE
+20 This act shall take effect on July 1, 2025.
+VT LEG #379830 v.1
+
+[DELETED:  H P H I R R D S S a A a I S § A ( t * ( 9 *]
+[DELETED:  H P ( w * ( c * ( p ( a o ( p n S § ( ( d]
+[DELETED:  H P ( a 2 ( l a 1 ( ( p ( t s d ( ( e ( b e]
+[DELETED:  H P ( s ( ( w t g ( e ( m ( w b ( p A * S T]

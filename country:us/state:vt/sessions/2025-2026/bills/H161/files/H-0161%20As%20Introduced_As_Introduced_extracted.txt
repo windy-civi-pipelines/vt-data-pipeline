@@ -1,0 +1,518 @@
+Title: BILL AS INTRODUCED H.161
+Official Title: BILL AS INTRODUCED H.161
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 10
+1 H.161
+2 Introduced by Representatives Donahue of Northfield, Priestley of Bradford,
+3 Marcotte of Coventry, and Tomlinson of Winooski
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; consumer protection; right to repair
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 original equipment manufacturers of certain agricultural, electronic, and
+9 forestry equipment to make available the parts, tools, and documentation
+10 necessary to repair such equipment to independent repair providers and owners
+11 of the equipment.
+12 An act relating to the Vermont Fair Repair Act
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. PURPOSE
+15 The purpose of this act is to ensure equitable access to the parts, tools, and
+16 documentation that are necessary for independent repair providers and owners
+17 to perform timely repair of agricultural, electronic, and forestry equipment in a
+18 safe, secure, reliable, and sustainable manner.
+19 Sec. 2. SHORT TITLE
+20 This act may be cited as the Fair Repair Act.
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 2 of 10
+1 Sec. 3. 9 V.S.A. chapter 106 is added to read:
+2 CHAPTER 106. VERMONT FAIR REPAIR ACT
+3 § 4051. DEFINITIONS
+4 As used in this chapter:
+5 (1) “Agricultural equipment” means a device, part of a device, or an
+6 attachment to a device used principally off road and designed principally for an
+7 agricultural purpose, including a tractor, trailer, or combine; implements for
+8 tillage, planting, or cultivation; and other equipment principally associated
+9 with livestock or crop production, horticulture, or floriculture.
+10 (2)(A) “Authorized repair provider” means an individual or business
+11 that has an arrangement with the original equipment manufacturer under which
+12 the original equipment manufacturer grants to the individual or business a
+13 license to use a trade name, service mark, or other proprietary identifier for the
+14 purposes of offering the services of diagnosis, maintenance, or complete repair
+15 of equipment under the name of the original equipment manufacturer or other
+16 arrangement with the original equipment manufacturer to offer such services
+17 on behalf of the original equipment manufacturer.
+18 (B) An original equipment manufacturer that offers the services of
+19 diagnosis, maintenance, or repair of its own equipment shall be considered an
+20 authorized repair provider with respect to such equipment.
+21 (3) “Documentation” means any manual, diagram, reporting output,
+22 service code description, schematic diagram, security code, password, or other
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 3 of 10
+1 guidance or information, whether in an electronic or tangible format, used to
+2 perform the services of diagnosis, maintenance, or repair of agricultural,
+3 electronic, or forestry equipment.
+4 (4) “Embedded software” means any programmable software
+5 instructions delivered with, or loaded onto, equipment or a part of equipment
+6 to allow the equipment or part to operate or communicate with other computer
+7 hardware. Embedded software includes all relevant patches and fixes that the
+8 manufacturer makes for the purposes of diagnosis, maintenance, or repair of
+9 equipment.
+10 (5) “Electronic equipment” means digital electronic equipment or a part
+11 for such equipment originally manufactured for distribution and sale in the
+12 United States.
+13 (6) “Forestry equipment” means nondivisible equipment, implements,
+14 accessories, and contrivances used principally off road and in harvesting
+15 timber or for on-site processing of wood forest products, including equipment
+16 used to construct, maintain, or install infrastructure necessary to and associated
+17 with a logging operation.
+18 (7) “Independent repair provider” means a person operating in this State,
+19 either through a physical business location or through a mobile service that
+20 offers on-site repairs in the State, that does not have an arrangement described
+21 in subdivision (2) of this section with an original equipment manufacturer and
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 4 of 10
+1 that is engaged in the services of diagnosis, maintenance, or repair of
+2 agricultural, electronic, or forestry equipment.
+3 (8) “Medical device” means an instrument, apparatus, implement,
+4 machine, contrivance, implant, or other similar or related article, including a
+5 component part or accessory, as defined in the federal Food, Drug, and
+6 Cosmetic Act, 21 U.S.C. § 321, as amended, that is intended for use in the
+7 diagnosis of disease or other conditions or in the cure, mitigation, treatment, or
+8 prevention of disease in humans or other animals.
+9 (9) “Motor vehicle” means any vehicle that is designed for transporting
+10 persons or property on a street or highway and is certified by the motor vehicle
+11 manufacturer under all applicable federal safety and emissions standards and
+12 requirements for distribution and sale in the United States. The term does not
+13 include a motorcycle or a recreational vehicle or manufactured home equipped
+14 for habitation.
+15 (10) “Motor vehicle dealer” means a person who, in the ordinary course
+16 of business, is engaged in the business of selling or leasing new motor vehicles
+17 to a person pursuant to a franchise agreement and who is engaged in the
+18 diagnosis, service, maintenance, or repair of motor vehicles or motor vehicle
+19 engines pursuant to such franchise agreement.
+20 (11) “Motor vehicle manufacturer” means a person engaged in the
+21 business of manufacturing or assembling new motor vehicles.
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 5 of 10
+1 (12) “Original equipment manufacturer” means a person who, in the
+2 ordinary course of business, is engaged in the business of selling or leasing
+3 new agricultural, electronic, or forestry equipment manufactured by or on
+4 behalf of the person.
+5 (13) “Owner” means a person who owns or leases agricultural,
+6 electronic, or forestry equipment used in this State;
+7 (14) “Part” means any replacement part, either new or used, made
+8 available by an original equipment manufacturer for purposes of effecting the
+9 services of maintenance or repair of agricultural, electronic, or forestry
+10 equipment manufactured by or on behalf of, sold or otherwise supplied by, the
+11 original equipment manufacturer.
+12 (15) “Parts pairing” means the practice by original equipment
+13 manufacturers of using software to identify component parts through a unique
+14 identifier.
+15 (16) “Repair” means to maintain, diagnose, or fix agricultural,
+16 electronic, or forestry equipment, resulting in the equipment being restored to
+17 its fully functional condition, including any updates. “Repair” does not include
+18 the ability to download or access the source code of any embedded software or
+19 code, unless doing so is required to restore the equipment to its fully functional
+20 condition, including any updates.
+21 (17) “Tools” means any software program, hardware implement, or
+22 other apparatus used for diagnosis, maintenance, or repair of agricultural,
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 6 of 10
+1 electronic, or forestry equipment, including software or other mechanisms that
+2 provision, program, or require parts pairing; calibrate functionality; or perform
+3 any other function required to bring the product back to fully functional
+4 condition, including any updates.
+5 (18) “Trade secret” has the same meaning as provided in 18 U.S.C.
+6 § 1839.
+7 § 4052. REQUIREMENTS
+8 (a) Duty to make available parts, tools, and documentation.
+9 (1) An original equipment manufacturer shall offer for sale or otherwise
+10 make available to an independent repair provider or owner the parts, tools, and
+11 documentation that the original equipment manufacturer offers for sale or
+12 otherwise makes available to an authorized repair provider.
+13 (2) If agricultural, electronic, or forestry equipment includes an
+14 electronic security lock or other security-related function that must be
+15 unlocked, enabled, or disabled to perform diagnosis, maintenance, or repair of
+16 the equipment, an original equipment manufacturer shall make available to an
+17 independent repair provider or owner any parts, tools, and documentation
+18 necessary to unlock or disable the function and to reset the lock or function
+19 after the diagnosis, maintenance, or repair is complete.
+20 (3) An original equipment manufacturer may satisfy its obligation to
+21 make parts, tools, and documentation available to an independent repair
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 7 of 10
+1 provider or owner through an authorized repair provider that consents to sell or
+2 make available parts, tools, or documentation on behalf of the manufacturer.
+3 (b) Unreasonable costs or burdens prohibited. Under the terms governing
+4 the sale or provision of parts, tools, and documentation pursuant to subsection
+5 (a) of this section, an original equipment manufacturer shall not impose on an
+6 independent repair provider or owner an additional cost or burden that is not
+7 reasonably necessary within the ordinary course of business or is designed to
+8 be an impediment on the independent repair provider or owner, including:
+9 (1) a substantial obligation to use, or a restriction on the use of, the
+10 parts, tools, or documentation necessary to diagnose, maintain, or repair
+11 agricultural, electronic, or forestry equipment;
+12 (2) a condition that the independent repair provider or owner become an
+13 authorized repair provider of the original equipment manufacturer;
+14 (3) a requirement that a part, tool, or documentation be registered,
+15 paired with, or approved by the original equipment manufacturer or an
+16 authorized repair provider before the part, tool, or documentation is
+17 operational; or
+18 (4) an additional burden or material change that adversely affects the
+19 timeliness or method of delivering parts, tools, or documentation.
+20 § 4053. APPLICATION; LIMITATIONS
+21 (a) This chapter does not:
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 8 of 10
+1 (1) require an original equipment manufacturer to divulge a trade secret
+2 to an independent repair provider or owner; or
+3 (2) alter the terms of:
+4 (A) any arrangement described in subdivision 4051(2)(A) of this title
+5 in force between an authorized repair provider and an original equipment
+6 manufacturer, including the performance or provision of warranty or recall
+7 repair work by an authorized repair provider on behalf of an original
+8 equipment manufacturer pursuant to such arrangement, except that any
+9 provision governing such an arrangement that purports to waive, avoid,
+10 restrict, or limit the original equipment manufacturer’s obligations to comply
+11 with this chapter is void and unenforceable; or
+12 (B) a lease of agricultural, electronic, or forestry equipment between
+13 an owner and another person.
+14 (b) An independent repair provider or owner shall not:
+15 (1) modify agricultural or forestry equipment to temporarily deactivate
+16 safety notification systems, except as necessary to provide diagnosis,
+17 maintenance, or repair services; or
+18 (2) obtain or use parts, tools, or documentation to evade or violate
+19 emissions, copyright, trademark, or patent laws or to engage in any other
+20 illegal activity.
+21 (c)(1) Subject to subdivision (2) of this subsection, original equipment
+22 manufacturers and authorized repair providers are not liable for negligent
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 9 of 10
+1 repairs completed by independent repair providers or owners, including
+2 negligent repairs that cause:
+3 (A) damage to agricultural, electronic, or forestry equipment that
+4 occurs during such repairs; and
+5 (B) an inability to use, or the reduced functionality of, agricultural,
+6 electronic, or forestry equipment resulting from the negligent repair.
+7 (2) A repair completed by an independent repair provider or owner
+8 resulting in damage to equipment or the reduced functionality of equipment as
+9 set forth in subdivision (1) of this subsection that was caused by a defective or
+10 faulty part, tool, or documentation provided by the original equipment
+11 manufacturer shall not be considered a negligent repair.
+12 (d) In the event that federal law preempts part of the activity regulated by
+13 this chapter, this chapter shall be construed to regulate activity that has not
+14 been preempted.
+15 (e) If an original equipment manufacturer is a party to a memorandum of
+16 understanding that is related to the right to repair of agricultural, electronic, or
+17 forestry equipment, the original equipment manufacturer shall still be obligated
+18 to meet the requirements established in this chapter
+19 § 4054. EXCLUSIONS
+20 (a) This chapter shall not apply to a motor vehicle manufacturer, a product
+21 or service of a motor vehicle manufacturer, or a motor vehicle dealer.
+VT LEG #379480 v.1
+BILL AS INTRODUCED H.161
+2025 Page 10 of 10
+1 (b) This chapter shall not require a manufacturer of a medical device to
+2 implement a provision of this chapter that is not permitted under the federal
+3 Food, Drug, and Cosmetic Act or any other federal law that supersedes this
+4 section.
+5 § 4055. ATTORNEY GENERAL ENFORCEMENT; NOTICE
+6 (a) A person who violates a provision of this chapter commits an unfair and
+7 deceptive act in trade and commerce in violation of section 2453 of this title.
+8 (b) The Attorney General has the same authority to make rules, conduct
+9 civil investigations, enter into assurances of discontinuance, and bring civil
+10 actions as provided under chapter 63, subchapter 1 of this title.
+11 (c) The Attorney General shall be notified in writing by the original
+12 equipment manufacturer not later than 30 days after a memorandum of
+13 understanding expires or has been terminated, withdrawn, or canceled by an
+14 original equipment manufacturer subject to this chapter.
+15 Sec. 4. EFFECTIVE DATE
+16 This act shall take effect on January 1, 2026.
+VT LEG #379480 v.1
+[DELETED:  H P H I R M R D S S o f n o A I S  T d t s S T]
+[DELETED:  H P S C § A ( a a t w ( t t l p o a o ( d a ( s]
+[DELETED:  H P g p e ( i t h m e ( f U ( a t u w ( e o i]
+[DELETED:  H P t a ( m c C d p ( p m r i f ( o t d e ( b]
+[DELETED:  H P ( o n b ( e ( a s e o ( m i ( e i t c c ( o]
+[DELETED:  H P e p a c ( § § ( ( m d o ( e u t i n a ( m]
+[DELETED:  H P p m ( t ( i r b ( p a ( a ( p a o ( t § (]
+[DELETED:  H P ( t ( ( i m r e p r w ( a ( ( s m ( e i ( m]
+[DELETED:  H P r n ( o ( e ( r s f m ( t b ( u f t § ( o]
+[DELETED:  H P ( i F s § ( d ( c a ( e u o S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.161
+2025 Page 1 of 10
+1 H.161
+2 Introduced by Representatives Donahue of Northfield, Priestley of Bradford,
+3 Marcotte of Coventry, and Tomlinson of Winooski
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; consumer protection; right to repair
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 original equipment manufacturers of certain agricultural, electronic, and
+9 forestry equipment to make available the parts, tools, and documentation
+10 necessary to repair such equipment to independent repair providers and owners
+11 of the equipment.
+12 An act relating to the Vermont Fair Repair Act
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. PURPOSE
+15 The purpose of this act is to ensure equitable access to the parts, tools, and
+16 documentation that are necessary for independent repair providers and owners
+17 to perform timely repair of agricultural, electronic, and forestry equipment in a
+18 safe, secure, reliable, and sustainable manner.
+19 Sec. 2. SHORT TITLE
+20 This act may be cited as the Fair Repair Act.
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 2 of 10
+1 Sec. 3. 9 V.S.A. chapter 106 is added to read:
+2 CHAPTER 106. VERMONT FAIR REPAIR ACT
+3 § 4051. DEFINITIONS
+4 As used in this chapter:
+5 (1) “Agricultural equipment” means a device, part of a device, or an
+6 attachment to a device used principally off road and designed principally for an
+7 agricultural purpose, including a tractor, trailer, or combine; implements for
+8 tillage, planting, or cultivation; and other equipment principally associated
+9 with livestock or crop production, horticulture, or floriculture.
+10 (2)(A) “Authorized repair provider” means an individual or business
+11 that has an arrangement with the original equipment manufacturer under which
+12 the original equipment manufacturer grants to the individual or business a
+13 license to use a trade name, service mark, or other proprietary identifier for the
+14 purposes of offering the services of diagnosis, maintenance, or complete repair
+15 of equipment under the name of the original equipment manufacturer or other
+16 arrangement with the original equipment manufacturer to offer such services
+17 on behalf of the original equipment manufacturer.
+18 (B) An original equipment manufacturer that offers the services of
+19 diagnosis, maintenance, or repair of its own equipment shall be considered an
+20 authorized repair provider with respect to such equipment.
+21 (3) “Documentation” means any manual, diagram, reporting output,
+22 service code description, schematic diagram, security code, password, or other
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 3 of 10
+1 guidance or information, whether in an electronic or tangible format, used to
+2 perform the services of diagnosis, maintenance, or repair of agricultural,
+3 electronic, or forestry equipment.
+4 (4) “Embedded software” means any programmable software
+5 instructions delivered with, or loaded onto, equipment or a part of equipment
+6 to allow the equipment or part to operate or communicate with other computer
+7 hardware. Embedded software includes all relevant patches and fixes that the
+8 manufacturer makes for the purposes of diagnosis, maintenance, or repair of
+9 equipment.
+10 (5) “Electronic equipment” means digital electronic equipment or a part
+11 for such equipment originally manufactured for distribution and sale in the
+12 United States.
+13 (6) “Forestry equipment” means nondivisible equipment, implements,
+14 accessories, and contrivances used principally off road and in harvesting
+15 timber or for on-site processing of wood forest products, including equipment
+16 used to construct, maintain, or install infrastructure necessary to and associated
+17 with a logging operation.
+18 (7) “Independent repair provider” means a person operating in this State,
+19 either through a physical business location or through a mobile service that
+20 offers on-site repairs in the State, that does not have an arrangement described
+21 in subdivision (2) of this section with an original equipment manufacturer and
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 4 of 10
+1 that is engaged in the services of diagnosis, maintenance, or repair of
+2 agricultural, electronic, or forestry equipment.
+3 (8) “Medical device” means an instrument, apparatus, implement,
+4 machine, contrivance, implant, or other similar or related article, including a
+5 component part or accessory, as defined in the federal Food, Drug, and
+6 Cosmetic Act, 21 U.S.C. § 321, as amended, that is intended for use in the
+7 diagnosis of disease or other conditions or in the cure, mitigation, treatment, or
+8 prevention of disease in humans or other animals.
+9 (9) “Motor vehicle” means any vehicle that is designed for transporting
+10 persons or property on a street or highway and is certified by the motor vehicle
+11 manufacturer under all applicable federal safety and emissions standards and
+12 requirements for distribution and sale in the United States. The term does not
+13 include a motorcycle or a recreational vehicle or manufactured home equipped
+14 for habitation.
+15 (10) “Motor vehicle dealer” means a person who, in the ordinary course
+16 of business, is engaged in the business of selling or leasing new motor vehicles
+17 to a person pursuant to a franchise agreement and who is engaged in the
+18 diagnosis, service, maintenance, or repair of motor vehicles or motor vehicle
+19 engines pursuant to such franchise agreement.
+20 (11) “Motor vehicle manufacturer” means a person engaged in the
+21 business of manufacturing or assembling new motor vehicles.
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 5 of 10
+1 (12) “Original equipment manufacturer” means a person who, in the
+2 ordinary course of business, is engaged in the business of selling or leasing
+3 new agricultural, electronic, or forestry equipment manufactured by or on
+4 behalf of the person.
+5 (13) “Owner” means a person who owns or leases agricultural,
+6 electronic, or forestry equipment used in this State;
+7 (14) “Part” means any replacement part, either new or used, made
+8 available by an original equipment manufacturer for purposes of effecting the
+9 services of maintenance or repair of agricultural, electronic, or forestry
+10 equipment manufactured by or on behalf of, sold or otherwise supplied by, the
+11 original equipment manufacturer.
+12 (15) “Parts pairing” means the practice by original equipment
+13 manufacturers of using software to identify component parts through a unique
+14 identifier.
+15 (16) “Repair” means to maintain, diagnose, or fix agricultural,
+16 electronic, or forestry equipment, resulting in the equipment being restored to
+17 its fully functional condition, including any updates. “Repair” does not include
+18 the ability to download or access the source code of any embedded software or
+19 code, unless doing so is required to restore the equipment to its fully functional
+20 condition, including any updates.
+21 (17) “Tools” means any software program, hardware implement, or
+22 other apparatus used for diagnosis, maintenance, or repair of agricultural,
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 6 of 10
+1 electronic, or forestry equipment, including software or other mechanisms that
+2 provision, program, or require parts pairing; calibrate functionality; or perform
+3 any other function required to bring the product back to fully functional
+4 condition, including any updates.
+5 (18) “Trade secret” has the same meaning as provided in 18 U.S.C.
+6 § 1839.
+7 § 4052. REQUIREMENTS
+8 (a) Duty to make available parts, tools, and documentation.
+9 (1) An original equipment manufacturer shall offer for sale or otherwise
+10 make available to an independent repair provider or owner the parts, tools, and
+11 documentation that the original equipment manufacturer offers for sale or
+12 otherwise makes available to an authorized repair provider.
+13 (2) If agricultural, electronic, or forestry equipment includes an
+14 electronic security lock or other security-related function that must be
+15 unlocked, enabled, or disabled to perform diagnosis, maintenance, or repair of
+16 the equipment, an original equipment manufacturer shall make available to an
+17 independent repair provider or owner any parts, tools, and documentation
+18 necessary to unlock or disable the function and to reset the lock or function
+19 after the diagnosis, maintenance, or repair is complete.
+20 (3) An original equipment manufacturer may satisfy its obligation to
+21 make parts, tools, and documentation available to an independent repair
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 7 of 10
+1 provider or owner through an authorized repair provider that consents to sell or
+2 make available parts, tools, or documentation on behalf of the manufacturer.
+3 (b) Unreasonable costs or burdens prohibited. Under the terms governing
+4 the sale or provision of parts, tools, and documentation pursuant to subsection
+5 (a) of this section, an original equipment manufacturer shall not impose on an
+6 independent repair provider or owner an additional cost or burden that is not
+7 reasonably necessary within the ordinary course of business or is designed to
+8 be an impediment on the independent repair provider or owner, including:
+9 (1) a substantial obligation to use, or a restriction on the use of, the
+10 parts, tools, or documentation necessary to diagnose, maintain, or repair
+11 agricultural, electronic, or forestry equipment;
+12 (2) a condition that the independent repair provider or owner become an
+13 authorized repair provider of the original equipment manufacturer;
+14 (3) a requirement that a part, tool, or documentation be registered,
+15 paired with, or approved by the original equipment manufacturer or an
+16 authorized repair provider before the part, tool, or documentation is
+17 operational; or
+18 (4) an additional burden or material change that adversely affects the
+19 timeliness or method of delivering parts, tools, or documentation.
+20 § 4053. APPLICATION; LIMITATIONS
+21 (a) This chapter does not:
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 8 of 10
+1 (1) require an original equipment manufacturer to divulge a trade secret
+2 to an independent repair provider or owner; or
+3 (2) alter the terms of:
+4 (A) any arrangement described in subdivision 4051(2)(A) of this title
+5 in force between an authorized repair provider and an original equipment
+6 manufacturer, including the performance or provision of warranty or recall
+7 repair work by an authorized repair provider on behalf of an original
+8 equipment manufacturer pursuant to such arrangement, except that any
+9 provision governing such an arrangement that purports to waive, avoid,
+10 restrict, or limit the original equipment manufacturer’s obligations to comply
+11 with this chapter is void and unenforceable; or
+12 (B) a lease of agricultural, electronic, or forestry equipment between
+13 an owner and another person.
+14 (b) An independent repair provider or owner shall not:
+15 (1) modify agricultural or forestry equipment to temporarily deactivate
+16 safety notification systems, except as necessary to provide diagnosis,
+17 maintenance, or repair services; or
+18 (2) obtain or use parts, tools, or documentation to evade or violate
+19 emissions, copyright, trademark, or patent laws or to engage in any other
+20 illegal activity.
+21 (c)(1) Subject to subdivision (2) of this subsection, original equipment
+22 manufacturers and authorized repair providers are not liable for negligent
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 9 of 10
+1 repairs completed by independent repair providers or owners, including
+2 negligent repairs that cause:
+3 (A) damage to agricultural, electronic, or forestry equipment that
+4 occurs during such repairs; and
+5 (B) an inability to use, or the reduced functionality of, agricultural,
+6 electronic, or forestry equipment resulting from the negligent repair.
+7 (2) A repair completed by an independent repair provider or owner
+8 resulting in damage to equipment or the reduced functionality of equipment as
+9 set forth in subdivision (1) of this subsection that was caused by a defective or
+10 faulty part, tool, or documentation provided by the original equipment
+11 manufacturer shall not be considered a negligent repair.
+12 (d) In the event that federal law preempts part of the activity regulated by
+13 this chapter, this chapter shall be construed to regulate activity that has not
+14 been preempted.
+15 (e) If an original equipment manufacturer is a party to a memorandum of
+16 understanding that is related to the right to repair of agricultural, electronic, or
+17 forestry equipment, the original equipment manufacturer shall still be obligated
+18 to meet the requirements established in this chapter
+19 § 4054. EXCLUSIONS
+20 (a) This chapter shall not apply to a motor vehicle manufacturer, a product
+21 or service of a motor vehicle manufacturer, or a motor vehicle dealer.
+VT LEG #379480 v.1
+
+BILL AS INTRODUCED H.161
+2025 Page 10 of 10
+1 (b) This chapter shall not require a manufacturer of a medical device to
+2 implement a provision of this chapter that is not permitted under the federal
+3 Food, Drug, and Cosmetic Act or any other federal law that supersedes this
+4 section.
+5 § 4055. ATTORNEY GENERAL ENFORCEMENT; NOTICE
+6 (a) A person who violates a provision of this chapter commits an unfair and
+7 deceptive act in trade and commerce in violation of section 2453 of this title.
+8 (b) The Attorney General has the same authority to make rules, conduct
+9 civil investigations, enter into assurances of discontinuance, and bring civil
+10 actions as provided under chapter 63, subchapter 1 of this title.
+11 (c) The Attorney General shall be notified in writing by the original
+12 equipment manufacturer not later than 30 days after a memorandum of
+13 understanding expires or has been terminated, withdrawn, or canceled by an
+14 original equipment manufacturer subject to this chapter.
+15 Sec. 4. EFFECTIVE DATE
+16 This act shall take effect on January 1, 2026.
+VT LEG #379480 v.1
+
+[DELETED:  H P H I R M R D S S o f n o A I S  T d t s S T]
+[DELETED:  H P S C § A ( a a t w ( t t l p o a o ( d a ( s]
+[DELETED:  H P g p e ( i t h m e ( f U ( a t u w ( e o i]
+[DELETED:  H P t a ( m c C d p ( p m r i f ( o t d e ( b]
+[DELETED:  H P ( o n b ( e ( a s e o ( m i ( e i t c c ( o]
+[DELETED:  H P e p a c ( § § ( ( m d o ( e u t i n a ( m]
+[DELETED:  H P p m ( t ( i r b ( p a ( a ( p a o ( t § (]
+[DELETED:  H P ( t ( ( i m r e p r w ( a ( ( s m ( e i ( m]
+[DELETED:  H P r n ( o ( e ( r s f m ( t b ( u f t § ( o]
+[DELETED:  H P ( i F s § ( d ( c a ( e u o S T]

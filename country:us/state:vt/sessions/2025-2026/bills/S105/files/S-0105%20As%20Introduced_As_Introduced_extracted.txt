@@ -1,0 +1,184 @@
+Title: BILL AS INTRODUCED S.105
+Official Title: BILL AS INTRODUCED S.105
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 S.105
+2 Introduced by Senators Douglass, Baruth, Beck, Brock, Collamore,
+3 Cummings, Gulick, Hart, Heffernan, Lyons, Major, Mattos and
+4 Williams
+5 Referred to Committee on
+6 Date:
+7 Subject: Motor vehicles; operation of vehicles; inspections; new motor
+8 vehicles; trailers
+9 Statement of purpose of bill as introduced: This bill proposes to provide that
+10 motor vehicles weighing 5,000 pounds or less that are less than two years old
+11 are exempt from inspections and to exempt all trailers and semi-trailers from
+12 inspections.
+13 An act relating to exemptions from vehicle inspections
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 23 V.S.A. § 1222 is amended to read:
+16 § 1222. INSPECTION OF REGISTERED VEHICLES
+17 (a)(1) Except as otherwise provided in subdivision (3) of this subsection
+18 and for school buses, which shall be inspected as prescribed in section 1282 of
+19 this title, and motor buses as defined in subdivision 4(17) of this title, which
+20 shall be inspected twice during the calendar year at six-month intervals, all
+VT LEG #381115 v.1
+BILL AS INTRODUCED S.105
+2025 Page 2 of 4
+1 motor vehicles registered in this State shall undergo a safety and visual
+2 emissions inspection once each year and all motor vehicles that are registered
+3 in this State and are 16 model years old or less shall undergo an emissions or
+4 on board diagnostic (OBD) systems inspection once each year as applicable.
+5 Any
+6 (2) Except as otherwise provided in subdivision (3) of this subsection,
+7 any motor vehicle, trailer, or semi-trailer not currently inspected in this State
+8 shall be inspected within 15 days following the date of its registration in the
+9 State of Vermont.
+10 (3)(A) Notwithstanding subdivisions (1) and (2) of this subsection (a), a
+11 motor vehicle that has a gross vehicle weight rating of not more than 5,000
+12 pounds shall not be required to be inspected pursuant to the provisions of this
+13 section until after 24 months have elapsed since the date of the vehicle’s
+14 manufacture.
+15 (B) All trailers and semi-trailers shall be exempt from inspection
+16 pursuant to the provisions of this section.
+17 * * *
+18 (d) Notwithstanding the provisions of subsection (a) of this section, an
+19 exhibition vehicle of model year 1940 or before registered as prescribed in
+20 section 373 of this title or a trailer registered as prescribed in subdivision
+21 371(a)(1)(A) of this title shall be exempt from inspection; provided, however,
+VT LEG #381115 v.1
+BILL AS INTRODUCED S.105
+2025 Page 3 of 4
+1 the vehicle must be equipped as originally manufactured, must be in good
+2 mechanical condition, and must meet the applicable standards of the inspection
+3 manual.
+4 * * *
+5 Sec. 2. 23 V.S.A. § 1223 is amended to read:
+6 § 1223. PROHIBITIONS
+7 A person shall not affix or cause to be affixed to a motor vehicle, trailer, or
+8 semi-trailer a certification of inspection that was not assigned by an official
+9 inspection station to such motor vehicle, trailer, or semi-trailer. No person
+10 shall reaffix or cause to be reaffixed an official sticker once removed; instead,
+11 replacement stickers shall be affixed as prescribed by the rules for replacement
+12 sticker agents. A person shall not knowingly operate a motor vehicle, trailer,
+13 or semi-trailer to which a certification of inspection is affixed if the
+14 certification of inspection was not assigned by an official station to that
+15 vehicle, trailer, or semi-trailer.
+16 Sec. 3. 23 V.S.A. § 4(61) is amended to read:
+17 (61) “Storage trailer” means any regularly manufactured box type trailer
+18 that has been removed from normal over-the-highway service and is used
+19 solely for the storage of commodities at a fixed site for extended periods of
+20 time. When a storage trailer is moved over the public highways, it shall not
+21 contain cargo weighing more than 2,000 pounds and shall be properly
+VT LEG #381115 v.1
+BILL AS INTRODUCED S.105
+2025 Page 4 of 4
+1 equipped, and in good mechanical condition, and inspectable under the
+2 provisions of section 1222 of this title, except that storage trailers need not
+3 display an inspection sticker.
+4 Sec. 4. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2025.
+VT LEG #381115 v.1
+[DELETED:  S P S I S C W R D S v S m a i A I S § ( a t s]
+[DELETED:  S P m e i o A ( a s S ( m p s m ( p * ( e s 3]
+[DELETED:  S P t m m * S § A s i s r s o c v   ( t s t c]
+[DELETED:  S P e p d S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.105
+2025 Page 1 of 4
+1 S.105
+2 Introduced by Senators Douglass, Baruth, Beck, Brock, Collamore,
+3 Cummings, Gulick, Hart, Heffernan, Lyons, Major, Mattos and
+4 Williams
+5 Referred to Committee on
+6 Date:
+7 Subject: Motor vehicles; operation of vehicles; inspections; new motor
+8 vehicles; trailers
+9 Statement of purpose of bill as introduced: This bill proposes to provide that
+10 motor vehicles weighing 5,000 pounds or less that are less than two years old
+11 are exempt from inspections and to exempt all trailers and semi-trailers from
+12 inspections.
+13 An act relating to exemptions from vehicle inspections
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 23 V.S.A. § 1222 is amended to read:
+16 § 1222. INSPECTION OF REGISTERED VEHICLES
+17 (a)(1) Except as otherwise provided in subdivision (3) of this subsection
+18 and for school buses, which shall be inspected as prescribed in section 1282 of
+19 this title, and motor buses as defined in subdivision 4(17) of this title, which
+20 shall be inspected twice during the calendar year at six-month intervals, all
+VT LEG #381115 v.1
+
+BILL AS INTRODUCED S.105
+2025 Page 2 of 4
+1 motor vehicles registered in this State shall undergo a safety and visual
+2 emissions inspection once each year and all motor vehicles that are registered
+3 in this State and are 16 model years old or less shall undergo an emissions or
+4 on board diagnostic (OBD) systems inspection once each year as applicable.
+5 Any
+6 (2) Except as otherwise provided in subdivision (3) of this subsection,
+7 any motor vehicle, trailer, or semi-trailer not currently inspected in this State
+8 shall be inspected within 15 days following the date of its registration in the
+9 State of Vermont.
+10 (3)(A) Notwithstanding subdivisions (1) and (2) of this subsection (a), a
+11 motor vehicle that has a gross vehicle weight rating of not more than 5,000
+12 pounds shall not be required to be inspected pursuant to the provisions of this
+13 section until after 24 months have elapsed since the date of the vehicle’s
+14 manufacture.
+15 (B) All trailers and semi-trailers shall be exempt from inspection
+16 pursuant to the provisions of this section.
+17 * * *
+18 (d) Notwithstanding the provisions of subsection (a) of this section, an
+19 exhibition vehicle of model year 1940 or before registered as prescribed in
+20 section 373 of this title or a trailer registered as prescribed in subdivision
+21 371(a)(1)(A) of this title shall be exempt from inspection; provided, however,
+VT LEG #381115 v.1
+
+BILL AS INTRODUCED S.105
+2025 Page 3 of 4
+1 the vehicle must be equipped as originally manufactured, must be in good
+2 mechanical condition, and must meet the applicable standards of the inspection
+3 manual.
+4 * * *
+5 Sec. 2. 23 V.S.A. § 1223 is amended to read:
+6 § 1223. PROHIBITIONS
+7 A person shall not affix or cause to be affixed to a motor vehicle, trailer, or
+8 semi-trailer a certification of inspection that was not assigned by an official
+9 inspection station to such motor vehicle, trailer, or semi-trailer. No person
+10 shall reaffix or cause to be reaffixed an official sticker once removed; instead,
+11 replacement stickers shall be affixed as prescribed by the rules for replacement
+12 sticker agents. A person shall not knowingly operate a motor vehicle, trailer,
+13 or semi-trailer to which a certification of inspection is affixed if the
+14 certification of inspection was not assigned by an official station to that
+15 vehicle, trailer, or semi-trailer.
+16 Sec. 3. 23 V.S.A. § 4(61) is amended to read:
+17 (61) “Storage trailer” means any regularly manufactured box type trailer
+18 that has been removed from normal over-the-highway service and is used
+19 solely for the storage of commodities at a fixed site for extended periods of
+20 time. When a storage trailer is moved over the public highways, it shall not
+21 contain cargo weighing more than 2,000 pounds and shall be properly
+VT LEG #381115 v.1
+
+BILL AS INTRODUCED S.105
+2025 Page 4 of 4
+1 equipped, and in good mechanical condition, and inspectable under the
+2 provisions of section 1222 of this title, except that storage trailers need not
+3 display an inspection sticker.
+4 Sec. 4. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2025.
+VT LEG #381115 v.1
+
+[DELETED:  S P S I S C W R D S v S m a i A I S § ( a t s]
+[DELETED:  S P m e i o A ( a s S ( m p s m ( p * ( e s 3]
+[DELETED:  S P t m m * S § A s i s r s o c v   ( t s t c]
+[DELETED:  S P e p d S T]

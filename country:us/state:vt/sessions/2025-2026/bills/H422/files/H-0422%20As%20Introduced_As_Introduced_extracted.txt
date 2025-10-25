@@ -1,0 +1,178 @@
+Title: BILL AS INTRODUCED H.422
+Official Title: BILL AS INTRODUCED H.422
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.422
+2 Introduced by Representatives Masland of Thetford, Branagan of Georgia,
+3 Holcombe of Norwich, and Olson of Starksboro
+4 Referred to Committee on
+5 Date:
+6 Subject: Conservation and development; solid waste; landfills; groundwater
+7 monitoring; laboratory testing
+8 Statement of purpose of bill as introduced: This bill proposes to require the
+9 Secretary of Natural Resources to require the testing of groundwater samples at
+10 the State Agricultural and Environmental Laboratory (State Laboratory) when
+11 sampling occurs at a site where hazardous materials were released. Testing at
+12 the State Laboratory would not be required if the State Laboratory lacks the
+13 ability to conduct the necessary testing, or, when approved by the Secretary of
+14 Natural Resources, testing at a private laboratory would result in significant
+15 costs savings to the State or the owner of the contaminated site.
+16 An act relating to testing of groundwater samples from contaminated sites at
+17 the State Agricultural and Environmental Laboratory
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. FINDINGS
+20 The General Assembly finds that:
+VT LEG #381096 v.1
+BILL AS INTRODUCED H.422
+2025 Page 2 of 4
+1 (1) groundwater testing in proximity to sites contaminated by hazardous
+2 materials is critically important to protecting public and private water supply
+3 sources;
+4 (2) high-quality laboratory analysis of water samples from groundwater
+5 monitoring wells at contaminated sites must be a mandatory component of
+6 oversight of the monitoring of contaminated sites;
+7 (3) at contaminated sites where a post closure fund is available to pay
+8 for groundwater monitoring, it is in the best interests of the State and the entity
+9 responsible for the site to keep the cost of groundwater testing low so as to
+10 ensure that the cost of groundwater monitoring will not exhaust funding
+11 available from the post closure fund;
+12 (4) using the State Agricultural and Environmental Laboratory (State
+13 Laboratory) to conduct the testing of groundwater samples from contaminated
+14 sites assists in keeping monitoring costs lower than if testing of samples
+15 occurred at private laboratories;
+16 (5) the State and all water users that might be affected by contamination
+17 in their drinking water supply will benefit from timely, affordable, and
+18 accurate groundwater testing data; and
+19 (6) the State, through the Agency of Natural Resources, should require
+20 and facilitate the testing of groundwater samples from contaminated sites at the
+21 State Laboratory in order to allow for the lowest cost possible for testing.
+VT LEG #381096 v.1
+BILL AS INTRODUCED H.422
+2025 Page 3 of 4
+1 Sec. 2. 10 V.S.A. § 6608 is amended to read:
+2 § 6608. RECORDS; REPORTS; MONITORING
+3 (a) For purposes of implementation of this chapter, the Secretary shall
+4 adopt, and revise as appropriate, rules that prescribe:
+5 (1) the establishment and maintenance of such records;
+6 (2) the making of such reports;
+7 (3) the taking of such samples, and the performing of such tests or
+8 analyses;
+9 (4) the installing, calibrating, using, and maintaining of such monitoring
+10 equipment or methods; and
+11 (5) the providing of such other information as may be necessary.
+12 * * *
+13 (g) When the Secretary under this chapter requires groundwater monitoring
+14 of a site where hazardous materials were released, the Secretary shall require
+15 that the testing of groundwater samples from the contaminated site occurs at
+16 the State Agricultural and Environmental Laboratory unless:
+17 (1) the State Agricultural and Environmental Laboratory lacks the
+18 ability to conduct the necessary testing; or
+19 (2) testing at a private laboratory would result in significant costs
+20 savings to the State or the owner of the contaminated site, as approved by the
+21 Secretary.
+VT LEG #381096 v.1
+BILL AS INTRODUCED H.422
+2025 Page 4 of 4
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #381096 v.1
+[DELETED:  H P H I R H R D S m S S t s t a N c A t I S T]
+[DELETED:  H P ( m s ( m o ( f r e a ( L s o ( i a ( a S]
+[DELETED:  H P S § ( a ( ( ( a ( e ( * ( o t t ( a ( s S]
+[DELETED:  H P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.422
+2025 Page 1 of 4
+1 H.422
+2 Introduced by Representatives Masland of Thetford, Branagan of Georgia,
+3 Holcombe of Norwich, and Olson of Starksboro
+4 Referred to Committee on
+5 Date:
+6 Subject: Conservation and development; solid waste; landfills; groundwater
+7 monitoring; laboratory testing
+8 Statement of purpose of bill as introduced: This bill proposes to require the
+9 Secretary of Natural Resources to require the testing of groundwater samples at
+10 the State Agricultural and Environmental Laboratory (State Laboratory) when
+11 sampling occurs at a site where hazardous materials were released. Testing at
+12 the State Laboratory would not be required if the State Laboratory lacks the
+13 ability to conduct the necessary testing, or, when approved by the Secretary of
+14 Natural Resources, testing at a private laboratory would result in significant
+15 costs savings to the State or the owner of the contaminated site.
+16 An act relating to testing of groundwater samples from contaminated sites at
+17 the State Agricultural and Environmental Laboratory
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. FINDINGS
+20 The General Assembly finds that:
+VT LEG #381096 v.1
+
+BILL AS INTRODUCED H.422
+2025 Page 2 of 4
+1 (1) groundwater testing in proximity to sites contaminated by hazardous
+2 materials is critically important to protecting public and private water supply
+3 sources;
+4 (2) high-quality laboratory analysis of water samples from groundwater
+5 monitoring wells at contaminated sites must be a mandatory component of
+6 oversight of the monitoring of contaminated sites;
+7 (3) at contaminated sites where a post closure fund is available to pay
+8 for groundwater monitoring, it is in the best interests of the State and the entity
+9 responsible for the site to keep the cost of groundwater testing low so as to
+10 ensure that the cost of groundwater monitoring will not exhaust funding
+11 available from the post closure fund;
+12 (4) using the State Agricultural and Environmental Laboratory (State
+13 Laboratory) to conduct the testing of groundwater samples from contaminated
+14 sites assists in keeping monitoring costs lower than if testing of samples
+15 occurred at private laboratories;
+16 (5) the State and all water users that might be affected by contamination
+17 in their drinking water supply will benefit from timely, affordable, and
+18 accurate groundwater testing data; and
+19 (6) the State, through the Agency of Natural Resources, should require
+20 and facilitate the testing of groundwater samples from contaminated sites at the
+21 State Laboratory in order to allow for the lowest cost possible for testing.
+VT LEG #381096 v.1
+
+BILL AS INTRODUCED H.422
+2025 Page 3 of 4
+1 Sec. 2. 10 V.S.A. § 6608 is amended to read:
+2 § 6608. RECORDS; REPORTS; MONITORING
+3 (a) For purposes of implementation of this chapter, the Secretary shall
+4 adopt, and revise as appropriate, rules that prescribe:
+5 (1) the establishment and maintenance of such records;
+6 (2) the making of such reports;
+7 (3) the taking of such samples, and the performing of such tests or
+8 analyses;
+9 (4) the installing, calibrating, using, and maintaining of such monitoring
+10 equipment or methods; and
+11 (5) the providing of such other information as may be necessary.
+12 * * *
+13 (g) When the Secretary under this chapter requires groundwater monitoring
+14 of a site where hazardous materials were released, the Secretary shall require
+15 that the testing of groundwater samples from the contaminated site occurs at
+16 the State Agricultural and Environmental Laboratory unless:
+17 (1) the State Agricultural and Environmental Laboratory lacks the
+18 ability to conduct the necessary testing; or
+19 (2) testing at a private laboratory would result in significant costs
+20 savings to the State or the owner of the contaminated site, as approved by the
+21 Secretary.
+VT LEG #381096 v.1
+
+BILL AS INTRODUCED H.422
+2025 Page 4 of 4
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #381096 v.1
+
+[DELETED:  H P H I R H R D S m S S t s t a N c A t I S T]
+[DELETED:  H P ( m s ( m o ( f r e a ( L s o ( i a ( a S]
+[DELETED:  H P S § ( a ( ( ( a ( e ( * ( o t t ( a ( s S]
+[DELETED:  H P S T]
