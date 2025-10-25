@@ -1,0 +1,1494 @@
+Title: BILL AS INTRODUCED S.74
+Official Title: BILL AS INTRODUCED S.74
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 30 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 30
+1 S.74
+2 Introduced by Senators Lyons, Gulick and Harrison
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health information; data privacy
+6 Statement of purpose of bill as introduced: This bill proposes to regulate the
+7 collection, sharing, and selling of consumer health data in Vermont.
+8 An act relating to the collection, sharing, and selling of consumer health
+9 data
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 18 V.S.A. chapter 42B is amended to read:
+12 42B. HEALTH CARE PRIVACY
+13 Subchapter 1. Disclosure of Protected Health Information
+14 § 1881. DISCLOSURE OF PROTECTED HEALTH INFORMATION
+15 PROHIBITED
+16 * * *
+17 Subchapter 2. Vermont My Health My Data Act
+18 § 1891a. SHORT TITLE
+19 This subchapter shall be known and may be cited as the “Vermont My
+20 Health My Data Act.”
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 2 of 30
+1 § 1891b. FINDINGS AND INTENT
+2 (a) Findings. The General Assembly finds that:
+3 (1) The residents of Vermont regard their privacy as a fundamental right
+4 and an essential element of their individual freedom. Fundamental privacy
+5 rights have long been and continue to be integral to protecting Vermonters and
+6 to safeguarding our democratic republic.
+7 (2) Information related to an individual’s health conditions or attempts
+8 to obtain health care services is among the most personal and sensitive
+9 categories of data collected. Vermonters expect that their health data is
+10 protected under laws like the Health Insurance Portability and Accountability
+11 Act of 1996 (HIPAA). However, HIPAA only covers health data collected by
+12 specific health care entities, including most health care providers. Health data
+13 collected by noncovered entities, including certain applications and websites,
+14 are not afforded the same protections. This act works to close the gap between
+15 consumer knowledge and industry practice by providing stronger privacy
+16 protections for all of Vermont consumers’ health data.
+17 (b) Intent. By enacting this subchapter, it is the intent of the General
+18 Assembly to provide heightened protections for Vermonters’ health data by:
+19 (1) requiring additional disclosures and consumer consent regarding the
+20 collection, sharing, and use of their health data;
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 3 of 30
+1 (2) empowering consumers with the right to have their health data
+2 deleted;
+3 (3) prohibiting the selling of consumer health data without valid
+4 authorization signed by the consumer; and
+5 (4) making it unlawful to utilize a geofence around a facility that
+6 provides health care services.
+7 § 1891c. DEFINITIONS
+8 As used in this subchapter:
+9 (1) “Abortion” means any medical treatment intended to induce the
+10 termination of, or to terminate, a clinically diagnosable pregnancy except for
+11 the purpose of producing a live birth.
+12 (2) “Affiliate” means a legal entity that shares common branding with
+13 another legal entity and controls, is controlled by, or is under common control
+14 with another legal entity. For purposes of this definition, “control” or
+15 “controlled” means any one or more of the following:
+16 (A) ownership of, or the power to vote, more than 50 percent of the
+17 outstanding shares of any class of voting security of a company;
+18 (B) control in any manner over the election of a majority of the
+19 directors or of individuals exercising similar functions; or
+20 (C) the power to exercise controlling influence over the management
+21 of a company.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 4 of 30
+1 (3) “Area agency on aging” has the same meaning as in 33 V.S.A.
+2 § 6203.
+3 (4) “Authenticate” means to use reasonable means to determine that a
+4 request to exercise any of the rights afforded in this chapter is being made by
+5 or on behalf of the consumer who is entitled to exercise those consumer rights
+6 with respect to the consumer health data at issue.
+7 (5) “Biometric data” means data that is generated from the measurement
+8 or technological processing of an individual’s physiological, biological, or
+9 behavioral characteristics and that identifies a consumer, whether individually
+10 or in combination with other data. Biometric data includes:
+11 (A) imagery of the iris, retina, fingerprint, face, hand, palm, vein
+12 patterns, and voice recordings, from which an identifier template can be
+13 extracted; and
+14 (B) keystroke patterns or rhythms and gait patterns or rhythms that
+15 contain identifying information.
+16 (6) “Collect” means to buy, rent, access, retain, receive, acquire, infer,
+17 derive, or otherwise process consumer health data in any manner.
+18 (7)(A) “Consent” means a clear affirmative act that signifies the
+19 consumer’s freely given, specific, informed, opt-in, voluntary, and
+20 unambiguous agreement, which may include written consent provided by
+21 electronic means.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 5 of 30
+1 (B) “Consent” shall not be obtained by:
+2 (i) a consumer’s acceptance of a general or broad terms-of-use
+3 agreement or a similar document that contains descriptions of personal data
+4 processing along with other unrelated information;
+5 (ii) a consumer hovering over, muting, pausing, or closing a given
+6 piece of content; or
+7 (iii) a consumer’s agreement obtained through the use of deceptive
+8 designs.
+9 (8)(A) “Consumer” means a natural person who meets one or both of
+10 the following conditions:
+11 (i) the person is a Vermont resident; or
+12 (ii) the person’s consumer health data is collected in Vermont.
+13 (B) “Consumer” means a natural person who acts only in an
+14 individual or household context, however identified, including by any unique
+15 identifier. The term does not include an individual acting in an employment
+16 context.
+17 (9)(A) “Consumer health data” means personal information that is
+18 linked or reasonably linkable to a consumer and that identifies the consumer’s
+19 past, present, or future physical or mental health status.
+20 (B) For purposes of this definition, physical or mental health status
+21 includes:
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 6 of 30
+1 (i) individual health conditions, treatment diseases, or diagnosis;
+2 (ii) social, psychological, behavioral, and medical interventions;
+3 (iii) health-related surgeries or procedures;
+4 (iv) use or purchase of prescribed medication;
+5 (v) bodily functions, vital signs, symptoms, or measurements of
+6 the information described in this subdivision (B);
+7 (vi) diagnoses or diagnostic testing, treatment, or medication;
+8 (vii) gender-affirming care information;
+9 (viii) reproductive or sexual health information;
+10 (ix) biometric data;
+11 (x) genetic data;
+12 (xi) precise location information that could reasonably indicate a
+13 consumer’s attempt to acquire or receive health services or supplies;
+14 (xii) data that identifies a consumer seeking health care services;
+15 or
+16 (xiii) any information that a regulated entity or a small business,
+17 or its respective processor, processes to associate or identify a consumer with
+18 the data described in subdivisions (i)–(xii) of this subdivision (B) that is
+19 derived or extrapolated from nonhealth information, such as proxy, derivative,
+20 inferred, or emergency data by any means, including algorithms or machine
+21 learning.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 7 of 30
+1 (C) “Consumer health data” does not include personal information
+2 that is used to engage in public or peer-reviewed scientific, historical, or
+3 statistical research in the public interest that adheres to all other applicable
+4 ethics and privacy laws and is approved, monitored, and governed by an
+5 institutional review board, human subjects research ethics review board, or a
+6 similar independent oversight entity that determines that the regulated entity or
+7 the small business has implemented reasonable safeguards to mitigate privacy
+8 risks associated with research, including any risks associated with
+9 reidentification.
+10 (10) “Deceptive design” means a user interface designed or manipulated
+11 with the effect of subverting or impairing user autonomy, decision making, or
+12 choice.
+13 (11) “Deidentified data” means data that cannot reasonably be used to
+14 infer information about, or otherwise be linked to, an identified or identifiable
+15 consumer, or a device linked to such consumer, if the regulated entity or the
+16 small business that possesses the data does all of the following:
+17 (A) takes reasonable measures to ensure that the data cannot be
+18 associated with a consumer;
+19 (B) publicly commits to process the data only in a deidentified
+20 fashion and not to attempt to reidentify the data; and
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 8 of 30
+1 (C) contractually obligates any recipients of the data to satisfy the
+2 criteria set forth in this subdivision (11).
+3 (12) “Gender-affirming care information” means personal information
+4 relating to seeking or obtaining past, present, or future gender-affirming health
+5 care services. “Gender-affirming care information” includes:
+6 (A) precise location information that could reasonably indicate a
+7 consumer’s attempt to acquire or receive gender-affirming health care services;
+8 (B) efforts to research or obtain gender-affirming health care
+9 services; or
+10 (C) any gender-affirming care information that is derived,
+11 extrapolated, or inferred, including from nonhealth information such as proxy,
+12 derivative, inferred, emergent, or algorithmic data.
+13 (13) “Gender-affirming health care services” has the same meaning as in
+14 1 V.S.A. § 150.
+15 (14) “Genetic data” means any data, regardless of its format, that
+16 concerns a consumer’s genetic characteristics. “Genetic data” includes:
+17 (A) raw sequence data that result from the sequencing of a
+18 consumer’s complete extracted deoxyribonucleic acid (DNA) or a portion of
+19 the extracted DNA;
+20 (B) genotypic and phenotypic information that results from analyzing
+21 the raw sequence data; and
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 9 of 30
+1 (C) self-reported health data that a consumer submits to a regulated
+2 entity or a small business and that is analyzed in connection with the
+3 consumer’s raw sequence data.
+4 (15) “Geofence” means technology that uses global positioning
+5 coordinates, cell tower connectivity, cellular data, radio frequency
+6 identification, Wi-Fi data, or any other form of spatial or location detection,
+7 individually or in combination, to establish a virtual boundary around a
+8 specific physical location or to locate a consumer within a virtual boundary.
+9 (16) “Health care service” means any service provided to a person to
+10 assess, measure, improve, or learn about a person’s mental or physical health,
+11 including:
+12 (A) individual health conditions, status, diseases, or diagnoses;
+13 (B) social, psychological, behavioral, and medical interventions;
+14 (C) health-related surgeries or procedures;
+15 (D) use or purchase of medication;
+16 (E) bodily functions, vital signs, symptoms, or measurements of the
+17 information described in this subdivision (16);
+18 (F) diagnoses or diagnostic testing, treatment, or medication;
+19 (G) reproductive health services; or
+20 (H) gender-affirming health care services.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 10 of 30
+1 (17) “Homepage” means the introductory page of an internet website
+2 and any internet web page on which personal information is collected. In the
+3 case of an online service such as a mobile application, “homepage” means the
+4 application’s platform page or download page, and a link within the
+5 application, such as from the application configuration or the “about,”
+6 “information,” or “settings” page.
+7 (18) “Person” means, where applicable, a natural person, corporation,
+8 trust, unincorporated association, or partnership. The term does not include a
+9 government agency, tribal nation, or a contracted service provider when
+10 processing consumer health data on behalf of a government agency.
+11 (19)(A) “Personal information” means information that identifies or is
+12 reasonably capable of being associated or linked, directly or indirectly, with a
+13 particular consumer. “Personal information” includes data associated with a
+14 persistent unique identifier, such as a cookie ID, an IP address, a device
+15 identifier, or any other form of persistent unique identifier.
+16 (B) “Personal information” does not include publicly available
+17 information or deidentified data.
+18 (20) “Precise location information” means information derived from
+19 technology, including global positioning system level latitude and longitude
+20 coordinates and other mechanisms, that directly identifies the specific location
+21 of an individual with precision and accuracy within a radius of 1,850 feet.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 11 of 30
+1 “Precise location information” does not include the content of communications
+2 or any data generated by or connected to advanced utility metering
+3 infrastructure systems or equipment for use by a utility.
+4 (21) “Process” or “processing” means any operation or set of operations
+5 performed on consumer health data.
+6 (22) “Processor” means a person who processes consumer health data
+7 on behalf of a regulated entity or a small business.
+8 (23)(A) “Publicly available information” means information that:
+9 (i) is lawfully made available through federal, state, or municipal
+10 government records or widely distributed media; and
+11 (ii) a regulated entity or a small business has a reasonable basis to
+12 believe a consumer has lawfully made available to the general public.
+13 (B) “Publicly available information” does not include any biometric
+14 data collected about a consumer by a business without the consumer’s consent.
+15 (24)(A) “Regulated entity” means any legal entity that:
+16 (i) conducts business in Vermont, or produces or provides
+17 products or services that are targeted to consumers in Vermont; and
+18 (ii) alone or jointly with others, determines the purpose and means
+19 of collecting, processing, sharing, or selling of consumer health data.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 12 of 30
+1 (B) “Regulated entity” does not mean government agencies or
+2 contracted service providers when processing consumer health data on behalf
+3 of a government agency.
+4 (25)(A) “Reproductive or sexual health information” means personal
+5 information relating to seeking or obtaining past, present, or future
+6 reproductive or sexual health services.
+7 (B) “Reproductive or sexual health information” includes:
+8 (i) precise location information that could reasonably indicate a
+9 consumer’s attempt to acquire or receive reproductive or sexual health
+10 services;
+11 (ii) efforts to research or obtain reproductive or sexual health
+12 services; or
+13 (iii) any reproductive or sexual health information that is derived,
+14 extrapolated, or inferred, including from nonhealth information, such as proxy,
+15 derivative, inferred, emergent, or algorithmic data.
+16 (26) “Reproductive or sexual health services” means health services or
+17 products that support or relate to a consumer’s reproductive system or sexual
+18 well-being, including:
+19 (A) individual health conditions, status, diseases, or diagnoses;
+20 (B) social, psychological, behavioral, and medical interventions;
+21 (C) health-related surgeries or procedures, including abortions;
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 13 of 30
+1 (D) use or purchase of medication, including medications for the
+2 purposes of abortion;
+3 (E) bodily functions, vital signs, symptoms, or measurements of the
+4 information described in this subdivision (26);
+5 (F) diagnoses or diagnostic testing, treatment, or medication;
+6 (G) medical or nonmedical services related to and provided in
+7 conjunction with an abortion, including associated diagnostics, counseling,
+8 supplies, and follow-up services; and
+9 (H) any other services included in the definition of “reproductive
+10 health care services” in 1 V.S.A. § 150.
+11 (27)(A) “Sell” or “sale” means the exchange of consumer health data for
+12 monetary or other valuable consideration.
+13 (B) “Sell” or “sale” does not include the exchange of consumer
+14 health data for monetary or other valuable consideration:
+15 (i) to a third party as an asset that is part of a merger, acquisition,
+16 bankruptcy, or other transaction in which the third party assumes control of all
+17 or part of the regulated entity’s or the small business’s assets and complies
+18 with the requirements and obligations in this chapter; or
+19 (ii) by a regulated entity or a small business to a processor when
+20 such exchange is consistent with the purpose for which the consumer health
+21 data was collected and the exchange was disclosed to the consumer.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 14 of 30
+1 (28)(A) “Share” or “sharing” means to release, disclose, disseminate,
+2 divulge, make available, provide access to, license, or otherwise communicate
+3 orally, in writing, or by electronic or other means consumer health data by a
+4 regulated entity or a small business to a third party or affiliate.
+5 (B) The term “share” or “sharing” does not include:
+6 (i) the disclosure of consumer health data by a regulated entity or
+7 a small business to a processor when the sharing is to provide goods or
+8 services in a manner consistent with the purpose for which the consumer health
+9 data was collected and the exchange was disclosed to the consumer;
+10 (ii) the disclosure of consumer health data to a third party with
+11 whom the consumer has a direct relationship when:
+12 (I) the disclosure is for purposes of providing a product or
+13 service requested by the consumer;
+14 (II) the regulated entity or the small business maintains control
+15 and ownership of the data; and
+16 (III) the third party uses the consumer health data only at the
+17 direction of the regulated entity or the small business and consistent with the
+18 purpose for which it was collected and consented to by the consumer; or
+19 (iii) the disclosure or transfer of personal data to a third party as an
+20 asset that is part of a merger, acquisition, bankruptcy, or other transaction in
+21 which the third party assumes control of all or part of the regulated entity’s or
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 15 of 30
+1 the small business’s assets and complies with the requirements and obligations
+2 in this chapter.
+3 (29) “Small business” means a regulated entity that satisfies one or both
+4 of the following thresholds:
+5 (A) the entity collects, processes, sells, or shares the consumer health
+6 data of fewer than 100,000 consumers during a calendar year; or
+7 (B) the entity derives less than 50 percent of its gross revenue from
+8 the collection, processing, selling, or sharing of consumer health data and the
+9 entity controls, processes, sells, or shares consumer health data of fewer than
+10 25,000 consumers.
+11 (30) “Third party” means an entity other than a consumer, regulated
+12 entity, processor, small business, or affiliate of the regulated entity or the small
+13 business.
+14 § 1891d. CONSUMER HEALTH DATA PRIVACY POLICY REQUIRED
+15 (a) Each regulated entity or each small business shall maintain a consumer
+16 health data privacy policy that clearly and conspicuously discloses:
+17 (1) the categories of consumer health data collected and the purpose for
+18 which the data is collected, including how the data will be used;
+19 (2) the categories of sources from which the consumer health data is
+20 collected;
+21 (3) the categories of consumer health data that is shared;
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 16 of 30
+1 (4) a list of the categories of third parties and specific affiliates with
+2 whom the regulated entity or small business shares the consumer health data;
+3 and
+4 (5) how a consumer can exercise the rights provided in section 1891f of
+5 this chapter.
+6 (b) A regulated entity or small business shall prominently publish a link to
+7 its consumer health data privacy policy on its homepage.
+8 (c) A regulated entity or small business shall not collect, use, or share
+9 additional categories of consumer health data not disclosed in the consumer
+10 health data privacy policy without first disclosing the additional categories and
+11 obtaining the consumer’s affirmative consent prior to the collection, use, or
+12 sharing of the consumer health data.
+13 (d) A regulated entity or small business shall not collect, use, or share
+14 consumer health data for additional purposes not disclosed in the consumer
+15 health data privacy policy without first disclosing the additional purposes and
+16 obtaining the consumer’s affirmative consent prior to the collection, use, or
+17 sharing of the consumer health data.
+18 (e) It is a violation of this subchapter for a regulated entity or small
+19 business to contract with a processor to process consumer health data in a
+20 manner that is inconsistent with the regulated entity’s or small business’s
+21 consumer health data privacy policy.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 17 of 30
+1 § 1891e. COLLECTION AND SHARING OF CONSUMER HEALTH
+2 DATA
+3 (a) A regulated entity or small business shall not collect any consumer
+4 health data except:
+5 (1) with consent from the consumer for such collection for a specified
+6 purpose; or
+7 (2) to the extent necessary to provide a product or service that the
+8 consumer to whom the consumer health data relates has requested from the
+9 regulated entity or small business.
+10 (b) A regulated entity or small business shall not share any consumer health
+11 data except:
+12 (1) with consent from the consumer for the sharing that is separate and
+13 distinct from the consent obtained to collect consumer health data; or
+14 (2) to the extent necessary to provide a product or service that the
+15 consumer to whom the consumer health data relates has requested from the
+16 regulated entity or small business.
+17 (c) Consent required under this section shall be obtained prior to the
+18 collection or sharing, as applicable, of any consumer health data, and the
+19 request for consent must clearly and conspicuously disclose:
+20 (1) the categories of consumer health data collected or shared;
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 18 of 30
+1 (2) the purpose of the collection or sharing of the consumer health data,
+2 including the specific ways in which it will be used;
+3 (3) the categories of entities with whom the consumer health data is
+4 shared; and
+5 (4) how the consumer can withdraw consent from future collection or
+6 sharing of the consumer’s health data.
+7 (d) A regulated entity or small business shall not unlawfully discriminate
+8 against a consumer for exercising any rights included in this chapter.
+9 § 1891f. CONSUMER RIGHTS
+10 (a) Confirmation. A consumer has the right to confirm whether a regulated
+11 entity or a small business is collecting, sharing, or selling consumer health data
+12 regarding the consumer and to access that data, including a list of all third
+13 parties and affiliates with whom the regulated entity or small business has
+14 shared or sold the consumer’s health data and an active email address or other
+15 online mechanism that the consumer may use to contact these third parties.
+16 (b) Withdrawal of consent. A consumer has the right to withdraw consent
+17 from a regulated entity’s or small business’s collection and sharing of
+18 consumer health data regarding the consumer.
+19 (c) Right to delete. A consumer has the right to have consumer health data
+20 regarding the consumer deleted and may exercise that right by informing the
+21 regulated entity or small business of the consumer’s request for deletion.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 19 of 30
+1 (1) A regulated entity or small business that receives a consumer’s
+2 request to delete any consumer health data regarding the consumer shall:
+3 (A) delete the consumer health data from its records, including from
+4 all parts of the regulated entity’s or small business’s network, including
+5 archived or backup systems pursuant to subdivision (3) of this subsection (c);
+6 and
+7 (B) notify all affiliates, processors, contractors, and other third parties
+8 with whom the regulated entity or the small business has shared consumer
+9 health data of the deletion request.
+10 (2) All affiliates, processors, contractors, and other third parties that
+11 receive notice of a consumer’s deletion request shall honor the consumer’s
+12 deletion request and delete the consumer health data from its records in
+13 accordance with the requirements of this subchapter.
+14 (3) If consumer health data that a consumer requests to be deleted is
+15 stored on archived or backup systems, then the request for deletion may be
+16 delayed to enable restoration of the archived or backup systems, provided that
+17 the delay shall not exceed six months from the date of authentication of the
+18 deletion request.
+19 (d) Request requirements.
+20 (1) A consumer may exercise the rights set forth in this chapter by
+21 submitting a request to a regulated entity or small business at any time. The
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 20 of 30
+1 request may be made by a secure and reliable means established by the
+2 regulated entity or small business and described in its consumer health data
+3 privacy policy. The method shall take into account the ways in which
+4 consumers normally interact with the regulated entity or small business, the
+5 need for secure and reliable communication of such requests, and the ability of
+6 the regulated entity or the small business to authenticate the identity of the
+7 consumer making the request. A regulated entity or small business shall not
+8 require a consumer to create a new account in order to exercise consumer
+9 rights pursuant to this subchapter but may require a consumer to use an
+10 existing account.
+11 (2) If a regulated entity or small business is unable to authenticate the
+12 request using commercially reasonable efforts, the regulated entity or small
+13 business is not required to comply with a request to initiate an action under this
+14 section and may request that the consumer provide additional information
+15 reasonably necessary to authenticate the consumer and the consumer’s request.
+16 (3) Information provided in response to a consumer request shall be
+17 provided by a regulated entity or small business free of charge, up to twice
+18 annually per consumer. If requests from a consumer are manifestly unfounded,
+19 excessive, or repetitive, the regulated entity or small business may charge the
+20 consumer a reasonable fee to cover the administrative costs of complying with
+21 the request or decline to act on the request. The regulated entity or small
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 21 of 30
+1 business bears the burden of demonstrating the manifestly unfounded,
+2 excessive, or repetitive nature of the request.
+3 (4) A regulated entity or small business shall comply with a consumer’s
+4 requests under subsections (a) through (c) of this section without undue delay,
+5 but in all cases within 45 days following receipt of the request submitted
+6 pursuant to the methods described in this section. A regulated entity or small
+7 business shall promptly take steps to authenticate a consumer request;
+8 provided, however, that completion of these steps does not extend the
+9 regulated entity’s or small business’s duty to comply with the consumer’s
+10 request within 45 days following receipt of the consumer’s request. The
+11 response period may be extended once by 45 additional days when reasonably
+12 necessary, taking into account the complexity and number of the consumer’s
+13 requests, provided the regulated entity or small business informs the consumer
+14 of any such extension within the initial 45-day response period, together with
+15 the reason for the extension.
+16 (e) Consumer appeal. A regulated entity or small business shall establish a
+17 process for a consumer to appeal the regulated entity’s or small business’s
+18 refusal to take action on a request within a reasonable period of time after the
+19 consumer’s receipt of the decision. The appeal process shall be conspicuously
+20 available and similar to the process for submitting requests to initiate action
+21 pursuant to this section. Within 45 days following receipt of an appeal, a
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 22 of 30
+1 regulated entity or small business shall inform the consumer in writing of any
+2 action taken or not taken in response to the appeal, including a written
+3 explanation of the reasons for the decisions. If the appeal is denied, the
+4 regulated entity or small business shall also provide the consumer with an
+5 online mechanism, if available, or other method through which the consumer
+6 may contact the Office of the Attorney General to submit a complaint.
+7 § 1891g. PROTECTION OF CONSUMER HEALTH DATA
+8 A regulated entity or small business shall:
+9 (1) restrict access to consumer health data by the regulated entity’s or
+10 small business’s employees, processors, and contractors to only those
+11 employees, processors, and contractors for whom access is necessary to further
+12 the purposes for which the consumer provided consent or where necessary to
+13 provide a product or service that the consumer to whom such consumer health
+14 data relates has requested from the regulated entity or small business; and
+15 (2) establish, implement, and maintain administrative, technical, and
+16 physical data security practices that, at a minimum, satisfy reasonable
+17 standards of care within the regulated entity’s or small business’s industry to
+18 protect the confidentiality, integrity, and accessibility of consumer health data
+19 appropriate to the volume and nature of the consumer health data at issue.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 23 of 30
+1 § 1891h. PROCESSORS OF CONSUMER HEALTH DATA
+2 (a) Contract required.
+3 (1) A processor may process consumer health data only pursuant to a
+4 binding contract between the processor and the regulated entity or small
+5 business that sets forth the processing instructions and limits the actions the
+6 processor may take with respect to the consumer health data it processes on
+7 behalf of the regulated entity or small business.
+8 (2) A processor may process consumer health data only in a manner that
+9 is consistent with the binding instructions set forth in the contract with the
+10 regulated entity or small business.
+11 (b) Obligation to assist. To the extent possible, a processor shall use
+12 appropriate technical and organizational measures to assist the regulated entity
+13 or small business in fulfilling the regulated entity’s and the small business’s
+14 obligations under this chapter.
+15 (c) Failure to adhere. If a processor fails to adhere to the regulated entity’s
+16 or small business’s instructions or processes consumer health data in a manner
+17 that is outside the scope of the processor’s contract with the regulated entity or
+18 small business, the processor is considered a regulated entity or small business
+19 with respect to the data and is subject to all the requirements of this chapter
+20 with regard to the data.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 24 of 30
+1 § 1891i. LIMITATIONS ON SALE OF CONSUMER HEALTH DATA
+2 (a) Authorization required. It is unlawful for any person to sell or offer to
+3 sell consumer health data regarding a consumer without first obtaining valid
+4 authorization from the consumer. The sale of consumer health data must be
+5 consistent with the valid authorization signed by the consumer. This
+6 authorization shall be separate and distinct from the consent obtained to collect
+7 or share consumer health data, as required under section 1891e of this chapter.
+8 (b) Requirements of a valid authorization. A valid authorization to sell
+9 consumer health data shall be a document that is consistent with this section
+10 and is written in plain language. A valid authorization to sell consumer health
+11 data shall contain all of the following:
+12 (1) the specific consumer health data regarding the consumer that the
+13 person intends to sell;
+14 (2) the name and contact information of the person collecting and selling
+15 the consumer health data;
+16 (3) the name and contact information of the person purchasing the
+17 consumer health data from the seller identified in subdivision (2) of this
+18 subsection;
+19 (4) a description of the purpose for the sale, including how the consumer
+20 health data will be gathered and how it will be used by the purchaser identified
+21 in subdivision (3) of this subsection when sold;
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 25 of 30
+1 (5) a statement that the provision of goods or services shall not be
+2 conditioned on the consumer signing the valid authorization;
+3 (6) a statement that the consumer has a right to revoke the valid
+4 authorization at any time and a description of how to submit a revocation of
+5 the valid authorization;
+6 (7) a statement that the consumer health data sold pursuant to the valid
+7 authorization may be subject to redisclosure by the purchaser and may no
+8 longer be protected by this section;
+9 (8) an expiration date for the valid authorization that expires one year
+10 after the consumer signs the valid authorization; and
+11 (9) the signature of the consumer and date.
+12 (c) Invalid authorizations. An authorization is not valid if the document
+13 has any of the following defects:
+14 (1) the expiration date has passed;
+15 (2) the authorization does not contain all of the information required
+16 under this section;
+17 (3) the authorization has been revoked by the consumer;
+18 (4) the authorization has been combined with other documents to create
+19 a compound authorization; or
+20 (5) the provision of goods or services is conditioned on the consumer
+21 signing the authorization.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 26 of 30
+1 (d) Copies and retention.
+2 (1) A copy of the signed valid authorization shall be provided to the
+3 consumer.
+4 (2) A seller or purchaser of consumer health data shall retain a copy of
+5 each valid authorization for the sale of consumer health data for six years from
+6 the date of its signature or the date when it was last in effect, whichever is
+7 later.
+8 § 1891j. GEOFENCES PROHIBITED
+9 It is unlawful for any person to implement a geofence to establish a virtual
+10 boundary that is within 1,850 feet of any health care facility, including any
+11 mental health facility or reproductive or sexual health facility, for the purpose
+12 of identifying, tracking, collecting data from, or sending any notification to a
+13 consumer regarding the consumer’s consumer health data.
+14 § 1891k. VIOLATIONS; ENFORCEMENT
+15 (a) A violation of this subchapter shall be deemed a violation of the
+16 Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney General has the
+17 same authority to make rules, conduct civil investigations, enter into
+18 assurances of discontinuance, and bring civil actions, and private parties have
+19 the same rights and remedies, as provided under 9 V.S.A. chapter 63,
+20 subchapter 1.
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 27 of 30
+1 (b) Nothing in this section shall be construed to preclude or supplant any
+2 other statutory or common law remedies.
+3 § 1891l. EXEMPTIONS
+4 (a) This subchapter shall not apply to:
+5 (1) information that meets the definition of:
+6 (A) protected health information for purposes of the federal Health
+7 Insurance Portability and Accountability Act of 1996 and related regulations;
+8 (B) patient-identifying information collected, used, or disclosed in
+9 accordance with 42 C.F.R. Part 2, established pursuant to 42 U.S.C. § 290dd-2;
+10 or
+11 (C) identifiable private information for purposes of the federal policy
+12 for the protection of human subjects, 45 C.F.R. Part 46; identifiable private
+13 information that is otherwise information collected as part of human subjects
+14 research pursuant to the Good Clinical Practice Guidelines issued by the
+15 International Council for Harmonization; the protection of human subjects
+16 under 21 C.F.R. Parts 50 and 56; or personal data used or shared in research
+17 conducted in accordance with one or more of the requirements set forth in this
+18 subsection (a);
+19 (2) information and documents created specifically for, and collected
+20 and maintained as part of, the patient safety surveillance and improvement
+21 system established pursuant to chapter 43A of this title;
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 28 of 30
+1 (3) information and documents created for purposes of the federal
+2 Health Care Quality Improvement Act of 1986, and related regulations;
+3 (4) patient safety work product for purposes of 42 C.F.R. Part 3,
+4 established pursuant to 42 U.S.C. §§ 299b-21–299b-26;
+5 (5) information that is deidentified in accordance with the requirements
+6 for deidentification set forth in 45 C.F.R. Part 164;
+7 (6) information originating from, and intermingled so as to be
+8 indistinguishable with, information described under subdivisions (1)–(5) of
+9 this subsection that is maintained by:
+10 (A) a covered entity that is not a hybrid entity, any health care
+11 component of a hybrid entity, or a business associate as those terms are defined
+12 by the Health Insurance Portability and Accountability Act of 1996 and related
+13 regulations;
+14 (B) a health care facility or health care provider, as defined in section
+15 9402 of this title; or
+16 (C) a program or a qualified service organization as defined by 42
+17 C.F.R. Part 2, established pursuant to 42 U.S.C. § 290dd-2;
+18 (7) information used only for public health activities and purposes as
+19 described in 45 C.F.R. § 164.512 or that is part of a limited data set, as defined,
+20 and is used, disclosed, and maintained in the manner required, by 45 C.F.R.
+21 § 164.514; or
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 29 of 30
+1 (8) an area agency on aging.
+2 (b) Personal information that is governed by and collected, used, or
+3 disclosed pursuant to the following regulations, parts, titles, or acts is exempt
+4 from this subchapter:
+5 (1) the Gramm-Leach-Bliley Act, 15 U.S.C. § 6801 et seq. and
+6 implementing regulations;
+7 (2) part C of Title XI of the Social Security Act, 42 U.S.C. § 1320d et
+8 seq.;
+9 (3) the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq.;
+10 (4) the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g
+11 and 34 C.F.R. Part 99; and
+12 (5) the Vermont Health Benefit Exchange, 33 V.S.A. chapter 18,
+13 subchapter 1, and related federal laws and Vermont rules, including 45 C.F.R.
+14 § 155.260.
+15 (c) The obligations imposed on regulated entities, small businesses, and
+16 processors under this subchapter shall not be construed to restrict a regulated
+17 entity’s, small business’s, or processor’s ability to collect, use, or disclose
+18 consumer health data to prevent, detect, protect against, or respond to security
+19 incidents, identity theft, fraud, harassment, malicious or deceptive activities, or
+20 any activity that is illegal under Vermont or federal law; preserve the integrity
+VT LEG #379087 v.1
+BILL AS INTRODUCED S.74
+2025 Page 30 of 30
+1 or security of systems; or investigate, report, or prosecute those responsible for
+2 any such action that is illegal under Vermont or federal law.
+3 (d) If a regulated entity, small business, or processor processes consumer
+4 health data pursuant to subsection (c) of this section, that entity shall bear the
+5 burden of demonstrating that the processing qualifies for the exemption and
+6 complies with the requirements of this section.
+7 Sec. 2. EFFECTIVE DATE
+8 This act shall take effect on January 1, 2026.
+VT LEG #379087 v.1
+[DELETED:  S P S I S R D S S c A d I S 4 S §   * S § T H]
+[DELETED:  S P § ( ( a r t ( t c p A s c a c p ( A ( c]
+[DELETED:  S P ( d ( a ( p § A ( t t ( a w “ ( o ( d ( o]
+[DELETED:  S P ( § ( r o w ( o b o ( p e ( c ( d ( c u e]
+[DELETED:  S P ( ( a p ( p ( d ( t ( ( ( i i c ( l p ( i]
+[DELETED:  S P ( ( ( ( ( t ( ( ( ( ( ( c ( o ( o t d i l]
+[DELETED:  S P ( t s e i s t r r ( w c ( i c s ( a ( f]
+[DELETED:  S P ( c ( r c ( c ( s ( e d ( 1 ( c ( c t ( t]
+[DELETED:  S P ( e c ( c i i s ( a i ( ( ( ( ( i ( ( (]
+[DELETED:  S P ( a c a a “ ( t g p ( r p p i ( i ( t c o]
+[DELETED:  S P “ o i ( p ( o ( ( g ( b ( d ( ( p ( o]
+[DELETED:  S P ( c o ( i r ( ( c s ( s ( e d ( p w ( ( (]
+[DELETED:  S P ( p ( i ( ( c s ( h ( m ( h ( b o w ( s d]
+[DELETED:  S P ( d o r ( ( a s d ( w ( s ( a ( d p ( a w]
+[DELETED:  S P t i ( o ( d ( t e 2 ( e b § ( h ( w ( c (]
+[DELETED:  S P ( w a ( t ( i ( a h o s ( c h o s ( b m c]
+[DELETED:  S P §   ( h ( p ( c r ( d ( d ( c r ( c r (]
+[DELETED:  S P ( i ( s ( s ( a § ( e r p s o ( f c ( r r]
+[DELETED:  S P ( r ( a a a ( w h ( r d a ( s d t d ( ( s]
+[DELETED:  S P r r p c n t c r r e ( r b s r ( p a e c t]
+[DELETED:  S P b e ( r b p b p r r r n r o t ( p r c a p]
+[DELETED:  S P r a e r o m § A ( s e t p d ( p s p a]
+[DELETED:  S P § ( ( b b p b ( i r ( a o o ( o t s w w]
+[DELETED:  S P § ( s a c a o ( c a d ( p ( t ( c s ( h i]
+[DELETED:  S P ( c ( a t ( a l ( a ( ( h ( ( u ( ( a ( s]
+[DELETED:  S P ( ( c ( e t l § I b m o c § ( C s a t s]
+[DELETED:  S P ( o § ( ( ( I ( a o ( f i r I u c s ( a s]
+[DELETED:  S P ( H ( e ( f ( i t ( c b r ( 9 ( C ( d a §]
+[DELETED:  S P ( ( d f ( i ( s ( ( a ( s § ( p e c i a]
+[DELETED:  S P o a ( h b c S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.74
+2025 Page 1 of 30
+1 S.74
+2 Introduced by Senators Lyons, Gulick and Harrison
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health information; data privacy
+6 Statement of purpose of bill as introduced: This bill proposes to regulate the
+7 collection, sharing, and selling of consumer health data in Vermont.
+8 An act relating to the collection, sharing, and selling of consumer health
+9 data
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 18 V.S.A. chapter 42B is amended to read:
+12 42B. HEALTH CARE PRIVACY
+13 Subchapter 1. Disclosure of Protected Health Information
+14 § 1881. DISCLOSURE OF PROTECTED HEALTH INFORMATION
+15 PROHIBITED
+16 * * *
+17 Subchapter 2. Vermont My Health My Data Act
+18 § 1891a. SHORT TITLE
+19 This subchapter shall be known and may be cited as the “Vermont My
+20 Health My Data Act.”
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 2 of 30
+1 § 1891b. FINDINGS AND INTENT
+2 (a) Findings. The General Assembly finds that:
+3 (1) The residents of Vermont regard their privacy as a fundamental right
+4 and an essential element of their individual freedom. Fundamental privacy
+5 rights have long been and continue to be integral to protecting Vermonters and
+6 to safeguarding our democratic republic.
+7 (2) Information related to an individual’s health conditions or attempts
+8 to obtain health care services is among the most personal and sensitive
+9 categories of data collected. Vermonters expect that their health data is
+10 protected under laws like the Health Insurance Portability and Accountability
+11 Act of 1996 (HIPAA). However, HIPAA only covers health data collected by
+12 specific health care entities, including most health care providers. Health data
+13 collected by noncovered entities, including certain applications and websites,
+14 are not afforded the same protections. This act works to close the gap between
+15 consumer knowledge and industry practice by providing stronger privacy
+16 protections for all of Vermont consumers’ health data.
+17 (b) Intent. By enacting this subchapter, it is the intent of the General
+18 Assembly to provide heightened protections for Vermonters’ health data by:
+19 (1) requiring additional disclosures and consumer consent regarding the
+20 collection, sharing, and use of their health data;
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 3 of 30
+1 (2) empowering consumers with the right to have their health data
+2 deleted;
+3 (3) prohibiting the selling of consumer health data without valid
+4 authorization signed by the consumer; and
+5 (4) making it unlawful to utilize a geofence around a facility that
+6 provides health care services.
+7 § 1891c. DEFINITIONS
+8 As used in this subchapter:
+9 (1) “Abortion” means any medical treatment intended to induce the
+10 termination of, or to terminate, a clinically diagnosable pregnancy except for
+11 the purpose of producing a live birth.
+12 (2) “Affiliate” means a legal entity that shares common branding with
+13 another legal entity and controls, is controlled by, or is under common control
+14 with another legal entity. For purposes of this definition, “control” or
+15 “controlled” means any one or more of the following:
+16 (A) ownership of, or the power to vote, more than 50 percent of the
+17 outstanding shares of any class of voting security of a company;
+18 (B) control in any manner over the election of a majority of the
+19 directors or of individuals exercising similar functions; or
+20 (C) the power to exercise controlling influence over the management
+21 of a company.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 4 of 30
+1 (3) “Area agency on aging” has the same meaning as in 33 V.S.A.
+2 § 6203.
+3 (4) “Authenticate” means to use reasonable means to determine that a
+4 request to exercise any of the rights afforded in this chapter is being made by
+5 or on behalf of the consumer who is entitled to exercise those consumer rights
+6 with respect to the consumer health data at issue.
+7 (5) “Biometric data” means data that is generated from the measurement
+8 or technological processing of an individual’s physiological, biological, or
+9 behavioral characteristics and that identifies a consumer, whether individually
+10 or in combination with other data. Biometric data includes:
+11 (A) imagery of the iris, retina, fingerprint, face, hand, palm, vein
+12 patterns, and voice recordings, from which an identifier template can be
+13 extracted; and
+14 (B) keystroke patterns or rhythms and gait patterns or rhythms that
+15 contain identifying information.
+16 (6) “Collect” means to buy, rent, access, retain, receive, acquire, infer,
+17 derive, or otherwise process consumer health data in any manner.
+18 (7)(A) “Consent” means a clear affirmative act that signifies the
+19 consumer’s freely given, specific, informed, opt-in, voluntary, and
+20 unambiguous agreement, which may include written consent provided by
+21 electronic means.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 5 of 30
+1 (B) “Consent” shall not be obtained by:
+2 (i) a consumer’s acceptance of a general or broad terms-of-use
+3 agreement or a similar document that contains descriptions of personal data
+4 processing along with other unrelated information;
+5 (ii) a consumer hovering over, muting, pausing, or closing a given
+6 piece of content; or
+7 (iii) a consumer’s agreement obtained through the use of deceptive
+8 designs.
+9 (8)(A) “Consumer” means a natural person who meets one or both of
+10 the following conditions:
+11 (i) the person is a Vermont resident; or
+12 (ii) the person’s consumer health data is collected in Vermont.
+13 (B) “Consumer” means a natural person who acts only in an
+14 individual or household context, however identified, including by any unique
+15 identifier. The term does not include an individual acting in an employment
+16 context.
+17 (9)(A) “Consumer health data” means personal information that is
+18 linked or reasonably linkable to a consumer and that identifies the consumer’s
+19 past, present, or future physical or mental health status.
+20 (B) For purposes of this definition, physical or mental health status
+21 includes:
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 6 of 30
+1 (i) individual health conditions, treatment diseases, or diagnosis;
+2 (ii) social, psychological, behavioral, and medical interventions;
+3 (iii) health-related surgeries or procedures;
+4 (iv) use or purchase of prescribed medication;
+5 (v) bodily functions, vital signs, symptoms, or measurements of
+6 the information described in this subdivision (B);
+7 (vi) diagnoses or diagnostic testing, treatment, or medication;
+8 (vii) gender-affirming care information;
+9 (viii) reproductive or sexual health information;
+10 (ix) biometric data;
+11 (x) genetic data;
+12 (xi) precise location information that could reasonably indicate a
+13 consumer’s attempt to acquire or receive health services or supplies;
+14 (xii) data that identifies a consumer seeking health care services;
+15 or
+16 (xiii) any information that a regulated entity or a small business,
+17 or its respective processor, processes to associate or identify a consumer with
+18 the data described in subdivisions (i)–(xii) of this subdivision (B) that is
+19 derived or extrapolated from nonhealth information, such as proxy, derivative,
+20 inferred, or emergency data by any means, including algorithms or machine
+21 learning.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 7 of 30
+1 (C) “Consumer health data” does not include personal information
+2 that is used to engage in public or peer-reviewed scientific, historical, or
+3 statistical research in the public interest that adheres to all other applicable
+4 ethics and privacy laws and is approved, monitored, and governed by an
+5 institutional review board, human subjects research ethics review board, or a
+6 similar independent oversight entity that determines that the regulated entity or
+7 the small business has implemented reasonable safeguards to mitigate privacy
+8 risks associated with research, including any risks associated with
+9 reidentification.
+10 (10) “Deceptive design” means a user interface designed or manipulated
+11 with the effect of subverting or impairing user autonomy, decision making, or
+12 choice.
+13 (11) “Deidentified data” means data that cannot reasonably be used to
+14 infer information about, or otherwise be linked to, an identified or identifiable
+15 consumer, or a device linked to such consumer, if the regulated entity or the
+16 small business that possesses the data does all of the following:
+17 (A) takes reasonable measures to ensure that the data cannot be
+18 associated with a consumer;
+19 (B) publicly commits to process the data only in a deidentified
+20 fashion and not to attempt to reidentify the data; and
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 8 of 30
+1 (C) contractually obligates any recipients of the data to satisfy the
+2 criteria set forth in this subdivision (11).
+3 (12) “Gender-affirming care information” means personal information
+4 relating to seeking or obtaining past, present, or future gender-affirming health
+5 care services. “Gender-affirming care information” includes:
+6 (A) precise location information that could reasonably indicate a
+7 consumer’s attempt to acquire or receive gender-affirming health care services;
+8 (B) efforts to research or obtain gender-affirming health care
+9 services; or
+10 (C) any gender-affirming care information that is derived,
+11 extrapolated, or inferred, including from nonhealth information such as proxy,
+12 derivative, inferred, emergent, or algorithmic data.
+13 (13) “Gender-affirming health care services” has the same meaning as in
+14 1 V.S.A. § 150.
+15 (14) “Genetic data” means any data, regardless of its format, that
+16 concerns a consumer’s genetic characteristics. “Genetic data” includes:
+17 (A) raw sequence data that result from the sequencing of a
+18 consumer’s complete extracted deoxyribonucleic acid (DNA) or a portion of
+19 the extracted DNA;
+20 (B) genotypic and phenotypic information that results from analyzing
+21 the raw sequence data; and
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 9 of 30
+1 (C) self-reported health data that a consumer submits to a regulated
+2 entity or a small business and that is analyzed in connection with the
+3 consumer’s raw sequence data.
+4 (15) “Geofence” means technology that uses global positioning
+5 coordinates, cell tower connectivity, cellular data, radio frequency
+6 identification, Wi-Fi data, or any other form of spatial or location detection,
+7 individually or in combination, to establish a virtual boundary around a
+8 specific physical location or to locate a consumer within a virtual boundary.
+9 (16) “Health care service” means any service provided to a person to
+10 assess, measure, improve, or learn about a person’s mental or physical health,
+11 including:
+12 (A) individual health conditions, status, diseases, or diagnoses;
+13 (B) social, psychological, behavioral, and medical interventions;
+14 (C) health-related surgeries or procedures;
+15 (D) use or purchase of medication;
+16 (E) bodily functions, vital signs, symptoms, or measurements of the
+17 information described in this subdivision (16);
+18 (F) diagnoses or diagnostic testing, treatment, or medication;
+19 (G) reproductive health services; or
+20 (H) gender-affirming health care services.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 10 of 30
+1 (17) “Homepage” means the introductory page of an internet website
+2 and any internet web page on which personal information is collected. In the
+3 case of an online service such as a mobile application, “homepage” means the
+4 application’s platform page or download page, and a link within the
+5 application, such as from the application configuration or the “about,”
+6 “information,” or “settings” page.
+7 (18) “Person” means, where applicable, a natural person, corporation,
+8 trust, unincorporated association, or partnership. The term does not include a
+9 government agency, tribal nation, or a contracted service provider when
+10 processing consumer health data on behalf of a government agency.
+11 (19)(A) “Personal information” means information that identifies or is
+12 reasonably capable of being associated or linked, directly or indirectly, with a
+13 particular consumer. “Personal information” includes data associated with a
+14 persistent unique identifier, such as a cookie ID, an IP address, a device
+15 identifier, or any other form of persistent unique identifier.
+16 (B) “Personal information” does not include publicly available
+17 information or deidentified data.
+18 (20) “Precise location information” means information derived from
+19 technology, including global positioning system level latitude and longitude
+20 coordinates and other mechanisms, that directly identifies the specific location
+21 of an individual with precision and accuracy within a radius of 1,850 feet.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 11 of 30
+1 “Precise location information” does not include the content of communications
+2 or any data generated by or connected to advanced utility metering
+3 infrastructure systems or equipment for use by a utility.
+4 (21) “Process” or “processing” means any operation or set of operations
+5 performed on consumer health data.
+6 (22) “Processor” means a person who processes consumer health data
+7 on behalf of a regulated entity or a small business.
+8 (23)(A) “Publicly available information” means information that:
+9 (i) is lawfully made available through federal, state, or municipal
+10 government records or widely distributed media; and
+11 (ii) a regulated entity or a small business has a reasonable basis to
+12 believe a consumer has lawfully made available to the general public.
+13 (B) “Publicly available information” does not include any biometric
+14 data collected about a consumer by a business without the consumer’s consent.
+15 (24)(A) “Regulated entity” means any legal entity that:
+16 (i) conducts business in Vermont, or produces or provides
+17 products or services that are targeted to consumers in Vermont; and
+18 (ii) alone or jointly with others, determines the purpose and means
+19 of collecting, processing, sharing, or selling of consumer health data.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 12 of 30
+1 (B) “Regulated entity” does not mean government agencies or
+2 contracted service providers when processing consumer health data on behalf
+3 of a government agency.
+4 (25)(A) “Reproductive or sexual health information” means personal
+5 information relating to seeking or obtaining past, present, or future
+6 reproductive or sexual health services.
+7 (B) “Reproductive or sexual health information” includes:
+8 (i) precise location information that could reasonably indicate a
+9 consumer’s attempt to acquire or receive reproductive or sexual health
+10 services;
+11 (ii) efforts to research or obtain reproductive or sexual health
+12 services; or
+13 (iii) any reproductive or sexual health information that is derived,
+14 extrapolated, or inferred, including from nonhealth information, such as proxy,
+15 derivative, inferred, emergent, or algorithmic data.
+16 (26) “Reproductive or sexual health services” means health services or
+17 products that support or relate to a consumer’s reproductive system or sexual
+18 well-being, including:
+19 (A) individual health conditions, status, diseases, or diagnoses;
+20 (B) social, psychological, behavioral, and medical interventions;
+21 (C) health-related surgeries or procedures, including abortions;
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 13 of 30
+1 (D) use or purchase of medication, including medications for the
+2 purposes of abortion;
+3 (E) bodily functions, vital signs, symptoms, or measurements of the
+4 information described in this subdivision (26);
+5 (F) diagnoses or diagnostic testing, treatment, or medication;
+6 (G) medical or nonmedical services related to and provided in
+7 conjunction with an abortion, including associated diagnostics, counseling,
+8 supplies, and follow-up services; and
+9 (H) any other services included in the definition of “reproductive
+10 health care services” in 1 V.S.A. § 150.
+11 (27)(A) “Sell” or “sale” means the exchange of consumer health data for
+12 monetary or other valuable consideration.
+13 (B) “Sell” or “sale” does not include the exchange of consumer
+14 health data for monetary or other valuable consideration:
+15 (i) to a third party as an asset that is part of a merger, acquisition,
+16 bankruptcy, or other transaction in which the third party assumes control of all
+17 or part of the regulated entity’s or the small business’s assets and complies
+18 with the requirements and obligations in this chapter; or
+19 (ii) by a regulated entity or a small business to a processor when
+20 such exchange is consistent with the purpose for which the consumer health
+21 data was collected and the exchange was disclosed to the consumer.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 14 of 30
+1 (28)(A) “Share” or “sharing” means to release, disclose, disseminate,
+2 divulge, make available, provide access to, license, or otherwise communicate
+3 orally, in writing, or by electronic or other means consumer health data by a
+4 regulated entity or a small business to a third party or affiliate.
+5 (B) The term “share” or “sharing” does not include:
+6 (i) the disclosure of consumer health data by a regulated entity or
+7 a small business to a processor when the sharing is to provide goods or
+8 services in a manner consistent with the purpose for which the consumer health
+9 data was collected and the exchange was disclosed to the consumer;
+10 (ii) the disclosure of consumer health data to a third party with
+11 whom the consumer has a direct relationship when:
+12 (I) the disclosure is for purposes of providing a product or
+13 service requested by the consumer;
+14 (II) the regulated entity or the small business maintains control
+15 and ownership of the data; and
+16 (III) the third party uses the consumer health data only at the
+17 direction of the regulated entity or the small business and consistent with the
+18 purpose for which it was collected and consented to by the consumer; or
+19 (iii) the disclosure or transfer of personal data to a third party as an
+20 asset that is part of a merger, acquisition, bankruptcy, or other transaction in
+21 which the third party assumes control of all or part of the regulated entity’s or
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 15 of 30
+1 the small business’s assets and complies with the requirements and obligations
+2 in this chapter.
+3 (29) “Small business” means a regulated entity that satisfies one or both
+4 of the following thresholds:
+5 (A) the entity collects, processes, sells, or shares the consumer health
+6 data of fewer than 100,000 consumers during a calendar year; or
+7 (B) the entity derives less than 50 percent of its gross revenue from
+8 the collection, processing, selling, or sharing of consumer health data and the
+9 entity controls, processes, sells, or shares consumer health data of fewer than
+10 25,000 consumers.
+11 (30) “Third party” means an entity other than a consumer, regulated
+12 entity, processor, small business, or affiliate of the regulated entity or the small
+13 business.
+14 § 1891d. CONSUMER HEALTH DATA PRIVACY POLICY REQUIRED
+15 (a) Each regulated entity or each small business shall maintain a consumer
+16 health data privacy policy that clearly and conspicuously discloses:
+17 (1) the categories of consumer health data collected and the purpose for
+18 which the data is collected, including how the data will be used;
+19 (2) the categories of sources from which the consumer health data is
+20 collected;
+21 (3) the categories of consumer health data that is shared;
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 16 of 30
+1 (4) a list of the categories of third parties and specific affiliates with
+2 whom the regulated entity or small business shares the consumer health data;
+3 and
+4 (5) how a consumer can exercise the rights provided in section 1891f of
+5 this chapter.
+6 (b) A regulated entity or small business shall prominently publish a link to
+7 its consumer health data privacy policy on its homepage.
+8 (c) A regulated entity or small business shall not collect, use, or share
+9 additional categories of consumer health data not disclosed in the consumer
+10 health data privacy policy without first disclosing the additional categories and
+11 obtaining the consumer’s affirmative consent prior to the collection, use, or
+12 sharing of the consumer health data.
+13 (d) A regulated entity or small business shall not collect, use, or share
+14 consumer health data for additional purposes not disclosed in the consumer
+15 health data privacy policy without first disclosing the additional purposes and
+16 obtaining the consumer’s affirmative consent prior to the collection, use, or
+17 sharing of the consumer health data.
+18 (e) It is a violation of this subchapter for a regulated entity or small
+19 business to contract with a processor to process consumer health data in a
+20 manner that is inconsistent with the regulated entity’s or small business’s
+21 consumer health data privacy policy.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 17 of 30
+1 § 1891e. COLLECTION AND SHARING OF CONSUMER HEALTH
+2 DATA
+3 (a) A regulated entity or small business shall not collect any consumer
+4 health data except:
+5 (1) with consent from the consumer for such collection for a specified
+6 purpose; or
+7 (2) to the extent necessary to provide a product or service that the
+8 consumer to whom the consumer health data relates has requested from the
+9 regulated entity or small business.
+10 (b) A regulated entity or small business shall not share any consumer health
+11 data except:
+12 (1) with consent from the consumer for the sharing that is separate and
+13 distinct from the consent obtained to collect consumer health data; or
+14 (2) to the extent necessary to provide a product or service that the
+15 consumer to whom the consumer health data relates has requested from the
+16 regulated entity or small business.
+17 (c) Consent required under this section shall be obtained prior to the
+18 collection or sharing, as applicable, of any consumer health data, and the
+19 request for consent must clearly and conspicuously disclose:
+20 (1) the categories of consumer health data collected or shared;
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 18 of 30
+1 (2) the purpose of the collection or sharing of the consumer health data,
+2 including the specific ways in which it will be used;
+3 (3) the categories of entities with whom the consumer health data is
+4 shared; and
+5 (4) how the consumer can withdraw consent from future collection or
+6 sharing of the consumer’s health data.
+7 (d) A regulated entity or small business shall not unlawfully discriminate
+8 against a consumer for exercising any rights included in this chapter.
+9 § 1891f. CONSUMER RIGHTS
+10 (a) Confirmation. A consumer has the right to confirm whether a regulated
+11 entity or a small business is collecting, sharing, or selling consumer health data
+12 regarding the consumer and to access that data, including a list of all third
+13 parties and affiliates with whom the regulated entity or small business has
+14 shared or sold the consumer’s health data and an active email address or other
+15 online mechanism that the consumer may use to contact these third parties.
+16 (b) Withdrawal of consent. A consumer has the right to withdraw consent
+17 from a regulated entity’s or small business’s collection and sharing of
+18 consumer health data regarding the consumer.
+19 (c) Right to delete. A consumer has the right to have consumer health data
+20 regarding the consumer deleted and may exercise that right by informing the
+21 regulated entity or small business of the consumer’s request for deletion.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 19 of 30
+1 (1) A regulated entity or small business that receives a consumer’s
+2 request to delete any consumer health data regarding the consumer shall:
+3 (A) delete the consumer health data from its records, including from
+4 all parts of the regulated entity’s or small business’s network, including
+5 archived or backup systems pursuant to subdivision (3) of this subsection (c);
+6 and
+7 (B) notify all affiliates, processors, contractors, and other third parties
+8 with whom the regulated entity or the small business has shared consumer
+9 health data of the deletion request.
+10 (2) All affiliates, processors, contractors, and other third parties that
+11 receive notice of a consumer’s deletion request shall honor the consumer’s
+12 deletion request and delete the consumer health data from its records in
+13 accordance with the requirements of this subchapter.
+14 (3) If consumer health data that a consumer requests to be deleted is
+15 stored on archived or backup systems, then the request for deletion may be
+16 delayed to enable restoration of the archived or backup systems, provided that
+17 the delay shall not exceed six months from the date of authentication of the
+18 deletion request.
+19 (d) Request requirements.
+20 (1) A consumer may exercise the rights set forth in this chapter by
+21 submitting a request to a regulated entity or small business at any time. The
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 20 of 30
+1 request may be made by a secure and reliable means established by the
+2 regulated entity or small business and described in its consumer health data
+3 privacy policy. The method shall take into account the ways in which
+4 consumers normally interact with the regulated entity or small business, the
+5 need for secure and reliable communication of such requests, and the ability of
+6 the regulated entity or the small business to authenticate the identity of the
+7 consumer making the request. A regulated entity or small business shall not
+8 require a consumer to create a new account in order to exercise consumer
+9 rights pursuant to this subchapter but may require a consumer to use an
+10 existing account.
+11 (2) If a regulated entity or small business is unable to authenticate the
+12 request using commercially reasonable efforts, the regulated entity or small
+13 business is not required to comply with a request to initiate an action under this
+14 section and may request that the consumer provide additional information
+15 reasonably necessary to authenticate the consumer and the consumer’s request.
+16 (3) Information provided in response to a consumer request shall be
+17 provided by a regulated entity or small business free of charge, up to twice
+18 annually per consumer. If requests from a consumer are manifestly unfounded,
+19 excessive, or repetitive, the regulated entity or small business may charge the
+20 consumer a reasonable fee to cover the administrative costs of complying with
+21 the request or decline to act on the request. The regulated entity or small
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 21 of 30
+1 business bears the burden of demonstrating the manifestly unfounded,
+2 excessive, or repetitive nature of the request.
+3 (4) A regulated entity or small business shall comply with a consumer’s
+4 requests under subsections (a) through (c) of this section without undue delay,
+5 but in all cases within 45 days following receipt of the request submitted
+6 pursuant to the methods described in this section. A regulated entity or small
+7 business shall promptly take steps to authenticate a consumer request;
+8 provided, however, that completion of these steps does not extend the
+9 regulated entity’s or small business’s duty to comply with the consumer’s
+10 request within 45 days following receipt of the consumer’s request. The
+11 response period may be extended once by 45 additional days when reasonably
+12 necessary, taking into account the complexity and number of the consumer’s
+13 requests, provided the regulated entity or small business informs the consumer
+14 of any such extension within the initial 45-day response period, together with
+15 the reason for the extension.
+16 (e) Consumer appeal. A regulated entity or small business shall establish a
+17 process for a consumer to appeal the regulated entity’s or small business’s
+18 refusal to take action on a request within a reasonable period of time after the
+19 consumer’s receipt of the decision. The appeal process shall be conspicuously
+20 available and similar to the process for submitting requests to initiate action
+21 pursuant to this section. Within 45 days following receipt of an appeal, a
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 22 of 30
+1 regulated entity or small business shall inform the consumer in writing of any
+2 action taken or not taken in response to the appeal, including a written
+3 explanation of the reasons for the decisions. If the appeal is denied, the
+4 regulated entity or small business shall also provide the consumer with an
+5 online mechanism, if available, or other method through which the consumer
+6 may contact the Office of the Attorney General to submit a complaint.
+7 § 1891g. PROTECTION OF CONSUMER HEALTH DATA
+8 A regulated entity or small business shall:
+9 (1) restrict access to consumer health data by the regulated entity’s or
+10 small business’s employees, processors, and contractors to only those
+11 employees, processors, and contractors for whom access is necessary to further
+12 the purposes for which the consumer provided consent or where necessary to
+13 provide a product or service that the consumer to whom such consumer health
+14 data relates has requested from the regulated entity or small business; and
+15 (2) establish, implement, and maintain administrative, technical, and
+16 physical data security practices that, at a minimum, satisfy reasonable
+17 standards of care within the regulated entity’s or small business’s industry to
+18 protect the confidentiality, integrity, and accessibility of consumer health data
+19 appropriate to the volume and nature of the consumer health data at issue.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 23 of 30
+1 § 1891h. PROCESSORS OF CONSUMER HEALTH DATA
+2 (a) Contract required.
+3 (1) A processor may process consumer health data only pursuant to a
+4 binding contract between the processor and the regulated entity or small
+5 business that sets forth the processing instructions and limits the actions the
+6 processor may take with respect to the consumer health data it processes on
+7 behalf of the regulated entity or small business.
+8 (2) A processor may process consumer health data only in a manner that
+9 is consistent with the binding instructions set forth in the contract with the
+10 regulated entity or small business.
+11 (b) Obligation to assist. To the extent possible, a processor shall use
+12 appropriate technical and organizational measures to assist the regulated entity
+13 or small business in fulfilling the regulated entity’s and the small business’s
+14 obligations under this chapter.
+15 (c) Failure to adhere. If a processor fails to adhere to the regulated entity’s
+16 or small business’s instructions or processes consumer health data in a manner
+17 that is outside the scope of the processor’s contract with the regulated entity or
+18 small business, the processor is considered a regulated entity or small business
+19 with respect to the data and is subject to all the requirements of this chapter
+20 with regard to the data.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 24 of 30
+1 § 1891i. LIMITATIONS ON SALE OF CONSUMER HEALTH DATA
+2 (a) Authorization required. It is unlawful for any person to sell or offer to
+3 sell consumer health data regarding a consumer without first obtaining valid
+4 authorization from the consumer. The sale of consumer health data must be
+5 consistent with the valid authorization signed by the consumer. This
+6 authorization shall be separate and distinct from the consent obtained to collect
+7 or share consumer health data, as required under section 1891e of this chapter.
+8 (b) Requirements of a valid authorization. A valid authorization to sell
+9 consumer health data shall be a document that is consistent with this section
+10 and is written in plain language. A valid authorization to sell consumer health
+11 data shall contain all of the following:
+12 (1) the specific consumer health data regarding the consumer that the
+13 person intends to sell;
+14 (2) the name and contact information of the person collecting and selling
+15 the consumer health data;
+16 (3) the name and contact information of the person purchasing the
+17 consumer health data from the seller identified in subdivision (2) of this
+18 subsection;
+19 (4) a description of the purpose for the sale, including how the consumer
+20 health data will be gathered and how it will be used by the purchaser identified
+21 in subdivision (3) of this subsection when sold;
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 25 of 30
+1 (5) a statement that the provision of goods or services shall not be
+2 conditioned on the consumer signing the valid authorization;
+3 (6) a statement that the consumer has a right to revoke the valid
+4 authorization at any time and a description of how to submit a revocation of
+5 the valid authorization;
+6 (7) a statement that the consumer health data sold pursuant to the valid
+7 authorization may be subject to redisclosure by the purchaser and may no
+8 longer be protected by this section;
+9 (8) an expiration date for the valid authorization that expires one year
+10 after the consumer signs the valid authorization; and
+11 (9) the signature of the consumer and date.
+12 (c) Invalid authorizations. An authorization is not valid if the document
+13 has any of the following defects:
+14 (1) the expiration date has passed;
+15 (2) the authorization does not contain all of the information required
+16 under this section;
+17 (3) the authorization has been revoked by the consumer;
+18 (4) the authorization has been combined with other documents to create
+19 a compound authorization; or
+20 (5) the provision of goods or services is conditioned on the consumer
+21 signing the authorization.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 26 of 30
+1 (d) Copies and retention.
+2 (1) A copy of the signed valid authorization shall be provided to the
+3 consumer.
+4 (2) A seller or purchaser of consumer health data shall retain a copy of
+5 each valid authorization for the sale of consumer health data for six years from
+6 the date of its signature or the date when it was last in effect, whichever is
+7 later.
+8 § 1891j. GEOFENCES PROHIBITED
+9 It is unlawful for any person to implement a geofence to establish a virtual
+10 boundary that is within 1,850 feet of any health care facility, including any
+11 mental health facility or reproductive or sexual health facility, for the purpose
+12 of identifying, tracking, collecting data from, or sending any notification to a
+13 consumer regarding the consumer’s consumer health data.
+14 § 1891k. VIOLATIONS; ENFORCEMENT
+15 (a) A violation of this subchapter shall be deemed a violation of the
+16 Consumer Protection Act, 9 V.S.A. chapter 63. The Attorney General has the
+17 same authority to make rules, conduct civil investigations, enter into
+18 assurances of discontinuance, and bring civil actions, and private parties have
+19 the same rights and remedies, as provided under 9 V.S.A. chapter 63,
+20 subchapter 1.
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 27 of 30
+1 (b) Nothing in this section shall be construed to preclude or supplant any
+2 other statutory or common law remedies.
+3 § 1891l. EXEMPTIONS
+4 (a) This subchapter shall not apply to:
+5 (1) information that meets the definition of:
+6 (A) protected health information for purposes of the federal Health
+7 Insurance Portability and Accountability Act of 1996 and related regulations;
+8 (B) patient-identifying information collected, used, or disclosed in
+9 accordance with 42 C.F.R. Part 2, established pursuant to 42 U.S.C. § 290dd-2;
+10 or
+11 (C) identifiable private information for purposes of the federal policy
+12 for the protection of human subjects, 45 C.F.R. Part 46; identifiable private
+13 information that is otherwise information collected as part of human subjects
+14 research pursuant to the Good Clinical Practice Guidelines issued by the
+15 International Council for Harmonization; the protection of human subjects
+16 under 21 C.F.R. Parts 50 and 56; or personal data used or shared in research
+17 conducted in accordance with one or more of the requirements set forth in this
+18 subsection (a);
+19 (2) information and documents created specifically for, and collected
+20 and maintained as part of, the patient safety surveillance and improvement
+21 system established pursuant to chapter 43A of this title;
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 28 of 30
+1 (3) information and documents created for purposes of the federal
+2 Health Care Quality Improvement Act of 1986, and related regulations;
+3 (4) patient safety work product for purposes of 42 C.F.R. Part 3,
+4 established pursuant to 42 U.S.C. §§ 299b-21–299b-26;
+5 (5) information that is deidentified in accordance with the requirements
+6 for deidentification set forth in 45 C.F.R. Part 164;
+7 (6) information originating from, and intermingled so as to be
+8 indistinguishable with, information described under subdivisions (1)–(5) of
+9 this subsection that is maintained by:
+10 (A) a covered entity that is not a hybrid entity, any health care
+11 component of a hybrid entity, or a business associate as those terms are defined
+12 by the Health Insurance Portability and Accountability Act of 1996 and related
+13 regulations;
+14 (B) a health care facility or health care provider, as defined in section
+15 9402 of this title; or
+16 (C) a program or a qualified service organization as defined by 42
+17 C.F.R. Part 2, established pursuant to 42 U.S.C. § 290dd-2;
+18 (7) information used only for public health activities and purposes as
+19 described in 45 C.F.R. § 164.512 or that is part of a limited data set, as defined,
+20 and is used, disclosed, and maintained in the manner required, by 45 C.F.R.
+21 § 164.514; or
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 29 of 30
+1 (8) an area agency on aging.
+2 (b) Personal information that is governed by and collected, used, or
+3 disclosed pursuant to the following regulations, parts, titles, or acts is exempt
+4 from this subchapter:
+5 (1) the Gramm-Leach-Bliley Act, 15 U.S.C. § 6801 et seq. and
+6 implementing regulations;
+7 (2) part C of Title XI of the Social Security Act, 42 U.S.C. § 1320d et
+8 seq.;
+9 (3) the Fair Credit Reporting Act, 15 U.S.C. § 1681 et seq.;
+10 (4) the Family Educational Rights and Privacy Act, 20 U.S.C. § 1232g
+11 and 34 C.F.R. Part 99; and
+12 (5) the Vermont Health Benefit Exchange, 33 V.S.A. chapter 18,
+13 subchapter 1, and related federal laws and Vermont rules, including 45 C.F.R.
+14 § 155.260.
+15 (c) The obligations imposed on regulated entities, small businesses, and
+16 processors under this subchapter shall not be construed to restrict a regulated
+17 entity’s, small business’s, or processor’s ability to collect, use, or disclose
+18 consumer health data to prevent, detect, protect against, or respond to security
+19 incidents, identity theft, fraud, harassment, malicious or deceptive activities, or
+20 any activity that is illegal under Vermont or federal law; preserve the integrity
+VT LEG #379087 v.1
+
+BILL AS INTRODUCED S.74
+2025 Page 30 of 30
+1 or security of systems; or investigate, report, or prosecute those responsible for
+2 any such action that is illegal under Vermont or federal law.
+3 (d) If a regulated entity, small business, or processor processes consumer
+4 health data pursuant to subsection (c) of this section, that entity shall bear the
+5 burden of demonstrating that the processing qualifies for the exemption and
+6 complies with the requirements of this section.
+7 Sec. 2. EFFECTIVE DATE
+8 This act shall take effect on January 1, 2026.
+VT LEG #379087 v.1
+
+[DELETED:  S P S I S R D S S c A d I S 4 S §   * S § T H]
+[DELETED:  S P § ( ( a r t ( t c p A s c a c p ( A ( c]
+[DELETED:  S P ( d ( a ( p § A ( t t ( a w “ ( o ( d ( o]
+[DELETED:  S P ( § ( r o w ( o b o ( p e ( c ( d ( c u e]
+[DELETED:  S P ( ( a p ( p ( d ( t ( ( ( i i c ( l p ( i]
+[DELETED:  S P ( ( ( ( ( t ( ( ( ( ( ( c ( o ( o t d i l]
+[DELETED:  S P ( t s e i s t r r ( w c ( i c s ( a ( f]
+[DELETED:  S P ( c ( r c ( c ( s ( e d ( 1 ( c ( c t ( t]
+[DELETED:  S P ( e c ( c i i s ( a i ( ( ( ( ( i ( ( (]
+[DELETED:  S P ( a c a a “ ( t g p ( r p p i ( i ( t c o]
+[DELETED:  S P “ o i ( p ( o ( ( g ( b ( d ( ( p ( o]
+[DELETED:  S P ( c o ( i r ( ( c s ( s ( e d ( p w ( ( (]
+[DELETED:  S P ( p ( i ( ( c s ( h ( m ( h ( b o w ( s d]
+[DELETED:  S P ( d o r ( ( a s d ( w ( s ( a ( d p ( a w]
+[DELETED:  S P t i ( o ( d ( t e 2 ( e b § ( h ( w ( c (]
+[DELETED:  S P ( w a ( t ( i ( a h o s ( c h o s ( b m c]
+[DELETED:  S P §   ( h ( p ( c r ( d ( d ( c r ( c r (]
+[DELETED:  S P ( i ( s ( s ( a § ( e r p s o ( f c ( r r]
+[DELETED:  S P ( r ( a a a ( w h ( r d a ( s d t d ( ( s]
+[DELETED:  S P r r p c n t c r r e ( r b s r ( p a e c t]
+[DELETED:  S P b e ( r b p b p r r r n r o t ( p r c a p]
+[DELETED:  S P r a e r o m § A ( s e t p d ( p s p a]
+[DELETED:  S P § ( ( b b p b ( i r ( a o o ( o t s w w]
+[DELETED:  S P § ( s a c a o ( c a d ( p ( t ( c s ( h i]
+[DELETED:  S P ( c ( a t ( a l ( a ( ( h ( ( u ( ( a ( s]
+[DELETED:  S P ( ( c ( e t l § I b m o c § ( C s a t s]
+[DELETED:  S P ( o § ( ( ( I ( a o ( f i r I u c s ( a s]
+[DELETED:  S P ( H ( e ( f ( i t ( c b r ( 9 ( C ( d a §]
+[DELETED:  S P ( ( d f ( i ( s ( ( a ( s § ( p e c i a]
+[DELETED:  S P o a ( h b c S T]

@@ -1,0 +1,1132 @@
+BILL AS INTRODUCED H.71
+2025 Page 1 of 45
+1 H.71
+2 Introduced by Representatives Bluemle of Burlington, Cordes of Bristol,
+3 Berbeco of Winooski, Black of Essex, Cina of Burlington,
+4 Goldman of Rockingham, and Page of Newport City
+5 Referred to Committee on
+6 Date:
+7 Subject: Health; health care facilities; Green Mountain Care Board; Attorney
+8 General; health care entity transactions; corporate practice of
+9 medicine
+10 Statement of purpose of bill as introduced: This bill proposes to require health
+11 care entities to provide notice to the Green Mountain Care Board and Attorney
+12 General before entering into certain types of transactions and would direct the
+13 Board, in consultation with the Attorney General, to review certain proposed
+14 transactions and approve, approve with conditions, or disapprove them. The
+15 bill would prohibit corporations from practicing medicine or otherwise
+16 interfering with health care providers’ professional judgment and clinical
+17 decision making. The bill would also require public reporting on ownership
+18 and control of certain health care entities.
+19 An act relating to health care entity transaction oversight and clinical
+20 decision making
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 2 of 45
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. 18 V.S.A. chapter 226 is added to read:
+3 CHAPTER 226. TRANSACTION OVERSIGHT AND CLINICAL
+4 DECISION MAKING
+5 Subchapter 1. General Provisions
+6 § 9521. DEFINITIONS
+7 As used in this chapter:
+8 (1) “Acquisition” means the direct or indirect purchase in any manner,
+9 including by lease, transfer, exchange, option, receipt of a conveyance,
+10 creation of a joint venture, or any other manner of purchase, such as by a
+11 health care system, private equity group, hedge fund, publicly traded company,
+12 real estate investment trust, management services organization, insurance
+13 company, or a subsidiary of any of these entities, of a material amount of the
+14 assets or operations of a health care entity.
+15 (2) “Affiliate” means:
+16 (A) a person who directly, indirectly, or through one or more
+17 intermediaries, controls, is controlled by, or is under common control or
+18 ownership of another person;
+19 (B) a person whose business is operated under a lease, management,
+20 or operating agreement by another entity, or a person substantially all of whose
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 3 of 45
+1 property is operated under a management or operating agreement with that
+2 other entity;
+3 (C) an entity that operates the business or substantially all of the
+4 property of another entity under a lease, management, or operating agreement;
+5 or
+6 (D) any out-of-state operations or corporate affiliate of an affiliate, as
+7 defined in subdivision (A), (B), or (C) of this subdivision (2), including
+8 significant equity investors, health care real estate investment trusts, and
+9 management services organizations.
+10 (3) “Change of control” means an arrangement in which any other
+11 person acquires direct or indirect control over the operations of a health care
+12 entity in whole or in substantial part. As used in this subdivision,
+13 “arrangement” includes any agreement, association, partnership, joint venture,
+14 management services agreement, professional services agreement, health care
+15 staffing company agreement, or other arrangement that results in a change of
+16 governance or control of a health care entity or a department, subdivision, or
+17 subsidiary of a health care entity.
+18 (4) “Control,” including “controlling,” “controlled by,” and “under
+19 common control with,” means the direct or indirect power through ownership,
+20 contractual agreement, or otherwise, to:
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 4 of 45
+1 (A) vote more than 10 percent of any class of voting shares of a
+2 health care entity; or
+3 (B) direct the actions or policies of the specified entity.
+4 (5) “Health care entity” means a health care provider, health care
+5 facility, provider organization, pharmacy benefit manager as defined in section
+6 3602 of this title, or health insurer as defined in section 9402 of this title that
+7 offers a health insurance plan in this State.
+8 (6) “Health care facility” has the same meaning as in section 9432 of
+9 this title.
+10 (7) “Health care provider” has the same meaning as in section 9402 of
+11 this title.
+12 (8) “Health care services” has the same meaning as in section 9481 of
+13 this title and includes all of the following:
+14 (A) inpatient, outpatient, habilitative, rehabilitative, dental, palliative,
+15 therapeutic, supportive, nursing home, home health, mental health, and
+16 substance use disorder services provided by a health care entity;
+17 (B) pharmacy services, including drugs, devices, and medical
+18 supplies;
+19 (C) performance of functions to refer, arrange, and coordinate care;
+20 (D) durable medical equipment, diagnostic equivalent, surgical
+21 devices, and infusion equipment; and
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 5 of 45
+1 (E) technology associated with providing the services and equipment
+2 set forth in subdivisions (A)–(D) of this subdivision (8), such as telehealth,
+3 electronic health records, software, claims processing, and utilization systems.
+4 (9) “Health care staffing company” means a person engaged in the
+5 business of providing or procuring health care personnel for temporary
+6 employment or contracting by a health care facility, but does not include an
+7 individual who independently provides the individual’s own services on a
+8 temporary basis to health care facilities as an employee or contractor.
+9 (10) “Licensee” means an individual licensed in this State as a physician
+10 pursuant to 26 V.S.A. chapter 23 or 33, as an advanced practice registered
+11 nurse pursuant to 26 V.S.A. chapter 28, or as a physician assistant pursuant to
+12 26 V.S.A. chapter 31 who is authorized to diagnose and treat in the applicable
+13 clinical setting.
+14 (11) “Management services organization” means any organization or
+15 entity that contracts with a health care provider or provider organization to
+16 perform management or administrative services relating to, supporting, or
+17 facilitating the provision of health care services.
+18 (12)(A) “Material change transaction” means any of the following,
+19 occurring during a single transaction or in a series of related transactions
+20 involving a health care entity within the State that has total assets, annual
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 6 of 45
+1 revenues, or anticipated annual revenues for new entities, of at least
+2 $1,000,000.00, including both in-state and out-of-state assets and revenues:
+3 (i) a corporate merger including one or more health care entities;
+4 (ii) an acquisition of one or more health care entities, including
+5 insolvent health care entities;
+6 (iii) any affiliation, arrangement, or contract that results in a
+7 change of control for a health care entity;
+8 (iv) the formation of a partnership, joint venture, accountable care
+9 organization, parent organization, or management services organization for the
+10 purpose of administering contracts with health insurers, third-party
+11 administrators, pharmacy benefit managers, or health care providers;
+12 (v) a sale, purchase, lease, affiliation, or transfer of control of a
+13 board of directors or governing body of a health care entity;
+14 (vi) a real estate sale or lease agreement involving a material
+15 amount of assets of a health care entity; or
+16 (vii) the closure of a health care facility, or the closure,
+17 discontinuance, or significant reduction of any essential health service
+18 provided by a health care entity that is either a provider organization or health
+19 care facility or any new contracts or clinical or contractual affiliations that will
+20 eliminate or significantly reduce essential services.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 7 of 45
+1 (B) “Material change transaction” does not include any of the
+2 following:
+3 (i) a clinical affiliation of health care entities formed solely for the
+4 purpose of collaborating on clinical trials;
+5 (ii) graduate medical education programs;
+6 (iii) the mere offer of employment to, or hiring of, an individual
+7 health care provider; or
+8 (iv) situations in which the health care entity directly, or indirectly
+9 through one or more intermediaries, already controls, is controlled by, or is
+10 under common control with, all other parties to the transaction, such as a
+11 corporate restructuring.
+12 (13) “Medical practice” means a corporate entity or partnership
+13 organized for the purpose of practicing medicine and permitted to practice
+14 medicine in this State, including partnerships, professional corporations,
+15 limited liability companies, and limited liability partnerships.
+16 (14) “Noncompetition agreement” means a written agreement between a
+17 licensee and another person in which the licensee agrees that the licensee,
+18 either alone or as an employee, associate, or affiliate of a third person, will not
+19 compete with the other person in providing products, processes, or services
+20 that are similar to the other person’s products, processes, or services for a
+21 period of time or within a specified geographic area after termination of
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 8 of 45
+1 employment or termination of a contract under which the licensee supplied
+2 goods to or performed services for the other person.
+3 (15) “Nondisclosure agreement” means a written agreement under the
+4 terms of which a licensee must refrain from disclosing partially, fully, directly,
+5 or indirectly to any person, other than another party to the written agreement or
+6 to a person specified in the agreement as a third-party beneficiary of the
+7 agreement:
+8 (A) a policy or practice that a party to the agreement required the
+9 licensee to use in patient care, other than individually identifiable health
+10 information that the licensee must not disclose under the Health Insurance
+11 Portability and Accountability Act of 1996, Pub. L. No. 104-191;
+12 (B) a policy, practice, or other information about or associated with
+13 the licensee’s employment, conditions of employment, or rate or amount of
+14 pay or other compensation; or
+15 (C) any other information the licensee possesses or to which the
+16 licensee has access by reason of the licensee’s employment by, or provision of
+17 services for or on behalf of, a party to the agreement, other than information
+18 that is subject to protection under applicable law as a trade secret of, or
+19 otherwise proprietary to, another party to the agreement or to a person
+20 specified in the agreement as a third-party beneficiary of the agreement.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 9 of 45
+1 (16) “Nondisparagement agreement” means a written agreement under
+2 which a licensee must refrain from making to a third party a statement about
+3 another party to the agreement or about another person specified in the
+4 agreement as a third-party beneficiary of the agreement, the effect of which
+5 causes or threatens to cause harm to the other party’s or person’s reputation,
+6 business relations, or other economic interests.
+7 (17) “Ownership or investment interest” means any of the following:
+8 (A) direct or indirect possession of equity in the capital, stock, or
+9 profits totaling more than five percent of an entity;
+10 (B) interest held by an investor or group of investors who engage in
+11 the raising or returning of capital and who invest, develop, or dispose of
+12 specified assets; or
+13 (C) interest held by a pool of funds by investors, including a pool of
+14 funds managed or controlled by private limited partnerships, if those investors
+15 or the management of that pool or private limited partnership employs
+16 investment strategies of any kind to earn a return on that pool of funds.
+17 (18) “Private equity fund” means a publicly traded or nonpublicly traded
+18 company that collects capital investments from individuals or entities and
+19 purchases a direct or indirect ownership share or controlling interest of a health
+20 care entity.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 10 of 45
+1 (19) “Provider organization” means any corporation, partnership,
+2 business trust, association, or organized group of persons that is in the business
+3 of health care delivery or management, whether incorporated or not, that
+4 represents one or more health care providers in contracting with health insurers
+5 for payment for health care services. The term includes physician
+6 organizations, physician-hospital organizations, independent practice
+7 associations, provider networks, accountable care organizations, management
+8 services organizations, and any other organization that contracts with health
+9 insurers for payment for health care services.
+10 (20) “Significant equity investor” means:
+11 (A) any private equity fund with a direct or indirect ownership or
+12 investment interest in a health care facility;
+13 (B) an investor, group of investors, or other entity with a direct or
+14 indirect possession of equity in the capital, stock, or profits totaling more than
+15 10 percent of a provider or provider organization; or
+16 (C) any private equity fund, investor, group of investors, or other
+17 entity with a direct or indirect controlling interest in a health care entity or that
+18 operates the business or substantially all the property of a health care entity
+19 under a lease, management, or operating agreement.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 11 of 45
+1 Subchapter 2. Review of Proposed Health Care Facility Transactions
+2 § 9525. NOTICE
+3 (a) Notice required. Any health care entity shall, prior to consummating
+4 any material change transaction, submit written notice to the Green Mountain
+5 Care Board and the Attorney General not fewer than 180 days before the date
+6 of the proposed material change transaction. Notice shall be considered
+7 received on the first business day after the Green Mountain Care Board
+8 determines that notice is complete.
+9 (b) Contents of notice. Written notice shall include and contain the
+10 information the Green Mountain Care Board and the Attorney General
+11 determine is required. The health care entity may include any additional
+12 information supporting the written notice of the material change transaction.
+13 Notice is complete when the Green Mountain Care Board and the Attorney
+14 General determine that all required information has been received.
+15 (c) Confidentiality.
+16 (1) All information provided by the submitter as part of the notice shall
+17 be available for public inspection and copying under the Public Records Act
+18 unless the submitter designates specific documents or information as
+19 confidential when submitting the notice and the Green Mountain Care Board
+20 and the Attorney General concur with the designation in accordance with a
+21 process established by the Green Mountain Care Board by rule. Information
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 12 of 45
+1 that is otherwise publicly available, or that has not been confidentially
+2 maintained by the source, shall be considered public information.
+3 (2) The Green Mountain Care Board and the Attorney General shall
+4 maintain the confidentiality of all confidential information that is obtained in
+5 relation to a material change transaction, except that the Green Mountain Care
+6 Board and the Attorney General may share confidential information with each
+7 other to carry out their respective authorities under this chapter and may
+8 disclose any information to an expert or consultant under contract with the
+9 Green Mountain Care Board or the Attorney General, provided that the expert
+10 or consultant is bound by the same confidentiality requirements as the Board
+11 and the Attorney General.
+12 (3) Any information and documents determined to be confidential
+13 pursuant to subdivision (1) of this subsection shall be exempt from public
+14 inspection and copying under the Public Records Act and shall be kept
+15 confidential.
+16 (d) Public notice. Within 10 days after receiving written notice of a
+17 material change transaction, the Green Mountain Care Board shall post on a
+18 publicly available website information about the material change transaction,
+19 including:
+20 (1) a summary of the proposed transaction, including the identity of the
+21 parties to the transaction;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 13 of 45
+1 (2) an explanation of the groups or individuals likely to be impacted by
+2 the transaction;
+3 (3) information about services currently provided by the health care
+4 entity, commitments by the health care entity to continue such services, and
+5 any services that will be reduced or eliminated;
+6 (4) details about any public hearings regarding the proposed transaction;
+7 (5) how to submit public comments regarding the proposed transaction;
+8 and
+9 (6) any other information from the notice and other materials submitted
+10 by the health care entity that the Green Mountain Care Board or the Attorney
+11 General determines would be in the public interest, except for materials
+12 designated confidential under subsection (c) of this section.
+13 § 9526. PRELIMINARY REVIEW
+14 (a) Within 30 days following receipt of a notice of material change
+15 transaction as set forth in section 9525 of this chapter, and unless otherwise
+16 provided in subsection (b) of this section, the Green Mountain Care Board, in
+17 consultation with the Attorney General, shall do one of the following:
+18 (1) Approve the material change transaction and notify the health care
+19 entity in writing that a comprehensive review is not required for the material
+20 change transaction.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 14 of 45
+1 (2) Approve the material change transaction subject to conditions set by
+2 the Green Mountain Care Board and notify the health care entity in writing of
+3 the conditions under which the transaction may be completed.
+4 (3) Notify the health care entity in writing that the transaction is subject
+5 to a comprehensive review. The Green Mountain Care Board or the Attorney
+6 General, or both, may request additional information necessary to perform a
+7 comprehensive review under section 9527 of this chapter.
+8 (b)(1) A comprehensive review shall be required when any of the following
+9 applies to the material change transaction:
+10 (A) the transaction will result in the transfer of assets valued above
+11 $1,000,000.00;
+12 (B) the transaction occurs in a highly consolidated market for any
+13 line of services offered by any party to the material change transaction;
+14 (C) the transaction will cause a significant change in market share,
+15 such that any resulting health care entity possesses market power upon
+16 completion;
+17 (D) the transaction will otherwise lessen competition, including
+18 effects of vertical or cross-market transactions among different product or
+19 geographic markets;
+20 (E) either party to the material change transaction possesses market
+21 power prior to the transaction; or
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 15 of 45
+1 (F) the Green Mountain Care Board or the Attorney General, or both,
+2 at their sole discretion, determine that the material change transaction is likely
+3 to have a material impact on the cost, quality, equity, or access to health care
+4 services in any region in the state.
+5 (2) For purposes of this subsection, “market power” means possessing
+6 30 percent or more of the market share in any line of service in the relevant
+7 geographic area or under other criteria that the Green Mountain Care Board
+8 may define by rule.
+9 (c) Nothing in this section shall be deemed to limit or infringe upon the
+10 existing authority of any State agency, including the Green Mountain Care
+11 Board, the Department of Financial Regulation, the Department of Health, or
+12 the Attorney General, to review any transactions.
+13 § 9527. COMPREHENSIVE REVIEW PROCESS
+14 (a) Not later than 90 days after determining that a transaction is subject to a
+15 comprehensive review, the Green Mountain Care Board shall conduct one or
+16 more public hearings or public meetings, one of which shall be in the county in
+17 which the health care entity is located, to hear comments from interested
+18 parties.
+19 (b) The Green Mountain Care Board shall conduct a cost and market
+20 impact review of the proposed transaction in consultation with the Attorney
+21 General. The cost and market impact review shall examine factors relating to
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 16 of 45
+1 the proposed transaction, the transacting parties, and their relative market
+2 position, including:
+3 (1) the market share of each transacting party and the likely effects of
+4 the transaction on competition;
+5 (2) any previous transaction involving any transacting party, including
+6 acquisitions of or mergers with similar health care providers, whether or not in
+7 the same state;
+8 (3) the prices charged by any of the transacting parties for services,
+9 including their relative prices compared to others’ prices for the same services
+10 in the same geographic area;
+11 (4) the quality of the services provided by any health care provider or
+12 providers that are party to the transaction, including patient experience;
+13 (5) the cost and cost trends of the transacting entities in comparison to
+14 total health care expenditures statewide;
+15 (6) the availability and accessibility of services similar to those
+16 provided, or proposed to be provided, through any provider or provider
+17 organization that is party to the transaction within its primary service areas and
+18 dispersed service areas;
+19 (7) the impact of the material change transaction on competing options
+20 for the delivery of health care services within the transacting parties’ primary
+21 service areas and dispersed service areas;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 17 of 45
+1 (8) the role of the transacting parties in serving at-risk, underserved, and
+2 government payer patient populations;
+3 (9) the role of the transacting parties in providing low-margin or
+4 negative-margin services within their primary service areas and dispersed
+5 service areas;
+6 (10) any consumer concerns, including complaints or other allegations
+7 that any provider or provider organization that is party to the transaction has
+8 engaged in any unfair method of competition or any unfair or deceptive act or
+9 practice;
+10 (11) the transaction parties’ compliance with prior conditions and legal
+11 requirements related to competitive conduct, including compliance with
+12 corporate practice of medicine requirements under subchapter 3 of this chapter
+13 and reporting requirements regarding health care entity ownership and control
+14 under subchapter 4 of this chapter;
+15 (12) the impact of the transaction on the clinical workforce, including
+16 wages, staffing levels, supply, patient access, and continuity of patient-care
+17 relationships;
+18 (13) the impact of any real estate sale or lease agreement related to the
+19 transaction on the financial condition of each health care entity that is party to
+20 the transaction and its ability to maintain patient care operations;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 18 of 45
+1 (14) in the case of a proposed closure or discontinuance of a health care
+2 facility or any essential health services, the impact of the closure on health care
+3 access, outcomes, costs, and equity for those in the health care facility’s
+4 service area, and the health care facility’s plan for ensuring equitable access,
+5 quality, affordability, and availability of essential health services within the
+6 service area; and
+7 (15) any other factors that the Green Mountain Care Board or the
+8 Attorney General determines to be in the public interest.
+9 (c)(1)(A) Each party to the proposed transaction shall provide to the Green
+10 Mountain Care Board and the Attorney General:
+11 (i) a copy of the party’s audited financial statements and the
+12 details of all other transactions related to the proposed transaction, such as
+13 investments and loans to organizations in the party’s portfolio, as well as any
+14 other information provided to the party’s investors regarding the proposed
+15 transaction;
+16 (ii) information regarding any and all plans the party has to earn
+17 investor returns, payouts, dividends, or related private payments during the
+18 operation of and upon exit from the ownership of or contract with a health care
+19 provider; and
+20 (iii) a plain language summary of all of the means by which the
+21 party plans to generate profits related to the proposed transaction.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 19 of 45
+1 (B) All materials acquired by the Green Mountain Care Board and
+2 Attorney General pursuant to subdivision (A) of this subdivision (c)(1) shall be
+3 made available to the public except to the extent that a document or other item
+4 would be exempt from public inspection and copying under the Public Records
+5 Act.
+6 (2) The Green Mountain Care Board may request additional information
+7 or documents from the transacting parties necessary to conduct a cost and
+8 market impact review. Failure to respond or insufficient responses to requests
+9 for information by transacting parties may result in the extension of the
+10 deadline for the Green Mountain Care Board to complete the cost and market
+11 impact review, the imposition of conditions for approval, or the disapproval of
+12 the material change transaction.
+13 (3) The Office of the Health Care Advocate shall have the right to
+14 receive copies of all materials related to the proposed transaction and the
+15 comprehensive review and may submit comments for the Board’s
+16 consideration. The Office of the Health Care Advocate shall not further
+17 disclose any confidential or proprietary information provided to the Office
+18 pursuant to this section.
+19 (d) All confidential or otherwise nonpublic information and documents
+20 produced or obtained under this section are exempt from public inspection and
+21 copying under the Public Records Act and shall be kept confidential. The
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 20 of 45
+1 Green Mountain Care Board and the Attorney General shall not disclose the
+2 confidential information or documents to any person other than the Office of
+3 the Health Care Advocate without the consent of the party that produced the
+4 confidential information or documents, except that the Green Mountain Care
+5 Board and the Attorney General may disclose any information to any other
+6 State agency and to an expert or consultant under contract with the Green
+7 Mountain Care Board or the Attorney General, or both, to review the proposed
+8 transaction, provided that the State agency, expert, or consultant is bound by
+9 the same confidentiality requirements as the Green Mountain Care Board and
+10 the Attorney General.
+11 (e) The Green Mountain Care Board and the Attorney General may, in their
+12 sole discretion:
+13 (1) contract with, consult, and receive advice from any State agency as
+14 the Green Mountain Care Board or the Attorney General, or both, deems
+15 appropriate; and
+16 (2) contract with experts or consultants to assist in reviewing the
+17 proposed agreement or transaction.
+18 (f)(1) Not more than 120 days after determining that the transaction is
+19 subject to a comprehensive review under this section, the Green Mountain
+20 Care Board shall produce a cost and market impact review report containing
+21 the findings and conclusions of the cost and market impact review, provided
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 21 of 45
+1 that the health care entity has complied with the requests for information or
+2 documents pursuant to this section within 21 days following the request or by a
+3 later date set by mutual agreement of the health care entity and the Green
+4 Mountain Care Board or the Attorney General, as applicable. The cost and
+5 market impact review report shall be posted publicly and shall not disclose
+6 confidential information.
+7 (2) The Green Mountain Care Board may adopt rules creating an
+8 expedited process for conducting a cost and market impact review for
+9 transactions resulting in a transfer of assets not to exceed $1,500,000.00 if
+10 there are few competitive concerns or involving a distressed provider in danger
+11 of closing, or both.
+12 (g) The Green Mountain Care Board and the Attorney General shall be
+13 entitled to charge their costs to the transacting parties for all actual, reasonable,
+14 direct costs incurred in reviewing, evaluating, and making the determination
+15 referred to in this section, including administrative costs and the costs of
+16 contracted experts or consultants pursuant to subsection (e) of this section.
+17 § 9528. APPROVAL AUTHORITY
+18 (a)(1) The Green Mountain Care Board, in consultation with the Attorney
+19 General, shall have discretion to approve, conditionally approve, or disapprove
+20 of any material change transaction for which the Green Mountain Care Board
+21 receives notice under section 9525 of this chapter. Any conditions imposed
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 22 of 45
+1 pursuant to this section shall specify a time period for compliance, an
+2 expiration date, or that the condition applies indefinitely.
+3 (2) Notwithstanding subdivision (1) of this subsection, in the case of a
+4 material change transaction involving a health insurer that would be subject to
+5 review and approval by the Department of Financial Regulation, the Green
+6 Mountain Care Board shall make a recommendation to the Department of
+7 Financial Regulation based on the Green Mountain Care Board’s review
+8 whether the transaction should be approved, disapproved, on conditionally
+9 approved.
+10 (b) The Green Mountain Care Board shall inform the health care entity of
+11 its determination within 30 days following receipt of notice under section 9525
+12 of this chapter or, in the case of comprehensive review, within 60 days
+13 following the completion of the cost and market impact review. No proposed
+14 material change transaction shall be completed before the Green Mountain
+15 Care Board has informed the health care entity of its determination.
+16 (c) In making its determination, Green Mountain Care Board, in
+17 consultation with the Attorney General, may consider any factors that the
+18 Board or the Attorney General deems relevant, including:
+19 (1) the likely impact, as described in the cost and market impact review
+20 report where applicable, of the material change transaction on:
+21 (A) health care costs, prices, and affordability;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 23 of 45
+1 (B) the availability or accessibility of health care services to the
+2 affected community;
+3 (C) provider cost trends and containment of total State health care
+4 spending;
+5 (D) access to services in medically underserved areas;
+6 (E) rectifying historical and contemporary factors contributing to a
+7 lack of health equities or access to services;
+8 (F) the functioning and competitiveness of the markets for health care
+9 and health insurance;
+10 (G) the potential effects of the transaction on health outcomes,
+11 quality, access, equity, or workforce, or a combination of these, for residents of
+12 this State; and
+13 (H) the potential loss or change in access to essential services;
+14 (2) whether the material change transaction is contrary to or violates any
+15 applicable law, including State antitrust laws, laws restricting the corporate
+16 practice of medicine, and consumer protection laws;
+17 (3) whether the benefits of the transaction are likely to outweigh the
+18 anticompetitive effects from the transaction; and
+19 (4) whether the transaction is in the public interest and advances the
+20 principles set forth in section 9371 of this title.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 24 of 45
+1 (d) The Green Mountain Care Board shall not approve a material change
+2 transaction if any of the following conditions is met:
+3 (1) the transaction would give a party ownership of the core business
+4 operations of an essential community provider, as defined in 45 C.F.R.
+5 § 156.235;
+6 (2) the transaction involves financing the acquisition of a health care
+7 entity through the use of debt that will become an obligation of one or more of
+8 the health care entities that are party to the transaction;
+9 (3) the transaction involves issuing dividends or other shareholder
+10 returns financed by debt that will become an obligation of one or more of the
+11 health care entities that are party to the transaction;
+12 (4) the transaction involves entering into any contract or other service or
+13 purchasing arrangement with an affiliated legal entity, except for a contract or
+14 arrangement to provide services or products, or both, that are necessary to
+15 accomplish the legitimate health care purposes of the relevant health care
+16 entity and the contract or arrangement provides for compensation or
+17 reimbursement that is consistent with the fair market value of the services
+18 rendered or products delivered; or
+19 (5) the transaction would result in one or more health care entities that
+20 does not accept, or that places limitations on, patients covered by Medicaid,
+21 original Medicare, or Medicare Advantage.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 25 of 45
+1 (e) Nothing in this section shall be construed to limit or alter any existing
+2 authority of the Attorney General or any other State agency to enforce any
+3 other law, including State or federal antitrust law, or to review transactions
+4 involving nonprofit entities.
+5 § 9529. POST-TRANSACTION OVERSIGHT
+6 (a) Enforcement by the Office of the Attorney General.
+7 (1) The Attorney General may subpoena any records necessary to
+8 enforce any provisions of this chapter or to investigate suspected violations of
+9 any provisions of this chapter or any conditions imposed by conditional
+10 approval pursuant to section 9528 of this chapter. The Attorney General may
+11 audit the books, documents, records, and data of any entity that is subject to a
+12 conditional approval under section 9528 of this chapter to monitor compliance
+13 with the conditions.
+14 (2)(A) The Attorney General may enforce any requirement of this
+15 chapter and any conditions imposed by a conditional approval pursuant to
+16 section 9528 of this chapter to the fullest extent provided by law, including
+17 damages. In addition to any legal remedies the Attorney General may have,
+18 the Attorney General shall be entitled to specific performance, injunctive
+19 relief, and other equitable remedies a court deems appropriate for any
+20 violations or imminent violation of any requirement of this chapter or breach
+21 of any of the conditions and shall be entitled to recover the Office of the
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 26 of 45
+1 Attorney General’s attorney’s fees and costs incurred in remedying each
+2 violation.
+3 (B) In addition to the remedies set forth in subdivision (A) of this
+4 subdivision (a)(2), the Attorney General may impose administrative penalties
+5 for any violation of this chapter or of any conditions imposed pursuant to a
+6 conditional approval under section 9528 of this chapter and may rescind or
+7 deny approval for any other past, pending, or future material change
+8 transactions involving the health care entity or an affiliate.
+9 (3) Nothing in this subsection shall be deemed to narrow, abrogate, or
+10 otherwise alter the authority of the Attorney General to prosecute violations of
+11 antitrust or consumer protection requirements.
+12 (b) Compliance monitoring. In order to effectively monitor ongoing
+13 compliance with the terms and conditions of any transaction subject to prior
+14 notice, approval, or conditional approval under this chapter, the Green
+15 Mountain Care Board and the Attorney General may, in their sole discretion,
+16 conduct a review or audit and may contract with experts and consultants to
+17 assist in this regard.
+18 (c) Annual reporting. Annually following the completion of the material
+19 change transaction approved or conditionally approved by the Green Mountain
+20 Care Board after a comprehensive review under section 9527 of this chapter,
+21 the health care entity or other person that acquired direct or indirect control
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 27 of 45
+1 over the health care entity shall submit a report to the Green Mountain Care
+2 Board and the Attorney General that:
+3 (1) demonstrates compliance with conditions placed on the transaction,
+4 if any;
+5 (2) analyzes cost trends and cost growth trends of the parties to the
+6 transaction; and
+7 (3) analyzes any changes or effects of the transaction on patient access,
+8 availability of services, workforce, quality, or equity.
+9 (d) Costs. The Green Mountain Care Board and the Attorney General shall
+10 be entitled to charge costs to the transacting parties for all actual, reasonable,
+11 and direct costs incurred in monitoring ongoing compliance with the terms and
+12 conditions of the sale or transfer of assets, including contractor and
+13 administrative costs.
+14 Subchapter 3. Prohibition on Corporate Practice of Medicine
+15 § 9531. CORPORATE PRACTICE OF MEDICINE PROHIBITED
+16 (a) It is unlawful for an individual, corporation, partnership, or
+17 any other entity without a license under 26 V.S.A. chapter 23 or 33 to own a
+18 medical practice, employ licensees, or otherwise engage in the practice of
+19 medicine.
+20 (b) Notwithstanding subsection (a) of this section, an individual,
+21 corporation, partnership, or any other entity without a license under 26 V.S.A.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 28 of 45
+1 chapter 23 or 33 that is permitted to employ licensees under section 9532 of
+2 this chapter shall not indirectly or directly interfere with, control, or otherwise
+3 direct the professional judgment or clinical decisions of a licensee.
+4 § 9532. CORPORATE ENTITIES PERMITTED TO EMPLOY
+5 PHYSICIANS
+6 (a) A medical practice organized for the purpose of practicing medicine
+7 may employ physicians and engage in the practice of medicine only if all of
+8 the following conditions are met:
+9 (1) Licensees who are licensed in this State to practice medicine must
+10 hold the majority of each class of shares that are entitled to vote.
+11 (2) Licensees who are licensed in this State to practice medicine must
+12 comprise a majority of the directors.
+13 (3) All officers except the secretary and treasurer, if any, must be
+14 licensees who are licensed in this State to practice medicine. The same
+15 individual may hold any two or more offices.
+16 (b) Notwithstanding any provision of subsection (a) of this section to the
+17 contrary, the following entities may employ physicians and engage in the
+18 practice of medicine:
+19 (1) federally qualified health centers;
+20 (2) rural health clinics;
+21 (3) free and referral clinics;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 29 of 45
+1 (4) nonprofit hospitals;
+2 (5) hospitals and other health care facilities owned or operated, or both,
+3 by the State;
+4 (6) ambulatory surgical centers; and
+5 (7) school-based health clinics, including student health centers at
+6 postsecondary schools.
+7 § 9533. REGULATION OF CONTRACTS BETWEEN MEDICAL
+8 PRACTICES AND MANAGEMENT SERVICES
+9 ORGANIZATIONS
+10 (a) Prohibition on straw ownership.
+11 (1) Each licensee owner of a medical practice shall exhibit meaningful
+12 ownership of the medical practice.
+13 (2) Meaningful ownership means that each licensee owner is duly
+14 licensed and present in this State and is substantially engaged in delivering
+15 medical care or managing the medical practice, or both.
+16 (b) Prohibition on dual ownership or interests.
+17 (1) Except as provided in subdivision (2) of this subsection, a
+18 shareholder, director, or officer of a medical practice shall not do any of the
+19 following:
+20 (A) own or control shares in, serve as a director or officer of, be an
+21 employee of or an independent contractor with, or otherwise participate in
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 30 of 45
+1 managing both the medical practice and a management services organization
+2 with which the medical practice has a contract; or
+3 (B) receive substantial compensation or remuneration from a
+4 management services organization in return for ownership or management of
+5 the medical practice.
+6 (2) Subdivision (1) of this subsection shall not apply to the shareholders,
+7 directors, or officers of a medical practice if the medical practice owns a
+8 majority of the interest in the management services organization or separate
+9 legal entity.
+10 (c) Prohibition on stock transfer restriction agreements.
+11 (1) A medical practice shall not transfer or relinquish control over the
+12 sale, the restriction of the sale, or the encumbrance of the sale of the medical
+13 practice’s shares or assets.
+14 (2) A medical practice shall not transfer or relinquish control over the
+15 issuing of shares of stock in the medical practice, in a subsidiary of the medical
+16 practice or an entity affiliated with the medical practice, or the paying of
+17 dividends.
+18 (d) Prohibition on restrictive covenants.
+19 (1) Noncompetition agreements.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 31 of 45
+1 (A) Except as provided in subdivision (B) of this subdivision (d)(1), a
+2 noncompetition agreement between a licensee and another person is void and
+3 unenforceable.
+4 (B) Notwithstanding subdivision (A) of this subdivision (d)(1), a
+5 noncompetition agreement between a licensee and another person is valid and
+6 enforceable if the licensee is a shareholder or member of the other person or
+7 otherwise owns or controls an ownership or membership interest that is
+8 equivalent to 25 percent or more of the entire ownership or membership
+9 interest that exists in the other person.
+10 (2) Nondisclosure and nondisparagement agreements.
+11 (A) Except as provided in subdivision (B) of this subdivision (d)(2), a
+12 nondisclosure agreement or nondisparagement agreement between a licensee
+13 and a management services organization is void and unenforceable.
+14 (B) Subdivision (A) of this subdivision (d)(2) shall not be deemed to
+15 limit or otherwise affect any cause of action that:
+16 (i) a party to, or third-party beneficiary of, the agreement may
+17 have with respect to a statement of a licensee that constitutes libel, slander, a
+18 tortious interference with contractual relations, or another tort for which the
+19 party has a cause of action against the licensee; and
+20 (ii) does not depend upon or derive from a breach or violation of
+21 an agreement described in subdivision (1) of this subsection (d).
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 32 of 45
+1 (e) Limitations on advertising. It is unlawful for a management services
+2 organization or other legal entity that is not the medical practice to advertise
+3 the medical practice’s services under the name of the entity that is not the
+4 medical practice.
+5 (f) Prohibition on relinquishing control of medical practice.
+6 (1) A medical practice shall not, by means of a contract or other
+7 agreement or arrangement, by providing in the medical practice’s articles of
+8 incorporation or bylaws, by forming a subsidiary or affiliated entity, or by
+9 other means, relinquish control over or otherwise transfer de facto control over
+10 any of the medical practice’s administrative, business, or clinical operations
+11 that may affect clinical decision making or the nature or quality of medical
+12 care that the medical practice delivers.
+13 (2) Conduct prohibited under subdivision (1) of this subsection
+14 includes relinquishing ultimate decision-making authority over:
+15 (A) hiring or termination, setting work schedules and compensation,
+16 or otherwise specifying terms of employment of employees who are licensed to
+17 practice medicine in this State or who are licensed in this State as a physician
+18 assistant or advanced practice registered nurse;
+19 (B) the disbursement of revenue generated from physician fees and
+20 other revenue generated by physician services;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 33 of 45
+1 (C) collaboration and negotiation with hospitals and other health care
+2 facilities in which the licensees of the medical practice may deliver clinical
+3 care, including controlling licensee schedules as a means of discipline;
+4 (D) setting staffing levels, or specifying the period of time that a
+5 licensee may spend with a patient, for any location that serves patients;
+6 (E) making diagnostic coding decisions;
+7 (F) setting clinical standards or policies;
+8 (G) setting policies for patient, client, or customer billing and
+9 collection;
+10 (H) setting the prices, rates, or amounts the medical practice charges
+11 for a licensee’s services; or
+12 (I) negotiating, executing, performing, enforcing, or terminating
+13 contracts with third-party payers or persons who are not employees of the
+14 medical practice.
+15 (3) The conduct described in subdivision (2) of this subsection does not
+16 prohibit:
+17 (A) collection of quality metrics as required by law or in accordance
+18 with an agreement to which the medical practice is a party; or
+19 (B) setting criteria for reimbursement under a contract between the
+20 medical practice and an insurer or a payer or entity that otherwise reimburses
+21 the medical practice for providing medical care.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 34 of 45
+1 (4) A medical practice may relinquish or transfer control over the
+2 medical practice’s administrative, business, or clinical operations that will not
+3 affect clinical decision making or the nature or quality of medical care that the
+4 medical practice delivers, provided that the medical practice executes a
+5 shareholder agreement exclusively between or among and for the benefit of a
+6 majority of shareholders who are physicians licensed in this State to practice
+7 medicine and the shareholder agreement.
+8 § 9534. PROTECTIONS FOR EMPLOYED LICENSEES
+9 (a) Application. The provisions set forth in this section apply to licensees
+10 who are employed by, or who provide health care services under contract with,
+11 an unlicensed person, corporation, or other entity under section 9532 of this
+12 chapter.
+13 (b) Prohibition on restrictive covenants.
+14 (1) Noncompetition agreements. A noncompetition agreement between
+15 a licensee and an employer or other entity is void and unenforceable.
+16 (2) Nondisclosure and nondisparagement agreements.
+17 (A) Except as provided in subdivision (B) of this subdivision (b)(2), a
+18 nondisclosure agreement or nondisparagement agreement between a licensee
+19 and an employer or other entity is void and unenforceable.
+20 (B) Subdivision (A) of this subdivision (b)(2) shall not be deemed to
+21 limit or otherwise affect any cause of action that:
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 35 of 45
+1 (i) a party to, or third-party beneficiary of, the agreement may
+2 have with respect to a statement of a licensee that constitutes libel, slander, a
+3 tortious interference with contractual relations, or another tort for which the
+4 party has a cause of action against the licensee; and
+5 (ii) does not depend upon or derive from a breach or violation of
+6 an agreement described in subdivision (1) of this subsection (b).
+7 (c) Prohibition on directing licensee’s professional judgment or clinical
+8 decisions. Conduct prohibited under subsection 9531(b) of this chapter
+9 includes controlling, either directly or indirectly, through discipline,
+10 punishment, threats, adverse employment actions, coercion, retaliation,
+11 excessive pressure, or otherwise, any one or more of the following:
+12 (1) the period of time a licensee may spend with a patient, including the
+13 time permitted for a licensee to triage patients in the emergency department or
+14 evaluate admitted patients;
+15 (2) the period of time within which a licensee must discharge a patient;
+16 (3) the clinical status of a patient, including whether the patient should
+17 be admitted to inpatient status, whether the patient should be kept in
+18 observation status, whether the patient should receive palliative care, and
+19 whether and where the patient should be referred upon discharge, such as a
+20 skilled nursing facility;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 36 of 45
+1 (4) the diagnoses, diagnostic terminology, or codes that are entered into
+2 the medical record by the licensee;
+3 (5) the range of clinical orders available to licensees, including by
+4 configuring the medical record to prohibit or significantly limit the options
+5 available to the licensee; or
+6 (6) any other action specified by rule to constitute impermissible
+7 interference or control over the clinical judgment and decision making of a
+8 licensee.
+9 Subchapter 4. Transparency in Ownership and Control of Health Care Entities
+10 § 9541. REPORTING OF OWNERSHIP AND CONTROL OF HEALTH
+11 CARE ENTITIES
+12 (a) Except as otherwise provided in subsection (b) of this section, each
+13 health care entity shall report to the Green Mountain Care Board at least once
+14 every two years and upon the consummation of a material change transaction
+15 involving the entity, in a form and manner required by the Board, the following
+16 information:
+17 (1) the health care entity’s legal name;
+18 (2) the health care entity’s business address;
+19 (3) the locations of the health care entity’s operations;
+20 (4) the health care entity’s business identification numbers, as
+21 applicable, including:
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 37 of 45
+1 (A) taxpayer identification number (TIN);
+2 (B) national provider identifier (NPI);
+3 (C) employer identification number (EIN);
+4 (D) Centers for Medicare and Medicaid Services certification number
+5 (CCN);
+6 (E) National Association of Insurance Commissioners (NAIC)
+7 identification number;
+8 (F) a personal identification number associated with a license issued
+9 by the Department of Financial Regulation; and
+10 (G) a pharmacy benefit manager identification number associated
+11 with a licensed issued to a pharmacy benefit manager in this State;
+12 (5) the name and contact information of a representative of the health
+13 care entity;
+14 (6) the name, business address, and business identification numbers
+15 listed in subdivision (4) of this subsection for each person who, with respect to
+16 the relevant health care entity:
+17 (A) has an ownership or investment interest;
+18 (B) has a controlling interest;
+19 (C) is a management services organization; or
+20 (D) is a significant equity investor;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 38 of 45
+1 (7) a current organizational chart showing the business structure of the
+2 health care entity, including:
+3 (A) any entity listed in subdivision (6) of this subsection (a);
+4 (B) affiliates, including entities that control or are under common
+5 control as the health care entity; and
+6 (C) subsidiaries;
+7 (8) for a health care entity that is a provider organization or a health care
+8 facility:
+9 (A) the affiliated health care providers identified by name, license
+10 type, specialty, NPI, and other applicable identification number listed in
+11 subdivision (4) of this subsection (a); the address of each health care provider’s
+12 principal practice location; and whether the health care provider is employed or
+13 contracted by the entity; and
+14 (B) the name and address of affiliated health care facilities by license
+15 number, license type, and capacity;
+16 (9) the names; NPI, if applicable; and compensation of:
+17 (A) the members of the health care entity’s governing board, board of
+18 directors, or similar governance body;
+19 (B) any entity that is owned or controlled by, affiliated with, or under
+20 common control as the health care entity; and
+21 (C) any entity listed in subdivision (6) of this subsection (a); and
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 39 of 45
+1 (10) comprehensive financial reports of the health care entity and any
+2 ownership and control entities, including audited financial statements, cost
+3 reports, annual costs, annual receipts, realized capital gains and losses,
+4 accumulated surplus, and accumulated reserves.
+5 (b) The following health care entities are exempt from the reporting
+6 requirements set forth in subsection (a) of this section:
+7 (1) a health care entity that is an independent provider organization,
+8 without any ownership or control entities, consisting of two or fewer
+9 physicians; provided, however, that if such health care entity experiences a
+10 material change transaction under subchapter 2 of this chapter, the health care
+11 entity is subject to reporting under subsection (a) of this section upon the
+12 consummation of the transaction; and
+13 (2) a health care provider or provider organization that is owned or
+14 controlled by another health care entity, if the health care provider organization
+15 is shown in the organizational chart submitted under subdivision (a)(7) of this
+16 section and the controlling health care entity reports all the information
+17 required under subsection (a) of this section on behalf of the controlled or
+18 owned entity; provided, however, that health care facilities are not subject to
+19 this exemption.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 40 of 45
+1 § 9542. SHARING OF OWNERSHIP INFORMATION TO IMPROVE
+2 TRANSPARENCY
+3 (a) Information provided under this section shall be public information and
+4 shall not be considered confidential, proprietary, or a trade secret; provided,
+5 however, that any individual health care provider’s taxpayer ID that is also the
+6 individual’s Social Security number shall be exempt from public inspection
+7 and copying under the Public Records Act and shall be kept confidential.
+8 (b) On or before February 1, 2027, and every two years thereafter, the
+9 Green Mountain Care Board shall post on its website a report with respect to
+10 the previous two-year period, including:
+11 (1) the number of health care entities reporting for such year,
+12 disaggregated by the business structure of each specified entity;
+13 (2) the names, addresses, business structure of any entities with an
+14 ownership or controlling interest in each health care entity;
+15 (3) any change in ownership or control for each health care entity;
+16 (4) any change in the tax identification number of a health care entity;
+17 (5) as applicable, the name, address, tax identification number, and
+18 business structure of other affiliates under common control, subsidiaries, and
+19 management services entities as the health care entity, including the business
+20 type and the tax identification number of each; and
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 41 of 45
+1 (6) an analysis of trends in horizontal and vertical consolidation,
+2 disaggregated by business structure and provider type.
+3 (c) The Green Mountain Care Board may share information reported under
+4 this subchapter with the Attorney General, other State agencies, and other State
+5 officials to reduce or avoid duplication in reporting requirements or to facilitate
+6 oversight or enforcement pursuant to the Vermont law, or both, and any tax
+7 identification numbers that are individual Social Security numbers may be
+8 shared with the Attorney General, other State agencies, and other State
+9 officials who agree to maintain the confidentiality of such information. The
+10 Board may, in consultation with the relevant State agencies, merge similar
+11 reporting requirements where appropriate.
+12 § 9543. ADMINISTRATION AND ENFORCEMENT
+13 (a)(1) The Board shall also specify the format and content of reports
+14 required under this subchapter and impose penalties for noncompliance.
+15 (2) Board may require additional reporting of data or information that it
+16 determines is necessary to better protect the public’s interest in monitoring the
+17 financial conditions, organizational structure, business practices, and market
+18 share of each registered health care entity.
+19 (b) The Board may assess and collect from health care entities its
+20 reasonable costs in overseeing and implementing this subchapter.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 42 of 45
+1 (c) The Board is authorized to audit and inspect the records of any health
+2 care entity that has failed to submit complete information pursuant to this
+3 subchapter or if the Board has reason to question the accuracy or completeness
+4 of the information submitted pursuant this subchapter.
+5 (d) The Board shall conduct annual audits of a random sample of health
+6 care entities to verify compliance with, accuracy of, and completeness of the
+7 reported information pursuant to this subchapter.
+8 (e) If a health care entity fails to provide a complete report under section
+9 9541 of this chapter, or submits a report containing false information, the
+10 entity shall be subject to a civil penalty as determined by the Attorney General.
+11 Subchapter 5. Enforcement of Chapter
+12 § 9547. ENFORCEMENT OF CHAPTER
+13 (a) Enforcement by Attorney General.
+14 (1) The Attorney General may subpoena any records necessary to
+15 enforce any provisions of this chapter or to investigate suspected violations of
+16 any provisions of this chapter or any conditions imposed by conditional
+17 approval pursuant to the material transactions review process.
+18 (2)(A) The Attorney General may enforce any requirement of this
+19 chapter and any conditions imposed by a conditional approval pursuant to the
+20 material transactions review process to the fullest extent provided by law,
+21 including damages. In addition to any legal remedies the Attorney General
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 43 of 45
+1 may have, the Attorney General shall be entitled to specific performance,
+2 injunctive relief, and other equitable remedies a court deems appropriate for
+3 any violations or imminent violation of any requirement of this chapter or any
+4 violations or breach of any of the conditions and shall be entitled to recover the
+5 attorney’s fees and costs incurred in remedying each violation.
+6 (B) In addition to the remedies set forth in subdivision (A) of this
+7 subdivision (a)(2), the Attorney General may impose administrative penalties
+8 for violations of this chapter or of any conditions imposed pursuant to a
+9 conditional approval and may rescind or deny approval for any other past,
+10 pending, or future material change transactions involving the health care entity
+11 or an affiliate.
+12 (3) Nothing in this subsection shall narrow, abrogate, or otherwise alter
+13 the authority of the Attorney General to prosecute violations of antitrust or
+14 consumer protection requirements.
+15 (b) Administrative enforcement.
+16 (1) Any entity that violates any provision of this chapter or any rules
+17 adopted pursuant this chapter may be subject to administrative penalties
+18 imposed by the Green Mountain Care Board.
+19 (2) The Green Mountain Care Board may disapprove any transaction or
+20 agreement that violates this chapter.
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 44 of 45
+1 (3) The Green Mountain Care Board may refer any entity to the
+2 Attorney General to review for enforcement of any noncompliance with this
+3 chapter or rules adopted pursuant to this chapter.
+4 (c) Private right of action.
+5 (1) Any person aggrieved by a violation of this chapter may bring an
+6 action in the Civil Division of the Superior Court without exhaustion of any
+7 alternative administrative remedies provided in this chapter.
+8 (2) If the court finds that the respondent has intentionally violated any
+9 provision of this chapter or any rule adopted pursuant to this chapter, it may
+10 award actual damages, punitive damages, or other equitable relief, or a
+11 combination of these.
+12 § 9548. RULEMAKING
+13 The Green Mountain Care Board and the Attorney General, as applicable,
+14 shall adopt rules as needed to implement the provisions of this chapter,
+15 including establishing what:
+16 (1) constitutes a “material” change transaction, which shall include any
+17 changes to health care services or line of business that affects competition or
+18 access in one or more geographic regions of the State;
+19 (2) it means to acquire direct or indirect control over a health care entity
+20 in whole or in substantial part;
+VT LEG #378935 v.2
+
+BILL AS INTRODUCED H.71
+2025 Page 45 of 45
+1 (3) constitutes a “significant reduction” and “essential health services”;
+2 and
+3 (4) information is required for notice of a material change transaction
+4 pursuant to section 9525 of this chapter.
+5 Sec. 2. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #378935 v.2
+
+[DELETED:  H P H I R B G R D S G m S c G B t b i d a A d]
+[DELETED:  H P I S C D S § A ( i c h r c a ( ( i o ( o]
+[DELETED:  H P p o ( p o ( d s m ( p e “ m s g s ( c c]
+[DELETED:  H P ( h ( ( f 3 o ( t ( t ( t ( t s ( s ( ( d]
+[DELETED:  H P ( s e ( b e i t ( p n 2 c ( e p f ( o i]
+[DELETED:  H P r $ ( ( i ( c ( o p a ( b ( a ( d p c e]
+[DELETED:  H P ( f ( p ( ( h ( t u c ( o m l ( l e c t p]
+[DELETED:  H P e g ( t o t a ( l i P ( t p ( l s t o s]
+[DELETED:  H P ( w a a c b ( ( p ( t s ( f o i ( c p c]
+[DELETED:  H P ( b o r f o a s i ( ( i ( i 1 ( e o u]
+[DELETED:  H P S § ( a C o r d ( i d i N G ( ( b u c a p]
+[DELETED:  H P t m ( m r B o d G o a ( p i c ( m p i ( p]
+[DELETED:  H P ( t ( e a ( ( a ( b G d § ( t p c ( e c]
+[DELETED:  H P ( t t ( t G c ( a ( $ ( l ( s c ( e g ( p]
+[DELETED:  H P ( a t s ( 3 g m ( e B t § ( c m w p ( i G]
+[DELETED:  H P t p ( t ( a t ( i i ( p ( t ( p o d ( f s]
+[DELETED:  H P ( g ( n s ( t e p ( r c a u ( w r ( t t]
+[DELETED:  H P ( f a s q s ( A ( M ( d i o t ( i o p ( p]
+[DELETED:  H P ( A m w A ( o m f d i t ( r c c d p ( p c]
+[DELETED:  H P G c t c B S M t t t ( s ( t a ( p ( s C t]
+[DELETED:  H P t d l M m c ( e t t o ( e d r c § ( G o r]
+[DELETED:  H P p e ( m r M F w a ( i o f m C ( c B ( r (]
+[DELETED:  H P ( a ( s ( ( l ( a ( q t ( ( a p ( a ( p]
+[DELETED:  H P ( t ( o § ( e t ( r h ( p a a e r r ( d o]
+[DELETED:  H P ( a o i § ( ( e a a a c w ( c s d t r v o]
+[DELETED:  H P A v ( s f c d t ( o a ( c n M c a ( c C t]
+[DELETED:  H P o B ( i ( t ( a ( b a c a S § ( a m m ( c]
+[DELETED:  H P c t d §   ( m t ( h ( c ( l i ( c p ( ( (]
+[DELETED:  H P ( ( b ( ( p §     ( ( o ( l m ( ( s f ( e]
+[DELETED:  H P m w ( m t ( d m l ( ( s p ( i p d ( (]
+[DELETED:  H P ( n u ( n e o e i ( ( n a ( l ( h t p ( a]
+[DELETED:  H P ( o t m ( ( a i o a t c ( i ( o p a ( o]
+[DELETED:  H P ( f c ( l ( ( ( c ( f ( c m ( p ( w ( m t]
+[DELETED:  H P ( m a m s m m § ( w a c ( ( a ( ( n a ( l]
+[DELETED:  H P ( h t p ( a ( d i p e ( t e ( ( b o w s]
+[DELETED:  H P ( t ( c a ( i l S §   ( h e i i ( ( ( ( a]
+[DELETED:  H P ( ( ( ( ( ( i ( b ( w ( c ( l t ( ( ( (]
+[DELETED:  H P ( h ( ( c ( ( f ( t s p c ( n ( ( d ( c (]
+[DELETED:  H P ( o r a ( r ( w p m e c ( c i s r o t]
+[DELETED:  H P §   ( s h i a ( G t ( d ( o ( ( ( b m t]
+[DELETED:  H P ( d ( t o o i s o B r § ( r ( d f s ( r]
+[DELETED:  H P ( c s o ( c r ( 9 e S § ( ( e a a ( c m i]
+[DELETED:  H P m i a v a ( s f c p o ( t c ( ( a i ( a]
+[DELETED:  H P ( A c ( ( a a ( p a c § T s i ( c a ( i]
+[DELETED:  H P ( a ( p S T]

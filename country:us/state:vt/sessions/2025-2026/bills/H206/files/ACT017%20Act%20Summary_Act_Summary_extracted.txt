@@ -1,0 +1,57 @@
+Title: This act summary is provided for the convenience of the public and members of the General Assembly. It
+Official Title: This act summary is provided for the convenience of the public and members of the General Assembly. It
+Number of Sections: 2
+Source: versions - Act Summary
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Act No. 17 Page 1 of 1
+2025
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 17 (H.206). An act relating to the Uniform Commercial Code
+Subjects: Uniform Commercial Code
+This act makes changes the Uniform Commercial Code, codified in Title 9A of the
+V.S.A. The Uniform Law Commission, which oversees the model language of the
+Uniform Commercial Code, adopted a set of new recommendations for states to adopt in
+
+Section 2:
+2022. The Uniform Commercial Code is most effective when all states have the same
+language, so this act adopts all of the 2022 recommendations from the Uniform Law
+Commission. Besides various technical updates, notable in these amendments is the
+adoption of a new Article 12, which provides commercial law rules for transactions
+involving controllable electronic records. These records include emerging technologies,
+such as virtual currencies and electronic chattel paper.
+Effective Date: July 1, 2026
+VT LEG #384312 v.2
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+Act No. 17 Page 1 of 1
+2025
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 17 (H.206). An act relating to the Uniform Commercial Code
+Subjects: Uniform Commercial Code
+This act makes changes the Uniform Commercial Code, codified in Title 9A of the
+V.S.A. The Uniform Law Commission, which oversees the model language of the
+Uniform Commercial Code, adopted a set of new recommendations for states to adopt in
+2022. The Uniform Commercial Code is most effective when all states have the same
+language, so this act adopts all of the 2022 recommendations from the Uniform Law
+Commission. Besides various technical updates, notable in these amendments is the
+adoption of a new Article 12, which provides commercial law rules for transactions
+involving controllable electronic records. These records include emerging technologies,
+such as virtual currencies and electronic chattel paper.
+Effective Date: July 1, 2026
+VT LEG #384312 v.2
+
+[DELETED:  P]

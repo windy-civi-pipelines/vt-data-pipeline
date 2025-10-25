@@ -1,0 +1,359 @@
+Title: BILL AS INTRODUCED H.432
+Official Title: BILL AS INTRODUCED H.432
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.432
+2 Introduced by Representatives Burke of Brattleboro, Cina of Burlington,
+3 Howard of Rutland City, Lalley of Shelburne, Masland of
+4 Thetford, Morgan, L. of Milton, and Ode of Burlington
+5 Referred to Committee on
+6 Date:
+7 Subject: Health; health insurance; prosthetics; orthotics
+8 Statement of purpose of bill as introduced: This bill proposes to expand health
+9 insurance coverage requirements for prosthetic and orthotic devices. It would
+10 also require health insurers to report their claims experience with coverage for
+11 prosthetic and orthotic devices for plan years 2026, 2027, and 2028 to the
+12 Department of Financial Regulation, which the Department would aggregate
+13 into a report to the General Assembly.
+14 An act relating to health insurance coverage for prosthetic and orthotic
+15 devices
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 8 V.S.A. § 4088f is amended to read:
+18 § 4088f. PROSTHETIC PARITY COVERAGE FOR PROSTHETIC AND
+19 ORTHOTIC DEVICES
+20 (a) As used in this section:
+VT LEG #380733 v.1
+BILL AS INTRODUCED H.432
+2025 Page 2 of 7
+1 (1) “Health insurance plan” means any health insurance policy or health
+2 benefit plan offered by a health insurer, as defined in 18 V.S.A. § 9402, as well
+3 as Medicaid and any other public health care assistance program offered or
+4 administered by the State or by any subdivision or instrumentality of the State.
+5 The term shall not include policies or plans providing coverage for a specific
+6 disease or other limited benefit coverage.
+7 (2) “Prosthetic device and orthotic devices” means an artificial limb
+8 device to replace, in whole or in part, an arm or a leg, arm, back, and neck
+9 braces and artificial legs, arms, and eyes, whether standard or custom-made.
+10 (b) A health insurance plan shall provide coverage for prosthetic and
+11 orthotic devices in all health plans that is at least equivalent to that the
+12 coverage provided by the federal Medicare program pursuant to 42 U.S.C.
+13 §§ 1395k, 1395l, and 1395m and 42 C.F.R. §§ 414.202, 414.210, 414.228, and
+14 140.100. Coverage may be limited to the shall be provided for all of the
+15 following:
+16 (1) a prosthetic or orthotic device that is determined by the covered
+17 individual’s treating health care provider to be the most appropriate model that
+18 is medically necessary to meet the patient’s adequately meets the covered
+19 individual’s medical needs;
+20 (2) a prosthetic or orthotic device that is determined by the covered
+21 individual’s treating health care provider to be the most appropriate model that
+VT LEG #380733 v.1
+BILL AS INTRODUCED H.432
+2025 Page 3 of 7
+1 meets the covered individual’s medical needs for purposes of performing
+2 physical activities, such as running, biking, swimming, and strength training,
+3 as applicable, and that maximizes the covered individual’s whole-body health
+4 and the functions of the individual’s lower or upper limbs, or both;
+5 (3) a prosthetic or orthotic device that is determined by the covered
+6 individual’s treating health care provider to be the most appropriate model that
+7 meets the covered individual’s medical needs for purposes of showering or
+8 bathing;
+9 (4) all materials and components necessary for the covered individual’s
+10 use of the prostheses and orthoses described in subdivisions (1)–(3) of this
+11 subsection;
+12 (5) instruction to the covered individual on using the device or devices,
+13 materials, and components described in subdivisions (1)–(4) of this subsection;
+14 and
+15 (6) the medically necessary repair or replacement of a prosthetic or
+16 orthotic device, material, or component described in subdivisions (1)–(4) of
+17 this subsection, as further described in subsection (f) of this section.
+18 (c)(1) A health insurance plan shall consider coverage for prosthetic and
+19 orthotic devices to be habilitative or rehabilitative benefits for purposes of any
+20 federal or State requirement regarding coverage of essential health benefits.
+VT LEG #380733 v.1
+BILL AS INTRODUCED H.432
+2025 Page 4 of 7
+1 (2) For purposes of the coverage required by subdivisions (b)(2) and (3)
+2 of this section, a health plan may require the covered individual’s treating
+3 health care provider to determine that the additional prosthetic or orthotic
+4 device is necessary to enable the person to engage in physical activities, such
+5 as running, biking, swimming, strength training, showering, and bathing, as
+6 applicable, and to maximize the covered individual’s whole-body health and
+7 the functions of the individual’s lower or upper limbs, or both.
+8 (3) A health plan shall make its utilization review determinations in a
+9 nondiscriminatory manner and shall not deny coverage for a prosthetic or
+10 orthotic device solely on the basis of a covered individual’s actual or perceived
+11 disability.
+12 (4) A health insurance plan shall not deny coverage for a prosthetic or
+13 orthotic device for a physical activity for a covered individual with limb loss or
+14 absence if the plan would provide coverage for an individual without a
+15 disability who was seeking a medical or surgical intervention to restore or
+16 maintain the individual’s ability to perform the same physical activity.
+17 (5) A health insurance plan shall include language describing a covered
+18 individual’s rights pursuant to subdivisions (3) and (4) of this subsection in the
+19 plan’s evidence of coverage and in any benefit denial letters.
+20 (6) Any dispute between the insured and the carrier a covered individual
+21 and a health insurance plan concerning coverage and the application of this
+VT LEG #380733 v.1
+BILL AS INTRODUCED H.432
+2025 Page 5 of 7
+1 section shall be subject to independent external review under section 4089f of
+2 this title.
+3 (c)(d) A health insurance plan may require prior authorization for
+4 prosthetic devices in the same manner and to the same extent as prior
+5 authorization is required for any other covered benefit under the plan.
+6 (e) A health insurance plan shall ensure access to medically necessary
+7 clinical care and to prosthetic and orthotic devices and technology from not
+8 fewer than two distinct prosthetic and orthotic providers who are located in this
+9 State and are in the plan’s network. In the event that medically necessary
+10 covered prosthetic and orthotic devices are not available from an in-network
+11 provider in this State, the plan shall provide processes for referring a covered
+12 individual to an out-of-network provider and shall fully reimburse the out-of-
+13 network provider at a mutually agreed-upon rate, less the covered individual’s
+14 cost sharing as determined on an in-network basis.
+15 (d)(f)(1) A health insurance plan shall provide coverage under this section
+16 for the medically necessary repair or replacement of a prosthetic or orthotic
+17 device or for the replacement of any part of the device, without regard to
+18 continuous use or useful lifetime restrictions, if the covered individual’s
+19 treating health care provider determines that the provision of a replacement
+20 device or replacement part is necessary because of any of the following:
+21 (A) a change in the covered individual’s physiological condition;
+VT LEG #380733 v.1
+BILL AS INTRODUCED H.432
+2025 Page 6 of 7
+1 (B) an irreparable change in the condition of the device or a part of
+2 the device; or
+3 (C) the condition of the device or part of the device requires repairs,
+4 and the cost of the repairs would equal more than 60 percent of the cost of a
+5 replacement device or of the part being replaced.
+6 (2) A health insurance plan may require confirmation from the covered
+7 individual’s treating health care provider if the prosthetic or orthotic device or
+8 part being replaced is less than three years old.
+9 (e)(g) A health insurance plan shall not impose any annual or lifetime
+10 dollar maximum on coverage for prosthetics prosthetic and orthotic devices
+11 that is less than the annual or lifetime dollar maximum that applies generally to
+12 all terms and services covered under the plan.
+13 (f)(h) The coverage required may shall not be subject to a deductible, co-
+14 payment, or coinsurance provision that is less favorable to a covered individual
+15 than the deductible, co-payment, or coinsurance provisions that apply generally
+16 to other non-primary care items and services under the health plan.
+17 Sec. 2. PROSTHETIC AND ORTHOTIC DEVICES; HEALTH
+18 INSURANCE CLAIMS; REPORT
+19 (a) On or before July 1, 2029, each health insurer that is subject to the
+20 annual reporting requirements of 18 V.S.A. § 9414a shall also report to the
+VT LEG #380733 v.1
+BILL AS INTRODUCED H.432
+2025 Page 7 of 7
+1 Department of Financial Regulation regarding the health insurer’s experience
+2 with providing coverage for prosthetic and orthotic devices pursuant to
+3 8 V.S.A. § 4088f, as amended by Sec. 1 of this act, for plan years 2026, 2027,
+4 and 2028. The report shall be in the form required by the Commissioner of
+5 Financial Regulation and shall include the number of claims for the goods and
+6 services required by 8 V.S.A. § 4088f in each of the plan years and the total
+7 amount of claims paid in this State for those goods and services in each of the
+8 plan years.
+9 (b) On or before December 1, 2029, the Commissioner shall provide a
+10 report with aggregated data for all health insurers by plan year to the House
+11 Committees on Health Care and on Human Services and the Senate
+12 Committees on Health and Welfare and on Finance.
+13 Sec. 3. EFFECTIVE DATE
+14 (a) Sec. 1 (8 V.S.A. § 4088f) shall take effect on January 1, 2026 and shall
+15 apply to all health insurance plans issued on and after January 1, 2026 on such
+16 date as a health insurer offers, issues, or renews the health insurance plan, but
+17 in no event later than January 1, 2027.
+18 (b) The remaining sections shall take effect on passage.
+VT LEG #380733 v.1
+[DELETED:  H P H I R H T R D S S i a p D i A d I S §   (]
+[DELETED:  H P ( b a a T d ( d b ( o c § 1 f ( i i i ( i]
+[DELETED:  H P m p a a ( i m b ( u s ( m a ( o t ( o f]
+[DELETED:  H P ( o h d a a t ( n o d ( o a d m ( i p ( a]
+[DELETED:  H P s t ( p a ( c f S c p i n c ( f d c t d (]
+[DELETED:  H P ( t ( a r ( i p ( d t a ( p t t S   ( a]
+[DELETED:  H P D w 8 a F s a p ( r C C S ( a d i (]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.432
+2025 Page 1 of 7
+1 H.432
+2 Introduced by Representatives Burke of Brattleboro, Cina of Burlington,
+3 Howard of Rutland City, Lalley of Shelburne, Masland of
+4 Thetford, Morgan, L. of Milton, and Ode of Burlington
+5 Referred to Committee on
+6 Date:
+7 Subject: Health; health insurance; prosthetics; orthotics
+8 Statement of purpose of bill as introduced: This bill proposes to expand health
+9 insurance coverage requirements for prosthetic and orthotic devices. It would
+10 also require health insurers to report their claims experience with coverage for
+11 prosthetic and orthotic devices for plan years 2026, 2027, and 2028 to the
+12 Department of Financial Regulation, which the Department would aggregate
+13 into a report to the General Assembly.
+14 An act relating to health insurance coverage for prosthetic and orthotic
+15 devices
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 8 V.S.A. § 4088f is amended to read:
+18 § 4088f. PROSTHETIC PARITY COVERAGE FOR PROSTHETIC AND
+19 ORTHOTIC DEVICES
+20 (a) As used in this section:
+VT LEG #380733 v.1
+
+BILL AS INTRODUCED H.432
+2025 Page 2 of 7
+1 (1) “Health insurance plan” means any health insurance policy or health
+2 benefit plan offered by a health insurer, as defined in 18 V.S.A. § 9402, as well
+3 as Medicaid and any other public health care assistance program offered or
+4 administered by the State or by any subdivision or instrumentality of the State.
+5 The term shall not include policies or plans providing coverage for a specific
+6 disease or other limited benefit coverage.
+7 (2) “Prosthetic device and orthotic devices” means an artificial limb
+8 device to replace, in whole or in part, an arm or a leg, arm, back, and neck
+9 braces and artificial legs, arms, and eyes, whether standard or custom-made.
+10 (b) A health insurance plan shall provide coverage for prosthetic and
+11 orthotic devices in all health plans that is at least equivalent to that the
+12 coverage provided by the federal Medicare program pursuant to 42 U.S.C.
+13 §§ 1395k, 1395l, and 1395m and 42 C.F.R. §§ 414.202, 414.210, 414.228, and
+14 140.100. Coverage may be limited to the shall be provided for all of the
+15 following:
+16 (1) a prosthetic or orthotic device that is determined by the covered
+17 individual’s treating health care provider to be the most appropriate model that
+18 is medically necessary to meet the patient’s adequately meets the covered
+19 individual’s medical needs;
+20 (2) a prosthetic or orthotic device that is determined by the covered
+21 individual’s treating health care provider to be the most appropriate model that
+VT LEG #380733 v.1
+
+BILL AS INTRODUCED H.432
+2025 Page 3 of 7
+1 meets the covered individual’s medical needs for purposes of performing
+2 physical activities, such as running, biking, swimming, and strength training,
+3 as applicable, and that maximizes the covered individual’s whole-body health
+4 and the functions of the individual’s lower or upper limbs, or both;
+5 (3) a prosthetic or orthotic device that is determined by the covered
+6 individual’s treating health care provider to be the most appropriate model that
+7 meets the covered individual’s medical needs for purposes of showering or
+8 bathing;
+9 (4) all materials and components necessary for the covered individual’s
+10 use of the prostheses and orthoses described in subdivisions (1)–(3) of this
+11 subsection;
+12 (5) instruction to the covered individual on using the device or devices,
+13 materials, and components described in subdivisions (1)–(4) of this subsection;
+14 and
+15 (6) the medically necessary repair or replacement of a prosthetic or
+16 orthotic device, material, or component described in subdivisions (1)–(4) of
+17 this subsection, as further described in subsection (f) of this section.
+18 (c)(1) A health insurance plan shall consider coverage for prosthetic and
+19 orthotic devices to be habilitative or rehabilitative benefits for purposes of any
+20 federal or State requirement regarding coverage of essential health benefits.
+VT LEG #380733 v.1
+
+BILL AS INTRODUCED H.432
+2025 Page 4 of 7
+1 (2) For purposes of the coverage required by subdivisions (b)(2) and (3)
+2 of this section, a health plan may require the covered individual’s treating
+3 health care provider to determine that the additional prosthetic or orthotic
+4 device is necessary to enable the person to engage in physical activities, such
+5 as running, biking, swimming, strength training, showering, and bathing, as
+6 applicable, and to maximize the covered individual’s whole-body health and
+7 the functions of the individual’s lower or upper limbs, or both.
+8 (3) A health plan shall make its utilization review determinations in a
+9 nondiscriminatory manner and shall not deny coverage for a prosthetic or
+10 orthotic device solely on the basis of a covered individual’s actual or perceived
+11 disability.
+12 (4) A health insurance plan shall not deny coverage for a prosthetic or
+13 orthotic device for a physical activity for a covered individual with limb loss or
+14 absence if the plan would provide coverage for an individual without a
+15 disability who was seeking a medical or surgical intervention to restore or
+16 maintain the individual’s ability to perform the same physical activity.
+17 (5) A health insurance plan shall include language describing a covered
+18 individual’s rights pursuant to subdivisions (3) and (4) of this subsection in the
+19 plan’s evidence of coverage and in any benefit denial letters.
+20 (6) Any dispute between the insured and the carrier a covered individual
+21 and a health insurance plan concerning coverage and the application of this
+VT LEG #380733 v.1
+
+BILL AS INTRODUCED H.432
+2025 Page 5 of 7
+1 section shall be subject to independent external review under section 4089f of
+2 this title.
+3 (c)(d) A health insurance plan may require prior authorization for
+4 prosthetic devices in the same manner and to the same extent as prior
+5 authorization is required for any other covered benefit under the plan.
+6 (e) A health insurance plan shall ensure access to medically necessary
+7 clinical care and to prosthetic and orthotic devices and technology from not
+8 fewer than two distinct prosthetic and orthotic providers who are located in this
+9 State and are in the plan’s network. In the event that medically necessary
+10 covered prosthetic and orthotic devices are not available from an in-network
+11 provider in this State, the plan shall provide processes for referring a covered
+12 individual to an out-of-network provider and shall fully reimburse the out-of-
+13 network provider at a mutually agreed-upon rate, less the covered individual’s
+14 cost sharing as determined on an in-network basis.
+15 (d)(f)(1) A health insurance plan shall provide coverage under this section
+16 for the medically necessary repair or replacement of a prosthetic or orthotic
+17 device or for the replacement of any part of the device, without regard to
+18 continuous use or useful lifetime restrictions, if the covered individual’s
+19 treating health care provider determines that the provision of a replacement
+20 device or replacement part is necessary because of any of the following:
+21 (A) a change in the covered individual’s physiological condition;
+VT LEG #380733 v.1
+
+BILL AS INTRODUCED H.432
+2025 Page 6 of 7
+1 (B) an irreparable change in the condition of the device or a part of
+2 the device; or
+3 (C) the condition of the device or part of the device requires repairs,
+4 and the cost of the repairs would equal more than 60 percent of the cost of a
+5 replacement device or of the part being replaced.
+6 (2) A health insurance plan may require confirmation from the covered
+7 individual’s treating health care provider if the prosthetic or orthotic device or
+8 part being replaced is less than three years old.
+9 (e)(g) A health insurance plan shall not impose any annual or lifetime
+10 dollar maximum on coverage for prosthetics prosthetic and orthotic devices
+11 that is less than the annual or lifetime dollar maximum that applies generally to
+12 all terms and services covered under the plan.
+13 (f)(h) The coverage required may shall not be subject to a deductible, co-
+14 payment, or coinsurance provision that is less favorable to a covered individual
+15 than the deductible, co-payment, or coinsurance provisions that apply generally
+16 to other non-primary care items and services under the health plan.
+17 Sec. 2. PROSTHETIC AND ORTHOTIC DEVICES; HEALTH
+18 INSURANCE CLAIMS; REPORT
+19 (a) On or before July 1, 2029, each health insurer that is subject to the
+20 annual reporting requirements of 18 V.S.A. § 9414a shall also report to the
+VT LEG #380733 v.1
+
+BILL AS INTRODUCED H.432
+2025 Page 7 of 7
+1 Department of Financial Regulation regarding the health insurer’s experience
+2 with providing coverage for prosthetic and orthotic devices pursuant to
+3 8 V.S.A. § 4088f, as amended by Sec. 1 of this act, for plan years 2026, 2027,
+4 and 2028. The report shall be in the form required by the Commissioner of
+5 Financial Regulation and shall include the number of claims for the goods and
+6 services required by 8 V.S.A. § 4088f in each of the plan years and the total
+7 amount of claims paid in this State for those goods and services in each of the
+8 plan years.
+9 (b) On or before December 1, 2029, the Commissioner shall provide a
+10 report with aggregated data for all health insurers by plan year to the House
+11 Committees on Health Care and on Human Services and the Senate
+12 Committees on Health and Welfare and on Finance.
+13 Sec. 3. EFFECTIVE DATE
+14 (a) Sec. 1 (8 V.S.A. § 4088f) shall take effect on January 1, 2026 and shall
+15 apply to all health insurance plans issued on and after January 1, 2026 on such
+16 date as a health insurer offers, issues, or renews the health insurance plan, but
+17 in no event later than January 1, 2027.
+18 (b) The remaining sections shall take effect on passage.
+VT LEG #380733 v.1
+
+[DELETED:  H P H I R H T R D S S i a p D i A d I S §   (]
+[DELETED:  H P ( b a a T d ( d b ( o c § 1 f ( i i i ( i]
+[DELETED:  H P m p a a ( i m b ( u s ( m a ( o t ( o f]
+[DELETED:  H P ( o h d a a t ( n o d ( o a d m ( i p ( a]
+[DELETED:  H P s t ( p a ( c f S c p i n c ( f d c t d (]
+[DELETED:  H P ( t ( a r ( i p ( d t a ( p t t S   ( a]
+[DELETED:  H P D w 8 a F s a p ( r C C S ( a d i (]

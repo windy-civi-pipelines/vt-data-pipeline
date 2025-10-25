@@ -1,0 +1,110 @@
+Title: BILL AS INTRODUCED H.384
+Official Title: BILL AS INTRODUCED H.384
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.384
+2 Introduced by Representative Christie of Hartford
+3 Referred to Committee on
+4 Date:
+5 Subject: Insurance; automobile; minimum reimbursement rates; labor
+6 Statement of purpose of bill as introduced: This bill proposes to establish
+7 minimum reimbursement rates for labor applicable to automobile insurance
+8 claims.
+9 An act relating to minimum reimbursement rates for labor related to
+10 automobile insurance claims
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 8 V.S.A. § 4212 is added to read:
+13 § 4212. MINIMUM REIMBURSEMENT RATES FOR LABOR
+14 (a) The Commissioner of Financial Regulation shall conduct a market
+15 survey of the hourly labor rates charged by automobile repair facilities in
+16 Vermont. In addition, the Commissioner shall investigate the labor rates paid
+17 by automobile insurance companies for repair work in Vermont. The
+18 Commissioner shall compare these rates with the average rates in other New
+19 England states and may review any additional data the Commissioner deems
+20 relevant to such rates, such as national data.
+VT LEG #380736 v.1
+BILL AS INTRODUCED H.384
+2025 Page 2 of 2
+1 (b) After assessing the data collected under subsection (a) of this section,
+2 the Commissioner shall establish a minimum hourly insurance reimbursement
+3 rate for labor that applies to both first- and third-party automobile insurance
+4 claims. The rate shall be a fair and reasonable amount that takes into
+5 consideration prevailing competitive prices. In addition, the Commissioner
+6 shall establish a formula for annually adjusting the minimum labor rate based
+7 on the Consumer Price Index published by the U.S. Bureau of Labor and
+8 Statistics.
+9 (c) The minimum reimbursement rate established under subsection (b) of
+10 this section shall apply to all insurance claims filed on or after January 1, 2026.
+11 (d) Nothing in this section shall be construed to prohibit a claimant and an
+12 insurer from negotiating a higher labor rate that takes into consideration factors
+13 such as vehicle type; body composition materials; labor type; required labor
+14 expertise, training, and certifications; equipment; and geographic area of the
+15 chosen repair shop. An insurer shall not refuse to negotiate on the basis of its
+16 ability to obtain a price that it can secure from another licensed repair facility
+17 conveniently located to the claimant.
+18 Sec. 2. EFFECTIVE DATE
+19 This act shall take effect on passage.
+VT LEG #380736 v.1
+[DELETED:  H P H I R R D S S m c A a I S § ( s V b C E r]
+[DELETED:  H P ( t r c c s o S ( t ( i s e c a c S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.384
+2025 Page 1 of 2
+1 H.384
+2 Introduced by Representative Christie of Hartford
+3 Referred to Committee on
+4 Date:
+5 Subject: Insurance; automobile; minimum reimbursement rates; labor
+6 Statement of purpose of bill as introduced: This bill proposes to establish
+7 minimum reimbursement rates for labor applicable to automobile insurance
+8 claims.
+9 An act relating to minimum reimbursement rates for labor related to
+10 automobile insurance claims
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 8 V.S.A. § 4212 is added to read:
+13 § 4212. MINIMUM REIMBURSEMENT RATES FOR LABOR
+14 (a) The Commissioner of Financial Regulation shall conduct a market
+15 survey of the hourly labor rates charged by automobile repair facilities in
+16 Vermont. In addition, the Commissioner shall investigate the labor rates paid
+17 by automobile insurance companies for repair work in Vermont. The
+18 Commissioner shall compare these rates with the average rates in other New
+19 England states and may review any additional data the Commissioner deems
+20 relevant to such rates, such as national data.
+VT LEG #380736 v.1
+
+BILL AS INTRODUCED H.384
+2025 Page 2 of 2
+1 (b) After assessing the data collected under subsection (a) of this section,
+2 the Commissioner shall establish a minimum hourly insurance reimbursement
+3 rate for labor that applies to both first- and third-party automobile insurance
+4 claims. The rate shall be a fair and reasonable amount that takes into
+5 consideration prevailing competitive prices. In addition, the Commissioner
+6 shall establish a formula for annually adjusting the minimum labor rate based
+7 on the Consumer Price Index published by the U.S. Bureau of Labor and
+8 Statistics.
+9 (c) The minimum reimbursement rate established under subsection (b) of
+10 this section shall apply to all insurance claims filed on or after January 1, 2026.
+11 (d) Nothing in this section shall be construed to prohibit a claimant and an
+12 insurer from negotiating a higher labor rate that takes into consideration factors
+13 such as vehicle type; body composition materials; labor type; required labor
+14 expertise, training, and certifications; equipment; and geographic area of the
+15 chosen repair shop. An insurer shall not refuse to negotiate on the basis of its
+16 ability to obtain a price that it can secure from another licensed repair facility
+17 conveniently located to the claimant.
+18 Sec. 2. EFFECTIVE DATE
+19 This act shall take effect on passage.
+VT LEG #380736 v.1
+
+[DELETED:  H P H I R R D S S m c A a I S § ( s V b C E r]
+[DELETED:  H P ( t r c c s o S ( t ( i s e c a c S T]

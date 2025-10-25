@@ -1,0 +1,108 @@
+Title: BILL AS INTRODUCED H.207
+Official Title: BILL AS INTRODUCED H.207
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.207
+2 Introduced by Representative Branagan of Georgia
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; diabetes treatment
+6 Statement of purpose of bill as introduced: This bill proposes to modify
+7 provisions regarding health insurance coverage of diabetes treatment, including
+8 eliminating language allowing a health insurer to require that the treatment be
+9 provided by a health care professional under contract with the insurer and
+10 adding a prohibition on cost-sharing requirements.
+11 An act relating to health insurance coverage for diabetes treatment
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 8 V.S.A. § 4089c is amended to read:
+14 § 4089c. DIABETES TREATMENT
+15 (a)(1) A health insurer shall provide coverage for the equipment, supplies,
+16 and outpatient self-management training and education, including medical
+17 nutrition therapy, for the treatment of insulin dependent diabetes, insulin using
+18 diabetes, gestational diabetes, and noninsulin using diabetes if prescribed by a
+19 health care professional legally authorized to prescribe such items under law.
+VT LEG #380803 v.1
+BILL AS INTRODUCED H.207
+2025 Page 2 of 2
+1 A health insurer may require that such prescriptions be made, and care be
+2 given, by a health care professional under contract with the insurer.
+3 (2) Diabetes outpatient self-management training and education required
+4 to be covered by this section shall be provided by a certified, registered, or
+5 licensed health care professional with specialized training in the education and
+6 management of diabetes.
+7 (3) Benefits required to be covered by this section shall not be subject to
+8 the same any dollar limits, deductibles, and coinsurance factors within the
+9 provisions of the health insurance policy or to any co-payment, coinsurance,
+10 deductible, or other cost-sharing requirement.
+11 (b) For the purposes of this section, “insurer” means any health insurance
+12 company, nonprofit hospital and medical service corporation, and health
+13 maintenance organization. The term does not apply to coverage for specified
+14 disease or other limited benefit coverage.
+15 Sec. 2. EFFECTIVE DATE
+16 This act shall take effect on January 1, 2026 and shall apply to all health
+17 insurance plans issued on and after January 1, 2026 on such date as a health
+18 insurer offers, issues, or renews the health insurance plan, but in no event later
+19 than January 1, 2027.
+VT LEG #380803 v.1
+[DELETED:  H P H I R R D S S p e p a A I S § ( a n d h]
+[DELETED:  H P A g ( t l m ( t p d ( c m d S T i i t]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.207
+2025 Page 1 of 2
+1 H.207
+2 Introduced by Representative Branagan of Georgia
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health insurance; diabetes treatment
+6 Statement of purpose of bill as introduced: This bill proposes to modify
+7 provisions regarding health insurance coverage of diabetes treatment, including
+8 eliminating language allowing a health insurer to require that the treatment be
+9 provided by a health care professional under contract with the insurer and
+10 adding a prohibition on cost-sharing requirements.
+11 An act relating to health insurance coverage for diabetes treatment
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 8 V.S.A. § 4089c is amended to read:
+14 § 4089c. DIABETES TREATMENT
+15 (a)(1) A health insurer shall provide coverage for the equipment, supplies,
+16 and outpatient self-management training and education, including medical
+17 nutrition therapy, for the treatment of insulin dependent diabetes, insulin using
+18 diabetes, gestational diabetes, and noninsulin using diabetes if prescribed by a
+19 health care professional legally authorized to prescribe such items under law.
+VT LEG #380803 v.1
+
+BILL AS INTRODUCED H.207
+2025 Page 2 of 2
+1 A health insurer may require that such prescriptions be made, and care be
+2 given, by a health care professional under contract with the insurer.
+3 (2) Diabetes outpatient self-management training and education required
+4 to be covered by this section shall be provided by a certified, registered, or
+5 licensed health care professional with specialized training in the education and
+6 management of diabetes.
+7 (3) Benefits required to be covered by this section shall not be subject to
+8 the same any dollar limits, deductibles, and coinsurance factors within the
+9 provisions of the health insurance policy or to any co-payment, coinsurance,
+10 deductible, or other cost-sharing requirement.
+11 (b) For the purposes of this section, “insurer” means any health insurance
+12 company, nonprofit hospital and medical service corporation, and health
+13 maintenance organization. The term does not apply to coverage for specified
+14 disease or other limited benefit coverage.
+15 Sec. 2. EFFECTIVE DATE
+16 This act shall take effect on January 1, 2026 and shall apply to all health
+17 insurance plans issued on and after January 1, 2026 on such date as a health
+18 insurer offers, issues, or renews the health insurance plan, but in no event later
+19 than January 1, 2027.
+VT LEG #380803 v.1
+
+[DELETED:  H P H I R R D S S p e p a A I S § ( a n d h]
+[DELETED:  H P A g ( t l m ( t p d ( c m d S T i i t]

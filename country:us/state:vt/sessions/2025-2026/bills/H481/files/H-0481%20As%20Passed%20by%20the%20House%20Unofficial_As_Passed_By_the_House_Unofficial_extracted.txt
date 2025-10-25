@@ -1,0 +1,743 @@
+Title: 2 An act relating to stormwater management
+Official Title: 2 An act relating to stormwater management
+Number of Sections: 1
+Source: versions - As Passed By the House (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE H.481
+2025 Page 1 of 15
+1 H.481
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 10 V.S.A. § 1264 is amended to read:
+5 § 1264. STORMWATER MANAGEMENT
+6 * * *
+7 (d) Exemptions.
+8 * * *
+9 (2) No permit is required under subdivision (c)(1), (5), or (7) of this
+10 section and for which a municipality has assumed full legal responsibility as
+11 part of a permit issued to the municipality by the Secretary. As used in this
+12 subdivision, “full legal responsibility” means legal control of the stormwater
+13 system, including a legal right to access the stormwater system, a legal duty to
+14 properly maintain the stormwater system, and a legal duty to repair and replace
+15 the stormwater system when it no longer adequately protects waters of the
+16 State. Notwithstanding the provisions of 24 V.S.A. § 3254 to the contrary,
+17 when a municipality assumes full legal responsibility for a stormwater system,
+18 the municipality may assess municipal impact fees on users of the stormwater
+19 system provided that a majority of the property owners subject to the impact
+20 fee consented and the impact fee assessed is a fair apportionment to the user of
+21 the cost of the improvement in accordance with the benefits the user received.
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 2 of 15
+1 * * *
+2 (g) General permits.
+3 * * *
+4 (3) Within 120 days after the adoption by the Secretary of the rules
+5 required under subsection (f) of this section, the Secretary shall issue a general
+6 permit under this section for discharges of stormwater from impervious surface
+7 of three or more acres in size, when the stormwater discharge previously was
+8 not permitted or was permitted under an individual permit or general permit
+9 that did not incorporate the requirements of the 2002 Stormwater Management
+10 Manual or any subsequently adopted Stormwater Management Manual. Under
+11 the general permit, the Secretary shall:
+12 (A) Establish a schedule for implementation of the general permit by
+13 geographic area of the State. The schedule shall establish the date by which an
+14 owner of impervious surface shall apply for coverage under this subdivision
+15 (3). The schedule established by the Secretary shall require an owner of
+16 impervious surface subject to permitting under this subdivision to obtain
+17 coverage by the following dates:
+18 (i) for impervious surface located within the Lake Champlain
+19 watershed, the Lake Memphremagog watershed, or the watershed of a
+20 stormwater-impaired water on or before October 1, 2023 2028; and
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 3 of 15
+1 (ii) for impervious surface located within all other watersheds of
+2 the State, no not later than October 1, 2033 2038 or not later than five years
+3 after a binding stormwater-specific waste-load allocation has been established
+4 for that watershed, whichever occurs first.
+5 (B) Establish criteria and technical standards, such as best
+6 management practices, for implementation of stormwater improvements for the
+7 retrofitting of impervious surface subject to permitting under this subdivision
+8 (3).
+9 (C) Require that a discharge of stormwater from impervious surface
+10 subject to the requirements of this section comply with the standards of
+11 subsection (h) of this section for redevelopment of or renewal of a permit for
+12 existing impervious surface.
+13 (D) Allow the use of stormwater impact fees, offsets, and phosphorus
+14 credit trading within the watershed of the water to which the stormwater
+15 discharges or runs off.
+16 * * *
+17 Sec. 2. REPEALS; SUNSET OF PROPERTY TRANSFER TAX CLEAN
+18 WATER SURCHARGE
+19 (a) 2017 Acts and Resolves No. 85, Sec. I.10 (sunset of clean water
+20 surcharge), as amended by 2024 Acts and Resolves No. 181, is repealed.
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 4 of 15
+1 (b) 2017 Acts and Resolves No. 85, Sec. I.11(a)(5) (effective date of sunset
+2 of clean water surcharge) is repealed.
+3 Sec. 3. 2017 Acts and Resolves No. 85, Sec. I.1(b) is amended to read:
+4 (b) Purpose and intent.
+5 (1) The purpose of Secs. I.1–I.12 of this act is to promote the
+6 development and improvement of housing for Vermonters.
+7 (2) It is the intent of the General Assembly:
+8 (A) to extend the clean water surcharge to provide an interim a
+9 source of revenue for addressing water quality issues throughout the State; and
+10 (B) to continue its work on identifying a long-term funding source or
+11 sources that are sufficient in scope and targeted in design to address these
+12 water quality issues; and
+13 (C) once one or more long-term funding sources are identified and
+14 enacted, but not later than July 1, 2027, to reduce the amount of the clean
+15 water surcharge to 0.04 percent.
+16 Sec. 4. 2017 Acts and Resolves No. 85, Sec. I.12 is amended to read:
+17 Sec. I.12. EFFECTIVE DATES
+18 (a) Secs. I.1–I.12 shall take effect on July 1, 2017, except that Sec. I.10
+19 (allocating clean water surcharge revenue to Vermont Housing and
+20 Conservation Trust Fund) shall take effect on July 1, 2027.
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 5 of 15
+1 Sec. 5. 2017 Acts and Resolves No. 85, Sec. I.7(d) is amended to read:
+2 (d) To compensate for this reduction of available property transfer tax
+3 revenue, it is the intent of the General Assembly through this act to provide for
+4 the transfer of $2,500,000.00 to the Vermont Housing and Conservation Trust
+5 Fund, as follows:
+6 (1) Sec. D.100 of this act appropriates $11,304,840.00 in fiscal year
+7 2018 from the Vermont Housing and Conservation Trust Fund to the Vermont
+8 Housing and Conservation Board. Upon the effective date of this act,
+9 $1,500,000.00 shall revert to the Fund, resulting in a fiscal year 2018 total
+10 appropriation to the Board of $9,804,840.00. In fiscal year 2018 only, the
+11 amount of $1,500,000.00 from the Vermont Housing and Conservation Trust
+12 Fund shall be transferred to the General Fund.
+13 (2) As provided in Sec. I.9 of this act, from July 1, 2017 until
+14 July 1, 2027, pursuant to 32 V.S.A. § 9602a, the first $1,000,000.00 in revenue
+15 generated by the clean water surcharge of 0.2 0.22 percent shall be transferred
+16 to the Vermont Housing and Conservation Trust Fund. In fiscal year 2018
+17 only, the Commissioner shall transfer the amount of $1,000,000.00 from the
+18 Vermont Housing and Conservation Trust Fund to the General Fund.
+19 (3) After July 1, 2027, pursuant to 32 V.S.A. § 9602a as amended in
+20 Sec. I.10 of this act, $1,000,000.00 in total revenue generated by the clean
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 6 of 15
+1 water surcharge of 0.04 percent shall be transferred to the Vermont Housing
+2 and Conservation Trust Fund. [Repealed.]
+3 (4) As provided in Sec. I.11 of this act, the clean water surcharge will be
+4 repealed in its entirety on July 1, 2039. [Repealed.]
+5 Sec. 6. 10 V.S.A. §§ 927 and 928 are amended to read:
+6 § 927. DEVELOPED LANDS IMPLEMENTATION GRANT PROGRAM
+7 The Secretary shall administer a Developed Lands Implementation Grant
+8 Program to provide grants or financing financial assistance to persons who are
+9 required to obtain a permit to implement regulatory requirements that are
+10 necessary to achieve water quality standards. The grant or financing program
+11 shall only be available in basins where a clean water service provider has met
+12 its annual goals or is making sufficient progress, as determined by the
+13 Secretary, towards those goals. This grant program shall fund or provide
+14 financing for projects related to the permitting of impervious surface of three
+15 acres or more under subdivision 1264(g)(3) of this title and for a permit
+16 renewal under subdivision 1264(h)(2) of this title for a discharge to a
+17 stormwater-impaired water that was permitted under an individual permit or a
+18 general permit that did not incorporate the requirements of the 2002
+19 Stormwater Management Manual or any subsequently adopted Stormwater
+20 Management Manual. Not more than 15 percent of the total grant amount
+21 awarded shall be used for administrative costs.
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 7 of 15
+1 § 928. MUNICIPAL STORMWATER IMPLEMENTATION GRANT
+2 PROGRAM
+3 The Secretary shall administer a Municipal Stormwater Implementation
+4 Grant Program to provide grants financial assistance to any municipality
+5 required under section 1264 of this title to obtain or seek coverage under the
+6 municipal roads general permit, the municipal separate storm sewer systems
+7 permit, a permit for impervious surface of three acres or more, or a permit
+8 required by the Secretary to reduce the adverse impacts to water quality of a
+9 discharge or stormwater runoff. The grant program shall only be available in
+10 basins where a clean water service provider has met its annual goals or is
+11 making sufficient progress, as determined by the Secretary, towards those
+12 goals. Not more than 15 percent of the total grant amount awarded shall be
+13 used for administrative costs. This program shall be available to a
+14 municipality to comply with a permit for impervious surface of three acres or
+15 more for a residential subdivision when the municipality assumes full legal
+16 responsibility for the stormwater system of the residential subdivision under
+17 subsection 1264(c)(7) of this title.
+18 Sec. 7. 10 V.S.A. § 1389(e) is amended to read:
+19 (e) Priorities. In making recommendations under subsection (d) of this
+20 section regarding the appropriate allocation of funds from the Clean Water
+21 Fund, the Board shall prioritize as follows:
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 8 of 15
+1 (1) As a first priority, make recommendations regarding funding for the
+2 following grants and programs, which shall each be given equal priority:
+3 (A) grants to clean water service providers to fund the reasonable
+4 costs associated with the inspection, verification, operation, and maintenance
+5 of clean water projects in a basin;
+6 (B) the Water Quality Restoration Formula Grant under section 925
+7 of this title;
+8 (C) the Agency of Agriculture, Food and Markets’ agricultural water
+9 quality programs; and
+10 (D) the Water Quality Enhancement Grants under section 926 of this
+11 title at a funding level of at least 20 percent of the annual balance of the Clean
+12 Water Fund, provided that the maximum amount recommended under this
+13 subdivision (D) in any year shall not exceed $5,000,000.00; and
+14 (E) funding to partners for basin planning, basin water quality
+15 council participation, education, and outreach as provided in subdivision
+16 1253(d)(3) of this title, provided funding shall be at least $500,000.00.
+17 (2) As the next priority after reviewing funding requests for programs
+18 identified under subdivision (1) of this subsection:
+19 (A) funding to programs or projects that address or repair riparian
+20 conditions that increase the risk of flooding or pose a threat to life or property;
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 9 of 15
+1 (B) funding for education and outreach regarding the implementation
+2 of water quality requirements, including funding for education, outreach,
+3 demonstration, and access to tools for the implementation of the Acceptable
+4 Management Practices for Maintaining Water Quality on Logging Jobs in
+5 Vermont, as adopted by the Commissioner of Forests, Parks and Recreation;
+6 (C) funding for the Municipal Stormwater Implementation Grant
+7 Program as provided in section 928 of this title, including at least
+8 $1,000,000.00 annually for costs of complying with permitting requirements
+9 under subdivision 1264(c)(7) of this title;
+10 (D) funding for innovative or alternative technologies or practices
+11 designed to improve water quality or reduce sources of pollution to surface
+12 waters, including funding for innovative nutrient removal technologies and
+13 community-based methane digesters that utilize manure, wastewater, and food
+14 residuals to produce energy; and
+15 (E) funding to purchase agricultural land in order to take that land out
+16 of practice when the State water quality requirements cannot be remediated
+17 through agricultural Best Management Practices.
+18 (3) As the next priority after reviewing funding requests under
+19 subdivisions (1) and (2) of this subsection, funding for the Developed Lands
+20 Implementation Grant Program as provided in section 927 of this title.
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 10 of 15
+1 Sec. 8. RECOMMENDED APPROPRIATION
+2 Notwithstanding any other provision of law, the Clean Water Board shall
+3 recommend $5,000,000.00 from the Clean Water Fund in fiscal year 2027 to
+4 the Municipal Stormwater Implementation Program in 10 V.S.A. § 928 for
+5 costs of complying with permitting requirements under 10 V.S.A.
+6 § 1264(c)(7), including for residential subdivisions when the municipality
+7 assumes full legal responsibility for the stormwater system.
+8 Sec. 9. 24 V.S.A. § 3616 is amended to read:
+9 § 3616. RENTS; RATES
+10 (a) A municipal corporation, through its board may establish rates, rents, or
+11 charges to be paid as the board may prescribe. The board may establish annual
+12 charges separately for bond repayment, fixed operations and maintenance costs
+13 and variable operations and maintenance costs dependent on flow.
+14 (b) The rates, rents, or charges may be based upon:
+15 (1) the metered consumption of water on premises connected with the
+16 sewer system, however, the board may determine no user will be billed for
+17 fixed operations and maintenance costs and bond payment less than the
+18 average single-family charge;
+19 (2) the number of equivalent units connected with or served by the
+20 sewage system based upon their estimated flows compared to the estimated
+21 flows from a single-family dwelling, however, the board may determine no
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 11 of 15
+1 user will be billed less than the minimum charge determined for the single-
+2 family dwelling charge for fixed operations and maintenance costs and bond
+3 payment;
+4 * * *
+5 (6) for groundwater, surface, or stormwater an equivalent residential
+6 unit based on an average or median of the area of impervious surface on
+7 residential property within the municipality; or
+8 (7) any combination of these bases, provided the combination is
+9 equitable.
+10 * * *
+11 Sec. 10. STUDY COMMITTEE ON CREATION OF REGIONAL
+12 STORMWATER UTILITY DISTRICTS
+13 (a) Creation. There is created the Study Committee on the Creation of
+14 Regional Stormwater Utility Districts to review the feasibility and benefit of
+15 creating regional stormwater utility districts to facilitate implementation and
+16 compliance with the water quality laws of the State.
+17 (b) Membership. The Study Committee shall be composed of the
+18 following members:
+19 (1) the Commissioner of Environmental Conservation or designee;
+20 (2) a representative of the Vermont League of Cities and Towns,
+21 appointed by the Speaker of the House;
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 12 of 15
+1 (3) a representative of a municipality subject to the municipal separate
+2 storm sewer system (MS4) permit, appointed by the Committee on
+3 Committees;
+4 (4) a representative of a municipality with a population under 2,500
+5 persons, appointed by the Speaker of the House;
+6 (5) a representative of the Green Mountain Water Environment
+7 Association, appointed by the Speaker of the House;
+8 (6) a commercial or industrial business owner subject to the three-acre
+9 stormwater permit or other stormwater requirements, appointed by the
+10 Committee on Committees; and
+11 (7) a representative of an environmental advocacy organization,
+12 appointed by the Speaker of the House.
+13 (c) Powers and duties. The Study Committee shall review the feasibility of
+14 establishing regional stormwater utility districts in the State. The Study
+15 Committee shall:
+16 (1) review current statutory authority for the development of regional
+17 stormwater utility districts comprised of multiple municipalities, including
+18 identifying any potential disincentives or obstacles to utility formation;
+19 (2) propose an approach the State could use for implementing a regional
+20 stormwater utility that would allow the utilities to assume liability and
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 13 of 15
+1 responsibility for compliance with water quality laws, including how a utility
+2 could assume responsibility for:
+3 (A) securing the permitting of properties subject to the three-acre
+4 stormwater permit; and
+5 (B) achieving the phosphorus reduction targets for the three-acre
+6 stormwater permitted properties within the utility district;
+7 (3) review and recommend cost-effective and equitable approaches for
+8 regional level revenue raising and distribution of project funding for the
+9 purpose of stormwater controls to meet total maximum daily load plans
+10 (TMDLs) including:
+11 (A) consideration of prior revenue-raising recommendations made in
+12 the 2017 Clean Water Report from the Office of the State Treasurer;
+13 (B) recommend whether and how to authorize a regional stormwater
+14 utility to assess fees or charges to all landowners, residents, and businesses
+15 within the regional stormwater utility district for the purpose of stormwater
+16 controls to meet TMDLs;
+17 (C) propose how a regional stormwater utility district could be
+18 eligible for Clean Water State Revolving Loan Fund awards and access State-
+19 level financial assistance for the design, construction, and operation and
+20 maintenance of regulatory and non-regulatory stormwater systems, including
+21 from the Clean Water State Revolving Loan Fund; and
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 14 of 15
+1 (D) recommend whether and how a regional stormwater utility can
+2 allocate resources and cost-effectively and equitably achieve pollutant
+3 reduction measures that are not fully achieved by regulated sites, as might be
+4 articulated in a regional stormwater management plan;
+5 (4) propose how statute should be amended to implement any of the
+6 recommendations of the Study Committee, including stormwater management
+7 planning for purposes of overall regional phosphorus pollutant reductions; and
+8 (5) estimate a cost to operate proposed regional stormwater utility
+9 districts.
+10 (d) Assistance. The Study Committee shall have the administrative,
+11 technical, and legal assistance of the Department of Environmental
+12 Conservation.
+13 (e) Report. On or before January 15, 2027, the Study Committee shall
+14 submit a written report to the House Committees on Environment and on
+15 Government Operations and Military Affairs and the Senate Committees on
+16 Natural Resources and Energy and on Government Operations with its findings
+17 and any recommendations for legislative action.
+18 (f) Meetings.
+19 (1) The Commissioner of Environmental Conservation or designee shall
+20 call the first meeting of the Study Committee.
+VT LEG #382152 v.1
+AS PASSED BY HOUSE H.481
+2025 Page 15 of 15
+1 (2) The Commissioner of Environmental Conservation or designee shall
+2 be the Chair.
+3 (3) A majority of the membership shall constitute a quorum.
+4 (4) The Study Committee shall cease to exist on March 1, 2027.
+5 (g) Compensation and reimbursement. Members of the Study Committee
+6 shall be entitled to per diem compensation and reimbursement of expenses as
+7 permitted under 32 V.S.A. § 1010 for not more than eight meetings. These
+8 payments shall be made from monies appropriated to the Agency of Natural
+9 Resources.
+10 Sec. 11. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #382152 v.1
+[DELETED:  H P H A I S § * ( * ( s p s s p t S w t s f t]
+[DELETED:  H P * ( * ( r p o n t M t ( g o ( i c ( w s]
+[DELETED:  H P ( t a f ( m r ( ( s s e ( c d * S   ( s]
+[DELETED:  H P ( o S ( ( d ( ( s ( s w ( e w S S ( ( C]
+[DELETED:  H P S ( r t F ( 2 H $ a a F ( J g t o V ( S]
+[DELETED:  H P w a ( r S § T P r n s i S f a r s g S M a]
+[DELETED:  H P §   T G r m p r d b m g u m m r s S ( s F]
+[DELETED:  H P ( f ( c o ( o ( q ( t W s ( c 1 ( i ( c]
+[DELETED:  H P ( o d M V ( P $ u ( d w c r ( o t ( s I]
+[DELETED:  H P S N r t c § a S § ( c c a ( ( s f a ( s f]
+[DELETED:  H P u f p * ( u r ( e * S   ( R c c ( f ( ( a]
+[DELETED:  H P ( s C ( p ( A ( s C ( a ( e C ( s i ( s]
+[DELETED:  H P r c ( s ( s ( r p ( ( t ( u w c ( e l m f]
+[DELETED:  H P ( a r a ( r p ( d ( t C ( s G N a ( ( c]
+[DELETED:  H P ( b ( ( ( s p p R S T]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE H.481
+2025 Page 1 of 15
+1 H.481
+2 An act relating to stormwater management
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 10 V.S.A. § 1264 is amended to read:
+5 § 1264. STORMWATER MANAGEMENT
+6 * * *
+7 (d) Exemptions.
+8 * * *
+9 (2) No permit is required under subdivision (c)(1), (5), or (7) of this
+10 section and for which a municipality has assumed full legal responsibility as
+11 part of a permit issued to the municipality by the Secretary. As used in this
+12 subdivision, “full legal responsibility” means legal control of the stormwater
+13 system, including a legal right to access the stormwater system, a legal duty to
+14 properly maintain the stormwater system, and a legal duty to repair and replace
+15 the stormwater system when it no longer adequately protects waters of the
+16 State. Notwithstanding the provisions of 24 V.S.A. § 3254 to the contrary,
+17 when a municipality assumes full legal responsibility for a stormwater system,
+18 the municipality may assess municipal impact fees on users of the stormwater
+19 system provided that a majority of the property owners subject to the impact
+20 fee consented and the impact fee assessed is a fair apportionment to the user of
+21 the cost of the improvement in accordance with the benefits the user received.
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 2 of 15
+1 * * *
+2 (g) General permits.
+3 * * *
+4 (3) Within 120 days after the adoption by the Secretary of the rules
+5 required under subsection (f) of this section, the Secretary shall issue a general
+6 permit under this section for discharges of stormwater from impervious surface
+7 of three or more acres in size, when the stormwater discharge previously was
+8 not permitted or was permitted under an individual permit or general permit
+9 that did not incorporate the requirements of the 2002 Stormwater Management
+10 Manual or any subsequently adopted Stormwater Management Manual. Under
+11 the general permit, the Secretary shall:
+12 (A) Establish a schedule for implementation of the general permit by
+13 geographic area of the State. The schedule shall establish the date by which an
+14 owner of impervious surface shall apply for coverage under this subdivision
+15 (3). The schedule established by the Secretary shall require an owner of
+16 impervious surface subject to permitting under this subdivision to obtain
+17 coverage by the following dates:
+18 (i) for impervious surface located within the Lake Champlain
+19 watershed, the Lake Memphremagog watershed, or the watershed of a
+20 stormwater-impaired water on or before October 1, 2023 2028; and
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 3 of 15
+1 (ii) for impervious surface located within all other watersheds of
+2 the State, no not later than October 1, 2033 2038 or not later than five years
+3 after a binding stormwater-specific waste-load allocation has been established
+4 for that watershed, whichever occurs first.
+5 (B) Establish criteria and technical standards, such as best
+6 management practices, for implementation of stormwater improvements for the
+7 retrofitting of impervious surface subject to permitting under this subdivision
+8 (3).
+9 (C) Require that a discharge of stormwater from impervious surface
+10 subject to the requirements of this section comply with the standards of
+11 subsection (h) of this section for redevelopment of or renewal of a permit for
+12 existing impervious surface.
+13 (D) Allow the use of stormwater impact fees, offsets, and phosphorus
+14 credit trading within the watershed of the water to which the stormwater
+15 discharges or runs off.
+16 * * *
+17 Sec. 2. REPEALS; SUNSET OF PROPERTY TRANSFER TAX CLEAN
+18 WATER SURCHARGE
+19 (a) 2017 Acts and Resolves No. 85, Sec. I.10 (sunset of clean water
+20 surcharge), as amended by 2024 Acts and Resolves No. 181, is repealed.
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 4 of 15
+1 (b) 2017 Acts and Resolves No. 85, Sec. I.11(a)(5) (effective date of sunset
+2 of clean water surcharge) is repealed.
+3 Sec. 3. 2017 Acts and Resolves No. 85, Sec. I.1(b) is amended to read:
+4 (b) Purpose and intent.
+5 (1) The purpose of Secs. I.1–I.12 of this act is to promote the
+6 development and improvement of housing for Vermonters.
+7 (2) It is the intent of the General Assembly:
+8 (A) to extend the clean water surcharge to provide an interim a
+9 source of revenue for addressing water quality issues throughout the State; and
+10 (B) to continue its work on identifying a long-term funding source or
+11 sources that are sufficient in scope and targeted in design to address these
+12 water quality issues; and
+13 (C) once one or more long-term funding sources are identified and
+14 enacted, but not later than July 1, 2027, to reduce the amount of the clean
+15 water surcharge to 0.04 percent.
+16 Sec. 4. 2017 Acts and Resolves No. 85, Sec. I.12 is amended to read:
+17 Sec. I.12. EFFECTIVE DATES
+18 (a) Secs. I.1–I.12 shall take effect on July 1, 2017, except that Sec. I.10
+19 (allocating clean water surcharge revenue to Vermont Housing and
+20 Conservation Trust Fund) shall take effect on July 1, 2027.
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 5 of 15
+1 Sec. 5. 2017 Acts and Resolves No. 85, Sec. I.7(d) is amended to read:
+2 (d) To compensate for this reduction of available property transfer tax
+3 revenue, it is the intent of the General Assembly through this act to provide for
+4 the transfer of $2,500,000.00 to the Vermont Housing and Conservation Trust
+5 Fund, as follows:
+6 (1) Sec. D.100 of this act appropriates $11,304,840.00 in fiscal year
+7 2018 from the Vermont Housing and Conservation Trust Fund to the Vermont
+8 Housing and Conservation Board. Upon the effective date of this act,
+9 $1,500,000.00 shall revert to the Fund, resulting in a fiscal year 2018 total
+10 appropriation to the Board of $9,804,840.00. In fiscal year 2018 only, the
+11 amount of $1,500,000.00 from the Vermont Housing and Conservation Trust
+12 Fund shall be transferred to the General Fund.
+13 (2) As provided in Sec. I.9 of this act, from July 1, 2017 until
+14 July 1, 2027, pursuant to 32 V.S.A. § 9602a, the first $1,000,000.00 in revenue
+15 generated by the clean water surcharge of 0.2 0.22 percent shall be transferred
+16 to the Vermont Housing and Conservation Trust Fund. In fiscal year 2018
+17 only, the Commissioner shall transfer the amount of $1,000,000.00 from the
+18 Vermont Housing and Conservation Trust Fund to the General Fund.
+19 (3) After July 1, 2027, pursuant to 32 V.S.A. § 9602a as amended in
+20 Sec. I.10 of this act, $1,000,000.00 in total revenue generated by the clean
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 6 of 15
+1 water surcharge of 0.04 percent shall be transferred to the Vermont Housing
+2 and Conservation Trust Fund. [Repealed.]
+3 (4) As provided in Sec. I.11 of this act, the clean water surcharge will be
+4 repealed in its entirety on July 1, 2039. [Repealed.]
+5 Sec. 6. 10 V.S.A. §§ 927 and 928 are amended to read:
+6 § 927. DEVELOPED LANDS IMPLEMENTATION GRANT PROGRAM
+7 The Secretary shall administer a Developed Lands Implementation Grant
+8 Program to provide grants or financing financial assistance to persons who are
+9 required to obtain a permit to implement regulatory requirements that are
+10 necessary to achieve water quality standards. The grant or financing program
+11 shall only be available in basins where a clean water service provider has met
+12 its annual goals or is making sufficient progress, as determined by the
+13 Secretary, towards those goals. This grant program shall fund or provide
+14 financing for projects related to the permitting of impervious surface of three
+15 acres or more under subdivision 1264(g)(3) of this title and for a permit
+16 renewal under subdivision 1264(h)(2) of this title for a discharge to a
+17 stormwater-impaired water that was permitted under an individual permit or a
+18 general permit that did not incorporate the requirements of the 2002
+19 Stormwater Management Manual or any subsequently adopted Stormwater
+20 Management Manual. Not more than 15 percent of the total grant amount
+21 awarded shall be used for administrative costs.
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 7 of 15
+1 § 928. MUNICIPAL STORMWATER IMPLEMENTATION GRANT
+2 PROGRAM
+3 The Secretary shall administer a Municipal Stormwater Implementation
+4 Grant Program to provide grants financial assistance to any municipality
+5 required under section 1264 of this title to obtain or seek coverage under the
+6 municipal roads general permit, the municipal separate storm sewer systems
+7 permit, a permit for impervious surface of three acres or more, or a permit
+8 required by the Secretary to reduce the adverse impacts to water quality of a
+9 discharge or stormwater runoff. The grant program shall only be available in
+10 basins where a clean water service provider has met its annual goals or is
+11 making sufficient progress, as determined by the Secretary, towards those
+12 goals. Not more than 15 percent of the total grant amount awarded shall be
+13 used for administrative costs. This program shall be available to a
+14 municipality to comply with a permit for impervious surface of three acres or
+15 more for a residential subdivision when the municipality assumes full legal
+16 responsibility for the stormwater system of the residential subdivision under
+17 subsection 1264(c)(7) of this title.
+18 Sec. 7. 10 V.S.A. § 1389(e) is amended to read:
+19 (e) Priorities. In making recommendations under subsection (d) of this
+20 section regarding the appropriate allocation of funds from the Clean Water
+21 Fund, the Board shall prioritize as follows:
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 8 of 15
+1 (1) As a first priority, make recommendations regarding funding for the
+2 following grants and programs, which shall each be given equal priority:
+3 (A) grants to clean water service providers to fund the reasonable
+4 costs associated with the inspection, verification, operation, and maintenance
+5 of clean water projects in a basin;
+6 (B) the Water Quality Restoration Formula Grant under section 925
+7 of this title;
+8 (C) the Agency of Agriculture, Food and Markets’ agricultural water
+9 quality programs; and
+10 (D) the Water Quality Enhancement Grants under section 926 of this
+11 title at a funding level of at least 20 percent of the annual balance of the Clean
+12 Water Fund, provided that the maximum amount recommended under this
+13 subdivision (D) in any year shall not exceed $5,000,000.00; and
+14 (E) funding to partners for basin planning, basin water quality
+15 council participation, education, and outreach as provided in subdivision
+16 1253(d)(3) of this title, provided funding shall be at least $500,000.00.
+17 (2) As the next priority after reviewing funding requests for programs
+18 identified under subdivision (1) of this subsection:
+19 (A) funding to programs or projects that address or repair riparian
+20 conditions that increase the risk of flooding or pose a threat to life or property;
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 9 of 15
+1 (B) funding for education and outreach regarding the implementation
+2 of water quality requirements, including funding for education, outreach,
+3 demonstration, and access to tools for the implementation of the Acceptable
+4 Management Practices for Maintaining Water Quality on Logging Jobs in
+5 Vermont, as adopted by the Commissioner of Forests, Parks and Recreation;
+6 (C) funding for the Municipal Stormwater Implementation Grant
+7 Program as provided in section 928 of this title, including at least
+8 $1,000,000.00 annually for costs of complying with permitting requirements
+9 under subdivision 1264(c)(7) of this title;
+10 (D) funding for innovative or alternative technologies or practices
+11 designed to improve water quality or reduce sources of pollution to surface
+12 waters, including funding for innovative nutrient removal technologies and
+13 community-based methane digesters that utilize manure, wastewater, and food
+14 residuals to produce energy; and
+15 (E) funding to purchase agricultural land in order to take that land out
+16 of practice when the State water quality requirements cannot be remediated
+17 through agricultural Best Management Practices.
+18 (3) As the next priority after reviewing funding requests under
+19 subdivisions (1) and (2) of this subsection, funding for the Developed Lands
+20 Implementation Grant Program as provided in section 927 of this title.
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 10 of 15
+1 Sec. 8. RECOMMENDED APPROPRIATION
+2 Notwithstanding any other provision of law, the Clean Water Board shall
+3 recommend $5,000,000.00 from the Clean Water Fund in fiscal year 2027 to
+4 the Municipal Stormwater Implementation Program in 10 V.S.A. § 928 for
+5 costs of complying with permitting requirements under 10 V.S.A.
+6 § 1264(c)(7), including for residential subdivisions when the municipality
+7 assumes full legal responsibility for the stormwater system.
+8 Sec. 9. 24 V.S.A. § 3616 is amended to read:
+9 § 3616. RENTS; RATES
+10 (a) A municipal corporation, through its board may establish rates, rents, or
+11 charges to be paid as the board may prescribe. The board may establish annual
+12 charges separately for bond repayment, fixed operations and maintenance costs
+13 and variable operations and maintenance costs dependent on flow.
+14 (b) The rates, rents, or charges may be based upon:
+15 (1) the metered consumption of water on premises connected with the
+16 sewer system, however, the board may determine no user will be billed for
+17 fixed operations and maintenance costs and bond payment less than the
+18 average single-family charge;
+19 (2) the number of equivalent units connected with or served by the
+20 sewage system based upon their estimated flows compared to the estimated
+21 flows from a single-family dwelling, however, the board may determine no
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 11 of 15
+1 user will be billed less than the minimum charge determined for the single-
+2 family dwelling charge for fixed operations and maintenance costs and bond
+3 payment;
+4 * * *
+5 (6) for groundwater, surface, or stormwater an equivalent residential
+6 unit based on an average or median of the area of impervious surface on
+7 residential property within the municipality; or
+8 (7) any combination of these bases, provided the combination is
+9 equitable.
+10 * * *
+11 Sec. 10. STUDY COMMITTEE ON CREATION OF REGIONAL
+12 STORMWATER UTILITY DISTRICTS
+13 (a) Creation. There is created the Study Committee on the Creation of
+14 Regional Stormwater Utility Districts to review the feasibility and benefit of
+15 creating regional stormwater utility districts to facilitate implementation and
+16 compliance with the water quality laws of the State.
+17 (b) Membership. The Study Committee shall be composed of the
+18 following members:
+19 (1) the Commissioner of Environmental Conservation or designee;
+20 (2) a representative of the Vermont League of Cities and Towns,
+21 appointed by the Speaker of the House;
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 12 of 15
+1 (3) a representative of a municipality subject to the municipal separate
+2 storm sewer system (MS4) permit, appointed by the Committee on
+3 Committees;
+4 (4) a representative of a municipality with a population under 2,500
+5 persons, appointed by the Speaker of the House;
+6 (5) a representative of the Green Mountain Water Environment
+7 Association, appointed by the Speaker of the House;
+8 (6) a commercial or industrial business owner subject to the three-acre
+9 stormwater permit or other stormwater requirements, appointed by the
+10 Committee on Committees; and
+11 (7) a representative of an environmental advocacy organization,
+12 appointed by the Speaker of the House.
+13 (c) Powers and duties. The Study Committee shall review the feasibility of
+14 establishing regional stormwater utility districts in the State. The Study
+15 Committee shall:
+16 (1) review current statutory authority for the development of regional
+17 stormwater utility districts comprised of multiple municipalities, including
+18 identifying any potential disincentives or obstacles to utility formation;
+19 (2) propose an approach the State could use for implementing a regional
+20 stormwater utility that would allow the utilities to assume liability and
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 13 of 15
+1 responsibility for compliance with water quality laws, including how a utility
+2 could assume responsibility for:
+3 (A) securing the permitting of properties subject to the three-acre
+4 stormwater permit; and
+5 (B) achieving the phosphorus reduction targets for the three-acre
+6 stormwater permitted properties within the utility district;
+7 (3) review and recommend cost-effective and equitable approaches for
+8 regional level revenue raising and distribution of project funding for the
+9 purpose of stormwater controls to meet total maximum daily load plans
+10 (TMDLs) including:
+11 (A) consideration of prior revenue-raising recommendations made in
+12 the 2017 Clean Water Report from the Office of the State Treasurer;
+13 (B) recommend whether and how to authorize a regional stormwater
+14 utility to assess fees or charges to all landowners, residents, and businesses
+15 within the regional stormwater utility district for the purpose of stormwater
+16 controls to meet TMDLs;
+17 (C) propose how a regional stormwater utility district could be
+18 eligible for Clean Water State Revolving Loan Fund awards and access State-
+19 level financial assistance for the design, construction, and operation and
+20 maintenance of regulatory and non-regulatory stormwater systems, including
+21 from the Clean Water State Revolving Loan Fund; and
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 14 of 15
+1 (D) recommend whether and how a regional stormwater utility can
+2 allocate resources and cost-effectively and equitably achieve pollutant
+3 reduction measures that are not fully achieved by regulated sites, as might be
+4 articulated in a regional stormwater management plan;
+5 (4) propose how statute should be amended to implement any of the
+6 recommendations of the Study Committee, including stormwater management
+7 planning for purposes of overall regional phosphorus pollutant reductions; and
+8 (5) estimate a cost to operate proposed regional stormwater utility
+9 districts.
+10 (d) Assistance. The Study Committee shall have the administrative,
+11 technical, and legal assistance of the Department of Environmental
+12 Conservation.
+13 (e) Report. On or before January 15, 2027, the Study Committee shall
+14 submit a written report to the House Committees on Environment and on
+15 Government Operations and Military Affairs and the Senate Committees on
+16 Natural Resources and Energy and on Government Operations with its findings
+17 and any recommendations for legislative action.
+18 (f) Meetings.
+19 (1) The Commissioner of Environmental Conservation or designee shall
+20 call the first meeting of the Study Committee.
+VT LEG #382152 v.1
+
+AS PASSED BY HOUSE H.481
+2025 Page 15 of 15
+1 (2) The Commissioner of Environmental Conservation or designee shall
+2 be the Chair.
+3 (3) A majority of the membership shall constitute a quorum.
+4 (4) The Study Committee shall cease to exist on March 1, 2027.
+5 (g) Compensation and reimbursement. Members of the Study Committee
+6 shall be entitled to per diem compensation and reimbursement of expenses as
+7 permitted under 32 V.S.A. § 1010 for not more than eight meetings. These
+8 payments shall be made from monies appropriated to the Agency of Natural
+9 Resources.
+10 Sec. 11. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #382152 v.1
+
+[DELETED:  H P H A I S § * ( * ( s p s s p t S w t s f t]
+[DELETED:  H P * ( * ( r p o n t M t ( g o ( i c ( w s]
+[DELETED:  H P ( t a f ( m r ( ( s s e ( c d * S   ( s]
+[DELETED:  H P ( o S ( ( d ( ( s ( s w ( e w S S ( ( C]
+[DELETED:  H P S ( r t F ( 2 H $ a a F ( J g t o V ( S]
+[DELETED:  H P w a ( r S § T P r n s i S f a r s g S M a]
+[DELETED:  H P §   T G r m p r d b m g u m m r s S ( s F]
+[DELETED:  H P ( f ( c o ( o ( q ( t W s ( c 1 ( i ( c]
+[DELETED:  H P ( o d M V ( P $ u ( d w c r ( o t ( s I]
+[DELETED:  H P S N r t c § a S § ( c c a ( ( s f a ( s f]
+[DELETED:  H P u f p * ( u r ( e * S   ( R c c ( f ( ( a]
+[DELETED:  H P ( s C ( p ( A ( s C ( a ( e C ( s i ( s]
+[DELETED:  H P r c ( s ( s ( r p ( ( t ( u w c ( e l m f]
+[DELETED:  H P ( a r a ( r p ( d ( t C ( s G N a ( ( c]
+[DELETED:  H P ( b ( ( ( s p p R S T]

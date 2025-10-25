@@ -1,0 +1,2208 @@
+Title: BILL AS INTRODUCED H.296
+Official Title: BILL AS INTRODUCED H.296
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 44 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 44
+1 H.296
+2 Introduced by Representatives Birong of Vergennes, Hango of Berkshire,
+3 Minier of South Burlington, Austin of Colchester, Gregoire of
+4 Fairfield, Lalley of Shelburne, Logan of Burlington, McCann of
+5 Montpelier, McGill of Bridport, Morgan, M. of Milton, Nugent
+6 of South Burlington, Pouech of Hinesburg, and Stone of
+7 Burlington
+8 Referred to Committee on
+9 Date:
+10 Subject: Professions and occupations; dieticians; interstate compact; Office of
+11 Professional Regulation
+12 Statement of purpose of bill as introduced: This bill proposes that the State
+13 adopt and enter into the Dietician Licensure Compact.
+14 An act relating to Vermont’s adoption of the Dietician Licensure Compact
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 26 V.S.A. chapter 73 is amended to read:
+17 CHAPTER 73. DIETICIANS
+18 Subchapter 1. General provisions
+19 * * *
+20 Subchapter 2. Dietician Licensure Compact
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 2 of 44
+1 § 3391. DIETICIAN LICENSURE COMPACT; ADOPTION
+2 This subchapter is the Vermont adoption of the Dietician Licensure
+3 Compact. The form, format, and text of the Compact have been conformed to
+4 the conventions of the Vermont Statutes Annotated. It is the intent of the
+5 General Assembly that this subchapter be interpreted as substantively the same
+6 as the Dietician Licensure Compact that is enacted by other Compact party
+7 states.
+8 § 3391a. PURPOSE
+9 (a) The purpose of this Compact is to facilitate interstate practice of
+10 dietetics with the goal of improving public access to dietetics services. This
+11 Compact preserves the regulatory authority of States to protect public health
+12 and safety through the current system of State licensure, while also providing
+13 for licensure portability through a compact privilege granted to qualifying
+14 professionals.
+15 (b) This Compact is designed to achieve the following objectives:
+16 (1) increase public access to dietetics services;
+17 (2) provide opportunities for interstate practice by licensed dietitians
+18 who meet uniform requirements;
+19 (3) eliminate the necessity for licenses in multiple states;
+20 (4) reduce administrative burden on member states and licensees;
+21 (5) enhance the states’ ability to protect the public’s health and safety;
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 3 of 44
+1 (6) encourage the cooperation of member states in regulating multistate
+2 practice of licensed dietitians;
+3 (7) support relocating active military members and their spouses;
+4 (8) enhance the exchange of licensure, investigative, and disciplinary
+5 information among member states; and
+6 (9) vest all member states with the authority to hold a licensed dietitian
+7 accountable for meeting all state practice laws in the state in which the patient
+8 is located at the time care is rendered.
+9 § 3391b. DEFINITIONS
+10 As used in this Compact, and except as otherwise provided, the following
+11 definitions shall apply:
+12 (1) “ACEND” means the Accreditation Council for Education in
+13 Nutrition and Dietetics or its successor organization.
+14 (2) “Active military member” means any individual with full-time duty
+15 status in the active armed forces of the United States, including members of the
+16 National Guard and Reserve.
+17 (3) “Adverse Action” means any administrative, civil, equitable, or
+18 criminal action permitted by a state’s laws which is imposed by a licensing
+19 authority or other authority against a licensee, including actions against an
+20 individual’s license or compact privilege such as revocation, suspension,
+21 probation, monitoring of the licensee, limitation on the licensee’s practice, or
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 4 of 44
+1 any other encumbrance on licensure affecting a licensee’s authorization to
+2 practice, including issuance of a cease and desist action.
+3 (4) “Alternative program” means a non-disciplinary monitoring or
+4 practice remediation process approved by a licensing authority.
+5 (5) “Charter member state” means any member state which enacted this
+6 Compact by law before the effective date specified in section 3391l of this
+7 subchapter.
+8 (6) “Continuing education” means a requirement, as a condition of
+9 license renewal, to provide evidence of participation in, and completion of,
+10 educational and professional activities relevant to practice or area of work.
+11 (7) “CDR” means the Commission on Dietetic Registration or its
+12 successor organization.
+13 (8) “Compact Commission” means the government agency whose
+14 membership consists of all states that have enacted this Compact, which is
+15 known as the Dietitian Licensure Compact Commission, as described in
+16 section 3391h of this subchapter, and which shall operate as an instrumentality
+17 of the member states.
+18 (9) “Compact privilege” means a legal authorization, which is
+19 equivalent to a license, permitting the practice of dietetics in a remote state.
+20 (10) “Current significant investigative information” means:
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 5 of 44
+1 (A) investigative information that a licensing authority, after a
+2 preliminary inquiry that includes notification and an opportunity for the subject
+3 licensee to respond, if required by state law, has reason to believe is not
+4 groundless and, if proved true, would indicate more than a minor infraction; or
+5 (B) investigative information that indicates that the subject licensee
+6 represents an immediate threat to public health and safety regardless of
+7 whether the subject licensee has been notified and had an opportunity to
+8 respond.
+9 (11) “Data system” means a repository of information about licensees,
+10 including, but not limited to, continuing education, examination, licensure,
+11 investigative, compact privilege, and adverse action information.
+12 (12) “Encumbered license” means a license in which an adverse action
+13 restricts a licensee’s ability to practice dietetics.
+14 (13) “Encumbrance” means a revocation or suspension of, or any
+15 limitation on, a licensee’s full and unrestricted practice of dietetics by a
+16 licensing authority.
+17 (14) “Executive Committee” means a group of delegates elected or
+18 appointed to act on behalf of, and within the powers granted to them by, this
+19 Compact, and the Compact Commission.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 6 of 44
+1 (15) “Home State” means the member state that is the licensee’s primary
+2 state of residence or that has been designated pursuant to section 3391f of this
+3 subchapter.
+4 (16) “Investigative information” means information, records, and
+5 documents received or generated by a licensing authority pursuant to an
+6 investigation.
+7 (17) “Jurisprudence requirement” means an assessment of an
+8 individual’s knowledge of the state laws and regulations governing the practice
+9 of dietetics in such state.
+10 (18) “License” means an authorization from a member state to either:
+11 (A) engage in the practice of dietetics, including medical nutrition
+12 therapy; or
+13 (B) use the title “dietitian,” “licensed dietitian,” “licensed dietitian
+14 nutritionist,” “certified dietitian,” or other title describing a substantially
+15 similar practitioner as the Compact Commission may further define by rule.
+16 (19) “Licensee” or “licensed dietitian” means an individual who
+17 currently holds a license and who meets all of the requirements outlined in
+18 section 3391d of this subchapter.
+19 (20) “Licensing authority” means the board or agency of a state, or
+20 equivalent, that is responsible for the licensing and regulation of the practice of
+21 dietetics.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 7 of 44
+1 (21) “Member state” means a state that has enacted the Compact.
+2 (22) “Practice of dietetics” means the synthesis and application of
+3 dietetics as defined by state law and regulations, primarily for the provision of
+4 nutrition care services, including medical nutrition therapy, in person or via
+5 telehealth, to prevent, manage, or treat diseases or medical conditions and
+6 promote wellness.
+7 (23) “Registered dietitian” means a person who:
+8 (A) has completed applicable education, experience, examination,
+9 and recertification requirements approved by CDR;
+10 (B) is credentialed by CDR as a registered dietitian or a registered
+11 dietitian nutritionist; and
+12 (C) is legally authorized to use the title registered dietitian or
+13 registered dietitian nutritionist and the corresponding abbreviations “RD” or
+14 “RDN.”
+15 (24) “Remote state” means a member state, other than the home state,
+16 where a licensee is exercising or seeking to exercise a compact privilege.
+17 (25) “Rule” means a regulation promulgated by the Compact
+18 Commission that has the force of law.
+19 (26) “Single state license” means a license issued by a member state
+20 within the issuing state and does not include a compact privilege in any other
+21 member state.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 8 of 44
+1 (27) “State” means any state, commonwealth, district, or territory of the
+2 United States of America.
+3 (28) “Unencumbered License” means a license that authorizes a licensee
+4 to engage in the full and unrestricted practice of dietetics.
+5 § 3391c. STATE PARTICIPATION IN THE COMPACT
+6 (a) To participate in the Compact, a state must currently:
+7 (1) license and regulate the practice of dietetics; and
+8 (2) have a mechanism in place for receiving and investigating
+9 complaints about licensees.
+10 (b) A member state shall:
+11 (1) Participate fully in the Compact Commission’s data system,
+12 including using the unique identifier as defined in rules.
+13 (2) Notify the Compact Commission, in compliance with the terms of
+14 the Compact and rules, of any adverse action or the availability of current
+15 significant investigative information regarding a licensee.
+16 (3) Implement or utilize procedures for considering the criminal history
+17 record information of applicants for an initial compact privilege. These
+18 procedures shall include the submission of fingerprints or other biometric-
+19 based information by applicants for the purpose of obtaining an applicant’s
+20 criminal history record information from the Federal Bureau of Investigation
+21 and the agency responsible for retaining that state’s criminal records.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 9 of 44
+1 (A) A member state must fully implement a criminal history record
+2 information requirement, within a time frame established by rule, which
+3 includes receiving the results of the Federal Bureau of Investigation record
+4 search and shall use those results in determining compact privilege eligibility.
+5 (B) Communication between a member state and the Compact
+6 Commission or among member states regarding the verification of eligibility
+7 for a compact privilege shall not include any information received from the
+8 Federal Bureau of Investigation relating to a federal criminal history record
+9 information check performed by a member state.
+10 (4) Comply with and enforce the rules of the Compact Commission.
+11 (5) Require an applicant for a compact privilege to obtain or retain a
+12 license in the licensee’s home state and meet the home state’s qualifications for
+13 licensure or renewal of licensure, as well as all other applicable state laws.
+14 (6) Recognize a compact privilege granted to a licensee who meets all of
+15 the requirements outlined in section 3391d of this subchapter in accordance
+16 with the terms of the Compact and rules.
+17 (c) Member states may set and collect a fee for granting a compact
+18 privilege.
+19 (d) Individuals not residing in a member state shall continue to be able to
+20 apply for a member state’s single state license as provided under the laws of
+21 each member state. However, the single state license granted to these
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 10 of 44
+1 individuals shall not be recognized as granting a compact privilege to engage
+2 in the practice of dietetics in any other member state.
+3 (e) Nothing in this Compact shall affect the requirements established by a
+4 member state for the issuance of a single state license.
+5 (f) At no point shall the Compact Commission have the power to define the
+6 requirements for the issuance of a single state license to practice dietetics. The
+7 member states shall retain sole jurisdiction over the provision of these
+8 requirements.
+9 § 3391d. COMPACT PRIVILEGE
+10 (a) To exercise the compact privilege under the terms and provisions of the
+11 Compact, the licensee shall:
+12 (1) satisfy one of the following:
+13 (A) hold a valid current registration that gives the applicant the right
+14 to use the term registered dietitian; or
+15 (B) complete all of the following:
+16 (i) an education program which is either:
+17 (I) a master’s degree or doctoral degree that is
+18 programmatically accredited by ACEND, or a dietetics accrediting agency
+19 recognized by the United States Department of Education, which the Compact
+20 Commission may by rule determine, and from a college or university
+21 accredited at the time of graduation by the appropriate regional accrediting
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 11 of 44
+1 agency recognized by the Council on Higher Education Accreditation and the
+2 United States Department of Education; or
+3 (II) an academic degree from a college or university in a
+4 foreign country equivalent to the degree described in subdivision (1)(B)(i)(I) of
+5 this subsection (a) that is programmatically accredited by ACEND, or a
+6 dietetics accrediting agency recognized by the United States Department of
+7 Education, which the Compact Commission may by rule determine;
+8 (ii) a planned, documented, supervised practice experience in
+9 dietetics that is programmatically accredited by ACEND, or a dietetics
+10 accrediting agency recognized by the United States Department of Education
+11 which the Compact Commission may by rule determine and which involves at
+12 least 1,000 hours of practice experience under the supervision of a registered
+13 dietitian or a licensed dietitian; and
+14 (iii) successful completion of either the Registration Examination
+15 for Dietitians administered by CDR or a national credentialing examination for
+16 dietitians approved by the Compact Commission by rule; such completion
+17 being no more than five years prior to the date of the licensee’s application for
+18 initial licensure and accompanied by a period of continuous licensure
+19 thereafter, all of which may be further governed by the rules of the Compact
+20 Commission;
+21 (2) hold an unencumbered license in the home state;
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 12 of 44
+1 (3) notify the Compact Commission that the licensee is seeking a
+2 compact privilege within a remote state;
+3 (4) pay any applicable fees, including any state fee, for the compact
+4 privilege;
+5 (5) meet any jurisprudence requirements established by the remote state
+6 in which the licensee is seeking a compact privilege; and
+7 (6) report to the Compact Commission any adverse action,
+8 encumbrance, or restriction on a license taken by any non-member state within
+9 30 days from the date the action is taken.
+10 (b) The compact privilege is valid until the expiration date of the home
+11 state license. To maintain a compact privilege, renewal of the compact
+12 privilege shall be congruent with the renewal of the home state license as the
+13 Compact Commission may define by rule. The licensee must comply with the
+14 requirements of subsection (a) of this section to maintain the compact privilege
+15 in the remote state.
+16 (c) A licensee exercising a compact privilege shall adhere to the laws and
+17 regulations of the remote state. Licensees shall be responsible for educating
+18 themselves on, and complying with, any and all state laws relating to the
+19 practice of dietetics in such remote state.
+20 (d) Notwithstanding anything to the contrary provided in this Compact or
+21 state law, a licensee exercising a compact privilege shall not be required to
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 13 of 44
+1 complete continuing education requirements required by a remote state. A
+2 licensee exercising a compact privilege is only required to meet any continuing
+3 education requirements as required by the home state.
+4 § 3391e. OBTAINING A NEW HOME STATE LICENSE BASED ON A
+5 COMPACT PRIVILEGE
+6 (a) A licensee may hold a home state license, which allows for a compact
+7 privilege in other member states, in only one member state at a time.
+8 (b) If a licensee changes home state by moving between two member
+9 states:
+10 (1) The licensee shall file an application for obtaining a new home state
+11 license based on a compact privilege, pay all applicable fees, and notify the
+12 current and new home state in accordance with the rules of the Compact
+13 Commission.
+14 (2) Upon receipt of an application for obtaining a new home state
+15 license by virtue of a compact privilege, the new home state shall verify that
+16 the licensee meets the criteria in section 3391d of this subchapter via the data
+17 system and require that the licensee complete the following:
+18 (A) Federal Bureau of Investigation fingerprint based criminal
+19 history record information check;
+20 (B) any other criminal history record information required by the new
+21 home state; and
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 14 of 44
+1 (C) any jurisprudence requirements of the new home state.
+2 (3) The former home state shall convert the former home state license
+3 into a compact privilege once the new home state has activated the new home
+4 state license in accordance with applicable rules adopted by the Compact
+5 Commission.
+6 (4) Notwithstanding any other provision of this Compact, if the licensee
+7 cannot meet the criteria in section 3391d of this subchapter, the new home
+8 state may apply its requirements for issuing a new single state license.
+9 (5) The licensee shall pay all applicable fees to the new home state in
+10 order to be issued a new home state license.
+11 (c) If a licensee changes their state of residence by moving from a member
+12 state to a non-member state, or from a non-member state to a member state, the
+13 state criteria shall apply for issuance of a single state license in the new state.
+14 (d) Nothing in this Compact shall interfere with a licensee’s ability to hold
+15 a single state license in multiple states; however, for the purposes of this
+16 Compact, a licensee shall have only one home state license.
+17 (e) Nothing in this Compact shall affect the requirements established by a
+18 member state for the issuance of a single state license.
+19 § 3391f. ACTIVE MILITARY MEMBERS OR THEIR SPOUSES
+20 An active military member, or their spouse, shall designate a home state
+21 where the individual has a current license in good standing. The individual
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 15 of 44
+1 may retain the home state designation during the period the service member is
+2 on active duty.
+3 § 3391g. ADVERSE ACTIONS
+4 (a) In addition to the other powers conferred by state law, a remote state
+5 shall have the authority, in accordance with existing state due process law, to:
+6 (1) take adverse action against a licensee’s compact privilege within that
+7 member state; and
+8 (2) issue subpoenas for both hearings and investigations that require the
+9 attendance and testimony of witnesses as well as the production of evidence.
+10 Subpoenas issued by a licensing authority in a member state for the attendance
+11 and testimony of witnesses or the production of evidence from another member
+12 state shall be enforced in the latter state by any court of competent jurisdiction,
+13 according to the practice and procedure applicable to subpoenas issued in
+14 proceedings pending before that court. The issuing authority shall pay any
+15 witness fees, travel expenses, mileage, and other fees required by the service
+16 statutes of the state in which the witnesses or evidence are located.
+17 (b) Only the home state shall have the power to take adverse action against
+18 a licensee’s home state license.
+19 (c) For purposes of taking adverse action, the home state shall give the
+20 same priority and effect to reported conduct received from a member state as it
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 16 of 44
+1 would if the conduct had occurred within the home state. In so doing, the
+2 home state shall apply its own state laws to determine appropriate action.
+3 (d) The home state shall complete any pending investigations of a licensee
+4 who changes home states during the course of the investigations. The home
+5 state shall also have authority to take appropriate action and shall promptly
+6 report the conclusions of the investigations to the administrator of the data
+7 system. The administrator of the data system shall promptly notify the new
+8 home state of any adverse actions.
+9 (e) A member state, if otherwise permitted by state law, may recover from
+10 the affected licensee the costs of investigations and dispositions of cases
+11 resulting from any adverse action taken against that licensee.
+12 (f) A member state may take adverse action based on the factual findings of
+13 another remote state, provided that the member state follows its own
+14 procedures for taking the adverse action.
+15 (g) Joint investigations.
+16 (1) In addition to the authority granted to a member state by its
+17 respective state law, any member state may participate with other member
+18 states in joint investigations of licensees.
+19 (2) Member states shall share any investigative, litigation, or compliance
+20 materials in furtherance of any joint investigation initiated under the Compact.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 17 of 44
+1 (h) If adverse action is taken by the home state against a licensee’s home
+2 state license resulting in an encumbrance on the home state license, the
+3 licensee’s compact privilege in all other member states shall be revoked until
+4 all encumbrances have been removed from the home state license. All home
+5 state disciplinary orders that impose adverse action against a licensee shall
+6 include a statement that the licensee’s compact privileges are revoked in all
+7 member states during the pendency of the order.
+8 (i) Once an encumbered license in the home state is restored to an
+9 unencumbered license, as certified by the home state’s licensing authority, the
+10 licensee must meet the requirements of subsection 3391d(a) of this subchapter
+11 and follow the administrative requirements to reapply to obtain a compact
+12 privilege in any remote state.
+13 (j) If a member state takes adverse action, it shall promptly notify the
+14 administrator of the data system. The administrator of the data system shall
+15 promptly notify the other member states state of any adverse actions.
+16 (k) Nothing in this Compact shall override a member state’s decision that
+17 participation in an alternative program may be used in lieu of adverse action.
+18 § 3391h. ESTABLISHMENT OF THE DIETITIAN LICENSURE
+19 COMPACT COMMISSION
+20 (a) The Compact member states hereby create and establish a joint
+21 government agency whose membership consists of all member states that have
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 18 of 44
+1 enacted the Compact known as the Dietitian Licensure Compact Commission.
+2 The Compact Commission is an instrumentality of the compact states acting
+3 jointly and not an instrumentality of any one state. The Compact Commission
+4 shall come into existence on or after the effective date of the Compact as set
+5 forth in section 3391l of this subchapter.
+6 (b) Membership, voting, and meetings.
+7 (1) Each member state shall have and be limited to one delegate selected
+8 by that member state’s licensing authority.
+9 (2) The delegate shall be the primary administrator of the licensing
+10 authority or their designee.
+11 (3) The Compact Commission shall by rule or bylaw establish a term of
+12 office for delegates and may by rule or bylaw establish term limits.
+13 (4) The Compact Commission may recommend removal or suspension
+14 of any delegate from office.
+15 (5) A member state’s licensing authority shall fill any vacancy of its
+16 delegate occurring on the Compact Commission within 60 days of the vacancy.
+17 (6) Each delegate shall be entitled to one vote on all matters before the
+18 Compact Commission requiring a vote by the delegates.
+19 (7) Delegates shall meet and vote by such means as set forth in the
+20 bylaws. The bylaws may provide for delegates to meet and vote in person or
+21 by telecommunication, video conference, or other means of communication.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 19 of 44
+1 (8) The Compact Commission shall meet at least once during each
+2 calendar year. Additional meetings may be held as set forth in the bylaws.
+3 The Compact Commission may meet in person or by telecommunication, video
+4 conference, or other means of communication.
+5 (c) The Compact Commission shall have the following powers:
+6 (1) establish the fiscal year of the Compact Commission;
+7 (2) establish code of conduct and conflict of interest policies;
+8 (3) establish and amend rules and bylaws;
+9 (4) maintain its financial records in accordance with the bylaws;
+10 (5) meet and take such actions as are consistent with the provisions of
+11 this Compact, the Compact Commission’s rules, and the bylaws;
+12 (6) initiate and conclude legal proceedings or actions in the name of the
+13 Compact Commission, provided that the standing of any licensing authority to
+14 sue or be sued under applicable law shall not be affected;
+15 (7) maintain and certify records and information provided to a member
+16 state as the authenticated business records of the Compact Commission, and
+17 designate an agent to do so on the Compact Commission’s behalf;
+18 (8) purchase and maintain insurance and bonds;
+19 (9) borrow, accept, or contract for services of personnel, including, but
+20 not limited to, employees of a member state;
+21 (10) conduct an annual financial review;
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 20 of 44
+1 (11) hire employees, elect or appoint officers, fix compensation, define
+2 duties, grant such individuals appropriate authority to carry out the purposes of
+3 the Compact, and establish the Compact Commission’s personnel policies and
+4 programs relating to conflicts of interest, qualifications of personnel, and other
+5 related personnel matters;
+6 (12) assess and collect fees;
+7 (13) accept any and all appropriate donations, grants of money, other
+8 sources of revenue, equipment, supplies, materials, services, and gifts, and
+9 receive, utilize, and dispose of the same; provided that at all times the Compact
+10 Commission shall avoid any actual or appearance of impropriety or conflict of
+11 interest;
+12 (14) lease, purchase, retain, own, hold, improve, or use any property,
+13 real, personal, or mixed, or any undivided interest therein;
+14 (15) sell, convey, mortgage, pledge, lease, exchange, abandon, or
+15 otherwise dispose of any property real, personal, or mixed;
+16 (16) establish a budget and make expenditures;
+17 (17) borrow money;
+18 (18) appoint committees, including standing committees, composed of
+19 members, state regulators, state legislators or their representatives, and
+20 consumer representatives, and such other interested persons as may be
+21 designated in this Compact or the bylaws;
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 21 of 44
+1 (19) provide and receive information from, and cooperate with, law
+2 enforcement agencies;
+3 (20) establish and elect an Executive Committee, including a chair and a
+4 vice chair;
+5 (21) determine whether a state’s adopted language is materially different
+6 from the model compact language such that the state would not qualify for
+7 participation in the Compact; and
+8 (22) perform such other functions as may be necessary or appropriate to
+9 achieve the purposes of this Compact.
+10 (d) The Executive Committee.
+11 (1) The Executive Committee shall have the power to act on behalf of
+12 the Compact Commission according to the terms of this Compact. The
+13 powers, duties, and responsibilities of the Executive Committee shall include:
+14 (A) oversee the day-to-day activities of the administration of the
+15 Compact, including enforcement and compliance with the provisions of the
+16 Compact, its rules and bylaws, and other such duties as deemed necessary;
+17 (B) recommend to the Compact Commission changes to the rules or
+18 bylaws, changes to this Compact legislation, fees charged to compact member
+19 states, fees charged to licensees, and other fees;
+20 (C) ensure compact administration services are appropriately
+21 provided, including by contract;
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 22 of 44
+1 (D) prepare and recommend the budget;
+2 (E) maintain financial records on behalf of the Compact
+3 Commission;
+4 (F) monitor Compact compliance of member states and provide
+5 compliance reports to the Compact Commission;
+6 (G) establish additional committees as necessary;
+7 (H) exercise the powers and duties of the Compact Commission
+8 during the interim between Compact Commission meetings, except for
+9 adopting or amending rules, adopting or amending bylaws, and exercising any
+10 other powers and duties expressly reserved to the Compact Commission by
+11 rule or bylaw; and
+12 (I) other duties as provided in the rules or bylaws of the Compact
+13 Commission.
+14 (2) The Executive Committee shall be composed of nine members:
+15 (A) the chair and vice chair of the Compact Commission shall be
+16 voting members of the Executive Committee;
+17 (B) five voting members from the current membership of the
+18 Compact Commission, elected by the Compact Commission;
+19 (C) one ex-officio, nonvoting member from a recognized
+20 professional association representing dietitians; and
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 23 of 44
+1 (D) one ex-officio, nonvoting member from a recognized national
+2 credentialing organization for dietitians.
+3 (3) The Compact Commission may remove any member of the
+4 Executive Committee as provided in the Compact Commission’s bylaws.
+5 (4) The Executive Committee shall meet at least annually.
+6 (A) Executive Committee meetings shall be open to the public,
+7 except that the Executive Committee may meet in a closed, non-public meeting
+8 as provided in subdivision (f)(2) of this section.
+9 (B) The Executive Committee shall give 30 days’ notice of its
+10 meetings, posted on the website of the Compact Commission and as
+11 determined to provide notice to persons with an interest in the business of the
+12 Compact Commission.
+13 (C) The Executive Committee may hold a special meeting in
+14 accordance with subdivision (f)(1)(b) of this section.
+15 (e) The Compact Commission shall adopt and provide to the member states
+16 an annual report.
+17 (f) Meetings of the Compact Commission.
+18 (1) All meetings shall be open to the public, except that the Compact
+19 Commission may meet in a closed, nonpublic meeting as provided in
+20 subdivision (f)(2) of this section.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 24 of 44
+1 (A) Public notice for all meetings of the full Compact Commission
+2 shall be given in the same manner as required under the rulemaking provisions
+3 in section 3391j of this subchapter, except that the Compact Commission may
+4 hold a special meeting as provided in subdivision (f)(1)(B) of this section.
+5 (B) The Compact Commission may hold a special meeting when it
+6 must meet to conduct emergency business by giving 24 hours’ notice to all
+7 member states, on the Compact Commission’s website, and other means as
+8 provided in the Compact Commission’s rules. The Compact Commission’s
+9 legal counsel shall certify that the Compact Commission’s need to meet
+10 qualifies as an emergency.
+11 (2) The Compact Commission or the Executive Committee or other
+12 committees of the Compact Commission may convene in a closed, nonpublic
+13 meeting for the Compact Commission or Executive Committee or other
+14 committees of the Compact Commission to receive legal advice or to discuss:
+15 (A) noncompliance of a member state with its obligations under the
+16 Compact;
+17 (B) the employment, compensation, discipline, or other matters,
+18 practices, or procedures related to specific employees;
+19 (C) current or threatened discipline of a licensee by the Compact
+20 Commission or by a member state’s licensing authority;
+21 (D) current, threatened, or reasonably anticipated litigation;
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 25 of 44
+1 (E) negotiation of contracts for the purchase, lease, or sale of goods,
+2 services, or real estate;
+3 (F) accusing any person of a crime or formally censuring any person;
+4 (G) trade secrets or commercial or financial information that is
+5 privileged or confidential;
+6 (H) information of a personal nature where disclosure would
+7 constitute a clearly unwarranted invasion of personal privacy;
+8 (I) investigative records compiled for law enforcement purposes;
+9 (J) information related to any investigative reports prepared by or on
+10 behalf of or for use of the Compact Commission or other committee charged
+11 with responsibility of investigation or determination of compliance issues
+12 pursuant to the Compact;
+13 (K) matters specifically exempted from disclosure by federal or
+14 member state law; or
+15 (L) other matters as specified in the rules of the Compact
+16 Commission.
+17 (3) If a meeting, or portion of a meeting, is closed, the presiding officer
+18 shall state that the meeting will be closed and reference each relevant
+19 exempting provision, and such reference shall be recorded in the minutes.
+20 (4) The Compact Commission shall keep minutes that fully and clearly
+21 describe all matters discussed in a meeting and shall provide a full and accurate
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 26 of 44
+1 summary of actions taken, and the reasons therefore, including a description of
+2 the views expressed. All documents considered in connection with an action
+3 shall be identified in such minutes. All minutes and documents of a closed
+4 meeting shall remain under seal, subject to release only by a majority vote of
+5 the Compact Commission or order of a court of competent jurisdiction.
+6 (g) Financing of the Compact Commission.
+7 (1) The Compact Commission shall pay, or provide for the payment of,
+8 the reasonable expenses of its establishment, organization, and ongoing
+9 activities.
+10 (2) The Compact Commission may accept any and all appropriate
+11 revenue sources as provided in subdivision (c)(13) of this section.
+12 (3) The Compact Commission may levy on and collect an annual
+13 assessment from each member state and impose fees on licensees of member
+14 states to whom it grants a compact privilege to cover the cost of the operations
+15 and activities of the Compact Commission and its staff, which must, in a total
+16 amount, be sufficient to cover its annual budget as approved each year for
+17 which revenue is not provided by other sources. The aggregate annual
+18 assessment amount for member states shall be allocated based upon a formula
+19 that the Compact Commission shall promulgate by rule.
+20 (4) The Compact Commission shall not incur obligations of any kind
+21 prior to securing the funds adequate to meet the same; nor shall the Compact
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 27 of 44
+1 Commission pledge the credit of any of the member states, except by and with
+2 the authority of the member state.
+3 (5) The Compact Commission shall keep accurate accounts of all
+4 receipts and disbursements. The receipts and disbursements of the Compact
+5 Commission shall be subject to the financial review and accounting procedures
+6 established under its bylaws. However, all receipts and disbursements of funds
+7 handled by the Compact Commission shall be subject to an annual financial
+8 review by a certified or licensed public accountant, and the report of the
+9 financial review shall be included in and become part of the annual report of
+10 the Compact Commission.
+11 (h) Qualified immunity, defense, and indemnification.
+12 (1) The members, officers, executive director, employees, and
+13 representatives of the Compact Commission shall be immune from suit and
+14 liability, both personally and in their official capacity, for any claim for
+15 damage to or loss of property or personal injury or other civil liability caused
+16 by or arising out of any actual or alleged act, error, or omission that occurred,
+17 or that the person against whom the claim is made had a reasonable basis for
+18 believing occurred, within the scope of Compact Commission employment,
+19 duties, or responsibilities; provided that nothing in this paragraph shall be
+20 construed to protect any such person from suit or liability for any damage, loss,
+21 injury, or liability caused by the intentional or willful or wanton misconduct of
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 28 of 44
+1 that person. The procurement of insurance of any type by the Compact
+2 Commission shall not in any way compromise or limit the immunity granted
+3 hereunder.
+4 (2) The Compact Commission shall defend any member, officer,
+5 executive director, employee, and representative of the Compact Commission
+6 in any civil action seeking to impose liability arising out of any actual or
+7 alleged act, error, or omission that occurred within the scope of Compact
+8 Commission employment, duties, or responsibilities, or as determined by the
+9 Compact Commission that the person against whom the claim is made had a
+10 reasonable basis for believing occurred within the scope of Compact
+11 Commission employment, duties, or responsibilities; provided that nothing
+12 herein shall be construed to prohibit that person from retaining their own
+13 counsel at their own expense; and provided further, that the actual or alleged
+14 act, error, or omission did not result from that person’s intentional or willful or
+15 wanton misconduct.
+16 (3) The Compact Commission shall indemnify and hold harmless any
+17 member, officer, executive director, employee, and representative of the
+18 Compact Commission for the amount of any settlement or judgment obtained
+19 against that person arising out of any actual or alleged act, error, or omission
+20 that occurred within the scope of Compact Commission employment, duties, or
+21 responsibilities, or that such person had a reasonable basis for believing
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 29 of 44
+1 occurred within the scope of Compact Commission employment, duties, or
+2 responsibilities, provided that the actual or alleged act, error, or omission did
+3 not result from the intentional or willful or wanton misconduct of that person.
+4 (4) Nothing herein shall be construed as a limitation on the liability of
+5 any licensee for professional malpractice or misconduct, which shall be
+6 governed solely by any other applicable state laws.
+7 (5) Nothing in this Compact shall be interpreted to waive or otherwise
+8 abrogate a member state’s state action immunity or state action affirmative
+9 defense with respect to antitrust claims under the Sherman Act, Clayton Act, or
+10 any other state or federal antitrust or anticompetitive law or regulation.
+11 (6) Nothing in this Compact shall be construed to be a waiver of
+12 sovereign immunity by the member states or by the Compact Commission.
+13 § 3391i. DATA SYSTEM
+14 (a) The Compact Commission shall provide for the development,
+15 maintenance, operation, and utilization of a coordinated data system.
+16 (b) The Compact Commission shall assign each applicant for a compact
+17 privilege a unique identifier, as determined by the rules.
+18 (c) Notwithstanding any other provision of State law to the contrary, a
+19 member state shall submit a uniform data set to the data system on all
+20 individuals to whom this Compact is applicable as required by the rules of the
+21 Compact Commission, including:
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 30 of 44
+1 (1) identifying information;
+2 (2) licensure data;
+3 (3) adverse actions against a license or compact privilege and
+4 information related thereto;
+5 (4) nonconfidential information related to alternative program
+6 participation, the beginning and ending dates of such participation, and other
+7 information related to such participation not made confidential under member
+8 state law;
+9 (5) any denial of application for licensure, and the reason for such
+10 denial;
+11 (6) the presence of current significant investigative information; and
+12 (7) other information that may facilitate the administration of this
+13 Compact or the protection of the public, as determined by the rules of the
+14 Compact Commission.
+15 (d) The records and information provided to a member state pursuant to
+16 this Compact or through the data system, when certified by the Compact
+17 Commission or an agent thereof, shall constitute the authenticated business
+18 records of the Compact Commission and shall be entitled to any associated
+19 hearsay exception in any relevant judicial, quasi-judicial, or administrative
+20 proceedings in a member state.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 31 of 44
+1 (e) Current significant investigative information pertaining to a licensee in
+2 any member state will only be available to other member states.
+3 (f) It is the responsibility of the member states to report any adverse action
+4 against a licensee and to monitor the data system to determine whether any
+5 adverse action has been taken against a licensee. Adverse action information
+6 pertaining to a licensee in any member state will be available to any other
+7 member state.
+8 (g) Member states contributing information to the data system may
+9 designate information that may not be shared with the public without the
+10 express permission of the contributing state.
+11 (h) Any information submitted to the data system that is subsequently
+12 expunged pursuant to federal law or the laws of the member state contributing
+13 the information shall be removed from the data system.
+14 § 3391j. RULEMAKING
+15 (a) The Compact Commission shall promulgate reasonable rules in order to
+16 effectively and efficiently implement and administer the purposes and
+17 provisions of the Compact. A rule shall be invalid and have no force or effect
+18 only if a court of competent jurisdiction holds that the rule is invalid because
+19 the Compact Commission exercised its rulemaking authority in a manner that
+20 is beyond the scope and purposes of the Compact, or the powers granted
+21 hereunder, or based upon another applicable standard of review.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 32 of 44
+1 (b) The rules of the Compact Commission shall have the force of law in
+2 each member state, provided however that where the rules conflict with the
+3 laws or regulations of a member state that relate to the procedures, actions, and
+4 processes a licensed dietitian is permitted to undertake in that state and the
+5 circumstances under which they may do so, as held by a court of competent
+6 jurisdiction, the rules of the Compact Commission shall be ineffective in that
+7 state to the extent of the conflict.
+8 (c) The Compact Commission shall exercise its rulemaking powers
+9 pursuant to the criteria set forth in this section and the rules adopted
+10 thereunder. Rules shall become binding on the day following adoption or as of
+11 the date specified in the rule or amendment, whichever is later.
+12 (d) If a majority of the legislatures of the member states rejects a rule or
+13 portion of a rule, by enactment of a statute or resolution in the same manner
+14 used to adopt the Compact within four years of the date of adoption of the rule,
+15 then such rule shall have no further force and effect in any member state.
+16 (e) Rules shall be adopted at a regular or special meeting of the Compact
+17 Commission.
+18 (f) Prior to adoption of a proposed rule, the Compact Commission shall
+19 hold a public hearing and allow persons to provide oral and written comments,
+20 data, facts, opinions, and arguments.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 33 of 44
+1 (g) Prior to adoption of a proposed rule by the Compact Commission, and
+2 at least thirty days in advance of the meeting at which the Compact
+3 Commission will hold a public hearing on the proposed rule, the Compact
+4 Commission shall provide a notice of proposed rulemaking:
+5 (1) on the website of the Compact Commission or other publicly
+6 accessible platform;
+7 (2) to persons who have requested notice of the Compact Commission’s
+8 notices of proposed rulemaking; and
+9 (3) in such other way(s) as the Compact Commission may by rule
+10 specify.
+11 (h) The notice of proposed rulemaking shall include:
+12 (1) the time, date, and location of the public hearing at which the
+13 Compact Commission will hear public comments on the proposed rule and, if
+14 different, the time, date, and location of the meeting where the Compact
+15 Commission will consider and vote on the proposed rule;
+16 (2) if the hearing is held via telecommunication, video conference, or
+17 other means of communication, the Compact Commission shall include the
+18 mechanism for access to the hearing in the notice of proposed rulemaking;
+19 (3) the text of the proposed rule and the reason therefore;
+20 (4) a request for comments on the proposed rule from any interested
+21 person; and
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 34 of 44
+1 (5) the manner in which interested persons may submit written
+2 comments.
+3 (i) All hearings will be recorded. A copy of the recording and all written
+4 comments and documents received by the Compact Commission in response to
+5 the proposed rule shall be available to the public.
+6 (j) Nothing in this section shall be construed as requiring a separate hearing
+7 on each rule. Rules may be grouped for the convenience of the Compact
+8 Commission at hearings required by this section.
+9 (k) The Compact Commission shall, by majority vote of all members, take
+10 final action on the proposed rule based on the rulemaking record and the full
+11 text of the rule.
+12 (1) The Compact Commission may adopt changes to the proposed rule
+13 provided the changes do not enlarge the original purpose of the proposed rule.
+14 (2) The Compact Commission shall provide an explanation of the
+15 reasons for substantive changes made to the proposed rule as well as reasons
+16 for substantive changes not made that were recommended by commenters.
+17 (3) The Compact Commission shall determine a reasonable effective
+18 date for the rule. Except for an emergency as provided in subsection (l) of this
+19 section, the effective date of the rule shall be no sooner than 30 days after
+20 issuing the notice that it adopted or amended the rule.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 35 of 44
+1 (l) Upon determination that an emergency exists, the Compact Commission
+2 may consider and adopt an emergency rule with 24 hours’ notice, with
+3 opportunity to comment, provided that the usual rulemaking procedures
+4 provided in the Compact and in this section shall be retroactively applied to the
+5 rule as soon as reasonably possible, in no event later than ninety days after the
+6 effective date of the rule. For the purposes of this provision, an emergency
+7 rule is one that must be adopted immediately in order to:
+8 (1) meet an imminent threat to public health, safety, or welfare;
+9 (2) prevent a loss of Compact Commission or member state funds;
+10 (3) meet a deadline for the promulgation of a rule that is established by
+11 federal law or rule; or
+12 (4) protect public health and safety.
+13 (m) The Compact Commission or an authorized committee of the Compact
+14 Commission may direct revision to a previously adopted rule for purposes of
+15 correcting typographical errors, errors in format, errors in consistency, or
+16 grammatical errors. Public notice of any revision shall be posted on the
+17 website of the Compact Commission. The revision shall be subject to
+18 challenge by any person for a period of thirty days after posting. The revision
+19 may be challenged only on grounds that the revision results in a material
+20 change to a rule. A challenge shall be made in writing and delivered to the
+21 Compact Commission prior to the end of the notice period. If no challenge is
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 36 of 44
+1 made, the revision will take effect without further action. If the revision is
+2 challenged, the revision may not take effect without the approval of the
+3 Compact Commission.
+4 (n) No member state’s rulemaking requirements shall apply under this
+5 Compact.
+6 § 3391k. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+7 (a) Oversight.
+8 (1) The executive and judicial branches of state government in each
+9 member state shall enforce this Compact and take all actions necessary and
+10 appropriate to implement this Compact.
+11 (2) Except as otherwise provided in this Compact, venue is proper and
+12 judicial proceedings by or against the Compact Commission shall be brought
+13 solely and exclusively in a court of competent jurisdiction where the principal
+14 office of the Compact Commission is located. The Compact Commission may
+15 waive venue and jurisdictional defenses to the extent it adopts or consents to
+16 participate in alternative dispute resolution proceedings. Nothing herein shall
+17 affect or limit the selection or propriety of venue in any action against a
+18 licensee for professional malpractice, misconduct, or any such similar matter.
+19 (3) The Compact Commission shall be entitled to receive service of
+20 process in any proceeding regarding the enforcement or interpretation of the
+21 Compact and shall have standing to intervene in such a proceeding for all
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 37 of 44
+1 purposes. Failure to provide the Compact Commission service of process shall
+2 render a judgment or order void as to the Compact Commission, this Compact,
+3 or promulgated rules.
+4 (b) Default, technical assistance, and termination.
+5 (1) If the Compact Commission determines that a member state has
+6 defaulted in the performance of its obligations or responsibilities under this
+7 Compact or the promulgated rules, the Compact Commission shall provide
+8 written notice to the defaulting state. The notice of default shall describe the
+9 default, the proposed means of curing the default, and any other action that the
+10 Compact Commission may take and shall offer training and specific technical
+11 assistance regarding the default.
+12 (2) The Compact Commission shall provide a copy of the notice of
+13 default to the other member states.
+14 (c) If a state in default fails to cure the default, the defaulting state may be
+15 terminated from the Compact upon an affirmative vote of a majority of the
+16 delegates of the member states, and all rights, privileges, and benefits
+17 conferred on that state by this Compact may be terminated on the effective date
+18 of termination. A cure of the default does not relieve the offending state of
+19 obligations or liabilities incurred during the period of default.
+20 (d) Termination of membership in the Compact shall be imposed only after
+21 all other means of securing compliance have been exhausted. Notice of intent
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 38 of 44
+1 to suspend or terminate shall be given by the Compact Commission to the
+2 governor, the majority and minority leaders of the defaulting state’s legislature,
+3 the defaulting state’s licensing authority, and each of the member states’
+4 licensing authority.
+5 (e) A state that has been terminated is responsible for all assessments,
+6 obligations, and liabilities incurred through the effective date of termination,
+7 including obligations that extend beyond the effective date of termination.
+8 (f) Upon the termination of a state’s membership from this Compact, that
+9 state shall immediately provide notice to all licensees within that state of such
+10 termination. The terminated state shall continue to recognize all compact
+11 privileges granted pursuant to this Compact for a minimum of six months after
+12 the date of said notice of termination.
+13 (g) The Compact Commission shall not bear any costs related to a state that
+14 is found to be in default or that has been terminated from the Compact, unless
+15 agreed upon in writing between the Compact Commission and the defaulting
+16 state.
+17 (h) The defaulting state may appeal the action of the Compact Commission
+18 by petitioning the U.S. District Court for the District of Columbia or the
+19 federal district where the Compact Commission has its principal offices. The
+20 prevailing party shall be awarded all costs of such litigation, including
+21 reasonable attorney’s fees.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 39 of 44
+1 (i) Dispute Resolution.
+2 (1) Upon request by a member state, the Compact Commission shall
+3 attempt to resolve disputes related to the Compact that arise among member
+4 states and between member and non-member States.
+5 (2) The Compact Commission shall promulgate a rule providing for
+6 both mediation and binding dispute resolution for disputes as appropriate.
+7 (j) Enforcement.
+8 (1) By supermajority vote, the Compact Commission may initiate legal
+9 action against a member state in default in the U.S. District Court for the
+10 District of Columbia or the federal district where the Compact Commission has
+11 its principal offices to enforce compliance with the provisions of the Compact
+12 and its promulgated rules. The relief sought may include both injunctive relief
+13 and damages. In the event judicial enforcement is necessary, the prevailing
+14 party shall be awarded all costs of such litigation, including reasonable
+15 attorney’s fees. The remedies herein shall not be the exclusive remedies of the
+16 Compact Commission. The Compact Commission may pursue any other
+17 remedies available under federal or the defaulting member state’s law.
+18 (2) A member state may initiate legal action against the Compact
+19 Commission in the U.S. District Court for the District of Columbia or the
+20 federal district where the Compact Commission has its principal offices to
+21 enforce compliance with the provisions of the Compact and its promulgated
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 40 of 44
+1 rules. The relief sought may include both injunctive relief and damages. In
+2 the event judicial enforcement is necessary, the prevailing party shall be
+3 awarded all costs of such litigation, including reasonable attorney’s fees.
+4 (3) No party other than a member state shall enforce this Compact
+5 against the Compact Commission.
+6 § 3391l. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+7 (a) The Compact shall come into effect on the date on which the Compact
+8 statute is enacted into law in the seventh member state.
+9 (1) On or after the effective date of the Compact, the Compact
+10 Commission shall convene and review the enactment of each of the first seven
+11 member states (“charter member states”) to determine if the statute enacted by
+12 each such charter member state is materially different than the model compact
+13 statute.
+14 (A) A charter member state whose enactment is found to be
+15 materially different from the model compact statute shall be entitled to the
+16 default process set forth in section 3391k of this subchapter.
+17 (B) If any member state is later found to be in default, or is
+18 terminated, or withdraws from the Compact, the Compact Commission shall
+19 remain in existence and the Compact shall remain in effect even if the number
+20 of member states should be less than seven.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 41 of 44
+1 (2) Member states enacting the Compact subsequent to the seven initial
+2 charter member states shall be subject to the process set forth in subdivision
+3 3391h(c)(21) of this subchapter to determine if their enactments are materially
+4 different from the model Compact statute and whether they qualify for
+5 participation in the Compact.
+6 (3) All actions taken for the benefit of the Compact Commission or in
+7 furtherance of the purposes of the administration of the Compact prior to the
+8 effective date of the Compact or the Compact Commission coming into
+9 existence shall be considered to be actions of the Compact Commission unless
+10 specifically repudiated by the Compact Commission.
+11 (4) Any state that joins the Compact subsequent to the Compact
+12 Commission’s initial adoption of the rules and bylaws shall be subject to the
+13 rules and bylaws as they exist on the date on which the Compact becomes law
+14 in that state. Any rule that has been previously adopted by the Compact
+15 Commission shall have the full force and effect of law on the day the Compact
+16 becomes law in that state.
+17 (b) Any member state may withdraw from this Compact by enacting a
+18 statute repealing the same.
+19 (1) A member state’s withdrawal shall not take effect until 180 days
+20 after enactment of the repealing statute.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 42 of 44
+1 (2) Withdrawal shall not affect the continuing requirement of the
+2 withdrawing state’s licensing authority to comply with the investigative and
+3 adverse action reporting requirements of this Compact prior to the effective
+4 date of withdrawal.
+5 (3) Upon the enactment of a statute withdrawing from this Compact, a
+6 state shall immediately provide notice of such withdrawal to all licensees
+7 within that state. Notwithstanding any subsequent statutory enactment to the
+8 contrary, such withdrawing state shall continue to recognize all compact
+9 privileges granted pursuant to this Compact for a minimum of 180 days after
+10 the date of such notice of withdrawal.
+11 (c) Nothing contained in this Compact shall be construed to invalidate or
+12 prevent any licensure agreement or other cooperative arrangement between a
+13 member state and a non-member state that does not conflict with the provisions
+14 of this Compact.
+15 (d) This Compact may be amended by the member states. No amendment
+16 to this Compact shall become effective and binding upon any member state
+17 until it is enacted into the laws of all member states.
+18 § 3391m. CONSTRUCTION AND SEVERABILITY
+19 (a) This Compact and the Compact Commission’s rulemaking authority
+20 shall be liberally construed so as to effectuate the purposes and the
+21 implementation and administration of the Compact. Provisions of the
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 43 of 44
+1 Compact expressly authorizing or requiring the promulgation of rules shall not
+2 be construed to limit the Compact Commission’s rulemaking authority solely
+3 for those purposes.
+4 (b) The provisions of this Compact shall be severable and if any phrase,
+5 clause, sentence, or provision of this Compact is held by a court of competent
+6 jurisdiction to be contrary to the constitution of any member state, a state
+7 seeking participation in the Compact, or of the United States, or the
+8 applicability thereof to any government, agency, person, or circumstance is
+9 held to be unconstitutional by a court of competent jurisdiction, the validity of
+10 the remainder of this Compact and the applicability thereof to any other
+11 government, agency, person, or circumstance shall not be affected thereby.
+12 (c) Notwithstanding subsection (b) of this section, the Compact
+13 Commission may deny a state’s participation in the Compact or, in accordance
+14 with the requirements of subsection 3391k(b) of this subchapter, terminate a
+15 member state’s participation in the Compact, if it determines that a
+16 constitutional requirement of a member state is a material departure from the
+17 Compact. Otherwise, if this Compact shall be held to be contrary to the
+18 constitution of any member state, the Compact shall remain in full force and
+19 effect as to the remaining member states and in full force and effect as to the
+20 member state affected as to all severable matters.
+VT LEG #378692 v.1
+BILL AS INTRODUCED H.296
+2025 Page 44 of 44
+1 § 3391n. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE
+2 LAWS
+3 (a) Nothing herein shall prevent or inhibit the enforcement of any other law
+4 of a member state that is not inconsistent with the Compact.
+5 (b) Any laws, statutes, regulations, or other legal requirements in a member
+6 state in conflict with the Compact are superseded to the extent of the conflict.
+7 (c) All permissible agreements between the Compact Commission and the
+8 member states are binding in accordance with their terms.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #378692 v.1
+[DELETED:  H P H I R M F M o B R D S P S a A I S C S * S]
+[DELETED:  H P § T C t G a s § ( d C a f p ( ( ( w ( ( (]
+[DELETED:  H P ( p ( ( i ( a i § A d ( N ( s N ( c a i p]
+[DELETED:  H P a p ( p ( C s ( l e ( s ( m k s o ( e (]
+[DELETED:  H P ( p l g ( r w r ( i i ( r ( l l ( a C]
+[DELETED:  H P ( s s ( d i ( i o ( ( t ( n s ( c s ( e d]
+[DELETED:  H P ( ( d n t p ( ( a ( d ( r “ ( w ( C ( w m]
+[DELETED:  H P ( U ( t § ( ( ( c ( ( i ( t s ( r p b c a]
+[DELETED:  H P ( i i s ( C f F i ( ( l l ( t w ( p ( a e]
+[DELETED:  H P i i ( m ( r m r § ( C ( ( t ( ( ( p r C a]
+[DELETED:  H P a U ( f t d E ( d a w l d ( f d b i t C (]
+[DELETED:  H P ( c ( p ( i ( e 3 ( s p C r i ( r t p ( s]
+[DELETED:  H P c l e §   ( p ( s ( l c C ( l t s ( h ( h]
+[DELETED:  H P ( ( i s C ( c s ( o ( s s ( a C ( m § A w]
+[DELETED:  H P m o § ( s ( m ( a S a s a p w s ( a ( s]
+[DELETED:  H P w h ( w s r s h ( t r ( a p ( ( r s ( m]
+[DELETED:  H P ( s l a s i m ( u l a p ( a p ( p §   ( g]
+[DELETED:  H P e T j s f ( ( b ( a ( o ( o ( d ( C ( b b]
+[DELETED:  H P ( c T c ( ( ( ( ( ( t ( C s ( s d ( ( n (]
+[DELETED:  H P ( d t p r ( ( s r C i ( r ( o ( ( ( m c d]
+[DELETED:  H P ( e ( v ( f p ( a ( ( t p ( C C ( b s ( p]
+[DELETED:  H P ( ( C ( c ( ( d a o r ( C ( ( v ( C ( p]
+[DELETED:  H P ( c ( E ( ( e a ( m d C ( a ( a ( ( C s]
+[DELETED:  H P ( s i h ( m m p l q ( c m c ( C ( p ( C (]
+[DELETED:  H P ( s ( ( p ( c ( ( b w p ( m ( C ( s e ( d]
+[DELETED:  H P s t s m t ( ( t a ( r ( a s a a w a t ( p]
+[DELETED:  H P C t ( r C e h r f t ( ( r l d b o b d c i]
+[DELETED:  H P t C h ( e i a C C r C h c a w ( m C a t r]
+[DELETED:  H P o r n ( a g ( a d a ( s § ( m ( p ( m i C]
+[DELETED:  H P ( ( ( i ( p i s ( d ( ( C C ( t C r h p]
+[DELETED:  H P ( a ( a a p m ( d e ( e t § ( e p o t i h]
+[DELETED:  H P ( e l p c j s ( p t t ( p u t ( C ( h d]
+[DELETED:  H P ( a C C ( a ( n ( s ( ( C d C ( o m ( ( p]
+[DELETED:  H P ( c ( c t ( o C ( f t ( p ( r f ( d s i]
+[DELETED:  H P ( m o p r e r ( ( ( f ( ( C c g w c m c C]
+[DELETED:  H P m c C ( C § ( ( m a ( j s o w p a l ( p C]
+[DELETED:  H P p r o ( ( d C w d C a ( d ( t d c o o ( a]
+[DELETED:  H P t g t l ( o i ( s t p t ( i a s ( b f p r]
+[DELETED:  H P ( ( a s ( b ( ( a D i a a p a C r ( C f e]
+[DELETED:  H P r t a ( a § ( s ( C m e s ( m d ( t r o]
+[DELETED:  H P ( c 3 d p ( f e e s ( C r i C b ( s ( a]
+[DELETED:  H P ( w a d ( s w c p t ( p m o ( t u § ( s i]
+[DELETED:  H P C b f ( c j s a h t g ( C w m c C c e m]
+[DELETED:  H P §   ( o ( s ( m S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.296
+2025 Page 1 of 44
+1 H.296
+2 Introduced by Representatives Birong of Vergennes, Hango of Berkshire,
+3 Minier of South Burlington, Austin of Colchester, Gregoire of
+4 Fairfield, Lalley of Shelburne, Logan of Burlington, McCann of
+5 Montpelier, McGill of Bridport, Morgan, M. of Milton, Nugent
+6 of South Burlington, Pouech of Hinesburg, and Stone of
+7 Burlington
+8 Referred to Committee on
+9 Date:
+10 Subject: Professions and occupations; dieticians; interstate compact; Office of
+11 Professional Regulation
+12 Statement of purpose of bill as introduced: This bill proposes that the State
+13 adopt and enter into the Dietician Licensure Compact.
+14 An act relating to Vermont’s adoption of the Dietician Licensure Compact
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 26 V.S.A. chapter 73 is amended to read:
+17 CHAPTER 73. DIETICIANS
+18 Subchapter 1. General provisions
+19 * * *
+20 Subchapter 2. Dietician Licensure Compact
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 2 of 44
+1 § 3391. DIETICIAN LICENSURE COMPACT; ADOPTION
+2 This subchapter is the Vermont adoption of the Dietician Licensure
+3 Compact. The form, format, and text of the Compact have been conformed to
+4 the conventions of the Vermont Statutes Annotated. It is the intent of the
+5 General Assembly that this subchapter be interpreted as substantively the same
+6 as the Dietician Licensure Compact that is enacted by other Compact party
+7 states.
+8 § 3391a. PURPOSE
+9 (a) The purpose of this Compact is to facilitate interstate practice of
+10 dietetics with the goal of improving public access to dietetics services. This
+11 Compact preserves the regulatory authority of States to protect public health
+12 and safety through the current system of State licensure, while also providing
+13 for licensure portability through a compact privilege granted to qualifying
+14 professionals.
+15 (b) This Compact is designed to achieve the following objectives:
+16 (1) increase public access to dietetics services;
+17 (2) provide opportunities for interstate practice by licensed dietitians
+18 who meet uniform requirements;
+19 (3) eliminate the necessity for licenses in multiple states;
+20 (4) reduce administrative burden on member states and licensees;
+21 (5) enhance the states’ ability to protect the public’s health and safety;
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 3 of 44
+1 (6) encourage the cooperation of member states in regulating multistate
+2 practice of licensed dietitians;
+3 (7) support relocating active military members and their spouses;
+4 (8) enhance the exchange of licensure, investigative, and disciplinary
+5 information among member states; and
+6 (9) vest all member states with the authority to hold a licensed dietitian
+7 accountable for meeting all state practice laws in the state in which the patient
+8 is located at the time care is rendered.
+9 § 3391b. DEFINITIONS
+10 As used in this Compact, and except as otherwise provided, the following
+11 definitions shall apply:
+12 (1) “ACEND” means the Accreditation Council for Education in
+13 Nutrition and Dietetics or its successor organization.
+14 (2) “Active military member” means any individual with full-time duty
+15 status in the active armed forces of the United States, including members of the
+16 National Guard and Reserve.
+17 (3) “Adverse Action” means any administrative, civil, equitable, or
+18 criminal action permitted by a state’s laws which is imposed by a licensing
+19 authority or other authority against a licensee, including actions against an
+20 individual’s license or compact privilege such as revocation, suspension,
+21 probation, monitoring of the licensee, limitation on the licensee’s practice, or
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 4 of 44
+1 any other encumbrance on licensure affecting a licensee’s authorization to
+2 practice, including issuance of a cease and desist action.
+3 (4) “Alternative program” means a non-disciplinary monitoring or
+4 practice remediation process approved by a licensing authority.
+5 (5) “Charter member state” means any member state which enacted this
+6 Compact by law before the effective date specified in section 3391l of this
+7 subchapter.
+8 (6) “Continuing education” means a requirement, as a condition of
+9 license renewal, to provide evidence of participation in, and completion of,
+10 educational and professional activities relevant to practice or area of work.
+11 (7) “CDR” means the Commission on Dietetic Registration or its
+12 successor organization.
+13 (8) “Compact Commission” means the government agency whose
+14 membership consists of all states that have enacted this Compact, which is
+15 known as the Dietitian Licensure Compact Commission, as described in
+16 section 3391h of this subchapter, and which shall operate as an instrumentality
+17 of the member states.
+18 (9) “Compact privilege” means a legal authorization, which is
+19 equivalent to a license, permitting the practice of dietetics in a remote state.
+20 (10) “Current significant investigative information” means:
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 5 of 44
+1 (A) investigative information that a licensing authority, after a
+2 preliminary inquiry that includes notification and an opportunity for the subject
+3 licensee to respond, if required by state law, has reason to believe is not
+4 groundless and, if proved true, would indicate more than a minor infraction; or
+5 (B) investigative information that indicates that the subject licensee
+6 represents an immediate threat to public health and safety regardless of
+7 whether the subject licensee has been notified and had an opportunity to
+8 respond.
+9 (11) “Data system” means a repository of information about licensees,
+10 including, but not limited to, continuing education, examination, licensure,
+11 investigative, compact privilege, and adverse action information.
+12 (12) “Encumbered license” means a license in which an adverse action
+13 restricts a licensee’s ability to practice dietetics.
+14 (13) “Encumbrance” means a revocation or suspension of, or any
+15 limitation on, a licensee’s full and unrestricted practice of dietetics by a
+16 licensing authority.
+17 (14) “Executive Committee” means a group of delegates elected or
+18 appointed to act on behalf of, and within the powers granted to them by, this
+19 Compact, and the Compact Commission.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 6 of 44
+1 (15) “Home State” means the member state that is the licensee’s primary
+2 state of residence or that has been designated pursuant to section 3391f of this
+3 subchapter.
+4 (16) “Investigative information” means information, records, and
+5 documents received or generated by a licensing authority pursuant to an
+6 investigation.
+7 (17) “Jurisprudence requirement” means an assessment of an
+8 individual’s knowledge of the state laws and regulations governing the practice
+9 of dietetics in such state.
+10 (18) “License” means an authorization from a member state to either:
+11 (A) engage in the practice of dietetics, including medical nutrition
+12 therapy; or
+13 (B) use the title “dietitian,” “licensed dietitian,” “licensed dietitian
+14 nutritionist,” “certified dietitian,” or other title describing a substantially
+15 similar practitioner as the Compact Commission may further define by rule.
+16 (19) “Licensee” or “licensed dietitian” means an individual who
+17 currently holds a license and who meets all of the requirements outlined in
+18 section 3391d of this subchapter.
+19 (20) “Licensing authority” means the board or agency of a state, or
+20 equivalent, that is responsible for the licensing and regulation of the practice of
+21 dietetics.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 7 of 44
+1 (21) “Member state” means a state that has enacted the Compact.
+2 (22) “Practice of dietetics” means the synthesis and application of
+3 dietetics as defined by state law and regulations, primarily for the provision of
+4 nutrition care services, including medical nutrition therapy, in person or via
+5 telehealth, to prevent, manage, or treat diseases or medical conditions and
+6 promote wellness.
+7 (23) “Registered dietitian” means a person who:
+8 (A) has completed applicable education, experience, examination,
+9 and recertification requirements approved by CDR;
+10 (B) is credentialed by CDR as a registered dietitian or a registered
+11 dietitian nutritionist; and
+12 (C) is legally authorized to use the title registered dietitian or
+13 registered dietitian nutritionist and the corresponding abbreviations “RD” or
+14 “RDN.”
+15 (24) “Remote state” means a member state, other than the home state,
+16 where a licensee is exercising or seeking to exercise a compact privilege.
+17 (25) “Rule” means a regulation promulgated by the Compact
+18 Commission that has the force of law.
+19 (26) “Single state license” means a license issued by a member state
+20 within the issuing state and does not include a compact privilege in any other
+21 member state.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 8 of 44
+1 (27) “State” means any state, commonwealth, district, or territory of the
+2 United States of America.
+3 (28) “Unencumbered License” means a license that authorizes a licensee
+4 to engage in the full and unrestricted practice of dietetics.
+5 § 3391c. STATE PARTICIPATION IN THE COMPACT
+6 (a) To participate in the Compact, a state must currently:
+7 (1) license and regulate the practice of dietetics; and
+8 (2) have a mechanism in place for receiving and investigating
+9 complaints about licensees.
+10 (b) A member state shall:
+11 (1) Participate fully in the Compact Commission’s data system,
+12 including using the unique identifier as defined in rules.
+13 (2) Notify the Compact Commission, in compliance with the terms of
+14 the Compact and rules, of any adverse action or the availability of current
+15 significant investigative information regarding a licensee.
+16 (3) Implement or utilize procedures for considering the criminal history
+17 record information of applicants for an initial compact privilege. These
+18 procedures shall include the submission of fingerprints or other biometric-
+19 based information by applicants for the purpose of obtaining an applicant’s
+20 criminal history record information from the Federal Bureau of Investigation
+21 and the agency responsible for retaining that state’s criminal records.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 9 of 44
+1 (A) A member state must fully implement a criminal history record
+2 information requirement, within a time frame established by rule, which
+3 includes receiving the results of the Federal Bureau of Investigation record
+4 search and shall use those results in determining compact privilege eligibility.
+5 (B) Communication between a member state and the Compact
+6 Commission or among member states regarding the verification of eligibility
+7 for a compact privilege shall not include any information received from the
+8 Federal Bureau of Investigation relating to a federal criminal history record
+9 information check performed by a member state.
+10 (4) Comply with and enforce the rules of the Compact Commission.
+11 (5) Require an applicant for a compact privilege to obtain or retain a
+12 license in the licensee’s home state and meet the home state’s qualifications for
+13 licensure or renewal of licensure, as well as all other applicable state laws.
+14 (6) Recognize a compact privilege granted to a licensee who meets all of
+15 the requirements outlined in section 3391d of this subchapter in accordance
+16 with the terms of the Compact and rules.
+17 (c) Member states may set and collect a fee for granting a compact
+18 privilege.
+19 (d) Individuals not residing in a member state shall continue to be able to
+20 apply for a member state’s single state license as provided under the laws of
+21 each member state. However, the single state license granted to these
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 10 of 44
+1 individuals shall not be recognized as granting a compact privilege to engage
+2 in the practice of dietetics in any other member state.
+3 (e) Nothing in this Compact shall affect the requirements established by a
+4 member state for the issuance of a single state license.
+5 (f) At no point shall the Compact Commission have the power to define the
+6 requirements for the issuance of a single state license to practice dietetics. The
+7 member states shall retain sole jurisdiction over the provision of these
+8 requirements.
+9 § 3391d. COMPACT PRIVILEGE
+10 (a) To exercise the compact privilege under the terms and provisions of the
+11 Compact, the licensee shall:
+12 (1) satisfy one of the following:
+13 (A) hold a valid current registration that gives the applicant the right
+14 to use the term registered dietitian; or
+15 (B) complete all of the following:
+16 (i) an education program which is either:
+17 (I) a master’s degree or doctoral degree that is
+18 programmatically accredited by ACEND, or a dietetics accrediting agency
+19 recognized by the United States Department of Education, which the Compact
+20 Commission may by rule determine, and from a college or university
+21 accredited at the time of graduation by the appropriate regional accrediting
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 11 of 44
+1 agency recognized by the Council on Higher Education Accreditation and the
+2 United States Department of Education; or
+3 (II) an academic degree from a college or university in a
+4 foreign country equivalent to the degree described in subdivision (1)(B)(i)(I) of
+5 this subsection (a) that is programmatically accredited by ACEND, or a
+6 dietetics accrediting agency recognized by the United States Department of
+7 Education, which the Compact Commission may by rule determine;
+8 (ii) a planned, documented, supervised practice experience in
+9 dietetics that is programmatically accredited by ACEND, or a dietetics
+10 accrediting agency recognized by the United States Department of Education
+11 which the Compact Commission may by rule determine and which involves at
+12 least 1,000 hours of practice experience under the supervision of a registered
+13 dietitian or a licensed dietitian; and
+14 (iii) successful completion of either the Registration Examination
+15 for Dietitians administered by CDR or a national credentialing examination for
+16 dietitians approved by the Compact Commission by rule; such completion
+17 being no more than five years prior to the date of the licensee’s application for
+18 initial licensure and accompanied by a period of continuous licensure
+19 thereafter, all of which may be further governed by the rules of the Compact
+20 Commission;
+21 (2) hold an unencumbered license in the home state;
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 12 of 44
+1 (3) notify the Compact Commission that the licensee is seeking a
+2 compact privilege within a remote state;
+3 (4) pay any applicable fees, including any state fee, for the compact
+4 privilege;
+5 (5) meet any jurisprudence requirements established by the remote state
+6 in which the licensee is seeking a compact privilege; and
+7 (6) report to the Compact Commission any adverse action,
+8 encumbrance, or restriction on a license taken by any non-member state within
+9 30 days from the date the action is taken.
+10 (b) The compact privilege is valid until the expiration date of the home
+11 state license. To maintain a compact privilege, renewal of the compact
+12 privilege shall be congruent with the renewal of the home state license as the
+13 Compact Commission may define by rule. The licensee must comply with the
+14 requirements of subsection (a) of this section to maintain the compact privilege
+15 in the remote state.
+16 (c) A licensee exercising a compact privilege shall adhere to the laws and
+17 regulations of the remote state. Licensees shall be responsible for educating
+18 themselves on, and complying with, any and all state laws relating to the
+19 practice of dietetics in such remote state.
+20 (d) Notwithstanding anything to the contrary provided in this Compact or
+21 state law, a licensee exercising a compact privilege shall not be required to
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 13 of 44
+1 complete continuing education requirements required by a remote state. A
+2 licensee exercising a compact privilege is only required to meet any continuing
+3 education requirements as required by the home state.
+4 § 3391e. OBTAINING A NEW HOME STATE LICENSE BASED ON A
+5 COMPACT PRIVILEGE
+6 (a) A licensee may hold a home state license, which allows for a compact
+7 privilege in other member states, in only one member state at a time.
+8 (b) If a licensee changes home state by moving between two member
+9 states:
+10 (1) The licensee shall file an application for obtaining a new home state
+11 license based on a compact privilege, pay all applicable fees, and notify the
+12 current and new home state in accordance with the rules of the Compact
+13 Commission.
+14 (2) Upon receipt of an application for obtaining a new home state
+15 license by virtue of a compact privilege, the new home state shall verify that
+16 the licensee meets the criteria in section 3391d of this subchapter via the data
+17 system and require that the licensee complete the following:
+18 (A) Federal Bureau of Investigation fingerprint based criminal
+19 history record information check;
+20 (B) any other criminal history record information required by the new
+21 home state; and
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 14 of 44
+1 (C) any jurisprudence requirements of the new home state.
+2 (3) The former home state shall convert the former home state license
+3 into a compact privilege once the new home state has activated the new home
+4 state license in accordance with applicable rules adopted by the Compact
+5 Commission.
+6 (4) Notwithstanding any other provision of this Compact, if the licensee
+7 cannot meet the criteria in section 3391d of this subchapter, the new home
+8 state may apply its requirements for issuing a new single state license.
+9 (5) The licensee shall pay all applicable fees to the new home state in
+10 order to be issued a new home state license.
+11 (c) If a licensee changes their state of residence by moving from a member
+12 state to a non-member state, or from a non-member state to a member state, the
+13 state criteria shall apply for issuance of a single state license in the new state.
+14 (d) Nothing in this Compact shall interfere with a licensee’s ability to hold
+15 a single state license in multiple states; however, for the purposes of this
+16 Compact, a licensee shall have only one home state license.
+17 (e) Nothing in this Compact shall affect the requirements established by a
+18 member state for the issuance of a single state license.
+19 § 3391f. ACTIVE MILITARY MEMBERS OR THEIR SPOUSES
+20 An active military member, or their spouse, shall designate a home state
+21 where the individual has a current license in good standing. The individual
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 15 of 44
+1 may retain the home state designation during the period the service member is
+2 on active duty.
+3 § 3391g. ADVERSE ACTIONS
+4 (a) In addition to the other powers conferred by state law, a remote state
+5 shall have the authority, in accordance with existing state due process law, to:
+6 (1) take adverse action against a licensee’s compact privilege within that
+7 member state; and
+8 (2) issue subpoenas for both hearings and investigations that require the
+9 attendance and testimony of witnesses as well as the production of evidence.
+10 Subpoenas issued by a licensing authority in a member state for the attendance
+11 and testimony of witnesses or the production of evidence from another member
+12 state shall be enforced in the latter state by any court of competent jurisdiction,
+13 according to the practice and procedure applicable to subpoenas issued in
+14 proceedings pending before that court. The issuing authority shall pay any
+15 witness fees, travel expenses, mileage, and other fees required by the service
+16 statutes of the state in which the witnesses or evidence are located.
+17 (b) Only the home state shall have the power to take adverse action against
+18 a licensee’s home state license.
+19 (c) For purposes of taking adverse action, the home state shall give the
+20 same priority and effect to reported conduct received from a member state as it
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 16 of 44
+1 would if the conduct had occurred within the home state. In so doing, the
+2 home state shall apply its own state laws to determine appropriate action.
+3 (d) The home state shall complete any pending investigations of a licensee
+4 who changes home states during the course of the investigations. The home
+5 state shall also have authority to take appropriate action and shall promptly
+6 report the conclusions of the investigations to the administrator of the data
+7 system. The administrator of the data system shall promptly notify the new
+8 home state of any adverse actions.
+9 (e) A member state, if otherwise permitted by state law, may recover from
+10 the affected licensee the costs of investigations and dispositions of cases
+11 resulting from any adverse action taken against that licensee.
+12 (f) A member state may take adverse action based on the factual findings of
+13 another remote state, provided that the member state follows its own
+14 procedures for taking the adverse action.
+15 (g) Joint investigations.
+16 (1) In addition to the authority granted to a member state by its
+17 respective state law, any member state may participate with other member
+18 states in joint investigations of licensees.
+19 (2) Member states shall share any investigative, litigation, or compliance
+20 materials in furtherance of any joint investigation initiated under the Compact.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 17 of 44
+1 (h) If adverse action is taken by the home state against a licensee’s home
+2 state license resulting in an encumbrance on the home state license, the
+3 licensee’s compact privilege in all other member states shall be revoked until
+4 all encumbrances have been removed from the home state license. All home
+5 state disciplinary orders that impose adverse action against a licensee shall
+6 include a statement that the licensee’s compact privileges are revoked in all
+7 member states during the pendency of the order.
+8 (i) Once an encumbered license in the home state is restored to an
+9 unencumbered license, as certified by the home state’s licensing authority, the
+10 licensee must meet the requirements of subsection 3391d(a) of this subchapter
+11 and follow the administrative requirements to reapply to obtain a compact
+12 privilege in any remote state.
+13 (j) If a member state takes adverse action, it shall promptly notify the
+14 administrator of the data system. The administrator of the data system shall
+15 promptly notify the other member states state of any adverse actions.
+16 (k) Nothing in this Compact shall override a member state’s decision that
+17 participation in an alternative program may be used in lieu of adverse action.
+18 § 3391h. ESTABLISHMENT OF THE DIETITIAN LICENSURE
+19 COMPACT COMMISSION
+20 (a) The Compact member states hereby create and establish a joint
+21 government agency whose membership consists of all member states that have
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 18 of 44
+1 enacted the Compact known as the Dietitian Licensure Compact Commission.
+2 The Compact Commission is an instrumentality of the compact states acting
+3 jointly and not an instrumentality of any one state. The Compact Commission
+4 shall come into existence on or after the effective date of the Compact as set
+5 forth in section 3391l of this subchapter.
+6 (b) Membership, voting, and meetings.
+7 (1) Each member state shall have and be limited to one delegate selected
+8 by that member state’s licensing authority.
+9 (2) The delegate shall be the primary administrator of the licensing
+10 authority or their designee.
+11 (3) The Compact Commission shall by rule or bylaw establish a term of
+12 office for delegates and may by rule or bylaw establish term limits.
+13 (4) The Compact Commission may recommend removal or suspension
+14 of any delegate from office.
+15 (5) A member state’s licensing authority shall fill any vacancy of its
+16 delegate occurring on the Compact Commission within 60 days of the vacancy.
+17 (6) Each delegate shall be entitled to one vote on all matters before the
+18 Compact Commission requiring a vote by the delegates.
+19 (7) Delegates shall meet and vote by such means as set forth in the
+20 bylaws. The bylaws may provide for delegates to meet and vote in person or
+21 by telecommunication, video conference, or other means of communication.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 19 of 44
+1 (8) The Compact Commission shall meet at least once during each
+2 calendar year. Additional meetings may be held as set forth in the bylaws.
+3 The Compact Commission may meet in person or by telecommunication, video
+4 conference, or other means of communication.
+5 (c) The Compact Commission shall have the following powers:
+6 (1) establish the fiscal year of the Compact Commission;
+7 (2) establish code of conduct and conflict of interest policies;
+8 (3) establish and amend rules and bylaws;
+9 (4) maintain its financial records in accordance with the bylaws;
+10 (5) meet and take such actions as are consistent with the provisions of
+11 this Compact, the Compact Commission’s rules, and the bylaws;
+12 (6) initiate and conclude legal proceedings or actions in the name of the
+13 Compact Commission, provided that the standing of any licensing authority to
+14 sue or be sued under applicable law shall not be affected;
+15 (7) maintain and certify records and information provided to a member
+16 state as the authenticated business records of the Compact Commission, and
+17 designate an agent to do so on the Compact Commission’s behalf;
+18 (8) purchase and maintain insurance and bonds;
+19 (9) borrow, accept, or contract for services of personnel, including, but
+20 not limited to, employees of a member state;
+21 (10) conduct an annual financial review;
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 20 of 44
+1 (11) hire employees, elect or appoint officers, fix compensation, define
+2 duties, grant such individuals appropriate authority to carry out the purposes of
+3 the Compact, and establish the Compact Commission’s personnel policies and
+4 programs relating to conflicts of interest, qualifications of personnel, and other
+5 related personnel matters;
+6 (12) assess and collect fees;
+7 (13) accept any and all appropriate donations, grants of money, other
+8 sources of revenue, equipment, supplies, materials, services, and gifts, and
+9 receive, utilize, and dispose of the same; provided that at all times the Compact
+10 Commission shall avoid any actual or appearance of impropriety or conflict of
+11 interest;
+12 (14) lease, purchase, retain, own, hold, improve, or use any property,
+13 real, personal, or mixed, or any undivided interest therein;
+14 (15) sell, convey, mortgage, pledge, lease, exchange, abandon, or
+15 otherwise dispose of any property real, personal, or mixed;
+16 (16) establish a budget and make expenditures;
+17 (17) borrow money;
+18 (18) appoint committees, including standing committees, composed of
+19 members, state regulators, state legislators or their representatives, and
+20 consumer representatives, and such other interested persons as may be
+21 designated in this Compact or the bylaws;
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 21 of 44
+1 (19) provide and receive information from, and cooperate with, law
+2 enforcement agencies;
+3 (20) establish and elect an Executive Committee, including a chair and a
+4 vice chair;
+5 (21) determine whether a state’s adopted language is materially different
+6 from the model compact language such that the state would not qualify for
+7 participation in the Compact; and
+8 (22) perform such other functions as may be necessary or appropriate to
+9 achieve the purposes of this Compact.
+10 (d) The Executive Committee.
+11 (1) The Executive Committee shall have the power to act on behalf of
+12 the Compact Commission according to the terms of this Compact. The
+13 powers, duties, and responsibilities of the Executive Committee shall include:
+14 (A) oversee the day-to-day activities of the administration of the
+15 Compact, including enforcement and compliance with the provisions of the
+16 Compact, its rules and bylaws, and other such duties as deemed necessary;
+17 (B) recommend to the Compact Commission changes to the rules or
+18 bylaws, changes to this Compact legislation, fees charged to compact member
+19 states, fees charged to licensees, and other fees;
+20 (C) ensure compact administration services are appropriately
+21 provided, including by contract;
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 22 of 44
+1 (D) prepare and recommend the budget;
+2 (E) maintain financial records on behalf of the Compact
+3 Commission;
+4 (F) monitor Compact compliance of member states and provide
+5 compliance reports to the Compact Commission;
+6 (G) establish additional committees as necessary;
+7 (H) exercise the powers and duties of the Compact Commission
+8 during the interim between Compact Commission meetings, except for
+9 adopting or amending rules, adopting or amending bylaws, and exercising any
+10 other powers and duties expressly reserved to the Compact Commission by
+11 rule or bylaw; and
+12 (I) other duties as provided in the rules or bylaws of the Compact
+13 Commission.
+14 (2) The Executive Committee shall be composed of nine members:
+15 (A) the chair and vice chair of the Compact Commission shall be
+16 voting members of the Executive Committee;
+17 (B) five voting members from the current membership of the
+18 Compact Commission, elected by the Compact Commission;
+19 (C) one ex-officio, nonvoting member from a recognized
+20 professional association representing dietitians; and
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 23 of 44
+1 (D) one ex-officio, nonvoting member from a recognized national
+2 credentialing organization for dietitians.
+3 (3) The Compact Commission may remove any member of the
+4 Executive Committee as provided in the Compact Commission’s bylaws.
+5 (4) The Executive Committee shall meet at least annually.
+6 (A) Executive Committee meetings shall be open to the public,
+7 except that the Executive Committee may meet in a closed, non-public meeting
+8 as provided in subdivision (f)(2) of this section.
+9 (B) The Executive Committee shall give 30 days’ notice of its
+10 meetings, posted on the website of the Compact Commission and as
+11 determined to provide notice to persons with an interest in the business of the
+12 Compact Commission.
+13 (C) The Executive Committee may hold a special meeting in
+14 accordance with subdivision (f)(1)(b) of this section.
+15 (e) The Compact Commission shall adopt and provide to the member states
+16 an annual report.
+17 (f) Meetings of the Compact Commission.
+18 (1) All meetings shall be open to the public, except that the Compact
+19 Commission may meet in a closed, nonpublic meeting as provided in
+20 subdivision (f)(2) of this section.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 24 of 44
+1 (A) Public notice for all meetings of the full Compact Commission
+2 shall be given in the same manner as required under the rulemaking provisions
+3 in section 3391j of this subchapter, except that the Compact Commission may
+4 hold a special meeting as provided in subdivision (f)(1)(B) of this section.
+5 (B) The Compact Commission may hold a special meeting when it
+6 must meet to conduct emergency business by giving 24 hours’ notice to all
+7 member states, on the Compact Commission’s website, and other means as
+8 provided in the Compact Commission’s rules. The Compact Commission’s
+9 legal counsel shall certify that the Compact Commission’s need to meet
+10 qualifies as an emergency.
+11 (2) The Compact Commission or the Executive Committee or other
+12 committees of the Compact Commission may convene in a closed, nonpublic
+13 meeting for the Compact Commission or Executive Committee or other
+14 committees of the Compact Commission to receive legal advice or to discuss:
+15 (A) noncompliance of a member state with its obligations under the
+16 Compact;
+17 (B) the employment, compensation, discipline, or other matters,
+18 practices, or procedures related to specific employees;
+19 (C) current or threatened discipline of a licensee by the Compact
+20 Commission or by a member state’s licensing authority;
+21 (D) current, threatened, or reasonably anticipated litigation;
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 25 of 44
+1 (E) negotiation of contracts for the purchase, lease, or sale of goods,
+2 services, or real estate;
+3 (F) accusing any person of a crime or formally censuring any person;
+4 (G) trade secrets or commercial or financial information that is
+5 privileged or confidential;
+6 (H) information of a personal nature where disclosure would
+7 constitute a clearly unwarranted invasion of personal privacy;
+8 (I) investigative records compiled for law enforcement purposes;
+9 (J) information related to any investigative reports prepared by or on
+10 behalf of or for use of the Compact Commission or other committee charged
+11 with responsibility of investigation or determination of compliance issues
+12 pursuant to the Compact;
+13 (K) matters specifically exempted from disclosure by federal or
+14 member state law; or
+15 (L) other matters as specified in the rules of the Compact
+16 Commission.
+17 (3) If a meeting, or portion of a meeting, is closed, the presiding officer
+18 shall state that the meeting will be closed and reference each relevant
+19 exempting provision, and such reference shall be recorded in the minutes.
+20 (4) The Compact Commission shall keep minutes that fully and clearly
+21 describe all matters discussed in a meeting and shall provide a full and accurate
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 26 of 44
+1 summary of actions taken, and the reasons therefore, including a description of
+2 the views expressed. All documents considered in connection with an action
+3 shall be identified in such minutes. All minutes and documents of a closed
+4 meeting shall remain under seal, subject to release only by a majority vote of
+5 the Compact Commission or order of a court of competent jurisdiction.
+6 (g) Financing of the Compact Commission.
+7 (1) The Compact Commission shall pay, or provide for the payment of,
+8 the reasonable expenses of its establishment, organization, and ongoing
+9 activities.
+10 (2) The Compact Commission may accept any and all appropriate
+11 revenue sources as provided in subdivision (c)(13) of this section.
+12 (3) The Compact Commission may levy on and collect an annual
+13 assessment from each member state and impose fees on licensees of member
+14 states to whom it grants a compact privilege to cover the cost of the operations
+15 and activities of the Compact Commission and its staff, which must, in a total
+16 amount, be sufficient to cover its annual budget as approved each year for
+17 which revenue is not provided by other sources. The aggregate annual
+18 assessment amount for member states shall be allocated based upon a formula
+19 that the Compact Commission shall promulgate by rule.
+20 (4) The Compact Commission shall not incur obligations of any kind
+21 prior to securing the funds adequate to meet the same; nor shall the Compact
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 27 of 44
+1 Commission pledge the credit of any of the member states, except by and with
+2 the authority of the member state.
+3 (5) The Compact Commission shall keep accurate accounts of all
+4 receipts and disbursements. The receipts and disbursements of the Compact
+5 Commission shall be subject to the financial review and accounting procedures
+6 established under its bylaws. However, all receipts and disbursements of funds
+7 handled by the Compact Commission shall be subject to an annual financial
+8 review by a certified or licensed public accountant, and the report of the
+9 financial review shall be included in and become part of the annual report of
+10 the Compact Commission.
+11 (h) Qualified immunity, defense, and indemnification.
+12 (1) The members, officers, executive director, employees, and
+13 representatives of the Compact Commission shall be immune from suit and
+14 liability, both personally and in their official capacity, for any claim for
+15 damage to or loss of property or personal injury or other civil liability caused
+16 by or arising out of any actual or alleged act, error, or omission that occurred,
+17 or that the person against whom the claim is made had a reasonable basis for
+18 believing occurred, within the scope of Compact Commission employment,
+19 duties, or responsibilities; provided that nothing in this paragraph shall be
+20 construed to protect any such person from suit or liability for any damage, loss,
+21 injury, or liability caused by the intentional or willful or wanton misconduct of
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 28 of 44
+1 that person. The procurement of insurance of any type by the Compact
+2 Commission shall not in any way compromise or limit the immunity granted
+3 hereunder.
+4 (2) The Compact Commission shall defend any member, officer,
+5 executive director, employee, and representative of the Compact Commission
+6 in any civil action seeking to impose liability arising out of any actual or
+7 alleged act, error, or omission that occurred within the scope of Compact
+8 Commission employment, duties, or responsibilities, or as determined by the
+9 Compact Commission that the person against whom the claim is made had a
+10 reasonable basis for believing occurred within the scope of Compact
+11 Commission employment, duties, or responsibilities; provided that nothing
+12 herein shall be construed to prohibit that person from retaining their own
+13 counsel at their own expense; and provided further, that the actual or alleged
+14 act, error, or omission did not result from that person’s intentional or willful or
+15 wanton misconduct.
+16 (3) The Compact Commission shall indemnify and hold harmless any
+17 member, officer, executive director, employee, and representative of the
+18 Compact Commission for the amount of any settlement or judgment obtained
+19 against that person arising out of any actual or alleged act, error, or omission
+20 that occurred within the scope of Compact Commission employment, duties, or
+21 responsibilities, or that such person had a reasonable basis for believing
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 29 of 44
+1 occurred within the scope of Compact Commission employment, duties, or
+2 responsibilities, provided that the actual or alleged act, error, or omission did
+3 not result from the intentional or willful or wanton misconduct of that person.
+4 (4) Nothing herein shall be construed as a limitation on the liability of
+5 any licensee for professional malpractice or misconduct, which shall be
+6 governed solely by any other applicable state laws.
+7 (5) Nothing in this Compact shall be interpreted to waive or otherwise
+8 abrogate a member state’s state action immunity or state action affirmative
+9 defense with respect to antitrust claims under the Sherman Act, Clayton Act, or
+10 any other state or federal antitrust or anticompetitive law or regulation.
+11 (6) Nothing in this Compact shall be construed to be a waiver of
+12 sovereign immunity by the member states or by the Compact Commission.
+13 § 3391i. DATA SYSTEM
+14 (a) The Compact Commission shall provide for the development,
+15 maintenance, operation, and utilization of a coordinated data system.
+16 (b) The Compact Commission shall assign each applicant for a compact
+17 privilege a unique identifier, as determined by the rules.
+18 (c) Notwithstanding any other provision of State law to the contrary, a
+19 member state shall submit a uniform data set to the data system on all
+20 individuals to whom this Compact is applicable as required by the rules of the
+21 Compact Commission, including:
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 30 of 44
+1 (1) identifying information;
+2 (2) licensure data;
+3 (3) adverse actions against a license or compact privilege and
+4 information related thereto;
+5 (4) nonconfidential information related to alternative program
+6 participation, the beginning and ending dates of such participation, and other
+7 information related to such participation not made confidential under member
+8 state law;
+9 (5) any denial of application for licensure, and the reason for such
+10 denial;
+11 (6) the presence of current significant investigative information; and
+12 (7) other information that may facilitate the administration of this
+13 Compact or the protection of the public, as determined by the rules of the
+14 Compact Commission.
+15 (d) The records and information provided to a member state pursuant to
+16 this Compact or through the data system, when certified by the Compact
+17 Commission or an agent thereof, shall constitute the authenticated business
+18 records of the Compact Commission and shall be entitled to any associated
+19 hearsay exception in any relevant judicial, quasi-judicial, or administrative
+20 proceedings in a member state.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 31 of 44
+1 (e) Current significant investigative information pertaining to a licensee in
+2 any member state will only be available to other member states.
+3 (f) It is the responsibility of the member states to report any adverse action
+4 against a licensee and to monitor the data system to determine whether any
+5 adverse action has been taken against a licensee. Adverse action information
+6 pertaining to a licensee in any member state will be available to any other
+7 member state.
+8 (g) Member states contributing information to the data system may
+9 designate information that may not be shared with the public without the
+10 express permission of the contributing state.
+11 (h) Any information submitted to the data system that is subsequently
+12 expunged pursuant to federal law or the laws of the member state contributing
+13 the information shall be removed from the data system.
+14 § 3391j. RULEMAKING
+15 (a) The Compact Commission shall promulgate reasonable rules in order to
+16 effectively and efficiently implement and administer the purposes and
+17 provisions of the Compact. A rule shall be invalid and have no force or effect
+18 only if a court of competent jurisdiction holds that the rule is invalid because
+19 the Compact Commission exercised its rulemaking authority in a manner that
+20 is beyond the scope and purposes of the Compact, or the powers granted
+21 hereunder, or based upon another applicable standard of review.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 32 of 44
+1 (b) The rules of the Compact Commission shall have the force of law in
+2 each member state, provided however that where the rules conflict with the
+3 laws or regulations of a member state that relate to the procedures, actions, and
+4 processes a licensed dietitian is permitted to undertake in that state and the
+5 circumstances under which they may do so, as held by a court of competent
+6 jurisdiction, the rules of the Compact Commission shall be ineffective in that
+7 state to the extent of the conflict.
+8 (c) The Compact Commission shall exercise its rulemaking powers
+9 pursuant to the criteria set forth in this section and the rules adopted
+10 thereunder. Rules shall become binding on the day following adoption or as of
+11 the date specified in the rule or amendment, whichever is later.
+12 (d) If a majority of the legislatures of the member states rejects a rule or
+13 portion of a rule, by enactment of a statute or resolution in the same manner
+14 used to adopt the Compact within four years of the date of adoption of the rule,
+15 then such rule shall have no further force and effect in any member state.
+16 (e) Rules shall be adopted at a regular or special meeting of the Compact
+17 Commission.
+18 (f) Prior to adoption of a proposed rule, the Compact Commission shall
+19 hold a public hearing and allow persons to provide oral and written comments,
+20 data, facts, opinions, and arguments.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 33 of 44
+1 (g) Prior to adoption of a proposed rule by the Compact Commission, and
+2 at least thirty days in advance of the meeting at which the Compact
+3 Commission will hold a public hearing on the proposed rule, the Compact
+4 Commission shall provide a notice of proposed rulemaking:
+5 (1) on the website of the Compact Commission or other publicly
+6 accessible platform;
+7 (2) to persons who have requested notice of the Compact Commission’s
+8 notices of proposed rulemaking; and
+9 (3) in such other way(s) as the Compact Commission may by rule
+10 specify.
+11 (h) The notice of proposed rulemaking shall include:
+12 (1) the time, date, and location of the public hearing at which the
+13 Compact Commission will hear public comments on the proposed rule and, if
+14 different, the time, date, and location of the meeting where the Compact
+15 Commission will consider and vote on the proposed rule;
+16 (2) if the hearing is held via telecommunication, video conference, or
+17 other means of communication, the Compact Commission shall include the
+18 mechanism for access to the hearing in the notice of proposed rulemaking;
+19 (3) the text of the proposed rule and the reason therefore;
+20 (4) a request for comments on the proposed rule from any interested
+21 person; and
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 34 of 44
+1 (5) the manner in which interested persons may submit written
+2 comments.
+3 (i) All hearings will be recorded. A copy of the recording and all written
+4 comments and documents received by the Compact Commission in response to
+5 the proposed rule shall be available to the public.
+6 (j) Nothing in this section shall be construed as requiring a separate hearing
+7 on each rule. Rules may be grouped for the convenience of the Compact
+8 Commission at hearings required by this section.
+9 (k) The Compact Commission shall, by majority vote of all members, take
+10 final action on the proposed rule based on the rulemaking record and the full
+11 text of the rule.
+12 (1) The Compact Commission may adopt changes to the proposed rule
+13 provided the changes do not enlarge the original purpose of the proposed rule.
+14 (2) The Compact Commission shall provide an explanation of the
+15 reasons for substantive changes made to the proposed rule as well as reasons
+16 for substantive changes not made that were recommended by commenters.
+17 (3) The Compact Commission shall determine a reasonable effective
+18 date for the rule. Except for an emergency as provided in subsection (l) of this
+19 section, the effective date of the rule shall be no sooner than 30 days after
+20 issuing the notice that it adopted or amended the rule.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 35 of 44
+1 (l) Upon determination that an emergency exists, the Compact Commission
+2 may consider and adopt an emergency rule with 24 hours’ notice, with
+3 opportunity to comment, provided that the usual rulemaking procedures
+4 provided in the Compact and in this section shall be retroactively applied to the
+5 rule as soon as reasonably possible, in no event later than ninety days after the
+6 effective date of the rule. For the purposes of this provision, an emergency
+7 rule is one that must be adopted immediately in order to:
+8 (1) meet an imminent threat to public health, safety, or welfare;
+9 (2) prevent a loss of Compact Commission or member state funds;
+10 (3) meet a deadline for the promulgation of a rule that is established by
+11 federal law or rule; or
+12 (4) protect public health and safety.
+13 (m) The Compact Commission or an authorized committee of the Compact
+14 Commission may direct revision to a previously adopted rule for purposes of
+15 correcting typographical errors, errors in format, errors in consistency, or
+16 grammatical errors. Public notice of any revision shall be posted on the
+17 website of the Compact Commission. The revision shall be subject to
+18 challenge by any person for a period of thirty days after posting. The revision
+19 may be challenged only on grounds that the revision results in a material
+20 change to a rule. A challenge shall be made in writing and delivered to the
+21 Compact Commission prior to the end of the notice period. If no challenge is
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 36 of 44
+1 made, the revision will take effect without further action. If the revision is
+2 challenged, the revision may not take effect without the approval of the
+3 Compact Commission.
+4 (n) No member state’s rulemaking requirements shall apply under this
+5 Compact.
+6 § 3391k. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+7 (a) Oversight.
+8 (1) The executive and judicial branches of state government in each
+9 member state shall enforce this Compact and take all actions necessary and
+10 appropriate to implement this Compact.
+11 (2) Except as otherwise provided in this Compact, venue is proper and
+12 judicial proceedings by or against the Compact Commission shall be brought
+13 solely and exclusively in a court of competent jurisdiction where the principal
+14 office of the Compact Commission is located. The Compact Commission may
+15 waive venue and jurisdictional defenses to the extent it adopts or consents to
+16 participate in alternative dispute resolution proceedings. Nothing herein shall
+17 affect or limit the selection or propriety of venue in any action against a
+18 licensee for professional malpractice, misconduct, or any such similar matter.
+19 (3) The Compact Commission shall be entitled to receive service of
+20 process in any proceeding regarding the enforcement or interpretation of the
+21 Compact and shall have standing to intervene in such a proceeding for all
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 37 of 44
+1 purposes. Failure to provide the Compact Commission service of process shall
+2 render a judgment or order void as to the Compact Commission, this Compact,
+3 or promulgated rules.
+4 (b) Default, technical assistance, and termination.
+5 (1) If the Compact Commission determines that a member state has
+6 defaulted in the performance of its obligations or responsibilities under this
+7 Compact or the promulgated rules, the Compact Commission shall provide
+8 written notice to the defaulting state. The notice of default shall describe the
+9 default, the proposed means of curing the default, and any other action that the
+10 Compact Commission may take and shall offer training and specific technical
+11 assistance regarding the default.
+12 (2) The Compact Commission shall provide a copy of the notice of
+13 default to the other member states.
+14 (c) If a state in default fails to cure the default, the defaulting state may be
+15 terminated from the Compact upon an affirmative vote of a majority of the
+16 delegates of the member states, and all rights, privileges, and benefits
+17 conferred on that state by this Compact may be terminated on the effective date
+18 of termination. A cure of the default does not relieve the offending state of
+19 obligations or liabilities incurred during the period of default.
+20 (d) Termination of membership in the Compact shall be imposed only after
+21 all other means of securing compliance have been exhausted. Notice of intent
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 38 of 44
+1 to suspend or terminate shall be given by the Compact Commission to the
+2 governor, the majority and minority leaders of the defaulting state’s legislature,
+3 the defaulting state’s licensing authority, and each of the member states’
+4 licensing authority.
+5 (e) A state that has been terminated is responsible for all assessments,
+6 obligations, and liabilities incurred through the effective date of termination,
+7 including obligations that extend beyond the effective date of termination.
+8 (f) Upon the termination of a state’s membership from this Compact, that
+9 state shall immediately provide notice to all licensees within that state of such
+10 termination. The terminated state shall continue to recognize all compact
+11 privileges granted pursuant to this Compact for a minimum of six months after
+12 the date of said notice of termination.
+13 (g) The Compact Commission shall not bear any costs related to a state that
+14 is found to be in default or that has been terminated from the Compact, unless
+15 agreed upon in writing between the Compact Commission and the defaulting
+16 state.
+17 (h) The defaulting state may appeal the action of the Compact Commission
+18 by petitioning the U.S. District Court for the District of Columbia or the
+19 federal district where the Compact Commission has its principal offices. The
+20 prevailing party shall be awarded all costs of such litigation, including
+21 reasonable attorney’s fees.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 39 of 44
+1 (i) Dispute Resolution.
+2 (1) Upon request by a member state, the Compact Commission shall
+3 attempt to resolve disputes related to the Compact that arise among member
+4 states and between member and non-member States.
+5 (2) The Compact Commission shall promulgate a rule providing for
+6 both mediation and binding dispute resolution for disputes as appropriate.
+7 (j) Enforcement.
+8 (1) By supermajority vote, the Compact Commission may initiate legal
+9 action against a member state in default in the U.S. District Court for the
+10 District of Columbia or the federal district where the Compact Commission has
+11 its principal offices to enforce compliance with the provisions of the Compact
+12 and its promulgated rules. The relief sought may include both injunctive relief
+13 and damages. In the event judicial enforcement is necessary, the prevailing
+14 party shall be awarded all costs of such litigation, including reasonable
+15 attorney’s fees. The remedies herein shall not be the exclusive remedies of the
+16 Compact Commission. The Compact Commission may pursue any other
+17 remedies available under federal or the defaulting member state’s law.
+18 (2) A member state may initiate legal action against the Compact
+19 Commission in the U.S. District Court for the District of Columbia or the
+20 federal district where the Compact Commission has its principal offices to
+21 enforce compliance with the provisions of the Compact and its promulgated
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 40 of 44
+1 rules. The relief sought may include both injunctive relief and damages. In
+2 the event judicial enforcement is necessary, the prevailing party shall be
+3 awarded all costs of such litigation, including reasonable attorney’s fees.
+4 (3) No party other than a member state shall enforce this Compact
+5 against the Compact Commission.
+6 § 3391l. EFFECTIVE DATE, WITHDRAWAL, AND AMENDMENT
+7 (a) The Compact shall come into effect on the date on which the Compact
+8 statute is enacted into law in the seventh member state.
+9 (1) On or after the effective date of the Compact, the Compact
+10 Commission shall convene and review the enactment of each of the first seven
+11 member states (“charter member states”) to determine if the statute enacted by
+12 each such charter member state is materially different than the model compact
+13 statute.
+14 (A) A charter member state whose enactment is found to be
+15 materially different from the model compact statute shall be entitled to the
+16 default process set forth in section 3391k of this subchapter.
+17 (B) If any member state is later found to be in default, or is
+18 terminated, or withdraws from the Compact, the Compact Commission shall
+19 remain in existence and the Compact shall remain in effect even if the number
+20 of member states should be less than seven.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 41 of 44
+1 (2) Member states enacting the Compact subsequent to the seven initial
+2 charter member states shall be subject to the process set forth in subdivision
+3 3391h(c)(21) of this subchapter to determine if their enactments are materially
+4 different from the model Compact statute and whether they qualify for
+5 participation in the Compact.
+6 (3) All actions taken for the benefit of the Compact Commission or in
+7 furtherance of the purposes of the administration of the Compact prior to the
+8 effective date of the Compact or the Compact Commission coming into
+9 existence shall be considered to be actions of the Compact Commission unless
+10 specifically repudiated by the Compact Commission.
+11 (4) Any state that joins the Compact subsequent to the Compact
+12 Commission’s initial adoption of the rules and bylaws shall be subject to the
+13 rules and bylaws as they exist on the date on which the Compact becomes law
+14 in that state. Any rule that has been previously adopted by the Compact
+15 Commission shall have the full force and effect of law on the day the Compact
+16 becomes law in that state.
+17 (b) Any member state may withdraw from this Compact by enacting a
+18 statute repealing the same.
+19 (1) A member state’s withdrawal shall not take effect until 180 days
+20 after enactment of the repealing statute.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 42 of 44
+1 (2) Withdrawal shall not affect the continuing requirement of the
+2 withdrawing state’s licensing authority to comply with the investigative and
+3 adverse action reporting requirements of this Compact prior to the effective
+4 date of withdrawal.
+5 (3) Upon the enactment of a statute withdrawing from this Compact, a
+6 state shall immediately provide notice of such withdrawal to all licensees
+7 within that state. Notwithstanding any subsequent statutory enactment to the
+8 contrary, such withdrawing state shall continue to recognize all compact
+9 privileges granted pursuant to this Compact for a minimum of 180 days after
+10 the date of such notice of withdrawal.
+11 (c) Nothing contained in this Compact shall be construed to invalidate or
+12 prevent any licensure agreement or other cooperative arrangement between a
+13 member state and a non-member state that does not conflict with the provisions
+14 of this Compact.
+15 (d) This Compact may be amended by the member states. No amendment
+16 to this Compact shall become effective and binding upon any member state
+17 until it is enacted into the laws of all member states.
+18 § 3391m. CONSTRUCTION AND SEVERABILITY
+19 (a) This Compact and the Compact Commission’s rulemaking authority
+20 shall be liberally construed so as to effectuate the purposes and the
+21 implementation and administration of the Compact. Provisions of the
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 43 of 44
+1 Compact expressly authorizing or requiring the promulgation of rules shall not
+2 be construed to limit the Compact Commission’s rulemaking authority solely
+3 for those purposes.
+4 (b) The provisions of this Compact shall be severable and if any phrase,
+5 clause, sentence, or provision of this Compact is held by a court of competent
+6 jurisdiction to be contrary to the constitution of any member state, a state
+7 seeking participation in the Compact, or of the United States, or the
+8 applicability thereof to any government, agency, person, or circumstance is
+9 held to be unconstitutional by a court of competent jurisdiction, the validity of
+10 the remainder of this Compact and the applicability thereof to any other
+11 government, agency, person, or circumstance shall not be affected thereby.
+12 (c) Notwithstanding subsection (b) of this section, the Compact
+13 Commission may deny a state’s participation in the Compact or, in accordance
+14 with the requirements of subsection 3391k(b) of this subchapter, terminate a
+15 member state’s participation in the Compact, if it determines that a
+16 constitutional requirement of a member state is a material departure from the
+17 Compact. Otherwise, if this Compact shall be held to be contrary to the
+18 constitution of any member state, the Compact shall remain in full force and
+19 effect as to the remaining member states and in full force and effect as to the
+20 member state affected as to all severable matters.
+VT LEG #378692 v.1
+
+BILL AS INTRODUCED H.296
+2025 Page 44 of 44
+1 § 3391n. CONSISTENT EFFECT AND CONFLICT WITH OTHER STATE
+2 LAWS
+3 (a) Nothing herein shall prevent or inhibit the enforcement of any other law
+4 of a member state that is not inconsistent with the Compact.
+5 (b) Any laws, statutes, regulations, or other legal requirements in a member
+6 state in conflict with the Compact are superseded to the extent of the conflict.
+7 (c) All permissible agreements between the Compact Commission and the
+8 member states are binding in accordance with their terms.
+9 Sec. 2. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #378692 v.1
+
+[DELETED:  H P H I R M F M o B R D S P S a A I S C S * S]
+[DELETED:  H P § T C t G a s § ( d C a f p ( ( ( w ( ( (]
+[DELETED:  H P ( p ( ( i ( a i § A d ( N ( s N ( c a i p]
+[DELETED:  H P a p ( p ( C s ( l e ( s ( m k s o ( e (]
+[DELETED:  H P ( p l g ( r w r ( i i ( r ( l l ( a C]
+[DELETED:  H P ( s s ( d i ( i o ( ( t ( n s ( c s ( e d]
+[DELETED:  H P ( ( d n t p ( ( a ( d ( r “ ( w ( C ( w m]
+[DELETED:  H P ( U ( t § ( ( ( c ( ( i ( t s ( r p b c a]
+[DELETED:  H P ( i i s ( C f F i ( ( l l ( t w ( p ( a e]
+[DELETED:  H P i i ( m ( r m r § ( C ( ( t ( ( ( p r C a]
+[DELETED:  H P a U ( f t d E ( d a w l d ( f d b i t C (]
+[DELETED:  H P ( c ( p ( i ( e 3 ( s p C r i ( r t p ( s]
+[DELETED:  H P c l e §   ( p ( s ( l c C ( l t s ( h ( h]
+[DELETED:  H P ( ( i s C ( c s ( o ( s s ( a C ( m § A w]
+[DELETED:  H P m o § ( s ( m ( a S a s a p w s ( a ( s]
+[DELETED:  H P w h ( w s r s h ( t r ( a p ( ( r s ( m]
+[DELETED:  H P ( s l a s i m ( u l a p ( a p ( p §   ( g]
+[DELETED:  H P e T j s f ( ( b ( a ( o ( o ( d ( C ( b b]
+[DELETED:  H P ( c T c ( ( ( ( ( ( t ( C s ( s d ( ( n (]
+[DELETED:  H P ( d t p r ( ( s r C i ( r ( o ( ( ( m c d]
+[DELETED:  H P ( e ( v ( f p ( a ( ( t p ( C C ( b s ( p]
+[DELETED:  H P ( ( C ( c ( ( d a o r ( C ( ( v ( C ( p]
+[DELETED:  H P ( c ( E ( ( e a ( m d C ( a ( a ( ( C s]
+[DELETED:  H P ( s i h ( m m p l q ( c m c ( C ( p ( C (]
+[DELETED:  H P ( s ( ( p ( c ( ( b w p ( m ( C ( s e ( d]
+[DELETED:  H P s t s m t ( ( t a ( r ( a s a a w a t ( p]
+[DELETED:  H P C t ( r C e h r f t ( ( r l d b o b d c i]
+[DELETED:  H P t C h ( e i a C C r C h c a w ( m C a t r]
+[DELETED:  H P o r n ( a g ( a d a ( s § ( m ( p ( m i C]
+[DELETED:  H P ( ( ( i ( p i s ( d ( ( C C ( t C r h p]
+[DELETED:  H P ( a ( a a p m ( d e ( e t § ( e p o t i h]
+[DELETED:  H P ( e l p c j s ( p t t ( p u t ( C ( h d]
+[DELETED:  H P ( a C C ( a ( n ( s ( ( C d C ( o m ( ( p]
+[DELETED:  H P ( c ( c t ( o C ( f t ( p ( r f ( d s i]
+[DELETED:  H P ( m o p r e r ( ( ( f ( ( C c g w c m c C]
+[DELETED:  H P m c C ( C § ( ( m a ( j s o w p a l ( p C]
+[DELETED:  H P p r o ( ( d C w d C a ( d ( t d c o o ( a]
+[DELETED:  H P t g t l ( o i ( s t p t ( i a s ( b f p r]
+[DELETED:  H P ( ( a s ( b ( ( a D i a a p a C r ( C f e]
+[DELETED:  H P r t a ( a § ( s ( C m e s ( m d ( t r o]
+[DELETED:  H P ( c 3 d p ( f e e s ( C r i C b ( s ( a]
+[DELETED:  H P ( w a d ( s w c p t ( p m o ( t u § ( s i]
+[DELETED:  H P C b f ( c j s a h t g ( C w m c C c e m]
+[DELETED:  H P §   ( o ( s ( m S T]

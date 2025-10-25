@@ -1,0 +1,859 @@
+Title: An act relating to stormwater management
+Official Title: An act relating to stormwater management
+Number of Sections: 11
+Source: versions - Senate Proposal of Amendment (Official)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+Senate proposal of amendment
+H. 481
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 10 V.S.A. § 1264 is amended to read:
+
+Section 2:
+§ 1264. STORMWATER MANAGEMENT
+* * *
+(c) Prohibitions.
+* * *
+(7) In accordance with the schedule established under subdivision (g)(3)
+of this section, a person shall not discharge stormwater from impervious
+surface of three or more acres in size without first obtaining an individual
+permit or coverage under a general permit issued under this section if the
+discharge was never previously permitted or was permitted under an individual
+permit or general permit that did not incorporate the requirements of the 2002
+Stormwater Management Manual or any subsequently adopted Stormwater
+Management Manual. The Secretary shall provide notice to all owners of
+property subject to the permit required under this subdivision.
+(d) Exemptions.
+* * *
+(2) No permit is required under subdivision (c)(1), (5), or (7) of this
+
+Section 3:
+section and for which a municipality has assumed full legal responsibility as
+part of a permit issued to the municipality by the Secretary. As used in this
+subdivision, “full legal responsibility” means legal control of the stormwater
+system, including a legal right to access the stormwater system, a legal duty to
+properly maintain the stormwater system, and a legal duty to repair and replace
+the stormwater system when it no longer adequately protects waters of the
+State. Notwithstanding the provisions of 24 V.S.A. § 3254 to the contrary,
+when a municipality assumes or has assumed full legal responsibility for a
+stormwater system, the municipality may assess municipal special assessment
+fees on users of the stormwater system provided that a majority of the property
+owners subject to the special assessment fee consented and the fee assessed is a
+fair apportionment to the user of the cost of the improvement in accordance
+with the benefits the user received.
+* * *
+(g) General permits.
+* * *
+(3) Within 120 days after the adoption by the Secretary of the rules
+required under subsection (f) of this section, the Secretary shall issue a general
+permit under this section for discharges of stormwater from impervious surface
+of three or more acres in size, when the stormwater discharge previously was
+not permitted or was permitted under an individual permit or general permit
+that did not incorporate the requirements of the 2002 Stormwater Management
+Manual or any subsequently adopted Stormwater Management Manual. Under
+the general permit, the Secretary shall:
+(A) Establish a schedule for implementation of the general permit by
+geographic area of the State. The schedule shall establish the date by which an
+owner of impervious surface shall apply for coverage under this subdivision
+(3). The schedule established by the Secretary shall require an owner of
+impervious surface subject to permitting under this subdivision to obtain
+coverage by the following dates:
+(i) for impervious surface located within the Lake Champlain
+watershed, the Lake Memphremagog watershed, or the watershed of a
+stormwater-impaired water on or before October 1, 2023 2028; and
+(ii) for impervious surface located within all other watersheds of
+the State, no not later than October 1, 2033 2038 or not later than five years
+after a binding stormwater-specific waste-load allocation has been established
+for that watershed, whichever occurs first.
+(B) Establish criteria and technical standards, such as best
+management practices, for implementation of stormwater improvements for
+the retrofitting of impervious surface subject to permitting under this
+subdivision (3).
+(C) Require that a discharge of stormwater from impervious surface
+subject to the requirements of this section comply with the standards of
+subsection (h) of this section for redevelopment of or renewal of a permit for
+existing impervious surface.
+(D) Allow the use of stormwater impact fees, offsets, and phosphorus
+credit trading within the watershed of the water to which the stormwater
+discharges or runs off.
+* * *
+Sec. 2. REPEALS; SUNSET OF PROPERTY TRANSFER TAX CLEAN
+WATER SURCHARGE
+(a) 2017 Acts and Resolves No. 85, Sec. I.10 (sunset of clean water
+surcharge), as amended by 2024 Acts and Resolves No. 181, is repealed.
+(b) 2017 Acts and Resolves No. 85, Sec. I.11(a)(5) (effective date of sunset
+of clean water surcharge) is repealed.
+Sec. 3. 2017 Acts and Resolves No. 85, Sec. I.1(b) is amended to read:
+(b) Purpose and intent.
+(1) The purpose of Secs. I.1–I.12 of this act is to promote the
+development and improvement of housing for Vermonters.
+(2) It is the intent of the General Assembly:
+(A) to extend the clean water surcharge to provide an interim a
+source of revenue for addressing water quality issues throughout the State; and
+(B) to continue its work on identifying a long-term funding source or
+sources that are sufficient in scope and targeted in design to address these
+water quality issues; and
+(C) once one or more long-term funding sources are identified and
+enacted, but not later than July 1, 2027, to reduce the amount of the clean
+water surcharge to 0.04 percent.
+Sec. 4. 2017 Acts and Resolves No. 85, Sec. I.12 is amended to read:
+Sec. I.12. EFFECTIVE DATES
+(a) Secs. I.1–I.12 shall take effect on July 1, 2017, except that Sec. I.10
+(allocating clean water surcharge revenue to Vermont Housing and
+Conservation Trust Fund) shall take effect on July 1, 2027.
+Sec. 5. 2017 Acts and Resolves No. 85, Sec. I.7(d) is amended to read:
+(d) To compensate for this reduction of available property transfer tax
+revenue, it is the intent of the General Assembly through this act to provide for
+the transfer of $2,500,000.00 to the Vermont Housing and Conservation Trust
+Fund, as follows:
+(1) Sec. D.100 of this act appropriates $11,304,840.00 in fiscal year
+2018 from the Vermont Housing and Conservation Trust Fund to the Vermont
+Housing and Conservation Board. Upon the effective date of this act,
+$1,500,000.00 shall revert to the Fund, resulting in a fiscal year 2018 total
+appropriation to the Board of $9,804,840.00. In fiscal year 2018 only, the
+amount of $1,500,000.00 from the Vermont Housing and Conservation Trust
+Fund shall be transferred to the General Fund.
+(2) As provided in Sec. I.9 of this act, from July 1, 2017 until
+July 1, 2027, pursuant to 32 V.S.A. § 9602a, the first $1,000,000.00 in revenue
+generated by the clean water surcharge of 0.2 0.22 percent shall be transferred
+to the Vermont Housing and Conservation Trust Fund. In fiscal year 2018
+only, the Commissioner shall transfer the amount of $1,000,000.00 from the
+Vermont Housing and Conservation Trust Fund to the General Fund.
+(3) After July 1, 2027, pursuant to 32 V.S.A. § 9602a as amended in
+Sec. I.10 of this act, $1,000,000.00 in total revenue generated by the clean
+water surcharge of 0.04 percent shall be transferred to the Vermont Housing
+and Conservation Trust Fund. [Repealed.]
+(4) As provided in Sec. I.11 of this act, the clean water surcharge will be
+repealed in its entirety on July 1, 2039. [Repealed.]
+Sec. 6. 10 V.S.A. §§ 927 and 928 are amended to read:
+
+Section 4:
+§ 927. DEVELOPED LANDS IMPLEMENTATION GRANT PROGRAM
+The Secretary shall administer a Developed Lands Implementation Grant
+Program to provide grants or financing financial assistance to persons who are
+required to obtain a permit to implement regulatory requirements that are
+necessary to achieve water quality standards. The grant or financing program
+shall only be available in basins where a clean water service provider has met
+its annual goals or is making sufficient progress, as determined by the
+Secretary, towards those goals. This grant program shall fund or provide
+financing for projects related to the permitting of impervious surface of three
+acres or more under subdivision 1264(g)(3) of this title and for a permit
+renewal under subdivision 1264(h)(2) of this title for a discharge to a
+stormwater-impaired water that was permitted under an individual permit or a
+general permit that did not incorporate the requirements of the 2002
+Stormwater Management Manual or any subsequently adopted Stormwater
+Management Manual. Not more than 15 percent of the total grant amount
+awarded shall be used for administrative costs.
+
+Section 5:
+§ 928. MUNICIPALSTORMWATER IMPLEMENTATION GRANT
+PROGRAM
+The Secretary shall administer a Municipal Stormwater Implementation
+Grant Program to provide grants financial assistance to any municipality
+required under section 1264 of this title to obtain or seek coverage under the
+municipal roads general permit, the municipal separate storm sewer systems
+permit, a permit for impervious surface of three acres or more, or a permit
+required by the Secretary to reduce the adverse impacts to water quality of a
+discharge or stormwater runoff. The grant program shall only be available in
+basins where a clean water service provider has met its annual goals or is
+making sufficient progress, as determined by the Secretary, towards those
+goals. Not more than 15 percent of the total grant amount awarded shall be
+used for administrative costs. This program also shall be available to a
+municipality to comply with a permit for impervious surface of three acres or
+more for a residential subdivision when the municipality assumes or has
+assumed full legal responsibility for the stormwater system of the residential
+subdivision under subdivision 1264(c)(7) of this title. Municipalities may
+receive assistance under this program for design or engineering services
+necessary for the formation of a municipal stormwater utility.
+Sec. 7. 10 V.S.A. § 1389(e) is amended to read:
+(e) Priorities. In making recommendations under subsection (d) of this
+
+Section 6:
+section regarding the appropriate allocation of funds from the Clean Water
+Fund, the Board shall prioritize as follows:
+(1) As a first priority, make recommendations regarding funding for the
+following grants and programs, which shall each be given equal priority:
+(A) grants to clean water service providers to fund the reasonable
+costs associated with the inspection, verification, operation, and maintenance
+of clean water projects in a basin;
+(B) the Water Quality Restoration Formula Grant under section 925
+of this title;
+(C) the Agency of Agriculture, Food and Markets’ agricultural water
+quality programs; and
+(D) the Water Quality Enhancement Grants under section 926 of this
+title at a funding level of at least 20 percent of the annual balance of the Clean
+Water Fund, provided that the maximum amount recommended under this
+subdivision (D) in any year shall not exceed $5,000,000.00; and
+(E) funding to partners for basin planning, basin water quality
+council participation, education, and outreach as provided in subdivision
+1253(d)(3) of this title, provided funding shall be at least $500,000.00.
+(2) As the next priority after reviewing funding requests for programs
+identified under subdivision (1) of this subsection:
+(A) funding to programs or projects that address or repair riparian
+conditions that increase the risk of flooding or pose a threat to life or property;
+(B) funding for education and outreach regarding the implementation
+of water quality requirements, including funding for education, outreach,
+demonstration, and access to tools for the implementation of the Acceptable
+Management Practices for Maintaining Water Quality on Logging Jobs in
+Vermont, as adopted by the Commissioner of Forests, Parks and Recreation;
+(C) funding for the Municipal Stormwater Implementation Grant
+Program as provided in section 928 of this title, including at least
+$1,000,000.00 annually for costs of complying with permitting requirements
+under subdivision 1264(c)(7) of this title;
+(D) funding for innovative or alternative technologies or practices
+designed to improve water quality or reduce sources of pollution to surface
+waters, including funding for innovative nutrient removal technologies and
+community-based methane digesters that utilize manure, wastewater, and food
+residuals to produce energy; and
+(E) funding to purchase agricultural land in order to take that land
+out of practice when the State water quality requirements cannot be remediated
+through agricultural Best Management Practices.
+(3) As the next priority after reviewing funding requests under
+subdivisions (1) and (2) of this subsection, funding for the Developed Lands
+Implementation Grant Program as provided in section 927 of this title.
+Sec. 7a. 10 V.S.A. § 1389a is amended to read:
+
+Section 7:
+§ 1389a. CLEAN WATER INVESTMENT REPORT
+(a) Beginning on January 15, 2017, and annually thereafter, the Secretary
+of Administration shall publish the Clean Water Investment Report. The
+Report shall summarize all investments, including their cost-effectiveness,
+made by the Clean Water Board and other State agencies for clean water
+restoration over the prior fiscal year. The Report shall include expenditures
+from the Clean Water Fund, the General Fund, the Transportation Fund, and
+any other State expenditures for clean water restoration, regardless of funding
+source.
+(b) The Report shall include:
+* * *
+(7) Beginning on January 2028 and every four years thereafter, a review
+of the sufficiency of the Clean Water Surcharge to the Property Transfer Tax
+under 32 V.S.A. § 9602a, including an assessment of whether the revenue
+generated by the surcharge remains necessary to fulfill the State’s clean water
+initiatives. The review shall include an assessment of whether the Clean Water
+Surcharge should be continued, whether the amount of the surcharge should be
+adjusted, and whether the surcharge should be repealed at a specified date.
+* * *
+Sec. 8. RECOMMENDED APPROPRIATION; PRIORITIES
+(a) Notwithstanding any other provision of law, the Clean Water Board
+shall recommend $5,000,000.00 from the Clean Water Fund in fiscal year
+2027 to the Municipal Stormwater Implementation Program in 10 V.S.A.
+
+Section 8:
+§ 928 for costs of complying with permitting requirements under 10 V.S.A.
+
+Section 9:
+§ 1264(c)(7), including for residential subdivisions when the municipality
+assumes full legal responsibility for the stormwater system.
+(b) Before January 1, 2032, the Secretary of Natural Resources shall
+provide properties subject to the three-acre stormwater permit under 10 V.S.A.
+
+Section 10:
+§ 1264(c)(7) additional priority points when awarding financing under the
+Municipal Stormwater Implementation Program and under the Developed
+Lands Implementation Program when residential housing used as primary
+residences are located on the relevant properties.
+Sec. 9. STORMWATER MANAGEMENT PUBLIC RESOURCE GUIDE
+(a) On or before January 1, 2027, the Secretary of Natural Resources shall
+publish a Public Resource Guide to Stormwater Management that informs
+persons subject to stormwater operating permits under 10 V.S.A. § 1264 with
+information and resources related to complying with and paying for
+stormwater permitting requirements. The Resource Guide shall be user
+friendly and designed to encourage the public to engage with the Agency of
+Natural Resources in finding solutions to stormwater permitting needs.
+(b) The Resource Guide shall:
+(1) summarize the statutory requirements for stormwater permits, with
+specific emphasis on the three-acre stormwater permit required under 10
+V.S.A. § 1264(c)(7), including why the permits are required;
+(2) recommend available, practical, cost-effective measures for how
+persons subject to stormwater permit requirements can address parcel-based
+issues, including:
+(A) the lack of a homeowner’s association to assume permitting
+responsibility;
+(B) lack of available property to implement stormwater management,
+including whether and how a person subject to stormwater permits can
+implement an off-site offset project to comply with permitting requirements;
+and
+(C) how to address or manage stormwater runoff from other
+stormwater systems entering stormwater systems subject to permitting;
+(3) recommend resources where funding for compliance with
+stormwater permitting requirements may be accessed or applied for, including
+how to apply for financial assistance from the Agency of Natural Resources;
+(4) provide a contact at the Agency of Natural Resources that can assist
+persons subject to stormwater permitting by answering questions, providing
+referrals to creative or alternative solutions for achieving permit compliance,
+and recommending available financial resources; and
+(5) provide a model bylaw or ordinance for the formation of a
+municipal stormwater utility.
+(c) The Secretary of Natural Resources shall submit a copy of the Resource
+Guide to the Senate Committee on Natural Resources and Energy and the
+House Committee on Environment. The Secretary shall also make the
+Resources available free of cost to the public from the Agency’s website.
+Sec. 10. 10 V.S.A. § 1389(e)(2)(C) is amended to read:
+(C) funding for the Municipal Stormwater Implementation Program
+as provided in section 928 of this title, including at least $1,000,000.00
+annually for costs of complying with permitting requirements under
+subdivision 1264(c)(7) of this title;
+Sec. 11. 24 V.S.A. § 3616 is amended to read:
+
+Section 11:
+§ 3616. RENTS; RATES
+(a) A municipal corporation, through its board may establish rates, rents, or
+charges to be paid as the board may prescribe. The board may establish annual
+charges separately for bond repayment, fixed operations and maintenance costs
+and variable operations and maintenance costs dependent on flow.
+(b) The rates, rents, or charges may be based upon:
+(1) the metered consumption of water on premises connected with the
+sewer system, however, the board may determine no user will be billed for
+fixed operations and maintenance costs and bond payment less than the
+average single-family charge;
+(2) the number of equivalent units connected with or served by the
+sewage system based upon their estimated flows compared to the estimated
+flows from a single-family dwelling, however, the board may determine no
+user will be billed less than the minimum charge determined for the single-
+family dwelling charge for fixed operations and maintenance costs and bond
+payment;
+* * *
+(6) for groundwater, surface, or stormwater an equivalent residential
+unit based on an average or median of the area of impervious surface on
+residential property within the municipality; or
+(7) any combination of these bases, provided the combination is
+equitable.
+* * *
+Sec. 12. STUDY COMMITTEE ON STORMWATER MANAGEMENT
+AND CREATION OF REGIONALSTORMWATER UTILITY
+DISTRICTS
+(a) Creation. There is created the Study Committee on the Creation of
+Regional Stormwater Utility Districts to review the feasibility and benefit of
+creating regional stormwater utility districts to facilitate implementation and
+compliance with the water quality laws of the State.
+(b) Membership. The Study Committee shall be composed of the
+following members:
+(1) the Commissioner of Environmental Conservation or designee;
+(2) a representative of the Vermont League of Cities and Towns,
+appointed by the Speaker of the House;
+(3) a representative of a municipality subject to the municipal separate
+storm sewer system (MS4) permit, appointed by the Committee on
+Committees;
+(4) a representative of a municipality with a population under 2,500
+persons, appointed by the Speaker of the House;
+(5) a representative of the Green Mountain Water Environment
+Association, appointed by the Speaker of the House;
+(6) a commercial or industrial business owner subject to the three-acre
+stormwater permit or other stormwater requirements, appointed by the
+Committee on Committees;
+(7) a representative of an environmental advocacy organization,
+appointed by the Speaker of the House;
+(8) a representative of a regional planning commission, appointed by the
+Committee on Committees; and
+(9) a representative of a municipality with a designated downtown area
+served by water and sewer infrastructure that is not subject to a MS4 permit,
+appointed by the Speaker of the House.
+(c) Powers and duties. The Study Committee shall review the feasibility of
+establishing regional stormwater utility districts in the State. The Study
+Committee shall:
+(1) review current statutory authority for the development of regional
+stormwater utility districts comprised of multiple municipalities, including
+identifying any potential disincentives or obstacles to utility formation;
+(2) propose an approach the State could use for implementing a regional
+stormwater utility that would allow the utilities to assume liability and
+responsibility for compliance with water quality laws, including how a utility
+could assume responsibility for:
+(A) securing the permitting of properties subject to the three-acre
+stormwater permit; and
+(B) achieving the phosphorus reduction targets for the three-acre
+stormwater permitted properties within the utility district;
+(3) review and recommend cost-effective and equitable approaches for
+regional level revenue raising and distribution of project funding for the
+purpose of stormwater controls to meet total maximum daily load plans
+(TMDLs) including:
+(A) consider prior revenue-raising recommendations made in the
+2017 Clean Water Report from the Office of the State Treasurer;
+(B) recommend whether and how to authorize a regional stormwater
+utility to assess fees or charges to all landowners, residents, and businesses
+within the regional stormwater utility district for the purpose of stormwater
+controls to meet TMDLs;
+(C) propose how a regional stormwater utility district could be
+eligible for Clean Water State Revolving Loan Fund awards and access State-
+level financial assistance for the design, construction, and operation and
+maintenance of regulatory and nonregulatory stormwater systems, including
+from the Clean Water State Revolving Loan Fund;
+(D) recommend whether and how a regional stormwater utility can
+allocate resources and cost-effectively and equitably achieve pollutant
+reduction measures that are not fully achieved by regulated sites, as might be
+articulated in a regional stormwater management plan; and
+(E) recommend whether and how a regional stormwater utility could
+improve the management of parcel-based issues in a more cost-effective and
+equitable manner, such as how a regional utility could address regulation of
+stormwater systems lacking a homeowners’ association or other accountable
+entity or how a regional utility could improve management of upstream
+properties that drain into stormwater systems subject to permitting;
+(4) recommend whether stormwater permitting for municipalities or
+others could be streamlined to improve the application process, permit
+renewal, or fee requirements;
+(5) propose how statute should be amended to implement any of the
+recommendations of the Study Committee, including stormwater management
+planning for purposes of overall regional phosphorus pollutant reductions; and
+(6) estimate a cost to operate proposed regional stormwater utility
+districts.
+(d) Assistance. The Study Committee shall have the administrative,
+technical, and legal assistance of the Department of Environmental
+Conservation.
+(e) Report. On or before January 15, 2027, the Study Committee shall
+submit a written report to the House Committees on Environment and on
+Government Operations and Military Affairs and the Senate Committees on
+Natural Resources and Energy and on Government Operations with its
+findings and any recommendations for legislative action.
+(f) Meetings.
+(1) The Commissioner of Environmental Conservation or designee shall
+call the first meeting of the Study Committee.
+(2) The Commissioner of Environmental Conservation or designee shall
+be the Chair.
+(3) A majority of the membership shall constitute a quorum.
+(4) The Study Committee shall cease to exist on March 1, 2027.
+(g) Compensation and reimbursement. Members of the Study Committee
+shall be entitled to per diem compensation and reimbursement of expenses as
+permitted under 32 V.S.A. § 1010 for not more than eight meetings. These
+payments shall be made from monies appropriated to the Agency of Natural
+Resources.
+Sec. 13. EFFECTIVE DATES
+This act shall take effect on July 1, 2025, except that Sec. 10 (future Clean
+Water Fund priorities) shall take effect October 1, 2032.
+[DELETED: eplofa.4natrgtosrmeSepstoteHetoadteblbysgotalaeegceadiginlutftef.1.10V.§4isadtor1.SRM*)P*)Inaewhteseedursn(ftss,apnslntdesrfmieofteormeasinsewtftoganitorceuraglptidurtssniftewsnrpypdorwspduranitorglptttddntietersofte2rMtMloraysyadStM.TeSyslpenetoalosoysttoteptrdurtss)E*)Noptisrdursn(,(,or()oftnadfrwhamyhsadflllryatofaptidtotemybyteS.Asudint,“lllr”msllcloftes,igallrttoastesrs,alldytymntesrs,adalldytorradresrsmwnitnolraypswsoft.Ngtepsof24V.§4totecnamyasorhsadflllryfrrs,temymyasmlslasonusoftesrsmpdttamyoftepssttoteslatfecdadtefeadisrattoteuroftectofteitinahtebsteurr*)Glp]
+[DELETED: *)Wn10dsarteanbyteSyofterdursn()oftss,teSyslieagturtssnfrdsofsrfmissfteormeasins,wntesrdepywtpdorwspduranilptorglptddntietersofte22SrMloraysyadSrMtM.Ueglp,teSys)EhasefrinofteglptbcaaofteS.Teseslehtedebywharofisseslayfrceurtss.TeseedbyteSyslreanorossesttopgurtssntooebytefgd)frisseldwnteLeC,teLeMgw,ortewdofdwronorbeOr1,232;a)frisseldwnalorwsoeS,nontlrtnOr1,2328orntlrtnfeyrabgscwdanhsbnerttw,wrosf)Ehcaadtls,shasbtp,frinofsrisfergofissesttopgurtn()Rettadeofsrfmissttotersoftssncywhtesson()oftssnfrrtoforrlofaptfgiss)Awteueofsritf,o,adpttgwntewdoftewrtowhtessorrso*.2.R;STOFPYTRTXCRS)27AsadRsN.8,S.I0(tofcnw,asadby24AsadRsN.1,isr]
+[DELETED: )27AsadRsN.8,S.I)(edeofsfcnwrs)isr.3.27AsadRsN.8,S.I)isadtor)Peadi)TepeofS.I2oftsatistopettaditofhgfrV)ItisteitofteGlA)toedtecnwrsetopeanimeofrefragwrqyisttteS;a)toceiswkonigalmfgseosttaestinseadtdindntoastrqyi;a)oeoeormelmfgssaeida,btntlrtnJy1,2,toreteatoftecrseto04p.4.27AsadRsN.8,S.I2isadtor.I.EED)S.I2slteetonJy1,2,etttS.IgcnwrseretoVtHganTtF)slteetonJy1,2.5.27AsadRsN.8,S.I)isadtor)Tocefrtsrnofaepytrt,itisteitofteGlAythtsattopefetrof$0toteVtHgadCnT,asf)S.D0oftsatas$0infly8fmteVtHgadCnTtFdtoteVgadCnB.Unteeedeoftsa0slrttoteF,rginaflyr28tntoteBdo.Inflyr28o,ttof$0fmteVtHgadCnTdslbetdtoteGlF)AspdinS.I9oftsa,fmJy1,27u,ptto32V.§9,teft$0inrdbytecnwrseof0202ptslbetoteVtHgadCnTtF.Inflyr2]
+[DELETED: ,teCrsltrteatof$0fmttHgadCnTtFdtoteGlF)ArJy1,2,ptto3.§9aasadi.I0oftsa,$0intlregdbytecrseof04ptslbetdtoteVtHdCnTtF.[)AspdinS.I1oftsa,tecnwrsewlbdiniseyonJy1,2.[.6.10V.§7ad98aeadtor9.DDLSINGTPeSyslaraDdLsInGmtopegsorfgflaetopswoadtoonapttoitryrsttaytoaewrqys.Tegtorfgploybeaeinbsweacnwrseprhsmsalgsorismgstp,asddbyt,tsteg.Tsgtpmslfdorpgfrpsrdtotepgofisseoftsormeursn1)oftsteadfraplursn1)oftstefradetodwrttwspduranilptorlptttddntietersofte2rMtMloraysyadStM.Ntmetn15ptoftetlgtadslbeudfraec9.MLSRINGeSyslaraMlSrItPmtopegsflaetoaymdursn14oftstetoonorskceurtlrsglp,temlsesmsrs,aptfrisseofteasorm,orapdbyteSytoreteaeistowrqyofeorsrr.Tegtpmsloybeaeisweacnwrseprhsmtisalgsorigstp,asddbyteS,tst.Ntmetn15ptoftetlgtatadslbdfraec.Tspmaoslbeaetoytocywhaptfrisseofteasoefrarlsnwntemyasorh]
+[DELETED: dflllryfrtesrsmofternursn1)oftst.Msmeaeurtspmfrdnoregsyfrtefnofamlsru.7.10V.§)isadtor)P.Inmgrsursn()oftnrgteaeanoffsfmteCnW,teBdslpeasf)Asaftp,mersrgfgfrtggsadp,whslehbegnelp)gstocnwrsepstofdtersadwhtei,v,o,admfcnwrpsinab)teWrQyRnFaGtursn9ftst)teAyofA,FdadM’alwyp;a)teWrQyEtGsursn96ofteatafgllofatlt20ptoftealbeofteCrF,pdtttemmatrdurtn()inayyrslnted$;a)fgtopsfrbnp,bnwrqlp,e,adohaspdins)oftst,pdfgslbeatlt$)Astentpyarrgfgrsfrpdursn()oftss)fgtopsorpsttasorrrrsttieterkoffgorpeatttoleorp)fgfrenadohrgteifwrqyr,igfgfre,o,adastotsfrteinofteAtPsfrMgWrQyonLgJsi,asadbyteCrofF,PsadR)fgfrteMlSrInGmaspdinsn98oftst,igatl0ayfrcsofcgwhpgrrsn1)oftst]
+[DELETED: )fgfrieoraetsorpdtoiewrqyorressofpntos,igfgfrientrltsadmedsttuem,w,adfstopee;a)fgtopealldinortotettltofpewnteSewrqyrsctberhalBtMtP)Astentpyarrgfgrsus()ad()oftss,fgfrteDdLnGtPmaspdinsn97oftst.7.10V.§aisadtor1.CNWRITR)BgonJy1,2,adayt,teSfAnslphteCnWrItR.Ttslseali,igtrcebyteCnWrBdadorSeasfrcnwnorteprfly.TeRtslieemteCnWrF,teGlF,teTnF,ayorSeesfrcnwrr,rsoff)TeRtsli*)BgonJy28adeyfryst,arftesyofteCnWrSetotePyTrTr32V.§,iganatofwrterdbytesersnytoflteSscnw.TerwslieanatofwrteCnWesdbec,wrteatoftesesdb,adwrtesesdberdatasdd*.8.RDA;P)Ngayorpnofl,teCnWrBlrd$0fmteCnWrFdinfly7toteMlSrInPmin10V8frcsofcgwhpgrsur10V,igfrrlsswntemsflllryfrtesrs]
+[DELETED: )BeJy1,2,teSyofNlRssepssttotetesrptur10V)alpypswnagfgurtlSrInPmadurteDsInPmwnrlhgudaspsaeldontertp.9.SRMTPCREG)OnorbeJy1,2,teSyofNlRsshaPcReGetoSrMtttissttosrogpsur10V.§4wnadrsrdtocgwhadpgfrpgr.TeReGeslbeuyadddtoeetepctoeewhteAyolRsinfgsstosrpgn)TeReGes)setesyrsfrsrp,wcesontetesrptrdur1.§,igwytepsaer)rda,p,cemsfrhssttosrptrscnasp,i)telkofahsantoaep)lkofaepytoitsrmgwradhwapnsttosrpsctanoeotpttocywhpgr)hwtoasormesrrffmorssegsrsssttop)rdrswefgfrcewrpgrsmybeadoradf,iwtoayfrflaefmteAyofNlR)peactatteAyofNlRsttcnassttosrpgbyagq,pstoceoraessfragptcdrgaeflr;a)peamlbworoefrtefnoflsru]
+[DELETED: )TeSyofNlRsslstacyofteRetoteSeCeonNlRsadEyadteCeonE.TeSyslaometsaefeofcttotepcfmteAsw.1.10V.§)isadtor)fgfrteMlSrInPspdinsn98oftst,igatlt$yfrcsofcgwhpgrsun1)oftst.1.24V.§6isadtor3.R;R)Amlc,thisbdmyehr,r,ostobepdastebdmyp.Tebdmyehassyfrbdr,fdosadmecdveosadmecsdtonf)Ter,r,orcsmybebdu)temdcnofwronpscdwhtrs,h,tebdmydenourwlbebdfdosadmecsadbdptlstntesyc)tenrofetuscdwhorsdbytesmbduntredfscdtoteesfmasyd,h,tebdmydenrwlbebdlstntemmceddfrtesydgcefrfdosadmecsadb*)frg,s,orsranetrtbdonanaeormnofteaaofisseolpywntem;o)aycnofteb,pdtecni*.1.SYCEONSRMDCNOFRLSRU]
+[DELETED: )C.TeiscdteSyCeonteCnolSrUyDstorwtefyadbtogrlsruydstofeinaewhtewrqylsofteS)M.TeSyCeslbecdoftgm)teCrofElCnord)areofteVtLeofCsadTdbyteSrofteH)areofamysttotemlsmsrsm()p,adbyteCeo)areofamywhapnur2,adbyteSrofteH)areofteGnMnWrE,adbyteSrofteH)aclorilbsorsttotetrptororsrr,adbyteonC)areofanelayodbyteSrofteH)areofarlpgc,adbyteonC;a)areofamywhadddnadbywradsriettisntsttoaM4pdbyteSrofteH)Psadd.TeSyCeslrwtefyogrlsruydsinteS.TeSes)rwctsyayfrtedtofrruydscdofmem,igaypldsorostouyf)peanahteSecduefrigarruyttwdawteustoaelyayfrcewhwrqyl,ighwaudaeryf]
+[DELETED: )sgtepgofpssttotetrp;a)agtepsrntsfrtetrpdpswnteuyd)rwadrdceadeeasflllrergaddnofptfgfrteofsrcstomttlmmdyldp)i)crprrgrsmeint7CnWrRtfmteOeofteSeT)rdwradhwtoaearlsytoasfsorcstoall,r,adbnterlsruydtfrtepeofsstomtT)pehwarlsruydtcdbefrCnWrSeRgLnFdasadasSlflaefrted,c,adonaeofryadnysrs,imteCnWrSeRgLnF)rdwradhwarlsruycersadcyadeyaepnmsttaentfyadbyrds,asmtbdinarlsrmtp;a)rdwradhwarlsruycetemtofpdisinameceaem,shashwarluycdasrnorsslgah’anororayorhwarluycdiemtofusttdniosrsssttop)rdwrsrpgfrmsoscdbesdtoieteanp,p,orfer)pehwsesdbeadtoitayoftsofteSyC,igsrmgfrpsofolrlpsptr;a)eeacttooepdrlsru]
+[DELETED: )A.TeSyCeslhetea,adllaeofteDtofE)R.OnorbeJy1,2,teSyCestawnrttoteHeCsonEtadotOsadMyAsadteSeCsolRsadEyadonGtOswhisadayrsfrlea)M)TeCrofElCnordeslteftmgofteSyC)TeCrofElCnordeseteC)Amyoftempslceaq)TeSyCeslcetoetonMh1,2)Cnadr.MsofteSyClbeedtoprdmcnadrtofesadur3.§0frntmetnetm.TsslbemefmmsadtoteAyofN.1.EEDsatslteetonJy1,2,etttS.10(eCrFdp)slteetOr1,2]
+
+
+================================================================================
+
+Raw Text:
+Senate proposal of amendment
+H. 481
+An act relating to stormwater management
+The Senate proposes to the House to amend the bill by striking out all after
+the enacting clause and inserting in lieu thereof the following:
+Sec. 1. 10 V.S.A. § 1264 is amended to read:
+§ 1264. STORMWATER MANAGEMENT
+* * *
+(c) Prohibitions.
+* * *
+(7) In accordance with the schedule established under subdivision (g)(3)
+of this section, a person shall not discharge stormwater from impervious
+surface of three or more acres in size without first obtaining an individual
+permit or coverage under a general permit issued under this section if the
+discharge was never previously permitted or was permitted under an individual
+permit or general permit that did not incorporate the requirements of the 2002
+Stormwater Management Manual or any subsequently adopted Stormwater
+Management Manual. The Secretary shall provide notice to all owners of
+property subject to the permit required under this subdivision.
+(d) Exemptions.
+* * *
+(2) No permit is required under subdivision (c)(1), (5), or (7) of this
+section and for which a municipality has assumed full legal responsibility as
+part of a permit issued to the municipality by the Secretary. As used in this
+subdivision, “full legal responsibility” means legal control of the stormwater
+system, including a legal right to access the stormwater system, a legal duty to
+properly maintain the stormwater system, and a legal duty to repair and replace
+the stormwater system when it no longer adequately protects waters of the
+State. Notwithstanding the provisions of 24 V.S.A. § 3254 to the contrary,
+when a municipality assumes or has assumed full legal responsibility for a
+stormwater system, the municipality may assess municipal special assessment
+fees on users of the stormwater system provided that a majority of the property
+owners subject to the special assessment fee consented and the fee assessed is a
+fair apportionment to the user of the cost of the improvement in accordance
+with the benefits the user received.
+* * *
+(g) General permits.
+
+* * *
+(3) Within 120 days after the adoption by the Secretary of the rules
+required under subsection (f) of this section, the Secretary shall issue a general
+permit under this section for discharges of stormwater from impervious surface
+of three or more acres in size, when the stormwater discharge previously was
+not permitted or was permitted under an individual permit or general permit
+that did not incorporate the requirements of the 2002 Stormwater Management
+Manual or any subsequently adopted Stormwater Management Manual. Under
+the general permit, the Secretary shall:
+(A) Establish a schedule for implementation of the general permit by
+geographic area of the State. The schedule shall establish the date by which an
+owner of impervious surface shall apply for coverage under this subdivision
+(3). The schedule established by the Secretary shall require an owner of
+impervious surface subject to permitting under this subdivision to obtain
+coverage by the following dates:
+(i) for impervious surface located within the Lake Champlain
+watershed, the Lake Memphremagog watershed, or the watershed of a
+stormwater-impaired water on or before October 1, 2023 2028; and
+(ii) for impervious surface located within all other watersheds of
+the State, no not later than October 1, 2033 2038 or not later than five years
+after a binding stormwater-specific waste-load allocation has been established
+for that watershed, whichever occurs first.
+(B) Establish criteria and technical standards, such as best
+management practices, for implementation of stormwater improvements for
+the retrofitting of impervious surface subject to permitting under this
+subdivision (3).
+(C) Require that a discharge of stormwater from impervious surface
+subject to the requirements of this section comply with the standards of
+subsection (h) of this section for redevelopment of or renewal of a permit for
+existing impervious surface.
+(D) Allow the use of stormwater impact fees, offsets, and phosphorus
+credit trading within the watershed of the water to which the stormwater
+discharges or runs off.
+* * *
+Sec. 2. REPEALS; SUNSET OF PROPERTY TRANSFER TAX CLEAN
+WATER SURCHARGE
+(a) 2017 Acts and Resolves No. 85, Sec. I.10 (sunset of clean water
+surcharge), as amended by 2024 Acts and Resolves No. 181, is repealed.
+
+(b) 2017 Acts and Resolves No. 85, Sec. I.11(a)(5) (effective date of sunset
+of clean water surcharge) is repealed.
+Sec. 3. 2017 Acts and Resolves No. 85, Sec. I.1(b) is amended to read:
+(b) Purpose and intent.
+(1) The purpose of Secs. I.1–I.12 of this act is to promote the
+development and improvement of housing for Vermonters.
+(2) It is the intent of the General Assembly:
+(A) to extend the clean water surcharge to provide an interim a
+source of revenue for addressing water quality issues throughout the State; and
+(B) to continue its work on identifying a long-term funding source or
+sources that are sufficient in scope and targeted in design to address these
+water quality issues; and
+(C) once one or more long-term funding sources are identified and
+enacted, but not later than July 1, 2027, to reduce the amount of the clean
+water surcharge to 0.04 percent.
+Sec. 4. 2017 Acts and Resolves No. 85, Sec. I.12 is amended to read:
+Sec. I.12. EFFECTIVE DATES
+(a) Secs. I.1–I.12 shall take effect on July 1, 2017, except that Sec. I.10
+(allocating clean water surcharge revenue to Vermont Housing and
+Conservation Trust Fund) shall take effect on July 1, 2027.
+Sec. 5. 2017 Acts and Resolves No. 85, Sec. I.7(d) is amended to read:
+(d) To compensate for this reduction of available property transfer tax
+revenue, it is the intent of the General Assembly through this act to provide for
+the transfer of $2,500,000.00 to the Vermont Housing and Conservation Trust
+Fund, as follows:
+(1) Sec. D.100 of this act appropriates $11,304,840.00 in fiscal year
+2018 from the Vermont Housing and Conservation Trust Fund to the Vermont
+Housing and Conservation Board. Upon the effective date of this act,
+$1,500,000.00 shall revert to the Fund, resulting in a fiscal year 2018 total
+appropriation to the Board of $9,804,840.00. In fiscal year 2018 only, the
+amount of $1,500,000.00 from the Vermont Housing and Conservation Trust
+Fund shall be transferred to the General Fund.
+(2) As provided in Sec. I.9 of this act, from July 1, 2017 until
+July 1, 2027, pursuant to 32 V.S.A. § 9602a, the first $1,000,000.00 in revenue
+generated by the clean water surcharge of 0.2 0.22 percent shall be transferred
+to the Vermont Housing and Conservation Trust Fund. In fiscal year 2018
+
+only, the Commissioner shall transfer the amount of $1,000,000.00 from the
+Vermont Housing and Conservation Trust Fund to the General Fund.
+(3) After July 1, 2027, pursuant to 32 V.S.A. § 9602a as amended in
+Sec. I.10 of this act, $1,000,000.00 in total revenue generated by the clean
+water surcharge of 0.04 percent shall be transferred to the Vermont Housing
+and Conservation Trust Fund. [Repealed.]
+(4) As provided in Sec. I.11 of this act, the clean water surcharge will be
+repealed in its entirety on July 1, 2039. [Repealed.]
+Sec. 6. 10 V.S.A. §§ 927 and 928 are amended to read:
+§ 927. DEVELOPED LANDS IMPLEMENTATION GRANT PROGRAM
+The Secretary shall administer a Developed Lands Implementation Grant
+Program to provide grants or financing financial assistance to persons who are
+required to obtain a permit to implement regulatory requirements that are
+necessary to achieve water quality standards. The grant or financing program
+shall only be available in basins where a clean water service provider has met
+its annual goals or is making sufficient progress, as determined by the
+Secretary, towards those goals. This grant program shall fund or provide
+financing for projects related to the permitting of impervious surface of three
+acres or more under subdivision 1264(g)(3) of this title and for a permit
+renewal under subdivision 1264(h)(2) of this title for a discharge to a
+stormwater-impaired water that was permitted under an individual permit or a
+general permit that did not incorporate the requirements of the 2002
+Stormwater Management Manual or any subsequently adopted Stormwater
+Management Manual. Not more than 15 percent of the total grant amount
+awarded shall be used for administrative costs.
+§ 928. MUNICIPALSTORMWATER IMPLEMENTATION GRANT
+PROGRAM
+The Secretary shall administer a Municipal Stormwater Implementation
+Grant Program to provide grants financial assistance to any municipality
+required under section 1264 of this title to obtain or seek coverage under the
+municipal roads general permit, the municipal separate storm sewer systems
+permit, a permit for impervious surface of three acres or more, or a permit
+required by the Secretary to reduce the adverse impacts to water quality of a
+discharge or stormwater runoff. The grant program shall only be available in
+basins where a clean water service provider has met its annual goals or is
+making sufficient progress, as determined by the Secretary, towards those
+goals. Not more than 15 percent of the total grant amount awarded shall be
+used for administrative costs. This program also shall be available to a
+municipality to comply with a permit for impervious surface of three acres or
+more for a residential subdivision when the municipality assumes or has
+
+assumed full legal responsibility for the stormwater system of the residential
+subdivision under subdivision 1264(c)(7) of this title. Municipalities may
+receive assistance under this program for design or engineering services
+necessary for the formation of a municipal stormwater utility.
+Sec. 7. 10 V.S.A. § 1389(e) is amended to read:
+(e) Priorities. In making recommendations under subsection (d) of this
+section regarding the appropriate allocation of funds from the Clean Water
+Fund, the Board shall prioritize as follows:
+(1) As a first priority, make recommendations regarding funding for the
+following grants and programs, which shall each be given equal priority:
+(A) grants to clean water service providers to fund the reasonable
+costs associated with the inspection, verification, operation, and maintenance
+of clean water projects in a basin;
+(B) the Water Quality Restoration Formula Grant under section 925
+of this title;
+(C) the Agency of Agriculture, Food and Markets’ agricultural water
+quality programs; and
+(D) the Water Quality Enhancement Grants under section 926 of this
+title at a funding level of at least 20 percent of the annual balance of the Clean
+Water Fund, provided that the maximum amount recommended under this
+subdivision (D) in any year shall not exceed $5,000,000.00; and
+(E) funding to partners for basin planning, basin water quality
+council participation, education, and outreach as provided in subdivision
+1253(d)(3) of this title, provided funding shall be at least $500,000.00.
+(2) As the next priority after reviewing funding requests for programs
+identified under subdivision (1) of this subsection:
+(A) funding to programs or projects that address or repair riparian
+conditions that increase the risk of flooding or pose a threat to life or property;
+(B) funding for education and outreach regarding the implementation
+of water quality requirements, including funding for education, outreach,
+demonstration, and access to tools for the implementation of the Acceptable
+Management Practices for Maintaining Water Quality on Logging Jobs in
+Vermont, as adopted by the Commissioner of Forests, Parks and Recreation;
+(C) funding for the Municipal Stormwater Implementation Grant
+Program as provided in section 928 of this title, including at least
+$1,000,000.00 annually for costs of complying with permitting requirements
+under subdivision 1264(c)(7) of this title;
+
+(D) funding for innovative or alternative technologies or practices
+designed to improve water quality or reduce sources of pollution to surface
+waters, including funding for innovative nutrient removal technologies and
+community-based methane digesters that utilize manure, wastewater, and food
+residuals to produce energy; and
+(E) funding to purchase agricultural land in order to take that land
+out of practice when the State water quality requirements cannot be remediated
+through agricultural Best Management Practices.
+(3) As the next priority after reviewing funding requests under
+subdivisions (1) and (2) of this subsection, funding for the Developed Lands
+Implementation Grant Program as provided in section 927 of this title.
+Sec. 7a. 10 V.S.A. § 1389a is amended to read:
+§ 1389a. CLEAN WATER INVESTMENT REPORT
+(a) Beginning on January 15, 2017, and annually thereafter, the Secretary
+of Administration shall publish the Clean Water Investment Report. The
+Report shall summarize all investments, including their cost-effectiveness,
+made by the Clean Water Board and other State agencies for clean water
+restoration over the prior fiscal year. The Report shall include expenditures
+from the Clean Water Fund, the General Fund, the Transportation Fund, and
+any other State expenditures for clean water restoration, regardless of funding
+source.
+(b) The Report shall include:
+* * *
+(7) Beginning on January 2028 and every four years thereafter, a review
+of the sufficiency of the Clean Water Surcharge to the Property Transfer Tax
+under 32 V.S.A. § 9602a, including an assessment of whether the revenue
+generated by the surcharge remains necessary to fulfill the State’s clean water
+initiatives. The review shall include an assessment of whether the Clean Water
+Surcharge should be continued, whether the amount of the surcharge should be
+adjusted, and whether the surcharge should be repealed at a specified date.
+* * *
+Sec. 8. RECOMMENDED APPROPRIATION; PRIORITIES
+(a) Notwithstanding any other provision of law, the Clean Water Board
+shall recommend $5,000,000.00 from the Clean Water Fund in fiscal year
+2027 to the Municipal Stormwater Implementation Program in 10 V.S.A.
+§ 928 for costs of complying with permitting requirements under 10 V.S.A.
+§ 1264(c)(7), including for residential subdivisions when the municipality
+assumes full legal responsibility for the stormwater system.
+
+(b) Before January 1, 2032, the Secretary of Natural Resources shall
+provide properties subject to the three-acre stormwater permit under 10 V.S.A.
+§ 1264(c)(7) additional priority points when awarding financing under the
+Municipal Stormwater Implementation Program and under the Developed
+Lands Implementation Program when residential housing used as primary
+residences are located on the relevant properties.
+Sec. 9. STORMWATER MANAGEMENT PUBLIC RESOURCE GUIDE
+(a) On or before January 1, 2027, the Secretary of Natural Resources shall
+publish a Public Resource Guide to Stormwater Management that informs
+persons subject to stormwater operating permits under 10 V.S.A. § 1264 with
+information and resources related to complying with and paying for
+stormwater permitting requirements. The Resource Guide shall be user
+friendly and designed to encourage the public to engage with the Agency of
+Natural Resources in finding solutions to stormwater permitting needs.
+(b) The Resource Guide shall:
+(1) summarize the statutory requirements for stormwater permits, with
+specific emphasis on the three-acre stormwater permit required under 10
+V.S.A. § 1264(c)(7), including why the permits are required;
+(2) recommend available, practical, cost-effective measures for how
+persons subject to stormwater permit requirements can address parcel-based
+issues, including:
+(A) the lack of a homeowner’s association to assume permitting
+responsibility;
+(B) lack of available property to implement stormwater management,
+including whether and how a person subject to stormwater permits can
+implement an off-site offset project to comply with permitting requirements;
+and
+(C) how to address or manage stormwater runoff from other
+stormwater systems entering stormwater systems subject to permitting;
+(3) recommend resources where funding for compliance with
+stormwater permitting requirements may be accessed or applied for, including
+how to apply for financial assistance from the Agency of Natural Resources;
+(4) provide a contact at the Agency of Natural Resources that can assist
+persons subject to stormwater permitting by answering questions, providing
+referrals to creative or alternative solutions for achieving permit compliance,
+and recommending available financial resources; and
+(5) provide a model bylaw or ordinance for the formation of a
+municipal stormwater utility.
+
+(c) The Secretary of Natural Resources shall submit a copy of the Resource
+Guide to the Senate Committee on Natural Resources and Energy and the
+House Committee on Environment. The Secretary shall also make the
+Resources available free of cost to the public from the Agency’s website.
+Sec. 10. 10 V.S.A. § 1389(e)(2)(C) is amended to read:
+(C) funding for the Municipal Stormwater Implementation Program
+as provided in section 928 of this title, including at least $1,000,000.00
+annually for costs of complying with permitting requirements under
+subdivision 1264(c)(7) of this title;
+Sec. 11. 24 V.S.A. § 3616 is amended to read:
+§ 3616. RENTS; RATES
+(a) A municipal corporation, through its board may establish rates, rents, or
+charges to be paid as the board may prescribe. The board may establish annual
+charges separately for bond repayment, fixed operations and maintenance costs
+and variable operations and maintenance costs dependent on flow.
+(b) The rates, rents, or charges may be based upon:
+(1) the metered consumption of water on premises connected with the
+sewer system, however, the board may determine no user will be billed for
+fixed operations and maintenance costs and bond payment less than the
+average single-family charge;
+(2) the number of equivalent units connected with or served by the
+sewage system based upon their estimated flows compared to the estimated
+flows from a single-family dwelling, however, the board may determine no
+user will be billed less than the minimum charge determined for the single-
+family dwelling charge for fixed operations and maintenance costs and bond
+payment;
+* * *
+(6) for groundwater, surface, or stormwater an equivalent residential
+unit based on an average or median of the area of impervious surface on
+residential property within the municipality; or
+(7) any combination of these bases, provided the combination is
+equitable.
+* * *
+Sec. 12. STUDY COMMITTEE ON STORMWATER MANAGEMENT
+AND CREATION OF REGIONALSTORMWATER UTILITY
+DISTRICTS
+
+(a) Creation. There is created the Study Committee on the Creation of
+Regional Stormwater Utility Districts to review the feasibility and benefit of
+creating regional stormwater utility districts to facilitate implementation and
+compliance with the water quality laws of the State.
+(b) Membership. The Study Committee shall be composed of the
+following members:
+(1) the Commissioner of Environmental Conservation or designee;
+(2) a representative of the Vermont League of Cities and Towns,
+appointed by the Speaker of the House;
+(3) a representative of a municipality subject to the municipal separate
+storm sewer system (MS4) permit, appointed by the Committee on
+Committees;
+(4) a representative of a municipality with a population under 2,500
+persons, appointed by the Speaker of the House;
+(5) a representative of the Green Mountain Water Environment
+Association, appointed by the Speaker of the House;
+(6) a commercial or industrial business owner subject to the three-acre
+stormwater permit or other stormwater requirements, appointed by the
+Committee on Committees;
+(7) a representative of an environmental advocacy organization,
+appointed by the Speaker of the House;
+(8) a representative of a regional planning commission, appointed by the
+Committee on Committees; and
+(9) a representative of a municipality with a designated downtown area
+served by water and sewer infrastructure that is not subject to a MS4 permit,
+appointed by the Speaker of the House.
+(c) Powers and duties. The Study Committee shall review the feasibility of
+establishing regional stormwater utility districts in the State. The Study
+Committee shall:
+(1) review current statutory authority for the development of regional
+stormwater utility districts comprised of multiple municipalities, including
+identifying any potential disincentives or obstacles to utility formation;
+(2) propose an approach the State could use for implementing a regional
+stormwater utility that would allow the utilities to assume liability and
+responsibility for compliance with water quality laws, including how a utility
+could assume responsibility for:
+
+(A) securing the permitting of properties subject to the three-acre
+stormwater permit; and
+(B) achieving the phosphorus reduction targets for the three-acre
+stormwater permitted properties within the utility district;
+(3) review and recommend cost-effective and equitable approaches for
+regional level revenue raising and distribution of project funding for the
+purpose of stormwater controls to meet total maximum daily load plans
+(TMDLs) including:
+(A) consider prior revenue-raising recommendations made in the
+2017 Clean Water Report from the Office of the State Treasurer;
+(B) recommend whether and how to authorize a regional stormwater
+utility to assess fees or charges to all landowners, residents, and businesses
+within the regional stormwater utility district for the purpose of stormwater
+controls to meet TMDLs;
+(C) propose how a regional stormwater utility district could be
+eligible for Clean Water State Revolving Loan Fund awards and access State-
+level financial assistance for the design, construction, and operation and
+maintenance of regulatory and nonregulatory stormwater systems, including
+from the Clean Water State Revolving Loan Fund;
+(D) recommend whether and how a regional stormwater utility can
+allocate resources and cost-effectively and equitably achieve pollutant
+reduction measures that are not fully achieved by regulated sites, as might be
+articulated in a regional stormwater management plan; and
+(E) recommend whether and how a regional stormwater utility could
+improve the management of parcel-based issues in a more cost-effective and
+equitable manner, such as how a regional utility could address regulation of
+stormwater systems lacking a homeowners’ association or other accountable
+entity or how a regional utility could improve management of upstream
+properties that drain into stormwater systems subject to permitting;
+(4) recommend whether stormwater permitting for municipalities or
+others could be streamlined to improve the application process, permit
+renewal, or fee requirements;
+(5) propose how statute should be amended to implement any of the
+recommendations of the Study Committee, including stormwater management
+planning for purposes of overall regional phosphorus pollutant reductions; and
+(6) estimate a cost to operate proposed regional stormwater utility
+districts.
+
+(d) Assistance. The Study Committee shall have the administrative,
+technical, and legal assistance of the Department of Environmental
+Conservation.
+(e) Report. On or before January 15, 2027, the Study Committee shall
+submit a written report to the House Committees on Environment and on
+Government Operations and Military Affairs and the Senate Committees on
+Natural Resources and Energy and on Government Operations with its
+findings and any recommendations for legislative action.
+(f) Meetings.
+(1) The Commissioner of Environmental Conservation or designee shall
+call the first meeting of the Study Committee.
+(2) The Commissioner of Environmental Conservation or designee shall
+be the Chair.
+(3) A majority of the membership shall constitute a quorum.
+(4) The Study Committee shall cease to exist on March 1, 2027.
+(g) Compensation and reimbursement. Members of the Study Committee
+shall be entitled to per diem compensation and reimbursement of expenses as
+permitted under 32 V.S.A. § 1010 for not more than eight meetings. These
+payments shall be made from monies appropriated to the Agency of Natural
+Resources.
+Sec. 13. EFFECTIVE DATES
+This act shall take effect on July 1, 2025, except that Sec. 10 (future Clean
+Water Fund priorities) shall take effect October 1, 2032.
+
+[DELETED: eplofa.4natrgtosrmeSepstoteHetoadteblbysgotalaeegceadiginlutftef.1.10V.§4isadtor1.SRM*)P*)Inaewhteseedursn(ftss,apnslntdesrfmieofteormeasinsewtftoganitorceuraglptidurtssniftewsnrpypdorwspduranitorglptttddntietersofte2rMtMloraysyadStM.TeSyslpenetoalosoysttoteptrdurtss)E*)Noptisrdursn(,(,or()oftnadfrwhamyhsadflllryatofaptidtotemybyteS.Asudint,“lllr”msllcloftes,igallrttoastesrs,alldytymntesrs,adalldytorradresrsmwnitnolraypswsoft.Ngtepsof24V.§4totecnamyasorhsadflllryfrrs,temymyasmlslasonusoftesrsmpdttamyoftepssttoteslatfecdadtefeadisrattoteuroftectofteitinahtebsteurr*)Glp]
+[DELETED: *)Wn10dsarteanbyteSyofterdursn()oftss,teSyslieagturtssnfrdsofsrfmissfteormeasins,wntesrdepywtpdorwspduranilptorglptddntietersofte22SrMloraysyadSrMtM.Ueglp,teSys)EhasefrinofteglptbcaaofteS.Teseslehtedebywharofisseslayfrceurtss.TeseedbyteSyslreanorossesttopgurtssntooebytefgd)frisseldwnteLeC,teLeMgw,ortewdofdwronorbeOr1,232;a)frisseldwnalorwsoeS,nontlrtnOr1,2328orntlrtnfeyrabgscwdanhsbnerttw,wrosf)Ehcaadtls,shasbtp,frinofsrisfergofissesttopgurtn()Rettadeofsrfmissttotersoftssncywhtesson()oftssnfrrtoforrlofaptfgiss)Awteueofsritf,o,adpttgwntewdoftewrtowhtessorrso*.2.R;STOFPYTRTXCRS)27AsadRsN.8,S.I0(tofcnw,asadby24AsadRsN.1,isr]
+[DELETED: )27AsadRsN.8,S.I)(edeofsfcnwrs)isr.3.27AsadRsN.8,S.I)isadtor)Peadi)TepeofS.I2oftsatistopettaditofhgfrV)ItisteitofteGlA)toedtecnwrsetopeanimeofrefragwrqyisttteS;a)toceiswkonigalmfgseosttaestinseadtdindntoastrqyi;a)oeoeormelmfgssaeida,btntlrtnJy1,2,toreteatoftecrseto04p.4.27AsadRsN.8,S.I2isadtor.I.EED)S.I2slteetonJy1,2,etttS.IgcnwrseretoVtHganTtF)slteetonJy1,2.5.27AsadRsN.8,S.I)isadtor)Tocefrtsrnofaepytrt,itisteitofteGlAythtsattopefetrof$0toteVtHgadCnT,asf)S.D0oftsatas$0infly8fmteVtHgadCnTtFdtoteVgadCnB.Unteeedeoftsa0slrttoteF,rginaflyr28tntoteBdo.Inflyr28o,ttof$0fmteVtHgadCnTdslbetdtoteGlF)AspdinS.I9oftsa,fmJy1,27u,ptto32V.§9,teft$0inrdbytecnwrseof0202ptslbetoteVtHgadCnTtF.Inflyr2]
+[DELETED: ,teCrsltrteatof$0fmttHgadCnTtFdtoteGlF)ArJy1,2,ptto3.§9aasadi.I0oftsa,$0intlregdbytecrseof04ptslbetdtoteVtHdCnTtF.[)AspdinS.I1oftsa,tecnwrsewlbdiniseyonJy1,2.[.6.10V.§7ad98aeadtor9.DDLSINGTPeSyslaraDdLsInGmtopegsorfgflaetopswoadtoonapttoitryrsttaytoaewrqys.Tegtorfgploybeaeinbsweacnwrseprhsmsalgsorismgstp,asddbyt,tsteg.Tsgtpmslfdorpgfrpsrdtotepgofisseoftsormeursn1)oftsteadfraplursn1)oftstefradetodwrttwspduranilptorlptttddntietersofte2rMtMloraysyadStM.Ntmetn15ptoftetlgtadslbeudfraec9.MLSRINGeSyslaraMlSrItPmtopegsflaetoaymdursn14oftstetoonorskceurtlrsglp,temlsesmsrs,aptfrisseofteasorm,orapdbyteSytoreteaeistowrqyofeorsrr.Tegtpmsloybeaeisweacnwrseprhsmtisalgsorigstp,asddbyteS,tst.Ntmetn15ptoftetlgtatadslbdfraec.Tspmaoslbeaetoytocywhaptfrisseofteasoefrarlsnwntemyasorh]
+[DELETED: dflllryfrtesrsmofternursn1)oftst.Msmeaeurtspmfrdnoregsyfrtefnofamlsru.7.10V.§)isadtor)P.Inmgrsursn()oftnrgteaeanoffsfmteCnW,teBdslpeasf)Asaftp,mersrgfgfrtggsadp,whslehbegnelp)gstocnwrsepstofdtersadwhtei,v,o,admfcnwrpsinab)teWrQyRnFaGtursn9ftst)teAyofA,FdadM’alwyp;a)teWrQyEtGsursn96ofteatafgllofatlt20ptoftealbeofteCrF,pdtttemmatrdurtn()inayyrslnted$;a)fgtopsfrbnp,bnwrqlp,e,adohaspdins)oftst,pdfgslbeatlt$)Astentpyarrgfgrsfrpdursn()oftss)fgtopsorpsttasorrrrsttieterkoffgorpeatttoleorp)fgfrenadohrgteifwrqyr,igfgfre,o,adastotsfrteinofteAtPsfrMgWrQyonLgJsi,asadbyteCrofF,PsadR)fgfrteMlSrInGmaspdinsn98oftst,igatl0ayfrcsofcgwhpgrrsn1)oftst]
+[DELETED: )fgfrieoraetsorpdtoiewrqyorressofpntos,igfgfrientrltsadmedsttuem,w,adfstopee;a)fgtopealldinortotettltofpewnteSewrqyrsctberhalBtMtP)Astentpyarrgfgrsus()ad()oftss,fgfrteDdLnGtPmaspdinsn97oftst.7.10V.§aisadtor1.CNWRITR)BgonJy1,2,adayt,teSfAnslphteCnWrItR.Ttslseali,igtrcebyteCnWrBdadorSeasfrcnwnorteprfly.TeRtslieemteCnWrF,teGlF,teTnF,ayorSeesfrcnwrr,rsoff)TeRtsli*)BgonJy28adeyfryst,arftesyofteCnWrSetotePyTrTr32V.§,iganatofwrterdbytesersnytoflteSscnw.TerwslieanatofwrteCnWesdbec,wrteatoftesesdb,adwrtesesdberdatasdd*.8.RDA;P)Ngayorpnofl,teCnWrBlrd$0fmteCnWrFdinfly7toteMlSrInPmin10V8frcsofcgwhpgrsur10V,igfrrlsswntemsflllryfrtesrs]
+[DELETED: )BeJy1,2,teSyofNlRssepssttotetesrptur10V)alpypswnagfgurtlSrInPmadurteDsInPmwnrlhgudaspsaeldontertp.9.SRMTPCREG)OnorbeJy1,2,teSyofNlRsshaPcReGetoSrMtttissttosrogpsur10V.§4wnadrsrdtocgwhadpgfrpgr.TeReGeslbeuyadddtoeetepctoeewhteAyolRsinfgsstosrpgn)TeReGes)setesyrsfrsrp,wcesontetesrptrdur1.§,igwytepsaer)rda,p,cemsfrhssttosrptrscnasp,i)telkofahsantoaep)lkofaepytoitsrmgwradhwapnsttosrpsctanoeotpttocywhpgr)hwtoasormesrrffmorssegsrsssttop)rdrswefgfrcewrpgrsmybeadoradf,iwtoayfrflaefmteAyofNlR)peactatteAyofNlRsttcnassttosrpgbyagq,pstoceoraessfragptcdrgaeflr;a)peamlbworoefrtefnoflsru]
+[DELETED: )TeSyofNlRsslstacyofteRetoteSeCeonNlRsadEyadteCeonE.TeSyslaometsaefeofcttotepcfmteAsw.1.10V.§)isadtor)fgfrteMlSrInPspdinsn98oftst,igatlt$yfrcsofcgwhpgrsun1)oftst.1.24V.§6isadtor3.R;R)Amlc,thisbdmyehr,r,ostobepdastebdmyp.Tebdmyehassyfrbdr,fdosadmecdveosadmecsdtonf)Ter,r,orcsmybebdu)temdcnofwronpscdwhtrs,h,tebdmydenourwlbebdfdosadmecsadbdptlstntesyc)tenrofetuscdwhorsdbytesmbduntredfscdtoteesfmasyd,h,tebdmydenrwlbebdlstntemmceddfrtesydgcefrfdosadmecsadb*)frg,s,orsranetrtbdonanaeormnofteaaofisseolpywntem;o)aycnofteb,pdtecni*.1.SYCEONSRMDCNOFRLSRU]
+[DELETED: )C.TeiscdteSyCeonteCnolSrUyDstorwtefyadbtogrlsruydstofeinaewhtewrqylsofteS)M.TeSyCeslbecdoftgm)teCrofElCnord)areofteVtLeofCsadTdbyteSrofteH)areofamysttotemlsmsrsm()p,adbyteCeo)areofamywhapnur2,adbyteSrofteH)areofteGnMnWrE,adbyteSrofteH)aclorilbsorsttotetrptororsrr,adbyteonC)areofanelayodbyteSrofteH)areofarlpgc,adbyteonC;a)areofamywhadddnadbywradsriettisntsttoaM4pdbyteSrofteH)Psadd.TeSyCeslrwtefyogrlsruydsinteS.TeSes)rwctsyayfrtedtofrruydscdofmem,igaypldsorostouyf)peanahteSecduefrigarruyttwdawteustoaelyayfrcewhwrqyl,ighwaudaeryf]
+[DELETED: )sgtepgofpssttotetrp;a)agtepsrntsfrtetrpdpswnteuyd)rwadrdceadeeasflllrergaddnofptfgfrteofsrcstomttlmmdyldp)i)crprrgrsmeint7CnWrRtfmteOeofteSeT)rdwradhwtoaearlsytoasfsorcstoall,r,adbnterlsruydtfrtepeofsstomtT)pehwarlsruydtcdbefrCnWrSeRgLnFdasadasSlflaefrted,c,adonaeofryadnysrs,imteCnWrSeRgLnF)rdwradhwarlsruycersadcyadeyaepnmsttaentfyadbyrds,asmtbdinarlsrmtp;a)rdwradhwarlsruycetemtofpdisinameceaem,shashwarluycdasrnorsslgah’anororayorhwarluycdiemtofusttdniosrsssttop)rdwrsrpgfrmsoscdbesdtoieteanp,p,orfer)pehwsesdbeadtoitayoftsofteSyC,igsrmgfrpsofolrlpsptr;a)eeacttooepdrlsru]
+[DELETED: )A.TeSyCeslhetea,adllaeofteDtofE)R.OnorbeJy1,2,teSyCestawnrttoteHeCsonEtadotOsadMyAsadteSeCsolRsadEyadonGtOswhisadayrsfrlea)M)TeCrofElCnordeslteftmgofteSyC)TeCrofElCnordeseteC)Amyoftempslceaq)TeSyCeslcetoetonMh1,2)Cnadr.MsofteSyClbeedtoprdmcnadrtofesadur3.§0frntmetnetm.TsslbemefmmsadtoteAyofN.1.EEDsatslteetonJy1,2,etttS.10(eCrFdp)slteetOr1,2]
