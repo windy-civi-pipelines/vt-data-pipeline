@@ -1,0 +1,782 @@
+Title: BILL AS INTRODUCED H.75
+Official Title: BILL AS INTRODUCED H.75
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 16
+1 H.75
+2 Introduced by Representative Cordes of Bristol
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health care professionals; patient choice at end of life;
+6 DNR/COLST orders
+7 Statement of purpose of bill as introduced: This bill proposes to authorize
+8 naturopathic physicians, nurse practitioners, and physician assistants to
+9 participate in the process established in Vermont’s patient choice at end-of-life
+10 laws. It would also allow naturopathic physicians to sign and issue do-not-
+11 resuscitate (DNR) orders and clinician orders for life-sustaining treatment
+12 (COLST).
+13 An act relating to clinician participation in patient choice at end of life and
+14 DNR/COLST orders
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 18 V.S.A. chapter 113 is amended to read:
+17 CHAPTER 113. PATIENT CHOICE AT END OF LIFE
+18 § 5281. DEFINITIONS
+19 As used in this chapter:
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 2 of 16
+1 (1) “Bona fide physician-patient clinician-patient relationship” means a
+2 treating or consulting relationship in the course of which a physician clinician
+3 has completed a full assessment of the patient’s medical history and current
+4 medical condition, including a personal physical examination.
+5 (2) “Capable” means that a patient has the ability to make and
+6 communicate health care decisions to a physician clinician, including
+7 communication through persons familiar with the patient’s manner of
+8 communicating if those persons are available.
+9 (3) “Health care facility” shall have has the same meaning as in section
+10 9432 of this title.
+11 (4) “Health care provider” means a person, partnership, corporation,
+12 facility, or institution licensed or certified or authorized by law to administer
+13 health care or dispense medication in the ordinary course of business or
+14 practice of a profession.
+15 (5) “Impaired judgment” means that a person does not sufficiently
+16 understand or appreciate the relevant facts necessary to make an informed
+17 decision.
+18 (6) “Interested person” means:
+19 (A) the patient’s physician clinician;
+20 (B) a person who knows that he or she is a relative of the patient is
+21 related to that person by blood, civil marriage, civil union, or adoption;
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 3 of 16
+1 (C) a person who knows that he or she would be entitled, upon the
+2 patient’s death, that person would be entitled to any portion of the estate or
+3 assets of the patient under any will or trust, by operation of law, or by contract;
+4 or
+5 (D) an owner, operator, or employee of a health care facility, nursing
+6 home, or residential care facility where the patient is receiving medical
+7 treatment or is a resident.
+8 (7) “Palliative care” shall have has the same definition as in section 2 of
+9 this title.
+10 (8) “Patient” means a person who is 18 years of age or older and under
+11 the care of a physician clinician.
+12 (9) “Physician” “Clinician” means an individual who is licensed:
+13 (A) to practice medicine under 26 V.S.A. chapter 23 or 33;
+14 (B) as an advanced practice registered nurse under 26 V.S.A. chapter
+15 28 to practice as a certified nurse practitioner;
+16 (C) as a physician assistant under 26 V.S.A. chapter 31; or
+17 (D) as a naturopathic physician under 26 V.S.A. chapter 81.
+18 (10) “Terminal condition” means an incurable and irreversible disease
+19 which that would, within reasonable medical judgment, result in death within
+20 six months.
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 4 of 16
+1 (11) “Health care services” means services for the diagnosis, prevention,
+2 treatment, cure, or relief of a health condition, illness, injury, or disease.
+3 (12) “Telemedicine” means the delivery of health care services such as
+4 diagnosis, consultation, or treatment through the use of live interactive audio
+5 and video over a secure connection that complies with the requirements of the
+6 Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-
+7 191.
+8 § 5282. RIGHT TO INFORMATION
+9 The rights of a patient under section 1871 of this title to be informed of all
+10 available options related to terminal care and under 12 V.S.A. § 1909(d) to
+11 receive answers to any specific question about the foreseeable risks and
+12 benefits of medication without the physician’s clinician withholding any
+13 requested information exist regardless of the purpose of the inquiry or the
+14 nature of the information. A physician clinician who engages in discussions
+15 with a patient related to such risks and benefits in the circumstances described
+16 in this chapter shall not be construed to be assisting in or contributing to a
+17 patient’s independent decision to self-administer a lethal dose of medication,
+18 and such discussions shall not be used to establish civil or criminal liability or
+19 professional disciplinary action.
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 5 of 16
+1 § 5283. REQUIREMENTS FOR PRESCRIPTION AND
+2 DOCUMENTATION; IMMUNITY
+3 (a) A physician clinician shall not be subject to any civil or criminal
+4 liability or professional disciplinary action if the physician clinician prescribes
+5 to a patient with a terminal condition medication to be self-administered for the
+6 purpose of hastening the patient’s death and the physician clinician affirms by
+7 documenting in the patient’s medical record that all of the following occurred:
+8 (1) The patient made an oral request to the physician clinician in the
+9 physician’s clinician’s physical presence or by telemedicine, if the physician
+10 clinician determines the use of telemedicine to be clinically appropriate, for
+11 medication to be self-administered for the purpose of hastening the patient’s
+12 death.
+13 (2) Not fewer than 15 days after the first oral request, the patient made a
+14 second oral request to the physician clinician in the physician’s clinician’s
+15 physical presence or by telemedicine, if the physician clinician determines the
+16 use of telemedicine to be clinically appropriate, for medication to be self-
+17 administered for the purpose of hastening the patient’s death.
+18 (3) At the time of the second oral request, the physician clinician offered
+19 the patient an opportunity to rescind the request.
+20 (4) The patient made a written request for medication to be self-
+21 administered for the purpose of hastening the patient’s death that was signed
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 6 of 16
+1 by the patient in the presence of two or more witnesses who were not
+2 interested persons, who were at least 18 years of age, and who signed and
+3 affirmed that the patient appeared to understand the nature of the document
+4 and to be free from duress or undue influence at the time the request was
+5 signed.
+6 (5) The physician clinician determined that the patient:
+7 (A) was suffering a terminal condition, based on the physician’s
+8 clinician’s review of the patient’s relevant medical records and a physician’s
+9 clinician’s physical examination of the patient;
+10 (B) was capable;
+11 (C) was making an informed decision; and
+12 (D) had made a voluntary request for medication to hasten the
+13 patient’s own death.
+14 (6) The physician clinician informed the patient in person or by
+15 telemedicine, both verbally and in writing, of all the following:
+16 (A) the patient’s medical diagnosis;
+17 (B) the patient’s prognosis, including an acknowledgement that the
+18 physician’s clinician’s prediction of the patient’s life expectancy was an
+19 estimate based on the physician’s clinician’s best medical judgment and was
+20 not a guarantee of the actual time remaining in the patient’s life, and that the
+21 patient could live longer than the time predicted;
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 7 of 16
+1 (C) the range of treatment options appropriate for the patient and the
+2 patient’s diagnosis;
+3 (D) if the patient was not enrolled in hospice care, all feasible end-of-
+4 life services, including palliative care, comfort care, hospice care, and pain
+5 control;
+6 (E) the range of possible results, including potential risks associated
+7 with taking the medication to be prescribed; and
+8 (F) the probable result of taking the medication to be prescribed.
+9 (7) The physician clinician referred the patient to a second physician
+10 clinician for medical confirmation of the diagnosis, prognosis, and a
+11 determination that the patient was capable, was acting voluntarily, and had
+12 made an informed decision.
+13 (8) The physician clinician either verified that the patient did not have
+14 impaired judgment or referred the patient for an evaluation by a psychiatrist,
+15 psychologist, or clinical social worker licensed in Vermont for confirmation
+16 that the patient was capable and did not have impaired judgment.
+17 (9) If applicable, the physician clinician consulted with the patient’s
+18 primary care physician clinician with the patient’s consent.
+19 (10) The physician clinician informed the patient that the patient may
+20 rescind the request at any time and in any manner and offered the patient an
+21 opportunity to rescind after the patient’s second oral request.
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 8 of 16
+1 (11) The physician clinician ensured that all required steps were carried
+2 out in accordance with this section and confirmed, immediately prior to writing
+3 the prescription for medication, that the patient was making an informed
+4 decision.
+5 (12) The physician clinician wrote the prescription after the last to occur
+6 of the following events:
+7 (A) the patient’s written request for medication to hasten the patient’s
+8 own death;
+9 (B) the patient’s second oral request; and
+10 (C) the physician’s clinician’s offering the patient an opportunity to
+11 rescind the request.
+12 (13) The physician clinician either:
+13 (A) dispensed the medication directly, provided that at the time the
+14 physician clinician dispensed the medication, the physician clinician was
+15 licensed to dispense medication in Vermont, had a current Drug Enforcement
+16 Administration certificate, and complied with any applicable administrative
+17 rules; or
+18 (B) with the patient’s written consent:
+19 (i) contacted a pharmacist and informed the pharmacist of the
+20 prescription; and
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 9 of 16
+1 (ii) delivered the written prescription personally or by mail or
+2 facsimile to the pharmacist, who dispensed the medication to the patient, the
+3 physician clinician, or an expressly identified agent of the patient.
+4 (14) The physician clinician recorded and filed the following in the
+5 patient’s medical record:
+6 (A) the date, time, and wording of all oral requests of the patient for
+7 medication to hasten the patient’s own death;
+8 (B) all written requests by the patient for medication to hasten the
+9 patient’s own death;
+10 (C) the physician’s clinician’s diagnosis, prognosis, and basis for the
+11 determination that the patient was capable, was acting voluntarily, and had
+12 made an informed decision;
+13 (D) the second physician’s clinician’s diagnosis, prognosis, and
+14 verification that the patient was capable, was acting voluntarily, and had made
+15 an informed decision;
+16 (E) the physician’s clinician’s attestation that the patient was enrolled
+17 in hospice care at the time of the patient’s oral and written requests for
+18 medication to hasten the patient’s own death or that the physician clinician
+19 informed the patient of all feasible end-of-life services;
+20 (F) the physician’s clinician’s verification that the patient either did
+21 not have impaired judgment or that the physician clinician referred the patient
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 10 of 16
+1 for an evaluation and the person conducting the evaluation has determined that
+2 the patient did not have impaired judgment;
+3 (G) a report of the outcome and determinations made during any
+4 evaluation which that the patient may have received;
+5 (H) the date, time, and wording of the physician’s clinician’s offer to
+6 the patient to rescind the request for medication at the time of the patient’s
+7 second oral request; and
+8 (I) a note by the physician clinician indicating that all requirements
+9 under this section were satisfied and describing all of the steps taken to carry
+10 out the request, including a notation of the medication prescribed.
+11 (15) After writing the prescription, the physician clinician promptly
+12 filed a report with the Department of Health documenting completion of all of
+13 the requirements under this section.
+14 (b) This section shall not be construed to limit civil or criminal liability for
+15 gross negligence, recklessness, or intentional misconduct.
+16 * * *
+17 § 5285. LIMITATIONS ON ACTIONS
+18 (a) A physician clinician, nurse, pharmacist, or other person shall not be
+19 under any duty, by law or contract, to participate in the provision of a lethal
+20 dose of medication to a patient.
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 11 of 16
+1 (b) A health care facility or health care provider shall not subject a
+2 physician clinician, nurse, pharmacist, or other person to discipline,
+3 suspension, loss of license, loss of privileges, or other penalty for actions taken
+4 in good faith reliance on the provisions of this chapter or refusals to act under
+5 this chapter.
+6 (c) No physician clinician, nurse, pharmacist, or other person licensed,
+7 certified, or otherwise authorized by law to deliver health care services in this
+8 State shall be subject to civil or criminal liability or professional disciplinary
+9 action for acting in good faith compliance with the provisions of this chapter.
+10 (d) Except as otherwise provided in this section and sections 5283, 5289,
+11 and 5290 of this title, nothing in this chapter shall be construed to limit liability
+12 for civil damages resulting from negligent conduct or intentional misconduct
+13 by any person.
+14 § 5286. HEALTH CARE FACILITY EXCEPTION
+15 A health care facility may prohibit a physician clinician from writing a
+16 prescription for a dose of medication intended to be lethal for a patient who is a
+17 resident in its facility and intends to use the medication on the facility’s
+18 premises, provided the facility has notified the physician clinician in writing of
+19 its policy with regard to the prescriptions. Notwithstanding subsection 5285(b)
+20 of this title, any physician clinician who violates a policy established by a
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 12 of 16
+1 health care facility under this section may be subject to sanctions otherwise
+2 allowable under law or contract.
+3 § 5287. INSURANCE POLICIES; PROHIBITIONS
+4 (a) A person and his or her the person’s beneficiaries shall not be denied
+5 benefits under a life insurance policy, as defined in 8 V.S.A. § 3301, for
+6 actions taken in accordance with this chapter.
+7 (b) The sale, procurement, or issue of any medical professional malpractice
+8 insurance policy or the rate charged for the policy shall not be conditioned
+9 upon or affected by whether the physician clinician is willing or unwilling to
+10 participate in the provisions of this chapter.
+11 * * *
+12 § 5292. STATUTORY CONSTRUCTION
+13 Nothing in this chapter shall be construed to authorize a physician clinician
+14 or any other person to end a patient’s life by lethal injection, mercy killing, or
+15 active euthanasia. Action taken in accordance with this chapter shall not be
+16 construed for any purpose to constitute suicide, assisted suicide, mercy killing,
+17 or homicide under the law. This section shall not be construed to conflict with
+18 section 1553 of the Patient Protection and Affordable Care Act, Pub. L. No.
+19 111-148, as amended by the Health Care and Education Reconciliation Act of
+20 2010, Pub. L. No. 111-152.
+21 * * *
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 13 of 16
+1 Sec. 2. 18 V.S.A. § 9708 is amended to read:
+2 § 9708. AUTHORITY AND OBLIGATIONS OF HEALTH CARE
+3 PROVIDERS, HEALTH CARE FACILITIES, AND RESIDENTIAL
+4 CARE FACILITIES REGARDING DNR ORDERS AND COLST
+5 (a) As used in this section, “clinician” shall have has the same meaning as
+6 in section 9701 of this title and shall also include a naturopathic physician
+7 licensed pursuant to 26 V.S.A. chapter 81 and to a duly licensed medical
+8 doctor, osteopathic physician, advanced practice registered nurse or nurse
+9 practitioner, naturopathic physician, or physician assistant who treated the
+10 patient outside Vermont and held a valid license to practice in the state in
+11 which the patient was located at the time the DNR/COLST was issued.
+12 (b) A DNR order and a COLST shall be issued on the Department of
+13 Health’s “Vermont DNR/COLST form” as designated by rule by the
+14 Department of Health.
+15 (c) Notwithstanding subsection (b) of this section, health care facilities and
+16 residential care facilities may document DNR/COLST orders in the patient’s
+17 medical record in a facility-specific manner when the patient is in their care.
+18 (d) A DNR order must:
+19 (1) be signed by the patient’s clinician;
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 14 of 16
+1 (2) certify that the clinician has consulted, or made an effort to consult,
+2 with the patient, and the patient’s agent or guardian, if there is an appointed
+3 agent or guardian;
+4 (3) include either:
+5 (A) the name of the patient; agent; guardian, in accordance with
+6 14 V.S.A. § 3075(g); or surrogate giving informed consent for the DNR and
+7 the individual’s relationship to the patient; or
+8 (B) certification that the patient’s clinician and one other named
+9 clinician have determined that resuscitation would not prevent the imminent
+10 death of the patient, should the patient experience cardiopulmonary arrest; and
+11 (4) if the patient is in a health care facility or a residential care facility,
+12 certify that the requirements of the facility’s DNR protocol required by section
+13 9709 of this title have been met.
+14 (e) A COLST must:
+15 (1) be signed by the patient’s clinician; and
+16 (2) include the name of the patient; agent; guardian, in accordance with
+17 14 V.S.A. § 3075(g); or surrogate giving informed consent for the COLST and
+18 the individual’s relationship to the patient.
+19 (f) [Repealed.]
+20 (g) A patient’s clinician issuing a DNR/COLST order shall:
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 15 of 16
+1 (1) place a copy of the completed DNR/COLST order in the patient’s
+2 medical record; and
+3 (2) provide instructions to the patient as to the appropriate means of
+4 displaying the DNR/COLST order.
+5 (h) A clinician who issues a DNR order shall authorize issuance of a DNR
+6 identification to the patient. Uniform minimum requirements for DNR
+7 identification shall be determined by the Department of Health by rule not later
+8 than January 1, 2016.
+9 (i) Every health care provider, health care facility, and residential care
+10 facility shall honor a DNR/COLST order or a DNR identification unless the
+11 provider or facility:
+12 (1) believes in good faith, after consultation with the agent or guardian
+13 where possible and appropriate, that:
+14 (A) the patient wishes to have the DNR/COLST order revoked; or
+15 (B) the patient with the DNR identification is not the individual for
+16 whom the DNR order was issued; and
+17 (2) documents the basis for the good faith belief in the patient’s medical
+18 record.
+19 (j) A DNR/COLST order executed prior to July 1, 2011 shall be a valid
+20 order if the document complies with the statutory requirements in effect at the
+21 time the document was executed or with the provisions of this chapter.
+VT LEG #379402 v.1
+BILL AS INTRODUCED H.75
+2025 Page 16 of 16
+1 (k) A health care provider shall honor in good faith an out-of-state DNR
+2 order, orders for life sustaining treatment, or out-of-state DNR identification if
+3 there is no reason to believe that what has been presented is invalid.
+4 (l) A DNR order precludes efforts to resuscitate only in the event of
+5 cardiopulmonary arrest and does not affect other therapeutic interventions that
+6 may be appropriate for the patient.
+7 Sec. 3. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #379402 v.1
+[DELETED:  H P H I R R D S D S n p l r ( A D I S C § A]
+[DELETED:  H P ( t h m ( c c c ( 9 ( f h p ( u d ( ( ( r]
+[DELETED:  H P ( p a o ( h t ( t ( t ( ( ( 2 ( ( ( w s]
+[DELETED:  H P ( t ( d a H 1 § T a r b r n w i p a p]
+[DELETED:  H P §   ( l t p d ( p c m d ( s p u a ( t ( a]
+[DELETED:  H P b i a a s ( ( c c ( ( ( p ( t ( ( p e n p]
+[DELETED:  H P ( p ( l c ( w ( ( c d m ( i p t ( p ( r o]
+[DELETED:  H P ( o t d ( o ( o ( ( r ( ( p l A r ( ( p]
+[DELETED:  H P ( f p ( p ( m ( p ( d m ( v a ( i m i ( n]
+[DELETED:  H P f t ( e ( t s ( u o ( f t ( g * § ( u d]
+[DELETED:  H P ( p s i t ( c S a ( a f b § A p r p i o]
+[DELETED:  H P h a § ( b a ( i u p * § N o a c o s 1 2 *]
+[DELETED:  H P S §     ( i l d p p w ( H D ( r m ( (]
+[DELETED:  H P ( w a ( ( 1 t ( c d ( c 9 ( ( ( 1 t ( (]
+[DELETED:  H P ( m ( d ( i i t ( f p ( w ( ( w ( r ( o t]
+[DELETED:  H P ( o t ( c m S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.75
+2025 Page 1 of 16
+1 H.75
+2 Introduced by Representative Cordes of Bristol
+3 Referred to Committee on
+4 Date:
+5 Subject: Health; health care professionals; patient choice at end of life;
+6 DNR/COLST orders
+7 Statement of purpose of bill as introduced: This bill proposes to authorize
+8 naturopathic physicians, nurse practitioners, and physician assistants to
+9 participate in the process established in Vermont’s patient choice at end-of-life
+10 laws. It would also allow naturopathic physicians to sign and issue do-not-
+11 resuscitate (DNR) orders and clinician orders for life-sustaining treatment
+12 (COLST).
+13 An act relating to clinician participation in patient choice at end of life and
+14 DNR/COLST orders
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 18 V.S.A. chapter 113 is amended to read:
+17 CHAPTER 113. PATIENT CHOICE AT END OF LIFE
+18 § 5281. DEFINITIONS
+19 As used in this chapter:
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 2 of 16
+1 (1) “Bona fide physician-patient clinician-patient relationship” means a
+2 treating or consulting relationship in the course of which a physician clinician
+3 has completed a full assessment of the patient’s medical history and current
+4 medical condition, including a personal physical examination.
+5 (2) “Capable” means that a patient has the ability to make and
+6 communicate health care decisions to a physician clinician, including
+7 communication through persons familiar with the patient’s manner of
+8 communicating if those persons are available.
+9 (3) “Health care facility” shall have has the same meaning as in section
+10 9432 of this title.
+11 (4) “Health care provider” means a person, partnership, corporation,
+12 facility, or institution licensed or certified or authorized by law to administer
+13 health care or dispense medication in the ordinary course of business or
+14 practice of a profession.
+15 (5) “Impaired judgment” means that a person does not sufficiently
+16 understand or appreciate the relevant facts necessary to make an informed
+17 decision.
+18 (6) “Interested person” means:
+19 (A) the patient’s physician clinician;
+20 (B) a person who knows that he or she is a relative of the patient is
+21 related to that person by blood, civil marriage, civil union, or adoption;
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 3 of 16
+1 (C) a person who knows that he or she would be entitled, upon the
+2 patient’s death, that person would be entitled to any portion of the estate or
+3 assets of the patient under any will or trust, by operation of law, or by contract;
+4 or
+5 (D) an owner, operator, or employee of a health care facility, nursing
+6 home, or residential care facility where the patient is receiving medical
+7 treatment or is a resident.
+8 (7) “Palliative care” shall have has the same definition as in section 2 of
+9 this title.
+10 (8) “Patient” means a person who is 18 years of age or older and under
+11 the care of a physician clinician.
+12 (9) “Physician” “Clinician” means an individual who is licensed:
+13 (A) to practice medicine under 26 V.S.A. chapter 23 or 33;
+14 (B) as an advanced practice registered nurse under 26 V.S.A. chapter
+15 28 to practice as a certified nurse practitioner;
+16 (C) as a physician assistant under 26 V.S.A. chapter 31; or
+17 (D) as a naturopathic physician under 26 V.S.A. chapter 81.
+18 (10) “Terminal condition” means an incurable and irreversible disease
+19 which that would, within reasonable medical judgment, result in death within
+20 six months.
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 4 of 16
+1 (11) “Health care services” means services for the diagnosis, prevention,
+2 treatment, cure, or relief of a health condition, illness, injury, or disease.
+3 (12) “Telemedicine” means the delivery of health care services such as
+4 diagnosis, consultation, or treatment through the use of live interactive audio
+5 and video over a secure connection that complies with the requirements of the
+6 Health Insurance Portability and Accountability Act of 1996, Pub. L. No. 104-
+7 191.
+8 § 5282. RIGHT TO INFORMATION
+9 The rights of a patient under section 1871 of this title to be informed of all
+10 available options related to terminal care and under 12 V.S.A. § 1909(d) to
+11 receive answers to any specific question about the foreseeable risks and
+12 benefits of medication without the physician’s clinician withholding any
+13 requested information exist regardless of the purpose of the inquiry or the
+14 nature of the information. A physician clinician who engages in discussions
+15 with a patient related to such risks and benefits in the circumstances described
+16 in this chapter shall not be construed to be assisting in or contributing to a
+17 patient’s independent decision to self-administer a lethal dose of medication,
+18 and such discussions shall not be used to establish civil or criminal liability or
+19 professional disciplinary action.
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 5 of 16
+1 § 5283. REQUIREMENTS FOR PRESCRIPTION AND
+2 DOCUMENTATION; IMMUNITY
+3 (a) A physician clinician shall not be subject to any civil or criminal
+4 liability or professional disciplinary action if the physician clinician prescribes
+5 to a patient with a terminal condition medication to be self-administered for the
+6 purpose of hastening the patient’s death and the physician clinician affirms by
+7 documenting in the patient’s medical record that all of the following occurred:
+8 (1) The patient made an oral request to the physician clinician in the
+9 physician’s clinician’s physical presence or by telemedicine, if the physician
+10 clinician determines the use of telemedicine to be clinically appropriate, for
+11 medication to be self-administered for the purpose of hastening the patient’s
+12 death.
+13 (2) Not fewer than 15 days after the first oral request, the patient made a
+14 second oral request to the physician clinician in the physician’s clinician’s
+15 physical presence or by telemedicine, if the physician clinician determines the
+16 use of telemedicine to be clinically appropriate, for medication to be self-
+17 administered for the purpose of hastening the patient’s death.
+18 (3) At the time of the second oral request, the physician clinician offered
+19 the patient an opportunity to rescind the request.
+20 (4) The patient made a written request for medication to be self-
+21 administered for the purpose of hastening the patient’s death that was signed
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 6 of 16
+1 by the patient in the presence of two or more witnesses who were not
+2 interested persons, who were at least 18 years of age, and who signed and
+3 affirmed that the patient appeared to understand the nature of the document
+4 and to be free from duress or undue influence at the time the request was
+5 signed.
+6 (5) The physician clinician determined that the patient:
+7 (A) was suffering a terminal condition, based on the physician’s
+8 clinician’s review of the patient’s relevant medical records and a physician’s
+9 clinician’s physical examination of the patient;
+10 (B) was capable;
+11 (C) was making an informed decision; and
+12 (D) had made a voluntary request for medication to hasten the
+13 patient’s own death.
+14 (6) The physician clinician informed the patient in person or by
+15 telemedicine, both verbally and in writing, of all the following:
+16 (A) the patient’s medical diagnosis;
+17 (B) the patient’s prognosis, including an acknowledgement that the
+18 physician’s clinician’s prediction of the patient’s life expectancy was an
+19 estimate based on the physician’s clinician’s best medical judgment and was
+20 not a guarantee of the actual time remaining in the patient’s life, and that the
+21 patient could live longer than the time predicted;
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 7 of 16
+1 (C) the range of treatment options appropriate for the patient and the
+2 patient’s diagnosis;
+3 (D) if the patient was not enrolled in hospice care, all feasible end-of-
+4 life services, including palliative care, comfort care, hospice care, and pain
+5 control;
+6 (E) the range of possible results, including potential risks associated
+7 with taking the medication to be prescribed; and
+8 (F) the probable result of taking the medication to be prescribed.
+9 (7) The physician clinician referred the patient to a second physician
+10 clinician for medical confirmation of the diagnosis, prognosis, and a
+11 determination that the patient was capable, was acting voluntarily, and had
+12 made an informed decision.
+13 (8) The physician clinician either verified that the patient did not have
+14 impaired judgment or referred the patient for an evaluation by a psychiatrist,
+15 psychologist, or clinical social worker licensed in Vermont for confirmation
+16 that the patient was capable and did not have impaired judgment.
+17 (9) If applicable, the physician clinician consulted with the patient’s
+18 primary care physician clinician with the patient’s consent.
+19 (10) The physician clinician informed the patient that the patient may
+20 rescind the request at any time and in any manner and offered the patient an
+21 opportunity to rescind after the patient’s second oral request.
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 8 of 16
+1 (11) The physician clinician ensured that all required steps were carried
+2 out in accordance with this section and confirmed, immediately prior to writing
+3 the prescription for medication, that the patient was making an informed
+4 decision.
+5 (12) The physician clinician wrote the prescription after the last to occur
+6 of the following events:
+7 (A) the patient’s written request for medication to hasten the patient’s
+8 own death;
+9 (B) the patient’s second oral request; and
+10 (C) the physician’s clinician’s offering the patient an opportunity to
+11 rescind the request.
+12 (13) The physician clinician either:
+13 (A) dispensed the medication directly, provided that at the time the
+14 physician clinician dispensed the medication, the physician clinician was
+15 licensed to dispense medication in Vermont, had a current Drug Enforcement
+16 Administration certificate, and complied with any applicable administrative
+17 rules; or
+18 (B) with the patient’s written consent:
+19 (i) contacted a pharmacist and informed the pharmacist of the
+20 prescription; and
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 9 of 16
+1 (ii) delivered the written prescription personally or by mail or
+2 facsimile to the pharmacist, who dispensed the medication to the patient, the
+3 physician clinician, or an expressly identified agent of the patient.
+4 (14) The physician clinician recorded and filed the following in the
+5 patient’s medical record:
+6 (A) the date, time, and wording of all oral requests of the patient for
+7 medication to hasten the patient’s own death;
+8 (B) all written requests by the patient for medication to hasten the
+9 patient’s own death;
+10 (C) the physician’s clinician’s diagnosis, prognosis, and basis for the
+11 determination that the patient was capable, was acting voluntarily, and had
+12 made an informed decision;
+13 (D) the second physician’s clinician’s diagnosis, prognosis, and
+14 verification that the patient was capable, was acting voluntarily, and had made
+15 an informed decision;
+16 (E) the physician’s clinician’s attestation that the patient was enrolled
+17 in hospice care at the time of the patient’s oral and written requests for
+18 medication to hasten the patient’s own death or that the physician clinician
+19 informed the patient of all feasible end-of-life services;
+20 (F) the physician’s clinician’s verification that the patient either did
+21 not have impaired judgment or that the physician clinician referred the patient
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 10 of 16
+1 for an evaluation and the person conducting the evaluation has determined that
+2 the patient did not have impaired judgment;
+3 (G) a report of the outcome and determinations made during any
+4 evaluation which that the patient may have received;
+5 (H) the date, time, and wording of the physician’s clinician’s offer to
+6 the patient to rescind the request for medication at the time of the patient’s
+7 second oral request; and
+8 (I) a note by the physician clinician indicating that all requirements
+9 under this section were satisfied and describing all of the steps taken to carry
+10 out the request, including a notation of the medication prescribed.
+11 (15) After writing the prescription, the physician clinician promptly
+12 filed a report with the Department of Health documenting completion of all of
+13 the requirements under this section.
+14 (b) This section shall not be construed to limit civil or criminal liability for
+15 gross negligence, recklessness, or intentional misconduct.
+16 * * *
+17 § 5285. LIMITATIONS ON ACTIONS
+18 (a) A physician clinician, nurse, pharmacist, or other person shall not be
+19 under any duty, by law or contract, to participate in the provision of a lethal
+20 dose of medication to a patient.
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 11 of 16
+1 (b) A health care facility or health care provider shall not subject a
+2 physician clinician, nurse, pharmacist, or other person to discipline,
+3 suspension, loss of license, loss of privileges, or other penalty for actions taken
+4 in good faith reliance on the provisions of this chapter or refusals to act under
+5 this chapter.
+6 (c) No physician clinician, nurse, pharmacist, or other person licensed,
+7 certified, or otherwise authorized by law to deliver health care services in this
+8 State shall be subject to civil or criminal liability or professional disciplinary
+9 action for acting in good faith compliance with the provisions of this chapter.
+10 (d) Except as otherwise provided in this section and sections 5283, 5289,
+11 and 5290 of this title, nothing in this chapter shall be construed to limit liability
+12 for civil damages resulting from negligent conduct or intentional misconduct
+13 by any person.
+14 § 5286. HEALTH CARE FACILITY EXCEPTION
+15 A health care facility may prohibit a physician clinician from writing a
+16 prescription for a dose of medication intended to be lethal for a patient who is a
+17 resident in its facility and intends to use the medication on the facility’s
+18 premises, provided the facility has notified the physician clinician in writing of
+19 its policy with regard to the prescriptions. Notwithstanding subsection 5285(b)
+20 of this title, any physician clinician who violates a policy established by a
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 12 of 16
+1 health care facility under this section may be subject to sanctions otherwise
+2 allowable under law or contract.
+3 § 5287. INSURANCE POLICIES; PROHIBITIONS
+4 (a) A person and his or her the person’s beneficiaries shall not be denied
+5 benefits under a life insurance policy, as defined in 8 V.S.A. § 3301, for
+6 actions taken in accordance with this chapter.
+7 (b) The sale, procurement, or issue of any medical professional malpractice
+8 insurance policy or the rate charged for the policy shall not be conditioned
+9 upon or affected by whether the physician clinician is willing or unwilling to
+10 participate in the provisions of this chapter.
+11 * * *
+12 § 5292. STATUTORY CONSTRUCTION
+13 Nothing in this chapter shall be construed to authorize a physician clinician
+14 or any other person to end a patient’s life by lethal injection, mercy killing, or
+15 active euthanasia. Action taken in accordance with this chapter shall not be
+16 construed for any purpose to constitute suicide, assisted suicide, mercy killing,
+17 or homicide under the law. This section shall not be construed to conflict with
+18 section 1553 of the Patient Protection and Affordable Care Act, Pub. L. No.
+19 111-148, as amended by the Health Care and Education Reconciliation Act of
+20 2010, Pub. L. No. 111-152.
+21 * * *
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 13 of 16
+1 Sec. 2. 18 V.S.A. § 9708 is amended to read:
+2 § 9708. AUTHORITY AND OBLIGATIONS OF HEALTH CARE
+3 PROVIDERS, HEALTH CARE FACILITIES, AND RESIDENTIAL
+4 CARE FACILITIES REGARDING DNR ORDERS AND COLST
+5 (a) As used in this section, “clinician” shall have has the same meaning as
+6 in section 9701 of this title and shall also include a naturopathic physician
+7 licensed pursuant to 26 V.S.A. chapter 81 and to a duly licensed medical
+8 doctor, osteopathic physician, advanced practice registered nurse or nurse
+9 practitioner, naturopathic physician, or physician assistant who treated the
+10 patient outside Vermont and held a valid license to practice in the state in
+11 which the patient was located at the time the DNR/COLST was issued.
+12 (b) A DNR order and a COLST shall be issued on the Department of
+13 Health’s “Vermont DNR/COLST form” as designated by rule by the
+14 Department of Health.
+15 (c) Notwithstanding subsection (b) of this section, health care facilities and
+16 residential care facilities may document DNR/COLST orders in the patient’s
+17 medical record in a facility-specific manner when the patient is in their care.
+18 (d) A DNR order must:
+19 (1) be signed by the patient’s clinician;
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 14 of 16
+1 (2) certify that the clinician has consulted, or made an effort to consult,
+2 with the patient, and the patient’s agent or guardian, if there is an appointed
+3 agent or guardian;
+4 (3) include either:
+5 (A) the name of the patient; agent; guardian, in accordance with
+6 14 V.S.A. § 3075(g); or surrogate giving informed consent for the DNR and
+7 the individual’s relationship to the patient; or
+8 (B) certification that the patient’s clinician and one other named
+9 clinician have determined that resuscitation would not prevent the imminent
+10 death of the patient, should the patient experience cardiopulmonary arrest; and
+11 (4) if the patient is in a health care facility or a residential care facility,
+12 certify that the requirements of the facility’s DNR protocol required by section
+13 9709 of this title have been met.
+14 (e) A COLST must:
+15 (1) be signed by the patient’s clinician; and
+16 (2) include the name of the patient; agent; guardian, in accordance with
+17 14 V.S.A. § 3075(g); or surrogate giving informed consent for the COLST and
+18 the individual’s relationship to the patient.
+19 (f) [Repealed.]
+20 (g) A patient’s clinician issuing a DNR/COLST order shall:
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 15 of 16
+1 (1) place a copy of the completed DNR/COLST order in the patient’s
+2 medical record; and
+3 (2) provide instructions to the patient as to the appropriate means of
+4 displaying the DNR/COLST order.
+5 (h) A clinician who issues a DNR order shall authorize issuance of a DNR
+6 identification to the patient. Uniform minimum requirements for DNR
+7 identification shall be determined by the Department of Health by rule not later
+8 than January 1, 2016.
+9 (i) Every health care provider, health care facility, and residential care
+10 facility shall honor a DNR/COLST order or a DNR identification unless the
+11 provider or facility:
+12 (1) believes in good faith, after consultation with the agent or guardian
+13 where possible and appropriate, that:
+14 (A) the patient wishes to have the DNR/COLST order revoked; or
+15 (B) the patient with the DNR identification is not the individual for
+16 whom the DNR order was issued; and
+17 (2) documents the basis for the good faith belief in the patient’s medical
+18 record.
+19 (j) A DNR/COLST order executed prior to July 1, 2011 shall be a valid
+20 order if the document complies with the statutory requirements in effect at the
+21 time the document was executed or with the provisions of this chapter.
+VT LEG #379402 v.1
+
+BILL AS INTRODUCED H.75
+2025 Page 16 of 16
+1 (k) A health care provider shall honor in good faith an out-of-state DNR
+2 order, orders for life sustaining treatment, or out-of-state DNR identification if
+3 there is no reason to believe that what has been presented is invalid.
+4 (l) A DNR order precludes efforts to resuscitate only in the event of
+5 cardiopulmonary arrest and does not affect other therapeutic interventions that
+6 may be appropriate for the patient.
+7 Sec. 3. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #379402 v.1
+
+[DELETED:  H P H I R R D S D S n p l r ( A D I S C § A]
+[DELETED:  H P ( t h m ( c c c ( 9 ( f h p ( u d ( ( ( r]
+[DELETED:  H P ( p a o ( h t ( t ( t ( ( ( 2 ( ( ( w s]
+[DELETED:  H P ( t ( d a H 1 § T a r b r n w i p a p]
+[DELETED:  H P §   ( l t p d ( p c m d ( s p u a ( t ( a]
+[DELETED:  H P b i a a s ( ( c c ( ( ( p ( t ( ( p e n p]
+[DELETED:  H P ( p ( l c ( w ( ( c d m ( i p t ( p ( r o]
+[DELETED:  H P ( o t d ( o ( o ( ( r ( ( p l A r ( ( p]
+[DELETED:  H P ( f p ( p ( m ( p ( d m ( v a ( i m i ( n]
+[DELETED:  H P f t ( e ( t s ( u o ( f t ( g * § ( u d]
+[DELETED:  H P ( p s i t ( c S a ( a f b § A p r p i o]
+[DELETED:  H P h a § ( b a ( i u p * § N o a c o s 1 2 *]
+[DELETED:  H P S §     ( i l d p p w ( H D ( r m ( (]
+[DELETED:  H P ( w a ( ( 1 t ( c d ( c 9 ( ( ( 1 t ( (]
+[DELETED:  H P ( m ( d ( i i t ( f p ( w ( ( w ( r ( o t]
+[DELETED:  H P ( o t ( c m S T]

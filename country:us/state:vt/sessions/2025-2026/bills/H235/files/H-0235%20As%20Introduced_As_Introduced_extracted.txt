@@ -1,0 +1,202 @@
+Title: BILL AS INTRODUCED H.235
+Official Title: BILL AS INTRODUCED H.235
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.235
+2 Introduced by Representative Casey of Montpelier
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; unemployment compensation; eligibility; employment; partial
+6 unemployment benefits
+7 Statement of purpose of bill as introduced: This bill proposes to provide that
+8 wages earned for work that would not qualify an individual to receive
+9 unemployment insurance benefits shall not be counted when determining an
+10 individual's weekly unemployment insurance benefit amount, and to make
+11 individuals who work for an educational institution in any capacity other than
+12 an instructional, research, or principal administrative capacity eligible for
+13 unemployment insurance between academic terms.
+14 An act relating to unemployment insurance eligibility and benefits
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 21 V.S.A. § 1338a is amended to read:
+17 § 1338a. DISREGARDED EARNINGS
+18 (a) An individual shall be deemed “partially unemployed” in any week of
+19 less than full-time work if the wages earned by the individual with respect to
+20 such the week are less than the weekly benefit amount the individual would be
+VT LEG #380116 v.1
+BILL AS INTRODUCED H.235
+2025 Page 2 of 4
+1 entitled to receive if totally unemployed and eligible. As used in For purposes
+2 of this section, “wages” in any one week includes only that amount of
+3 remuneration earned by the individual in employment, rounded to the nearest
+4 dollar that is in excess of 50 percent of the individual’s weekly wage wages in
+5 employment.
+6 * * *
+7 Sec. 2. 21 V.S.A. § 1343 is amended to read:
+8 § 1343. CONDITIONS
+9 * * *
+10 (c) Benefits are payable on the basis of service in employment as defined in
+11 subdivisions 1301(6)(A)(ix) and (x) of this subchapter, in the same amount, on
+12 the same terms, and subject to the same conditions as benefits payable on the
+13 basis of other service subject to this chapter, except that:
+14 (1) With respect to services performed in an instructional, research, or
+15 principal administrative capacity for an educational institution, benefits shall
+16 not be payable on the basis of such the services for any week of unemployment
+17 commencing during the period between two successive academic years or
+18 terms (or, when an agreement provides instead for a similar period between
+19 two regular but not successive terms, during such period) or during a period of
+20 paid sabbatical leave provided for in the individual’s contract, to any
+21 individual if the individual performs such the services in the first of the
+VT LEG #380116 v.1
+BILL AS INTRODUCED H.235
+2025 Page 3 of 4
+1 academic years or terms and if there is a contract or reasonable assurance that
+2 the individual will perform services in any such capacity for any educational
+3 institution in the second of the academic years or terms.
+4 (2) With respect to services performed in any other capacity for an
+5 educational institution, benefits shall not be payable on the basis of such
+6 services to any individual for any week of unemployment that commences
+7 during a period between two successive academic years or terms if the
+8 individual performs such services in the first of the academic years or terms
+9 and there is a reasonable assurance that the individual will perform such
+10 services for any educational institution in the second of the academic years or
+11 terms, except that if benefits are denied to any individual under this
+12 subdivision and the individual was not offered an opportunity to perform such
+13 services for the educational institution for the second of the academic years or
+14 terms, the individual shall be entitled to a retroactive payment of the benefits
+15 for each week for which the individual filed a timely claim for benefits and for
+16 which benefits were denied solely by reason of this subdivision. [Repealed.]
+17 (3) With respect to any services described in subdivision (1) or (2) of
+18 this subsection, benefits shall not be payable on the basis of services in any
+19 such capacities to any individual for any week that commences during an
+20 established and customary vacation period or holiday recess if the individual
+21 performs such the services in the period immediately before the vacation
+VT LEG #380116 v.1
+BILL AS INTRODUCED H.235
+2025 Page 4 of 4
+1 period or holiday recess, and there is a reasonable assurance that the individual
+2 will perform such the services in the period immediately following the
+3 vacation period or holiday recess.
+4 (4) With respect to any services described in subdivision (1) or (2) of
+5 this subsection, benefits shall not be payable on the basis of services in any
+6 such capacities as specified in subdivisions (1), (2), and (3) of this subsection
+7 to any individual who performed such the services in an educational institution
+8 while in the employ of an educational service agency. As used in this
+9 subdivision, the term “educational service agency” means a governmental
+10 agency or governmental entity that is established and operated exclusively for
+11 the purpose of providing such services to one or more educational institutions.
+12 * * *
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on passage.
+VT LEG #380116 v.1
+[DELETED:  H P H I R R D S u S w u i i a u A I S § ( l s]
+[DELETED:  H P e o r d e * S § * ( s t b ( p n c t t p i]
+[DELETED:  H P a t i ( e s d i a s t s s t f w ( t s e p]
+[DELETED:  H P p w v ( t s t w s a t * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.235
+2025 Page 1 of 4
+1 H.235
+2 Introduced by Representative Casey of Montpelier
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; unemployment compensation; eligibility; employment; partial
+6 unemployment benefits
+7 Statement of purpose of bill as introduced: This bill proposes to provide that
+8 wages earned for work that would not qualify an individual to receive
+9 unemployment insurance benefits shall not be counted when determining an
+10 individual's weekly unemployment insurance benefit amount, and to make
+11 individuals who work for an educational institution in any capacity other than
+12 an instructional, research, or principal administrative capacity eligible for
+13 unemployment insurance between academic terms.
+14 An act relating to unemployment insurance eligibility and benefits
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 21 V.S.A. § 1338a is amended to read:
+17 § 1338a. DISREGARDED EARNINGS
+18 (a) An individual shall be deemed “partially unemployed” in any week of
+19 less than full-time work if the wages earned by the individual with respect to
+20 such the week are less than the weekly benefit amount the individual would be
+VT LEG #380116 v.1
+
+BILL AS INTRODUCED H.235
+2025 Page 2 of 4
+1 entitled to receive if totally unemployed and eligible. As used in For purposes
+2 of this section, “wages” in any one week includes only that amount of
+3 remuneration earned by the individual in employment, rounded to the nearest
+4 dollar that is in excess of 50 percent of the individual’s weekly wage wages in
+5 employment.
+6 * * *
+7 Sec. 2. 21 V.S.A. § 1343 is amended to read:
+8 § 1343. CONDITIONS
+9 * * *
+10 (c) Benefits are payable on the basis of service in employment as defined in
+11 subdivisions 1301(6)(A)(ix) and (x) of this subchapter, in the same amount, on
+12 the same terms, and subject to the same conditions as benefits payable on the
+13 basis of other service subject to this chapter, except that:
+14 (1) With respect to services performed in an instructional, research, or
+15 principal administrative capacity for an educational institution, benefits shall
+16 not be payable on the basis of such the services for any week of unemployment
+17 commencing during the period between two successive academic years or
+18 terms (or, when an agreement provides instead for a similar period between
+19 two regular but not successive terms, during such period) or during a period of
+20 paid sabbatical leave provided for in the individual’s contract, to any
+21 individual if the individual performs such the services in the first of the
+VT LEG #380116 v.1
+
+BILL AS INTRODUCED H.235
+2025 Page 3 of 4
+1 academic years or terms and if there is a contract or reasonable assurance that
+2 the individual will perform services in any such capacity for any educational
+3 institution in the second of the academic years or terms.
+4 (2) With respect to services performed in any other capacity for an
+5 educational institution, benefits shall not be payable on the basis of such
+6 services to any individual for any week of unemployment that commences
+7 during a period between two successive academic years or terms if the
+8 individual performs such services in the first of the academic years or terms
+9 and there is a reasonable assurance that the individual will perform such
+10 services for any educational institution in the second of the academic years or
+11 terms, except that if benefits are denied to any individual under this
+12 subdivision and the individual was not offered an opportunity to perform such
+13 services for the educational institution for the second of the academic years or
+14 terms, the individual shall be entitled to a retroactive payment of the benefits
+15 for each week for which the individual filed a timely claim for benefits and for
+16 which benefits were denied solely by reason of this subdivision. [Repealed.]
+17 (3) With respect to any services described in subdivision (1) or (2) of
+18 this subsection, benefits shall not be payable on the basis of services in any
+19 such capacities to any individual for any week that commences during an
+20 established and customary vacation period or holiday recess if the individual
+21 performs such the services in the period immediately before the vacation
+VT LEG #380116 v.1
+
+BILL AS INTRODUCED H.235
+2025 Page 4 of 4
+1 period or holiday recess, and there is a reasonable assurance that the individual
+2 will perform such the services in the period immediately following the
+3 vacation period or holiday recess.
+4 (4) With respect to any services described in subdivision (1) or (2) of
+5 this subsection, benefits shall not be payable on the basis of services in any
+6 such capacities as specified in subdivisions (1), (2), and (3) of this subsection
+7 to any individual who performed such the services in an educational institution
+8 while in the employ of an educational service agency. As used in this
+9 subdivision, the term “educational service agency” means a governmental
+10 agency or governmental entity that is established and operated exclusively for
+11 the purpose of providing such services to one or more educational institutions.
+12 * * *
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on passage.
+VT LEG #380116 v.1
+
+[DELETED:  H P H I R R D S u S w u i i a u A I S § ( l s]
+[DELETED:  H P e o r d e * S § * ( s t b ( p n c t t p i]
+[DELETED:  H P a t i ( e s d i a s t s s t f w ( t s e p]
+[DELETED:  H P p w v ( t s t w s a t * S T]

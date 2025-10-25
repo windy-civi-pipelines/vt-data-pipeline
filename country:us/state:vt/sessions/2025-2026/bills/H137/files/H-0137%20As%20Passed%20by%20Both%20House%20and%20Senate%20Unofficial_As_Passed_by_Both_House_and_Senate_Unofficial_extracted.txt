@@ -1,0 +1,2735 @@
+Title: 2 An act relating to the regulation of insurance products and services
+Official Title: 2 An act relating to the regulation of insurance products and services
+Number of Sections: 1
+Source: versions - As Passed by Both House and Senate (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 55 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 1 of 55
+1 H.137
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 8 V.S.A. § 23 is amended to read:
+5 § 23. CONFIDENTIALITY OF INVESTIGATION AND EXAMINATION
+6 REPORTS
+7 (a) This section shall apply to all persons licensed, authorized, or
+8 registered, or required to be licensed, authorized, or registered, under this title
+9 or under 9 V.S.A. chapter 150 by the Commissioner.
+10 (b) Regardless of source, all records of investigations, including
+11 information pertaining to a complaint by or for a consumer, and all records and
+12 reports of examinations by the Commissioner, whether in the possession of a
+13 supervisory agency or another person, shall be confidential and privileged,
+14 shall not be made public, and shall not be subject to discovery or introduction
+15 into evidence in any private civil action. No person who participated on behalf
+16 of the Commissioner in an investigation or examination shall be permitted or
+17 required to testify in any such civil action as to any findings,
+18 recommendations, opinions, results, or other actions relating to the
+19 investigation or examination.
+20 (c) The Commissioner may, in his or her the Commissioner’s discretion,
+21 disclose or publish or authorize the disclosure or publication of any such
+22 record or report or any part thereof in the furtherance of legal or regulatory
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 2 of 55
+1 proceedings brought as a part of the Commissioner’s official duties. The
+2 Commissioner may, in his or her the Commissioner’s discretion, disclose or
+3 publish or authorize the disclosure or publication of any such record or report
+4 or any part thereof, to civil or criminal law enforcement authorities for use in
+5 the exercise of such authority’s duties, in such manner as the Commissioner
+6 may deem proper.
+7 (d) For the purposes of this section, records of investigations and records
+8 and reports of examinations shall include joint examinations by the
+9 Commissioner and any other supervisory agency. Records of investigations
+10 and reports of examinations shall also include records of examinations and
+11 investigations conducted by:
+12 (1) any agency with supervisory jurisdiction over the person; and
+13 (2) any agency of any foreign government with supervisory jurisdiction
+14 over any person subject to the jurisdiction of the Department, when such
+15 records are considered confidential by such agency or foreign government and
+16 the records are in the possession of the Commissioner.
+17 Sec. 2. 8 V.S.A. § 3303 is amended to read:
+18 § 3303. MUTUAL COMPANIES; DIRECTORS, CHARTER PROVISIONS
+19 AS TO
+20 The articles of association or bylaws of a mutual insurer shall set forth the
+21 manner in which its board of directors or other governing body shall be
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 3 of 55
+1 elected, and in which meetings of policyholders shall be called, held, and
+2 conducted, subject to such procedures as may be required by the
+3 Commissioner under section 75 subsection 15(a) of this title.
+4 Sec. 3. 8 V.S.A. § 4688(a) is amended to read:
+5 (a) Filings as to competitive markets. Except with respect to filings
+6 submitted pursuant to section 4687 of this title, in a competitive market, every
+7 insurer shall file with the Commissioner all rates and supplementary rate
+8 information, and supporting information that are to be used in this State,
+9 provided that such rates and information need not be filed for specifically rated
+10 inland marine risks or such other risks that are designated by regulation of the
+11 Commissioner as not requiring a filing. Such rates, supplementary rate
+12 information, and supporting information shall be provided to the
+13 Commissioner not later than 15 days after 30 days prior to the effective date.
+14 An insurer may adopt by reference, with or without deviation or modification,
+15 provided that said deviation or modification is readily identifiable, the rates,
+16 supplementary rate information, and supporting information filed by another
+17 insurer or an advisory or service organization with which it is affiliated;
+18 provided, however, such an adoption shall not relieve an insurer from any
+19 other requirements of this chapter.
+20 Sec. 4. 8 V.S.A. § 4724 is amended to read:
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 4 of 55
+1 § 4724. UNFAIR METHODS OF COMPETITION OR UNFAIR OR
+2 DECEPTIVE ACTS OR PRACTICES DEFINED
+3 * * *
+4 (23) Affordable housing; unfair discrimination.
+5 (A) An insurer that issues or delivers in this State a policy of
+6 insurance covering loss of or damage to real property containing units for
+7 residential purposes or legal liability of an owner or renter of such real
+8 property shall not cancel, refuse to issue, refuse to renew, or increase the
+9 premium of a policy, or exclude, limit, restrict, or reduce coverage under a
+10 policy, based on the following:
+11 (i) whether the residential building contains dwelling units that are
+12 required to be affordable to residents at a specific income level pursuant to a
+13 statute, regulation, restrictive declaration, or regulatory agreement with a local,
+14 State, or federal government entity;
+15 (ii) whether the real property owner or tenants of such residential
+16 building or the shareholders of a cooperative housing corporation receive
+17 rental assistance provided by a local, State, or federal government entity,
+18 including the receipt of federal vouchers issued under Section 8 of the U.S.
+19 Housing Act of 1937, 42 U.S.C. § 1437f;
+20 (iii) the level or source of income of the tenants of the residential
+21 building or the shareholders of a cooperative housing corporation; or
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 5 of 55
+1 (iv) whether the residential building is owned by a limited-equity
+2 cooperative, public housing agency, or cooperative housing corporation.
+3 (B) Nothing in this section shall prohibit an insurer from cancelling,
+4 refusing to issue, refusing to renew, or increasing the premium of an insurance
+5 policy, or excluding, limiting, restricting, or reducing coverage under a policy,
+6 due to other factors that are permitted or not prohibited by any other section of
+7 this chapter.
+8 Sec. 5. 8 V.S.A. § 6002(a) is amended to read:
+9 (a) Any captive insurance company, when permitted by its articles of
+10 association, charter, or other organizational document, may apply to the
+11 Commissioner for a license to do any and all conduct insurance business
+12 comprised in subdivisions 3301(a)(1), (2), (3)(A)-(C), (E)-(Q), and (4)-(9)
+13 section 3301 of this title and may grant annuity contracts as defined in section
+14 3717 of this title and may accept or transfer risk by means of a parametric
+15 contract; provided, however, that:
+16 (1) No pure captive insurance company may insure any risks other than
+17 those of its parent and affiliated companies or controlled unaffiliated business.
+18 (2) No agency captive insurance company may do any insurance
+19 business in this State unless:
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 6 of 55
+1 (A) an insurance agency or brokerage that owns or controls the
+2 agency captive insurance company remains in regulatory good standing in all
+3 states in which it is licensed;
+4 (B) it insures only the risks of the commercial policies that are placed
+5 by or through an insurance agency or brokerage that owns or directly or
+6 indirectly controls the agency captive insurance company and, if required by
+7 the Commissioner in his or her the Commissioner’s discretion, it provides the
+8 Commissioner the form of such commercial policies;
+9 (C) it discloses to the original policyholder or policyholders, in a
+10 form or manner approved by the Commissioner, that the agency captive
+11 insurance company as a result of its affiliation with an insurance agency or
+12 brokerage may enter into a reinsurance or other risk-sharing agreement with
+13 the agency or brokerage; and
+14 (D) if required by the Commissioner in his or her the
+15 Commissioner’s discretion, the business written by an agency captive
+16 insurance company is:
+17 (i) Fronted by an insurance company licensed under the laws of
+18 any state.
+19 (ii) Reinsured by a reinsurer authorized or approved by the State
+20 of Vermont.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 7 of 55
+1 (iii) Secured by a trust fund in the United States for the benefit of
+2 policyholders and claimants or funded by an irrevocable letter of credit or
+3 other arrangement that is acceptable to the Commissioner. The Commissioner
+4 may require the agency captive insurance company to increase the funding of
+5 any security arrangement established under this subdivision. If the form of
+6 security is a letter of credit, the letter of credit shall be issued or confirmed by a
+7 bank approved by the Commissioner. A trust maintained pursuant to this
+8 subdivision shall be established in a form and upon terms approved by the
+9 Commissioner.
+10 (3) No association captive insurance company may insure any risks
+11 other than those of its association, those of the member organizations of its
+12 association, and those of a member organization’s affiliated companies.
+13 (4) No industrial insured captive insurance company may insure any
+14 risks other than those of the industrial insureds that comprise the industrial
+15 insured group, those of their affiliated companies, and those of the controlled
+16 unaffiliated business of an industrial insured or its affiliated companies.
+17 (5) No risk retention group may insure any risks other than those of its
+18 members and owners.
+19 (6) No captive insurance company may provide personal motor vehicle
+20 or homeowner’s insurance coverage or any component thereof.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 8 of 55
+1 (7) No captive insurance company may accept or cede reinsurance
+2 except as provided in section 6011 of this title.
+3 (8) Any captive insurance company may provide excess workers’
+4 compensation insurance to its parent and affiliated companies, unless
+5 prohibited by the federal law or laws of the state having jurisdiction over the
+6 transaction. Any captive insurance company, unless prohibited by federal law,
+7 may reinsure workers’ compensation of a qualified self-insured plan of its
+8 parent and affiliated companies.
+9 (9) Any captive insurance company that insures risks described in
+10 subdivisions 3301(a)(1) and (2) of this title shall comply with all applicable
+11 State and federal laws.
+12 (10) Any captive insurance company that transfers risk by means of a
+13 parametric contract shall comply with all applicable State and federal laws and
+14 regulations.
+15 Sec. 6. 8 V.S.A. § 6004(d) is amended to read:
+16 (d) Within 30 days after commencing business, each captive insurance
+17 company shall file with the Commissioner a statement under oath of its
+18 president and secretary or, in the case of a captive insurance company formed
+19 as a limited liability company or as a reciprocal insurer, of two individuals
+20 authorized by the governing board certifying that the captive insurance
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 9 of 55
+1 company possessed the requisite unimpaired, paid-in capital and surplus prior
+2 to commencing business.
+3 Sec. 7. 8 V.S.A. § 6006 is amended to read:
+4 § 6006. FORMATION OF CAPTIVE INSURANCE COMPANIES IN THIS
+5 STATE
+6 * * *
+7 (h) Other than captive insurance companies formed as limited liability
+8 companies under 11 V.S.A. chapter 21 chapter 25 or as nonprofit corporations
+9 under Title 11B, captive insurance companies formed as corporations under the
+10 provisions of this chapter shall have the privileges and be subject to the
+11 provisions of Title 11A as well as the applicable provisions contained in this
+12 chapter. In the event of conflict between the provisions of said general
+13 corporation law and the provisions of this chapter, the latter shall control.
+14 (i) Captive insurance companies formed under the provisions of this
+15 chapter:
+16 (1) As limited liability companies shall have the privileges and be
+17 subject to the provisions of 11 V.S.A. chapter 21 chapter 25 as well as the
+18 applicable provisions contained in this chapter. In the event of a conflict
+19 between the provisions of 11 V.S.A. chapter 21 chapter 25 and the provisions
+20 of this chapter, the latter shall control.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 10 of 55
+1 (2) As nonprofit corporations shall have the privileges and be subject to
+2 the provisions of Title 11B as well as the applicable provisions contained in
+3 this chapter. In the event of conflict between the provisions of Title 11B and
+4 the provisions of this chapter, the latter shall control.
+5 (3) As mutual insurers shall have the privileges and be subject to the
+6 provisions of sections 3303 and 3311 of this title as well as the applicable
+7 provisions contained in this chapter. In the event of a conflict between the
+8 provisions of sections 3303 and 3311 of this title and the provisions of this
+9 chapter, the latter shall control.
+10 * * *
+11 Sec. 8. 8 V.S.A. § 6006a(a) is amended to read:
+12 (a) Any captive insurance company meeting the qualifications set forth in
+13 subdivision 6006(j)(1) of this title may merge with any other insurer, whether
+14 licensed in this State or elsewhere, in the following manner:
+15 (1) The board of directors of each insurer shall, by a resolution adopted
+16 by a majority vote of the members of such board, approve a joint agreement of
+17 merger setting forth:
+18 (A) the names of the insurers proposed to merge, and the name of the
+19 insurer into which they propose to merge, which is hereafter designated as the
+20 surviving company;
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 11 of 55
+1 (B) the terms and conditions of the proposed merger and the mode of
+2 carrying the same into effect;
+3 (C) the manner and basis of converting the ownership interests, if
+4 applicable, in other than the surviving insurer into ownership interests or other
+5 consideration, securities, or obligations of the surviving insurer;
+6 (D) a restatement of such provisions of the articles of incorporation
+7 of the surviving insurer as may be deemed necessary or advisable to give effect
+8 to the proposed merger; and
+9 (E) any other provisions with respect to the proposed merger as are
+10 deemed necessary or desirable.
+11 (2) The resolution of the board of directors of each insurer approving the
+12 agreement shall direct that the agreement be submitted to a vote of the
+13 shareholders, members, or policyholders, as the case may be, of each insurer
+14 entitled to vote in respect thereof at a designated meeting thereof, or via
+15 unanimous written consent of such shareholders, members, or policyholders in
+16 lieu of a meeting. Notice of the meeting shall be given as provided in the
+17 bylaws, charter, or articles of association, or other governance document, as
+18 the case may be, of each insurer and shall specifically reflect the agreement as
+19 a matter to be considered at the meeting.
+20 (3) The agreement of merger so approved shall be submitted to a vote of
+21 the shareholders, members, or policyholders, as the case may be, of each
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 12 of 55
+1 insurer entitled to vote in respect thereof at the meeting directed by the
+2 resolution of the board of directors of such company approving the agreement,
+3 and the agreement shall be unanimously adopted by the shareholders,
+4 members, or policyholders, as the case may be.
+5 (4) Following the adoption of the agreement by any insurer, articles of
+6 merger shall be adopted in the following manner:
+7 (A) Upon the execution of the agreement of merger by all of the
+8 insurers parties thereto, there shall be executed and filed, in the manner
+9 hereafter provided, articles of merger setting forth the agreement of merger, the
+10 signatures of the several insurers parties thereto, the manner of its adoption,
+11 and the vote by which adopted by each insurer.
+12 (B) The articles of merger shall be signed on behalf of each insurer
+13 by a duly authorized officer or, in the case of an insurer formed as a limited
+14 liability company or as a reciprocal insurer, by an individual authorized by the
+15 governing board, in such multiple copies as shall be required to enable the
+16 insurers to comply with the provisions of this subchapter with respect to filing
+17 and recording the articles of merger, and shall then be presented to the
+18 Commissioner.
+19 (C) The Commissioner shall approve the articles of merger if he or
+20 she the Commissioner finds that the merger will promote the general good of
+21 the State in conformity with those standards set forth in section 3305 of this
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 13 of 55
+1 title. If he or she the Commissioner approves the articles of merger, he or she
+2 the Commissioner shall issue a certificate of approval of merger.
+3 (5) The insurer shall file the articles of merger, accompanied by the
+4 agreement of merger and the certificate of approval of merger, with the
+5 Secretary of State and pay all fees as required by law. If the Secretary of State
+6 finds that they conform to law, he or she the Secretary shall issue a certificate
+7 of merger and return it to the surviving insurer or its representatives. The
+8 merger shall take effect upon the filing of articles of merger with the Secretary
+9 of State, unless a later effective date is specified therein.
+10 (6) The surviving insurer shall file a copy of the certificate of merger
+11 from the Secretary of State with the Commissioner.
+12 Sec. 9. 8 V.S.A. § 6007(b) is amended to read:
+13 (b) Prior to March 1 of each year, and prior to March 15 of each year in the
+14 case of pure captive insurance companies, association captive insurance
+15 companies, sponsored captive insurance companies, industrial insured captive
+16 insurance companies, or agency captive insurance companies, each captive
+17 insurance company shall submit to the Commissioner a report of its financial
+18 condition, verified by oath of two of its executive officers or, in the case of a
+19 captive insurance company formed as a limited liability company or as a
+20 reciprocal insurer, of two individuals authorized by the governing board. Each
+21 captive insurance company shall report using generally accepted accounting
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 14 of 55
+1 principles, statutory accounting principles, or international financial reporting
+2 standards unless the Commissioner requires, approves, or accepts the use of
+3 any other comprehensive basis of accounting, in each case with any
+4 appropriate or necessary modifications or adaptations thereof required or
+5 approved or accepted by the Commissioner for the type of insurance and kinds
+6 of insurers to be reported upon, and as supplemented by additional information
+7 required by the Commissioner. As used in this section, statutory accounting
+8 principles shall mean the accounting principles codified in the NAIC
+9 Accounting Practices and Procedures Manual. Upon application for
+10 admission, a captive insurance company shall select, with explanation, an
+11 accounting method for reporting. Any change in a captive insurance
+12 company’s accounting method shall require prior approval. Except as
+13 otherwise provided, each risk retention group shall file its report in the form
+14 required by subsection 3561(a) of this title, and each risk retention group shall
+15 comply with the requirements set forth in section 3569 of this title. The
+16 Commissioner shall by rule propose the forms in which pure captive insurance
+17 companies, association captive insurance companies, sponsored captive
+18 insurance companies, and industrial insured captive insurance companies shall
+19 report. Subdivision 6002(c)(3) of this title shall apply to each report filed
+20 pursuant to this section, except that such subdivision shall not apply to reports
+21 filed by risk retention groups.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 15 of 55
+1 Sec. 10. 8 V.S.A. § 6011(a) is amended to read:
+2 (a) Any captive insurance company may provide reinsurance, of policies
+3 approved by the Commissioner comprised in subsection 3301(a) section 3301
+4 of this title, on risks of its parent, affiliated companies, and controlled
+5 unaffiliated business ceded by any other insurer, and may provide reinsurance
+6 of annuity contracts as defined in section 3717 of this title that are granted by
+7 any other insurer.
+8 Sec. 11. 8 V.S.A. § 6024(c) is amended to read:
+9 (c) A dormant captive insurance company that has been issued a certificate
+10 of dormancy shall:
+11 (1) possess and thereafter maintain unimpaired, paid-in capital and
+12 surplus of not less than $25,000.00; provided, however, that if the dormant
+13 captive insurance company had never capitalized, it shall not be required to
+14 add capital upon entering dormancy;
+15 (2) prior to March 15 of each year, submit to the Commissioner a report
+16 of its financial condition, verified by oath of two of its executive officers or, in
+17 the case of a captive insurance company formed as a limited liability company
+18 or as a reciprocal insurer, of two individuals authorized by its governing board,
+19 in a form as may be prescribed by the Commissioner; and
+20 (3) pay a license renewal fee of $500.00.
+21 Sec. 12. 8 V.S.A. § 6045 is amended to read:
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 16 of 55
+1 § 6045. BRANCH CAPTIVE REPORTS
+2 Prior to March 15 of each year, or with the approval of the Commissioner
+3 within 75 days after its fiscal year-end, a branch captive insurance company
+4 shall file with the Commissioner a copy of all reports and statements required
+5 to be filed under the laws of the jurisdiction in which the alien captive
+6 insurance company is formed, verified by oath of two of its executive officers
+7 or, in the case of a branch captive insurance company formed as a limited
+8 liability company or as a reciprocal insurer, of two individuals authorized by
+9 the governing board. If the Commissioner is satisfied that the annual report
+10 filed by the alien captive insurance company in its domiciliary jurisdiction
+11 provides adequate information concerning the financial condition of the alien
+12 captive insurance company, the Commissioner may waive the requirement for
+13 completion of the captive annual statement for business written in the alien
+14 jurisdiction.
+15 Sec. 13. 8 V.S.A. § 6048d(c)(2) is amended to read:
+16 (2) The special purpose financial insurance company shall submit an
+17 affidavit of its president, a vice president, the treasurer, or the chief financial
+18 officer or, in the case of a special purpose financial insurance company formed
+19 as a limited liability company or as a reciprocal insurer, of an individual
+20 authorized by the governing board that includes the following statements, to
+21 the best of such person’s knowledge and belief after reasonable inquiry:
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 17 of 55
+1 (A) the proposed organization and operation of the special purpose
+2 financial insurance company comply with all applicable provisions of this
+3 chapter;
+4 (B) the special purpose financial insurance company’s investment
+5 policy reflects and takes into account the liquidity of assets and the reasonable
+6 preservation, administration, and management of such assets with respect to
+7 the risks associated with the reinsurance contract and the insurance
+8 securitization transaction; and
+9 (C) the reinsurance contract and any arrangement for securing the
+10 special purpose financial insurance company’s obligations under such
+11 reinsurance contract, including any agreements or other documentation to
+12 implement such arrangement, comply with the provisions of this subchapter.
+13 Sec. 14. 8 V.S.A. § 6052(g) is amended to read:
+14 (g) This subsection establishes governance standards for a risk retention
+15 group.
+16 (1) As used in this subsection:
+17 (A) “Board of directors” or “board” means the governing body of a
+18 risk retention group elected by risk retention group members to establish
+19 policy, elect or appoint officers and committees, and make other governing
+20 decisions.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 18 of 55
+1 (B) “Director” means a natural person designated in the articles of
+2 the risk retention group or designated, elected, or appointed by any other
+3 manner, name, or title to act as a member of the governing body of the risk
+4 retention group.
+5 (C)(i) “Independent director” means a director who does not have a
+6 material relationship with the risk retention group. A director has a material
+7 relationship with a risk retention group if he or she the director, or a member of
+8 his or her the director’s immediate family:
+9 (I)(i) In any 12-month period, receives from the risk retention
+10 group, or from a consultant or service provider to the risk retention group,
+11 compensation or other item or items of value in an amount equal to or greater
+12 than five percent of the risk retention group’s gross written premium or two
+13 percent of the risk retention group’s surplus, as measured at the end of any
+14 fiscal quarter falling in such 12-month period, whichever is greater. This
+15 provision also applies to compensation or items of value received by any
+16 business with which the director is affiliated. Such material relationship shall
+17 continue for one year after receipt of the item or items of value or the
+18 compensation falls below the threshold established in this subdivision.
+19 (II)(ii) Has a relationship with an auditor as follows: Is affiliated
+20 with or employed in a professional capacity by a current or former internal or
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 19 of 55
+1 external auditor of the risk retention group. Such material relationship shall
+2 continue for one year after the affiliation or employment ends.
+3 (aa)(iii) Is employed as an executive officer of another business
+4 entity that is affiliated with the risk retention group by virtue of common
+5 ownership and control, if such entity meets all of the following criteria:
+6 (AA)(I) the entity is not an insured of the risk retention group;
+7 (BB)(II) the entity has a contractual relationship with the risk
+8 retention group; and
+9 (CC)(III) the governing board of the entity includes executive
+10 officers of the risk retention group, unless a majority of the membership of
+11 such entity’s governing board is composed of individuals who are members of
+12 the governing board of the risk retention group.
+13 (bb)(IV) Such material relationship shall continue until the
+14 employment or service ends.
+15 (ii)(iv) Notwithstanding subdivision (i) subdivisions (i)–(iii) of
+16 this subdivision (g)(1)(C), a director who is a direct or indirect owner of the
+17 risk retention group is deemed to be independent; and an officer, director, or
+18 employee of an insured of the risk retention group is deemed to be
+19 independent, unless some other relationship of such officer, director, or
+20 employee qualifies as a material relationship.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 20 of 55
+1 (D) “Material service provider” includes a captive manager, auditor,
+2 accountant, actuary, investment advisor, attorney, managing general
+3 underwriter, or other person responsible for underwriting, determination of
+4 rates, premium collection, claims adjustment or settlement, or preparation of
+5 financial statements, whose aggregate annual contract fees are equal to or
+6 greater than five percent of the risk retention group’s annual gross written
+7 premium or two percent of its surplus, whichever is greater. It does not mean
+8 defense counsel retained by a risk retention group, unless his or her the defense
+9 counsel’s annual fees have been equal to or greater than five percent of a risk
+10 retention group’s annual gross premium or two percent of its surplus,
+11 whichever is greater, during three or more of the previous five years.
+12 * * *
+13 (9) The president or chief executive officer or, in the case of a risk
+14 retention group formed as a limited liability company or as a reciprocal insurer,
+15 an individual authorized by the board of directors of a risk retention group
+16 shall promptly notify the Commissioner in writing of any known material
+17 noncompliance with the governance standards established in this subsection.
+18 Sec. 15. 8 V.S.A. § 2504 is amended to read:
+19 § 2504. EXEMPTIONS
+20 This chapter does not apply to:
+21 * * *
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 21 of 55
+1 (18) A person that performs payroll calculations, prepares payroll
+2 instructions, prepares and files State or federal income withholding tax reports
+3 and unemployment insurance compensation reports, or provides other payroll-
+4 related services, but that does not engage in the business of payroll processing
+5 services or otherwise engage in the business of money transmission in this
+6 State or other acts requiring a license under this chapter.
+7 (19) A person that does not provide payroll processing services to any
+8 employer that has its principal place of business in this State and that does not
+9 otherwise engage in the business of money transmission in this State or other
+10 acts requiring a license under this chapter.
+11 (20) A person that:
+12 (A) provides payroll processing services to 25 or fewer employers
+13 that have their principal place of business in this State;
+14 (B) provides payroll processing services to 500 or fewer employers,
+15 regardless of where the principal place of business of each employer is located;
+16 (C) provides payroll processing services involving transmission to
+17 less than 300 Vermont resident employees, regardless of where the principal
+18 place of business of their employer is located;
+19 (D) has not been convicted of, or pled guilty or nolo contendere to, a
+20 felony in a domestic, foreign, or military court, and no key individual or person
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 22 of 55
+1 in control of such person has been convicted of, or pled guilty or nolo
+2 contendere to, a felony in a domestic, foreign, or military court;
+3 (E) has never had a financial services license or professional license
+4 revoked in any jurisdiction and no key individual or person in control of such
+5 person has ever had a financial services license or professional license revoked
+6 in any jurisdiction, except that a subsequent formal vacation of such revocation
+7 shall not be deemed a revocation;
+8 (F) does not otherwise engage in the business of money transmission
+9 in this State or other acts requiring a license under this chapter; and
+10 (G) receives and holds all money or monetary value received for
+11 transmission exclusively in:
+12 (i) segregated trust accounts with federally insured financial
+13 institutions or credit unions for the benefit of its employer customers or
+14 applicable governmental authorities, such that the funds in such accounts are
+15 not subject to claims or liens of its creditors; or
+16 (ii) deposit accounts at federally insured financial institutions or
+17 credit unions that are both titled in the name and tax identification number of
+18 the financial institution or credit union and for the benefit of the person’s
+19 customers.
+20 Sec. 16. 9 V.S.A. § 42 is amended to read:
+21 § 42. PERMITTED CHARGES
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 23 of 55
+1 (a) Except for interest as provided in this chapter, a lender shall make no
+2 charges against a borrower for the use or forbearance of money other than:
+3 * * *
+4 (7) the reasonable cost of private mortgage guaranty insurance subject to
+5 such limitation as the Commissioner of Financial Regulation has approved;
+6 and
+7 (8) the reasonable fees associated with a credit card, agreed upon by the
+8 lender and borrower, including late charges and over-limit charges; and
+9 (9) discount points, at the request of the borrower for the purpose of
+10 reducing, and which in fact result in a bona fide reduction of, the interest rate
+11 or time-price differential applicable to the loan.
+12 (b) A borrower may procure an opinion and abstract of title from an
+13 attorney of his or her the borrower’s choice acceptable to the lender, or hazard
+14 insurance in a company or in companies of his or her the borrower’s choice
+15 acceptable to the lender, and in such cases the lender’s acceptance shall not be
+16 unreasonably withheld.
+17 Sec. 17. STUDY; BANKS; SUSPICIOUS ACTIVITY; TRANSACTION
+18 HOLD
+19 (a) The Commissioner of Financial Regulation or designee shall study
+20 regulatory models that would allow a financial institution to take measures to
+21 protect account holders from fraudulent transactions and shall recommend a
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 24 of 55
+1 model for legislative consideration. The study shall include a review of
+2 regulatory models enacted or proposed in other jurisdictions.
+3 (b) In conducting the study required by this section, the Commissioner
+4 shall consult with a representative from the Vermont Bankers Association, the
+5 Association of Vermont Credit Unions, AARP Vermont, the Office of the
+6 Attorney General, Vermont Legal Aid, and any other person deemed
+7 appropriate by the Commissioner.
+8 (c) Among other things, the study shall include recommendations regarding
+9 the following:
+10 (1) the financial institutions subject to the proposed model;
+11 (2) whether specific account holders, such as seniors or vulnerable
+12 populations, should receive heightened protection;
+13 (3) notification and consultation requirements available to an account
+14 holder suspected to be the victim of fraudulent activity;
+15 (4) a reasonable time period for imposing a transaction hold pending the
+16 outcome of an internal investigation;
+17 (5) notification to the Department of Financial Regulation and, if
+18 appropriate, law enforcement or other third parties if fraudulent activity is
+19 suspected;
+20 (6) continued account holder access to funds for transactions not
+21 suspected of being associated with fraudulent activity;
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 25 of 55
+1 (7) immunity from civil liability for any financial institution that acts in
+2 good faith for the purpose of protecting account holders from fraudulent
+3 activity and that otherwise complies with applicable legal requirements; and
+4 (8) any other provision deemed appropriate by the Commissioner.
+5 (d) On or before November 15, 2025, the Commissioner shall provide a
+6 status report on the Commissioner’s preliminary findings and
+7 recommendations to the Chair of the House Committee on Commerce and
+8 Economic Development and the Chair of the Senate Committee on Finance
+9 and, on or before January 15, 2026, shall submit a final report in draft form to
+10 the House Committee on Commerce and Economic Development and the
+11 Senate Committee on Finance.
+12 Sec. 18. STUDY; PROTECTIONS FOR VICTIMS OF COERCED DEBT
+13 (a) The Commissioner of Financial Regulation or designee shall study
+14 regulatory models for providing protections and remedies for victims of
+15 coerced debt and shall recommend a model appropriate for Vermont. In
+16 particular, the Commissioner shall review the Model State Coerced Debt Law
+17 prepared by the National Consumer Law Center in May of 2024, as well as
+18 laws enacted or proposed in other jurisdictions.
+19 (b) In conducting the study required by this section, the Commissioner
+20 shall consult with a representative from the Vermont Network, the Vermont
+21 Bankers Association, the Association of Vermont Credit Unions, the Office of
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 26 of 55
+1 the Attorney General, Vermont Legal Aid, and any other person deemed
+2 appropriate by the Commissioner.
+3 (c) Among other things, the study shall include recommendations regarding
+4 the following:
+5 (1) a definition of coerced debt;
+6 (2) whether coerced debt should include both secured and unsecured
+7 debt;
+8 (3) the requisite information a debtor must provide a creditor when
+9 alleging coerced debt;
+10 (4) procedures a creditor must follow regarding the investigation of an
+11 allegation of coerced debt, including ceasing collection efforts and notifying
+12 the Department of Financial Regulation, the Office of the Attorney General,
+13 and other law enforcement personnel, if appropriate;
+14 (5) whether a credit reporting agency should remove coerced debt from
+15 a credit report and, if so, the process for doing so;
+16 (6) whether Vermont’s identity theft law, 13 V.S.A. § 2030, should be
+17 expanded to more specifically reference instances of coerced debt; and
+18 (7) any other provision deemed appropriate by the Commissioner.
+19 (d) On or before January 15, 2026, the Commissioner shall report the
+20 Commissioner’s findings and recommendations in draft form to the House
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 27 of 55
+1 Committee on Commerce and Economic Development and the Senate
+2 Committee on Finance.
+3 Sec. 19. RECOMMENDATION REGARDING INSURANCE AND
+4 GENETIC PRIVACY
+5 On or before November 15, 2025, and for the purpose of preventing unfair
+6 genetic discrimination and safeguarding an individual’s genetic privacy, the
+7 Commissioner of Financial Regulation shall provide a recommendation to the
+8 House Committee on Commerce and Economic Development and the Senate
+9 Committee on Finance on whether Vermont should enact a law prohibiting or
+10 limiting an insurance company’s access to a consumer’s personalized genetic
+11 report that is not part of the consumer’s medical record. Among other things,
+12 the Commissioner shall consider whether to require that an insurance company
+13 obtain consumer consent prior to the disclosure of genetic information
+14 obtained from a direct-to-consumer entity to an insurance company, including
+15 any company that offers health, long-term care, life, or disability insurance.
+16 Sec. 20. 8 V.S.A. § 4062b is amended to read:
+17 § 4062b. MEDICARE SUPPLEMENTAL HEALTH SUPPLEMENT
+18 INSURANCE RATE REVIEW
+19 (a) Within five business days after receiving any request to increase the
+20 premium rate for a Medicare supplement insurance policy from the health
+21 insurance company, hospital or medical service organization, or health
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 28 of 55
+1 maintenance organization issuing the policy, the Department shall post
+2 information about the rate filing on the Department’s website, including:
+3 (1) the name of the health insurance company, hospital or medical
+4 service organization, or health maintenance organization requesting the rate
+5 increase;
+6 (2) the overall composite average rate increase requested;
+7 (3) the increase requested by plan type;
+8 (4) the date on which the proposed increase would take effect;
+9 (5) the System for Electronic Rate and Form Filing (SERFF) tracking
+10 number associated with the filing and a web address for accessing the filing
+11 electronically; and
+12 (6) instructions for submitting public comments and the deadline for
+13 doing so.
+14 (b) Within five business days of after receiving a request for approval of
+15 any composite average rate increase in excess of three 10 percent, or any other
+16 coverage changes which that the Commissioner determines will have a
+17 comparable impact on cost or availability of coverage for a Medicare
+18 supplemental supplement insurance policy issued by any group or nongroup
+19 health insurance company, hospital or medical service organization, or health
+20 maintenance organization, with 5,000 or more total lives in the Vermont
+21 Medicare supplement insurance market, the Commissioner shall notify the
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 29 of 55
+1 Department of Disabilities, Aging, and Independent Living and the Office of
+2 the Health Care Advocate of the proposed premium increase. A composite
+3 average rate is the enrollment-weighted average rate increase of all plans
+4 offered by a carrier.
+5 (b)(c) Within five business days after receiving notification pursuant to
+6 subsection (a)(b) of this section, the Department of Disabilities, Aging, and
+7 Independent Living shall inform the members of the Advisory Board
+8 established pursuant to 33 V.S.A. § 505 of the proposed premium increase.
+9 (c)(d)(1) The Commissioner shall not approve any request to increase
+10 Medicare supplemental supplement insurance premium rates unless the amount
+11 of the rate increase complies with the statutory standards for approval under
+12 sections 4062, 4513, 4584, and 5104 of this title. Any approved rate increase
+13 shall not be based on an unreasonable change in loss ratio from the previous
+14 year, unless the Commissioner makes written findings that such change is
+15 necessary to prevent a substantial adverse impact on the financial condition of
+16 the insurer. In acting on such rate increase requests, the Commissioner may
+17 deny the request, approve the rate increase as requested, or approve a rate
+18 increase in an amount different from the increase requested. A decision by the
+19 Commissioner other than an approval of the rate requested may be appealed by
+20 the insurer, provided that the burden of proof shall be on the insurer to show
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 30 of 55
+1 that the approved rate does not meet the statutory standards established under
+2 this subsection.
+3 (2) Before acting on the rate increase requested, the Commissioner may
+4 make such examination or investigation as he or she the Commissioner deems
+5 necessary, including where applicable the review process set forth in
+6 subdivision (3) of this subsection.
+7 (3) In reviewing any Medicare supplement rate increase for which an
+8 independent analysis has been performed pursuant to 33 V.S.A. § 6706 and
+9 wherein the carrier’s requested composite average increase, the independent
+10 expert’s recommended composite average rate increase, or the Department
+11 actuary’s recommended composite average rate increase differ by two
+12 percentage points or more, the Commissioner shall hold a public hearing where
+13 the insurer, the Department’s actuary, the independent expert, any intervenor,
+14 and the public will have the opportunity to present written and oral testimony
+15 and will be available to answer questions of the Commissioner and those
+16 present. The hearing shall be noticed and held at a time and place so as to
+17 facilitate public participation, and shall be recorded and become part of the
+18 record before the Commissioner. In the Commissioner’s discretion, the
+19 hearing may be conducted through interactive. If the carrier’s requested
+20 composite average increase, the independent expert’s recommended composite
+21 average increase, or the Department actuary’s recommended composite
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 31 of 55
+1 average increase differs by less than two percentage points, the Department
+2 and the parties shall confer by conference call, or by any other available media,
+3 to review the rate requests and recommendations. However, a public hearing
+4 may be held at the Commissioner’s discretion for good cause shown.
+5 (A) For any filing by a health insurance company, hospital or medical
+6 service organization, or health maintenance organization with 5,000 or more
+7 total lives in the Vermont Medicare supplement insurance market in which the
+8 requested composite average rate increase exceeds 10 percent, the
+9 Commissioner shall:
+10 (i) solicit public comment; and
+11 (ii) hold a public hearing in accordance with the Department of
+12 Financial Regulation’s applicable rules regarding administrative procedures if,
+13 not later than 30 days after the rate filing information is posted on the
+14 Department’s website pursuant to subsection (a) of this section, a hearing is
+15 requested by the Department of Disabilities, Aging, and Independent Living;
+16 by the Office of the Health Care Advocate; or by not fewer than 25
+17 policyholders whose premium rates would be affected by the requested rate
+18 increase.
+19 (B) For any filing that does not meet the criteria specified in
+20 subdivision (A) of this subdivision (3), a public hearing may be held in the
+21 Commissioner’s discretion.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 32 of 55
+1 (C) In the Commissioner’s discretion, a hearing held pursuant to this
+2 subdivision (3) may be conducted through a designated electronic meeting
+3 platform.
+4 (4) In any review held in accordance with this subsection, the
+5 Commissioner shall permit intervention by any person that the Commissioner
+6 determines will materially advance the interests of the insured individuals.
+7 The intervenor shall have access to, and may use the information of the
+8 independent expert appointed under 33 V.S.A. § 6706. The reasonable and
+9 necessary cost of intervention as determined by the Commissioner shall be
+10 paid by the affected policyholders or certificate holders. The maximum
+11 payment shall be $2,500.00 except when waived by the Commissioner for
+12 good cause shown. The $2,500.00 maximum amount may be adjusted to
+13 reflect, at the Commissioner’s discretion, appropriate inflation factors. In any
+14 review held in accordance with this section, the Commissioner shall permit
+15 intervention by any person whom the Commissioner determines will materially
+16 advance the interests of the individuals insured under the policy.
+17 (5) Nonproprietary, relevant information in any Medicare supplement
+18 rate filing, including any analysis by the Department’s actuary and the
+19 independent expert, shall be made available to the public upon request.
+20 (e) For a Medicare supplement insurance policy with an effective date of
+21 January 1, the insurer shall file its premium rate request pursuant to this section
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 33 of 55
+1 not later than July 1 of the preceding year. For a Medicare supplement
+2 insurance policy with an effective date other than January 1, the insurer shall
+3 file its rate request pursuant to this section not later than six months prior to the
+4 effective date of the policy.
+5 Sec. 21. REPEAL
+6 33 V.S.A. § 6706 (Medicare supplement insurance; independent analysis) is
+7 repealed.
+8 Sec. 22. 8 V.S.A. § 2571 is amended to read:
+9 § 2571. DEFINITIONS
+10 As used in this subchapter:
+11 (1) “Blockchain” has the same meaning as in 12 V.S.A. § 1913(a)(1).
+12 (2) “Blockchain analytics” means a software service that uses data from
+13 various virtual currencies and their applicable blockchains to provide a risk
+14 rating specific to digital wallet addresses from users of virtual-currency kiosks.
+15 (3) “Digital wallet” means hardware or software that enables individuals
+16 to store and use virtual currency.
+17 (4) “Digital wallet address” means an alphanumeric identifier
+18 representing a destination on a blockchain for a virtual currency transfer that is
+19 associated with a digital wallet.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 34 of 55
+1 (5) “Exchange,” used as a verb, means to assume or exercise control of
+2 virtual currency from or on behalf of a person, including momentarily, to buy,
+3 sell, trade, or convert:
+4 (A) virtual currency for money, monetary value, bank credit, or one
+5 or more forms of virtual currency, or other consideration; or
+6 (B) money, monetary value, bank credit, or other consideration for
+7 one or more forms of virtual currency.
+8 (6) “Existing customer” means a consumer who:
+9 (A) is engaging in a transaction at a virtual-currency kiosk in
+10 Vermont; and
+11 (B) whose first transaction with the virtual-currency kiosk operator
+12 occurred more than 30 days prior.
+13 (7) “New customer” means a consumer who:
+14 (A) is engaging in a transaction at a virtual-currency kiosk in
+15 Vermont; and
+16 (B) whose first transaction with the virtual-currency kiosk operator
+17 occurred not more than 30 days prior.
+18 (2)(8) “Transfer” means to assume or exercise control of virtual
+19 currency from or on behalf of a person and to:
+20 (A) credit the virtual currency to the account or digital wallet of
+21 another person;
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 35 of 55
+1 (B) move the virtual currency from one account or digital wallet of a
+2 person to another account or digital wallet of the same person; or
+3 (C) relinquish or transfer control or ownership of virtual currency to
+4 another person, digital wallet, distributed ledger address, or smart contract.
+5 Sec. 23. 8 V.S.A. § 2574 is amended to read:
+6 § 2574. REQUIRED DISCLOSURES
+7 (a) Licensee disclosures, generally. A person licensed under subchapter 2
+8 of this chapter to engage in virtual-currency business activity shall provide the
+9 disclosures required by this section and any additional disclosure the
+10 Commissioner determines reasonably necessary for the protection of the
+11 public.
+12 (1) A disclosure required by this section must be made separately from
+13 any other information provided by the licensee and in a clear and conspicuous
+14 manner in a record the person may keep.
+15 (2) The Commissioner may waive one or more requirements in
+16 subsections (b)–(d) of this section and approve alternative disclosures proposed
+17 by a licensee if the Commissioner determines that the alternative disclosure is
+18 more appropriate for the virtual-currency business activity and provides the
+19 same or equivalent information and protection to the public.
+20 (b) Licensee disclosures prior to business activity. Before engaging in
+21 virtual-currency business activity with a person, a licensee shall disclose, to the
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 36 of 55
+1 extent applicable to the virtual-currency business activity the licensee will
+2 undertake with the person:
+3 (1) a schedule of fees and charges the licensee may assess, the manner
+4 by which fees and charges will be calculated if they are not set in advance and
+5 disclosed, and the timing of the fees and charges, including general disclosure
+6 regarding mark-ups and mark-downs on purchases, sales, or exchanges of
+7 virtual currency in which the licensee or any affiliate thereof is acting in a
+8 principal capacity;
+9 (2) whether the product or service provided by the licensee is covered
+10 by:
+11 (A) a form of insurance or is otherwise guaranteed against loss by an
+12 agency of the United States:
+13 (i) up to the full U.S. dollar equivalent of virtual currency
+14 purchased from the licensee or for control of virtual currency by the licensee as
+15 of the date of the placement or purchase, including the maximum amount
+16 provided by insurance under the Federal Deposit Insurance Corporation or
+17 otherwise available from the Securities Investor Protection Corporation; or
+18 (ii) if not provided at the full U.S. dollar equivalent of virtual
+19 currency purchased from the licensee or for control of virtual currency by the
+20 licensee, the maximum amount of coverage for each person expressed in the
+21 U.S. dollar equivalent of the virtual currency; or
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 37 of 55
+1 (B) private insurance against theft or loss, including cyber theft or
+2 theft by other means;
+3 (3) the irrevocability of a transfer or exchange and any exception to
+4 irrevocability;
+5 (4) a description of:
+6 (A) liability for an unauthorized, mistaken, or accidental transfer or
+7 exchange;
+8 (B) the person’s responsibility to provide notice to the licensee of the
+9 transfer or exchange;
+10 (C) the basis for any recovery by the person from the licensee;
+11 (D) general error-resolution rights applicable to the transfer or
+12 exchange; and
+13 (E) the method for the person to update the person’s contact
+14 information with the licensee;
+15 (5) that the date or time when the transfer or exchange is made and the
+16 person’s account is debited may differ from the date or time when the person
+17 initiates the instruction to make the transfer or exchange;
+18 (6) whether the person has a right to stop a preauthorized payment or
+19 revoke authorization for a transfer and the procedure to initiate a stop-payment
+20 order or revoke authorization for a subsequent transfer;
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 38 of 55
+1 (7) the person’s right to receive a receipt, trade ticket, or other evidence
+2 of the transfer or exchange;
+3 (8) the person’s right to at least 30 days’ prior notice of a change in the
+4 licensee’s fee schedule, other terms and conditions of operating its virtual-
+5 currency business activity with the person, and the policies applicable to the
+6 person’s account; and
+7 (9) that virtual currency is not money.
+8 (c) Disclosures.
+9 (1) Disclosures prior to each virtual-currency transaction. In connection
+10 with any virtual-currency transaction effected through a money transmission
+11 virtual-currency kiosk in this State, or in any transaction where the licensee or
+12 any affiliate thereof is acting in a principal capacity in a sale of virtual
+13 currency to, or purchase of virtual currency from, a customer, then
+14 immediately prior to effecting such a purchase or sale transaction with or on
+15 behalf of a customer, a licensee shall prominently disclose and shall require the
+16 customer to acknowledge and confirm the terms and conditions of the virtual-
+17 currency transaction, which shall include the following:
+18 (1)(A) the type, value, date, precise time, and amount of the
+19 transaction; and
+20 (2)(B) the consideration charged for the transaction, including:
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 39 of 55
+1 (A)(i) any charge, fee, commission, or other consideration for any
+2 trade, exchange, conversion, or transfer involving virtual currency; and
+3 (B)(ii) any difference between the price paid by the customer for
+4 any virtual currency and the prevailing market price of such virtual currency, if
+5 any;
+6 (C) for a customer of a virtual-currency kiosk, a description of the
+7 virtual-currency kiosk operator’s refund policy, which shall be consistent with
+8 the requirements specified in subsections 2577(k) and (l) of this subchapter;
+9 (D) for a customer of a virtual-currency kiosk, the customer warning
+10 described in subdivision (g)(1) of this section; and
+11 (E) the daily transaction limit, if applicable.
+12 (2) Disclosures for new kiosk accounts. When opening an account for a
+13 new customer, and prior to entering into an initial transaction for, on behalf of,
+14 or with such customer, each virtual-currency kiosk operator shall disclose
+15 relevant terms and conditions associated with its products, services, and
+16 activities and with virtual currency, generally, including disclosures
+17 substantially similar to the following:
+18 (A) the customer’s liability for unauthorized virtual-currency
+19 transactions;
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 40 of 55
+1 (B) under what circumstances the virtual-currency kiosk operator
+2 will, absent a court or government order, disclose information concerning the
+3 customer’s account to third parties;
+4 (C) the customer’s right to receive periodic account statements and
+5 valuations from the virtual-currency kiosk operator;
+6 (D) the customer’s right to receive a receipt, trade ticket, or other
+7 evidence of a transaction;
+8 (E) the customer’s right to prior notice of a change in the virtual-
+9 currency kiosk operator’s rules or policies;
+10 (F) a statement of the material risks associated with virtual-currency
+11 transactions, generally, as described in subsection (h) of this section;
+12 (G) the name and telephone number of the Department of Financial
+13 Regulation and a statement disclosing that a customer may contact the
+14 Department with questions or complaints about a licensee; and
+15 (H) such other disclosures as are customarily given in connection
+16 with the opening of customer accounts.
+17 (d) Licensee receipt requirements. Except as otherwise provided in
+18 subsection (e) of this section, at the conclusion of a virtual-currency
+19 transaction with or on behalf of a person, a licensee shall provide the person
+20 with a receipt that contains:
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 41 of 55
+1 (1) the name and contact information of the licensee, including
+2 information the person may need to ask a question or file a complaint;
+3 (2) the type, value, date, precise time, and amount of the transaction
+4 expressed in U.S. currency;
+5 (3) the consideration charged for the transaction, including:
+6 (A) any charge, fee, commission, or other consideration for any trade,
+7 exchange, conversion, or transfer involving virtual currency; or
+8 (B) the amount of any difference between the price paid by the
+9 customer for any virtual currency and the prevailing market price of such
+10 virtual currency, if any; and
+11 (4) any other information required pursuant to section 2562 of this title.
+12 (e) Licensee daily confirmation. If a licensee discloses that it will provide
+13 a daily confirmation in the initial disclosure under subsection (c)(b) of this
+14 section, the licensee may elect to provide a single, daily confirmation for all
+15 transactions with or on behalf of a person on that day instead of a per-
+16 transaction confirmation.
+17 (f) Kiosk transaction receipt. Notwithstanding any other provision of law
+18 to the contrary, a virtual-currency kiosk operator shall provide a customer with
+19 both a paper and an electronic receipt in a retainable form for each virtual-
+20 currency transaction completed at a virtual-currency kiosk. In addition to the
+21 information required to be included in a receipt under subsection (d) of this
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 42 of 55
+1 section or under section 2562 of this title, each receipt for virtual-currency
+2 transaction completed at a virtual-currency kiosk shall include:
+3 (1) the identification of any applicable digital wallet address to which
+4 virtual currency is transmitted;
+5 (2) the full name of the account owner;
+6 (3) any unique transaction identifiers;
+7 (4) a prominent statement of the virtual-currency kiosk operator’s refund
+8 obligations under this section, in a form approved by the Commissioner;
+9 (5) a statement of the operator’s liability for nondelivery or delayed
+10 delivery of virtual currency; and
+11 (6) the name and telephone number of the Department of Financial
+12 Regulation and a statement disclosing that a customer may contact the
+13 Department with questions or complaints about an operator.
+14 (g) Customer warning.
+15 (1) Prior to entering into a virtual-currency transaction with a customer
+16 at a virtual-currency kiosk, and as required by subdivision (c)(1)(D) of this
+17 section, each virtual-currency kiosk operator shall ensure a warning is
+18 disclosed to the customer substantially similar to the following:
+19 Customer Notice. Please Read Carefully.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 43 of 55
+1 Did you receive a phone call from your bank, software provider, the police,
+2 or were you directed to make a payment for Social Security, a utility bill, an
+3 investment, warrants, or bail money at this kiosk? STOP
+4 Is anyone on the phone pressuring you to make a payment of any kind?
+5 STOP
+6 I understand that the purchase and sale of cryptocurrency may be a final,
+7 irreversible, and nonrefundable transaction.
+8 I confirm I am sending funds to a digital wallet I own or directly have
+9 control over. I confirm that I am using funds gained from my own initiative to
+10 make my transaction.
+11 (2) A virtual-currency kiosk operator shall ensure a customer has a
+12 readily accessible opportunity to end a transaction for any reason prior to its
+13 completion.
+14 (h) Statement of material risks. As used in subdivision (c)(2)(F) of this
+15 section, a statement of material risks associated with virtual-currency
+16 transactions, generally, shall include disclosures substantially similar to the
+17 following:
+18 (1) Virtual currency is not legal tender, is not backed by the
+19 government, and accounts and value balances are not subject to Federal
+20 Deposit Insurance Corporation or Securities Investor Protection Corporation
+21 protections.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 44 of 55
+1 (2) Legislative and regulatory changes or actions at the State, federal, or
+2 international level may adversely affect the use, transfer, exchange, and value
+3 of virtual currency.
+4 (3) Transactions in virtual currency may be irreversible and,
+5 accordingly, losses due to fraudulent or accidental transactions may not be
+6 recoverable.
+7 (4) Some virtual-currency transactions shall be deemed to be made
+8 when recorded on a public ledger, which is not necessarily the date or time that
+9 the customer initiates the transaction.
+10 (5) The value of virtual currency may be derived from the continued
+11 willingness of market participants to exchange fiat currency for virtual
+12 currency, which may result in the potential for permanent and total loss of
+13 value of a particular virtual currency should the market for that virtual
+14 currency disappear.
+15 (6) There is no assurance that a person who accepts a virtual currency as
+16 payment today will continue to do so in the future.
+17 (7) The volatility and unpredictability of the price of virtual currency
+18 relative to fiat currency may result in significant loss over a short period of
+19 time.
+20 (8) The nature of virtual currency may lead to an increased risk of fraud
+21 or cyber attack.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 45 of 55
+1 (9) The nature of virtual currency means that any technological
+2 difficulties experienced by the virtual-currency kiosk operator may prevent the
+3 access or use of a customer’s virtual currency.
+4 (10) Any bond or trust account maintained by the virtual-currency kiosk
+5 operator for the benefit of its customers may not be sufficient to cover all
+6 losses incurred by customers.
+7 Sec. 24. 8 V.S.A. § 2577 is amended to read:
+8 § 2577. VIRTUAL-CURRENCY KIOSK OPERATORS
+9 (a) Daily transaction limit.
+10 (1) A virtual-currency kiosk operator shall not accept or dispense more
+11 than $1,000.00 $2,000.00 of cash in a day in connection with virtual-currency
+12 transactions with a single, new customer in this State via one or more money
+13 transmission virtual-currency kiosks.
+14 (2) A virtual-currency kiosk operator shall not accept or dispense more
+15 than $5,000.00 of cash in a day in connection with virtual-currency
+16 transactions with a single, existing customer in this State via one or more
+17 virtual-currency kiosks.
+18 (b) Fee cap. The aggregate fees and charges, directly or indirectly, charged
+19 to a customer related to a single transaction or series of related transactions
+20 involving virtual currency effected through a money transmission kiosk in this
+21 State, including any difference between the price charged to a customer to buy,
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 46 of 55
+1 sell, exchange, swap, or convert virtual currency and the prevailing market
+2 value of such virtual currency at the time of such transaction, shall not exceed
+3 the greater of the following:
+4 (1) $5.00; or
+5 (2) three 15 percent of the U.S. dollar equivalent of virtual currency
+6 involved in the transaction or transactions.
+7 (c) Single transaction. The purchase, sale, exchange, swap, or conversion
+8 of virtual currency, or the subsequent transfer of virtual currency, in a series of
+9 transactions shall be deemed to be a single transaction for purposes of
+10 subsection (b) subsections (a) and (b) of this section.
+11 (d) Licensing requirement. A virtual-currency kiosk operator shall comply
+12 with the licensing requirements of this subchapter to the extent that the virtual-
+13 currency kiosk operator engages in virtual-currency business activity.
+14 (e) Operator accountability. If a virtual-currency kiosk operator allows or
+15 facilitates another person to engage in virtual-currency business activity via a
+16 money transmission virtual-currency kiosk in this State that is owned,
+17 operated, or managed by the virtual-currency kiosk operator, the virtual-
+18 currency kiosk operator shall do all of the following:
+19 (1) ensure that the person engaging in virtual-currency business activity
+20 is licensed under subchapter 2 of this chapter to engage in virtual-currency
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 47 of 55
+1 business activity and complies with all other applicable provisions of this
+2 chapter;
+3 (2) ensure that any charges collected from a customer via the money
+4 transmission virtual-currency kiosk comply with the limits provided by fee cap
+5 established in subsection (b) of this section; and
+6 (3) comply with all other applicable provisions of this chapter.
+7 (f) Moratorium. To protect the public safety and welfare and safeguard the
+8 rights of consumers, virtual-currency kiosks shall not be permitted to operate
+9 in Vermont prior to July 1, 2025 2026. This moratorium shall not apply to a
+10 virtual-currency kiosk that was duly licensed and operational in Vermont on or
+11 before June 30, 2024.
+12 (g) Report. On or before January 15, 2025, the Commissioner of Financial
+13 Regulation shall report to the House Committee on Commerce and Economic
+14 Development and the Senate Committee on Finance on whether the
+15 requirements of this section coupled with relevant federal requirements are
+16 sufficient to protect customers in Vermont from fraudulent activity. If deemed
+17 necessary and appropriate by the Commissioner, the Commissioner may make
+18 recommendations for additional statutory or regulatory safeguards. In
+19 addition, the Commissioner shall make recommendations for enhanced
+20 oversight and monitoring of virtual-currency kiosks for the purpose of
+21 minimizing their use for illicit activities as described in the U.S. Government
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 48 of 55
+1 Accountability Office report on virtual currencies, GAO-22-105462, dated
+2 December 2021. Customer identification. For each virtual-currency
+3 transaction occurring at a virtual-currency kiosk in this State, the virtual-
+4 currency kiosk operator shall verify the identity of the customer prior to
+5 accepting payment from the customer. A virtual-currency kiosk operator shall
+6 not allow a customer to engage in any transaction at a virtual-currency kiosk
+7 under any name, account, or identity other than the customer’s own true name
+8 and identity. A virtual-currency kiosk operator shall obtain a copy of a
+9 government-issued identification card that identifies the customer and shall
+10 collect additional customer information, including the customer’s name, date
+11 of birth, telephone number, address, and email address prior to accepting any
+12 payment from a customer at a virtual-currency kiosk in this State. In addition,
+13 a virtual-currency kiosk operator shall take a photograph of the customer in a
+14 retainable format at the virtual-currency kiosk for each transaction. A virtual-
+15 currency kiosk operator shall be strictly liable for any violation of this
+16 subsection.
+17 (h) Customer support. A virtual-currency kiosk operator shall offer live,
+18 toll-free, telephone customer support during the hours of operation of a virtual-
+19 currency kiosk. The customer support telephone number shall be displayed on
+20 the virtual-currency kiosk or on the virtual-currency kiosk screen.
+21 (i) Mandatory live screening.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 49 of 55
+1 (1) A virtual-currency kiosk operator shall identify and speak by
+2 telephone with:
+3 (A) a new customer over 60 years of age prior to such customer’s
+4 first virtual-currency transaction with the virtual-currency kiosk operator; or
+5 (B) a customer attempting to conduct more than $5,000.00 in virtual-
+6 currency transactions during any consecutive 10-day period.
+7 (2) The virtual-currency kiosk operator’s approval of a transaction
+8 subject to a mandatory live screening under this subsection shall be dependent
+9 upon its assessment of its communication with the customer during the
+10 screening.
+11 (3) A virtual-currency kiosk operator shall record and retain a copy of
+12 each mandatory live screening.
+13 (4) During the mandatory live screening, the virtual-currency kiosk
+14 operator shall:
+15 (A) positively identify the customer;
+16 (B) reconfirm any attestations made by the customer at the virtual-
+17 currency kiosk;
+18 (C) discuss the purpose of the transaction; and
+19 (D) discuss types of fraudulent schemes relating to virtual currency.
+20 (j) Blockchain analytics. A virtual-currency kiosk operator shall use
+21 blockchain analytics software and retain an established third party that
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 50 of 55
+1 specializes in performing blockchain analytics to assist in the prevention of
+2 sending purchased virtual currency from a virtual-currency kiosk operator to a
+3 digital wallet known to be affiliated with fraudulent activity at the time of a
+4 transaction. The Commissioner may request evidence from any virtual-
+5 currency kiosk operator of its current use of blockchain analytics.
+6 (k) Full refund for new customers. The virtual-currency kiosk operator
+7 shall provide a full refund to a customer who was fraudulently induced to
+8 engage in a virtual-currency kiosk transaction, provided the fraudulently
+9 induced transaction occurred while the customer was a new customer and
+10 further provided the customer contacts the virtual-currency kiosk operator and
+11 a law enforcement or government agency to inform the operator and the
+12 agency of the fraudulent nature of the transaction within 90 days after the
+13 customer’s last virtual-currency transaction with the virtual-currency kiosk
+14 operator. The refund shall include any fees charged in association with the
+15 fraudulently induced transaction.
+16 (l) Fee refund for existing customers. The virtual-currency kiosk operator
+17 shall provide a fee refund to an existing customer who has been fraudulently
+18 induced to engage in a virtual-currency kiosk transaction, provided the
+19 customer contacts the virtual-currency kiosk operator and a law enforcement or
+20 government agency to inform the operator and the agency of the fraudulent
+21 nature of the transaction within 90 days after the last fraudulently induced
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 51 of 55
+1 transaction. The refund shall include all fees charged in association with the
+2 fraudulently induced transaction.
+3 (m) Fraud prevention. A virtual-currency kiosk operator shall take
+4 reasonable steps to detect and prevent fraud, including establishing and
+5 maintaining a written antifraud policy. The antifraud policy shall, at a
+6 minimum, include the following:
+7 (1) the identification and assessment of fraud-related risk areas;
+8 (2) procedures and controls to protect against identified risks;
+9 (3) allocation of responsibility for monitoring risks;
+10 (4) procedures for the periodic evaluation and revision of the antifraud
+11 procedures, controls, and monitoring mechanisms;
+12 (5) procedures and controls that prevent more than one customer from
+13 using the same digital wallet;
+14 (6) procedures and controls that enable the virtual-currency kiosk
+15 operator to prevent a digital wallet from being used at a virtual-currency kiosk
+16 it operates if the operator knows or reasonably should know the digital wallet
+17 is affiliated with fraudulent activities; and
+18 (7) policies and procedures for using a risk-based method for monitoring
+19 customers on a post transaction basis.
+20 (n) Due diligence policy. A virtual-currency kiosk operator shall maintain,
+21 implement, and enforce a written Enhanced Due Diligence Policy. The Policy
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 52 of 55
+1 shall be reviewed and approved by the virtual-currency kiosk operator’s board
+2 of directors or an equivalent governing body of the virtual-currency kiosk
+3 operator. The Policy shall identify, at a minimum, individuals who are at risk
+4 of fraud based on age or mental capacity.
+5 (o) Compliance policies. A virtual-currency kiosk operator shall maintain,
+6 implement, and enforce written compliance policies and procedures. Such
+7 policies and procedures shall be reviewed and approved by the virtual-currency
+8 kiosk operator’s board of directors or an equivalent governing body of the
+9 virtual-currency kiosk operator.
+10 (p) Compliance officer.
+11 (1) A virtual-currency kiosk operator shall designate and employ a
+12 compliance officer who meets the following requirements:
+13 (A) is qualified to coordinate and monitor compliance with this
+14 section and all other applicable federal and State laws and regulations;
+15 (B) is employed full-time by the virtual-currency kiosk operator; and
+16 (C) is not an individual who owns more than 20 percent of the
+17 virtual-currency kiosk operator by whom the individual is employed.
+18 (2) Compliance responsibilities required under federal and State law and
+19 regulation shall be completed by one or more full-time employees of the
+20 virtual-currency kiosk operator.
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 53 of 55
+1 (q) Consumer protection officer. A virtual-currency kiosk operator shall
+2 designate and employ a consumer protection officer who meets the following
+3 requirements:
+4 (1) is qualified to coordinate and monitor compliance with this section
+5 and all other applicable federal and State laws and regulations;
+6 (2) is employed full-time by the virtual-currency kiosk operator; and
+7 (3) is not an individual who owns more than 20 percent of the virtual-
+8 currency kiosk operator by whom the individual is employed.
+9 (r) The Commissioner may adopt rules the Commissioner deems necessary
+10 and proper to carry out the purposes of this section, including with respect to
+11 what constitutes fraudulent activity or a fraudulently induced transaction in the
+12 context of customer transactions at a virtual-currency kiosk.
+13 Sec. 25. 8 V.S.A. § 13301 is amended to read:
+14 § 13301. CORPORATORS OF MUTUAL FINANCIAL INSTITUTIONS
+15 (a) Persons named in the organizational documents constitute the original
+16 board of corporators of a mutual financial institution. Membership on this
+17 board continues until terminated by death, resignation, or disqualification as
+18 provided in this section.
+19 (b) All corporators shall be residents of the geographic area that the
+20 financial institution serves or an area proximate to this geographic area. A
+21 person may shall not continue as a corporator after ceasing to be a resident of
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 54 of 55
+1 the financial institution’s geographic area or an area proximate to this
+2 geographic area.
+3 (c) Any corporator failing to attend the annual meeting of the board of
+4 corporators for two successive years ceases to be a member of the board unless
+5 reelected by a vote of the remaining corporators.
+6 (d) The number of corporators may be fixed or altered by the internal
+7 governance documents of the financial institution, and vacancies may be filled
+8 by election at any annual meeting.
+9 (e) More than 50 percent of all corporators shall be depositors of the
+10 financial institution.
+11 (f) At least two-thirds of all corporators shall be independent. As used in
+12 this subsection, an “independent corporator” means an individual who is not an
+13 employee, director, or officer of the financial institution, its subsidiaries, or its
+14 affiliates.
+15 (g) Corporators shall be fiduciaries of the depositor base and shall exercise
+16 their authority in the best interests of the depositors with a duty of loyalty and
+17 care. In exercising their duties as corporators, corporators shall consider the
+18 interests of the depositors, the borrowers, and other customers of the financial
+19 institution; the general benefit and economic well-being of the communities
+VT LEG #383481 v.1
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 55 of 55
+1 served by the financial institution; and the safety, soundness, and general
+2 business needs of the financial institution.
+3 Sec. 26. EFFECTIVE DATES
+4 This act shall take effect on July 1, 2025, except that Secs. 20 and 21
+5 (Medicare supplement insurance) shall take effect on January 1, 2026.
+VT LEG #383481 v.1
+[DELETED:  H P H A I S §   ( r o ( i r s s i o r r i ( d r]
+[DELETED:  H P p C p o t m ( a C a i ( ( o r t S §   T m]
+[DELETED:  H P e c C S ( s i i p i C i C A p s i p o S]
+[DELETED:  H P §   * ( ( i r p p p ( r s S ( b r i H ( b]
+[DELETED:  H P ( c ( r p d t S ( a C c s 3 c ( t ( b]
+[DELETED:  H P ( a s ( b i t C ( f i b t ( C i ( a ( o]
+[DELETED:  H P ( p o m a s b s C ( o a ( r i u ( m ( o]
+[DELETED:  H P ( e ( c p t m p ( s S ( p r S ( c p a a]
+[DELETED:  H P c t S §   * ( c u p p c c ( c ( s a b o]
+[DELETED:  H P ( t t t ( p p p c * S ( s l ( b m ( i s]
+[DELETED:  H P ( c ( a c ( o t ( d ( a s e u l b t a ( t]
+[DELETED:  H P i r a m ( m ( i h s a ( b l g i a C ( s t]
+[DELETED:  H P t t ( a S f o m o ( f S ( c c i i c c r c]
+[DELETED:  H P p s a a a o r p A a a c o r c C c i r p f]
+[DELETED:  H P S ( a o u o a S ( o ( s c a ( o t o i ( S]
+[DELETED:  H P § P w s t i o l t f p c c j S ( a o a a t]
+[DELETED:  H P ( f c ( p p t s ( s r i S ( g ( ( r p d]
+[DELETED:  H P ( t m r ( m r h ( g c t p f p b c c ( w]
+[DELETED:  H P e c ( e o ( ( r ( o s t ( e ( t r e i e]
+[DELETED:  H P ( a u r f g p d c r w * ( r a s n S § T *]
+[DELETED:  H P ( i a r s S ( e o a ( ( t ( r ( l p ( f]
+[DELETED:  H P i c ( r p i s ( i ( t ( i a n ( c t c S §]
+[DELETED:  H P ( c * ( s a ( l ( r o ( a i a u S   ( r p]
+[DELETED:  H P m r ( s A A a ( t ( ( p ( h ( o ( a s ( s]
+[DELETED:  H P ( g a ( ( s r E a t S S ( r c p p l ( s B]
+[DELETED:  H P t a ( t ( ( d ( a ( a t a ( a ( e ( ( C]
+[DELETED:  H P C C S   O g C H C l r t o o a S §   ( p i]
+[DELETED:  H P m i ( s i ( ( ( ( n e ( d ( a c c s h m M]
+[DELETED:  H P D t a o ( s I e ( M o s s y n t d i C t]
+[DELETED:  H P t t ( m n s ( i w e a p t a a p f r h c a]
+[DELETED:  H P a a t m ( s t r C ( ( F n D r b p i ( s C]
+[DELETED:  H P ( s p ( C d T i n p p g r r i a ( r i ( J]
+[DELETED:  H P n i f e S 3 r S § A ( ( v r ( t ( r a]
+[DELETED:  H P ( v s ( o ( o ( ( V ( o ( ( V ( o ( c ( a]
+[DELETED:  H P ( p ( a S § ( o d C p ( a m ( s b m s ( v]
+[DELETED:  H P e u ( b d r v p ( b ( a ( p o p o ( c l U]
+[DELETED:  H P ( t ( i ( ( e ( t ( ( e ( i ( p i ( r o]
+[DELETED:  H P ( o ( l c p ( ( ( w v a c i b c c ( t (]
+[DELETED:  H P ( t ( a a ( v t ( d ( ( n o r a s ( t]
+[DELETED:  H P ( w c ( v ( e ( c ( t ( R D ( w ( s t w]
+[DELETED:  H P ( i ( e ( ( e ( c v ( ( a s t t ( t b c i]
+[DELETED:  H P s t ( v ( ( ( o ( d ( R D ( ( a s d C]
+[DELETED:  H P D o i I S I i I c m ( r c ( s t f ( g D p]
+[DELETED:  H P ( i o ( a r ( w t ( w c v c ( p ( r t ( o]
+[DELETED:  H P ( d a ( o l S § ( ( t t t ( t t v ( t i S]
+[DELETED:  H P s v t ( ( i ( o t s ( w c ( f m o c ( i]
+[DELETED:  H P b c ( t e ( ( r i v b ( R D r s n r a o m]
+[DELETED:  H P A D t c a n u a g c o p a r c s ( t c t (]
+[DELETED:  H P ( t ( f ( c ( s u s ( e ( o ( ( c ( ( ( b]
+[DELETED:  H P s s d t c ( s e i f a a c o f ( s i c g n]
+[DELETED:  H P t f ( r m m ( ( ( ( p ( u ( o i i ( c ( i]
+[DELETED:  H P s o o o ( i p k v ( ( c ( s ( ( v ( r v]
+[DELETED:  H P ( d r ( a ( ( c ( a w c S § ( b b p ( f p]
+[DELETED:  H P t g ( c r ( g b ( f ( t e a ( t c i i]
+[DELETED:  H P s b S T (]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 1 of 55
+1 H.137
+2 An act relating to the regulation of insurance products and services
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 8 V.S.A. § 23 is amended to read:
+5 § 23. CONFIDENTIALITY OF INVESTIGATION AND EXAMINATION
+6 REPORTS
+7 (a) This section shall apply to all persons licensed, authorized, or
+8 registered, or required to be licensed, authorized, or registered, under this title
+9 or under 9 V.S.A. chapter 150 by the Commissioner.
+10 (b) Regardless of source, all records of investigations, including
+11 information pertaining to a complaint by or for a consumer, and all records and
+12 reports of examinations by the Commissioner, whether in the possession of a
+13 supervisory agency or another person, shall be confidential and privileged,
+14 shall not be made public, and shall not be subject to discovery or introduction
+15 into evidence in any private civil action. No person who participated on behalf
+16 of the Commissioner in an investigation or examination shall be permitted or
+17 required to testify in any such civil action as to any findings,
+18 recommendations, opinions, results, or other actions relating to the
+19 investigation or examination.
+20 (c) The Commissioner may, in his or her the Commissioner’s discretion,
+21 disclose or publish or authorize the disclosure or publication of any such
+22 record or report or any part thereof in the furtherance of legal or regulatory
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 2 of 55
+1 proceedings brought as a part of the Commissioner’s official duties. The
+2 Commissioner may, in his or her the Commissioner’s discretion, disclose or
+3 publish or authorize the disclosure or publication of any such record or report
+4 or any part thereof, to civil or criminal law enforcement authorities for use in
+5 the exercise of such authority’s duties, in such manner as the Commissioner
+6 may deem proper.
+7 (d) For the purposes of this section, records of investigations and records
+8 and reports of examinations shall include joint examinations by the
+9 Commissioner and any other supervisory agency. Records of investigations
+10 and reports of examinations shall also include records of examinations and
+11 investigations conducted by:
+12 (1) any agency with supervisory jurisdiction over the person; and
+13 (2) any agency of any foreign government with supervisory jurisdiction
+14 over any person subject to the jurisdiction of the Department, when such
+15 records are considered confidential by such agency or foreign government and
+16 the records are in the possession of the Commissioner.
+17 Sec. 2. 8 V.S.A. § 3303 is amended to read:
+18 § 3303. MUTUAL COMPANIES; DIRECTORS, CHARTER PROVISIONS
+19 AS TO
+20 The articles of association or bylaws of a mutual insurer shall set forth the
+21 manner in which its board of directors or other governing body shall be
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 3 of 55
+1 elected, and in which meetings of policyholders shall be called, held, and
+2 conducted, subject to such procedures as may be required by the
+3 Commissioner under section 75 subsection 15(a) of this title.
+4 Sec. 3. 8 V.S.A. § 4688(a) is amended to read:
+5 (a) Filings as to competitive markets. Except with respect to filings
+6 submitted pursuant to section 4687 of this title, in a competitive market, every
+7 insurer shall file with the Commissioner all rates and supplementary rate
+8 information, and supporting information that are to be used in this State,
+9 provided that such rates and information need not be filed for specifically rated
+10 inland marine risks or such other risks that are designated by regulation of the
+11 Commissioner as not requiring a filing. Such rates, supplementary rate
+12 information, and supporting information shall be provided to the
+13 Commissioner not later than 15 days after 30 days prior to the effective date.
+14 An insurer may adopt by reference, with or without deviation or modification,
+15 provided that said deviation or modification is readily identifiable, the rates,
+16 supplementary rate information, and supporting information filed by another
+17 insurer or an advisory or service organization with which it is affiliated;
+18 provided, however, such an adoption shall not relieve an insurer from any
+19 other requirements of this chapter.
+20 Sec. 4. 8 V.S.A. § 4724 is amended to read:
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 4 of 55
+1 § 4724. UNFAIR METHODS OF COMPETITION OR UNFAIR OR
+2 DECEPTIVE ACTS OR PRACTICES DEFINED
+3 * * *
+4 (23) Affordable housing; unfair discrimination.
+5 (A) An insurer that issues or delivers in this State a policy of
+6 insurance covering loss of or damage to real property containing units for
+7 residential purposes or legal liability of an owner or renter of such real
+8 property shall not cancel, refuse to issue, refuse to renew, or increase the
+9 premium of a policy, or exclude, limit, restrict, or reduce coverage under a
+10 policy, based on the following:
+11 (i) whether the residential building contains dwelling units that are
+12 required to be affordable to residents at a specific income level pursuant to a
+13 statute, regulation, restrictive declaration, or regulatory agreement with a local,
+14 State, or federal government entity;
+15 (ii) whether the real property owner or tenants of such residential
+16 building or the shareholders of a cooperative housing corporation receive
+17 rental assistance provided by a local, State, or federal government entity,
+18 including the receipt of federal vouchers issued under Section 8 of the U.S.
+19 Housing Act of 1937, 42 U.S.C. § 1437f;
+20 (iii) the level or source of income of the tenants of the residential
+21 building or the shareholders of a cooperative housing corporation; or
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 5 of 55
+1 (iv) whether the residential building is owned by a limited-equity
+2 cooperative, public housing agency, or cooperative housing corporation.
+3 (B) Nothing in this section shall prohibit an insurer from cancelling,
+4 refusing to issue, refusing to renew, or increasing the premium of an insurance
+5 policy, or excluding, limiting, restricting, or reducing coverage under a policy,
+6 due to other factors that are permitted or not prohibited by any other section of
+7 this chapter.
+8 Sec. 5. 8 V.S.A. § 6002(a) is amended to read:
+9 (a) Any captive insurance company, when permitted by its articles of
+10 association, charter, or other organizational document, may apply to the
+11 Commissioner for a license to do any and all conduct insurance business
+12 comprised in subdivisions 3301(a)(1), (2), (3)(A)-(C), (E)-(Q), and (4)-(9)
+13 section 3301 of this title and may grant annuity contracts as defined in section
+14 3717 of this title and may accept or transfer risk by means of a parametric
+15 contract; provided, however, that:
+16 (1) No pure captive insurance company may insure any risks other than
+17 those of its parent and affiliated companies or controlled unaffiliated business.
+18 (2) No agency captive insurance company may do any insurance
+19 business in this State unless:
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 6 of 55
+1 (A) an insurance agency or brokerage that owns or controls the
+2 agency captive insurance company remains in regulatory good standing in all
+3 states in which it is licensed;
+4 (B) it insures only the risks of the commercial policies that are placed
+5 by or through an insurance agency or brokerage that owns or directly or
+6 indirectly controls the agency captive insurance company and, if required by
+7 the Commissioner in his or her the Commissioner’s discretion, it provides the
+8 Commissioner the form of such commercial policies;
+9 (C) it discloses to the original policyholder or policyholders, in a
+10 form or manner approved by the Commissioner, that the agency captive
+11 insurance company as a result of its affiliation with an insurance agency or
+12 brokerage may enter into a reinsurance or other risk-sharing agreement with
+13 the agency or brokerage; and
+14 (D) if required by the Commissioner in his or her the
+15 Commissioner’s discretion, the business written by an agency captive
+16 insurance company is:
+17 (i) Fronted by an insurance company licensed under the laws of
+18 any state.
+19 (ii) Reinsured by a reinsurer authorized or approved by the State
+20 of Vermont.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 7 of 55
+1 (iii) Secured by a trust fund in the United States for the benefit of
+2 policyholders and claimants or funded by an irrevocable letter of credit or
+3 other arrangement that is acceptable to the Commissioner. The Commissioner
+4 may require the agency captive insurance company to increase the funding of
+5 any security arrangement established under this subdivision. If the form of
+6 security is a letter of credit, the letter of credit shall be issued or confirmed by a
+7 bank approved by the Commissioner. A trust maintained pursuant to this
+8 subdivision shall be established in a form and upon terms approved by the
+9 Commissioner.
+10 (3) No association captive insurance company may insure any risks
+11 other than those of its association, those of the member organizations of its
+12 association, and those of a member organization’s affiliated companies.
+13 (4) No industrial insured captive insurance company may insure any
+14 risks other than those of the industrial insureds that comprise the industrial
+15 insured group, those of their affiliated companies, and those of the controlled
+16 unaffiliated business of an industrial insured or its affiliated companies.
+17 (5) No risk retention group may insure any risks other than those of its
+18 members and owners.
+19 (6) No captive insurance company may provide personal motor vehicle
+20 or homeowner’s insurance coverage or any component thereof.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 8 of 55
+1 (7) No captive insurance company may accept or cede reinsurance
+2 except as provided in section 6011 of this title.
+3 (8) Any captive insurance company may provide excess workers’
+4 compensation insurance to its parent and affiliated companies, unless
+5 prohibited by the federal law or laws of the state having jurisdiction over the
+6 transaction. Any captive insurance company, unless prohibited by federal law,
+7 may reinsure workers’ compensation of a qualified self-insured plan of its
+8 parent and affiliated companies.
+9 (9) Any captive insurance company that insures risks described in
+10 subdivisions 3301(a)(1) and (2) of this title shall comply with all applicable
+11 State and federal laws.
+12 (10) Any captive insurance company that transfers risk by means of a
+13 parametric contract shall comply with all applicable State and federal laws and
+14 regulations.
+15 Sec. 6. 8 V.S.A. § 6004(d) is amended to read:
+16 (d) Within 30 days after commencing business, each captive insurance
+17 company shall file with the Commissioner a statement under oath of its
+18 president and secretary or, in the case of a captive insurance company formed
+19 as a limited liability company or as a reciprocal insurer, of two individuals
+20 authorized by the governing board certifying that the captive insurance
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 9 of 55
+1 company possessed the requisite unimpaired, paid-in capital and surplus prior
+2 to commencing business.
+3 Sec. 7. 8 V.S.A. § 6006 is amended to read:
+4 § 6006. FORMATION OF CAPTIVE INSURANCE COMPANIES IN THIS
+5 STATE
+6 * * *
+7 (h) Other than captive insurance companies formed as limited liability
+8 companies under 11 V.S.A. chapter 21 chapter 25 or as nonprofit corporations
+9 under Title 11B, captive insurance companies formed as corporations under the
+10 provisions of this chapter shall have the privileges and be subject to the
+11 provisions of Title 11A as well as the applicable provisions contained in this
+12 chapter. In the event of conflict between the provisions of said general
+13 corporation law and the provisions of this chapter, the latter shall control.
+14 (i) Captive insurance companies formed under the provisions of this
+15 chapter:
+16 (1) As limited liability companies shall have the privileges and be
+17 subject to the provisions of 11 V.S.A. chapter 21 chapter 25 as well as the
+18 applicable provisions contained in this chapter. In the event of a conflict
+19 between the provisions of 11 V.S.A. chapter 21 chapter 25 and the provisions
+20 of this chapter, the latter shall control.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 10 of 55
+1 (2) As nonprofit corporations shall have the privileges and be subject to
+2 the provisions of Title 11B as well as the applicable provisions contained in
+3 this chapter. In the event of conflict between the provisions of Title 11B and
+4 the provisions of this chapter, the latter shall control.
+5 (3) As mutual insurers shall have the privileges and be subject to the
+6 provisions of sections 3303 and 3311 of this title as well as the applicable
+7 provisions contained in this chapter. In the event of a conflict between the
+8 provisions of sections 3303 and 3311 of this title and the provisions of this
+9 chapter, the latter shall control.
+10 * * *
+11 Sec. 8. 8 V.S.A. § 6006a(a) is amended to read:
+12 (a) Any captive insurance company meeting the qualifications set forth in
+13 subdivision 6006(j)(1) of this title may merge with any other insurer, whether
+14 licensed in this State or elsewhere, in the following manner:
+15 (1) The board of directors of each insurer shall, by a resolution adopted
+16 by a majority vote of the members of such board, approve a joint agreement of
+17 merger setting forth:
+18 (A) the names of the insurers proposed to merge, and the name of the
+19 insurer into which they propose to merge, which is hereafter designated as the
+20 surviving company;
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 11 of 55
+1 (B) the terms and conditions of the proposed merger and the mode of
+2 carrying the same into effect;
+3 (C) the manner and basis of converting the ownership interests, if
+4 applicable, in other than the surviving insurer into ownership interests or other
+5 consideration, securities, or obligations of the surviving insurer;
+6 (D) a restatement of such provisions of the articles of incorporation
+7 of the surviving insurer as may be deemed necessary or advisable to give effect
+8 to the proposed merger; and
+9 (E) any other provisions with respect to the proposed merger as are
+10 deemed necessary or desirable.
+11 (2) The resolution of the board of directors of each insurer approving the
+12 agreement shall direct that the agreement be submitted to a vote of the
+13 shareholders, members, or policyholders, as the case may be, of each insurer
+14 entitled to vote in respect thereof at a designated meeting thereof, or via
+15 unanimous written consent of such shareholders, members, or policyholders in
+16 lieu of a meeting. Notice of the meeting shall be given as provided in the
+17 bylaws, charter, or articles of association, or other governance document, as
+18 the case may be, of each insurer and shall specifically reflect the agreement as
+19 a matter to be considered at the meeting.
+20 (3) The agreement of merger so approved shall be submitted to a vote of
+21 the shareholders, members, or policyholders, as the case may be, of each
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 12 of 55
+1 insurer entitled to vote in respect thereof at the meeting directed by the
+2 resolution of the board of directors of such company approving the agreement,
+3 and the agreement shall be unanimously adopted by the shareholders,
+4 members, or policyholders, as the case may be.
+5 (4) Following the adoption of the agreement by any insurer, articles of
+6 merger shall be adopted in the following manner:
+7 (A) Upon the execution of the agreement of merger by all of the
+8 insurers parties thereto, there shall be executed and filed, in the manner
+9 hereafter provided, articles of merger setting forth the agreement of merger, the
+10 signatures of the several insurers parties thereto, the manner of its adoption,
+11 and the vote by which adopted by each insurer.
+12 (B) The articles of merger shall be signed on behalf of each insurer
+13 by a duly authorized officer or, in the case of an insurer formed as a limited
+14 liability company or as a reciprocal insurer, by an individual authorized by the
+15 governing board, in such multiple copies as shall be required to enable the
+16 insurers to comply with the provisions of this subchapter with respect to filing
+17 and recording the articles of merger, and shall then be presented to the
+18 Commissioner.
+19 (C) The Commissioner shall approve the articles of merger if he or
+20 she the Commissioner finds that the merger will promote the general good of
+21 the State in conformity with those standards set forth in section 3305 of this
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 13 of 55
+1 title. If he or she the Commissioner approves the articles of merger, he or she
+2 the Commissioner shall issue a certificate of approval of merger.
+3 (5) The insurer shall file the articles of merger, accompanied by the
+4 agreement of merger and the certificate of approval of merger, with the
+5 Secretary of State and pay all fees as required by law. If the Secretary of State
+6 finds that they conform to law, he or she the Secretary shall issue a certificate
+7 of merger and return it to the surviving insurer or its representatives. The
+8 merger shall take effect upon the filing of articles of merger with the Secretary
+9 of State, unless a later effective date is specified therein.
+10 (6) The surviving insurer shall file a copy of the certificate of merger
+11 from the Secretary of State with the Commissioner.
+12 Sec. 9. 8 V.S.A. § 6007(b) is amended to read:
+13 (b) Prior to March 1 of each year, and prior to March 15 of each year in the
+14 case of pure captive insurance companies, association captive insurance
+15 companies, sponsored captive insurance companies, industrial insured captive
+16 insurance companies, or agency captive insurance companies, each captive
+17 insurance company shall submit to the Commissioner a report of its financial
+18 condition, verified by oath of two of its executive officers or, in the case of a
+19 captive insurance company formed as a limited liability company or as a
+20 reciprocal insurer, of two individuals authorized by the governing board. Each
+21 captive insurance company shall report using generally accepted accounting
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 14 of 55
+1 principles, statutory accounting principles, or international financial reporting
+2 standards unless the Commissioner requires, approves, or accepts the use of
+3 any other comprehensive basis of accounting, in each case with any
+4 appropriate or necessary modifications or adaptations thereof required or
+5 approved or accepted by the Commissioner for the type of insurance and kinds
+6 of insurers to be reported upon, and as supplemented by additional information
+7 required by the Commissioner. As used in this section, statutory accounting
+8 principles shall mean the accounting principles codified in the NAIC
+9 Accounting Practices and Procedures Manual. Upon application for
+10 admission, a captive insurance company shall select, with explanation, an
+11 accounting method for reporting. Any change in a captive insurance
+12 company’s accounting method shall require prior approval. Except as
+13 otherwise provided, each risk retention group shall file its report in the form
+14 required by subsection 3561(a) of this title, and each risk retention group shall
+15 comply with the requirements set forth in section 3569 of this title. The
+16 Commissioner shall by rule propose the forms in which pure captive insurance
+17 companies, association captive insurance companies, sponsored captive
+18 insurance companies, and industrial insured captive insurance companies shall
+19 report. Subdivision 6002(c)(3) of this title shall apply to each report filed
+20 pursuant to this section, except that such subdivision shall not apply to reports
+21 filed by risk retention groups.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 15 of 55
+1 Sec. 10. 8 V.S.A. § 6011(a) is amended to read:
+2 (a) Any captive insurance company may provide reinsurance, of policies
+3 approved by the Commissioner comprised in subsection 3301(a) section 3301
+4 of this title, on risks of its parent, affiliated companies, and controlled
+5 unaffiliated business ceded by any other insurer, and may provide reinsurance
+6 of annuity contracts as defined in section 3717 of this title that are granted by
+7 any other insurer.
+8 Sec. 11. 8 V.S.A. § 6024(c) is amended to read:
+9 (c) A dormant captive insurance company that has been issued a certificate
+10 of dormancy shall:
+11 (1) possess and thereafter maintain unimpaired, paid-in capital and
+12 surplus of not less than $25,000.00; provided, however, that if the dormant
+13 captive insurance company had never capitalized, it shall not be required to
+14 add capital upon entering dormancy;
+15 (2) prior to March 15 of each year, submit to the Commissioner a report
+16 of its financial condition, verified by oath of two of its executive officers or, in
+17 the case of a captive insurance company formed as a limited liability company
+18 or as a reciprocal insurer, of two individuals authorized by its governing board,
+19 in a form as may be prescribed by the Commissioner; and
+20 (3) pay a license renewal fee of $500.00.
+21 Sec. 12. 8 V.S.A. § 6045 is amended to read:
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 16 of 55
+1 § 6045. BRANCH CAPTIVE REPORTS
+2 Prior to March 15 of each year, or with the approval of the Commissioner
+3 within 75 days after its fiscal year-end, a branch captive insurance company
+4 shall file with the Commissioner a copy of all reports and statements required
+5 to be filed under the laws of the jurisdiction in which the alien captive
+6 insurance company is formed, verified by oath of two of its executive officers
+7 or, in the case of a branch captive insurance company formed as a limited
+8 liability company or as a reciprocal insurer, of two individuals authorized by
+9 the governing board. If the Commissioner is satisfied that the annual report
+10 filed by the alien captive insurance company in its domiciliary jurisdiction
+11 provides adequate information concerning the financial condition of the alien
+12 captive insurance company, the Commissioner may waive the requirement for
+13 completion of the captive annual statement for business written in the alien
+14 jurisdiction.
+15 Sec. 13. 8 V.S.A. § 6048d(c)(2) is amended to read:
+16 (2) The special purpose financial insurance company shall submit an
+17 affidavit of its president, a vice president, the treasurer, or the chief financial
+18 officer or, in the case of a special purpose financial insurance company formed
+19 as a limited liability company or as a reciprocal insurer, of an individual
+20 authorized by the governing board that includes the following statements, to
+21 the best of such person’s knowledge and belief after reasonable inquiry:
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 17 of 55
+1 (A) the proposed organization and operation of the special purpose
+2 financial insurance company comply with all applicable provisions of this
+3 chapter;
+4 (B) the special purpose financial insurance company’s investment
+5 policy reflects and takes into account the liquidity of assets and the reasonable
+6 preservation, administration, and management of such assets with respect to
+7 the risks associated with the reinsurance contract and the insurance
+8 securitization transaction; and
+9 (C) the reinsurance contract and any arrangement for securing the
+10 special purpose financial insurance company’s obligations under such
+11 reinsurance contract, including any agreements or other documentation to
+12 implement such arrangement, comply with the provisions of this subchapter.
+13 Sec. 14. 8 V.S.A. § 6052(g) is amended to read:
+14 (g) This subsection establishes governance standards for a risk retention
+15 group.
+16 (1) As used in this subsection:
+17 (A) “Board of directors” or “board” means the governing body of a
+18 risk retention group elected by risk retention group members to establish
+19 policy, elect or appoint officers and committees, and make other governing
+20 decisions.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 18 of 55
+1 (B) “Director” means a natural person designated in the articles of
+2 the risk retention group or designated, elected, or appointed by any other
+3 manner, name, or title to act as a member of the governing body of the risk
+4 retention group.
+5 (C)(i) “Independent director” means a director who does not have a
+6 material relationship with the risk retention group. A director has a material
+7 relationship with a risk retention group if he or she the director, or a member of
+8 his or her the director’s immediate family:
+9 (I)(i) In any 12-month period, receives from the risk retention
+10 group, or from a consultant or service provider to the risk retention group,
+11 compensation or other item or items of value in an amount equal to or greater
+12 than five percent of the risk retention group’s gross written premium or two
+13 percent of the risk retention group’s surplus, as measured at the end of any
+14 fiscal quarter falling in such 12-month period, whichever is greater. This
+15 provision also applies to compensation or items of value received by any
+16 business with which the director is affiliated. Such material relationship shall
+17 continue for one year after receipt of the item or items of value or the
+18 compensation falls below the threshold established in this subdivision.
+19 (II)(ii) Has a relationship with an auditor as follows: Is affiliated
+20 with or employed in a professional capacity by a current or former internal or
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 19 of 55
+1 external auditor of the risk retention group. Such material relationship shall
+2 continue for one year after the affiliation or employment ends.
+3 (aa)(iii) Is employed as an executive officer of another business
+4 entity that is affiliated with the risk retention group by virtue of common
+5 ownership and control, if such entity meets all of the following criteria:
+6 (AA)(I) the entity is not an insured of the risk retention group;
+7 (BB)(II) the entity has a contractual relationship with the risk
+8 retention group; and
+9 (CC)(III) the governing board of the entity includes executive
+10 officers of the risk retention group, unless a majority of the membership of
+11 such entity’s governing board is composed of individuals who are members of
+12 the governing board of the risk retention group.
+13 (bb)(IV) Such material relationship shall continue until the
+14 employment or service ends.
+15 (ii)(iv) Notwithstanding subdivision (i) subdivisions (i)–(iii) of
+16 this subdivision (g)(1)(C), a director who is a direct or indirect owner of the
+17 risk retention group is deemed to be independent; and an officer, director, or
+18 employee of an insured of the risk retention group is deemed to be
+19 independent, unless some other relationship of such officer, director, or
+20 employee qualifies as a material relationship.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 20 of 55
+1 (D) “Material service provider” includes a captive manager, auditor,
+2 accountant, actuary, investment advisor, attorney, managing general
+3 underwriter, or other person responsible for underwriting, determination of
+4 rates, premium collection, claims adjustment or settlement, or preparation of
+5 financial statements, whose aggregate annual contract fees are equal to or
+6 greater than five percent of the risk retention group’s annual gross written
+7 premium or two percent of its surplus, whichever is greater. It does not mean
+8 defense counsel retained by a risk retention group, unless his or her the defense
+9 counsel’s annual fees have been equal to or greater than five percent of a risk
+10 retention group’s annual gross premium or two percent of its surplus,
+11 whichever is greater, during three or more of the previous five years.
+12 * * *
+13 (9) The president or chief executive officer or, in the case of a risk
+14 retention group formed as a limited liability company or as a reciprocal insurer,
+15 an individual authorized by the board of directors of a risk retention group
+16 shall promptly notify the Commissioner in writing of any known material
+17 noncompliance with the governance standards established in this subsection.
+18 Sec. 15. 8 V.S.A. § 2504 is amended to read:
+19 § 2504. EXEMPTIONS
+20 This chapter does not apply to:
+21 * * *
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 21 of 55
+1 (18) A person that performs payroll calculations, prepares payroll
+2 instructions, prepares and files State or federal income withholding tax reports
+3 and unemployment insurance compensation reports, or provides other payroll-
+4 related services, but that does not engage in the business of payroll processing
+5 services or otherwise engage in the business of money transmission in this
+6 State or other acts requiring a license under this chapter.
+7 (19) A person that does not provide payroll processing services to any
+8 employer that has its principal place of business in this State and that does not
+9 otherwise engage in the business of money transmission in this State or other
+10 acts requiring a license under this chapter.
+11 (20) A person that:
+12 (A) provides payroll processing services to 25 or fewer employers
+13 that have their principal place of business in this State;
+14 (B) provides payroll processing services to 500 or fewer employers,
+15 regardless of where the principal place of business of each employer is located;
+16 (C) provides payroll processing services involving transmission to
+17 less than 300 Vermont resident employees, regardless of where the principal
+18 place of business of their employer is located;
+19 (D) has not been convicted of, or pled guilty or nolo contendere to, a
+20 felony in a domestic, foreign, or military court, and no key individual or person
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 22 of 55
+1 in control of such person has been convicted of, or pled guilty or nolo
+2 contendere to, a felony in a domestic, foreign, or military court;
+3 (E) has never had a financial services license or professional license
+4 revoked in any jurisdiction and no key individual or person in control of such
+5 person has ever had a financial services license or professional license revoked
+6 in any jurisdiction, except that a subsequent formal vacation of such revocation
+7 shall not be deemed a revocation;
+8 (F) does not otherwise engage in the business of money transmission
+9 in this State or other acts requiring a license under this chapter; and
+10 (G) receives and holds all money or monetary value received for
+11 transmission exclusively in:
+12 (i) segregated trust accounts with federally insured financial
+13 institutions or credit unions for the benefit of its employer customers or
+14 applicable governmental authorities, such that the funds in such accounts are
+15 not subject to claims or liens of its creditors; or
+16 (ii) deposit accounts at federally insured financial institutions or
+17 credit unions that are both titled in the name and tax identification number of
+18 the financial institution or credit union and for the benefit of the person’s
+19 customers.
+20 Sec. 16. 9 V.S.A. § 42 is amended to read:
+21 § 42. PERMITTED CHARGES
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 23 of 55
+1 (a) Except for interest as provided in this chapter, a lender shall make no
+2 charges against a borrower for the use or forbearance of money other than:
+3 * * *
+4 (7) the reasonable cost of private mortgage guaranty insurance subject to
+5 such limitation as the Commissioner of Financial Regulation has approved;
+6 and
+7 (8) the reasonable fees associated with a credit card, agreed upon by the
+8 lender and borrower, including late charges and over-limit charges; and
+9 (9) discount points, at the request of the borrower for the purpose of
+10 reducing, and which in fact result in a bona fide reduction of, the interest rate
+11 or time-price differential applicable to the loan.
+12 (b) A borrower may procure an opinion and abstract of title from an
+13 attorney of his or her the borrower’s choice acceptable to the lender, or hazard
+14 insurance in a company or in companies of his or her the borrower’s choice
+15 acceptable to the lender, and in such cases the lender’s acceptance shall not be
+16 unreasonably withheld.
+17 Sec. 17. STUDY; BANKS; SUSPICIOUS ACTIVITY; TRANSACTION
+18 HOLD
+19 (a) The Commissioner of Financial Regulation or designee shall study
+20 regulatory models that would allow a financial institution to take measures to
+21 protect account holders from fraudulent transactions and shall recommend a
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 24 of 55
+1 model for legislative consideration. The study shall include a review of
+2 regulatory models enacted or proposed in other jurisdictions.
+3 (b) In conducting the study required by this section, the Commissioner
+4 shall consult with a representative from the Vermont Bankers Association, the
+5 Association of Vermont Credit Unions, AARP Vermont, the Office of the
+6 Attorney General, Vermont Legal Aid, and any other person deemed
+7 appropriate by the Commissioner.
+8 (c) Among other things, the study shall include recommendations regarding
+9 the following:
+10 (1) the financial institutions subject to the proposed model;
+11 (2) whether specific account holders, such as seniors or vulnerable
+12 populations, should receive heightened protection;
+13 (3) notification and consultation requirements available to an account
+14 holder suspected to be the victim of fraudulent activity;
+15 (4) a reasonable time period for imposing a transaction hold pending the
+16 outcome of an internal investigation;
+17 (5) notification to the Department of Financial Regulation and, if
+18 appropriate, law enforcement or other third parties if fraudulent activity is
+19 suspected;
+20 (6) continued account holder access to funds for transactions not
+21 suspected of being associated with fraudulent activity;
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 25 of 55
+1 (7) immunity from civil liability for any financial institution that acts in
+2 good faith for the purpose of protecting account holders from fraudulent
+3 activity and that otherwise complies with applicable legal requirements; and
+4 (8) any other provision deemed appropriate by the Commissioner.
+5 (d) On or before November 15, 2025, the Commissioner shall provide a
+6 status report on the Commissioner’s preliminary findings and
+7 recommendations to the Chair of the House Committee on Commerce and
+8 Economic Development and the Chair of the Senate Committee on Finance
+9 and, on or before January 15, 2026, shall submit a final report in draft form to
+10 the House Committee on Commerce and Economic Development and the
+11 Senate Committee on Finance.
+12 Sec. 18. STUDY; PROTECTIONS FOR VICTIMS OF COERCED DEBT
+13 (a) The Commissioner of Financial Regulation or designee shall study
+14 regulatory models for providing protections and remedies for victims of
+15 coerced debt and shall recommend a model appropriate for Vermont. In
+16 particular, the Commissioner shall review the Model State Coerced Debt Law
+17 prepared by the National Consumer Law Center in May of 2024, as well as
+18 laws enacted or proposed in other jurisdictions.
+19 (b) In conducting the study required by this section, the Commissioner
+20 shall consult with a representative from the Vermont Network, the Vermont
+21 Bankers Association, the Association of Vermont Credit Unions, the Office of
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 26 of 55
+1 the Attorney General, Vermont Legal Aid, and any other person deemed
+2 appropriate by the Commissioner.
+3 (c) Among other things, the study shall include recommendations regarding
+4 the following:
+5 (1) a definition of coerced debt;
+6 (2) whether coerced debt should include both secured and unsecured
+7 debt;
+8 (3) the requisite information a debtor must provide a creditor when
+9 alleging coerced debt;
+10 (4) procedures a creditor must follow regarding the investigation of an
+11 allegation of coerced debt, including ceasing collection efforts and notifying
+12 the Department of Financial Regulation, the Office of the Attorney General,
+13 and other law enforcement personnel, if appropriate;
+14 (5) whether a credit reporting agency should remove coerced debt from
+15 a credit report and, if so, the process for doing so;
+16 (6) whether Vermont’s identity theft law, 13 V.S.A. § 2030, should be
+17 expanded to more specifically reference instances of coerced debt; and
+18 (7) any other provision deemed appropriate by the Commissioner.
+19 (d) On or before January 15, 2026, the Commissioner shall report the
+20 Commissioner’s findings and recommendations in draft form to the House
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 27 of 55
+1 Committee on Commerce and Economic Development and the Senate
+2 Committee on Finance.
+3 Sec. 19. RECOMMENDATION REGARDING INSURANCE AND
+4 GENETIC PRIVACY
+5 On or before November 15, 2025, and for the purpose of preventing unfair
+6 genetic discrimination and safeguarding an individual’s genetic privacy, the
+7 Commissioner of Financial Regulation shall provide a recommendation to the
+8 House Committee on Commerce and Economic Development and the Senate
+9 Committee on Finance on whether Vermont should enact a law prohibiting or
+10 limiting an insurance company’s access to a consumer’s personalized genetic
+11 report that is not part of the consumer’s medical record. Among other things,
+12 the Commissioner shall consider whether to require that an insurance company
+13 obtain consumer consent prior to the disclosure of genetic information
+14 obtained from a direct-to-consumer entity to an insurance company, including
+15 any company that offers health, long-term care, life, or disability insurance.
+16 Sec. 20. 8 V.S.A. § 4062b is amended to read:
+17 § 4062b. MEDICARE SUPPLEMENTAL HEALTH SUPPLEMENT
+18 INSURANCE RATE REVIEW
+19 (a) Within five business days after receiving any request to increase the
+20 premium rate for a Medicare supplement insurance policy from the health
+21 insurance company, hospital or medical service organization, or health
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 28 of 55
+1 maintenance organization issuing the policy, the Department shall post
+2 information about the rate filing on the Department’s website, including:
+3 (1) the name of the health insurance company, hospital or medical
+4 service organization, or health maintenance organization requesting the rate
+5 increase;
+6 (2) the overall composite average rate increase requested;
+7 (3) the increase requested by plan type;
+8 (4) the date on which the proposed increase would take effect;
+9 (5) the System for Electronic Rate and Form Filing (SERFF) tracking
+10 number associated with the filing and a web address for accessing the filing
+11 electronically; and
+12 (6) instructions for submitting public comments and the deadline for
+13 doing so.
+14 (b) Within five business days of after receiving a request for approval of
+15 any composite average rate increase in excess of three 10 percent, or any other
+16 coverage changes which that the Commissioner determines will have a
+17 comparable impact on cost or availability of coverage for a Medicare
+18 supplemental supplement insurance policy issued by any group or nongroup
+19 health insurance company, hospital or medical service organization, or health
+20 maintenance organization, with 5,000 or more total lives in the Vermont
+21 Medicare supplement insurance market, the Commissioner shall notify the
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 29 of 55
+1 Department of Disabilities, Aging, and Independent Living and the Office of
+2 the Health Care Advocate of the proposed premium increase. A composite
+3 average rate is the enrollment-weighted average rate increase of all plans
+4 offered by a carrier.
+5 (b)(c) Within five business days after receiving notification pursuant to
+6 subsection (a)(b) of this section, the Department of Disabilities, Aging, and
+7 Independent Living shall inform the members of the Advisory Board
+8 established pursuant to 33 V.S.A. § 505 of the proposed premium increase.
+9 (c)(d)(1) The Commissioner shall not approve any request to increase
+10 Medicare supplemental supplement insurance premium rates unless the amount
+11 of the rate increase complies with the statutory standards for approval under
+12 sections 4062, 4513, 4584, and 5104 of this title. Any approved rate increase
+13 shall not be based on an unreasonable change in loss ratio from the previous
+14 year, unless the Commissioner makes written findings that such change is
+15 necessary to prevent a substantial adverse impact on the financial condition of
+16 the insurer. In acting on such rate increase requests, the Commissioner may
+17 deny the request, approve the rate increase as requested, or approve a rate
+18 increase in an amount different from the increase requested. A decision by the
+19 Commissioner other than an approval of the rate requested may be appealed by
+20 the insurer, provided that the burden of proof shall be on the insurer to show
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 30 of 55
+1 that the approved rate does not meet the statutory standards established under
+2 this subsection.
+3 (2) Before acting on the rate increase requested, the Commissioner may
+4 make such examination or investigation as he or she the Commissioner deems
+5 necessary, including where applicable the review process set forth in
+6 subdivision (3) of this subsection.
+7 (3) In reviewing any Medicare supplement rate increase for which an
+8 independent analysis has been performed pursuant to 33 V.S.A. § 6706 and
+9 wherein the carrier’s requested composite average increase, the independent
+10 expert’s recommended composite average rate increase, or the Department
+11 actuary’s recommended composite average rate increase differ by two
+12 percentage points or more, the Commissioner shall hold a public hearing where
+13 the insurer, the Department’s actuary, the independent expert, any intervenor,
+14 and the public will have the opportunity to present written and oral testimony
+15 and will be available to answer questions of the Commissioner and those
+16 present. The hearing shall be noticed and held at a time and place so as to
+17 facilitate public participation, and shall be recorded and become part of the
+18 record before the Commissioner. In the Commissioner’s discretion, the
+19 hearing may be conducted through interactive. If the carrier’s requested
+20 composite average increase, the independent expert’s recommended composite
+21 average increase, or the Department actuary’s recommended composite
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 31 of 55
+1 average increase differs by less than two percentage points, the Department
+2 and the parties shall confer by conference call, or by any other available media,
+3 to review the rate requests and recommendations. However, a public hearing
+4 may be held at the Commissioner’s discretion for good cause shown.
+5 (A) For any filing by a health insurance company, hospital or medical
+6 service organization, or health maintenance organization with 5,000 or more
+7 total lives in the Vermont Medicare supplement insurance market in which the
+8 requested composite average rate increase exceeds 10 percent, the
+9 Commissioner shall:
+10 (i) solicit public comment; and
+11 (ii) hold a public hearing in accordance with the Department of
+12 Financial Regulation’s applicable rules regarding administrative procedures if,
+13 not later than 30 days after the rate filing information is posted on the
+14 Department’s website pursuant to subsection (a) of this section, a hearing is
+15 requested by the Department of Disabilities, Aging, and Independent Living;
+16 by the Office of the Health Care Advocate; or by not fewer than 25
+17 policyholders whose premium rates would be affected by the requested rate
+18 increase.
+19 (B) For any filing that does not meet the criteria specified in
+20 subdivision (A) of this subdivision (3), a public hearing may be held in the
+21 Commissioner’s discretion.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 32 of 55
+1 (C) In the Commissioner’s discretion, a hearing held pursuant to this
+2 subdivision (3) may be conducted through a designated electronic meeting
+3 platform.
+4 (4) In any review held in accordance with this subsection, the
+5 Commissioner shall permit intervention by any person that the Commissioner
+6 determines will materially advance the interests of the insured individuals.
+7 The intervenor shall have access to, and may use the information of the
+8 independent expert appointed under 33 V.S.A. § 6706. The reasonable and
+9 necessary cost of intervention as determined by the Commissioner shall be
+10 paid by the affected policyholders or certificate holders. The maximum
+11 payment shall be $2,500.00 except when waived by the Commissioner for
+12 good cause shown. The $2,500.00 maximum amount may be adjusted to
+13 reflect, at the Commissioner’s discretion, appropriate inflation factors. In any
+14 review held in accordance with this section, the Commissioner shall permit
+15 intervention by any person whom the Commissioner determines will materially
+16 advance the interests of the individuals insured under the policy.
+17 (5) Nonproprietary, relevant information in any Medicare supplement
+18 rate filing, including any analysis by the Department’s actuary and the
+19 independent expert, shall be made available to the public upon request.
+20 (e) For a Medicare supplement insurance policy with an effective date of
+21 January 1, the insurer shall file its premium rate request pursuant to this section
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 33 of 55
+1 not later than July 1 of the preceding year. For a Medicare supplement
+2 insurance policy with an effective date other than January 1, the insurer shall
+3 file its rate request pursuant to this section not later than six months prior to the
+4 effective date of the policy.
+5 Sec. 21. REPEAL
+6 33 V.S.A. § 6706 (Medicare supplement insurance; independent analysis) is
+7 repealed.
+8 Sec. 22. 8 V.S.A. § 2571 is amended to read:
+9 § 2571. DEFINITIONS
+10 As used in this subchapter:
+11 (1) “Blockchain” has the same meaning as in 12 V.S.A. § 1913(a)(1).
+12 (2) “Blockchain analytics” means a software service that uses data from
+13 various virtual currencies and their applicable blockchains to provide a risk
+14 rating specific to digital wallet addresses from users of virtual-currency kiosks.
+15 (3) “Digital wallet” means hardware or software that enables individuals
+16 to store and use virtual currency.
+17 (4) “Digital wallet address” means an alphanumeric identifier
+18 representing a destination on a blockchain for a virtual currency transfer that is
+19 associated with a digital wallet.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 34 of 55
+1 (5) “Exchange,” used as a verb, means to assume or exercise control of
+2 virtual currency from or on behalf of a person, including momentarily, to buy,
+3 sell, trade, or convert:
+4 (A) virtual currency for money, monetary value, bank credit, or one
+5 or more forms of virtual currency, or other consideration; or
+6 (B) money, monetary value, bank credit, or other consideration for
+7 one or more forms of virtual currency.
+8 (6) “Existing customer” means a consumer who:
+9 (A) is engaging in a transaction at a virtual-currency kiosk in
+10 Vermont; and
+11 (B) whose first transaction with the virtual-currency kiosk operator
+12 occurred more than 30 days prior.
+13 (7) “New customer” means a consumer who:
+14 (A) is engaging in a transaction at a virtual-currency kiosk in
+15 Vermont; and
+16 (B) whose first transaction with the virtual-currency kiosk operator
+17 occurred not more than 30 days prior.
+18 (2)(8) “Transfer” means to assume or exercise control of virtual
+19 currency from or on behalf of a person and to:
+20 (A) credit the virtual currency to the account or digital wallet of
+21 another person;
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 35 of 55
+1 (B) move the virtual currency from one account or digital wallet of a
+2 person to another account or digital wallet of the same person; or
+3 (C) relinquish or transfer control or ownership of virtual currency to
+4 another person, digital wallet, distributed ledger address, or smart contract.
+5 Sec. 23. 8 V.S.A. § 2574 is amended to read:
+6 § 2574. REQUIRED DISCLOSURES
+7 (a) Licensee disclosures, generally. A person licensed under subchapter 2
+8 of this chapter to engage in virtual-currency business activity shall provide the
+9 disclosures required by this section and any additional disclosure the
+10 Commissioner determines reasonably necessary for the protection of the
+11 public.
+12 (1) A disclosure required by this section must be made separately from
+13 any other information provided by the licensee and in a clear and conspicuous
+14 manner in a record the person may keep.
+15 (2) The Commissioner may waive one or more requirements in
+16 subsections (b)–(d) of this section and approve alternative disclosures proposed
+17 by a licensee if the Commissioner determines that the alternative disclosure is
+18 more appropriate for the virtual-currency business activity and provides the
+19 same or equivalent information and protection to the public.
+20 (b) Licensee disclosures prior to business activity. Before engaging in
+21 virtual-currency business activity with a person, a licensee shall disclose, to the
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 36 of 55
+1 extent applicable to the virtual-currency business activity the licensee will
+2 undertake with the person:
+3 (1) a schedule of fees and charges the licensee may assess, the manner
+4 by which fees and charges will be calculated if they are not set in advance and
+5 disclosed, and the timing of the fees and charges, including general disclosure
+6 regarding mark-ups and mark-downs on purchases, sales, or exchanges of
+7 virtual currency in which the licensee or any affiliate thereof is acting in a
+8 principal capacity;
+9 (2) whether the product or service provided by the licensee is covered
+10 by:
+11 (A) a form of insurance or is otherwise guaranteed against loss by an
+12 agency of the United States:
+13 (i) up to the full U.S. dollar equivalent of virtual currency
+14 purchased from the licensee or for control of virtual currency by the licensee as
+15 of the date of the placement or purchase, including the maximum amount
+16 provided by insurance under the Federal Deposit Insurance Corporation or
+17 otherwise available from the Securities Investor Protection Corporation; or
+18 (ii) if not provided at the full U.S. dollar equivalent of virtual
+19 currency purchased from the licensee or for control of virtual currency by the
+20 licensee, the maximum amount of coverage for each person expressed in the
+21 U.S. dollar equivalent of the virtual currency; or
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 37 of 55
+1 (B) private insurance against theft or loss, including cyber theft or
+2 theft by other means;
+3 (3) the irrevocability of a transfer or exchange and any exception to
+4 irrevocability;
+5 (4) a description of:
+6 (A) liability for an unauthorized, mistaken, or accidental transfer or
+7 exchange;
+8 (B) the person’s responsibility to provide notice to the licensee of the
+9 transfer or exchange;
+10 (C) the basis for any recovery by the person from the licensee;
+11 (D) general error-resolution rights applicable to the transfer or
+12 exchange; and
+13 (E) the method for the person to update the person’s contact
+14 information with the licensee;
+15 (5) that the date or time when the transfer or exchange is made and the
+16 person’s account is debited may differ from the date or time when the person
+17 initiates the instruction to make the transfer or exchange;
+18 (6) whether the person has a right to stop a preauthorized payment or
+19 revoke authorization for a transfer and the procedure to initiate a stop-payment
+20 order or revoke authorization for a subsequent transfer;
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 38 of 55
+1 (7) the person’s right to receive a receipt, trade ticket, or other evidence
+2 of the transfer or exchange;
+3 (8) the person’s right to at least 30 days’ prior notice of a change in the
+4 licensee’s fee schedule, other terms and conditions of operating its virtual-
+5 currency business activity with the person, and the policies applicable to the
+6 person’s account; and
+7 (9) that virtual currency is not money.
+8 (c) Disclosures.
+9 (1) Disclosures prior to each virtual-currency transaction. In connection
+10 with any virtual-currency transaction effected through a money transmission
+11 virtual-currency kiosk in this State, or in any transaction where the licensee or
+12 any affiliate thereof is acting in a principal capacity in a sale of virtual
+13 currency to, or purchase of virtual currency from, a customer, then
+14 immediately prior to effecting such a purchase or sale transaction with or on
+15 behalf of a customer, a licensee shall prominently disclose and shall require the
+16 customer to acknowledge and confirm the terms and conditions of the virtual-
+17 currency transaction, which shall include the following:
+18 (1)(A) the type, value, date, precise time, and amount of the
+19 transaction; and
+20 (2)(B) the consideration charged for the transaction, including:
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 39 of 55
+1 (A)(i) any charge, fee, commission, or other consideration for any
+2 trade, exchange, conversion, or transfer involving virtual currency; and
+3 (B)(ii) any difference between the price paid by the customer for
+4 any virtual currency and the prevailing market price of such virtual currency, if
+5 any;
+6 (C) for a customer of a virtual-currency kiosk, a description of the
+7 virtual-currency kiosk operator’s refund policy, which shall be consistent with
+8 the requirements specified in subsections 2577(k) and (l) of this subchapter;
+9 (D) for a customer of a virtual-currency kiosk, the customer warning
+10 described in subdivision (g)(1) of this section; and
+11 (E) the daily transaction limit, if applicable.
+12 (2) Disclosures for new kiosk accounts. When opening an account for a
+13 new customer, and prior to entering into an initial transaction for, on behalf of,
+14 or with such customer, each virtual-currency kiosk operator shall disclose
+15 relevant terms and conditions associated with its products, services, and
+16 activities and with virtual currency, generally, including disclosures
+17 substantially similar to the following:
+18 (A) the customer’s liability for unauthorized virtual-currency
+19 transactions;
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 40 of 55
+1 (B) under what circumstances the virtual-currency kiosk operator
+2 will, absent a court or government order, disclose information concerning the
+3 customer’s account to third parties;
+4 (C) the customer’s right to receive periodic account statements and
+5 valuations from the virtual-currency kiosk operator;
+6 (D) the customer’s right to receive a receipt, trade ticket, or other
+7 evidence of a transaction;
+8 (E) the customer’s right to prior notice of a change in the virtual-
+9 currency kiosk operator’s rules or policies;
+10 (F) a statement of the material risks associated with virtual-currency
+11 transactions, generally, as described in subsection (h) of this section;
+12 (G) the name and telephone number of the Department of Financial
+13 Regulation and a statement disclosing that a customer may contact the
+14 Department with questions or complaints about a licensee; and
+15 (H) such other disclosures as are customarily given in connection
+16 with the opening of customer accounts.
+17 (d) Licensee receipt requirements. Except as otherwise provided in
+18 subsection (e) of this section, at the conclusion of a virtual-currency
+19 transaction with or on behalf of a person, a licensee shall provide the person
+20 with a receipt that contains:
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 41 of 55
+1 (1) the name and contact information of the licensee, including
+2 information the person may need to ask a question or file a complaint;
+3 (2) the type, value, date, precise time, and amount of the transaction
+4 expressed in U.S. currency;
+5 (3) the consideration charged for the transaction, including:
+6 (A) any charge, fee, commission, or other consideration for any trade,
+7 exchange, conversion, or transfer involving virtual currency; or
+8 (B) the amount of any difference between the price paid by the
+9 customer for any virtual currency and the prevailing market price of such
+10 virtual currency, if any; and
+11 (4) any other information required pursuant to section 2562 of this title.
+12 (e) Licensee daily confirmation. If a licensee discloses that it will provide
+13 a daily confirmation in the initial disclosure under subsection (c)(b) of this
+14 section, the licensee may elect to provide a single, daily confirmation for all
+15 transactions with or on behalf of a person on that day instead of a per-
+16 transaction confirmation.
+17 (f) Kiosk transaction receipt. Notwithstanding any other provision of law
+18 to the contrary, a virtual-currency kiosk operator shall provide a customer with
+19 both a paper and an electronic receipt in a retainable form for each virtual-
+20 currency transaction completed at a virtual-currency kiosk. In addition to the
+21 information required to be included in a receipt under subsection (d) of this
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 42 of 55
+1 section or under section 2562 of this title, each receipt for virtual-currency
+2 transaction completed at a virtual-currency kiosk shall include:
+3 (1) the identification of any applicable digital wallet address to which
+4 virtual currency is transmitted;
+5 (2) the full name of the account owner;
+6 (3) any unique transaction identifiers;
+7 (4) a prominent statement of the virtual-currency kiosk operator’s refund
+8 obligations under this section, in a form approved by the Commissioner;
+9 (5) a statement of the operator’s liability for nondelivery or delayed
+10 delivery of virtual currency; and
+11 (6) the name and telephone number of the Department of Financial
+12 Regulation and a statement disclosing that a customer may contact the
+13 Department with questions or complaints about an operator.
+14 (g) Customer warning.
+15 (1) Prior to entering into a virtual-currency transaction with a customer
+16 at a virtual-currency kiosk, and as required by subdivision (c)(1)(D) of this
+17 section, each virtual-currency kiosk operator shall ensure a warning is
+18 disclosed to the customer substantially similar to the following:
+19 Customer Notice. Please Read Carefully.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 43 of 55
+1 Did you receive a phone call from your bank, software provider, the police,
+2 or were you directed to make a payment for Social Security, a utility bill, an
+3 investment, warrants, or bail money at this kiosk? STOP
+4 Is anyone on the phone pressuring you to make a payment of any kind?
+5 STOP
+6 I understand that the purchase and sale of cryptocurrency may be a final,
+7 irreversible, and nonrefundable transaction.
+8 I confirm I am sending funds to a digital wallet I own or directly have
+9 control over. I confirm that I am using funds gained from my own initiative to
+10 make my transaction.
+11 (2) A virtual-currency kiosk operator shall ensure a customer has a
+12 readily accessible opportunity to end a transaction for any reason prior to its
+13 completion.
+14 (h) Statement of material risks. As used in subdivision (c)(2)(F) of this
+15 section, a statement of material risks associated with virtual-currency
+16 transactions, generally, shall include disclosures substantially similar to the
+17 following:
+18 (1) Virtual currency is not legal tender, is not backed by the
+19 government, and accounts and value balances are not subject to Federal
+20 Deposit Insurance Corporation or Securities Investor Protection Corporation
+21 protections.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 44 of 55
+1 (2) Legislative and regulatory changes or actions at the State, federal, or
+2 international level may adversely affect the use, transfer, exchange, and value
+3 of virtual currency.
+4 (3) Transactions in virtual currency may be irreversible and,
+5 accordingly, losses due to fraudulent or accidental transactions may not be
+6 recoverable.
+7 (4) Some virtual-currency transactions shall be deemed to be made
+8 when recorded on a public ledger, which is not necessarily the date or time that
+9 the customer initiates the transaction.
+10 (5) The value of virtual currency may be derived from the continued
+11 willingness of market participants to exchange fiat currency for virtual
+12 currency, which may result in the potential for permanent and total loss of
+13 value of a particular virtual currency should the market for that virtual
+14 currency disappear.
+15 (6) There is no assurance that a person who accepts a virtual currency as
+16 payment today will continue to do so in the future.
+17 (7) The volatility and unpredictability of the price of virtual currency
+18 relative to fiat currency may result in significant loss over a short period of
+19 time.
+20 (8) The nature of virtual currency may lead to an increased risk of fraud
+21 or cyber attack.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 45 of 55
+1 (9) The nature of virtual currency means that any technological
+2 difficulties experienced by the virtual-currency kiosk operator may prevent the
+3 access or use of a customer’s virtual currency.
+4 (10) Any bond or trust account maintained by the virtual-currency kiosk
+5 operator for the benefit of its customers may not be sufficient to cover all
+6 losses incurred by customers.
+7 Sec. 24. 8 V.S.A. § 2577 is amended to read:
+8 § 2577. VIRTUAL-CURRENCY KIOSK OPERATORS
+9 (a) Daily transaction limit.
+10 (1) A virtual-currency kiosk operator shall not accept or dispense more
+11 than $1,000.00 $2,000.00 of cash in a day in connection with virtual-currency
+12 transactions with a single, new customer in this State via one or more money
+13 transmission virtual-currency kiosks.
+14 (2) A virtual-currency kiosk operator shall not accept or dispense more
+15 than $5,000.00 of cash in a day in connection with virtual-currency
+16 transactions with a single, existing customer in this State via one or more
+17 virtual-currency kiosks.
+18 (b) Fee cap. The aggregate fees and charges, directly or indirectly, charged
+19 to a customer related to a single transaction or series of related transactions
+20 involving virtual currency effected through a money transmission kiosk in this
+21 State, including any difference between the price charged to a customer to buy,
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 46 of 55
+1 sell, exchange, swap, or convert virtual currency and the prevailing market
+2 value of such virtual currency at the time of such transaction, shall not exceed
+3 the greater of the following:
+4 (1) $5.00; or
+5 (2) three 15 percent of the U.S. dollar equivalent of virtual currency
+6 involved in the transaction or transactions.
+7 (c) Single transaction. The purchase, sale, exchange, swap, or conversion
+8 of virtual currency, or the subsequent transfer of virtual currency, in a series of
+9 transactions shall be deemed to be a single transaction for purposes of
+10 subsection (b) subsections (a) and (b) of this section.
+11 (d) Licensing requirement. A virtual-currency kiosk operator shall comply
+12 with the licensing requirements of this subchapter to the extent that the virtual-
+13 currency kiosk operator engages in virtual-currency business activity.
+14 (e) Operator accountability. If a virtual-currency kiosk operator allows or
+15 facilitates another person to engage in virtual-currency business activity via a
+16 money transmission virtual-currency kiosk in this State that is owned,
+17 operated, or managed by the virtual-currency kiosk operator, the virtual-
+18 currency kiosk operator shall do all of the following:
+19 (1) ensure that the person engaging in virtual-currency business activity
+20 is licensed under subchapter 2 of this chapter to engage in virtual-currency
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 47 of 55
+1 business activity and complies with all other applicable provisions of this
+2 chapter;
+3 (2) ensure that any charges collected from a customer via the money
+4 transmission virtual-currency kiosk comply with the limits provided by fee cap
+5 established in subsection (b) of this section; and
+6 (3) comply with all other applicable provisions of this chapter.
+7 (f) Moratorium. To protect the public safety and welfare and safeguard the
+8 rights of consumers, virtual-currency kiosks shall not be permitted to operate
+9 in Vermont prior to July 1, 2025 2026. This moratorium shall not apply to a
+10 virtual-currency kiosk that was duly licensed and operational in Vermont on or
+11 before June 30, 2024.
+12 (g) Report. On or before January 15, 2025, the Commissioner of Financial
+13 Regulation shall report to the House Committee on Commerce and Economic
+14 Development and the Senate Committee on Finance on whether the
+15 requirements of this section coupled with relevant federal requirements are
+16 sufficient to protect customers in Vermont from fraudulent activity. If deemed
+17 necessary and appropriate by the Commissioner, the Commissioner may make
+18 recommendations for additional statutory or regulatory safeguards. In
+19 addition, the Commissioner shall make recommendations for enhanced
+20 oversight and monitoring of virtual-currency kiosks for the purpose of
+21 minimizing their use for illicit activities as described in the U.S. Government
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 48 of 55
+1 Accountability Office report on virtual currencies, GAO-22-105462, dated
+2 December 2021. Customer identification. For each virtual-currency
+3 transaction occurring at a virtual-currency kiosk in this State, the virtual-
+4 currency kiosk operator shall verify the identity of the customer prior to
+5 accepting payment from the customer. A virtual-currency kiosk operator shall
+6 not allow a customer to engage in any transaction at a virtual-currency kiosk
+7 under any name, account, or identity other than the customer’s own true name
+8 and identity. A virtual-currency kiosk operator shall obtain a copy of a
+9 government-issued identification card that identifies the customer and shall
+10 collect additional customer information, including the customer’s name, date
+11 of birth, telephone number, address, and email address prior to accepting any
+12 payment from a customer at a virtual-currency kiosk in this State. In addition,
+13 a virtual-currency kiosk operator shall take a photograph of the customer in a
+14 retainable format at the virtual-currency kiosk for each transaction. A virtual-
+15 currency kiosk operator shall be strictly liable for any violation of this
+16 subsection.
+17 (h) Customer support. A virtual-currency kiosk operator shall offer live,
+18 toll-free, telephone customer support during the hours of operation of a virtual-
+19 currency kiosk. The customer support telephone number shall be displayed on
+20 the virtual-currency kiosk or on the virtual-currency kiosk screen.
+21 (i) Mandatory live screening.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 49 of 55
+1 (1) A virtual-currency kiosk operator shall identify and speak by
+2 telephone with:
+3 (A) a new customer over 60 years of age prior to such customer’s
+4 first virtual-currency transaction with the virtual-currency kiosk operator; or
+5 (B) a customer attempting to conduct more than $5,000.00 in virtual-
+6 currency transactions during any consecutive 10-day period.
+7 (2) The virtual-currency kiosk operator’s approval of a transaction
+8 subject to a mandatory live screening under this subsection shall be dependent
+9 upon its assessment of its communication with the customer during the
+10 screening.
+11 (3) A virtual-currency kiosk operator shall record and retain a copy of
+12 each mandatory live screening.
+13 (4) During the mandatory live screening, the virtual-currency kiosk
+14 operator shall:
+15 (A) positively identify the customer;
+16 (B) reconfirm any attestations made by the customer at the virtual-
+17 currency kiosk;
+18 (C) discuss the purpose of the transaction; and
+19 (D) discuss types of fraudulent schemes relating to virtual currency.
+20 (j) Blockchain analytics. A virtual-currency kiosk operator shall use
+21 blockchain analytics software and retain an established third party that
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 50 of 55
+1 specializes in performing blockchain analytics to assist in the prevention of
+2 sending purchased virtual currency from a virtual-currency kiosk operator to a
+3 digital wallet known to be affiliated with fraudulent activity at the time of a
+4 transaction. The Commissioner may request evidence from any virtual-
+5 currency kiosk operator of its current use of blockchain analytics.
+6 (k) Full refund for new customers. The virtual-currency kiosk operator
+7 shall provide a full refund to a customer who was fraudulently induced to
+8 engage in a virtual-currency kiosk transaction, provided the fraudulently
+9 induced transaction occurred while the customer was a new customer and
+10 further provided the customer contacts the virtual-currency kiosk operator and
+11 a law enforcement or government agency to inform the operator and the
+12 agency of the fraudulent nature of the transaction within 90 days after the
+13 customer’s last virtual-currency transaction with the virtual-currency kiosk
+14 operator. The refund shall include any fees charged in association with the
+15 fraudulently induced transaction.
+16 (l) Fee refund for existing customers. The virtual-currency kiosk operator
+17 shall provide a fee refund to an existing customer who has been fraudulently
+18 induced to engage in a virtual-currency kiosk transaction, provided the
+19 customer contacts the virtual-currency kiosk operator and a law enforcement or
+20 government agency to inform the operator and the agency of the fraudulent
+21 nature of the transaction within 90 days after the last fraudulently induced
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 51 of 55
+1 transaction. The refund shall include all fees charged in association with the
+2 fraudulently induced transaction.
+3 (m) Fraud prevention. A virtual-currency kiosk operator shall take
+4 reasonable steps to detect and prevent fraud, including establishing and
+5 maintaining a written antifraud policy. The antifraud policy shall, at a
+6 minimum, include the following:
+7 (1) the identification and assessment of fraud-related risk areas;
+8 (2) procedures and controls to protect against identified risks;
+9 (3) allocation of responsibility for monitoring risks;
+10 (4) procedures for the periodic evaluation and revision of the antifraud
+11 procedures, controls, and monitoring mechanisms;
+12 (5) procedures and controls that prevent more than one customer from
+13 using the same digital wallet;
+14 (6) procedures and controls that enable the virtual-currency kiosk
+15 operator to prevent a digital wallet from being used at a virtual-currency kiosk
+16 it operates if the operator knows or reasonably should know the digital wallet
+17 is affiliated with fraudulent activities; and
+18 (7) policies and procedures for using a risk-based method for monitoring
+19 customers on a post transaction basis.
+20 (n) Due diligence policy. A virtual-currency kiosk operator shall maintain,
+21 implement, and enforce a written Enhanced Due Diligence Policy. The Policy
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 52 of 55
+1 shall be reviewed and approved by the virtual-currency kiosk operator’s board
+2 of directors or an equivalent governing body of the virtual-currency kiosk
+3 operator. The Policy shall identify, at a minimum, individuals who are at risk
+4 of fraud based on age or mental capacity.
+5 (o) Compliance policies. A virtual-currency kiosk operator shall maintain,
+6 implement, and enforce written compliance policies and procedures. Such
+7 policies and procedures shall be reviewed and approved by the virtual-currency
+8 kiosk operator’s board of directors or an equivalent governing body of the
+9 virtual-currency kiosk operator.
+10 (p) Compliance officer.
+11 (1) A virtual-currency kiosk operator shall designate and employ a
+12 compliance officer who meets the following requirements:
+13 (A) is qualified to coordinate and monitor compliance with this
+14 section and all other applicable federal and State laws and regulations;
+15 (B) is employed full-time by the virtual-currency kiosk operator; and
+16 (C) is not an individual who owns more than 20 percent of the
+17 virtual-currency kiosk operator by whom the individual is employed.
+18 (2) Compliance responsibilities required under federal and State law and
+19 regulation shall be completed by one or more full-time employees of the
+20 virtual-currency kiosk operator.
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 53 of 55
+1 (q) Consumer protection officer. A virtual-currency kiosk operator shall
+2 designate and employ a consumer protection officer who meets the following
+3 requirements:
+4 (1) is qualified to coordinate and monitor compliance with this section
+5 and all other applicable federal and State laws and regulations;
+6 (2) is employed full-time by the virtual-currency kiosk operator; and
+7 (3) is not an individual who owns more than 20 percent of the virtual-
+8 currency kiosk operator by whom the individual is employed.
+9 (r) The Commissioner may adopt rules the Commissioner deems necessary
+10 and proper to carry out the purposes of this section, including with respect to
+11 what constitutes fraudulent activity or a fraudulently induced transaction in the
+12 context of customer transactions at a virtual-currency kiosk.
+13 Sec. 25. 8 V.S.A. § 13301 is amended to read:
+14 § 13301. CORPORATORS OF MUTUAL FINANCIAL INSTITUTIONS
+15 (a) Persons named in the organizational documents constitute the original
+16 board of corporators of a mutual financial institution. Membership on this
+17 board continues until terminated by death, resignation, or disqualification as
+18 provided in this section.
+19 (b) All corporators shall be residents of the geographic area that the
+20 financial institution serves or an area proximate to this geographic area. A
+21 person may shall not continue as a corporator after ceasing to be a resident of
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 54 of 55
+1 the financial institution’s geographic area or an area proximate to this
+2 geographic area.
+3 (c) Any corporator failing to attend the annual meeting of the board of
+4 corporators for two successive years ceases to be a member of the board unless
+5 reelected by a vote of the remaining corporators.
+6 (d) The number of corporators may be fixed or altered by the internal
+7 governance documents of the financial institution, and vacancies may be filled
+8 by election at any annual meeting.
+9 (e) More than 50 percent of all corporators shall be depositors of the
+10 financial institution.
+11 (f) At least two-thirds of all corporators shall be independent. As used in
+12 this subsection, an “independent corporator” means an individual who is not an
+13 employee, director, or officer of the financial institution, its subsidiaries, or its
+14 affiliates.
+15 (g) Corporators shall be fiduciaries of the depositor base and shall exercise
+16 their authority in the best interests of the depositors with a duty of loyalty and
+17 care. In exercising their duties as corporators, corporators shall consider the
+18 interests of the depositors, the borrowers, and other customers of the financial
+19 institution; the general benefit and economic well-being of the communities
+VT LEG #383481 v.1
+
+AS PASSED BY HOUSE AND SENATE H.137
+2025 Page 55 of 55
+1 served by the financial institution; and the safety, soundness, and general
+2 business needs of the financial institution.
+3 Sec. 26. EFFECTIVE DATES
+4 This act shall take effect on July 1, 2025, except that Secs. 20 and 21
+5 (Medicare supplement insurance) shall take effect on January 1, 2026.
+VT LEG #383481 v.1
+
+[DELETED:  H P H A I S §   ( r o ( i r s s i o r r i ( d r]
+[DELETED:  H P p C p o t m ( a C a i ( ( o r t S §   T m]
+[DELETED:  H P e c C S ( s i i p i C i C A p s i p o S]
+[DELETED:  H P §   * ( ( i r p p p ( r s S ( b r i H ( b]
+[DELETED:  H P ( c ( r p d t S ( a C c s 3 c ( t ( b]
+[DELETED:  H P ( a s ( b i t C ( f i b t ( C i ( a ( o]
+[DELETED:  H P ( p o m a s b s C ( o a ( r i u ( m ( o]
+[DELETED:  H P ( e ( c p t m p ( s S ( p r S ( c p a a]
+[DELETED:  H P c t S §   * ( c u p p c c ( c ( s a b o]
+[DELETED:  H P ( t t t ( p p p c * S ( s l ( b m ( i s]
+[DELETED:  H P ( c ( a c ( o t ( d ( a s e u l b t a ( t]
+[DELETED:  H P i r a m ( m ( i h s a ( b l g i a C ( s t]
+[DELETED:  H P t t ( a S f o m o ( f S ( c c i i c c r c]
+[DELETED:  H P p s a a a o r p A a a c o r c C c i r p f]
+[DELETED:  H P S ( a o u o a S ( o ( s c a ( o t o i ( S]
+[DELETED:  H P § P w s t i o l t f p c c j S ( a o a a t]
+[DELETED:  H P ( f c ( p p t s ( s r i S ( g ( ( r p d]
+[DELETED:  H P ( t m r ( m r h ( g c t p f p b c c ( w]
+[DELETED:  H P e c ( e o ( ( r ( o s t ( e ( t r e i e]
+[DELETED:  H P ( a u r f g p d c r w * ( r a s n S § T *]
+[DELETED:  H P ( i a r s S ( e o a ( ( t ( r ( l p ( f]
+[DELETED:  H P i c ( r p i s ( i ( t ( i a n ( c t c S §]
+[DELETED:  H P ( c * ( s a ( l ( r o ( a i a u S   ( r p]
+[DELETED:  H P m r ( s A A a ( t ( ( p ( h ( o ( a s ( s]
+[DELETED:  H P ( g a ( ( s r E a t S S ( r c p p l ( s B]
+[DELETED:  H P t a ( t ( ( d ( a ( a t a ( a ( e ( ( C]
+[DELETED:  H P C C S   O g C H C l r t o o a S §   ( p i]
+[DELETED:  H P m i ( s i ( ( ( ( n e ( d ( a c c s h m M]
+[DELETED:  H P D t a o ( s I e ( M o s s y n t d i C t]
+[DELETED:  H P t t ( m n s ( i w e a p t a a p f r h c a]
+[DELETED:  H P a a t m ( s t r C ( ( F n D r b p i ( s C]
+[DELETED:  H P ( s p ( C d T i n p p g r r i a ( r i ( J]
+[DELETED:  H P n i f e S 3 r S § A ( ( v r ( t ( r a]
+[DELETED:  H P ( v s ( o ( o ( ( V ( o ( ( V ( o ( c ( a]
+[DELETED:  H P ( p ( a S § ( o d C p ( a m ( s b m s ( v]
+[DELETED:  H P e u ( b d r v p ( b ( a ( p o p o ( c l U]
+[DELETED:  H P ( t ( i ( ( e ( t ( ( e ( i ( p i ( r o]
+[DELETED:  H P ( o ( l c p ( ( ( w v a c i b c c ( t (]
+[DELETED:  H P ( t ( a a ( v t ( d ( ( n o r a s ( t]
+[DELETED:  H P ( w c ( v ( e ( c ( t ( R D ( w ( s t w]
+[DELETED:  H P ( i ( e ( ( e ( c v ( ( a s t t ( t b c i]
+[DELETED:  H P s t ( v ( ( ( o ( d ( R D ( ( a s d C]
+[DELETED:  H P D o i I S I i I c m ( r c ( s t f ( g D p]
+[DELETED:  H P ( i o ( a r ( w t ( w c v c ( p ( r t ( o]
+[DELETED:  H P ( d a ( o l S § ( ( t t t ( t t v ( t i S]
+[DELETED:  H P s v t ( ( i ( o t s ( w c ( f m o c ( i]
+[DELETED:  H P b c ( t e ( ( r i v b ( R D r s n r a o m]
+[DELETED:  H P A D t c a n u a g c o p a r c s ( t c t (]
+[DELETED:  H P ( t ( f ( c ( s u s ( e ( o ( ( c ( ( ( b]
+[DELETED:  H P s s d t c ( s e i f a a c o f ( s i c g n]
+[DELETED:  H P t f ( r m m ( ( ( ( p ( u ( o i i ( c ( i]
+[DELETED:  H P s o o o ( i p k v ( ( c ( s ( ( v ( r v]
+[DELETED:  H P ( d r ( a ( ( c ( a w c S § ( b b p ( f p]
+[DELETED:  H P t g ( c r ( g b ( f ( t e a ( t c i i]
+[DELETED:  H P s b S T (]

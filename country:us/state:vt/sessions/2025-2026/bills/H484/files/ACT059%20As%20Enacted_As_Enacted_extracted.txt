@@ -1,0 +1,3451 @@
+Title: No. 59. An act relating to miscellaneous agricultural subjects.
+Official Title: No. 59. An act relating to miscellaneous agricultural subjects.
+Number of Sections: 43
+Source: versions - As Enacted
+Media Type: application/pdf
+Strikethrough Detection: 65 sections found
+
+================================================================================
+
+Section 1:
+No. 59 Page 1 of 65
+2025
+(H.484)
+It is hereby enacted by the General Assembly of the State of Vermont:
+* * * Beneficial Substances * * *
+Sec. 1. 6 V.S.A. chapter 28 is amended to read:
+CHAPTER 28. FERTILIZER AND, LIME, AND BENEFICIAL
+SUBSTANCES
+
+Section 2:
+§ 361. TITLE
+This chapter shall be known as the “Fertilizer, Lime, Plant Amendment,
+Plant Biostimulant, and Soil Amendment and Beneficial Substances Law.”
+
+Section 3:
+§ 362. ENFORCING OFFICIAL
+This chapter shall be administered by the Secretary of Agriculture, Food
+and Markets or designee, hereafter referred to as the Secretary.
+
+Section 4:
+§ 363. DEFINITIONS
+As used in this chapter:
+(1) “Agricultural lime” or “agricultural liming material” or “lime”
+means one or more of the following:
+(A) All products with calcium and magnesium compounds that are
+capable of neutralizing soil acidity and that are intended, sold, or offered for
+sale for agricultural or plant propagation purposes.
+VT LEG #384275 v.1
+No. 59 Page 2 of 65
+2025
+(B) Limestone consisting essentially of calcium carbonate or a
+combination of calcium carbonate with magnesium carbonate capable of
+neutralizing soil acidity.
+(C) Industrial waste or industrial by-products byproducts that contain
+calcium; calcium and magnesium; or calcium, magnesium, and potassium in
+forms that are capable of neutralizing soil acidity and that are intended, sold, or
+offered for sale for agricultural purposes. For the purposes of this chapter, the
+terms “agricultural lime,” “lime,” and “agricultural liming material” shall have
+the same meaning.
+(2) “Beneficial substance” means any substance or compound, other
+than primary, secondary, and micro plant nutrients (fertilizers), and excluding
+pesticides, that can be demonstrated by scientific research to be beneficial to
+one or more species of plants, soil, or media. Beneficial substances include
+plant amendments, plant biostimulants, plant inoculants, soil amendments, soil
+inoculants, and other chemical or biological substances beneficial to plants or
+their growing environment.
+(3) “Brand” means a term, design, or trademark used in connection with
+one or more grades or formulas of fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime.
+(3)(4) “Distribute” means to import, consign, manufacture, produce,
+compound, mix, blend, offer for sale, sell, barter, or supply a fertilizer, a plant
+amendment, a plant biostimulant, a soil amendment a beneficial substance, or
+VT LEG #384275 v.1
+No. 59 Page 3 of 65
+2025
+lime in this State through any means, including sales outlets, catalogues, the
+telephone, the internet, or any electronic means.
+(4)(5) “Distributor” means any person who distributes fertilizer, plant
+amendment, plant biostimulant, soil amendments beneficial substance, or lime.
+(5)(6) “Exceptional quality biosolid” means a product derived in whole
+or in part from domestic wastes that have been subjected to and meet the
+requirements of the following:
+(A) a pathogen reduction process established in 40 C.F.R.
+
+Section 5:
+§ 503.32(a)(3), (4), (7), or (8);
+(B) one of the vector attraction reduction standards established in 40
+C.F.R. § 503.33;
+(C) the contaminant concentration limits in Vermont Solid Waste
+Rules § 6-1303(a)(1); and
+(D) if derived from a composting process, Vermont Solid Waste
+Rules § 6-1303(a)(5).
+(6)(7) “Fertilizer” means any substance containing one or more
+recognized plant nutrients that is used for its plant nutrient content and that is
+designed for use or claimed to have value in promoting plant growth or health,
+except unprocessed animal or vegetable manures and other products exempted
+by the Secretary.
+VT LEG #384275 v.1
+No. 59 Page 4 of 65
+2025
+(A) A fertilizer material is a substance that either:
+(i) contains important quantities of at least one of the primary
+plant nutrients: nitrogen, phosphorus, or potassium;
+(ii) has 85 percent or more of its plant nutrient content present in
+the form of a single chemical compound; or
+(iii) is derived from a plant or chemical residue or by-product
+byproduct or natural material deposit that has been processed in such a way
+that its content of plant nutrients has not been materially changed except by
+purification and concentration.
+(B) A mixed fertilizer is a fertilizer containing any combination or
+mixture of fertilizer materials.
+(C) A specialty fertilizer is a fertilizer distributed for nonfarm use.
+(D) A bulk fertilizer is a fertilizer distributed in a nonpackaged form.
+(7)(8) “Formulation” means a material or mixture of materials prepared
+according to a particular formula.
+(8)(9) “Grade” means the percentage of total nitrogen, available
+phosphorus or phosphoric acid, and soluble potassium or potash stated in
+whole numbers in the same terms, order, or percentages as in the guaranteed
+analysis. Specialty fertilizers and fertilizer materials may be guaranteed in
+fractional terms. Any grade expressed in fractional terms that is not preceded
+by a whole number shall be preceded by zero.
+VT LEG #384275 v.1
+No. 59 Page 5 of 65
+2025
+(9)(10) “Guaranteed analysis” means:
+(A) in reference to fertilizer, the minimum percentages of plant
+nutrients claimed by the manufacturer or producer of the product in the
+following order and form: nitrogen, phosphorus, and potash; and
+(B) in reference to agricultural lime or agricultural liming material,
+the minimum percentages of calcium oxide and magnesium oxide or calcium
+carbonate and the calcium carbonate equivalent, or both, as claimed by the
+manufacturer or producer of the product.
+(10)(11) “Label” means the display of all written, printed, or graphic
+matter upon the immediate container or a statement accompanying a fertilizer,
+plant amendment, plant biostimulant, soil amendment beneficial substance, or
+lime.
+(11)(12) “Labeling” means all written, printed, or graphic material upon
+or accompanying any fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime, including advertisements, brochures,
+posters, and television and radio announcements used in promoting the sale of
+the fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime.
+(12)(13) “Official sample” means any sample of fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+taken by the Secretary.
+VT LEG #384275 v.1
+No. 59 Page 6 of 65
+2025
+(13)(14) “Plant amendment” means any substance applied to plants or
+seeds that is intended to improve growth, yield, product quality, reproduction,
+flavor, or other favorable characteristics of plants, except for fertilizer, soil
+amendments, agricultural liming materials, animal and vegetable manures,
+pesticides, plant regulators, and other materials exempted by rule adopted
+under this chapter.
+(14)(15) “Plant biostimulant” means a substance or, microorganism, or
+mixtures thereof that, when applied to seeds, plants, or the rhizosphere,
+stimulates soil, or other growth media act to support a plant’s natural nutrition
+processes to enhance or benefit nutrient uptake, nutrient efficiency, tolerance
+to abiotic stress, or crop quality and yield, except for fertilizers, soil
+amendments, plant amendments, or pesticides independently of the
+biostimulant’s nutrient content. The plant biostimulant thereby improves
+nutrient availability, uptake, or use efficiency; tolerance to abiotic stress; and
+consequent growth development, quality, or yield. The Secretary may modify
+the definition of “plant biostimulant” by rule or procedure in order to maintain
+consistency with U.S. Department of Agriculture requirements.
+(16) “Plant inoculant” means a product consisting of microorganisms to
+be applied to the plant or soil for the purpose of enhancing the availability or
+uptake of plant nutrients through the root system.
+VT LEG #384275 v.1
+No. 59 Page 7 of 65
+2025
+(15)(17) “Percent” or “percentage” means the percentage by weight.
+(16)(18) “Primary nutrient” includes nitrogen, available phosphoric acid
+or phosphorus, and soluble potash or potassium.
+(17)(19) “Product” means the name of the fertilizer, plant amendment,
+plant biostimulant, soil amendment beneficial substance, or lime that identifies
+it as to kind, class, or specific use.
+(18)(20) “Registrant” means the person who registers a fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+under the provisions of this chapter.
+(19)(21) “Soil amendment” means a substance or mixture of substance
+that is intended to improve the physical, chemical, biochemical, biological, or
+other characteristics of the soil or a distinct form of horticultural growing
+media used in lieu of soil. “Soil amendment” does not mean fertilizers,
+agricultural liming materials, unprocessed animal manures, unprocessed
+vegetable manures, pesticides, plant biostimulants, and other materials
+exempted by rule. A compost product from a facility under the jurisdiction of
+the Agency of Natural Resources’ Solid Waste Management Rules or
+exceptional quality biosolids shall not be regulated as a soil amendment under
+this chapter, unless marketed and distributed for the use in the production of an
+agricultural commodity.
+(22) “Soil inoculant” means a microbial product that is applied to
+colonize the soil to benefit the soil chemistry, biology, or structure.
+VT LEG #384275 v.1
+No. 59 Page 8 of 65
+2025
+(20)(23) “Ton” means a net weight of 2,000 pounds avoirdupois.
+(21)(24) “Use” includes all purposes for which a fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+is applied.
+(22)(25) “Weight” means the weight of undried material as offered for
+sale.
+
+Section 6:
+§ 364. REGISTRATION
+(a) Each brand or grade or formula of fertilizer, plant amendment, plant
+biostimulant, or soil amendment beneficial substance shall be registered in the
+name of the person whose name appears upon the label before being
+distributed in this State. The application for registration shall be submitted to
+the Secretary on a form furnished by the Agency of Agriculture, Food and
+Markets and shall be accompanied by a fee of $85.00 per grade or formulation
+registered. Upon approval by the Secretary, a copy of the registration shall be
+furnished to the applicant. All registrations expire on December 31 of each
+year. The application shall include the following information:
+(1) the brand and grade or formulation;
+(2) the guaranteed analysis if applicable; and
+(3) the name and address of the registrant.
+(b) A distributor shall not be required to register any fertilizer, plant
+amendment, plant biostimulant, or soil amendment or beneficial substance that
+is already registered under this chapter by another person, provided there is no
+VT LEG #384275 v.1
+No. 59 Page 9 of 65
+2025
+change in the label for the fertilizer, plant amendment, plant biostimulant, or
+soil amendment or beneficial substance.
+(c) Each beneficial substance brand shall refer to a specific formulation.
+Different brands may refer to the same specific formulation. Products for
+which formulations change, such as changes in the “Contains Beneficial
+Substances” analysis, statement of composition, or anything that implies a
+different product, must obtain a new registration with a brand that
+distinguishes it from the previous formulation.
+(d) A distributor shall not be required to register each grade of fertilizer
+formulated or each formulation of soil amendment according to specifications
+that are furnished by a consumer prior to mixing but shall be required to label
+the fertilizer or soil amendment as provided in subsection 365(b) of this title.
+(d)(e) The Secretary may request additional proof of testing of products
+prior to registration for guaranteed analyses or adulterants.
+(e)(f) Each separately identified agricultural lime product shall be
+registered before being distributed in this State. Registration shall be
+performed in the same manner as fertilizer registration except that each
+application shall be accompanied by a fee of $50.00 per product.
+(f)(g) The registration and tonnage fees, along with any deficiency
+penalties collected pursuant to sections 331 and 372 of this title, shall be
+deposited in a special fund. Funds deposited in this fund shall be restricted to
+VT LEG #384275 v.1
+No. 59 Page 10 of 65
+2025
+implementing and administering the provisions of this title and any other
+provisions of law relating to feeds and seeds.
+
+Section 7:
+§ 365. LABELS
+(a)(1) Any fertilizer or agricultural lime distributed in this State in
+containers shall have placed on or affixed to the container a label setting forth
+in clearly legible and conspicuous form the following information:
+(A) net weight;
+(B) brand and grade, provided that grade shall not be required when
+no primary nutrients are claimed;
+(C) guaranteed analysis; and
+(D) name and address of the registrant.
+(2) For bulk shipments, this information in written or printed form shall
+accompany delivery and be supplied to the purchaser at the time of delivery.
+(b) A fertilizer or lime formulated according to specifications furnished by
+a consumer prior to mixing shall be labeled to show the net weight, the
+guaranteed analysis or name, analysis and weight of each ingredient used in the
+mixture, and the name and address of the distributor and purchaser.
+(c) If the Secretary finds that a requirement for expressing calcium and
+magnesium in elemental form would not impose an economic hardship on
+distributors and users of agricultural liming materials by reason of conflicting
+label requirements among states, the Secretary may require by rule that the
+VT LEG #384275 v.1
+No. 59 Page 11 of 65
+2025
+minimum percent of calcium oxide and magnesium oxide or calcium carbonate
+and magnesium carbonate, or both, shall be expressed in the following terms:
+Total Calcium (Ca) ......................................... percent
+Total Magnesium (Mg) ......................................... percent
+(d)(1) Any plant amendment, plant biostimulant, or soil amendment
+beneficial substance distributed in this State in containers shall have placed on
+or affixed to the container a label setting forth in clearly legible and
+conspicuous form the following information:
+(A) net weight or volume;
+(B) brand name;
+(C) purpose statement identifying the purpose of the product;
+(D) directions for application or use;
+(E) guaranteed analysis; and
+(F) name and address of the registrant; and
+(F) a statement of composition showing the amount of each
+ingredient, which is the agent in a product primarily responsible for the
+intended effects using the following format:
+CONTAINS BENEFICIAL SUBSTANCE(S)
+Name of beneficial substance % (or acceptable
+units)
+Genus and species of microorganism % viable CFU/cm3, /ml,
+/g, or other acceptable units
+VT LEG #384275 v.1
+No. 59 Page 12 of 65
+2025
+(Identify and list all beneficial substances. Substances shall include
+ingredient source, if applicable. Ex. “humic acid from leonardite or saponin
+from Yucca schidigera”).
+(2) For products that claim microorganisms, labels shall also include:
+(A) the expiration date for use; and
+(B) storage conditions.
+(3) For bulk shipments of fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substances, or lime, the information
+required under this subsection shall accompany delivery in written or printed
+form and shall be supplied to the purchaser at the time of delivery.
+(4) Efficacy data may be required to support beneficial substance
+ingredient claims if the ingredient is not presently defined by the Association
+of American Plant Food Control Officials’ Official Publication for the
+particular claim.
+(3)(5) Under a rule adopted under this subsection, an affected person
+shall be given a reasonable time to come into compliance.
+
+Section 8:
+§ 366. TONNAGE FEES
+(a) A person distributing fertilizer to a nonregistrant consumer in the State
+annually shall pay the following fees to the Secretary:
+(1) a $150.00 minimum tonnage fee;
+(2) $0.50 per ton of agricultural fertilizer distributed; and
+(3) $30.00 per ton of nonagricultural fertilizer distributed.
+VT LEG #384275 v.1
+No. 59 Page 13 of 65
+2025
+(b) Persons distributing fertilizer shall report annually on or before January
+15 for the previous year ending December 31 to the Secretary revealing the
+amounts of each grade of fertilizer and the form in which the fertilizer was
+distributed within this State. Each report shall be accompanied with payment
+and written permission allowing the Secretary to examine the person’s books
+for the purpose of verifying tonnage reports.
+(c) No information concerning tonnage sales furnished to the Secretary
+under this section shall be disclosed in such a way as to divulge the details of
+the business operation to any person unless it is necessary for the enforcement
+of the provisions of this chapter.
+(d) Persons distributing a plant amendment, plant biostimulant, or soil
+amendment beneficial substance in the State shall report annually on or before
+January 15 for the previous year ending December 31 to the Secretary
+revealing the amounts of each formulation of plant amendment, plant
+biostimulant, or soil amendment beneficial substance and the form in which
+the plant amendment, plant biostimulant, or soil amendment beneficial
+substance was distributed within this State. Each report shall include a written
+authorization allowing the Secretary to examine the person’s books for the
+purpose of verifying tonnage reports. Plant amendments, plant biostimulants,
+and soil amendments are A beneficial substance is exempt from tonnage fees.
+(e) Agricultural limes, including agricultural lime mixed with wood ash,
+are exempt from the tonnage fees required in this section.
+VT LEG #384275 v.1
+No. 59 Page 14 of 65
+2025
+(f) Lime and wood ash mixtures may be registered as agricultural liming
+materials and guaranteed for potassium or potash, provided that the wood ash
+totals less than 50 percent of the mixture.
+(g)(1) All fees collected under subdivisions (a)(1) and (2) of this section
+shall be deposited in the special fund created by subsection 364(f) of this title
+and used in accordance with its provisions.
+(2) All fees collected under subdivision (a)(3) of this section shall be
+deposited in the Agricultural Water Quality Special Fund created under section
+4803 of this title.
+(h) [Repealed.]
+
+Section 9:
+§ 367. INSPECTION; SAMPLING; ANALYSIS
+For the purpose of enforcing this chapter and determining whether or not
+fertilizers, plant amendment, plant biostimulant, soil amendments beneficial
+substances, and lime distributed in this State endanger the health and safety of
+Vermont citizens, the Secretary upon presenting appropriate credentials is
+authorized:
+(1) To enter any public or private premises except domiciles during
+regular business hours and stop and enter any vehicle being used to transport or
+hold fertilizer, a plant amendment, a plant biostimulant, a soil amendment
+beneficial substances, or lime.
+VT LEG #384275 v.1
+No. 59 Page 15 of 65
+2025
+(2) To inspect blending plants, warehouses, establishments, vehicles,
+equipment, finished or unfinished materials, containers, labeling, and records
+relating to distribution, storage, or use.
+(3) To sample and analyze any fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime. The methods of
+sampling and analysis shall be those adopted by the Association of Official
+Analytical Chemists. In cases not covered by this method or in cases where
+methods are available in which improved applicability has been demonstrated,
+the Secretary may authorize and adopt methods that reflect sound analytical
+procedures.
+(4) To develop any reasonable means necessary to monitor and adopt
+rules for the use of fertilizers, plant amendments, plant biostimulants, soil
+amendments beneficial substances, and lime on Vermont soils where
+monitoring indicates environmental or health problems. In addition, the
+Secretary may develop and adopt rules for the proper storage of fertilizers,
+plant amendments, plant biostimulants, soil amendments beneficial substances,
+and lime held for distribution or sale.
+
+Section 10:
+§ 368. MISBRANDING
+(a) No person shall distribute a misbranded fertilizer, plant amendment,
+plant biostimulant, soil amendment beneficial substance, or agricultural lime.
+A fertilizer, plant amendment, plant biostimulant, or soil amendment beneficial
+VT LEG #384275 v.1
+No. 59 Page 16 of 65
+2025
+substance shall be deemed to be misbranded if the Secretary determines one or
+more of the following:
+(1) The labeling is false or misleading in any particular.
+(2) It is distributed under the name of another fertilizer product, plant
+amendment, plant biostimulant, or soil amendment beneficial substance.
+(3) It contains unsubstantiated claims.
+(4) It is not labeled as required in section 365 of this title and in
+accordance with rules adopted under this chapter.
+(5) It is labeled, or represented, to contain a plant nutrient that does not
+conform to the standard of identity established by rule. In adopting rules under
+this chapter, the Secretary shall give consideration to consider definitions
+recommended by the Association of American Plant Food Control Officials.
+(b) An agricultural lime shall be deemed to be misbranded if:
+(1) its labeling is false or misleading in any particular; or
+(2) it is not labeled as required by section 365 of this title and in
+accordance with rules adopted under this chapter.
+
+Section 11:
+§ 369. ADULTERATION
+No person shall distribute an adulterated lime, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or fertilizer product. A
+fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime shall be deemed to be adulterated if:
+VT LEG #384275 v.1
+No. 59 Page 17 of 65
+2025
+(1) it contains any deleterious or harmful ingredient in an amount
+sufficient to render it injurious to beneficial plant life, animals, humans,
+aquatic life, soil, or water when applied in accordance with directions for use
+on the label, or if uses of the product may result in contamination or
+condemnation of a raw agricultural commodity by use, or if adequate warning
+statements or directions for use that may be necessary to protect plant life,
+animals, humans, aquatic life, soil, or water are not shown on the label;
+(2) its composition falls below or differs from that which it is purported
+to possess by its labeling;
+(3) it contains crop seed or weed seed; or
+(4) it contains heavy metals, radioactive substances, or synthetic
+organics in amounts sufficient to render it injurious to livestock or human
+health when applied in accordance with directions for use on the label, or if
+adequate warning statements or directions for use that may be necessary to
+protect livestock or human health are not shown on the label.
+
+Section 12:
+§ 370. PUBLICATION; CONSUMER INFORMATION REGARDING USE
+ON NONAGRICULTURAL TURF OF FERTILIZER, PLANT
+AMENDMENTS, PLANT BIOSTIMULANTS, AND SOIL
+AMENDMENTS BENEFICIAL SUBSTANCES
+VT LEG #384275 v.1
+No. 59 Page 18 of 65
+2025
+(a) The Secretary shall publish on an annual basis:
+(1) information concerning the distribution of fertilizers, plant
+amendments, plant biostimulants, soil amendments beneficial substances, and
+limes; and
+(2) results of analyses based on official samples of fertilizers, plant
+amendments, plant biostimulants, soil amendments beneficial substances, and
+lime distributed within the State as compared with guaranteed analyses
+required pursuant to the terms of this chapter.
+(b)(1) The Secretary, in consultation with the University of Vermont
+Extension, fertilizer industry representatives, lake groups, and other interested
+or affected parties, shall produce information for distribution to the general
+public with respect to the following:
+(A) problems faced by the waters of the State because of discharges
+of phosphorus;
+(B) an explanation of the extent to which phosphorus exists naturally
+in the soil;
+(C) voluntary best management practices for the use of fertilizers
+containing phosphorus on nonagricultural turf; and
+(D) best management practices for residential sources of phosphorus.
+(2) The Secretary shall develop the information required under this
+subsection and make it available to the general public in the manner deemed
+most effective, which may include:
+VT LEG #384275 v.1
+No. 59 Page 19 of 65
+2025
+(A) conspicuous posting at the point of retail sale of fertilizer
+containing phosphorus, according to recommendations for how that
+conspicuous posting may best take place;
+(B) public service announcements by means of electronic media; or
+(C) other methods deemed by the Secretary to be likely to be
+effective.
+* * *
+
+Section 13:
+§ 371. RULES
+The Secretary is authorized to adopt rules pursuant to 3 V.S.A. chapter 25
+as may be necessary to implement the intent of this chapter and to enforce
+those rules.
+* * *
+
+Section 14:
+§ 374. SHORT WEIGHT
+(a) If any fertilizer, plant amendment, plant biostimulant, soil amendment
+beneficial substance, or agricultural liming material is found to be short in net
+weight, the registrant of the fertilizer, plant amendment, plant biostimulant,
+soil amendment beneficial substance, or lime shall pay a penalty of three times
+the value of the actual shortage to the affected party.
+(b) Each registrant shall be offered an opportunity for a hearing before the
+Secretary. Penalty payments shall be made within 30 days after notice of the
+Secretary’s decision to assess a penalty. Proof of payment to the consumer
+shall be promptly forwarded to the Secretary by the registrant.
+VT LEG #384275 v.1
+No. 59 Page 20 of 65
+2025
+(c) If the consumer cannot be found, the amount of the penalty payments
+shall be paid to the Secretary who shall deposit the payment into the revolving
+account established by subsection 364(f) of this title.
+(d) This section is not an exclusive cause of action, and persons affected
+may utilize any other right of action available under law.
+
+Section 15:
+§ 375. CANCELLATION OF REGISTRATION
+The Secretary is authorized to cancel or suspend the registration of any
+fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime or refuse a registration application if the provisions of this
+chapter or the rules adopted under this chapter have been violated, provided
+that no registration shall be revoked or refused without a hearing before the
+Secretary.
+
+Section 16:
+§ 376. DETAINED FERTILIZER, BENEFICIAL SUBSTANCE, AND LIME
+(a) Withdrawal from distribution orders. When the Secretary has
+reasonable cause to believe any lot of fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime is being distributed
+in violation of any of the provisions of this chapter or any of the rules under
+this chapter, the Secretary may issue and enforce a written or printed
+“withdrawal from distribution” order, warning the distributor not to dispose of
+the lot of fertilizer, plant amendment, plant biostimulant, soil amendment
+beneficial substance, or lime in any manner until written permission is given
+by the Secretary or the court. The Secretary shall release the lot of fertilizer,
+VT LEG #384275 v.1
+No. 59 Page 21 of 65
+2025
+plant amendment, plant biostimulant, soil amendment beneficial substance, or
+lime withdrawn when this chapter and rules have been complied with. If
+compliance is not obtained within 30 days, the Secretary may begin, or upon
+request of the distributor or registrant shall begin, proceedings for
+condemnation.
+(b) Condemnation and confiscation. Any lot of fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+not in compliance with this chapter and rules shall be subject to seizure on
+complaint of the Secretary to a court of competent jurisdiction in the area in
+which the fertilizer, plant amendment, plant biostimulant, soil amendment
+beneficial substance, or lime is located. In the event the court finds the
+fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime to be in violation of this chapter and orders the
+condemnation of the fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime, it shall be disposed of in any manner
+consistent with the quality of the fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime and the laws of the
+State, provided that in no instance shall disposition of the fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+be ordered by the court without first giving the claimant an opportunity to
+apply to the court for release of the fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime or for permission to
+VT LEG #384275 v.1
+No. 59 Page 22 of 65
+2025
+process or relabel the fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime to bring it into compliance with this
+chapter.
+* * *
+
+Section 17:
+§ 379. EXCHANGES BETWEEN MANUFACTURERS
+Nothing in this chapter shall be construed to restrict or impair sales or
+exchanges of fertilizers, plant amendments, plant biostimulants, or soil
+amendments or beneficial substances to each other by importers,
+manufacturers, or manipulators who mix fertilizer materials, plant
+amendments, plant biostimulants, or soil amendments or beneficial substances
+for sale or to prevent the free and unrestricted shipments of fertilizer, plant
+amendments, plant biostimulant, or soil amendments or beneficial substances
+to manufacturers or manipulators who have registered their brands as required
+by provisions of this chapter.
+
+Section 18:
+§ 380. ADMINISTRATIVE PENALTY
+Consistent with chapter 1 of this title, the Secretary may assess an
+administrative penalty upon determining that a person has violated a rule
+issued under this chapter or has violated this chapter in the following manner:
+(1) distributed a specialty fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime without first
+obtaining the appropriate product registration;
+VT LEG #384275 v.1
+No. 59 Page 23 of 65
+2025
+(2) distributed a fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime without appropriate and accurate
+labeling, including when a beneficial substance label does not reflect its
+composition;
+(3) distributed any adulterated fertilizer, beneficial substance, or lime;
+(4) failed to disclose on the label sources of potentially deleterious
+components;
+(5) failed to report or to accurately report the amount and form of each
+grade of fertilizer distributed in Vermont on an annual basis;
+(4)(6) failed to report or to accurately report the amount and form of
+each formulation of plant amendment, plant biostimulant, or soil amendment
+beneficial substance;
+(5)(7) failed to pay the appropriate tonnage fee; or
+(6)(8) violated a cease and desist order.
+* * *
+* * * Pesticides; Disposal * * *
+Sec. 2. 6 V.S.A. § 918 is amended to read:
+
+Section 19:
+§ 918. REGISTRATION
+* * *
+(b)(1) The registrant shall pay an annual fee of $200.00 for each product
+registered, and $185.00 of that amount shall be deposited in the special fund
+created in section 929 of this title. Of the registration fees collected under this
+VT LEG #384275 v.1
+No. 59 Page 24 of 65
+2025
+subsection, $15.00 of the amount collected shall be deposited in the
+Agricultural Water Quality Special Fund under section 4803 of this title. Of
+the registration fees collected under this subsection, $25.00 of the amount
+collected shall be used to offset the additional costs of inspection of economic
+poison products and to provide educational services, training, and technical
+assistance to pesticide applicators, beekeepers, and the general public
+regarding the effects of pesticides on pollinators and the methods or best
+management practices to reduce the impacts of pesticides on pollinators. The
+annual registration year shall be from December 1 to November 30 of the
+following year.
+(2) In addition to the fee required under subdivision (1) of this
+subsection, a registrant shall pay a fee of $50.00 per product registration that
+shall be deposited in the special fund created in section 929 of this title and
+used to meet the requirements of subdivision 929(a)(6) of this title. This
+additional fee shall be collected from registrants until such time as an extended
+producer responsibility program is implemented in the State that fully funds
+the collection of obsolete and unwanted pesticides.
+* * *
+Sec. 3. PESTICIDE DISPOSAL FUNDING STUDY
+(a)(1) The Secretary of Agriculture, Food and Markets, in consultation with
+the Commissioner of Environmental Conservation, shall study options for
+sustainable funding sources to reimburse solid waste management entities for
+VT LEG #384275 v.1
+No. 59 Page 25 of 65
+2025
+all costs associated with the collection and disposal of unwanted or obsolete
+pesticides at municipal hazardous waste collection programs and events.
+(2) The costs to be reimbursed shall include the prorated costs related to
+facilities, equipment, labor, supplies, maintenance, and collection events.
+Prorated costs associated with collection events shall include collection event
+setup fees, environmental service fees, insurance fees, and shipping containers
+and materials related to the collection and disposal of unwanted or obsolete
+pesticides.
+(3) The study shall include consideration of the viability of an extended
+producer responsibility program for pesticides among other options.
+(4) The Secretary shall consult with stakeholders.
+(b) On or before December 15, 2025, the Secretary of Agriculture, Food
+and Markets shall submit a written report on its findings to the House
+Committees on Agriculture, Food Resiliency, and Forestry and on
+Environment and the Senate Committees on Agriculture and on Natural
+Resources and Energy. The report shall include a recommended funding
+mechanism that will cover all costs associated with collecting unwanted
+pesticides through municipal collection programs.
+* * * Stormwater Permits * * *
+Sec. 4. STORMWATER PERMITTING; RUTLAND COUNTY
+AGRICULTURAL SOCIETY, INC.
+VT LEG #384275 v.1
+No. 59 Page 26 of 65
+2025
+No stormwater impact fee or completion of an offset shall be required for
+the Rutland County Agricultural Society, Inc. under the three-acre stormwater
+permit required by 10 V.S.A. § 1264, provided that the Society is registered
+with the Agency of Agriculture, Food and Markets.
+Sec. 5. [Deleted.]
+* * * Heavy Cut Rule * * *
+Sec. 6. DEPARTMENT OF FORESTS, PARKS AND RECREATION;
+HEAVY CUT RULE; VALIDITY
+(a) Notwithstanding 1 V.S.A. § 214 to the contrary:
+(1) the provisions of 3 V.S.A. § 848(c) (repeal of rules not published in
+the Vermont Code of Rules as of July 1, 2018) shall be deemed not to have
+repealed the Department of Forests, Parks and Recreation rule entitled “Intent
+to Cut Notification Emergency Rules, Standards and Procedures”; and
+(2) the provisions of the Department of Forests, Parks and Recreation
+rule entitled “Intent to Cut Notification Emergency Rules, Standards and
+Procedures” shall be deemed to have continued in full force and effect and
+remained valid on and after July 1, 2018.
+(b)(1) All actions taken by the Department of Forests, Parks and Recreation
+from July 1, 2018 through July 1, 2025 to grant or deny an authorization to
+proceed with a heavy cut pursuant to the provisions of 10 V.S.A. § 2625 and
+the Department of Forests, Parks and Recreation rule entitled “Intent to Cut
+VT LEG #384275 v.1
+No. 59 Page 27 of 65
+2025
+Notification Emergency Rules, Standards and Procedures” are valid and
+enforceable.
+(2) As used in this subsection, the term “heavy cut” has the same
+meaning as in 10 V.S.A. § 2625.
+(c) On or before July 1, 2026, the Department of Forests, Parks and
+Recreation shall publish the rule entitled “Intent to Cut Notification
+Emergency Rules, Standards and Procedures” in the Vermont Code of Rules.
+* * * Household Hazardous Waste Extended Producer Responsibility * * *
+Sec. 7. 10 V.S.A. § 7181 is amended to read:
+
+Section 20:
+§ 7181. DEFINITIONS
+As used in this chapter:
+* * *
+(4)(A) “Covered household hazardous product” means a consumer
+product offered for retail sale that is contained in the receptacle in which the
+product is offered for retail sale, if the product has any of the following
+characteristics:
+(i) the product or a component of the product is a hazardous waste
+under subchapter 2 of the Vermont Hazardous Waste Management
+Regulations, regardless of the status of the generator of the hazardous waste; or
+(ii) the product is a gas cylinder.
+(B) “Covered household hazardous product” does not mean any of
+the following:
+VT LEG #384275 v.1
+No. 59 Page 28 of 65
+2025
+* * *
+(iv) architectural paint paint products as that term is defined in
+
+Section 21:
+section 6672 of this title;
+* * *
+Sec. 8. 10 V.S.A. § 7182 is amended to read:
+
+Section 22:
+§ 7182. SALE OF COVERED HOUSEHOLD HAZARDOUS PRODUCTS;
+STEWARDSHIP ORGANIZATION REGISTRATION;
+MANUFACTURER REGISTRATION
+(a) Sale prohibited.
+(1) A manufacturer of a covered household hazardous product shall not
+sell, offer for sale, or deliver to a retailer for subsequent sale a covered
+household hazardous product without registering with the stewardship
+organization pursuant to subsection (c) of this section.
+(2) Beginning six months after a final decision on the adequacy of a
+collection plan by the Secretary, a manufacturer of a covered household
+hazardous product shall not sell, offer for sale, or deliver to a retailer for
+subsequent sale a covered household hazardous product unless all the
+following have been met:
+(1)(A) The manufacturer is participating in a stewardship
+organization implementing an approved collection plan.
+(2)(B) The name of the manufacturer, the manufacturer’s brand, and
+the name of the covered household hazardous product are submitted to the
+VT LEG #384275 v.1
+No. 59 Page 29 of 65
+2025
+Agency of Natural Resources by a stewardship organization and listed on the
+stewardship organization’s website as covered by an approved collection plan.
+(3)(C) The stewardship organization in which the manufacturer
+participates has submitted an annual report consistent with the requirements of
+
+Section 23:
+section 7185 of this title.
+(4)(D) The stewardship organization in which the manufacturer
+participates has conducted a plan audit consistent with the requirements of
+subsection 7185(b) of this title.
+(b) Stewardship organization registration requirements.
+(1) On or before July 1, 2025 and annually thereafter, a stewardship
+organization shall file a registration form with the Secretary. The Secretary
+shall provide the registration form to the stewardship organization. The
+registration form shall include:
+(A) a list of the manufacturers participating in the stewardship
+organization;
+(B) a list of the brands of each manufacturer participating in the
+stewardship organization;
+(C) a list of the covered household hazardous products of each
+manufacturer participating in the stewardship organization;
+(D) the name, address, and contact information of a person
+responsible for ensuring compliance with this chapter;
+VT LEG #384275 v.1
+No. 59 Page 30 of 65
+2025
+(E) a description of how the stewardship organization meets the
+requirements of subsection 7184(b) of this title, including any reasonable
+requirements for participation in the stewardship organization; and
+(F)(B) the name, address, and contact information of a person for a
+nonmember manufacturer to contact regarding how to participate in the
+stewardship organization to satisfy the requirements of this chapter.
+(2) A renewal of a registration without changes may be accomplished
+through notifying the Agency of Natural Resources on a form provided by the
+Agency Beginning on July 1, 2026 and annually thereafter, a stewardship
+organization shall renew its registration with the Secretary. A renewal
+registration shall include the following:
+(A) a list of the manufacturers participating in the stewardship
+organization;
+(B) a list of the brands of each manufacturer participating in the
+stewardship organization;
+(C) a list of the covered household hazardous products of each
+manufacturer participating in the stewardship organization;
+(D) the name, address, and contact information of a person
+responsible for ensuring compliance with this chapter;
+(E) a description of how the stewardship organization meets the
+requirements of subsection 7184(b) of this title, including any reasonable
+requirements for participation in the stewardship organization; and
+VT LEG #384275 v.1
+No. 59 Page 31 of 65
+2025
+(F) the name, address, and contact information of a person for a
+nonmember manufacturer to contact regarding how to participate in the
+stewardship organization to satisfy the requirements of this chapter.
+(c) Manufacturer registration. On or before November 1, 2025, a
+manufacturer of a covered household hazardous product shall register with the
+stewardship organization in a manner proscribed by the stewardship
+organization.
+Sec. 9. 10 V.S.A. § 7183 is amended to read:
+
+Section 24:
+§ 7183. COLLECTION PLANS
+(a) Collection plan required. Prior to July 1, 2025 On or before July 1,
+2026, any stewardship organization registered with the Secretary as
+representing manufacturers of covered household hazardous products shall
+coordinate and submit to the Secretary for review one collection plan for all
+manufacturers.
+(b) Collection plan; minimum requirements. Each collection plan shall
+include, at a minimum, all of the following requirements:
+(1) Initial plan. The initial plan shall last for a period not to exceed
+three years and contain, at a minimum, the following requirements:
+(A) List of participants. A list of the manufacturers, brands, and
+products participating in the collection plan and a methodology for adding and
+removing manufacturers and notifying the Agency of new participants.
+VT LEG #384275 v.1
+No. 59 Page 32 of 65
+2025
+(2)(B) Free statewide collection of covered household hazardous
+products. The collection program shall provide reimburse municipalities when
+a municipality provides for free, convenient, and accessible statewide
+opportunities for the collection from covered entities of covered household
+hazardous products, including orphan covered products. A stewardship
+organization shall accept all covered household hazardous products collected
+from a covered entity and shall not refuse the collection of a covered
+household hazardous product, including orphan covered household products,
+based on the brand or manufacturer of the covered household hazardous
+product unless specifically exempt from this requirement. The collection
+program shall also provide for the payment of collection, processing, and end-
+of-life management of the covered household hazardous products. Collection
+costs include facility costs, equipment costs, labor, supplies, maintenance,
+events costs, and event contractor costs, including collection event set-up fees,
+environmental service fees, insurance fees, and shipping containers and
+materials.
+(3) Convenient collection location. The stewardship organization shall
+develop a collection program that allows all municipal household hazardous
+waste collection programs to opt to be a part of the collection plan, including
+collection events and facilities offered by solid waste planning entities. The
+plan shall make efforts to site points of collection equitably across all regions
+VT LEG #384275 v.1
+No. 59 Page 33 of 65
+2025
+of the State to allow for convenient and reasonable access of all Vermonters to
+collection facilities or collection events.
+(4) Public education and outreach. The collection plan shall include an
+education and outreach program that shall include a website and may include
+media advertising, retail displays, articles and publications, and other public
+educational efforts. Outreach and education shall be suitable for the State’s
+diverse ethnic populations, through translated and culturally appropriate
+materials, including in-language and targeted outreach. Public education and
+outreach should include content to increase meaningful participation by
+environmental justice focus populations as required by 3 V.S.A. chapter 72.
+During the first year of program implementation and two years after adoption
+of the collection plan, each stewardship organization shall carry out a survey of
+public awareness regarding the requirements of the program established under
+this chapter that can identify communities that have disparities in awareness
+and need more outreach. Each stewardship organization shall share the results
+of the public awareness surveys with the Secretary. If multiple stewardship
+organizations are implementing plans approved by the Secretary, the
+stewardship organizations shall coordinate in carrying out their education and
+outreach responsibilities under this subdivision and shall include in their
+annual reports to the Secretary a summary of their coordinated education and
+outreach efforts. The education and outreach program and website shall notify
+the public of the following:
+VT LEG #384275 v.1
+No. 59 Page 34 of 65
+2025
+(A) that there is a free collection program for covered household
+hazardous products;
+(B) the location and hours of operation of collection points and how a
+covered entity can access this collection program;
+(C) the special handling considerations associated with covered
+household hazardous products; and
+(D) source reduction information for consumers to reduce leftover
+covered household products.
+(5) Compliance with appropriate environmental standards. In
+implementing a collection plan, a stewardship organization shall comply with
+all applicable laws related to the collection, transportation, and disposal of
+hazardous waste. A stewardship organization shall comply with any special
+handling or disposal standards established by the Secretary for covered
+household hazardous products or for the collection plan of the manufacturer.
+(6) Method of disposition. The collection plan shall describe how
+covered household hazardous products will be managed in the most
+environmentally and economically sound manner, including following the
+waste-management hierarchy. The management of covered household
+hazardous products under the collection plan shall use management activities
+in the following priority order: source reduction, reuse, recycling, energy
+recovery, and disposal. Collected covered household hazardous products shall
+be recycled when technically and economically feasible.
+VT LEG #384275 v.1
+No. 59 Page 35 of 65
+2025
+(7) Performance goals. A collection plan shall include:
+(A) A performance goal for covered household hazardous products
+determined by the number of total participants at collection events and
+facilities listed in the collection plan during a program year divided by the total
+number of households. The number of households shall include seasonal
+households. The calculation methodology for the number of households shall
+be included in the plan.
+(B) At a minimum, the collection performance goal for the first
+approved plan shall be an annual participation rate of five percent of the
+households for every collection program based on the number of households
+the collection program serves. After the initial approved program plan, the
+stewardship organization shall propose performance goals for subsequent
+program plans. The Secretary shall approve the performance goals for the plan
+at least every five years. The stewardship organization shall use the results of
+the most recent waste composition study required under 6604 of this title and
+other relevant factors to propose the performance goals of the collection plan.
+If a stewardship organization does not meet its performance goals, the
+Secretary may require the stewardship organization to revise the collection
+plan to provide for one or more of the following: additional public education
+and outreach, additional collection events, or additional hours of operation for
+collection sites. A stewardship organization is not authorized to reduce or
+VT LEG #384275 v.1
+No. 59 Page 36 of 65
+2025
+cease collection, education and outreach, or other activities implemented under
+an approved plan on the basis of achievement of program performance goals.
+(8)(C) Collection plan funding. The collection plan shall describe how
+the stewardship organization will fund the implementation of the collection
+plan and collection activities under the plan, including the costs for education
+and outreach, collection, processing, and end-of-life management of the
+covered household hazardous product all municipal collection offered to the
+public in a base program year. A base program year shall be based on the
+services provided in calendar year 2024 and any other collection facilities or
+events approved by the Secretary. Collection costs include facility costs,
+equipment costs, labor, supplies, maintenance, events costs, and event
+contractor costs, including collection event set-up fees, environmental service
+fees, insurance fees, and shipping containers and materials. The collection
+plan shall include how municipalities will be compensated for all costs
+attributed to collection of covered household hazardous products. The
+Secretary shall resolve disputes relating to compensation.
+(2) Subsequent plans. After the expiration of the initial plan approved
+by the Secretary, the collection plan shall include, at a minimum, the
+following:
+(A) List of participants. A list of the manufacturers, brands, and
+products participating in the collection plan and a methodology for adding and
+removing manufacturers and notifying the Agency of new participants.
+VT LEG #384275 v.1
+No. 59 Page 37 of 65
+2025
+(B) Free statewide collection of covered household hazardous
+products. The collection program shall provide for free, convenient, and
+accessible statewide opportunities for the collection from covered entities of
+covered household hazardous products, including orphan covered products. A
+stewardship organization shall accept all covered household hazardous
+products collected from a covered entity and shall not refuse the collection of a
+covered household hazardous product, including orphan covered household
+products, based on the brand or manufacturer of the covered household
+hazardous product unless specifically exempt from this requirement. The
+collection program shall also provide for the payment of collection, processing,
+and end-of-life management of the covered household hazardous products.
+Collection costs include facility costs, equipment costs, labor, supplies,
+maintenance, events costs, and event contractor costs, including collection
+event set-up fees, environmental service fees, insurance fees, and shipping
+containers and materials.
+(C) Convenient collection location. The stewardship organization
+shall develop a collection program that allows all municipal household
+hazardous waste collection programs to opt to be a part of the collection plan,
+including collection events and facilities offered by solid waste planning
+entities. The plan shall make efforts to site points of collection equitably
+across all regions of the State to allow for convenient and reasonable access of
+all Vermonters to collection facilities or collection events.
+VT LEG #384275 v.1
+No. 59 Page 38 of 65
+2025
+(D) Public education and outreach. The collection plan shall include
+an education and outreach program that shall include a website and may
+include media advertising, retail displays, articles and publications, and other
+public educational efforts. Outreach and education shall be suitable for the
+State’s diverse ethnic populations, through translated and culturally appropriate
+materials, including in-language and targeted outreach. Public education and
+outreach should include content to increase meaningful participation by
+environmental justice focus populations as required by 3 V.S.A. chapter 72.
+During the second approved plan, each stewardship organization shall carry
+out a survey of public awareness regarding the requirements of the program
+established under this chapter that can identify communities that have
+disparities in awareness and need more outreach. Each stewardship
+organization shall share the results of the public awareness surveys with the
+Secretary. If multiple stewardship organizations are implementing plans
+approved by the Secretary, the stewardship organizations shall coordinate in
+carrying out their education and outreach responsibilities under this
+subdivision (D) and shall include in their annual reports to the Secretary a
+summary of their coordinated education and outreach efforts. The education
+and outreach program and website shall notify the public of the following:
+(i) that there is a free collection program for covered household
+hazardous products;
+VT LEG #384275 v.1
+No. 59 Page 39 of 65
+2025
+(ii) the location and hours of operation of collection points and
+how a covered entity can access this collection program;
+(iii) the special handling considerations associated with covered
+household hazardous products; and
+(iv) source reduction information for consumers to reduce leftover
+covered household products.
+(E) Compliance with appropriate environmental standards. In
+implementing a collection plan, a stewardship organization shall comply with
+all applicable laws related to the collection, transportation, and disposal of
+hazardous waste. A stewardship organization shall comply with any special
+handling or disposal standards established by the Secretary for covered
+household hazardous products or for the collection plan of the manufacturer.
+(F) Method of management. The collection plan shall describe how
+covered household hazardous products will be managed in the most
+environmentally and economically sound manner, including following the
+waste-management hierarchy. The management of covered household
+hazardous products under the collection plan shall use management activities
+in the following priority order: source reduction, reuse, recycling, energy
+recovery, and disposal. Collected covered household hazardous products shall
+be recycled when technically and economically feasible.
+VT LEG #384275 v.1
+No. 59 Page 40 of 65
+2025
+(G) Performance goals. A collection plan shall include:
+(i) A performance goal for covered household hazardous products
+determined by the number of total participants at collection events and
+facilities listed in the collection plan during a program year divided by the total
+number of households. The number of households shall include seasonal
+households. The calculation methodology for the number of households shall
+be included in the plan.
+(ii) At a minimum, the collection performance goal for the initial
+plan approved pursuant to subdivision (1) of this subsection (b) shall be an
+annual participation rate of seven percent of the households for every
+collection program based on the number of households the collection program
+serves. After the initial approved program plan, the stewardship organization
+shall propose performance goals for subsequent program plans. The Secretary
+shall approve the performance goals for the plan at least every five years. The
+stewardship organization shall use the results of the most recent waste
+composition study required under 6604 of this title and other relevant factors to
+propose the performance goals of the collection plan. If a stewardship
+organization does not meet its performance goals, the Secretary may require
+the stewardship organization to revise the collection plan to provide for one or
+more of the following: additional public education and outreach, additional
+collection events, or additional hours of operation for collection sites. A
+stewardship organization is not authorized to reduce or cease collection,
+VT LEG #384275 v.1
+No. 59 Page 41 of 65
+2025
+education and outreach, or other activities implemented under an approved
+plan on the basis of achievement of program performance goals.
+(H) Collection plan funding. The collection plan shall describe how
+the stewardship organization will fund the implementation of the collection
+plan and collection activities under the plan, including the costs for education
+and outreach, collection, processing, and end-of-life management of the
+covered household hazardous product. Collection costs include facility costs,
+equipment costs, labor, supplies, maintenance, events costs, and event
+contractor costs, including collection event set-up fees, environmental service
+fees, insurance fees, and shipping containers and materials. The collection
+plan shall include how municipalities will be compensated for all costs
+attributed to collection of covered household hazardous products. The
+Secretary shall resolve disputes relating to compensation.
+(c) Term of collection plan. A collection plan approved by the Secretary
+under section 7187 of this title shall have a term not to exceed five years,
+provided that the stewardship organization remains in compliance with the
+requirements of this chapter and the terms of the approved collection plan.
+(d) Collection plan implementation. Stewardship organizations shall
+implement the collection plan on or before six months after the date of a final
+decision by the Secretary on the adequacy of the collection plan.
+VT LEG #384275 v.1
+No. 59 Page 42 of 65
+2025
+Sec. 10. 10 V.S.A. § 7184 is amended to read:
+
+Section 25:
+§ 7184. STEWARDSHIP ORGANIZATIONS
+(a) Participation in a stewardship organization. A manufacturer shall meet
+the requirements of this chapter by participating in a stewardship organization
+that undertakes the responsibilities under sections 7182, 7183, and 7185 of this
+title.
+(b) Qualifications for a stewardship organization. To qualify as a
+stewardship organization under this chapter, an organization shall:
+(1) commit to assume the responsibilities, obligations, and liabilities of
+all manufacturers participating in the stewardship organization;
+(2) not create unreasonable barriers for participation in the stewardship
+organization; and
+(3) maintain a public website that lists all manufacturers and
+manufacturers’ brands and products covered by the stewardship organization’s
+approved collection plan.
+(c) A stewardship organization is authorized to charge its members
+reasonable fees for the organization, administration, and implementation of the
+programs required by this chapter.
+Sec. 11. 10 V.S.A. § 7187 is amended to read:
+
+Section 26:
+§ 7187. AGENCY RESPONSIBILITIES
+(a) Review and approve collection plans. The Secretary shall review and
+approve or deny collection plans submitted under section 7183 of this title
+VT LEG #384275 v.1
+No. 59 Page 43 of 65
+2025
+according to the public notice and comment requirements of section 7714 of
+this title.
+* * *
+(g) Agency collection plan. If no stewardship organization is formed on or
+before July 1, 2025 or the stewardship organization fails to submit a plan or
+submits a plan that does not meet the requirements of this chapter, the
+Secretary shall adopt and administer a plan that meets the requirements of
+
+Section 27:
+section 7183 of this title. If the Secretary administers the plan adopted under
+
+Section 28:
+section 7183, the Secretary shall charge each manufacturer the prorated costs
+of plan administration, the Agency’s oversight costs, and an additional
+hazardous waste reduction assessment of 10 percent of the plan’s total cost to
+be deposited in the Solid Waste Management Assistance Account of the Waste
+Management Assistance Fund, for the purpose of providing grants to
+municipalities and small businesses to prevent pollution and reduce the
+generation of hazardous waste in the State. When determining a
+manufacturer’s assessment under this section, the Agency may allocate costs to
+a manufacturer of covered household hazardous products based on the sales of
+covered household hazardous products nationally prorated to the population of
+Vermont.
+VT LEG #384275 v.1
+No. 59 Page 44 of 65
+2025
+Sec. 12. 10 V.S.A. § 6621a is amended to read:
+
+Section 29:
+§ 6621a. LANDFILL DISPOSAL REQUIREMENTS
+(a) In accordance with the following schedule, no person shall knowingly
+dispose of the following materials in solid waste or in landfills:
+* * *
+(12) Covered household hazardous products after July 1, 2025 2026.
+* * *
+Sec. 13. SOLID WASTE PLAN; FLEXIBILITY
+(a) Notwithstanding the municipal household hazardous waste (HHW)
+collection requirements under the State Solid Waste Plan adopted pursuant to
+10 V.S.A. § 6604, the Secretary of Natural Resources may grant a variance
+from the requirement to conduct at least two household hazardous waste
+collection events in that municipality. The variance shall allow a municipality
+to meet its obligations, as follows:
+(1) the municipality has partnered with another municipality to allow its
+residents the ability to access a permanent HHW facility in the same manner as
+the municipality that operates the permanent HHW facility;
+(2) the municipality has partnered with a nearby municipality to offer
+collection events to members in both municipalities; or
+(3) the municipality has demonstrated that it has made reasonable efforts
+to provide alternate collection opportunities identified under subdivisions (1)
+and (2) of this subsection and was unable and that the cost of a collection event
+VT LEG #384275 v.1
+No. 59 Page 45 of 65
+2025
+is unreasonable. In such circumstances the Secretary of Natural Resources
+may reduce the required collection events to one per year.
+(b) This section shall be repealed on July 1, 2027.
+* * * Paint Product Stewardship Program * * *
+Sec. 14. 10 V.S.A. chapter 159, subchapter 4 is amended to read:
+Subchapter 4. Paint Product Stewardship Program
+
+Section 30:
+§ 6671. PURPOSE
+The purpose of this subchapter is to establish an environmentally sound,
+cost-effective Paint Product Stewardship Program in the State that will
+undertake responsibility for the development and implementation of strategies
+to reduce the generation of postconsumer paint; promote the reuse of
+postconsumer paint; and collect, transport, and process postconsumer paint,
+including reuse, recycling, energy recovery, and disposal. The Paint Product
+Stewardship Program will follow the waste management hierarchy for
+managing and reducing postconsumer paint in the order as follows: reduce
+consumer generation of postconsumer paint, reuse, recycle, provide for energy
+recovery, and dispose. The Paint Product Stewardship Program will provide
+more opportunities for consumers to manage properly their postconsumer
+paint, provide fiscal relief for local government in managing postconsumer
+paint, keep paint out of the waste stream, and conserve natural resources.
+VT LEG #384275 v.1
+No. 59 Page 46 of 65
+2025
+
+Section 31:
+§ 6672. DEFINITIONS
+As used in this subchapter:
+(1) “Aerosol coating product” means a pressurized coating product
+containing pigments or resins dispensed by means of a propellant and
+packaged and sold in a disposable aerosol container for handheld application,
+or for use in specialized equipment for ground traffic or marking applications.
+(2) “Architectural paint” means interior and exterior architectural
+coatings, including interior or exterior water- and oil-based coatings, primers,
+sealers, or wood coatings, that are sold in containers of five gallons or less.
+“Architectural paint” does not mean industrial coatings, original equipment
+coatings, or specialty coatings.
+(3) “Coating-related product” means a product used as a paint additive,
+paint thinner, paint colorant, paint remover, surface sealant, surface
+preparation, or surface adhesive, and sold for home improvement. “Coating-
+related product” does not mean original equipment manufacturer products or
+industrial products.
+(2)(4) “Distributor” means a company that has a contractual relationship
+with one or more producers to market and sell architectural paint to retailers in
+Vermont.
+(3)(5) “Energy recovery” means recovery in which all or a part of the
+solid waste materials are processed in order to use the heat content or other
+forms of energy of or from the material.
+VT LEG #384275 v.1
+No. 59 Page 47 of 65
+2025
+(4)(6) “Environmentally sound management practices” means policies
+to be implemented by a producer or a stewardship organization to ensure
+compliance with all applicable laws and also addressing such issues as
+adequate record keeping, tracking and documenting the fate of materials within
+the State and beyond, and adequate environmental liability coverage for
+professional services and for the operations of the contractors working on
+behalf of the producer organization.
+(5)(7) “Municipality” means a city, town, or a village.
+(6) “Paint stewardship assessment” means a one-time charge that is:
+(A) added to the purchase price of architectural paint sold in
+Vermont;
+(B) passed from the producer to the wholesale purchaser to the
+retailer and then to a retail consumer; and
+(C) necessary to cover the cost of collecting, transporting, and
+processing the postconsumer paint managed through the statewide Program.
+(8) “Nonindustrial coating” means arts and crafts paint, automotive
+refinish paint, driveway sealer, faux finish or glaze, furniture oil, furniture
+paint, lime wash, lime paint, marine paint, antifouling paint, road and traffic
+marking paint, two-component paint, wood preservative, fire retardant paint,
+dry fog paint, chalkboard paint, and conductive paint, sold in containers of five
+gallons or less for commercial and homeowner use, but does not include
+coatings purchased for industrial or original equipment manufacturer use.
+VT LEG #384275 v.1
+No. 59 Page 48 of 65
+2025
+(9)(A) “Paint product” includes:
+(i) architectural paint;
+(ii) aerosol coating products;
+(iii) coating-related products; and
+(iv) nonindustrial coatings.
+(B) “Paint product” does not include a health and beauty product.
+(7)(10) “Postconsumer paint” means architectural a paint product and its
+containers not used and no longer wanted by a purchaser.
+(8)(11) “Producer” means a manufacturer of architectural paint products
+who sells, offers for sale, or distributes that paint in Vermont under the
+producer’s own name or brand.
+(9)(12) “Recycling” means any process by which discarded products,
+components, and by-products are transformed into new usable or marketable
+materials in a manner in which the original products may lose their identity but
+does not include energy recovery or energy generation by means of
+combusting discarded products, components, and by-products with or without
+other waste products.
+(10)(13) “Retailer” means any person that offers architectural a paint
+product for sale at retail in Vermont.
+(11)(14) “Reuse” means the return of a product into the economic
+stream for use in the same kind of application as originally intended, without a
+change in the product’s identity.
+VT LEG #384275 v.1
+No. 59 Page 49 of 65
+2025
+(12)(15) “Secretary” means the Secretary of Natural Resources.
+(13)(16) “Sell” or “sale” means any transfer of title for consideration,
+including remote sales conducted through sales outlets, catalogues, or the
+Internet internet or any other similar electronic means.
+(14)(17) “Stewardship organization” means a nonprofit corporation or
+nonprofit organization created by a producer or group of producers to
+implement the Paint Product Stewardship Program required under this
+subchapter.
+
+Section 32:
+§ 6673. PAINT PRODUCT STEWARDSHIP PROGRAM
+(a) A producer or a stewardship organization representing producers shall
+submit a an amended plan for the establishment of a Paint Product Stewardship
+Program to the Secretary for approval by December 1, 2013. The plan shall
+address the following:
+(1) Provide a list of participating producers and brands covered by the
+Program.
+(2) Provide specific information on the architectural paint products
+covered under the Program, such as interior or exterior water- and oil-based
+coatings, primers, sealers, or wood coatings.
+(3) Describe how the Program proposed under the plan will collect,
+transport, recycle, and process postconsumer paint products for end-of-life
+management, including recycling, energy recovery, and disposal, using
+environmentally sound management practices.
+VT LEG #384275 v.1
+No. 59 Page 50 of 65
+2025
+(4) Describe the Program and how it will provide for convenient and
+available statewide collection of postconsumer architectural paint products in
+urban and rural areas of the State. The producer or stewardship organization
+shall use the existing household hazardous waste collection infrastructure when
+selecting collection points for postconsumer architectural paint products. A
+paint retailer shall be authorized as a paint collection point of postconsumer
+architectural paint for a Paint Product Stewardship Program if the paint retailer
+volunteers to act as a paint collection point and complies with all applicable
+laws, rules, and regulations.
+(5) Provide geographic information modeling to determine the number
+and distribution of sites for collection of postconsumer architectural paint
+based on the following criteria:
+(A) at least 90 percent of Vermont residents shall have a permanent
+collection site within a 15-mile radius; and
+(B) one additional permanent site will be established for every
+10,000 residents of a municipality and additional sites shall be distributed to
+provide convenient and reasonably equitable access for residents within each
+municipality, unless otherwise approved by the Secretary.
+(6) Establish goals to reduce the generation of postconsumer paint
+products, to promote the reuse of postconsumer paint products, and for the
+proper management of postconsumer paint products as practical based on
+current household hazardous waste program information. The goals may be
+VT LEG #384275 v.1
+No. 59 Page 51 of 65
+2025
+revised by the producer or stewardship organization based on the information
+collected for the annual report.
+(7) Describe how postconsumer paint products will be managed in the
+most environmentally and economically sound manner, including following
+the waste-management hierarchy. The management of paint under the
+Program shall use management activities that promote source reduction, reuse,
+recycling, energy recovery, and disposal.
+(8) Describe education and outreach efforts to inform consumers of
+collection opportunities for postconsumer paint products and to promote the
+source reduction and recycling of architectural paint products for each of the
+following: consumers, contractors, and retailers.
+(b) The producer or stewardship organization shall submit a budget for the
+Program proposed under subsection (a) of this section, and for any amendment
+to the plan that would affect the Program’s costs. The budget shall include a
+funding mechanism under which each architectural paint product producer
+remits to a stewardship organization payment of a paint product stewardship
+assessment for each container of architectural paint product it sells in this
+State. Prior to submitting the proposed budget and assessment to the
+Secretary, the producer or stewardship organization shall provide the budget
+and assessment to a third-party auditor agreed upon by the Secretary. The
+third-party auditor shall provide a recommendation as to whether the proposed
+budget and assessment is cost-effective, reasonable, and limited to covering the
+VT LEG #384275 v.1
+No. 59 Page 52 of 65
+2025
+cost of the Program. The paint product stewardship assessment shall be added
+to the cost of all architectural paint products sold in Vermont. To ensure that
+the funding mechanism is equitable and sustainable, a uniform paint product
+stewardship assessment shall be established for all architectural paint products
+sold. The paint stewardship assessment shall be approved by the Secretary and
+shall be sufficient to recover, but not exceed, the costs of the Paint Stewardship
+Program the amount established in section 6681 of this title.
+(c) Beginning no later than July 1, 2014, or three Six months after approval
+of the plan for a Paint Product Stewardship Program required under subsection
+(a) of this section, whichever occurs later, a producer of architectural paint
+products sold at retail or a stewardship organization of which a producer is a
+member shall implement the approved plan for a Paint Product Stewardship
+Program.
+(d) A producer or a stewardship organization of which a producer is a
+member shall promote a Paint Product Stewardship Program and provide
+consumers with educational and informational materials describing collection
+opportunities for postconsumer paint products Statewide and promotion of
+waste prevention, reuse, and recycling. The educational and informational
+program shall make consumers aware that the funding for the operation of the
+Paint Product Stewardship Program has been added to the purchase price of all
+architectural paint products sold in the State.
+VT LEG #384275 v.1
+No. 59 Page 53 of 65
+2025
+(e) A plan approved under this section shall provide for collection of
+postconsumer architectural paint at no cost to the person from whom the
+architectural paint product is collected. The program plan also shall provide
+for the payment of municipalities for collection, processing, and end-of-life
+management of aerosol coating products, coating-related products, and
+nonindustrial coatings contained in the receptacle in which the product is
+offered for retail sale. Collection costs include facility costs, equipment costs,
+labor, supplies, maintenance, events costs, and event contractor costs,
+including collection event set-up fees, environmental service fees, insurance
+fees, and shipping containers and materials.
+(f) When a plan or amendment to an approved plan is submitted under this
+
+Section 33:
+section, the Secretary shall make the proposed plan or amendment available for
+public review and comment for at least 30 days.
+(g) A producer or paint stewardship organization shall submit to the
+Secretary for review, in the same manner as required under subsection 6675(a)
+of this title, an amendment to an approved plan when there is:
+(1) a change to a paint stewardship assessment under the plan;
+(2) an addition to or removal of a category of products covered under
+the Program; or
+(3)(2) a revision of the product stewardship organization’s goals.
+(h) A plan approved by the Secretary under section 6675 of this title shall
+have a term not to exceed five years, provided that the producer remains in
+VT LEG #384275 v.1
+No. 59 Page 54 of 65
+2025
+compliance with the requirements of this chapter and the terms of the approved
+plan.
+(i) In addition to the requirements specified in subsection (a) of this
+
+Section 34:
+section, a stewardship organization shall notify the Secretary in writing within
+30 days of after any change to:
+(1) the number of collection sites for postconsumer architectural paint
+products identified under this section as part of the plan;
+(2) the producers identified under this section as part of the plan;
+(3) the brands of architectural paint products identified under this
+
+Section 35:
+section as part of the plan; and
+(4) the processors that manage postconsumer architectural paint
+products identified under this section as part of the plan.
+(j) Upon submission of a plan to the Secretary under this section, a
+producer or a stewardship organization shall pay the fee required by 3 V.S.A.
+
+Section 36:
+§ 2822(j)(31). Thereafter, the producer or stewardship organization shall pay
+the fee required by 3 V.S.A. § 2822(j)(31) annually by on or before July 1 of
+each year.
+
+Section 37:
+§ 6674. RETAILER RESPONSIBILITY
+(a) A producer or retailer may not sell or offer for sale architectural a paint
+product to any person in Vermont unless the producer of that architectural
+paint brand or a stewardship program of which the producer of that
+architectural paint brand is a member that the producer is a member of is
+VT LEG #384275 v.1
+No. 59 Page 55 of 65
+2025
+implementing an approved plan for a Paint Product Stewardship Program as
+required by section 6673 of this title. A retailer complies with the
+requirements of this section if, on the date the architectural paint product was
+ordered from the producer or its agent, the producer or paint brand is listed on
+the Agency of Natural Resources’ website as a producer or brand participating
+in an approved plan for a Paint Product Stewardship Program.
+(b) At the time of sale to a consumer, a producer, a stewardship
+organization, or a retailer selling or offering architectural paint products for
+sale shall provide the consumer with information regarding available
+management options for postconsumer paint products collected through the
+Paint Product Stewardship Program or a brand of paint being sold under the
+Program.
+
+Section 38:
+§ 6675. AGENCY RESPONSIBILITY
+(a)(1) Within 90 days of after receipt of a plan submitted under section
+6673 of this title, the Secretary shall review the plan and make a determination
+whether or not to approve the plan. The Secretary shall issue a letter of
+approval for a submitted plan if:
+(A) the submitted plan provides for the establishment of a Paint
+Product Stewardship Program that meets the requirements of subsection
+6673(a) of this subchapter; and
+(B) the Secretary determines that the plan:
+(i) achieves convenient collection for consumers;
+VT LEG #384275 v.1
+No. 59 Page 56 of 65
+2025
+(ii) educates the public on proper paint product management; and
+(iii) manages waste paint products in a manner that is
+environmentally safe and promotes reuse and recycling; and
+(iv) is cost-effective.
+(2) If the Secretary does not approve a submitted plan, the Secretary
+shall issue to the paint product stewardship organization a letter listing the
+reasons for the disapproval of the plan. If the Secretary disapproves a plan, a
+paint product stewardship organization intending to sell or continue to sell
+architectural paint products in the State shall submit a new plan within 60 days
+of after receipt of the letter of disapproval.
+(b)(1) The Secretary shall review and approve the stewardship assessment
+proposed by a producer pursuant to subsection 6673(b) of this title. The
+Secretary shall only approve the Program budget and any assessment if the
+applicant has demonstrated that the costs of the Program and any proposed
+assessment are reasonable and the assessment does not exceed the costs of
+implementing an approved plan.
+(2) If an amended plan is submitted under subsection 6673(g) of this
+title that proposes to change the cost of the Program or proposes to change the
+paint stewardship assessment under the plan, the disapproval of any proposed
+new assessment or the failure of an approved new assessment to cover the total
+costs of the Program shall not relieve a producer or stewardship organization
+VT LEG #384275 v.1
+No. 59 Page 57 of 65
+2025
+of its obligation to continue to implement the approved plan under the
+originally approved assessment.
+(c) Facilities solely collecting paint products for the Paint Product
+Stewardship Program that would not otherwise be subject to solid waste
+certification requirements shall not be required to obtain a solid waste
+certification. Persons solely transporting paint for the Paint Product
+Stewardship Program that would not otherwise be subject to solid waste hauler
+permitting requirements shall not be required to obtain a solid waste hauler’s
+permit.
+
+Section 39:
+§ 6676. ANTICOMPETITIVE CONDUCT
+(a) A producer or an organization of producers that manages postconsumer
+paint products, including collection, transport, recycling, and processing of
+postconsumer paint products, as required by this subchapter may engage in
+anticompetitive conduct to the extent necessary to implement the plan
+approved by the Secretary and is immune from liability for the conduct relating
+to antitrust, restraint of trade, unfair trade practices, and other regulation of
+trade or commerce.
+(b) The activity authorized and the immunity afforded under subsection (a)
+of this section shall not apply to any agreement among producers or paint
+product stewardship organizations:
+(1) establishing or affecting the price of paint products, except for the
+paint stewardship assessment approved under subsection 6675(b) of this title;
+VT LEG #384275 v.1
+No. 59 Page 58 of 65
+2025
+(2) setting or limiting the output or production of paint products;
+(3) setting or limiting the volume of paint products sold in a geographic
+area;
+(4) restricting the geographic area where paint products will be sold; or
+(5) restricting the customers to whom paint products will be sold or the
+volume of paint products that will be sold.
+
+Section 40:
+§ 6677. PRODUCER REPORTING REQUIREMENTS
+No later than October 15, 2015, and annually thereafter, Annually, a
+producer or a stewardship program of which the producer is a member shall
+submit to the Secretary a report describing the Paint Product Stewardship
+Program that the producer or Stewardship Program is implementing as
+required by section 6673 of this title. At a minimum, the report shall include:
+(1) a description of the methods the producer or Stewardship Program
+used to reduce, reuse, collect, transport, recycle, and process postconsumer
+paint products statewide in Vermont;
+(2) the volume and type of postconsumer paint products collected by the
+producer or Stewardship Program at each collection center in all regions of
+Vermont;
+(3) the volume of postconsumer paint products collected by the producer
+or Stewardship Program in Vermont by method of disposition, including reuse,
+recycling, energy recovery, and disposal;
+VT LEG #384275 v.1
+No. 59 Page 59 of 65
+2025
+(4) an independent financial audit of the Paint Product Stewardship
+Program implemented by the producer or the Stewardship Program;
+(5) the prior year’s actual direct and indirect costs for each Program
+element and the administrative and overhead costs of administering the
+approved Program; and
+(6) samples of the educational materials that the producer or stewardship
+program provided to consumers of architectural paint.
+* * *
+
+Section 41:
+§ 6680. UNIVERSAL WASTE DESIGNATION FOR POSTCONSUMER
+PAINT
+(a) The requirements of Subchapter 9 of the Vermont Hazardous Waste
+Management Rules, which allow certain categories of hazardous waste to be
+managed as universal waste, shall apply to postconsumer paint products until
+the postconsumer paint is discarded, provided that:
+(1) the postconsumer paint product is collected as a part of a
+stewardship plan approved under this subchapter; and
+(2) the collected postconsumer paint product is or includes a paint
+product that is a hazardous waste as defined and regulated by the Vermont
+Hazardous Waste Management Rules.
+(b) When postconsumer paint product is regulated as universal waste under
+subsection (a) of this section, small and large quantity handlers of the
+postconsumer paint shall manage the postconsumer paint products in a manner
+VT LEG #384275 v.1
+No. 59 Page 60 of 65
+2025
+that prevents releases of any universal waste or component of the universal
+waste to the environment. Postconsumer paint products regulated as universal
+waste shall, at a minimum, be contained in one or more of the following:
+(1) a container that remains closed, structurally sound, and compatible
+with the postconsumer paint products and that lacks evidence of leakage,
+spillage, or damage that could cause leakage under reasonably foreseeable
+conditions; or
+(2) a container that does not meet the requirements of subdivision (1) of
+this subsection, provided that the unacceptable container is overpacked in a
+container that meets the requirements of subdivision (1).
+(c) Containers holding postconsumer paint products that is are regulated as
+universal waste shall be clearly labeled to clearly identify the contents of the
+container, such as “Paint-Related Waste,” “Universal Waste Paint,” “Used
+Paint,” or “Waste Paint.”
+(d) Unless otherwise provided by statute, the definitions of the Vermont
+Hazardous Waste Management Rules shall apply to this section.
+
+Section 42:
+§ 6681. PAINT CONSUMER FEES
+(a) The paint product stewardship assessment shall be sufficient to
+implement and sustain the Paint Product Stewardship Program. If at any time
+the stewardship assessments established in this section are not sufficient to
+implement and sustain the Paint Product Stewardship Program, the Paint
+VT LEG #384275 v.1
+No. 59 Page 61 of 65
+2025
+Product Stewardship Program shall propose new stewardship assessments that
+are sufficient to implement and sustain the Program.
+(b) A retailer shall charge an assessment on paint products, based on
+current material management costs of the Paint Product Stewardship Program,
+in the following amounts for architectural paint:
+(1) Half pint or smaller: No fee.
+(2) Greater than a half pint to one gallon: $0.65.
+(3) Greater than one gallon to two gallons: $1.35.
+(4) Greater than two gallons to five gallons: $2.45.
+Sec. 15. IMPLEMENTATION; FEE REPORT
+(a) The requirements for the sale of paint products under 10 V.S.A. § 6673
+shall apply to architectural paint beginning on July 1, 2013 and all paint
+products beginning on July 1, 2026.
+(b) The requirement under 10 V.S.A. § 6673 for an architectural paint
+producer to submit a stewardship plan to the Secretary of Natural Resources
+currently applies to producers of architectural paint as required beginning on
+July 1, 2013 and shall also apply to producers of paint related products
+beginning on July 1, 2026.
+(c) The requirement under 10 V.S.A. § 6677 that an architectural paint
+producer annually report to the Secretary of Natural Resources currently
+applies to producers of architectural paint as required beginning on July 1,
+VT LEG #384275 v.1
+No. 59 Page 62 of 65
+2025
+2013 and shall also apply to producers of paint related products beginning on
+March 1, 2027.
+(d) On or before December 15, 2025, the Secretary of Natural Resources
+shall submit to the Senate Committees on Natural Resources and Energy and
+on Finance and the House Committees on Environment and on Ways and
+Means a report recommending a paint consumer fee or fees to be charged for
+paint products that are not architectural paint.
+* * * Renewable Power Portfolio * * *
+Sec. 16. 30 V.S.A. § 8009 is amended to read:
+
+Section 43:
+§ 8009. BASELOAD RENEWABLE POWER PORTFOLIO
+REQUIREMENT
+* * *
+(d) On or before November 1, 2027 2028, the Commission shall determine,
+for the period beginning on November 1, 2026 2028 and ending on November
+1, 2032, the price to be paid to a plant used to satisfy the baseload renewable
+power portfolio requirement. The Commission shall not be required to make
+this determination as a contested case under 3 V.S.A. chapter 25. The price
+shall be the avoided cost of the Vermont composite electric utility system. As
+used in this subsection, the term “avoided cost” means the incremental cost to
+retail electricity providers of electric energy or capacity, or both, that, but for
+the purchase from the plant proposed to satisfy the baseload renewable power
+portfolio requirement, such providers would obtain from a source using the
+VT LEG #384275 v.1
+No. 59 Page 63 of 65
+2025
+same generation technology as the proposed plant. For the purposes of this
+subsection, the term “avoided cost” also includes the Commission’s
+consideration of each of the following:
+* * *
+(k) Collocation and efficiency requirements.
+(1) The owner of the plant used to satisfy the baseload renewable power
+portfolio requirement shall cause the plant’s overall efficiency to be increased
+by at least 50 percent relative to the 12-month period preceding July 1, 2022.
+In achieving this efficiency, the owner shall comply with the requirements of
+this subsection.
+(2) On or before July October 1, 2023 2025, the owner of the plant shall
+submit to the Commission and the Department:
+(A) A signed contract providing for the construction of a facility at
+the plant that utilizes the excess thermal heat generated at the plant for a
+beneficial purpose. As used in this subdivision (A), beneficial purpose may
+include the displacement of fossil fuel use for the sustainable production of a
+product or service or more efficient or less costly generation of electricity.
+(B) A certification by a qualified professional engineer that the
+construction of the facility shall meet the requirement of subdivision (1) of this
+subsection (k).
+(3) On or before October 1, 2025 2026, the owner of the plant shall
+submit to the Commission and the Department a certification that the main
+VT LEG #384275 v.1
+No. 59 Page 64 of 65
+2025
+components of the facility used to meet the requirement of subdivision (1) of
+this subsection have been manufactured and that the construction plans for the
+facility have been completed.
+(4) If the contract and certification required under subdivision (2) of this
+subsection are not submitted to the Commission and Department on or before
+July October 1, 2023 2025 or if the certification required under subdivision (3)
+is not submitted to the Commission and Department on or before October 1,
+2025 2026, then the obligation under this section for each Vermont retail
+electricity provider to purchase a pro rata share of the baseload renewable
+power portfolio requirement shall cease on November 1, 2025 2026, and the
+Commission is not required to conduct the rate determination provided for in
+subsection (d) of this section.
+(5) On or before September 1, 2026 2027, the Department shall
+investigate and submit a recommendation to the Commission on whether the
+plant has achieved the requirement of subdivision (1) of this subsection. If the
+Department recommends that the plant has not achieved the requirement of
+subdivision (1) of this subsection, the obligation under this section shall cease
+on November 1, 2026 2027, and the Commission is not required to conduct the
+rate determination provided for in subsection (d) of this section.
+(6) After November 1, 2027 2028, the owner of the plant shall report
+annually to the Department and the Department shall verify the overall
+efficiency of the plant for the prior 12-month period. If the overall efficiency
+VT LEG #384275 v.1
+No. 59 Page 65 of 65
+2025
+of the plant falls below the requirement of subdivision (1) of this subsection,
+the report shall include a plan to return the plant to the required efficiency
+within one year.
+(7) If, after implementing the plan in subdivision (6) of this subsection,
+the owner of the plant does not achieve the efficiency required in subdivision
+(1) of this subsection, the Department shall request that the Commission
+commence a proceeding to terminate the obligation under this section.
+* * *
+* * * Effective Dates * * *
+Sec. 17. EFFECTIVE DATES
+(a) This section and Secs. 7–13 (covered household hazardous products),
+14–15 (paint products), and 16 (renewable power portfolio) shall take effect on
+passage.
+(b) The remainder of this act shall take effect on July 1, 2025.
+Date Governor signed bill: June 11, 2025
+VT LEG #384275 v.1
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P   % %]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P     N   $   $   $]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+No. 59 Page 1 of 65
+2025
+No. 59. An act relating to miscellaneous agricultural subjects.
+(H.484)
+It is hereby enacted by the General Assembly of the State of Vermont:
+* * * Beneficial Substances * * *
+Sec. 1. 6 V.S.A. chapter 28 is amended to read:
+CHAPTER 28. FERTILIZER AND, LIME, AND BENEFICIAL
+SUBSTANCES
+§ 361. TITLE
+This chapter shall be known as the “Fertilizer, Lime, Plant Amendment,
+Plant Biostimulant, and Soil Amendment and Beneficial Substances Law.”
+§ 362. ENFORCING OFFICIAL
+This chapter shall be administered by the Secretary of Agriculture, Food
+and Markets or designee, hereafter referred to as the Secretary.
+§ 363. DEFINITIONS
+As used in this chapter:
+(1) “Agricultural lime” or “agricultural liming material” or “lime”
+means one or more of the following:
+(A) All products with calcium and magnesium compounds that are
+capable of neutralizing soil acidity and that are intended, sold, or offered for
+sale for agricultural or plant propagation purposes.
+VT LEG #384275 v.1
+
+No. 59 Page 2 of 65
+2025
+(B) Limestone consisting essentially of calcium carbonate or a
+combination of calcium carbonate with magnesium carbonate capable of
+neutralizing soil acidity.
+(C) Industrial waste or industrial by-products byproducts that contain
+calcium; calcium and magnesium; or calcium, magnesium, and potassium in
+forms that are capable of neutralizing soil acidity and that are intended, sold, or
+offered for sale for agricultural purposes. For the purposes of this chapter, the
+terms “agricultural lime,” “lime,” and “agricultural liming material” shall have
+the same meaning.
+(2) “Beneficial substance” means any substance or compound, other
+than primary, secondary, and micro plant nutrients (fertilizers), and excluding
+pesticides, that can be demonstrated by scientific research to be beneficial to
+one or more species of plants, soil, or media. Beneficial substances include
+plant amendments, plant biostimulants, plant inoculants, soil amendments, soil
+inoculants, and other chemical or biological substances beneficial to plants or
+their growing environment.
+(3) “Brand” means a term, design, or trademark used in connection with
+one or more grades or formulas of fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime.
+(3)(4) “Distribute” means to import, consign, manufacture, produce,
+compound, mix, blend, offer for sale, sell, barter, or supply a fertilizer, a plant
+amendment, a plant biostimulant, a soil amendment a beneficial substance, or
+VT LEG #384275 v.1
+
+No. 59 Page 3 of 65
+2025
+lime in this State through any means, including sales outlets, catalogues, the
+telephone, the internet, or any electronic means.
+(4)(5) “Distributor” means any person who distributes fertilizer, plant
+amendment, plant biostimulant, soil amendments beneficial substance, or lime.
+(5)(6) “Exceptional quality biosolid” means a product derived in whole
+or in part from domestic wastes that have been subjected to and meet the
+requirements of the following:
+(A) a pathogen reduction process established in 40 C.F.R.
+§ 503.32(a)(3), (4), (7), or (8);
+(B) one of the vector attraction reduction standards established in 40
+C.F.R. § 503.33;
+(C) the contaminant concentration limits in Vermont Solid Waste
+Rules § 6-1303(a)(1); and
+(D) if derived from a composting process, Vermont Solid Waste
+Rules § 6-1303(a)(5).
+(6)(7) “Fertilizer” means any substance containing one or more
+recognized plant nutrients that is used for its plant nutrient content and that is
+designed for use or claimed to have value in promoting plant growth or health,
+except unprocessed animal or vegetable manures and other products exempted
+by the Secretary.
+VT LEG #384275 v.1
+
+No. 59 Page 4 of 65
+2025
+(A) A fertilizer material is a substance that either:
+(i) contains important quantities of at least one of the primary
+plant nutrients: nitrogen, phosphorus, or potassium;
+(ii) has 85 percent or more of its plant nutrient content present in
+the form of a single chemical compound; or
+(iii) is derived from a plant or chemical residue or by-product
+byproduct or natural material deposit that has been processed in such a way
+that its content of plant nutrients has not been materially changed except by
+purification and concentration.
+(B) A mixed fertilizer is a fertilizer containing any combination or
+mixture of fertilizer materials.
+(C) A specialty fertilizer is a fertilizer distributed for nonfarm use.
+(D) A bulk fertilizer is a fertilizer distributed in a nonpackaged form.
+(7)(8) “Formulation” means a material or mixture of materials prepared
+according to a particular formula.
+(8)(9) “Grade” means the percentage of total nitrogen, available
+phosphorus or phosphoric acid, and soluble potassium or potash stated in
+whole numbers in the same terms, order, or percentages as in the guaranteed
+analysis. Specialty fertilizers and fertilizer materials may be guaranteed in
+fractional terms. Any grade expressed in fractional terms that is not preceded
+by a whole number shall be preceded by zero.
+VT LEG #384275 v.1
+
+No. 59 Page 5 of 65
+2025
+(9)(10) “Guaranteed analysis” means:
+(A) in reference to fertilizer, the minimum percentages of plant
+nutrients claimed by the manufacturer or producer of the product in the
+following order and form: nitrogen, phosphorus, and potash; and
+(B) in reference to agricultural lime or agricultural liming material,
+the minimum percentages of calcium oxide and magnesium oxide or calcium
+carbonate and the calcium carbonate equivalent, or both, as claimed by the
+manufacturer or producer of the product.
+(10)(11) “Label” means the display of all written, printed, or graphic
+matter upon the immediate container or a statement accompanying a fertilizer,
+plant amendment, plant biostimulant, soil amendment beneficial substance, or
+lime.
+(11)(12) “Labeling” means all written, printed, or graphic material upon
+or accompanying any fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime, including advertisements, brochures,
+posters, and television and radio announcements used in promoting the sale of
+the fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime.
+(12)(13) “Official sample” means any sample of fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+taken by the Secretary.
+VT LEG #384275 v.1
+
+No. 59 Page 6 of 65
+2025
+(13)(14) “Plant amendment” means any substance applied to plants or
+seeds that is intended to improve growth, yield, product quality, reproduction,
+flavor, or other favorable characteristics of plants, except for fertilizer, soil
+amendments, agricultural liming materials, animal and vegetable manures,
+pesticides, plant regulators, and other materials exempted by rule adopted
+under this chapter.
+(14)(15) “Plant biostimulant” means a substance or, microorganism, or
+mixtures thereof that, when applied to seeds, plants, or the rhizosphere,
+stimulates soil, or other growth media act to support a plant’s natural nutrition
+processes to enhance or benefit nutrient uptake, nutrient efficiency, tolerance
+to abiotic stress, or crop quality and yield, except for fertilizers, soil
+amendments, plant amendments, or pesticides independently of the
+biostimulant’s nutrient content. The plant biostimulant thereby improves
+nutrient availability, uptake, or use efficiency; tolerance to abiotic stress; and
+consequent growth development, quality, or yield. The Secretary may modify
+the definition of “plant biostimulant” by rule or procedure in order to maintain
+consistency with U.S. Department of Agriculture requirements.
+(16) “Plant inoculant” means a product consisting of microorganisms to
+be applied to the plant or soil for the purpose of enhancing the availability or
+uptake of plant nutrients through the root system.
+VT LEG #384275 v.1
+
+No. 59 Page 7 of 65
+2025
+(15)(17) “Percent” or “percentage” means the percentage by weight.
+(16)(18) “Primary nutrient” includes nitrogen, available phosphoric acid
+or phosphorus, and soluble potash or potassium.
+(17)(19) “Product” means the name of the fertilizer, plant amendment,
+plant biostimulant, soil amendment beneficial substance, or lime that identifies
+it as to kind, class, or specific use.
+(18)(20) “Registrant” means the person who registers a fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+under the provisions of this chapter.
+(19)(21) “Soil amendment” means a substance or mixture of substance
+that is intended to improve the physical, chemical, biochemical, biological, or
+other characteristics of the soil or a distinct form of horticultural growing
+media used in lieu of soil. “Soil amendment” does not mean fertilizers,
+agricultural liming materials, unprocessed animal manures, unprocessed
+vegetable manures, pesticides, plant biostimulants, and other materials
+exempted by rule. A compost product from a facility under the jurisdiction of
+the Agency of Natural Resources’ Solid Waste Management Rules or
+exceptional quality biosolids shall not be regulated as a soil amendment under
+this chapter, unless marketed and distributed for the use in the production of an
+agricultural commodity.
+(22) “Soil inoculant” means a microbial product that is applied to
+colonize the soil to benefit the soil chemistry, biology, or structure.
+VT LEG #384275 v.1
+
+No. 59 Page 8 of 65
+2025
+(20)(23) “Ton” means a net weight of 2,000 pounds avoirdupois.
+(21)(24) “Use” includes all purposes for which a fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+is applied.
+(22)(25) “Weight” means the weight of undried material as offered for
+sale.
+§ 364. REGISTRATION
+(a) Each brand or grade or formula of fertilizer, plant amendment, plant
+biostimulant, or soil amendment beneficial substance shall be registered in the
+name of the person whose name appears upon the label before being
+distributed in this State. The application for registration shall be submitted to
+the Secretary on a form furnished by the Agency of Agriculture, Food and
+Markets and shall be accompanied by a fee of $85.00 per grade or formulation
+registered. Upon approval by the Secretary, a copy of the registration shall be
+furnished to the applicant. All registrations expire on December 31 of each
+year. The application shall include the following information:
+(1) the brand and grade or formulation;
+(2) the guaranteed analysis if applicable; and
+(3) the name and address of the registrant.
+(b) A distributor shall not be required to register any fertilizer, plant
+amendment, plant biostimulant, or soil amendment or beneficial substance that
+is already registered under this chapter by another person, provided there is no
+VT LEG #384275 v.1
+
+No. 59 Page 9 of 65
+2025
+change in the label for the fertilizer, plant amendment, plant biostimulant, or
+soil amendment or beneficial substance.
+(c) Each beneficial substance brand shall refer to a specific formulation.
+Different brands may refer to the same specific formulation. Products for
+which formulations change, such as changes in the “Contains Beneficial
+Substances” analysis, statement of composition, or anything that implies a
+different product, must obtain a new registration with a brand that
+distinguishes it from the previous formulation.
+(d) A distributor shall not be required to register each grade of fertilizer
+formulated or each formulation of soil amendment according to specifications
+that are furnished by a consumer prior to mixing but shall be required to label
+the fertilizer or soil amendment as provided in subsection 365(b) of this title.
+(d)(e) The Secretary may request additional proof of testing of products
+prior to registration for guaranteed analyses or adulterants.
+(e)(f) Each separately identified agricultural lime product shall be
+registered before being distributed in this State. Registration shall be
+performed in the same manner as fertilizer registration except that each
+application shall be accompanied by a fee of $50.00 per product.
+(f)(g) The registration and tonnage fees, along with any deficiency
+penalties collected pursuant to sections 331 and 372 of this title, shall be
+deposited in a special fund. Funds deposited in this fund shall be restricted to
+VT LEG #384275 v.1
+
+No. 59 Page 10 of 65
+2025
+implementing and administering the provisions of this title and any other
+provisions of law relating to feeds and seeds.
+§ 365. LABELS
+(a)(1) Any fertilizer or agricultural lime distributed in this State in
+containers shall have placed on or affixed to the container a label setting forth
+in clearly legible and conspicuous form the following information:
+(A) net weight;
+(B) brand and grade, provided that grade shall not be required when
+no primary nutrients are claimed;
+(C) guaranteed analysis; and
+(D) name and address of the registrant.
+(2) For bulk shipments, this information in written or printed form shall
+accompany delivery and be supplied to the purchaser at the time of delivery.
+(b) A fertilizer or lime formulated according to specifications furnished by
+a consumer prior to mixing shall be labeled to show the net weight, the
+guaranteed analysis or name, analysis and weight of each ingredient used in the
+mixture, and the name and address of the distributor and purchaser.
+(c) If the Secretary finds that a requirement for expressing calcium and
+magnesium in elemental form would not impose an economic hardship on
+distributors and users of agricultural liming materials by reason of conflicting
+label requirements among states, the Secretary may require by rule that the
+VT LEG #384275 v.1
+
+No. 59 Page 11 of 65
+2025
+minimum percent of calcium oxide and magnesium oxide or calcium carbonate
+and magnesium carbonate, or both, shall be expressed in the following terms:
+Total Calcium (Ca) ......................................... percent
+Total Magnesium (Mg) ......................................... percent
+(d)(1) Any plant amendment, plant biostimulant, or soil amendment
+beneficial substance distributed in this State in containers shall have placed on
+or affixed to the container a label setting forth in clearly legible and
+conspicuous form the following information:
+(A) net weight or volume;
+(B) brand name;
+(C) purpose statement identifying the purpose of the product;
+(D) directions for application or use;
+(E) guaranteed analysis; and
+(F) name and address of the registrant; and
+(F) a statement of composition showing the amount of each
+ingredient, which is the agent in a product primarily responsible for the
+intended effects using the following format:
+CONTAINS BENEFICIAL SUBSTANCE(S)
+Name of beneficial substance % (or acceptable
+units)
+Genus and species of microorganism % viable CFU/cm3, /ml,
+/g, or other acceptable units
+VT LEG #384275 v.1
+
+No. 59 Page 12 of 65
+2025
+(Identify and list all beneficial substances. Substances shall include
+ingredient source, if applicable. Ex. “humic acid from leonardite or saponin
+from Yucca schidigera”).
+(2) For products that claim microorganisms, labels shall also include:
+(A) the expiration date for use; and
+(B) storage conditions.
+(3) For bulk shipments of fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substances, or lime, the information
+required under this subsection shall accompany delivery in written or printed
+form and shall be supplied to the purchaser at the time of delivery.
+(4) Efficacy data may be required to support beneficial substance
+ingredient claims if the ingredient is not presently defined by the Association
+of American Plant Food Control Officials’ Official Publication for the
+particular claim.
+(3)(5) Under a rule adopted under this subsection, an affected person
+shall be given a reasonable time to come into compliance.
+§ 366. TONNAGE FEES
+(a) A person distributing fertilizer to a nonregistrant consumer in the State
+annually shall pay the following fees to the Secretary:
+(1) a $150.00 minimum tonnage fee;
+(2) $0.50 per ton of agricultural fertilizer distributed; and
+(3) $30.00 per ton of nonagricultural fertilizer distributed.
+VT LEG #384275 v.1
+
+No. 59 Page 13 of 65
+2025
+(b) Persons distributing fertilizer shall report annually on or before January
+15 for the previous year ending December 31 to the Secretary revealing the
+amounts of each grade of fertilizer and the form in which the fertilizer was
+distributed within this State. Each report shall be accompanied with payment
+and written permission allowing the Secretary to examine the person’s books
+for the purpose of verifying tonnage reports.
+(c) No information concerning tonnage sales furnished to the Secretary
+under this section shall be disclosed in such a way as to divulge the details of
+the business operation to any person unless it is necessary for the enforcement
+of the provisions of this chapter.
+(d) Persons distributing a plant amendment, plant biostimulant, or soil
+amendment beneficial substance in the State shall report annually on or before
+January 15 for the previous year ending December 31 to the Secretary
+revealing the amounts of each formulation of plant amendment, plant
+biostimulant, or soil amendment beneficial substance and the form in which
+the plant amendment, plant biostimulant, or soil amendment beneficial
+substance was distributed within this State. Each report shall include a written
+authorization allowing the Secretary to examine the person’s books for the
+purpose of verifying tonnage reports. Plant amendments, plant biostimulants,
+and soil amendments are A beneficial substance is exempt from tonnage fees.
+(e) Agricultural limes, including agricultural lime mixed with wood ash,
+are exempt from the tonnage fees required in this section.
+VT LEG #384275 v.1
+
+No. 59 Page 14 of 65
+2025
+(f) Lime and wood ash mixtures may be registered as agricultural liming
+materials and guaranteed for potassium or potash, provided that the wood ash
+totals less than 50 percent of the mixture.
+(g)(1) All fees collected under subdivisions (a)(1) and (2) of this section
+shall be deposited in the special fund created by subsection 364(f) of this title
+and used in accordance with its provisions.
+(2) All fees collected under subdivision (a)(3) of this section shall be
+deposited in the Agricultural Water Quality Special Fund created under section
+4803 of this title.
+(h) [Repealed.]
+§ 367. INSPECTION; SAMPLING; ANALYSIS
+For the purpose of enforcing this chapter and determining whether or not
+fertilizers, plant amendment, plant biostimulant, soil amendments beneficial
+substances, and lime distributed in this State endanger the health and safety of
+Vermont citizens, the Secretary upon presenting appropriate credentials is
+authorized:
+(1) To enter any public or private premises except domiciles during
+regular business hours and stop and enter any vehicle being used to transport or
+hold fertilizer, a plant amendment, a plant biostimulant, a soil amendment
+beneficial substances, or lime.
+VT LEG #384275 v.1
+
+No. 59 Page 15 of 65
+2025
+(2) To inspect blending plants, warehouses, establishments, vehicles,
+equipment, finished or unfinished materials, containers, labeling, and records
+relating to distribution, storage, or use.
+(3) To sample and analyze any fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime. The methods of
+sampling and analysis shall be those adopted by the Association of Official
+Analytical Chemists. In cases not covered by this method or in cases where
+methods are available in which improved applicability has been demonstrated,
+the Secretary may authorize and adopt methods that reflect sound analytical
+procedures.
+(4) To develop any reasonable means necessary to monitor and adopt
+rules for the use of fertilizers, plant amendments, plant biostimulants, soil
+amendments beneficial substances, and lime on Vermont soils where
+monitoring indicates environmental or health problems. In addition, the
+Secretary may develop and adopt rules for the proper storage of fertilizers,
+plant amendments, plant biostimulants, soil amendments beneficial substances,
+and lime held for distribution or sale.
+§ 368. MISBRANDING
+(a) No person shall distribute a misbranded fertilizer, plant amendment,
+plant biostimulant, soil amendment beneficial substance, or agricultural lime.
+A fertilizer, plant amendment, plant biostimulant, or soil amendment beneficial
+VT LEG #384275 v.1
+
+No. 59 Page 16 of 65
+2025
+substance shall be deemed to be misbranded if the Secretary determines one or
+more of the following:
+(1) The labeling is false or misleading in any particular.
+(2) It is distributed under the name of another fertilizer product, plant
+amendment, plant biostimulant, or soil amendment beneficial substance.
+(3) It contains unsubstantiated claims.
+(4) It is not labeled as required in section 365 of this title and in
+accordance with rules adopted under this chapter.
+(5) It is labeled, or represented, to contain a plant nutrient that does not
+conform to the standard of identity established by rule. In adopting rules under
+this chapter, the Secretary shall give consideration to consider definitions
+recommended by the Association of American Plant Food Control Officials.
+(b) An agricultural lime shall be deemed to be misbranded if:
+(1) its labeling is false or misleading in any particular; or
+(2) it is not labeled as required by section 365 of this title and in
+accordance with rules adopted under this chapter.
+§ 369. ADULTERATION
+No person shall distribute an adulterated lime, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or fertilizer product. A
+fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime shall be deemed to be adulterated if:
+VT LEG #384275 v.1
+
+No. 59 Page 17 of 65
+2025
+(1) it contains any deleterious or harmful ingredient in an amount
+sufficient to render it injurious to beneficial plant life, animals, humans,
+aquatic life, soil, or water when applied in accordance with directions for use
+on the label, or if uses of the product may result in contamination or
+condemnation of a raw agricultural commodity by use, or if adequate warning
+statements or directions for use that may be necessary to protect plant life,
+animals, humans, aquatic life, soil, or water are not shown on the label;
+(2) its composition falls below or differs from that which it is purported
+to possess by its labeling;
+(3) it contains crop seed or weed seed; or
+(4) it contains heavy metals, radioactive substances, or synthetic
+organics in amounts sufficient to render it injurious to livestock or human
+health when applied in accordance with directions for use on the label, or if
+adequate warning statements or directions for use that may be necessary to
+protect livestock or human health are not shown on the label.
+§ 370. PUBLICATION; CONSUMER INFORMATION REGARDING USE
+ON NONAGRICULTURAL TURF OF FERTILIZER, PLANT
+AMENDMENTS, PLANT BIOSTIMULANTS, AND SOIL
+AMENDMENTS BENEFICIAL SUBSTANCES
+VT LEG #384275 v.1
+
+No. 59 Page 18 of 65
+2025
+(a) The Secretary shall publish on an annual basis:
+(1) information concerning the distribution of fertilizers, plant
+amendments, plant biostimulants, soil amendments beneficial substances, and
+limes; and
+(2) results of analyses based on official samples of fertilizers, plant
+amendments, plant biostimulants, soil amendments beneficial substances, and
+lime distributed within the State as compared with guaranteed analyses
+required pursuant to the terms of this chapter.
+(b)(1) The Secretary, in consultation with the University of Vermont
+Extension, fertilizer industry representatives, lake groups, and other interested
+or affected parties, shall produce information for distribution to the general
+public with respect to the following:
+(A) problems faced by the waters of the State because of discharges
+of phosphorus;
+(B) an explanation of the extent to which phosphorus exists naturally
+in the soil;
+(C) voluntary best management practices for the use of fertilizers
+containing phosphorus on nonagricultural turf; and
+(D) best management practices for residential sources of phosphorus.
+(2) The Secretary shall develop the information required under this
+subsection and make it available to the general public in the manner deemed
+most effective, which may include:
+VT LEG #384275 v.1
+
+No. 59 Page 19 of 65
+2025
+(A) conspicuous posting at the point of retail sale of fertilizer
+containing phosphorus, according to recommendations for how that
+conspicuous posting may best take place;
+(B) public service announcements by means of electronic media; or
+(C) other methods deemed by the Secretary to be likely to be
+effective.
+* * *
+§ 371. RULES
+The Secretary is authorized to adopt rules pursuant to 3 V.S.A. chapter 25
+as may be necessary to implement the intent of this chapter and to enforce
+those rules.
+* * *
+§ 374. SHORT WEIGHT
+(a) If any fertilizer, plant amendment, plant biostimulant, soil amendment
+beneficial substance, or agricultural liming material is found to be short in net
+weight, the registrant of the fertilizer, plant amendment, plant biostimulant,
+soil amendment beneficial substance, or lime shall pay a penalty of three times
+the value of the actual shortage to the affected party.
+(b) Each registrant shall be offered an opportunity for a hearing before the
+Secretary. Penalty payments shall be made within 30 days after notice of the
+Secretary’s decision to assess a penalty. Proof of payment to the consumer
+shall be promptly forwarded to the Secretary by the registrant.
+VT LEG #384275 v.1
+
+No. 59 Page 20 of 65
+2025
+(c) If the consumer cannot be found, the amount of the penalty payments
+shall be paid to the Secretary who shall deposit the payment into the revolving
+account established by subsection 364(f) of this title.
+(d) This section is not an exclusive cause of action, and persons affected
+may utilize any other right of action available under law.
+§ 375. CANCELLATION OF REGISTRATION
+The Secretary is authorized to cancel or suspend the registration of any
+fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime or refuse a registration application if the provisions of this
+chapter or the rules adopted under this chapter have been violated, provided
+that no registration shall be revoked or refused without a hearing before the
+Secretary.
+§ 376. DETAINED FERTILIZER, BENEFICIAL SUBSTANCE, AND LIME
+(a) Withdrawal from distribution orders. When the Secretary has
+reasonable cause to believe any lot of fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime is being distributed
+in violation of any of the provisions of this chapter or any of the rules under
+this chapter, the Secretary may issue and enforce a written or printed
+“withdrawal from distribution” order, warning the distributor not to dispose of
+the lot of fertilizer, plant amendment, plant biostimulant, soil amendment
+beneficial substance, or lime in any manner until written permission is given
+by the Secretary or the court. The Secretary shall release the lot of fertilizer,
+VT LEG #384275 v.1
+
+No. 59 Page 21 of 65
+2025
+plant amendment, plant biostimulant, soil amendment beneficial substance, or
+lime withdrawn when this chapter and rules have been complied with. If
+compliance is not obtained within 30 days, the Secretary may begin, or upon
+request of the distributor or registrant shall begin, proceedings for
+condemnation.
+(b) Condemnation and confiscation. Any lot of fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+not in compliance with this chapter and rules shall be subject to seizure on
+complaint of the Secretary to a court of competent jurisdiction in the area in
+which the fertilizer, plant amendment, plant biostimulant, soil amendment
+beneficial substance, or lime is located. In the event the court finds the
+fertilizer, plant amendment, plant biostimulant, soil amendment beneficial
+substance, or lime to be in violation of this chapter and orders the
+condemnation of the fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime, it shall be disposed of in any manner
+consistent with the quality of the fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime and the laws of the
+State, provided that in no instance shall disposition of the fertilizer, plant
+amendment, plant biostimulant, soil amendment beneficial substance, or lime
+be ordered by the court without first giving the claimant an opportunity to
+apply to the court for release of the fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime or for permission to
+VT LEG #384275 v.1
+
+No. 59 Page 22 of 65
+2025
+process or relabel the fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime to bring it into compliance with this
+chapter.
+* * *
+§ 379. EXCHANGES BETWEEN MANUFACTURERS
+Nothing in this chapter shall be construed to restrict or impair sales or
+exchanges of fertilizers, plant amendments, plant biostimulants, or soil
+amendments or beneficial substances to each other by importers,
+manufacturers, or manipulators who mix fertilizer materials, plant
+amendments, plant biostimulants, or soil amendments or beneficial substances
+for sale or to prevent the free and unrestricted shipments of fertilizer, plant
+amendments, plant biostimulant, or soil amendments or beneficial substances
+to manufacturers or manipulators who have registered their brands as required
+by provisions of this chapter.
+§ 380. ADMINISTRATIVE PENALTY
+Consistent with chapter 1 of this title, the Secretary may assess an
+administrative penalty upon determining that a person has violated a rule
+issued under this chapter or has violated this chapter in the following manner:
+(1) distributed a specialty fertilizer, plant amendment, plant
+biostimulant, soil amendment beneficial substance, or lime without first
+obtaining the appropriate product registration;
+VT LEG #384275 v.1
+
+No. 59 Page 23 of 65
+2025
+(2) distributed a fertilizer, plant amendment, plant biostimulant, soil
+amendment beneficial substance, or lime without appropriate and accurate
+labeling, including when a beneficial substance label does not reflect its
+composition;
+(3) distributed any adulterated fertilizer, beneficial substance, or lime;
+(4) failed to disclose on the label sources of potentially deleterious
+components;
+(5) failed to report or to accurately report the amount and form of each
+grade of fertilizer distributed in Vermont on an annual basis;
+(4)(6) failed to report or to accurately report the amount and form of
+each formulation of plant amendment, plant biostimulant, or soil amendment
+beneficial substance;
+(5)(7) failed to pay the appropriate tonnage fee; or
+(6)(8) violated a cease and desist order.
+* * *
+* * * Pesticides; Disposal * * *
+Sec. 2. 6 V.S.A. § 918 is amended to read:
+§ 918. REGISTRATION
+* * *
+(b)(1) The registrant shall pay an annual fee of $200.00 for each product
+registered, and $185.00 of that amount shall be deposited in the special fund
+created in section 929 of this title. Of the registration fees collected under this
+VT LEG #384275 v.1
+
+No. 59 Page 24 of 65
+2025
+subsection, $15.00 of the amount collected shall be deposited in the
+Agricultural Water Quality Special Fund under section 4803 of this title. Of
+the registration fees collected under this subsection, $25.00 of the amount
+collected shall be used to offset the additional costs of inspection of economic
+poison products and to provide educational services, training, and technical
+assistance to pesticide applicators, beekeepers, and the general public
+regarding the effects of pesticides on pollinators and the methods or best
+management practices to reduce the impacts of pesticides on pollinators. The
+annual registration year shall be from December 1 to November 30 of the
+following year.
+(2) In addition to the fee required under subdivision (1) of this
+subsection, a registrant shall pay a fee of $50.00 per product registration that
+shall be deposited in the special fund created in section 929 of this title and
+used to meet the requirements of subdivision 929(a)(6) of this title. This
+additional fee shall be collected from registrants until such time as an extended
+producer responsibility program is implemented in the State that fully funds
+the collection of obsolete and unwanted pesticides.
+* * *
+Sec. 3. PESTICIDE DISPOSAL FUNDING STUDY
+(a)(1) The Secretary of Agriculture, Food and Markets, in consultation with
+the Commissioner of Environmental Conservation, shall study options for
+sustainable funding sources to reimburse solid waste management entities for
+VT LEG #384275 v.1
+
+No. 59 Page 25 of 65
+2025
+all costs associated with the collection and disposal of unwanted or obsolete
+pesticides at municipal hazardous waste collection programs and events.
+(2) The costs to be reimbursed shall include the prorated costs related to
+facilities, equipment, labor, supplies, maintenance, and collection events.
+Prorated costs associated with collection events shall include collection event
+setup fees, environmental service fees, insurance fees, and shipping containers
+and materials related to the collection and disposal of unwanted or obsolete
+pesticides.
+(3) The study shall include consideration of the viability of an extended
+producer responsibility program for pesticides among other options.
+(4) The Secretary shall consult with stakeholders.
+(b) On or before December 15, 2025, the Secretary of Agriculture, Food
+and Markets shall submit a written report on its findings to the House
+Committees on Agriculture, Food Resiliency, and Forestry and on
+Environment and the Senate Committees on Agriculture and on Natural
+Resources and Energy. The report shall include a recommended funding
+mechanism that will cover all costs associated with collecting unwanted
+pesticides through municipal collection programs.
+* * * Stormwater Permits * * *
+Sec. 4. STORMWATER PERMITTING; RUTLAND COUNTY
+AGRICULTURAL SOCIETY, INC.
+VT LEG #384275 v.1
+
+No. 59 Page 26 of 65
+2025
+No stormwater impact fee or completion of an offset shall be required for
+the Rutland County Agricultural Society, Inc. under the three-acre stormwater
+permit required by 10 V.S.A. § 1264, provided that the Society is registered
+with the Agency of Agriculture, Food and Markets.
+Sec. 5. [Deleted.]
+* * * Heavy Cut Rule * * *
+Sec. 6. DEPARTMENT OF FORESTS, PARKS AND RECREATION;
+HEAVY CUT RULE; VALIDITY
+(a) Notwithstanding 1 V.S.A. § 214 to the contrary:
+(1) the provisions of 3 V.S.A. § 848(c) (repeal of rules not published in
+the Vermont Code of Rules as of July 1, 2018) shall be deemed not to have
+repealed the Department of Forests, Parks and Recreation rule entitled “Intent
+to Cut Notification Emergency Rules, Standards and Procedures”; and
+(2) the provisions of the Department of Forests, Parks and Recreation
+rule entitled “Intent to Cut Notification Emergency Rules, Standards and
+Procedures” shall be deemed to have continued in full force and effect and
+remained valid on and after July 1, 2018.
+(b)(1) All actions taken by the Department of Forests, Parks and Recreation
+from July 1, 2018 through July 1, 2025 to grant or deny an authorization to
+proceed with a heavy cut pursuant to the provisions of 10 V.S.A. § 2625 and
+the Department of Forests, Parks and Recreation rule entitled “Intent to Cut
+VT LEG #384275 v.1
+
+No. 59 Page 27 of 65
+2025
+Notification Emergency Rules, Standards and Procedures” are valid and
+enforceable.
+(2) As used in this subsection, the term “heavy cut” has the same
+meaning as in 10 V.S.A. § 2625.
+(c) On or before July 1, 2026, the Department of Forests, Parks and
+Recreation shall publish the rule entitled “Intent to Cut Notification
+Emergency Rules, Standards and Procedures” in the Vermont Code of Rules.
+* * * Household Hazardous Waste Extended Producer Responsibility * * *
+Sec. 7. 10 V.S.A. § 7181 is amended to read:
+§ 7181. DEFINITIONS
+As used in this chapter:
+* * *
+(4)(A) “Covered household hazardous product” means a consumer
+product offered for retail sale that is contained in the receptacle in which the
+product is offered for retail sale, if the product has any of the following
+characteristics:
+(i) the product or a component of the product is a hazardous waste
+under subchapter 2 of the Vermont Hazardous Waste Management
+Regulations, regardless of the status of the generator of the hazardous waste; or
+(ii) the product is a gas cylinder.
+(B) “Covered household hazardous product” does not mean any of
+the following:
+VT LEG #384275 v.1
+
+No. 59 Page 28 of 65
+2025
+* * *
+(iv) architectural paint paint products as that term is defined in
+section 6672 of this title;
+* * *
+Sec. 8. 10 V.S.A. § 7182 is amended to read:
+§ 7182. SALE OF COVERED HOUSEHOLD HAZARDOUS PRODUCTS;
+STEWARDSHIP ORGANIZATION REGISTRATION;
+MANUFACTURER REGISTRATION
+(a) Sale prohibited.
+(1) A manufacturer of a covered household hazardous product shall not
+sell, offer for sale, or deliver to a retailer for subsequent sale a covered
+household hazardous product without registering with the stewardship
+organization pursuant to subsection (c) of this section.
+(2) Beginning six months after a final decision on the adequacy of a
+collection plan by the Secretary, a manufacturer of a covered household
+hazardous product shall not sell, offer for sale, or deliver to a retailer for
+subsequent sale a covered household hazardous product unless all the
+following have been met:
+(1)(A) The manufacturer is participating in a stewardship
+organization implementing an approved collection plan.
+(2)(B) The name of the manufacturer, the manufacturer’s brand, and
+the name of the covered household hazardous product are submitted to the
+VT LEG #384275 v.1
+
+No. 59 Page 29 of 65
+2025
+Agency of Natural Resources by a stewardship organization and listed on the
+stewardship organization’s website as covered by an approved collection plan.
+(3)(C) The stewardship organization in which the manufacturer
+participates has submitted an annual report consistent with the requirements of
+section 7185 of this title.
+(4)(D) The stewardship organization in which the manufacturer
+participates has conducted a plan audit consistent with the requirements of
+subsection 7185(b) of this title.
+(b) Stewardship organization registration requirements.
+(1) On or before July 1, 2025 and annually thereafter, a stewardship
+organization shall file a registration form with the Secretary. The Secretary
+shall provide the registration form to the stewardship organization. The
+registration form shall include:
+(A) a list of the manufacturers participating in the stewardship
+organization;
+(B) a list of the brands of each manufacturer participating in the
+stewardship organization;
+(C) a list of the covered household hazardous products of each
+manufacturer participating in the stewardship organization;
+(D) the name, address, and contact information of a person
+responsible for ensuring compliance with this chapter;
+VT LEG #384275 v.1
+
+No. 59 Page 30 of 65
+2025
+(E) a description of how the stewardship organization meets the
+requirements of subsection 7184(b) of this title, including any reasonable
+requirements for participation in the stewardship organization; and
+(F)(B) the name, address, and contact information of a person for a
+nonmember manufacturer to contact regarding how to participate in the
+stewardship organization to satisfy the requirements of this chapter.
+(2) A renewal of a registration without changes may be accomplished
+through notifying the Agency of Natural Resources on a form provided by the
+Agency Beginning on July 1, 2026 and annually thereafter, a stewardship
+organization shall renew its registration with the Secretary. A renewal
+registration shall include the following:
+(A) a list of the manufacturers participating in the stewardship
+organization;
+(B) a list of the brands of each manufacturer participating in the
+stewardship organization;
+(C) a list of the covered household hazardous products of each
+manufacturer participating in the stewardship organization;
+(D) the name, address, and contact information of a person
+responsible for ensuring compliance with this chapter;
+(E) a description of how the stewardship organization meets the
+requirements of subsection 7184(b) of this title, including any reasonable
+requirements for participation in the stewardship organization; and
+VT LEG #384275 v.1
+
+No. 59 Page 31 of 65
+2025
+(F) the name, address, and contact information of a person for a
+nonmember manufacturer to contact regarding how to participate in the
+stewardship organization to satisfy the requirements of this chapter.
+(c) Manufacturer registration. On or before November 1, 2025, a
+manufacturer of a covered household hazardous product shall register with the
+stewardship organization in a manner proscribed by the stewardship
+organization.
+Sec. 9. 10 V.S.A. § 7183 is amended to read:
+§ 7183. COLLECTION PLANS
+(a) Collection plan required. Prior to July 1, 2025 On or before July 1,
+2026, any stewardship organization registered with the Secretary as
+representing manufacturers of covered household hazardous products shall
+coordinate and submit to the Secretary for review one collection plan for all
+manufacturers.
+(b) Collection plan; minimum requirements. Each collection plan shall
+include, at a minimum, all of the following requirements:
+(1) Initial plan. The initial plan shall last for a period not to exceed
+three years and contain, at a minimum, the following requirements:
+(A) List of participants. A list of the manufacturers, brands, and
+products participating in the collection plan and a methodology for adding and
+removing manufacturers and notifying the Agency of new participants.
+VT LEG #384275 v.1
+
+No. 59 Page 32 of 65
+2025
+(2)(B) Free statewide collection of covered household hazardous
+products. The collection program shall provide reimburse municipalities when
+a municipality provides for free, convenient, and accessible statewide
+opportunities for the collection from covered entities of covered household
+hazardous products, including orphan covered products. A stewardship
+organization shall accept all covered household hazardous products collected
+from a covered entity and shall not refuse the collection of a covered
+household hazardous product, including orphan covered household products,
+based on the brand or manufacturer of the covered household hazardous
+product unless specifically exempt from this requirement. The collection
+program shall also provide for the payment of collection, processing, and end-
+of-life management of the covered household hazardous products. Collection
+costs include facility costs, equipment costs, labor, supplies, maintenance,
+events costs, and event contractor costs, including collection event set-up fees,
+environmental service fees, insurance fees, and shipping containers and
+materials.
+(3) Convenient collection location. The stewardship organization shall
+develop a collection program that allows all municipal household hazardous
+waste collection programs to opt to be a part of the collection plan, including
+collection events and facilities offered by solid waste planning entities. The
+plan shall make efforts to site points of collection equitably across all regions
+VT LEG #384275 v.1
+
+No. 59 Page 33 of 65
+2025
+of the State to allow for convenient and reasonable access of all Vermonters to
+collection facilities or collection events.
+(4) Public education and outreach. The collection plan shall include an
+education and outreach program that shall include a website and may include
+media advertising, retail displays, articles and publications, and other public
+educational efforts. Outreach and education shall be suitable for the State’s
+diverse ethnic populations, through translated and culturally appropriate
+materials, including in-language and targeted outreach. Public education and
+outreach should include content to increase meaningful participation by
+environmental justice focus populations as required by 3 V.S.A. chapter 72.
+During the first year of program implementation and two years after adoption
+of the collection plan, each stewardship organization shall carry out a survey of
+public awareness regarding the requirements of the program established under
+this chapter that can identify communities that have disparities in awareness
+and need more outreach. Each stewardship organization shall share the results
+of the public awareness surveys with the Secretary. If multiple stewardship
+organizations are implementing plans approved by the Secretary, the
+stewardship organizations shall coordinate in carrying out their education and
+outreach responsibilities under this subdivision and shall include in their
+annual reports to the Secretary a summary of their coordinated education and
+outreach efforts. The education and outreach program and website shall notify
+the public of the following:
+VT LEG #384275 v.1
+
+No. 59 Page 34 of 65
+2025
+(A) that there is a free collection program for covered household
+hazardous products;
+(B) the location and hours of operation of collection points and how a
+covered entity can access this collection program;
+(C) the special handling considerations associated with covered
+household hazardous products; and
+(D) source reduction information for consumers to reduce leftover
+covered household products.
+(5) Compliance with appropriate environmental standards. In
+implementing a collection plan, a stewardship organization shall comply with
+all applicable laws related to the collection, transportation, and disposal of
+hazardous waste. A stewardship organization shall comply with any special
+handling or disposal standards established by the Secretary for covered
+household hazardous products or for the collection plan of the manufacturer.
+(6) Method of disposition. The collection plan shall describe how
+covered household hazardous products will be managed in the most
+environmentally and economically sound manner, including following the
+waste-management hierarchy. The management of covered household
+hazardous products under the collection plan shall use management activities
+in the following priority order: source reduction, reuse, recycling, energy
+recovery, and disposal. Collected covered household hazardous products shall
+be recycled when technically and economically feasible.
+VT LEG #384275 v.1
+
+No. 59 Page 35 of 65
+2025
+(7) Performance goals. A collection plan shall include:
+(A) A performance goal for covered household hazardous products
+determined by the number of total participants at collection events and
+facilities listed in the collection plan during a program year divided by the total
+number of households. The number of households shall include seasonal
+households. The calculation methodology for the number of households shall
+be included in the plan.
+(B) At a minimum, the collection performance goal for the first
+approved plan shall be an annual participation rate of five percent of the
+households for every collection program based on the number of households
+the collection program serves. After the initial approved program plan, the
+stewardship organization shall propose performance goals for subsequent
+program plans. The Secretary shall approve the performance goals for the plan
+at least every five years. The stewardship organization shall use the results of
+the most recent waste composition study required under 6604 of this title and
+other relevant factors to propose the performance goals of the collection plan.
+If a stewardship organization does not meet its performance goals, the
+Secretary may require the stewardship organization to revise the collection
+plan to provide for one or more of the following: additional public education
+and outreach, additional collection events, or additional hours of operation for
+collection sites. A stewardship organization is not authorized to reduce or
+VT LEG #384275 v.1
+
+No. 59 Page 36 of 65
+2025
+cease collection, education and outreach, or other activities implemented under
+an approved plan on the basis of achievement of program performance goals.
+(8)(C) Collection plan funding. The collection plan shall describe how
+the stewardship organization will fund the implementation of the collection
+plan and collection activities under the plan, including the costs for education
+and outreach, collection, processing, and end-of-life management of the
+covered household hazardous product all municipal collection offered to the
+public in a base program year. A base program year shall be based on the
+services provided in calendar year 2024 and any other collection facilities or
+events approved by the Secretary. Collection costs include facility costs,
+equipment costs, labor, supplies, maintenance, events costs, and event
+contractor costs, including collection event set-up fees, environmental service
+fees, insurance fees, and shipping containers and materials. The collection
+plan shall include how municipalities will be compensated for all costs
+attributed to collection of covered household hazardous products. The
+Secretary shall resolve disputes relating to compensation.
+(2) Subsequent plans. After the expiration of the initial plan approved
+by the Secretary, the collection plan shall include, at a minimum, the
+following:
+(A) List of participants. A list of the manufacturers, brands, and
+products participating in the collection plan and a methodology for adding and
+removing manufacturers and notifying the Agency of new participants.
+VT LEG #384275 v.1
+
+No. 59 Page 37 of 65
+2025
+(B) Free statewide collection of covered household hazardous
+products. The collection program shall provide for free, convenient, and
+accessible statewide opportunities for the collection from covered entities of
+covered household hazardous products, including orphan covered products. A
+stewardship organization shall accept all covered household hazardous
+products collected from a covered entity and shall not refuse the collection of a
+covered household hazardous product, including orphan covered household
+products, based on the brand or manufacturer of the covered household
+hazardous product unless specifically exempt from this requirement. The
+collection program shall also provide for the payment of collection, processing,
+and end-of-life management of the covered household hazardous products.
+Collection costs include facility costs, equipment costs, labor, supplies,
+maintenance, events costs, and event contractor costs, including collection
+event set-up fees, environmental service fees, insurance fees, and shipping
+containers and materials.
+(C) Convenient collection location. The stewardship organization
+shall develop a collection program that allows all municipal household
+hazardous waste collection programs to opt to be a part of the collection plan,
+including collection events and facilities offered by solid waste planning
+entities. The plan shall make efforts to site points of collection equitably
+across all regions of the State to allow for convenient and reasonable access of
+all Vermonters to collection facilities or collection events.
+VT LEG #384275 v.1
+
+No. 59 Page 38 of 65
+2025
+(D) Public education and outreach. The collection plan shall include
+an education and outreach program that shall include a website and may
+include media advertising, retail displays, articles and publications, and other
+public educational efforts. Outreach and education shall be suitable for the
+State’s diverse ethnic populations, through translated and culturally appropriate
+materials, including in-language and targeted outreach. Public education and
+outreach should include content to increase meaningful participation by
+environmental justice focus populations as required by 3 V.S.A. chapter 72.
+During the second approved plan, each stewardship organization shall carry
+out a survey of public awareness regarding the requirements of the program
+established under this chapter that can identify communities that have
+disparities in awareness and need more outreach. Each stewardship
+organization shall share the results of the public awareness surveys with the
+Secretary. If multiple stewardship organizations are implementing plans
+approved by the Secretary, the stewardship organizations shall coordinate in
+carrying out their education and outreach responsibilities under this
+subdivision (D) and shall include in their annual reports to the Secretary a
+summary of their coordinated education and outreach efforts. The education
+and outreach program and website shall notify the public of the following:
+(i) that there is a free collection program for covered household
+hazardous products;
+VT LEG #384275 v.1
+
+No. 59 Page 39 of 65
+2025
+(ii) the location and hours of operation of collection points and
+how a covered entity can access this collection program;
+(iii) the special handling considerations associated with covered
+household hazardous products; and
+(iv) source reduction information for consumers to reduce leftover
+covered household products.
+(E) Compliance with appropriate environmental standards. In
+implementing a collection plan, a stewardship organization shall comply with
+all applicable laws related to the collection, transportation, and disposal of
+hazardous waste. A stewardship organization shall comply with any special
+handling or disposal standards established by the Secretary for covered
+household hazardous products or for the collection plan of the manufacturer.
+(F) Method of management. The collection plan shall describe how
+covered household hazardous products will be managed in the most
+environmentally and economically sound manner, including following the
+waste-management hierarchy. The management of covered household
+hazardous products under the collection plan shall use management activities
+in the following priority order: source reduction, reuse, recycling, energy
+recovery, and disposal. Collected covered household hazardous products shall
+be recycled when technically and economically feasible.
+VT LEG #384275 v.1
+
+No. 59 Page 40 of 65
+2025
+(G) Performance goals. A collection plan shall include:
+(i) A performance goal for covered household hazardous products
+determined by the number of total participants at collection events and
+facilities listed in the collection plan during a program year divided by the total
+number of households. The number of households shall include seasonal
+households. The calculation methodology for the number of households shall
+be included in the plan.
+(ii) At a minimum, the collection performance goal for the initial
+plan approved pursuant to subdivision (1) of this subsection (b) shall be an
+annual participation rate of seven percent of the households for every
+collection program based on the number of households the collection program
+serves. After the initial approved program plan, the stewardship organization
+shall propose performance goals for subsequent program plans. The Secretary
+shall approve the performance goals for the plan at least every five years. The
+stewardship organization shall use the results of the most recent waste
+composition study required under 6604 of this title and other relevant factors to
+propose the performance goals of the collection plan. If a stewardship
+organization does not meet its performance goals, the Secretary may require
+the stewardship organization to revise the collection plan to provide for one or
+more of the following: additional public education and outreach, additional
+collection events, or additional hours of operation for collection sites. A
+stewardship organization is not authorized to reduce or cease collection,
+VT LEG #384275 v.1
+
+No. 59 Page 41 of 65
+2025
+education and outreach, or other activities implemented under an approved
+plan on the basis of achievement of program performance goals.
+(H) Collection plan funding. The collection plan shall describe how
+the stewardship organization will fund the implementation of the collection
+plan and collection activities under the plan, including the costs for education
+and outreach, collection, processing, and end-of-life management of the
+covered household hazardous product. Collection costs include facility costs,
+equipment costs, labor, supplies, maintenance, events costs, and event
+contractor costs, including collection event set-up fees, environmental service
+fees, insurance fees, and shipping containers and materials. The collection
+plan shall include how municipalities will be compensated for all costs
+attributed to collection of covered household hazardous products. The
+Secretary shall resolve disputes relating to compensation.
+(c) Term of collection plan. A collection plan approved by the Secretary
+under section 7187 of this title shall have a term not to exceed five years,
+provided that the stewardship organization remains in compliance with the
+requirements of this chapter and the terms of the approved collection plan.
+(d) Collection plan implementation. Stewardship organizations shall
+implement the collection plan on or before six months after the date of a final
+decision by the Secretary on the adequacy of the collection plan.
+VT LEG #384275 v.1
+
+No. 59 Page 42 of 65
+2025
+Sec. 10. 10 V.S.A. § 7184 is amended to read:
+§ 7184. STEWARDSHIP ORGANIZATIONS
+(a) Participation in a stewardship organization. A manufacturer shall meet
+the requirements of this chapter by participating in a stewardship organization
+that undertakes the responsibilities under sections 7182, 7183, and 7185 of this
+title.
+(b) Qualifications for a stewardship organization. To qualify as a
+stewardship organization under this chapter, an organization shall:
+(1) commit to assume the responsibilities, obligations, and liabilities of
+all manufacturers participating in the stewardship organization;
+(2) not create unreasonable barriers for participation in the stewardship
+organization; and
+(3) maintain a public website that lists all manufacturers and
+manufacturers’ brands and products covered by the stewardship organization’s
+approved collection plan.
+(c) A stewardship organization is authorized to charge its members
+reasonable fees for the organization, administration, and implementation of the
+programs required by this chapter.
+Sec. 11. 10 V.S.A. § 7187 is amended to read:
+§ 7187. AGENCY RESPONSIBILITIES
+(a) Review and approve collection plans. The Secretary shall review and
+approve or deny collection plans submitted under section 7183 of this title
+VT LEG #384275 v.1
+
+No. 59 Page 43 of 65
+2025
+according to the public notice and comment requirements of section 7714 of
+this title.
+* * *
+(g) Agency collection plan. If no stewardship organization is formed on or
+before July 1, 2025 or the stewardship organization fails to submit a plan or
+submits a plan that does not meet the requirements of this chapter, the
+Secretary shall adopt and administer a plan that meets the requirements of
+section 7183 of this title. If the Secretary administers the plan adopted under
+section 7183, the Secretary shall charge each manufacturer the prorated costs
+of plan administration, the Agency’s oversight costs, and an additional
+hazardous waste reduction assessment of 10 percent of the plan’s total cost to
+be deposited in the Solid Waste Management Assistance Account of the Waste
+Management Assistance Fund, for the purpose of providing grants to
+municipalities and small businesses to prevent pollution and reduce the
+generation of hazardous waste in the State. When determining a
+manufacturer’s assessment under this section, the Agency may allocate costs to
+a manufacturer of covered household hazardous products based on the sales of
+covered household hazardous products nationally prorated to the population of
+Vermont.
+VT LEG #384275 v.1
+
+No. 59 Page 44 of 65
+2025
+Sec. 12. 10 V.S.A. § 6621a is amended to read:
+§ 6621a. LANDFILL DISPOSAL REQUIREMENTS
+(a) In accordance with the following schedule, no person shall knowingly
+dispose of the following materials in solid waste or in landfills:
+* * *
+(12) Covered household hazardous products after July 1, 2025 2026.
+* * *
+Sec. 13. SOLID WASTE PLAN; FLEXIBILITY
+(a) Notwithstanding the municipal household hazardous waste (HHW)
+collection requirements under the State Solid Waste Plan adopted pursuant to
+10 V.S.A. § 6604, the Secretary of Natural Resources may grant a variance
+from the requirement to conduct at least two household hazardous waste
+collection events in that municipality. The variance shall allow a municipality
+to meet its obligations, as follows:
+(1) the municipality has partnered with another municipality to allow its
+residents the ability to access a permanent HHW facility in the same manner as
+the municipality that operates the permanent HHW facility;
+(2) the municipality has partnered with a nearby municipality to offer
+collection events to members in both municipalities; or
+(3) the municipality has demonstrated that it has made reasonable efforts
+to provide alternate collection opportunities identified under subdivisions (1)
+and (2) of this subsection and was unable and that the cost of a collection event
+VT LEG #384275 v.1
+
+No. 59 Page 45 of 65
+2025
+is unreasonable. In such circumstances the Secretary of Natural Resources
+may reduce the required collection events to one per year.
+(b) This section shall be repealed on July 1, 2027.
+* * * Paint Product Stewardship Program * * *
+Sec. 14. 10 V.S.A. chapter 159, subchapter 4 is amended to read:
+Subchapter 4. Paint Product Stewardship Program
+§ 6671. PURPOSE
+The purpose of this subchapter is to establish an environmentally sound,
+cost-effective Paint Product Stewardship Program in the State that will
+undertake responsibility for the development and implementation of strategies
+to reduce the generation of postconsumer paint; promote the reuse of
+postconsumer paint; and collect, transport, and process postconsumer paint,
+including reuse, recycling, energy recovery, and disposal. The Paint Product
+Stewardship Program will follow the waste management hierarchy for
+managing and reducing postconsumer paint in the order as follows: reduce
+consumer generation of postconsumer paint, reuse, recycle, provide for energy
+recovery, and dispose. The Paint Product Stewardship Program will provide
+more opportunities for consumers to manage properly their postconsumer
+paint, provide fiscal relief for local government in managing postconsumer
+paint, keep paint out of the waste stream, and conserve natural resources.
+VT LEG #384275 v.1
+
+No. 59 Page 46 of 65
+2025
+§ 6672. DEFINITIONS
+As used in this subchapter:
+(1) “Aerosol coating product” means a pressurized coating product
+containing pigments or resins dispensed by means of a propellant and
+packaged and sold in a disposable aerosol container for handheld application,
+or for use in specialized equipment for ground traffic or marking applications.
+(2) “Architectural paint” means interior and exterior architectural
+coatings, including interior or exterior water- and oil-based coatings, primers,
+sealers, or wood coatings, that are sold in containers of five gallons or less.
+“Architectural paint” does not mean industrial coatings, original equipment
+coatings, or specialty coatings.
+(3) “Coating-related product” means a product used as a paint additive,
+paint thinner, paint colorant, paint remover, surface sealant, surface
+preparation, or surface adhesive, and sold for home improvement. “Coating-
+related product” does not mean original equipment manufacturer products or
+industrial products.
+(2)(4) “Distributor” means a company that has a contractual relationship
+with one or more producers to market and sell architectural paint to retailers in
+Vermont.
+(3)(5) “Energy recovery” means recovery in which all or a part of the
+solid waste materials are processed in order to use the heat content or other
+forms of energy of or from the material.
+VT LEG #384275 v.1
+
+No. 59 Page 47 of 65
+2025
+(4)(6) “Environmentally sound management practices” means policies
+to be implemented by a producer or a stewardship organization to ensure
+compliance with all applicable laws and also addressing such issues as
+adequate record keeping, tracking and documenting the fate of materials within
+the State and beyond, and adequate environmental liability coverage for
+professional services and for the operations of the contractors working on
+behalf of the producer organization.
+(5)(7) “Municipality” means a city, town, or a village.
+(6) “Paint stewardship assessment” means a one-time charge that is:
+(A) added to the purchase price of architectural paint sold in
+Vermont;
+(B) passed from the producer to the wholesale purchaser to the
+retailer and then to a retail consumer; and
+(C) necessary to cover the cost of collecting, transporting, and
+processing the postconsumer paint managed through the statewide Program.
+(8) “Nonindustrial coating” means arts and crafts paint, automotive
+refinish paint, driveway sealer, faux finish or glaze, furniture oil, furniture
+paint, lime wash, lime paint, marine paint, antifouling paint, road and traffic
+marking paint, two-component paint, wood preservative, fire retardant paint,
+dry fog paint, chalkboard paint, and conductive paint, sold in containers of five
+gallons or less for commercial and homeowner use, but does not include
+coatings purchased for industrial or original equipment manufacturer use.
+VT LEG #384275 v.1
+
+No. 59 Page 48 of 65
+2025
+(9)(A) “Paint product” includes:
+(i) architectural paint;
+(ii) aerosol coating products;
+(iii) coating-related products; and
+(iv) nonindustrial coatings.
+(B) “Paint product” does not include a health and beauty product.
+(7)(10) “Postconsumer paint” means architectural a paint product and its
+containers not used and no longer wanted by a purchaser.
+(8)(11) “Producer” means a manufacturer of architectural paint products
+who sells, offers for sale, or distributes that paint in Vermont under the
+producer’s own name or brand.
+(9)(12) “Recycling” means any process by which discarded products,
+components, and by-products are transformed into new usable or marketable
+materials in a manner in which the original products may lose their identity but
+does not include energy recovery or energy generation by means of
+combusting discarded products, components, and by-products with or without
+other waste products.
+(10)(13) “Retailer” means any person that offers architectural a paint
+product for sale at retail in Vermont.
+(11)(14) “Reuse” means the return of a product into the economic
+stream for use in the same kind of application as originally intended, without a
+change in the product’s identity.
+VT LEG #384275 v.1
+
+No. 59 Page 49 of 65
+2025
+(12)(15) “Secretary” means the Secretary of Natural Resources.
+(13)(16) “Sell” or “sale” means any transfer of title for consideration,
+including remote sales conducted through sales outlets, catalogues, or the
+Internet internet or any other similar electronic means.
+(14)(17) “Stewardship organization” means a nonprofit corporation or
+nonprofit organization created by a producer or group of producers to
+implement the Paint Product Stewardship Program required under this
+subchapter.
+§ 6673. PAINT PRODUCT STEWARDSHIP PROGRAM
+(a) A producer or a stewardship organization representing producers shall
+submit a an amended plan for the establishment of a Paint Product Stewardship
+Program to the Secretary for approval by December 1, 2013. The plan shall
+address the following:
+(1) Provide a list of participating producers and brands covered by the
+Program.
+(2) Provide specific information on the architectural paint products
+covered under the Program, such as interior or exterior water- and oil-based
+coatings, primers, sealers, or wood coatings.
+(3) Describe how the Program proposed under the plan will collect,
+transport, recycle, and process postconsumer paint products for end-of-life
+management, including recycling, energy recovery, and disposal, using
+environmentally sound management practices.
+VT LEG #384275 v.1
+
+No. 59 Page 50 of 65
+2025
+(4) Describe the Program and how it will provide for convenient and
+available statewide collection of postconsumer architectural paint products in
+urban and rural areas of the State. The producer or stewardship organization
+shall use the existing household hazardous waste collection infrastructure when
+selecting collection points for postconsumer architectural paint products. A
+paint retailer shall be authorized as a paint collection point of postconsumer
+architectural paint for a Paint Product Stewardship Program if the paint retailer
+volunteers to act as a paint collection point and complies with all applicable
+laws, rules, and regulations.
+(5) Provide geographic information modeling to determine the number
+and distribution of sites for collection of postconsumer architectural paint
+based on the following criteria:
+(A) at least 90 percent of Vermont residents shall have a permanent
+collection site within a 15-mile radius; and
+(B) one additional permanent site will be established for every
+10,000 residents of a municipality and additional sites shall be distributed to
+provide convenient and reasonably equitable access for residents within each
+municipality, unless otherwise approved by the Secretary.
+(6) Establish goals to reduce the generation of postconsumer paint
+products, to promote the reuse of postconsumer paint products, and for the
+proper management of postconsumer paint products as practical based on
+current household hazardous waste program information. The goals may be
+VT LEG #384275 v.1
+
+No. 59 Page 51 of 65
+2025
+revised by the producer or stewardship organization based on the information
+collected for the annual report.
+(7) Describe how postconsumer paint products will be managed in the
+most environmentally and economically sound manner, including following
+the waste-management hierarchy. The management of paint under the
+Program shall use management activities that promote source reduction, reuse,
+recycling, energy recovery, and disposal.
+(8) Describe education and outreach efforts to inform consumers of
+collection opportunities for postconsumer paint products and to promote the
+source reduction and recycling of architectural paint products for each of the
+following: consumers, contractors, and retailers.
+(b) The producer or stewardship organization shall submit a budget for the
+Program proposed under subsection (a) of this section, and for any amendment
+to the plan that would affect the Program’s costs. The budget shall include a
+funding mechanism under which each architectural paint product producer
+remits to a stewardship organization payment of a paint product stewardship
+assessment for each container of architectural paint product it sells in this
+State. Prior to submitting the proposed budget and assessment to the
+Secretary, the producer or stewardship organization shall provide the budget
+and assessment to a third-party auditor agreed upon by the Secretary. The
+third-party auditor shall provide a recommendation as to whether the proposed
+budget and assessment is cost-effective, reasonable, and limited to covering the
+VT LEG #384275 v.1
+
+No. 59 Page 52 of 65
+2025
+cost of the Program. The paint product stewardship assessment shall be added
+to the cost of all architectural paint products sold in Vermont. To ensure that
+the funding mechanism is equitable and sustainable, a uniform paint product
+stewardship assessment shall be established for all architectural paint products
+sold. The paint stewardship assessment shall be approved by the Secretary and
+shall be sufficient to recover, but not exceed, the costs of the Paint Stewardship
+Program the amount established in section 6681 of this title.
+(c) Beginning no later than July 1, 2014, or three Six months after approval
+of the plan for a Paint Product Stewardship Program required under subsection
+(a) of this section, whichever occurs later, a producer of architectural paint
+products sold at retail or a stewardship organization of which a producer is a
+member shall implement the approved plan for a Paint Product Stewardship
+Program.
+(d) A producer or a stewardship organization of which a producer is a
+member shall promote a Paint Product Stewardship Program and provide
+consumers with educational and informational materials describing collection
+opportunities for postconsumer paint products Statewide and promotion of
+waste prevention, reuse, and recycling. The educational and informational
+program shall make consumers aware that the funding for the operation of the
+Paint Product Stewardship Program has been added to the purchase price of all
+architectural paint products sold in the State.
+VT LEG #384275 v.1
+
+No. 59 Page 53 of 65
+2025
+(e) A plan approved under this section shall provide for collection of
+postconsumer architectural paint at no cost to the person from whom the
+architectural paint product is collected. The program plan also shall provide
+for the payment of municipalities for collection, processing, and end-of-life
+management of aerosol coating products, coating-related products, and
+nonindustrial coatings contained in the receptacle in which the product is
+offered for retail sale. Collection costs include facility costs, equipment costs,
+labor, supplies, maintenance, events costs, and event contractor costs,
+including collection event set-up fees, environmental service fees, insurance
+fees, and shipping containers and materials.
+(f) When a plan or amendment to an approved plan is submitted under this
+section, the Secretary shall make the proposed plan or amendment available for
+public review and comment for at least 30 days.
+(g) A producer or paint stewardship organization shall submit to the
+Secretary for review, in the same manner as required under subsection 6675(a)
+of this title, an amendment to an approved plan when there is:
+(1) a change to a paint stewardship assessment under the plan;
+(2) an addition to or removal of a category of products covered under
+the Program; or
+(3)(2) a revision of the product stewardship organization’s goals.
+(h) A plan approved by the Secretary under section 6675 of this title shall
+have a term not to exceed five years, provided that the producer remains in
+VT LEG #384275 v.1
+
+No. 59 Page 54 of 65
+2025
+compliance with the requirements of this chapter and the terms of the approved
+plan.
+(i) In addition to the requirements specified in subsection (a) of this
+section, a stewardship organization shall notify the Secretary in writing within
+30 days of after any change to:
+(1) the number of collection sites for postconsumer architectural paint
+products identified under this section as part of the plan;
+(2) the producers identified under this section as part of the plan;
+(3) the brands of architectural paint products identified under this
+section as part of the plan; and
+(4) the processors that manage postconsumer architectural paint
+products identified under this section as part of the plan.
+(j) Upon submission of a plan to the Secretary under this section, a
+producer or a stewardship organization shall pay the fee required by 3 V.S.A.
+§ 2822(j)(31). Thereafter, the producer or stewardship organization shall pay
+the fee required by 3 V.S.A. § 2822(j)(31) annually by on or before July 1 of
+each year.
+§ 6674. RETAILER RESPONSIBILITY
+(a) A producer or retailer may not sell or offer for sale architectural a paint
+product to any person in Vermont unless the producer of that architectural
+paint brand or a stewardship program of which the producer of that
+architectural paint brand is a member that the producer is a member of is
+VT LEG #384275 v.1
+
+No. 59 Page 55 of 65
+2025
+implementing an approved plan for a Paint Product Stewardship Program as
+required by section 6673 of this title. A retailer complies with the
+requirements of this section if, on the date the architectural paint product was
+ordered from the producer or its agent, the producer or paint brand is listed on
+the Agency of Natural Resources’ website as a producer or brand participating
+in an approved plan for a Paint Product Stewardship Program.
+(b) At the time of sale to a consumer, a producer, a stewardship
+organization, or a retailer selling or offering architectural paint products for
+sale shall provide the consumer with information regarding available
+management options for postconsumer paint products collected through the
+Paint Product Stewardship Program or a brand of paint being sold under the
+Program.
+§ 6675. AGENCY RESPONSIBILITY
+(a)(1) Within 90 days of after receipt of a plan submitted under section
+6673 of this title, the Secretary shall review the plan and make a determination
+whether or not to approve the plan. The Secretary shall issue a letter of
+approval for a submitted plan if:
+(A) the submitted plan provides for the establishment of a Paint
+Product Stewardship Program that meets the requirements of subsection
+6673(a) of this subchapter; and
+(B) the Secretary determines that the plan:
+(i) achieves convenient collection for consumers;
+VT LEG #384275 v.1
+
+No. 59 Page 56 of 65
+2025
+(ii) educates the public on proper paint product management; and
+(iii) manages waste paint products in a manner that is
+environmentally safe and promotes reuse and recycling; and
+(iv) is cost-effective.
+(2) If the Secretary does not approve a submitted plan, the Secretary
+shall issue to the paint product stewardship organization a letter listing the
+reasons for the disapproval of the plan. If the Secretary disapproves a plan, a
+paint product stewardship organization intending to sell or continue to sell
+architectural paint products in the State shall submit a new plan within 60 days
+of after receipt of the letter of disapproval.
+(b)(1) The Secretary shall review and approve the stewardship assessment
+proposed by a producer pursuant to subsection 6673(b) of this title. The
+Secretary shall only approve the Program budget and any assessment if the
+applicant has demonstrated that the costs of the Program and any proposed
+assessment are reasonable and the assessment does not exceed the costs of
+implementing an approved plan.
+(2) If an amended plan is submitted under subsection 6673(g) of this
+title that proposes to change the cost of the Program or proposes to change the
+paint stewardship assessment under the plan, the disapproval of any proposed
+new assessment or the failure of an approved new assessment to cover the total
+costs of the Program shall not relieve a producer or stewardship organization
+VT LEG #384275 v.1
+
+No. 59 Page 57 of 65
+2025
+of its obligation to continue to implement the approved plan under the
+originally approved assessment.
+(c) Facilities solely collecting paint products for the Paint Product
+Stewardship Program that would not otherwise be subject to solid waste
+certification requirements shall not be required to obtain a solid waste
+certification. Persons solely transporting paint for the Paint Product
+Stewardship Program that would not otherwise be subject to solid waste hauler
+permitting requirements shall not be required to obtain a solid waste hauler’s
+permit.
+§ 6676. ANTICOMPETITIVE CONDUCT
+(a) A producer or an organization of producers that manages postconsumer
+paint products, including collection, transport, recycling, and processing of
+postconsumer paint products, as required by this subchapter may engage in
+anticompetitive conduct to the extent necessary to implement the plan
+approved by the Secretary and is immune from liability for the conduct relating
+to antitrust, restraint of trade, unfair trade practices, and other regulation of
+trade or commerce.
+(b) The activity authorized and the immunity afforded under subsection (a)
+of this section shall not apply to any agreement among producers or paint
+product stewardship organizations:
+(1) establishing or affecting the price of paint products, except for the
+paint stewardship assessment approved under subsection 6675(b) of this title;
+VT LEG #384275 v.1
+
+No. 59 Page 58 of 65
+2025
+(2) setting or limiting the output or production of paint products;
+(3) setting or limiting the volume of paint products sold in a geographic
+area;
+(4) restricting the geographic area where paint products will be sold; or
+(5) restricting the customers to whom paint products will be sold or the
+volume of paint products that will be sold.
+§ 6677. PRODUCER REPORTING REQUIREMENTS
+No later than October 15, 2015, and annually thereafter, Annually, a
+producer or a stewardship program of which the producer is a member shall
+submit to the Secretary a report describing the Paint Product Stewardship
+Program that the producer or Stewardship Program is implementing as
+required by section 6673 of this title. At a minimum, the report shall include:
+(1) a description of the methods the producer or Stewardship Program
+used to reduce, reuse, collect, transport, recycle, and process postconsumer
+paint products statewide in Vermont;
+(2) the volume and type of postconsumer paint products collected by the
+producer or Stewardship Program at each collection center in all regions of
+Vermont;
+(3) the volume of postconsumer paint products collected by the producer
+or Stewardship Program in Vermont by method of disposition, including reuse,
+recycling, energy recovery, and disposal;
+VT LEG #384275 v.1
+
+No. 59 Page 59 of 65
+2025
+(4) an independent financial audit of the Paint Product Stewardship
+Program implemented by the producer or the Stewardship Program;
+(5) the prior year’s actual direct and indirect costs for each Program
+element and the administrative and overhead costs of administering the
+approved Program; and
+(6) samples of the educational materials that the producer or stewardship
+program provided to consumers of architectural paint.
+* * *
+§ 6680. UNIVERSAL WASTE DESIGNATION FOR POSTCONSUMER
+PAINT
+(a) The requirements of Subchapter 9 of the Vermont Hazardous Waste
+Management Rules, which allow certain categories of hazardous waste to be
+managed as universal waste, shall apply to postconsumer paint products until
+the postconsumer paint is discarded, provided that:
+(1) the postconsumer paint product is collected as a part of a
+stewardship plan approved under this subchapter; and
+(2) the collected postconsumer paint product is or includes a paint
+product that is a hazardous waste as defined and regulated by the Vermont
+Hazardous Waste Management Rules.
+(b) When postconsumer paint product is regulated as universal waste under
+subsection (a) of this section, small and large quantity handlers of the
+postconsumer paint shall manage the postconsumer paint products in a manner
+VT LEG #384275 v.1
+
+No. 59 Page 60 of 65
+2025
+that prevents releases of any universal waste or component of the universal
+waste to the environment. Postconsumer paint products regulated as universal
+waste shall, at a minimum, be contained in one or more of the following:
+(1) a container that remains closed, structurally sound, and compatible
+with the postconsumer paint products and that lacks evidence of leakage,
+spillage, or damage that could cause leakage under reasonably foreseeable
+conditions; or
+(2) a container that does not meet the requirements of subdivision (1) of
+this subsection, provided that the unacceptable container is overpacked in a
+container that meets the requirements of subdivision (1).
+(c) Containers holding postconsumer paint products that is are regulated as
+universal waste shall be clearly labeled to clearly identify the contents of the
+container, such as “Paint-Related Waste,” “Universal Waste Paint,” “Used
+Paint,” or “Waste Paint.”
+(d) Unless otherwise provided by statute, the definitions of the Vermont
+Hazardous Waste Management Rules shall apply to this section.
+§ 6681. PAINT CONSUMER FEES
+(a) The paint product stewardship assessment shall be sufficient to
+implement and sustain the Paint Product Stewardship Program. If at any time
+the stewardship assessments established in this section are not sufficient to
+implement and sustain the Paint Product Stewardship Program, the Paint
+VT LEG #384275 v.1
+
+No. 59 Page 61 of 65
+2025
+Product Stewardship Program shall propose new stewardship assessments that
+are sufficient to implement and sustain the Program.
+(b) A retailer shall charge an assessment on paint products, based on
+current material management costs of the Paint Product Stewardship Program,
+in the following amounts for architectural paint:
+(1) Half pint or smaller: No fee.
+(2) Greater than a half pint to one gallon: $0.65.
+(3) Greater than one gallon to two gallons: $1.35.
+(4) Greater than two gallons to five gallons: $2.45.
+Sec. 15. IMPLEMENTATION; FEE REPORT
+(a) The requirements for the sale of paint products under 10 V.S.A. § 6673
+shall apply to architectural paint beginning on July 1, 2013 and all paint
+products beginning on July 1, 2026.
+(b) The requirement under 10 V.S.A. § 6673 for an architectural paint
+producer to submit a stewardship plan to the Secretary of Natural Resources
+currently applies to producers of architectural paint as required beginning on
+July 1, 2013 and shall also apply to producers of paint related products
+beginning on July 1, 2026.
+(c) The requirement under 10 V.S.A. § 6677 that an architectural paint
+producer annually report to the Secretary of Natural Resources currently
+applies to producers of architectural paint as required beginning on July 1,
+VT LEG #384275 v.1
+
+No. 59 Page 62 of 65
+2025
+2013 and shall also apply to producers of paint related products beginning on
+March 1, 2027.
+(d) On or before December 15, 2025, the Secretary of Natural Resources
+shall submit to the Senate Committees on Natural Resources and Energy and
+on Finance and the House Committees on Environment and on Ways and
+Means a report recommending a paint consumer fee or fees to be charged for
+paint products that are not architectural paint.
+* * * Renewable Power Portfolio * * *
+Sec. 16. 30 V.S.A. § 8009 is amended to read:
+§ 8009. BASELOAD RENEWABLE POWER PORTFOLIO
+REQUIREMENT
+* * *
+(d) On or before November 1, 2027 2028, the Commission shall determine,
+for the period beginning on November 1, 2026 2028 and ending on November
+1, 2032, the price to be paid to a plant used to satisfy the baseload renewable
+power portfolio requirement. The Commission shall not be required to make
+this determination as a contested case under 3 V.S.A. chapter 25. The price
+shall be the avoided cost of the Vermont composite electric utility system. As
+used in this subsection, the term “avoided cost” means the incremental cost to
+retail electricity providers of electric energy or capacity, or both, that, but for
+the purchase from the plant proposed to satisfy the baseload renewable power
+portfolio requirement, such providers would obtain from a source using the
+VT LEG #384275 v.1
+
+No. 59 Page 63 of 65
+2025
+same generation technology as the proposed plant. For the purposes of this
+subsection, the term “avoided cost” also includes the Commission’s
+consideration of each of the following:
+* * *
+(k) Collocation and efficiency requirements.
+(1) The owner of the plant used to satisfy the baseload renewable power
+portfolio requirement shall cause the plant’s overall efficiency to be increased
+by at least 50 percent relative to the 12-month period preceding July 1, 2022.
+In achieving this efficiency, the owner shall comply with the requirements of
+this subsection.
+(2) On or before July October 1, 2023 2025, the owner of the plant shall
+submit to the Commission and the Department:
+(A) A signed contract providing for the construction of a facility at
+the plant that utilizes the excess thermal heat generated at the plant for a
+beneficial purpose. As used in this subdivision (A), beneficial purpose may
+include the displacement of fossil fuel use for the sustainable production of a
+product or service or more efficient or less costly generation of electricity.
+(B) A certification by a qualified professional engineer that the
+construction of the facility shall meet the requirement of subdivision (1) of this
+subsection (k).
+(3) On or before October 1, 2025 2026, the owner of the plant shall
+submit to the Commission and the Department a certification that the main
+VT LEG #384275 v.1
+
+No. 59 Page 64 of 65
+2025
+components of the facility used to meet the requirement of subdivision (1) of
+this subsection have been manufactured and that the construction plans for the
+facility have been completed.
+(4) If the contract and certification required under subdivision (2) of this
+subsection are not submitted to the Commission and Department on or before
+July October 1, 2023 2025 or if the certification required under subdivision (3)
+is not submitted to the Commission and Department on or before October 1,
+2025 2026, then the obligation under this section for each Vermont retail
+electricity provider to purchase a pro rata share of the baseload renewable
+power portfolio requirement shall cease on November 1, 2025 2026, and the
+Commission is not required to conduct the rate determination provided for in
+subsection (d) of this section.
+(5) On or before September 1, 2026 2027, the Department shall
+investigate and submit a recommendation to the Commission on whether the
+plant has achieved the requirement of subdivision (1) of this subsection. If the
+Department recommends that the plant has not achieved the requirement of
+subdivision (1) of this subsection, the obligation under this section shall cease
+on November 1, 2026 2027, and the Commission is not required to conduct the
+rate determination provided for in subsection (d) of this section.
+(6) After November 1, 2027 2028, the owner of the plant shall report
+annually to the Department and the Department shall verify the overall
+efficiency of the plant for the prior 12-month period. If the overall efficiency
+VT LEG #384275 v.1
+
+No. 59 Page 65 of 65
+2025
+of the plant falls below the requirement of subdivision (1) of this subsection,
+the report shall include a plan to return the plant to the required efficiency
+within one year.
+(7) If, after implementing the plan in subdivision (6) of this subsection,
+the owner of the plant does not achieve the efficiency required in subdivision
+(1) of this subsection, the Department shall request that the Commission
+commence a proceeding to terminate the obligation under this section.
+* * *
+* * * Effective Dates * * *
+Sec. 17. EFFECTIVE DATES
+(a) This section and Secs. 7–13 (covered household hazardous products),
+14–15 (paint products), and 16 (renewable power portfolio) shall take effect on
+passage.
+(b) The remainder of this act shall take effect on July 1, 2025.
+Date Governor signed bill: June 11, 2025
+VT LEG #384275 v.1
+
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P   % %]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P     N   $   $   $]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]

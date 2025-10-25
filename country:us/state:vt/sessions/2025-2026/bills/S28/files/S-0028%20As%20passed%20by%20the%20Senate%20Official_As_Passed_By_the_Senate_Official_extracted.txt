@@ -1,0 +1,1990 @@
+Title: BILLAS INTRODUCED AND PASSED BY SENATE S.28
+Official Title: BILLAS INTRODUCED AND PASSED BY SENATE S.28
+Number of Sections: 17
+Source: versions - As Passed By the Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 34 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 34
+1 S.28
+2 Introduced by Senators Hardy, Lyons, Clarkson, Gulick, Vyhovsky and White
+3 Referred to Committee on Health and Welfare
+4 Date: January 29, 2025
+5 Subject: Health; health care professionals; legally protected health care;
+6 limited-services pregnancy centers; Consumer Protection Act;
+7 unprofessional conduct; medication abortions; fetal death reports
+8 Statement of purpose of bill as introduced: This bill proposes to expand the
+9 prohibition on untrue or misleading advertising by a limited-services
+10 pregnancy center under the Consumer Protection Act to apply to any untrue or
+11 misleading advertising about health care services. It would eliminate specific
+12 responsibility for licensed health care providers who provide services at a
+13 limited-services pregnancy center for the services provided at the center and
+14 would remove language indicating that failure to ensure those services are
+15 conducted in accordance with the law could constitute unprofessional conduct.
+16 The bill would also clarify and expand the types of actions that could be
+17 considered unprofessional conduct for physicians, physician assistants,
+18 advanced practice registered nurses, and naturopathic physicians under their
+19 licensure statutes. The bill would eliminate restrictions on a physician,
+20 physician assistant, or advanced practice registered nurse prescribing
+21 medication to terminate an individual’s pregnancy based on asynchronous
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 2 of 34
+1 electronic or other online communication with the individual. It would also
+2 specify that fetal death reports required by law must be kept confidential.
+3 An act relating to access to certain legally protected health care services
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 9 V.S.A. chapter 63, subchapter 11 is amended to read:
+6 Subchapter 11. Pregnancy Services Centers Health Care Services
+7 § 2491. FINDINGS; LEGISLATIVE INTENT
+8 (a) Findings. The General Assembly finds that:
+9 (1) Centers that seek to counsel clients against abortion, often referred
+10 to as crisis pregnancy centers or limited-services pregnancy centers, have
+11 become common across the country, including in Vermont. Accurate
+12 information about the services that a limited-services pregnancy center
+13 performs, in addition to forthright acknowledgement of its limitations, is
+14 essential to enable individuals in this State to make informed decisions about
+15 their care. This includes individuals being informed of whether they are
+16 receiving services from a licensed and qualified health care provider at a
+17 limited-services pregnancy center, as this allows individuals to determine if
+18 they need to seek medical care elsewhere in order to continue or terminate a
+19 pregnancy.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 3 of 34
+1 (2) Although some limited-services pregnancy centers openly
+2 acknowledge in their advertising, on their websites, and at their facilities that
+3 they neither provide abortions nor refer clients to other providers of abortion
+4 services, others provide confusing and misleading information to pregnant
+5 individuals contemplating abortion by leading those individuals to believe that
+6 their facilities offer abortion services and unbiased counseling. Some limited-
+7 services pregnancy centers have promoted patently false or biased medical
+8 claims about abortion, pregnancy, contraception, and reproductive health care
+9 providers.
+10 (3) False and misleading advertising by centers that do not offer or refer
+11 clients for abortion is of special concern to the State because of the time-
+12 sensitive and constitutionally protected nature of the decision to continue or
+13 terminate a pregnancy. When a pregnant individual is misled into believing
+14 that a center offers services that it does not in fact offer or receives false or
+15 misleading information regarding health care options, the individual loses time
+16 crucial to the decision whether to terminate a pregnancy and may lose the
+17 option to choose a particular method or to terminate a pregnancy at all.
+18 (4) Telling the truth is how trained health care providers demonstrate
+19 respect for patients, foster trust, promote self-determination, and cultivate an
+20 environment where best practices in shared decision-making can flourish.
+21 Without veracity in information and communication, it is difficult for
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 4 of 34
+1 individuals to make informed, voluntary choices that are essential to one’s
+2 sense of personal agency and autonomy.
+3 (5)(2) Advertising strategies and educational information about health
+4 care options that lack transparency, use misleading or ambiguous terminology,
+5 misrepresent or obfuscate services provided, or provide factually inaccurate
+6 information are a form of manipulation that disrespects individuals,
+7 undermines trust, broadens health disparity, and can result in patient harm.
+8 (b) Intent.
+9 (1) It is the intent of the General Assembly to ensure that the public is
+10 provided with accurate, factual information about the types of health care
+11 services that are available to pregnant individuals in this State. The General
+12 Assembly respects the constitutionally protected right of each individual to
+13 personal reproductive autonomy, which includes the right to receive clear,
+14 honest, and nonmisleading information about the individual’s options and to
+15 make informed, voluntary choices after considering all relevant information.
+16 (2) The General Assembly respects the right of limited-services
+17 pregnancy centers to counsel individuals against abortion, and nothing in this
+18 subchapter should be construed to regulate, limit, or curtail such advocacy.
+19 § 2492. DEFINITIONS DEFINITION
+20 As used in this subchapter:,
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 5 of 34
+1 (1) “Abortion” means any medical treatment intended to induce the
+2 termination of, or to terminate, a clinically diagnosable pregnancy except for
+3 the purpose of producing a live birth.
+4 (2) “Client” means an individual who is inquiring about or seeking
+5 services at a pregnancy services center.
+6 (3) “Emergency contraception” means any drug approved by the U.S.
+7 Food and Drug Administration as a contraceptive method for use after sexual
+8 intercourse, whether provided over the counter or by prescription.
+9 (4) “Health information” means any oral or written information in any
+10 form or medium that relates to health insurance or the past, present, or future
+11 physical or mental health or condition of a client.
+12 (5) “Limited-services pregnancy center” means a pregnancy services
+13 center that does not directly provide, or provide referrals to clients for,
+14 abortions or emergency contraception.
+15 (6) “Pregnancy services center” means a facility, including a mobile
+16 facility, where the primary purpose is to provide services to individuals who
+17 are or may be pregnant and that either offers obstetric ultrasounds, obstetric
+18 sonograms, or prenatal care to pregnant individuals or has the appearance of a
+19 medical facility. A pregnancy services center has the appearance of a medical
+20 facility if two or more of the following factors are present:
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 6 of 34
+1 (A) The center offers pregnancy testing or pregnancy diagnosis, or
+2 both.
+3 (B) The center has staff or volunteers who wear medical attire or
+4 uniforms.
+5 (C) The center contains one or more examination tables.
+6 (D) The center contains a private or semiprivate room or area
+7 containing medical supplies or medical instruments.
+8 (E) The center has staff or volunteers who collect health information
+9 from clients.
+10 (F) The center is located on the same premises as a State-licensed
+11 medical facility or provider or shares facility space with a State-licensed
+12 medical provider.
+13 (7) “Premises” means land and improvements or appurtenances or any
+14 part thereof.
+15 “health care services” means services for the diagnosis, prevention, treatment,
+16 cure, or relief of a physical, dental, behavioral, or mental health condition or
+17 substance use disorder, including counseling, procedures, products, devices,
+18 and medications.
+19 § 2493. UNFAIR AND DECEPTIVE ACT
+20 (a) It is an unfair and deceptive act and practice in commerce and a
+21 violation of section 2453 of this title for any limited-services pregnancy center
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 7 of 34
+1 person to disseminate or cause to be disseminated to the public any advertising
+2 about the health care services or proposed services performed at that center in
+3 this State that is untrue or clearly designed to mislead the public about the
+4 nature of the services provided. Advertising includes representations made
+5 directly to consumers; marketing practices; communication in any print
+6 medium, such as newspapers, magazines, mailers, or handouts; and any
+7 broadcast medium, such as television or radio, telephone marketing, or
+8 advertising over the Internet internet such as through websites and, web ads
+9 advertisements, and social media. For purposes of this chapter, advertising or
+10 the provision of services by a limited-services pregnancy center about health
+11 care services is an act in commerce.
+12 (b) Health care providers certified, registered, or licensed under Title 26 of
+13 the Vermont Statutes Annotated who are employed by, contracted to provide
+14 services for or on behalf of, or volunteer to provide services at a limited-
+15 services pregnancy center shall be responsible for conducting and providing
+16 health care services, information, and counseling at the center. The failure of a
+17 health care professional certified, registered, or licensed under Title 26 of the
+18 Vermont Statutes Annotated to conduct or to ensure that health care services,
+19 information, and counseling at the limited-services pregnancy services center
+20 are conducted in accordance with State law and professional standards of
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 8 of 34
+1 practice may constitute unprofessional conduct under 3 V.S.A. § 129a and 26
+2 V.S.A. § 1354. [Repealed.]
+3 (c) The Attorney General has the same authority to make rules, conduct
+4 civil investigations, and bring civil actions with respect to violations of
+5 subsection (a) of this section as provided under subchapter 1 of this chapter.
+6 Sec. 2. 18 V.S.A. § 5222 is amended to read:
+7 § 5222. REPORTS
+8 (a)(1) The following fetal deaths shall be reported by the hospital,
+9 physician, or funeral director directly to the Commissioner within seven days
+10 after delivery on forms prescribed by the Department:
+11 (1)(A) All fetal deaths of 20 or more weeks of gestation or, if
+12 gestational age is unknown, of 400 or more grams, 15 or more ounces, fetal
+13 weight shall be reported.
+14 (2)(B) All therapeutic or induced abortions, as legally authorized to be
+15 performed, of any length gestation or weight shall be reported.
+16 (3)(2) Spontaneous abortions and ectopic pregnancies of less than 20
+17 weeks gestation are not required to be reported.
+18 (b) The physician who treats a woman as a result of a miscarriage or
+19 abortion shall report the fetal death if it is not known to be previously reported
+20 under subsection (a) of this section. If there is evidence of violence or other
+21 unusual or suspicious circumstances, the medical examiner shall be
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 9 of 34
+1 immediately notified, and he or she the medical examiner shall complete at
+2 least the medical items on the report. If a funeral director is to be involved,
+3 the physician may delegate to the funeral director the responsibility for
+4 completing items other than those of a medical nature. Similarly, the
+5 physician may delegate the responsibility for completion of nonmedical items
+6 to appropriate personnel having access to records containing the information.
+7 (c) If a fetal death occurs on a moving conveyance, the place of occurrence
+8 shall be given as the town or city where removal from the vehicle took place.
+9 (d) Fetal death reports made pursuant to subsection (a) of this section are
+10 for statistical purposes only and are not public records. They shall be kept
+11 confidential and shall be destroyed after five years.
+12 Sec. 3. 26 V.S.A. § 1354 is amended to read:
+13 § 1354. UNPROFESSIONALCONDUCT
+14 (a) Prohibited conduct. The Board shall find that any one of the following,
+15 or any combination of the following, whether the conduct at issue was
+16 committed within or outside the State, constitutes unprofessional conduct:
+17 * * *
+18 (2) all advertising of health care services or a medical business that is
+19 intended or has a tendency to confuse, mislead, or deceive the public or
+20 impose upon credulous or ignorant persons and so be harmful or injurious to
+21 public morals or safety;
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 10 of 34
+1 * * *
+2 (21)(A) permitting one’s name or license to be used by a person, group,
+3 or corporation when not actually in charge of or responsible for the treatment
+4 given or other health care services provided;
+5 (B) failing to provide active oversight over treatment or other health
+6 care services that are provided using or relying upon the licensee’s name or
+7 license;
+8 (C) failing to actively monitor the education, training, and experience of
+9 individuals providing treatment or other health care services that are provided
+10 using or relying upon the licensee’s name or license; or
+11 (D) failing to review and approve information about treatment or health
+12 care services that are provided using or relying upon the licensee’s name or
+13 license prior to communication of the information to users or potential users of
+14 the treatment or services;
+15 * * *
+16 (29) delegation of professional responsibilities, including delivery of
+17 any health care services, to a person whom the licensed professional knows, or
+18 has reason to know, is not qualified by training, experience, education, or
+19 licensing credentials to perform them;
+20 * * *
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 11 of 34
+1 (33)(A) providing, prescribing, dispensing, or furnishing medical
+2 services or prescription medication or prescription-only devices to a person in
+3 response to any communication transmitted or received by computer or other
+4 electronic means, when the licensee fails to take the following actions to
+5 establish and maintain a proper physician-patient relationship:
+6 (i) a reasonable effort to verify that the person requesting
+7 medication is in fact the patient, and is in fact who the person claims to be;
+8 (ii) establishment of documented diagnosis through the use of
+9 accepted medical practices; and
+10 (iii) maintenance of a current medical record;
+11 (B) for the purposes of this subdivision (33), an electronic, on-line
+12 online, or telephonic evaluation by questionnaire is inadequate for the initial
+13 evaluation of the patient, except as otherwise provided in subdivision (C)(iv)
+14 of this subdivision (33);
+15 (C) the following would not be in violation of this subdivision (33) if
+16 transmitted or received by computer or other electronic means:
+17 (i) initial admission orders for newly hospitalized patients;
+18 (ii) prescribing for a patient of another physician for whom the
+19 prescriber has taken the call;
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 12 of 34
+1 (iii) prescribing for a patient examined by a licensed advanced
+2 practice registered nurse, physician assistant, or other advanced practitioner
+3 authorized by law and supported by the physician;
+4 (iv) in furtherance of 18 V.S.A. chapter 223, prescribing
+5 medication for an individual to terminate the individual’s pregnancy based on
+6 an adaptive questionnaire that allows the licensee to obtain additional medical
+7 history and ask follow-up questions as needed;
+8 (v) continuing medication on a short-term basis for a new patient,
+9 prior to the patient’s first appointment; or
+10 (v)(vi) emergency situations where life or health of the patient is
+11 in imminent danger;
+12 * * *
+13 (b) Failure to practice competently. The Board may also find that failure to
+14 practice competently by reason of any cause on a single occasion or on
+15 multiple occasions constitutes unprofessional conduct. Failure to practice
+16 competently includes, as determined by the Board:
+17 (1) performance of unsafe or unacceptable patient care; or
+18 (2) failure to conform to the essential standards of acceptable and
+19 prevailing practice.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 13 of 34
+1 (c) Burden of proof. The burden of proof in a disciplinary action shall be
+2 on the State to show by a preponderance of the evidence that the person has
+3 engaged in unprofessional conduct.
+4 (d)(1) Health care providers. Notwithstanding any other law to the
+5 contrary, no health care provider who is certified, registered, or licensed in
+6 Vermont shall be subject to professional disciplinary action by the Board, nor
+7 shall the Board take adverse action on an application for certification,
+8 registration, or licensure of a qualified health care provider, based solely on:
+9 (A)(1) the health care provider providing or assisting in the provision of
+10 legally protected health care activity; or
+11 (B)(2) a criminal, civil, or disciplinary action in another state against the
+12 health care provider that is based solely on the provider providing or assisting
+13 in the provision of legally protected health care activity.
+14 (2)(e) Definitions. As used in this subsection section:
+15 (A)(1) “Health care provider” means a person who provides
+16 professional health care services to an individual during that individual’s
+17 medical care, treatment, or confinement.
+18 (B)(2) “Health care services” means services for the diagnosis,
+19 prevention, treatment, cure, or relief of a physical or mental health condition,
+20 including counseling, procedures, products, devices, and medications.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 14 of 34
+1 (C)(3) “Legally protected health care activity” has the same meaning as
+2 in 1 V.S.A. § 150.
+3 Sec. 4. 26 V.S.A. § 1582 is amended to read:
+4 § 1582. REGULATORY AUTHORITY; UNPROFESSIONALCONDUCT
+5 (a) The Board may deny an application for licensure, renewal, or
+6 reinstatement; revoke or suspend any license to practice issued by it; or
+7 discipline or in other ways condition the practice of an applicant or licensee
+8 upon due notice and opportunity for hearing if the person engages in the
+9 following conduct or the conduct set forth in 3 V.S.A. § 129a:
+10 * * *
+11 (3) engaging in conduct of a character likely to confuse, mislead,
+12 deceive, defraud, or harm the public;
+13 * * *
+14 (9)(A) permitting one’s name or license to be used by a person, group,
+15 or corporation when not actually in charge of or responsible for the treatment
+16 given or other health care services provided;
+17 (B) failing to provide active oversight over treatment or other health
+18 care services that are provided using or relying upon the licensee’s name or
+19 license;
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 15 of 34
+1 (C) failing to actively monitor the education, training, and experience of
+2 individuals providing treatment or other health care services that are provided
+3 using or relying upon the licensee’s name or license; or
+4 (D) failing to review and approve information about treatment or health
+5 care services that are provided using or relying upon the licensee’s name or
+6 license prior to communication of the information to users or potential users of
+7 the treatment or services;
+8 * * *
+9 (c) As used in this section, “health services” means services for the
+10 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+11 condition, including counseling, procedures, products, devices, and
+12 medications.
+13 * * *
+14 Sec. 5. 26 V.S.A. § 1615 is amended to read:
+15 § 1615. ADVANCED PRACTICE REGISTERED NURSES;
+16 REGULATORY AUTHORITY; UNPROFESSIONALCONDUCT
+17 (a) In addition to the provisions of 3 V.S.A. § 129a and section 1582 of this
+18 chapter, the Board may deny an application for licensure, renewal, or
+19 reinstatement or may revoke, suspend, or otherwise discipline an advanced
+20 practice registered nurse upon due notice and opportunity for hearing if the
+21 person engages in the following conduct:
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 16 of 34
+1 * * *
+2 (6) Providing Except as otherwise provided in subsection (b) of this
+3 section, providing, prescribing, dispensing, or furnishing medical services or
+4 prescription medication or prescription-only devices to a person in response to
+5 any communication transmitted or received by computer or other electronic
+6 means when the licensee fails to take the following actions to establish and
+7 maintain a proper provider-patient relationship:
+8 (A) a reasonable effort to verify that the person requesting
+9 medication is in fact the patient and is in fact who the person claims to be;
+10 (B) establishment of documented diagnosis through the use of
+11 accepted medical practices; and
+12 (C) maintenance of a current medical record.
+13 * * *
+14 (13)(A) Permitting one’s name or license to be used by a person, group,
+15 or corporation when not actually in charge of or responsible for the treatment
+16 given or other health care services provided;
+17 (B) failing to provide active oversight over treatment or other health
+18 care services that are provided using or relying upon the APRN’s name or
+19 license;
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 17 of 34
+1 (C) failing to actively monitor the education, training, and experience
+2 of individuals providing treatment or other health care services that are
+3 provided using or relying upon the APRN’s name or license; or
+4 (D) failing to review and approve information about treatment or
+5 health care services that are provided using or relying upon the APRN’s name
+6 or license prior to communication of the information to users or potential users
+7 of the treatment or services.
+8 (b)(1) For the purposes of subdivision (a)(6) of this section, an electronic,
+9 online, or telephonic evaluation by questionnaire is inadequate for the initial
+10 evaluation of the patient, except as otherwise provided in subdivision (2)(D) of
+11 this subsection.
+12 (2) The following would not be in violation of subdivision (a)(6) of this
+13 section:
+14 (A) initial admission orders for newly hospitalized patients;
+15 (B) prescribing for a patient of another provider for whom the
+16 prescriber has taken call;
+17 (C) prescribing for a patient examined by a licensed APRN,
+18 physician assistant, or other practitioner authorized by law and supported by
+19 the APRN;
+20 (D) in furtherance of 18 V.S.A. chapter 223, prescribing medication
+21 for an individual to terminate the individual’s pregnancy based on an adaptive
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 18 of 34
+1 questionnaire that allows the licensee to obtain additional medical history and
+2 ask follow-up questions as needed;
+3 (E) continuing medication on a short-term basis for a new patient
+4 prior to the patient’s first appointment; or
+5 (E)(F) emergency situations where the life or health of the patient is
+6 in imminent danger.
+7 (c) As used in this section, “health services” means services for the
+8 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+9 condition, including counseling, procedures, products, devices, and
+10 medications.
+11 Sec. 6. 26 V.S.A. § 1736 is amended to read:
+12 § 1736. UNPROFESSIONALCONDUCT
+13 (a) The following conduct and the conduct described in section 1354 of
+14 this title by a licensed physician assistant shall constitute unprofessional
+15 conduct; when that conduct is by an applicant or person who later becomes an
+16 applicant, it may constitute grounds for denial of licensure:
+17 * * *
+18 (2) occupational advertising or advertising about health care services
+19 that is intended or has a tendency to confuse, mislead, or deceive the public;
+20 (3) exercising undue influence on or taking improper advantage of a
+21 person using the individual’s services, or promoting the sale of professional
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 19 of 34
+1 goods or services in a manner that exploits a person for the financial gain of
+2 the practitioner or of a third party;
+3 (4) failing to comply with provisions of federal or state statutes or rules
+4 governing the profession;
+5 (5) conviction of a crime related to the profession; and
+6 (6) conduct that evidences unfitness to practice in the profession.
+7 * * *
+8 (d) As used in this section, “health services” means services for the
+9 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+10 condition, including counseling, procedures, products, devices, and
+11 medications.
+12 Sec. 7. 26 V.S.A. § 1842 is amended to read:
+13 § 1842. UNPROFESSIONALCONDUCT
+14 (a) A person licensed as an osteopathic physician under this chapter shall
+15 not engage in unprofessional conduct. If such conduct is committed by an
+16 applicant, it shall be grounds for denial of a license.
+17 (b) Unprofessional conduct means the following conduct and conduct set
+18 forth in 3 V.S.A. § 129a:
+19 * * *
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 20 of 34
+1 (9) Delegating professional responsibilities, including the delivery of
+2 health care services, to a person who whom the licensee knows or has reason
+3 to know is not qualified by training, experience, or licensure to perform them.
+4 * * *
+5 (14)(A) Permitting one’s name or license to be used by a person, group,
+6 or corporation when not actually in charge of or responsible for the treatment
+7 or other health care services provided;
+8 (B) failing to provide active oversight over treatment or other health
+9 care services that are provided using or relying upon the licensee’s name or
+10 license;
+11 (C) failing to actively monitor the education, training, and experience
+12 of individuals providing treatment or other health care services that are
+13 provided using or relying upon the licensee’s name or license; or
+14 (D) failing to review and approve information about treatment or
+15 health care services that are provided using or relying upon the licensee’s
+16 name or license prior to communication of the information to users or potential
+17 users of the treatment or services.
+18 (c) As used in this section, “health services” means services for the
+19 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+20 condition, including counseling, procedures, products, devices, and
+21 medications.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 21 of 34
+1 Sec. 8. 26 V.S.A. § 2024 is added to read:
+2 § 2024. CONFIDENTIALITY OF PRESCRIBER INFORMATION ON
+3 MEDICATIONS FOR LEGALLY PROTECTED HEALTH CARE
+4 ACTIVITY
+5 (a) As used in this section, “gender-affirming health care services” and
+6 “reproductive health care services” have the same meanings as in 1 V.S.A.
+7 § 150.
+8 (b) Upon the request of a prescribing practitioner and to the extent not
+9 expressly prohibited under federal law, a pharmacist shall not list the
+10 practitioner’s name on a fulfilled prescription for medication for gender-
+11 affirming health care services or reproductive health care services but shall
+12 instead list the name of the facility at which the practitioner is employed or is a
+13 contract employee.
+14 (c) Nothing in this chapter or the rules governing the pharmacy profession
+15 shall be construed to require a pharmacist to list the prescribing practitioner’s
+16 name on a fulfilled prescription for medication for gender-affirming health
+17 care services or reproductive health care services.
+18 Sec. 9. 26 V.S.A. § 4132 is amended to read:
+19 § 4132. UNPROFESSIONALCONDUCT
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 22 of 34
+1 (a) The following conduct and conduct set forth in 3 V.S.A. § 129a by a
+2 person licensed as a naturopathic physician under this chapter or an applicant
+3 for licensure constitutes unprofessional conduct:
+4 * * *
+5 (12) Delegating professional responsibilities, including the delivery of
+6 health care services, to a person whom the licensee knows or has reason to
+7 know is not qualified by training, experience, or licensure to perform them.
+8 (13)(A) Permitting one’s name or license to be used by a person, group,
+9 or corporation when not actually in charge of or responsible for the treatment
+10 or other health care services provided;
+11 (B) failing to provide active oversight over treatment or other health
+12 care services that are provided using or relying upon the licensee’s name or
+13 license;
+14 (C) failing to actively monitor the education, training, and experience
+15 of individuals providing treatment or other health care services that are
+16 provided using or relying upon the licensee’s name or license; or
+17 (D) failing to review and approve information about treatment or
+18 health care services that are provided using or relying upon the licensee’s
+19 name or license prior to communication of the information to users or potential
+20 users of the treatment or services.
+21 * * *
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 23 of 34
+1 (e) As used in this section, “health services” means services for the
+2 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+3 condition, including counseling, procedures, products, devices, and
+4 medications.
+5 Sec. 10. EFFECTIVE DATE
+6 This act shall take effect on passage.
+Sec. 1. 1 V.S.A. § 317(c) is amended to read:
+(c) The following public records are exempt from public inspection and
+copying:
+* * *
+(44) Records held by the Office of Professional Regulation, Board of
+Medical Practice, or another public agency that issues one or more licenses,
+certificates, or registrations to engage in a State-regulated profession or
+occupation if the records contain the telephone number, email address,
+physical address, or mailing address, or a combination of these, of an
+individual who has applied for or has been granted a license, certificate, or
+registration to practice a profession or occupation in this State, except that the
+public agency shall disclose any address that the individual has designated as
+a public address in the record.
+Sec. 2. 3 V.S.A. § 129a is amended to read:
+
+Section 2:
+§ 129a. UNPROFESSIONAL CONDUCT
+(a) In addition to any other provision of law, the following conduct by a
+licensee constitutes unprofessional conduct. When that conduct is by an
+applicant or person who later becomes an applicant, it may constitute grounds
+for denial of a license or other disciplinary action. Any one of the following
+items or any combination of items, whether the conduct at issue was committed
+within or outside the State, shall constitute unprofessional conduct:
+(1) Fraudulent or deceptive procurement or use of a license.
+(2) Advertising, including advertising about health care services, that is
+intended or has a tendency to deceive or mislead.
+* * *
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 24 of 34
+(6) Delegating professional responsibilities, including the delivery of
+health care services, to a person whom the licensed professional knows, or has
+reason to know, is not qualified by any combination of training, experience,
+education, or licensing credentials to perform them, or knowingly providing
+professional supervision or serving as a preceptor to a person who has not
+been licensed or registered as required by the laws of that person’s profession.
+* * *
+(21) Permitting one’s name or license to be used by a person, group, or
+corporation when not actually in charge of or responsible for, or actively
+overseeing the professional services provided.
+* * *
+(f)(1) Health care providers. Notwithstanding subsection (e) of this section
+or any other law to the contrary, no health care provider who is certified,
+registered, or licensed in Vermont shall be subject to professional disciplinary
+action by a board or the Director, nor shall a board or the Director take
+adverse action on an application for certification, registration, or licensure of
+a qualified health care provider, based solely on:
+* * *
+(2) Definitions. As used in this subsection:
+* * *
+(B) “Health care services” means services for the diagnosis,
+prevention, treatment, cure, or relief of a physical or mental health condition,
+including counseling, procedures, products, devices, and medications.
+* * *
+Sec. 3. 9 V.S.A. chapter 63, subchapter 11 is amended to read:
+Subchapter 11. Pregnancy Services Centers Health Care Services
+
+Section 3:
+§ 2491. FINDINGS; LEGISLATIVE INTENT
+(a) Findings. The General Assembly finds that:
+(1) Centers that seek to counsel clients against abortion, often referred
+to as crisis pregnancy centers or limited-services pregnancy centers, have
+become common across the country, including in Vermont. Accurate
+information about the services that a limited-services pregnancy center
+performs, in addition to forthright acknowledgement of its limitations, is
+essential to enable individuals in this State to make informed decisions about
+their care. This includes individuals being informed of whether they are
+receiving services from a licensed and qualified health care provider at a
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 25 of 34
+limited-services pregnancy center, as this allows individuals to determine if
+they need to seek medical care elsewhere in order to continue or terminate a
+pregnancy.
+(2) Although some limited-services pregnancy centers openly
+acknowledge in their advertising, on their websites, and at their facilities that
+they neither provide abortions nor refer clients to other providers of abortion
+services, others provide confusing and misleading information to pregnant
+individuals contemplating abortion by leading those individuals to believe that
+their facilities offer abortion services and unbiased counseling. Some limited-
+services pregnancy centers have promoted patently false or biased medical
+claims about abortion, pregnancy, contraception, and reproductive health care
+providers.
+(3) False and misleading advertising by centers that do not offer or
+refer clients for abortion is of special concern to the State because of the time-
+sensitive and constitutionally protected nature of the decision to continue or
+terminate a pregnancy. When a pregnant individual is misled into believing
+that a center offers services that it does not in fact offer or receives false or
+misleading information regarding health care options, the individual loses time
+crucial to the decision whether to terminate a pregnancy and may lose the
+option to choose a particular method or to terminate a pregnancy at all.
+(4) Telling the truth is how trained health care providers demonstrate
+respect for patients, foster trust, promote self-determination, and cultivate an
+environment where best practices in shared decision-making can flourish.
+Without veracity in information and communication, it is difficult for
+individuals to make informed, voluntary choices that are essential to one’s
+sense of personal agency and autonomy.
+(5)(2) Advertising strategies and educational information about health
+care options that lack transparency, use misleading or ambiguous terminology,
+misrepresent or obfuscate services provided, or provide factually inaccurate
+information are a form of manipulation that disrespects individuals,
+undermines trust, broadens health disparity, and can result in patient harm.
+(b) Intent.
+(1) It is the intent of the General Assembly to ensure that the public is
+provided with accurate, factual information about the types of health care
+services that are available to pregnant individuals in this State. The General
+Assembly respects the constitutionally protected right of each individual to
+personal reproductive autonomy, which includes the right to receive clear,
+honest, and nonmisleading information about the individual’s options and to
+make informed, voluntary choices after considering all relevant information.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 26 of 34
+(2) The General Assembly respects the right of limited-services
+pregnancy centers to counsel individuals against abortion, and nothing in this
+subchapter should be construed to regulate, limit, or curtail such advocacy.
+
+Section 4:
+§ 2492. DEFINITIONS DEFINITION
+As used in this subchapter:,
+(1) “Abortion” means any medical treatment intended to induce the
+termination of, or to terminate, a clinically diagnosable pregnancy except for
+the purpose of producing a live birth.
+(2) “Client” means an individual who is inquiring about or seeking
+services at a pregnancy services center.
+(3) “Emergency contraception” means any drug approved by the U.S.
+Food and Drug Administration as a contraceptive method for use after sexual
+intercourse, whether provided over the counter or by prescription.
+(4) “Health information” means any oral or written information in any
+form or medium that relates to health insurance or the past, present, or future
+physical or mental health or condition of a client.
+(5) “Limited-services pregnancy center” means a pregnancy services
+center that does not directly provide, or provide referrals to clients for,
+abortions or emergency contraception.
+(6) “Pregnancy services center” means a facility, including a mobile
+facility, where the primary purpose is to provide services to individuals who
+are or may be pregnant and that either offers obstetric ultrasounds, obstetric
+sonograms, or prenatal care to pregnant individuals or has the appearance of
+a medical facility. A pregnancy services center has the appearance of a
+medical facility if two or more of the following factors are present:
+(A) The center offers pregnancy testing or pregnancy diagnosis, or
+both.
+(B) The center has staff or volunteers who wear medical attire or
+uniforms.
+(C) The center contains one or more examination tables.
+(D) The center contains a private or semiprivate room or area
+containing medical supplies or medical instruments.
+(E) The center has staff or volunteers who collect health information
+from clients.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 27 of 34
+(F) The center is located on the same premises as a State-licensed
+medical facility or provider or shares facility space with a State-licensed
+medical provider.
+(7) “Premises” means land and improvements or appurtenances or any
+part thereof “health care services” means services for the diagnosis,
+prevention, treatment, cure, or relief of a physical, dental, behavioral, or
+mental health condition or substance use disorder, including counseling,
+procedures, products, devices, and medications.
+
+Section 5:
+§ 2493. UNFAIR AND DECEPTIVE ACT
+(a) It is an unfair and deceptive act and practice in commerce and a
+violation of section 2453 of this title for any limited-services pregnancy center
+person to disseminate or cause to be disseminated to the public any advertising
+about the health care services or proposed services performed at that center in
+this State that is untrue or clearly designed to mislead the public about the
+nature of the services provided. Advertising includes representations made
+directly to consumers; marketing practices; communication in any print
+medium, such as newspapers, magazines, mailers, or handouts; and any
+broadcast medium, such as television or radio, telephone marketing, or
+advertising over the Internet internet such as through websites and, web ads
+advertisements, and social media. For purposes of this chapter, advertising or
+the provision of services by a limited-services pregnancy center about health
+care services is an act in commerce.
+(b) Health care providers certified, registered, or licensed under Title 26 of
+the Vermont Statutes Annotated who are employed by, contracted to provide
+services for or on behalf of, or volunteer to provide services at a limited-
+services pregnancy center shall be responsible for conducting and providing
+health care services, information, and counseling at the center. The failure of
+a health care professional certified, registered, or licensed under Title 26 of the
+Vermont Statutes Annotated to conduct or to ensure that health care services,
+information, and counseling at the limited-services pregnancy services center
+are conducted in accordance with State law and professional standards of
+practice may constitute unprofessional conduct under 3 V.S.A. § 129a and 26
+V.S.A. § 1354. [Repealed.]
+(c) The Attorney General has the same authority to make rules, conduct
+civil investigations, and bring civil actions with respect to violations of
+subsection (a) of this section as provided under subchapter 1 of this chapter.
+Sec. 4. 18 V.S.A. § 4999 is amended to read:
+
+Section 6:
+§ 4999. DEFINITIONS
+As used in this part:
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 28 of 34
+* * *
+(2) “Licensed health care professional,” as used in 18 V.S.A. chapter
+107, means a physician, a physician assistant, a naturopathic physician, or an
+advanced practice registered nurse. As used in chapter 107 of this part only,
+the term also includes a naturopathic physician.
+* * *
+Sec. 5. 18 V.S.A. § 5200 is amended to read:
+
+Section 7:
+§ 5200. DEFINITIONS
+As used in this chapter:
+* * *
+(4) “Licensed health care professional” means a physician, a physician
+assistant, a naturopathic physician, or an advanced practice registered nurse.
+(5) “Natural organic reduction” has the same meaning as in section
+5302 of this title.
+Sec. 6. 18 V.S.A. § 5222 is amended to read:
+
+Section 8:
+§ 5222. REPORTS
+(a)(1) The following fetal deaths shall be reported by the hospital,
+physician licensed health care professional, or funeral director directly to the
+Commissioner within seven days after delivery on forms prescribed by the
+Department:
+(1)(A) All fetal deaths of 20 or more weeks of gestation or, if gestational
+age is unknown, of 400 or more grams, 15 or more ounces, fetal weight shall
+be reported.
+(2)(B) All therapeutic or induced abortions, as legally authorized to be
+performed, of any length gestation or weight shall be reported.
+(3)(2) Spontaneous abortions and ectopic pregnancies of less than 20
+weeks gestation are not required to be reported.
+(b) The physician licensed health care professional who treats a woman as
+a result of a miscarriage or abortion shall report the fetal death if it is not
+known to be previously reported under subsection (a) of this section. If there is
+evidence of violence or other unusual or suspicious circumstances, the medical
+examiner shall be immediately notified, and he or she the medical examiner
+shall complete at least the medical items on the report. If a funeral director is
+to be involved, the physician licensed health care professional may delegate to
+the funeral director the responsibility for completing items other than those of
+a medical nature. Similarly, the physician licensed health care professional
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 29 of 34
+may delegate the responsibility for completion of nonmedical items to
+appropriate personnel having access to records containing the information.
+(c) If a fetal death occurs on a moving conveyance, the place of occurrence
+shall be given as the town or city where removal from the vehicle took place.
+(d) Fetal death reports Reports made pursuant to this section are for
+statistical purposes only and are not public records. They shall be kept
+confidential; shall not be disclosed or discoverable in any civil, criminal,
+administrative, or other proceeding; and shall be destroyed after five two
+years.
+Sec. 7. 26 V.S.A. § 1354 is amended to read:
+
+Section 9:
+§ 1354. UNPROFESSIONAL CONDUCT
+(a) Prohibited conduct. The Board shall find that any one of the following,
+or any combination of the following, whether the conduct at issue was
+committed within or outside the State, constitutes unprofessional conduct:
+* * *
+(2) all advertising of about health care services or a medical business
+that is intended or has a tendency to mislead or deceive the public or impose
+upon credulous or ignorant persons and so be harmful or injurious to public
+morals or safety;
+* * *
+(21) permitting one’s name or license to be used by a person, group, or
+corporation when not actually in charge of, or responsible for, or actively
+overseeing the treatment given or other health care services provided;
+* * *
+(29) delegation of professional responsibilities, including delivery of any
+health care services, to a person whom the licensed professional knows, or has
+reason to know, is not qualified by any combination of training, experience,
+education, or licensing credentials to perform them;
+* * *
+(33)(A) providing, prescribing, dispensing, or furnishing medical
+services or prescription medication or prescription-only devices to a person in
+response to any communication transmitted or received by computer or other
+electronic means, when the licensee fails to take the following actions to
+establish and maintain a proper physician-patient relationship:
+(i) a reasonable effort to verify that the person requesting
+medication is in fact the patient, and is in fact who the person claims to be;
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 30 of 34
+(ii) establishment of documented diagnosis through the use of
+accepted medical practices; and
+(iii) maintenance of a current medical record;
+(B) for the purposes of this subdivision (33), an electronic, on-line
+online, or telephonic evaluation by questionnaire is inadequate for the initial
+evaluation of the patient, except as otherwise provided in subdivision (C)(iv) of
+this subdivision (33);
+(C) the following would not be in violation of this subdivision (33) if
+transmitted or received by computer or other electronic means:
+(i) initial admission orders for newly hospitalized patients;
+(ii) prescribing for a patient of another physician for whom the
+prescriber has taken the call;
+(iii) prescribing for a patient examined by a licensed advanced
+practice registered nurse, physician assistant, or other advanced practitioner
+authorized by law and supported by the physician;
+(iv) in furtherance of 18 V.S.A. chapter 223, prescribing
+medication for an individual to terminate the individual’s pregnancy based on
+an adaptive questionnaire that allows the licensee to obtain additional medical
+history and ask follow-up questions as needed;
+(v) continuing medication on a short-term basis for a new patient,
+prior to the patient’s first appointment; or
+(v)(vi) emergency situations where life or health of the patient is
+in imminent danger;
+* * *
+(b) Failure to practice competently. The Board may also find that failure
+to practice competently by reason of any cause on a single occasion or on
+multiple occasions constitutes unprofessional conduct. Failure to practice
+competently includes, as determined by the Board:
+(1) performance of unsafe or unacceptable patient care; or
+(2) failure to conform to the essential standards of acceptable and
+prevailing practice.
+(c) Burden of proof. The burden of proof in a disciplinary action shall be
+on the State to show by a preponderance of the evidence that the person has
+engaged in unprofessional conduct.
+(d)(1) Health care providers. Notwithstanding any other law to the
+contrary, no health care provider who is certified, registered, or licensed in
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 31 of 34
+Vermont shall be subject to professional disciplinary action by the Board, nor
+shall the Board take adverse action on an application for certification,
+registration, or licensure of a qualified health care provider, based solely on:
+(A)(1) the health care provider providing or assisting in the provision of
+legally protected health care activity; or
+(B)(2) a criminal, civil, or disciplinary action in another state against
+the health care provider that is based solely on the provider providing or
+assisting in the provision of legally protected health care activity.
+(2)(e) Definitions. As used in this subsection section:
+(A)(1) “Health care provider” means a person who provides
+professional health care services to an individual during that individual’s
+medical care, treatment, or confinement.
+(B)(2) “Health care services” means services for the diagnosis,
+prevention, treatment, cure, or relief of a physical or mental health condition,
+including counseling, procedures, products, devices, and medications.
+(C)(3) “Legally protected health care activity” has the same meaning as
+in 1 V.S.A. § 150.
+Sec. 8. 26 V.S.A. § 1615 is amended to read:
+
+Section 10:
+§ 1615. ADVANCED PRACTICE REGISTERED NURSES;
+REGULATORY AUTHORITY; UNPROFESSIONAL CONDUCT
+(a) In addition to the provisions of 3 V.S.A. § 129a and section 1582 of this
+chapter, the Board may deny an application for licensure, renewal, or
+reinstatement or may revoke, suspend, or otherwise discipline an advanced
+practice registered nurse upon due notice and opportunity for hearing if the
+person engages in the following conduct:
+* * *
+(6) Providing Except as otherwise provided in subsection (b) of this
+
+Section 11:
+section, providing, prescribing, dispensing, or furnishing medical services or
+prescription medication or prescription-only devices to a person in response to
+any communication transmitted or received by computer or other electronic
+means when the licensee fails to take the following actions to establish and
+maintain a proper provider-patient relationship:
+(A) a reasonable effort to verify that the person requesting
+medication is in fact the patient and is in fact who the person claims to be;
+(B) establishment of documented diagnosis through the use of
+accepted medical practices; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 32 of 34
+(C) maintenance of a current medical record.
+* * *
+(b)(1) For the purposes of subdivision (a)(6) of this section, an electronic,
+online, or telephonic evaluation by questionnaire is inadequate for the initial
+evaluation of the patient, except as otherwise provided in subdivision (2)(D) of
+this subsection.
+(2) The following would not be in violation of subdivision (a)(6) of this
+
+Section 12:
+section:
+(A) initial admission orders for newly hospitalized patients;
+(B) prescribing for a patient of another provider for whom the
+prescriber has taken call;
+(C) prescribing for a patient examined by a licensed APRN,
+physician assistant, or other practitioner authorized by law and supported by
+the APRN;
+(D) in furtherance of 18 V.S.A. chapter 223, prescribing medication
+for an individual to terminate the individual’s pregnancy based on an adaptive
+questionnaire that allows the licensee to obtain additional medical history and
+ask follow-up questions as needed;
+(E) continuing medication on a short-term basis for a new patient
+prior to the patient’s first appointment; or
+(E)(F) emergency situations where the life or health of the patient is
+in imminent danger.
+Sec. 9. 26 V.S.A. § 1658 is amended to read:
+
+Section 13:
+§ 1658. UNPROFESSIONAL CONDUCT
+(a) The following conduct and the conduct described in section 1354 of this
+title by a certified anesthesiologist assistant constitutes unprofessional
+conduct. When that conduct is by an applicant or person who later becomes
+an applicant, it may constitute grounds for denial of certification:
+* * *
+(17) delegating professional responsibilities to a person whom the
+certified professional knows, or has reason to know, is not qualified by any
+combination of training, experience, education, or licensing credentials to
+perform;
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 33 of 34
+* * *
+Sec. 10. 26 V.S.A. § 1736 is amended to read:
+
+Section 14:
+§ 1736. UNPROFESSIONAL CONDUCT
+(a) The following conduct and the conduct described in section 1354 of this
+title by a licensed physician assistant shall constitute unprofessional conduct;
+when that conduct is by an applicant or person who later becomes an
+applicant, it may constitute grounds for denial of licensure:
+* * *
+(2) occupational advertising or advertising about health care services
+that is intended or has a tendency to mislead or deceive the public;
+(3) exercising undue influence on or taking improper advantage of a
+person using the individual’s services, or promoting the sale of professional
+goods or services in a manner that exploits a person for the financial gain of
+the practitioner or of a third party;
+(4) failing to comply with provisions of federal or state statutes or rules
+governing the profession;
+(5) conviction of a crime related to the profession; and
+(6) conduct that evidences unfitness to practice in the profession.
+* * *
+(d) As used in this section, “health care services” means services for the
+diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+condition, including counseling, procedures, products, devices, and
+medications.
+Sec. 11. 26 V.S.A. § 2024 is added to read:
+
+Section 15:
+§ 2024. CONFIDENTIALITY OF PRESCRIBER INFORMATION ON
+MEDICATIONS FOR LEGALLY PROTECTED HEALTH CARE
+ACTIVITY
+(a) As used in this section, “gender-affirming health care services” and
+“reproductive health care services” have the same meanings as in 1 V.S.A.
+
+Section 16:
+§ 150.
+(b) Upon the request of a prescribing practitioner and to the extent not
+expressly prohibited under federal law, a pharmacist shall not list the
+practitioner’s name on a fulfilled prescription for medication for gender-
+affirming health care services or reproductive health care services but shall
+instead list the name of the facility at which the practitioner is employed or is
+a contract employee.
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 34 of 34
+(c) Nothing in this chapter or the rules governing the pharmacy profession
+shall be construed to require a pharmacist to list the prescribing practitioner’s
+name on a fulfilled prescription for medication for gender-affirming health
+care services or reproductive health care services.
+Sec. 12. 26 V.S.A. § 2858 is amended to read:
+
+Section 17:
+§ 2858. UNPROFESSIONAL CONDUCT
+(a) The following conduct and the conduct described in section 1354 of this
+title by a certified radiologist assistant constitutes unprofessional conduct.
+When that conduct is by an applicant or person who later becomes an
+applicant, it may constitute grounds for denial of certification:
+* * *
+(17) delegating professional responsibilities to a person whom the
+certified professional knows or has reason to know is not qualified by any
+combination of training, experience, education, or licensing credentials to
+perform;
+* * *
+Sec. 13. EFFECTIVE DATE
+This act shall take effect on passage.
+[DELETED: LASIDADPDBYSES5Pe1of3SIdbySsH,L,C,G,VyadWRdtoCeonHhadWD:Jy2,2S:H;hhcep;lypdhhclspyc;CrPnAulc;mna;fldhrStofpeofblasi:Tsblpstoedtpnonueormgagbyal0pycrurteCrPnAttoaytoayueo1mgagathhces.Itwdees2ryfrldhhcepswopessat3lspycrfrtesspdattecra4wdreleigttfetoeetessa5cdinaewhtelwcdceulc6Teblwdaocyadedtetsofasttcdb7cdulctfrp,pna8adperdn,adncpsurt9les.Teblwdeersonap0pna,oradperdnep1mntoteanispybdona]
+[DELETED: LASIDADPDBYSES5Pe2of3ecororoecnwhtei.ItwdasyttfldhrsrdbylwmtbektcAnatrgtoastocnlypdhhcesItishyedbyteGlAyofteSeofVS.1.9V.cr6,sr11isadtorSr1.PySsCsHhCeS§2.F;LEI()F.TeGlAyfst()Csttsktoclcsata,onr0toascspycsorlspyc,h1becnastec,iginV.A2inattessttalspyc3p,inantoftatofisl,i4eltoeeisintsSetomeiddsa5trc.Tsisisbgidofwrtya6rgssfmaldadqdhhceprat7lspyc,astsasistodei8tyndtoskmlceeeinortoceorte9p]
+[DELETED: LASIDADPDBYSES5Pe3of3()Ahselspycsoaeintra,ontrw,adattrfsttynrpeasnrrrcstoorpsofas,ospecgadmgintopiscganbylgteistobettrfsoranssadudc.Selsspycshepdpyfeorbdmcsata,p,c,adrehhcp0()Feadmgagbycsttdontororr1csfranisofslcntoteSebeoftet2seadcypdneoftedntoceo3teap.Wnaptilismdiob4ttacrosssttitdsntinftororrsfeo5mginrghhceo,teillst6cltotednwrtoteapyadmylet7ontoceaprmdortoteapyata8()Tgtethishwtdhhcepsd9rtfrp,frt,pes,adcea0etwebtpsinsddgcnf1Wtvyininadc,itisdtf]
+[DELETED: LASIDADPDBYSES5Pe4of3istomei,vycsttaeeltooseofplayada()Agssadelinathceosttlkt,uemgorastmtoroessp,orpefyiinaeafmofmnttdsiust,bshhd,adcnrtinpth()I()ItisteitofteGlAytoeetttepci0pdwha,flinattetsofhhc1ssttaeaetoptisintsS.TeG2Ayrstecypdrtofehilt3plrea,whisterttorec4h,adnginatteisosadt5mei,vycsarcgalrti6()TeGlAyrstertofl7pycstoclisata,adngint8srsdbecdtor,l,orclsha9§2.DSD0Asudintss]
+[DELETED: LASIDADPDBYSES5Pe5of3()“”msaymlttidtoiettno,ortot,acydepyetftepeofpgaleb()“”msanilwoisigatorsssatapyssc()“yc”msaydgadbyteUFdadDgAnasacemdfruearsi,wrpdortecrorbyp()“hi”msayolorwninina0fmormmttrstohhieortep,p,orf1plormlhhorcnofac2()“spyc”msapys3crttdsntdyp,orperstocsf4asoreyc5()“yssc”msaf,igam6f,wetepypeistopesstoisw7aeormybeptadtterosocu,o8s,orplcetoptisorhsteaeof9mlf.Apysscrhsteaeofam0fyiftoormeoftefgfsaep]
+[DELETED: LASIDADPDBYSES5Pe6of3()Tecrospytgorpyd,ob()Tecrhssforvswowrmlaeou()Tecrcsoeormeent()Tecrcsapeorsermoracgmlssormli()Tecrhssforvswocthhifmc0()TecrisldontesepsasaS1mlfyorprorssfysewhaS2mlp3()“”msldadisorasora4ptt5“hces”msssfrted,p,t6c,orrfofap,d,b,ormlhhcno7seued,igc,p,p,d8adm9§2.URADDEA0()Itisanuraddeatadpeincead1vnofsn23oftstefraylspyc]
+[DELETED: LASIDADPDBYSES5Pe7of3pntodeorcetobeddtotepcayaattehhcessorpdsspdatttcritsSettisueorcyddtomdtepcattneoftessp.Agisrsmdytoc;mgp;cninaypm,shasn,m,m,orh;adabtm,shastnorr,tem,oagorteItitshasthwsa,wbaa,adslm.Frpsoftsc,ago0tepnofssbyalspycrath1cessisanatinc2()Hhcepsc,r,orldurTe26o3teVtSsAdwoaeedb,cdtop4ssfroronbfo,orvrtopessatal5sspycrslberefrcgadp6hhces,i,adcgattec.Tefeof7hhceplc,r,orldurTe26oft8VtSsAdtoctortoeetthhces9i,adcgattelspyssc0aecdinaewhSelwadplsso]
+[DELETED: LASIDADPDBYSES5Pe8of3pemyceulctur3V.§1aad2V.§1.[()TeAyGlhsteseaytomer,ccli,adbgclaswhrttovsosn()oftssnaspdursr1oftscS.2.18V.§2isadtor§5.R()Tefgfldsslberdbytehp,orfldrdytoteCrwnsnd0ardyonfspdbyteD1()Alfldsof20ormewsofgno,i2glaeisu,of40ormeg,15ormeo,f3wtslber4()Altcorida,aslyadtob5p,ofaylhgnorwtslber6()Ssasadecpsoflstn27wsgnaentrdtober8()Tepnwotsawnasartofameo9anslrttefldhifitisntkntobepyr0ursn()oftss.Ifteiseeofveoro1ulorssc,temlerslb]
+[DELETED: LASIDADPDBYSES5Pe9of3iyn,adheorsetemlerslcealttemlisonter.Ifafldristobeitepnmydetotefldrteryfcgisortnteofamln.S,tpnmydeteryfrcnofnlitoaeplhgastorscgtei()Ifafldhosonamgc,tepeofoslbegnastetnorcywerlfmtevetkp()Fldhrsmepttosn()oftssna0frslpsoyadaentpcr.Tyslbek1cladslbeddarfey2S.3.26V.§4isadtor3§1.ULC4()Pdc.TeBdslfdttayoeoftef5oraycnoftef,wrtectatiew6cdwnoroeteS,csulc7**8()alagofhhcessoramlbstti9idorhsatytoc,m,ordetepco0ieuncsoritpsadsobehlorist1pcmsors]
+[DELETED: LASIDADPDBYSES5Pe10of3**()pgosneorletobeudbyap,gorcnwnntayinceoforrefrtetgnororhhcessp()fgtopeaeotorttororhcessttaepdugorrguntelsneol()fgtoaymrtee,t,adeeoispgttororhhcessttaep0ugorrguntelsneorl;o1()fgtorwadaeinatttorh2cessttaepdugorrguntelsneo3leprtocnofteintousorpluso4tettors5**6()dnofplr,igdyo7ayhhces,toapnwmteldplk,o8hsrntok,isntqdbyt,e,e,o9lgcstopmt0**]
+[DELETED: LASIDADPDBYSES5Pe11of3()p,p,d,orfgmssorpnmnorpydstoapniretoaycntdorrdbycroroecm,wntelefstotetefgastehadmnaprptr()areettovytttepnrmnisinfttep,adisinftwotepncstob()etofdddsthteueoadmlp;a0()meofactmlr1()frtepsoftssn(,ane,o2o,ortcenbyqeisiefrtei3enoftep,etasoepdinsn(4oftssn(5()tefgwdntbeinvnoftssn()i6tdorrdbycrororecm7()ilanosfrnyhdp8()pgfraptofarpnfrwmt9prhstntec]
+[DELETED: LASIDADPDBYSES5Pe12of3()pgfraptedbyaldaperdn,pna,ororadpadbylwadsdbytep()infeof18V.cr2,pmnfraniltoteteispybdoanaeqettasteletoonalmhyadakfpqsasn()cgmnonasmbsfranwpprtotepsfta;o0()eyssweleorhhoftepti1initd2**3()Fetopec.TeBdmyaofdttfet4pecybyrnofayceonaseonoro5meoscsulc.Fetop6cyi,asddbyteB7()peofueorueptc;o8()fetocmtoteelssofaea9pgp]
+[DELETED: LASIDADPDBYSES5Pe13of3()Bnofp.TebnofpfinadyanslbonteSetoswbyapeofteeetttepnhedinulc()Hhcep.Ngayorlwtotc,nohhceprwoisc,r,orldiVtslbesttopldyanbyteB,nslteBdteaeanonananfrcr,orleofaqdhhcep,bdsyo()tehhceprpgoragintepno0lypdhhcea;o1()ac,c,ordyaninarseatt2hhceprttisbdsyonteprpgora3intepnoflypdhhcea4()D.Asudintssns5()“hcep”msapnwop6plhhcesstoanildgtti7mlc,t,orc8()“hces”msssfrted9p,t,c,orrfofaplormlhhc0igc,p,p,d,adm]
+[DELETED: LASIDADPDBYSES5Pe14of3()“ypdhhcea”hstesemgain1V.§1S.4.26V.§2isadtor§1.RYA;ULC()TeBdmydyananfrl,r,or;reorsdayletopeidbyi;odeorinorwscntepeofanatorlundeneadoyfrhgiftepnesintfgctortectstfhin3V.§10**1()eginctofacrlytoc,m2d,d,orhmtep3**4()pgosneorletobeudbyap,g5orcnwnntayinceoforrefrtet6gnororhhcessp7()fgtopeaeotorttororh8cessttaepdugorrguntelsneo9l]
+[DELETED: LASIDADPDBYSES5Pe15of3()fgtoaymrtee,t,adeeoispgttororhhcessttaepugorrguntelsneorl;o()fgtorwadaeinatttorhcessttaepdugorrguntelsneoleprtocnofteintousorplusotettors**()Asudintss,“hs”msssfrt0d,p,t,c,orrfofaplormlh1c,igc,p,p,d,a2m3**4S.5.26V.§5isadtor5§1.ADPERDN6RYA;ULC7()Inantotepsof3V.§1aadsn12oft8c,teBdmydyananfrl,r,o9rtormyr,s,oroedeana0perdneundeneadoyfrhgift1pnesintefgc]
+[DELETED: LASIDADPDBYSES5Pe16of3**()PgEtasoepdinsn()ofts,p,p,d,orfgmlssopnmnorpydstoapninretaycntdorrdbycrororemswntelefstotetefgastoehamnaprptr()areettovytttepnrmnisinftteptadisinftwotepncstob0()etofdddsthteueo1admlp;a2()meofactmlr3**4()Pgosneorletobeudbyap,g5orcnwnntayinceoforrefrtet6gnororhhcessp7()fgtopeaeotorttororh8cessttaepdugorrgunteAsneo9l]
+[DELETED: LASIDADPDBYSES5Pe17of3()fgtoaymrtee,t,adeofispgttororhhcessttapdugorrgunteAsneorl;o()fgtorwadaeinatttohhcessttaepdugorrgunteAsnorleprtocnofteintousorpluoftettors()Frtepsofsn()oftss,aneo,ortcenbyqeisiefrtei0enoftep,etasoepdinsn()o1tss2()Tefgwdntbeinvnofsn()oft3s4()ilanosfrnyhdp5()pgfraptofarprfrwmt6prhstnc7()pgfraptedbyaldA8pna,ororpradbylwadsdb9teA0()infeof18V.cr2,pgm1franiltoteteispybdonana]
+[DELETED: LASIDADPDBYSES5Pe18of3qettasteletoonalmlhyaakfpqsasn()cgmnonasmbsfranwpprtotepsfta;o()eyssweteleorhhofteptiinitd()Asudintss,“hs”msssfrtd,p,t,c,orrfofaplormlhc,igc,p,p,d,a0m1S.6.26V.§6isadtor2§1.ULC3()Tefgctadtectddinsn14o4tstebyaldpnatslceu5c;wnttctisbyanatorpnwolrbsa6a,itmycegsfrdlofl7**8()olagoragathhces9ttisidorhsatytoc,m,ordetep0()egueieonortgiraeof1pnugteiss,orpgteseofp]
+[DELETED: LASIDADPDBYSES5Pe19of3gsorssinamrttesapnfrteflgnoteprorofatdp()fgtocywhpsofflorsessorrggtep()cnofacerdtotep;a()ctttesustopeintep**()Asudintss,“hs”msssfrtd,p,t,c,orrfofaplormlh0c,igc,p,p,d,a1m2S.7.26V.§2isadtor3§1.ULC4()Apnldasanocpnurtscrs5nteeinulc.Ifshctiscdbya6a,itslbegsfrdlofal7()Ulctmstefgctadcts8fhin3V.§19**]
+[DELETED: LASIDADPDBYSES5Pe20of3()Dgplr,igtedyohhces,toapnwowmteleksorhsrtokwisntqdbyt,e,orletopmt**()Pgosneorletobeudbyap,gorcnwnntayinceoforrefrtetororhhcessp()fgtopeaeotorttororhcessttaepdugorrguntelsneo0l1()fgtoaymrtee,t,ade2ofispgttororhhcesstta3pdugorrguntelsneorl;o4()fgtorwadaeinattto5hhcessttaepdugorrguntel6neorleprtocnofteintousorp7usoftettors8()Asudintss,“hs”msssfrt9d,p,t,c,orrfofaplormlh0c,igc,p,p,d,a1m]
+[DELETED: LASIDADPDBYSES5Pe21of3S.8.26V.§4isadtor§.CYOFPRINOMSFRLYPDHHCA()Asudintss,“ghhces”a“ehhces”hetesemsasin1V§()Untertofapgpradtoteetneypdurfll,aptslntltt0psneonafdpnfrmnfrg1aghhcessorrehhcessbts2idltteneoftefyatwhteprisedoris3cte4()Ngintscrortersggtepyp5slbecdtoreapttolttepgp6neonafdpnfrmnfrggh7cessorrehhces8S.9.26V.§2isadtor9§4.ULC]
+[DELETED: LASIDADPDBYSES5Pe22of3()Tefgctadctstfhin3V.§1abypnldasancpnurtscroranafrlecsulc**()Dgplr,igtedyohhces,toapnwmteleksorhsrntkwisntqdbyt,e,orletopmt()Pgosneorletobeudbyap,gorcnwnntayinceoforrefrtet0ororhhcessp1()fgtopeaeotorttororh2cessttaepdugorrguntelsneo3l4()fgtoaymrtee,t,ade5ofispgttororhhcesstta6pdugorrguntelsneorl;o7()fgtorwadaeinattto8hhcessttaepdugorrguntel9neorleprtocnofteintousorp0usoftettors1**]
+[DELETED: LASIDADPDBYSES5Pe23of3()Asudintss,“hs”msssfrtd,p,t,c,orrfofaplormlhc,igc,p,p,d,amS.1.EEDTsatslteetonp.1.1V.§)isadtor)Tefgpcrsaeetfmpcina*)RshdbyteOeofPlR,BdolP,orarpcayttisoeormel,orrstoeeinaSdpnonifterscnteten,elala,ormga,oracnoft,ofalwohsadfrorhsbngdal,c,ontopeapnoronintsS,ettttcaysldeayasttteilhsddapcasinter.2.3V.§aisadtor1.ULC)Inantoayorpnofl,tefgctbyecsulc.Wnttctisbyatorpnwolrbsana,itmycegrdlofaleorordya.Ayoeoftefsoraycnofi,wrtectatiewscnoroeteS,slceulc)Ftordeptorueofal)A,igagathhces,ttidorhsatytodeorm*]
+[DELETED: LASIDADPDBYSES5Pe24of3)Dgplr,igtedyohces,toapnwmteldplk,orhntok,isntqdbyaycnoft,e,orlgcstopmt,orkyplsnorsgasaprtoapnwohsnnldorrdasrdbytelsofttpsp*)Pgosneorletobeudbyap,g,onwnntayinceoforref,oragteplssp*)Hhcep.Ngsn()oftssrayorlwtotec,nohhceprwoisc,orldinVtslbesttopldnbyabdorteD,nrslabdorteDrteanonananfrc,r,orleoqdhhcep,bdsyo*)D.Asudintss*)“hces”msssfrted,t,c,orrfofaplormlhhcgc,p,p,d,adm*.3.9V.cr6,sr11isadtorr1.PySsCsHhCeS2.F;LEI)F.TeGlAyfst)Csttsktoclcsata,onroascspycsorlspyc,hecnastec,iginV.Anattessttalspyc,inantoftatofisl,iltoeeisintsSetomeiddsarc.Tsisisbgidofwrtyagssfmaldadqdhhceprat]
+[DELETED: LASIDADPDBYSES5Pe25of3spyc,astsasistodeiyndtoskmlceeeinortoceorte)Ahselspycsoeintra,ontrw,adattrfstynrpeasnrrrcstoorpsofa,ospecgadmgintopscganbylgteistobetrfsoranssadudc.Selspycshepdpyfeorbdmsata,p,c,adrehhc)FeadmgagbycsttdontororcsfranisofslcntoteSebeofteteadcypdneoftedntoceoeap.Wnaptilismdiobtacrosssttitdsntinftororrsfeoginrghhceo,teillstltotednwrtoteapyadmyletntoceaprmdortoteapyata)Tgtethishwtdhhcepsdtfrp,frt,pes,adceatwebtpsinsddgcnftvyininadc,itisdtfstomei,vycsttaeeltooeofplayada)Agssadelinatheosttlkt,uemgorasttoroessp,orpefyinaeafmofmnttdsist,bshhd,adcnrtinpth)I)ItisteitofteGlAytoeetttepcidwha,flinattetsofhhcsttaeaetoptisintsS.TeGyrstecypdrtofehiltlrea,whisterttorec,adnginatteisosadtei,vycsarcgalrti]
+[DELETED: LASIDADPDBYSES5Pe26of3)TeGlAyrstertoflycstoclisata,adngintrsdbecdtor,l,orclsha2.DSDsudintss)“”msaymlttidtoietno,ortot,acydepyetfepeofpgaleb)“”msanilwoisigatorssatapyssc)“yc”msaydgadbyteUdadDgAnasacemdfruears,wrpdortecrorbyp)“hi”msayolorwnininamormmttrstohhieortep,p,orflormlhhorcnofac)“spyc”msapysrttdsntdyp,orperstocsfsoreyc)“yssc”msaf,igam,wetepypeistopesstoisweormybeptadtterosocu,o,orplcetoptisorhsteaeomlf.Apysscrhsteaeoflfyiftoormeoftefgfsaep)Tecrospytgorpyd,o)Tecrhssforvswowrmlaeo)Tecrcsoeormeent)Tecrcsapeorsermoragmlssormli)Tecrhssforvswocthhimc]
+[DELETED: LASIDADPDBYSES5Pe27of3)TecrisldontesepsasaSlfyorprorssfysewhaSlp)“”msldadisorasorattf“hces”msssfrted,t,c,orrfofap,d,b,olhhcnorseued,igc,p,d,adm2.URADDEA)Itisanuraddeatadpeinceadnofsn23oftstefraylspycntodeorcetobeddtotepcayattehhcessorpdsspdatttcrisSettisueorcyddtomdtepcatteoftessp.Agisrsmytoc;mgp;cninayp,shasn,m,m,orh;adatm,shastnorr,tem,ogorteItitshasthwsa,wba,adslm.Frpsoftsc,agoepnofssbyalspycrathessisanatinc)Hhcepsc,r,orldurTe26oeVtSsAdwoaeedb,cdtopsfroronbfo,orvrtopessatalspycrslberefrcgadphces,i,adcgattec.Tefeohhceplc,r,orldurTe26ofttSsAdtoctortoeetthhces,adcgattelspysscecdinaewhSelwadplssoemyceulctur3V.§1aad2.§1.[)TeAyGlhsteseaytomer,cli,adbgclaswhrttovson()oftssnaspdursr1oftsc.4.18V.§9isadtor4.Dsudintsp]
+[DELETED: LASIDADPDBYSES5Pe28of3*)“dhhcep”asudin18V.c,msap,apna,ancp,oradperdn.Asudincr17oftsptoetmaoisancp*.5.18V.§0isadtor5.Dsudintsc*)“dhhcep”msap,ap,ancp,oranadperdn)“locr”hstesemgasins2oftst.6.18V.§2isadtor5.R)Tefgfldsslberdbytehnldhhcep,orfldrdytotrwnsndsardyonfspdbyt)Alfldsof20ormewsofgno,ifgeisu,of40ormeg,15ormeo,flwtser)Altcorida,aslyadtob,ofaylhgnorwtslber)Ssasadecpsoflstn2sgnaentrdtober)Tepnldhhceplwotsawnartofameoranslrttefldhifitisnntobepyrdursn()oftss.Ifteieofveororulorssc,temrslbeiyn,adheorsetemlelceatlttemlisonter.Ifafldriobei,tepnldhhceplmydetefldrteryfrcgisortnteomln.S,tepnldhhcep]
+[DELETED: LASIDADPDBYSES5Pe29of3ydeteryfrcnofnlisteplhgastorscgtei)Ifafldhosonamgc,tepeofolbegnastetnorcywerlfmtevetkp)FldhrsRsmepttotssnaeflpsoyadaentpcr.Tyslbek;slntbeddordeinayc,c,ororp;adslbeddarfet.7.26V.§4isadtor1.ULC)Pdc.TeBdslfdttayoeoftefraycnoftef,wrtectatiewdwnoroeteS,csulc*)alagofathhcessoramlbtisidorhsatytomdordetepcorincsoritpsadsobehloristopsors*)pgosneorletobeudbyap,g,onwnntayinceo,orref,oragtettgnororhhcessp*)dnofplr,igdyofahces,toapnwmteldplk,orhntok,isntqdbyaycnoft,e,orlgcstopmt*)p,p,d,orfgmsorpnmnorpydstoapnietoaycntdorrdbycrorocm,wntelefstotetefgasthadmnaprptr)areettovytttepnrnisinfttep,adisinftwotepncstob]
+[DELETED: LASIDADPDBYSES5Pe30of3)etofdddsthteueodmlp;a)meofactmlr)frtepsoftssn(,ane,o,ortcenbyqeisiefrteinoftep,etasoepdinsn()ossn()tefgwdntbeinvnoftssn()idorrdbycrororecm)ilanosfrnyhdp)pgfraptofarpnfrwmtrhstntec)pgfraptedbyaldaerdn,pna,ororadpdbylwadsdbytep)infeof18V.cr2,pnfraniltoteteispybdonaeqettasteletoonalmyadakfpqsasn)cgmnonasmbsfranwprtotepsfta;o)eyssweleorhhofteptinitd*)Fetopec.TeBdmyaofdttfopecybyrnofayceonaseonoroeoscsulc.Fetopyi,asddbyteB)peofueorueptc;o)fetocmtoteelssofaeagp)Bnofp.TebnofpfinadyanslbnteSetoswbyapeofteeetttepnhdinulc)Hhcep.Ngayorlwtot,nohhceprwoisc,r,orldi]
+[DELETED: LASIDADPDBYSES5Pe31of3tslbesttopldyanbyteB,nlteBdteaeanonananfrc,orleofaqdhhcep,bdsyo)tehhceprpgoragintepnoypdhhcea;o)ac,c,ordyaninarseaehhceprttisbdsyonteprpgogintepnoflypdhhcea)D.Asudintssns)“hcep”msapnwoplhhcesstoanildgttilc,t,orc)“hces”msssfrted,t,c,orrfofaplormlhhcgc,p,p,d,adm)“ypdhhcea”hstesemgan1V.§1.8.26V.§5isadtor1.ADPERDNYA;ULC)Inantotepsof3V.§1aadsn12oft,teBdmydyananfrl,r,otormyr,s,oroedeanaerdneundeneadoyfrhgiftnesintefgc*)PgEtasoepdinsn()oft,p,p,d,orfgmlssonmnorpydstoapninretycntdorrdbycrororeswntelefstotetefgastoehanaprptr)areettovytttepnrnisinftteptadisinftwotepncstob)etofdddsthteueodmlp;a]
+[DELETED: LASIDADPDBYSES5Pe32of3)meofactmlr*)Frtepsofsn()oftss,ane,ortcenbyqeisiefrteinoftep,etasoepdinsn()oss)Tefgwdntbeinvnofsn()oft)ilanosfrnyhdp)pgfraptofarprfrwmtrhstnc)pgfraptedbyaldAna,ororpradbylwadsdbeA)infeof18V.cr2,pgmraniltoteteispybdonanaettasteletoonalmlhyakfpqsasn)cgmnonasmbsfranwprtotepsfta;o)eyssweteleorhhofteptinitd.9.26V.§8isadtor1.ULC)Tefgctadtectddinsn14oftebyacdatatcsu.Wnttctisbyanatorpnwolrbna,itmycegsfrdlofc*)dgplrstoapnwmtdplk,orhsrntok,isntqdbyanoft,e,e,orlgcst]
+[DELETED: LASIDADPDBYSES5Pe33of3*.1.26V.§6isadtor1.ULC)Tefgctadtectddinsn14oftebyaldpnatslceulcnttctisbyanatorpnwolrbsa,itmycegsfrdlofl*)olagoragathhcestisidorhsatytomdordetep)egueieonortgiraeofnugteiss,orpgteseofpsorssinamrttesapnfrteflgnoeprorofatdp)fgtocywhpsofflorsessorrgtep)cnofacerdtotep;a)ctttesustopeintep*)Asudintss,“hces”msssfrt,p,t,c,orrfofaplormlh,igc,p,p,d,a.1.26V.§4isadtor.CYOFPRINOSFRLYPDHHC)Asudintss,“ghhces”aehhces”hetesemsasin1V)Untertofapgpradtoteetnypdurfll,aptslntlttsneonafdpnfrmnfrgghhcessorrehhcessbtsdltteneoftefyatwhteprisedoricte]
+[DELETED: LASIDADPDBYSES5Pe34of3)Ngintscrortersggtepyplbecdtoreapttolttepgpeonafdpnfrmnfrgghessorrehhces.1.26V.§8isadtor2.ULC)Tefgctadtectddinsn14oftebyacdrtatcsulcnttctisbyanatorpnwolrbsa,itmycegsfrdlofc*)dgplrstoapnwmtdplksorhsrntokwisntqdbyanoft,e,e,orlgcst*.1.EEDsatslteetonp]
+
+
+================================================================================
+
+Raw Text:
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 1 of 34
+1 S.28
+2 Introduced by Senators Hardy, Lyons, Clarkson, Gulick, Vyhovsky and White
+3 Referred to Committee on Health and Welfare
+4 Date: January 29, 2025
+5 Subject: Health; health care professionals; legally protected health care;
+6 limited-services pregnancy centers; Consumer Protection Act;
+7 unprofessional conduct; medication abortions; fetal death reports
+8 Statement of purpose of bill as introduced: This bill proposes to expand the
+9 prohibition on untrue or misleading advertising by a limited-services
+10 pregnancy center under the Consumer Protection Act to apply to any untrue or
+11 misleading advertising about health care services. It would eliminate specific
+12 responsibility for licensed health care providers who provide services at a
+13 limited-services pregnancy center for the services provided at the center and
+14 would remove language indicating that failure to ensure those services are
+15 conducted in accordance with the law could constitute unprofessional conduct.
+16 The bill would also clarify and expand the types of actions that could be
+17 considered unprofessional conduct for physicians, physician assistants,
+18 advanced practice registered nurses, and naturopathic physicians under their
+19 licensure statutes. The bill would eliminate restrictions on a physician,
+20 physician assistant, or advanced practice registered nurse prescribing
+21 medication to terminate an individual’s pregnancy based on asynchronous
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 2 of 34
+1 electronic or other online communication with the individual. It would also
+2 specify that fetal death reports required by law must be kept confidential.
+3 An act relating to access to certain legally protected health care services
+4 It is hereby enacted by the General Assembly of the State of Vermont:
+5 Sec. 1. 9 V.S.A. chapter 63, subchapter 11 is amended to read:
+6 Subchapter 11. Pregnancy Services Centers Health Care Services
+7 § 2491. FINDINGS; LEGISLATIVE INTENT
+8 (a) Findings. The General Assembly finds that:
+9 (1) Centers that seek to counsel clients against abortion, often referred
+10 to as crisis pregnancy centers or limited-services pregnancy centers, have
+11 become common across the country, including in Vermont. Accurate
+12 information about the services that a limited-services pregnancy center
+13 performs, in addition to forthright acknowledgement of its limitations, is
+14 essential to enable individuals in this State to make informed decisions about
+15 their care. This includes individuals being informed of whether they are
+16 receiving services from a licensed and qualified health care provider at a
+17 limited-services pregnancy center, as this allows individuals to determine if
+18 they need to seek medical care elsewhere in order to continue or terminate a
+19 pregnancy.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 3 of 34
+1 (2) Although some limited-services pregnancy centers openly
+2 acknowledge in their advertising, on their websites, and at their facilities that
+3 they neither provide abortions nor refer clients to other providers of abortion
+4 services, others provide confusing and misleading information to pregnant
+5 individuals contemplating abortion by leading those individuals to believe that
+6 their facilities offer abortion services and unbiased counseling. Some limited-
+7 services pregnancy centers have promoted patently false or biased medical
+8 claims about abortion, pregnancy, contraception, and reproductive health care
+9 providers.
+10 (3) False and misleading advertising by centers that do not offer or refer
+11 clients for abortion is of special concern to the State because of the time-
+12 sensitive and constitutionally protected nature of the decision to continue or
+13 terminate a pregnancy. When a pregnant individual is misled into believing
+14 that a center offers services that it does not in fact offer or receives false or
+15 misleading information regarding health care options, the individual loses time
+16 crucial to the decision whether to terminate a pregnancy and may lose the
+17 option to choose a particular method or to terminate a pregnancy at all.
+18 (4) Telling the truth is how trained health care providers demonstrate
+19 respect for patients, foster trust, promote self-determination, and cultivate an
+20 environment where best practices in shared decision-making can flourish.
+21 Without veracity in information and communication, it is difficult for
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 4 of 34
+1 individuals to make informed, voluntary choices that are essential to one’s
+2 sense of personal agency and autonomy.
+3 (5)(2) Advertising strategies and educational information about health
+4 care options that lack transparency, use misleading or ambiguous terminology,
+5 misrepresent or obfuscate services provided, or provide factually inaccurate
+6 information are a form of manipulation that disrespects individuals,
+7 undermines trust, broadens health disparity, and can result in patient harm.
+8 (b) Intent.
+9 (1) It is the intent of the General Assembly to ensure that the public is
+10 provided with accurate, factual information about the types of health care
+11 services that are available to pregnant individuals in this State. The General
+12 Assembly respects the constitutionally protected right of each individual to
+13 personal reproductive autonomy, which includes the right to receive clear,
+14 honest, and nonmisleading information about the individual’s options and to
+15 make informed, voluntary choices after considering all relevant information.
+16 (2) The General Assembly respects the right of limited-services
+17 pregnancy centers to counsel individuals against abortion, and nothing in this
+18 subchapter should be construed to regulate, limit, or curtail such advocacy.
+19 § 2492. DEFINITIONS DEFINITION
+20 As used in this subchapter:,
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 5 of 34
+1 (1) “Abortion” means any medical treatment intended to induce the
+2 termination of, or to terminate, a clinically diagnosable pregnancy except for
+3 the purpose of producing a live birth.
+4 (2) “Client” means an individual who is inquiring about or seeking
+5 services at a pregnancy services center.
+6 (3) “Emergency contraception” means any drug approved by the U.S.
+7 Food and Drug Administration as a contraceptive method for use after sexual
+8 intercourse, whether provided over the counter or by prescription.
+9 (4) “Health information” means any oral or written information in any
+10 form or medium that relates to health insurance or the past, present, or future
+11 physical or mental health or condition of a client.
+12 (5) “Limited-services pregnancy center” means a pregnancy services
+13 center that does not directly provide, or provide referrals to clients for,
+14 abortions or emergency contraception.
+15 (6) “Pregnancy services center” means a facility, including a mobile
+16 facility, where the primary purpose is to provide services to individuals who
+17 are or may be pregnant and that either offers obstetric ultrasounds, obstetric
+18 sonograms, or prenatal care to pregnant individuals or has the appearance of a
+19 medical facility. A pregnancy services center has the appearance of a medical
+20 facility if two or more of the following factors are present:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 6 of 34
+1 (A) The center offers pregnancy testing or pregnancy diagnosis, or
+2 both.
+3 (B) The center has staff or volunteers who wear medical attire or
+4 uniforms.
+5 (C) The center contains one or more examination tables.
+6 (D) The center contains a private or semiprivate room or area
+7 containing medical supplies or medical instruments.
+8 (E) The center has staff or volunteers who collect health information
+9 from clients.
+10 (F) The center is located on the same premises as a State-licensed
+11 medical facility or provider or shares facility space with a State-licensed
+12 medical provider.
+13 (7) “Premises” means land and improvements or appurtenances or any
+14 part thereof.
+15 “health care services” means services for the diagnosis, prevention, treatment,
+16 cure, or relief of a physical, dental, behavioral, or mental health condition or
+17 substance use disorder, including counseling, procedures, products, devices,
+18 and medications.
+19 § 2493. UNFAIR AND DECEPTIVE ACT
+20 (a) It is an unfair and deceptive act and practice in commerce and a
+21 violation of section 2453 of this title for any limited-services pregnancy center
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 7 of 34
+1 person to disseminate or cause to be disseminated to the public any advertising
+2 about the health care services or proposed services performed at that center in
+3 this State that is untrue or clearly designed to mislead the public about the
+4 nature of the services provided. Advertising includes representations made
+5 directly to consumers; marketing practices; communication in any print
+6 medium, such as newspapers, magazines, mailers, or handouts; and any
+7 broadcast medium, such as television or radio, telephone marketing, or
+8 advertising over the Internet internet such as through websites and, web ads
+9 advertisements, and social media. For purposes of this chapter, advertising or
+10 the provision of services by a limited-services pregnancy center about health
+11 care services is an act in commerce.
+12 (b) Health care providers certified, registered, or licensed under Title 26 of
+13 the Vermont Statutes Annotated who are employed by, contracted to provide
+14 services for or on behalf of, or volunteer to provide services at a limited-
+15 services pregnancy center shall be responsible for conducting and providing
+16 health care services, information, and counseling at the center. The failure of a
+17 health care professional certified, registered, or licensed under Title 26 of the
+18 Vermont Statutes Annotated to conduct or to ensure that health care services,
+19 information, and counseling at the limited-services pregnancy services center
+20 are conducted in accordance with State law and professional standards of
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 8 of 34
+1 practice may constitute unprofessional conduct under 3 V.S.A. § 129a and 26
+2 V.S.A. § 1354. [Repealed.]
+3 (c) The Attorney General has the same authority to make rules, conduct
+4 civil investigations, and bring civil actions with respect to violations of
+5 subsection (a) of this section as provided under subchapter 1 of this chapter.
+6 Sec. 2. 18 V.S.A. § 5222 is amended to read:
+7 § 5222. REPORTS
+8 (a)(1) The following fetal deaths shall be reported by the hospital,
+9 physician, or funeral director directly to the Commissioner within seven days
+10 after delivery on forms prescribed by the Department:
+11 (1)(A) All fetal deaths of 20 or more weeks of gestation or, if
+12 gestational age is unknown, of 400 or more grams, 15 or more ounces, fetal
+13 weight shall be reported.
+14 (2)(B) All therapeutic or induced abortions, as legally authorized to be
+15 performed, of any length gestation or weight shall be reported.
+16 (3)(2) Spontaneous abortions and ectopic pregnancies of less than 20
+17 weeks gestation are not required to be reported.
+18 (b) The physician who treats a woman as a result of a miscarriage or
+19 abortion shall report the fetal death if it is not known to be previously reported
+20 under subsection (a) of this section. If there is evidence of violence or other
+21 unusual or suspicious circumstances, the medical examiner shall be
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 9 of 34
+1 immediately notified, and he or she the medical examiner shall complete at
+2 least the medical items on the report. If a funeral director is to be involved,
+3 the physician may delegate to the funeral director the responsibility for
+4 completing items other than those of a medical nature. Similarly, the
+5 physician may delegate the responsibility for completion of nonmedical items
+6 to appropriate personnel having access to records containing the information.
+7 (c) If a fetal death occurs on a moving conveyance, the place of occurrence
+8 shall be given as the town or city where removal from the vehicle took place.
+9 (d) Fetal death reports made pursuant to subsection (a) of this section are
+10 for statistical purposes only and are not public records. They shall be kept
+11 confidential and shall be destroyed after five years.
+12 Sec. 3. 26 V.S.A. § 1354 is amended to read:
+13 § 1354. UNPROFESSIONALCONDUCT
+14 (a) Prohibited conduct. The Board shall find that any one of the following,
+15 or any combination of the following, whether the conduct at issue was
+16 committed within or outside the State, constitutes unprofessional conduct:
+17 * * *
+18 (2) all advertising of health care services or a medical business that is
+19 intended or has a tendency to confuse, mislead, or deceive the public or
+20 impose upon credulous or ignorant persons and so be harmful or injurious to
+21 public morals or safety;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 10 of 34
+1 * * *
+2 (21)(A) permitting one’s name or license to be used by a person, group,
+3 or corporation when not actually in charge of or responsible for the treatment
+4 given or other health care services provided;
+5 (B) failing to provide active oversight over treatment or other health
+6 care services that are provided using or relying upon the licensee’s name or
+7 license;
+8 (C) failing to actively monitor the education, training, and experience of
+9 individuals providing treatment or other health care services that are provided
+10 using or relying upon the licensee’s name or license; or
+11 (D) failing to review and approve information about treatment or health
+12 care services that are provided using or relying upon the licensee’s name or
+13 license prior to communication of the information to users or potential users of
+14 the treatment or services;
+15 * * *
+16 (29) delegation of professional responsibilities, including delivery of
+17 any health care services, to a person whom the licensed professional knows, or
+18 has reason to know, is not qualified by training, experience, education, or
+19 licensing credentials to perform them;
+20 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 11 of 34
+1 (33)(A) providing, prescribing, dispensing, or furnishing medical
+2 services or prescription medication or prescription-only devices to a person in
+3 response to any communication transmitted or received by computer or other
+4 electronic means, when the licensee fails to take the following actions to
+5 establish and maintain a proper physician-patient relationship:
+6 (i) a reasonable effort to verify that the person requesting
+7 medication is in fact the patient, and is in fact who the person claims to be;
+8 (ii) establishment of documented diagnosis through the use of
+9 accepted medical practices; and
+10 (iii) maintenance of a current medical record;
+11 (B) for the purposes of this subdivision (33), an electronic, on-line
+12 online, or telephonic evaluation by questionnaire is inadequate for the initial
+13 evaluation of the patient, except as otherwise provided in subdivision (C)(iv)
+14 of this subdivision (33);
+15 (C) the following would not be in violation of this subdivision (33) if
+16 transmitted or received by computer or other electronic means:
+17 (i) initial admission orders for newly hospitalized patients;
+18 (ii) prescribing for a patient of another physician for whom the
+19 prescriber has taken the call;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 12 of 34
+1 (iii) prescribing for a patient examined by a licensed advanced
+2 practice registered nurse, physician assistant, or other advanced practitioner
+3 authorized by law and supported by the physician;
+4 (iv) in furtherance of 18 V.S.A. chapter 223, prescribing
+5 medication for an individual to terminate the individual’s pregnancy based on
+6 an adaptive questionnaire that allows the licensee to obtain additional medical
+7 history and ask follow-up questions as needed;
+8 (v) continuing medication on a short-term basis for a new patient,
+9 prior to the patient’s first appointment; or
+10 (v)(vi) emergency situations where life or health of the patient is
+11 in imminent danger;
+12 * * *
+13 (b) Failure to practice competently. The Board may also find that failure to
+14 practice competently by reason of any cause on a single occasion or on
+15 multiple occasions constitutes unprofessional conduct. Failure to practice
+16 competently includes, as determined by the Board:
+17 (1) performance of unsafe or unacceptable patient care; or
+18 (2) failure to conform to the essential standards of acceptable and
+19 prevailing practice.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 13 of 34
+1 (c) Burden of proof. The burden of proof in a disciplinary action shall be
+2 on the State to show by a preponderance of the evidence that the person has
+3 engaged in unprofessional conduct.
+4 (d)(1) Health care providers. Notwithstanding any other law to the
+5 contrary, no health care provider who is certified, registered, or licensed in
+6 Vermont shall be subject to professional disciplinary action by the Board, nor
+7 shall the Board take adverse action on an application for certification,
+8 registration, or licensure of a qualified health care provider, based solely on:
+9 (A)(1) the health care provider providing or assisting in the provision of
+10 legally protected health care activity; or
+11 (B)(2) a criminal, civil, or disciplinary action in another state against the
+12 health care provider that is based solely on the provider providing or assisting
+13 in the provision of legally protected health care activity.
+14 (2)(e) Definitions. As used in this subsection section:
+15 (A)(1) “Health care provider” means a person who provides
+16 professional health care services to an individual during that individual’s
+17 medical care, treatment, or confinement.
+18 (B)(2) “Health care services” means services for the diagnosis,
+19 prevention, treatment, cure, or relief of a physical or mental health condition,
+20 including counseling, procedures, products, devices, and medications.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 14 of 34
+1 (C)(3) “Legally protected health care activity” has the same meaning as
+2 in 1 V.S.A. § 150.
+3 Sec. 4. 26 V.S.A. § 1582 is amended to read:
+4 § 1582. REGULATORY AUTHORITY; UNPROFESSIONALCONDUCT
+5 (a) The Board may deny an application for licensure, renewal, or
+6 reinstatement; revoke or suspend any license to practice issued by it; or
+7 discipline or in other ways condition the practice of an applicant or licensee
+8 upon due notice and opportunity for hearing if the person engages in the
+9 following conduct or the conduct set forth in 3 V.S.A. § 129a:
+10 * * *
+11 (3) engaging in conduct of a character likely to confuse, mislead,
+12 deceive, defraud, or harm the public;
+13 * * *
+14 (9)(A) permitting one’s name or license to be used by a person, group,
+15 or corporation when not actually in charge of or responsible for the treatment
+16 given or other health care services provided;
+17 (B) failing to provide active oversight over treatment or other health
+18 care services that are provided using or relying upon the licensee’s name or
+19 license;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 15 of 34
+1 (C) failing to actively monitor the education, training, and experience of
+2 individuals providing treatment or other health care services that are provided
+3 using or relying upon the licensee’s name or license; or
+4 (D) failing to review and approve information about treatment or health
+5 care services that are provided using or relying upon the licensee’s name or
+6 license prior to communication of the information to users or potential users of
+7 the treatment or services;
+8 * * *
+9 (c) As used in this section, “health services” means services for the
+10 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+11 condition, including counseling, procedures, products, devices, and
+12 medications.
+13 * * *
+14 Sec. 5. 26 V.S.A. § 1615 is amended to read:
+15 § 1615. ADVANCED PRACTICE REGISTERED NURSES;
+16 REGULATORY AUTHORITY; UNPROFESSIONALCONDUCT
+17 (a) In addition to the provisions of 3 V.S.A. § 129a and section 1582 of this
+18 chapter, the Board may deny an application for licensure, renewal, or
+19 reinstatement or may revoke, suspend, or otherwise discipline an advanced
+20 practice registered nurse upon due notice and opportunity for hearing if the
+21 person engages in the following conduct:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 16 of 34
+1 * * *
+2 (6) Providing Except as otherwise provided in subsection (b) of this
+3 section, providing, prescribing, dispensing, or furnishing medical services or
+4 prescription medication or prescription-only devices to a person in response to
+5 any communication transmitted or received by computer or other electronic
+6 means when the licensee fails to take the following actions to establish and
+7 maintain a proper provider-patient relationship:
+8 (A) a reasonable effort to verify that the person requesting
+9 medication is in fact the patient and is in fact who the person claims to be;
+10 (B) establishment of documented diagnosis through the use of
+11 accepted medical practices; and
+12 (C) maintenance of a current medical record.
+13 * * *
+14 (13)(A) Permitting one’s name or license to be used by a person, group,
+15 or corporation when not actually in charge of or responsible for the treatment
+16 given or other health care services provided;
+17 (B) failing to provide active oversight over treatment or other health
+18 care services that are provided using or relying upon the APRN’s name or
+19 license;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 17 of 34
+1 (C) failing to actively monitor the education, training, and experience
+2 of individuals providing treatment or other health care services that are
+3 provided using or relying upon the APRN’s name or license; or
+4 (D) failing to review and approve information about treatment or
+5 health care services that are provided using or relying upon the APRN’s name
+6 or license prior to communication of the information to users or potential users
+7 of the treatment or services.
+8 (b)(1) For the purposes of subdivision (a)(6) of this section, an electronic,
+9 online, or telephonic evaluation by questionnaire is inadequate for the initial
+10 evaluation of the patient, except as otherwise provided in subdivision (2)(D) of
+11 this subsection.
+12 (2) The following would not be in violation of subdivision (a)(6) of this
+13 section:
+14 (A) initial admission orders for newly hospitalized patients;
+15 (B) prescribing for a patient of another provider for whom the
+16 prescriber has taken call;
+17 (C) prescribing for a patient examined by a licensed APRN,
+18 physician assistant, or other practitioner authorized by law and supported by
+19 the APRN;
+20 (D) in furtherance of 18 V.S.A. chapter 223, prescribing medication
+21 for an individual to terminate the individual’s pregnancy based on an adaptive
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 18 of 34
+1 questionnaire that allows the licensee to obtain additional medical history and
+2 ask follow-up questions as needed;
+3 (E) continuing medication on a short-term basis for a new patient
+4 prior to the patient’s first appointment; or
+5 (E)(F) emergency situations where the life or health of the patient is
+6 in imminent danger.
+7 (c) As used in this section, “health services” means services for the
+8 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+9 condition, including counseling, procedures, products, devices, and
+10 medications.
+11 Sec. 6. 26 V.S.A. § 1736 is amended to read:
+12 § 1736. UNPROFESSIONALCONDUCT
+13 (a) The following conduct and the conduct described in section 1354 of
+14 this title by a licensed physician assistant shall constitute unprofessional
+15 conduct; when that conduct is by an applicant or person who later becomes an
+16 applicant, it may constitute grounds for denial of licensure:
+17 * * *
+18 (2) occupational advertising or advertising about health care services
+19 that is intended or has a tendency to confuse, mislead, or deceive the public;
+20 (3) exercising undue influence on or taking improper advantage of a
+21 person using the individual’s services, or promoting the sale of professional
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 19 of 34
+1 goods or services in a manner that exploits a person for the financial gain of
+2 the practitioner or of a third party;
+3 (4) failing to comply with provisions of federal or state statutes or rules
+4 governing the profession;
+5 (5) conviction of a crime related to the profession; and
+6 (6) conduct that evidences unfitness to practice in the profession.
+7 * * *
+8 (d) As used in this section, “health services” means services for the
+9 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+10 condition, including counseling, procedures, products, devices, and
+11 medications.
+12 Sec. 7. 26 V.S.A. § 1842 is amended to read:
+13 § 1842. UNPROFESSIONALCONDUCT
+14 (a) A person licensed as an osteopathic physician under this chapter shall
+15 not engage in unprofessional conduct. If such conduct is committed by an
+16 applicant, it shall be grounds for denial of a license.
+17 (b) Unprofessional conduct means the following conduct and conduct set
+18 forth in 3 V.S.A. § 129a:
+19 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 20 of 34
+1 (9) Delegating professional responsibilities, including the delivery of
+2 health care services, to a person who whom the licensee knows or has reason
+3 to know is not qualified by training, experience, or licensure to perform them.
+4 * * *
+5 (14)(A) Permitting one’s name or license to be used by a person, group,
+6 or corporation when not actually in charge of or responsible for the treatment
+7 or other health care services provided;
+8 (B) failing to provide active oversight over treatment or other health
+9 care services that are provided using or relying upon the licensee’s name or
+10 license;
+11 (C) failing to actively monitor the education, training, and experience
+12 of individuals providing treatment or other health care services that are
+13 provided using or relying upon the licensee’s name or license; or
+14 (D) failing to review and approve information about treatment or
+15 health care services that are provided using or relying upon the licensee’s
+16 name or license prior to communication of the information to users or potential
+17 users of the treatment or services.
+18 (c) As used in this section, “health services” means services for the
+19 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+20 condition, including counseling, procedures, products, devices, and
+21 medications.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 21 of 34
+1 Sec. 8. 26 V.S.A. § 2024 is added to read:
+2 § 2024. CONFIDENTIALITY OF PRESCRIBER INFORMATION ON
+3 MEDICATIONS FOR LEGALLY PROTECTED HEALTH CARE
+4 ACTIVITY
+5 (a) As used in this section, “gender-affirming health care services” and
+6 “reproductive health care services” have the same meanings as in 1 V.S.A.
+7 § 150.
+8 (b) Upon the request of a prescribing practitioner and to the extent not
+9 expressly prohibited under federal law, a pharmacist shall not list the
+10 practitioner’s name on a fulfilled prescription for medication for gender-
+11 affirming health care services or reproductive health care services but shall
+12 instead list the name of the facility at which the practitioner is employed or is a
+13 contract employee.
+14 (c) Nothing in this chapter or the rules governing the pharmacy profession
+15 shall be construed to require a pharmacist to list the prescribing practitioner’s
+16 name on a fulfilled prescription for medication for gender-affirming health
+17 care services or reproductive health care services.
+18 Sec. 9. 26 V.S.A. § 4132 is amended to read:
+19 § 4132. UNPROFESSIONALCONDUCT
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 22 of 34
+1 (a) The following conduct and conduct set forth in 3 V.S.A. § 129a by a
+2 person licensed as a naturopathic physician under this chapter or an applicant
+3 for licensure constitutes unprofessional conduct:
+4 * * *
+5 (12) Delegating professional responsibilities, including the delivery of
+6 health care services, to a person whom the licensee knows or has reason to
+7 know is not qualified by training, experience, or licensure to perform them.
+8 (13)(A) Permitting one’s name or license to be used by a person, group,
+9 or corporation when not actually in charge of or responsible for the treatment
+10 or other health care services provided;
+11 (B) failing to provide active oversight over treatment or other health
+12 care services that are provided using or relying upon the licensee’s name or
+13 license;
+14 (C) failing to actively monitor the education, training, and experience
+15 of individuals providing treatment or other health care services that are
+16 provided using or relying upon the licensee’s name or license; or
+17 (D) failing to review and approve information about treatment or
+18 health care services that are provided using or relying upon the licensee’s
+19 name or license prior to communication of the information to users or potential
+20 users of the treatment or services.
+21 * * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 23 of 34
+1 (e) As used in this section, “health services” means services for the
+2 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+3 condition, including counseling, procedures, products, devices, and
+4 medications.
+5 Sec. 10. EFFECTIVE DATE
+6 This act shall take effect on passage.
+Sec. 1. 1 V.S.A. § 317(c) is amended to read:
+(c) The following public records are exempt from public inspection and
+copying:
+* * *
+(44) Records held by the Office of Professional Regulation, Board of
+Medical Practice, or another public agency that issues one or more licenses,
+certificates, or registrations to engage in a State-regulated profession or
+occupation if the records contain the telephone number, email address,
+physical address, or mailing address, or a combination of these, of an
+individual who has applied for or has been granted a license, certificate, or
+registration to practice a profession or occupation in this State, except that the
+public agency shall disclose any address that the individual has designated as
+a public address in the record.
+Sec. 2. 3 V.S.A. § 129a is amended to read:
+§ 129a. UNPROFESSIONAL CONDUCT
+(a) In addition to any other provision of law, the following conduct by a
+licensee constitutes unprofessional conduct. When that conduct is by an
+applicant or person who later becomes an applicant, it may constitute grounds
+for denial of a license or other disciplinary action. Any one of the following
+items or any combination of items, whether the conduct at issue was committed
+within or outside the State, shall constitute unprofessional conduct:
+(1) Fraudulent or deceptive procurement or use of a license.
+(2) Advertising, including advertising about health care services, that is
+intended or has a tendency to deceive or mislead.
+* * *
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 24 of 34
+(6) Delegating professional responsibilities, including the delivery of
+health care services, to a person whom the licensed professional knows, or has
+reason to know, is not qualified by any combination of training, experience,
+education, or licensing credentials to perform them, or knowingly providing
+professional supervision or serving as a preceptor to a person who has not
+been licensed or registered as required by the laws of that person’s profession.
+* * *
+(21) Permitting one’s name or license to be used by a person, group, or
+corporation when not actually in charge of or responsible for, or actively
+overseeing the professional services provided.
+* * *
+(f)(1) Health care providers. Notwithstanding subsection (e) of this section
+or any other law to the contrary, no health care provider who is certified,
+registered, or licensed in Vermont shall be subject to professional disciplinary
+action by a board or the Director, nor shall a board or the Director take
+adverse action on an application for certification, registration, or licensure of
+a qualified health care provider, based solely on:
+* * *
+(2) Definitions. As used in this subsection:
+* * *
+(B) “Health care services” means services for the diagnosis,
+prevention, treatment, cure, or relief of a physical or mental health condition,
+including counseling, procedures, products, devices, and medications.
+* * *
+Sec. 3. 9 V.S.A. chapter 63, subchapter 11 is amended to read:
+Subchapter 11. Pregnancy Services Centers Health Care Services
+§ 2491. FINDINGS; LEGISLATIVE INTENT
+(a) Findings. The General Assembly finds that:
+(1) Centers that seek to counsel clients against abortion, often referred
+to as crisis pregnancy centers or limited-services pregnancy centers, have
+become common across the country, including in Vermont. Accurate
+information about the services that a limited-services pregnancy center
+performs, in addition to forthright acknowledgement of its limitations, is
+essential to enable individuals in this State to make informed decisions about
+their care. This includes individuals being informed of whether they are
+receiving services from a licensed and qualified health care provider at a
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 25 of 34
+limited-services pregnancy center, as this allows individuals to determine if
+they need to seek medical care elsewhere in order to continue or terminate a
+pregnancy.
+(2) Although some limited-services pregnancy centers openly
+acknowledge in their advertising, on their websites, and at their facilities that
+they neither provide abortions nor refer clients to other providers of abortion
+services, others provide confusing and misleading information to pregnant
+individuals contemplating abortion by leading those individuals to believe that
+their facilities offer abortion services and unbiased counseling. Some limited-
+services pregnancy centers have promoted patently false or biased medical
+claims about abortion, pregnancy, contraception, and reproductive health care
+providers.
+(3) False and misleading advertising by centers that do not offer or
+refer clients for abortion is of special concern to the State because of the time-
+sensitive and constitutionally protected nature of the decision to continue or
+terminate a pregnancy. When a pregnant individual is misled into believing
+that a center offers services that it does not in fact offer or receives false or
+misleading information regarding health care options, the individual loses time
+crucial to the decision whether to terminate a pregnancy and may lose the
+option to choose a particular method or to terminate a pregnancy at all.
+(4) Telling the truth is how trained health care providers demonstrate
+respect for patients, foster trust, promote self-determination, and cultivate an
+environment where best practices in shared decision-making can flourish.
+Without veracity in information and communication, it is difficult for
+individuals to make informed, voluntary choices that are essential to one’s
+sense of personal agency and autonomy.
+(5)(2) Advertising strategies and educational information about health
+care options that lack transparency, use misleading or ambiguous terminology,
+misrepresent or obfuscate services provided, or provide factually inaccurate
+information are a form of manipulation that disrespects individuals,
+undermines trust, broadens health disparity, and can result in patient harm.
+(b) Intent.
+(1) It is the intent of the General Assembly to ensure that the public is
+provided with accurate, factual information about the types of health care
+services that are available to pregnant individuals in this State. The General
+Assembly respects the constitutionally protected right of each individual to
+personal reproductive autonomy, which includes the right to receive clear,
+honest, and nonmisleading information about the individual’s options and to
+make informed, voluntary choices after considering all relevant information.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 26 of 34
+(2) The General Assembly respects the right of limited-services
+pregnancy centers to counsel individuals against abortion, and nothing in this
+subchapter should be construed to regulate, limit, or curtail such advocacy.
+§ 2492. DEFINITIONS DEFINITION
+As used in this subchapter:,
+(1) “Abortion” means any medical treatment intended to induce the
+termination of, or to terminate, a clinically diagnosable pregnancy except for
+the purpose of producing a live birth.
+(2) “Client” means an individual who is inquiring about or seeking
+services at a pregnancy services center.
+(3) “Emergency contraception” means any drug approved by the U.S.
+Food and Drug Administration as a contraceptive method for use after sexual
+intercourse, whether provided over the counter or by prescription.
+(4) “Health information” means any oral or written information in any
+form or medium that relates to health insurance or the past, present, or future
+physical or mental health or condition of a client.
+(5) “Limited-services pregnancy center” means a pregnancy services
+center that does not directly provide, or provide referrals to clients for,
+abortions or emergency contraception.
+(6) “Pregnancy services center” means a facility, including a mobile
+facility, where the primary purpose is to provide services to individuals who
+are or may be pregnant and that either offers obstetric ultrasounds, obstetric
+sonograms, or prenatal care to pregnant individuals or has the appearance of
+a medical facility. A pregnancy services center has the appearance of a
+medical facility if two or more of the following factors are present:
+(A) The center offers pregnancy testing or pregnancy diagnosis, or
+both.
+(B) The center has staff or volunteers who wear medical attire or
+uniforms.
+(C) The center contains one or more examination tables.
+(D) The center contains a private or semiprivate room or area
+containing medical supplies or medical instruments.
+(E) The center has staff or volunteers who collect health information
+from clients.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 27 of 34
+(F) The center is located on the same premises as a State-licensed
+medical facility or provider or shares facility space with a State-licensed
+medical provider.
+(7) “Premises” means land and improvements or appurtenances or any
+part thereof “health care services” means services for the diagnosis,
+prevention, treatment, cure, or relief of a physical, dental, behavioral, or
+mental health condition or substance use disorder, including counseling,
+procedures, products, devices, and medications.
+§ 2493. UNFAIR AND DECEPTIVE ACT
+(a) It is an unfair and deceptive act and practice in commerce and a
+violation of section 2453 of this title for any limited-services pregnancy center
+person to disseminate or cause to be disseminated to the public any advertising
+about the health care services or proposed services performed at that center in
+this State that is untrue or clearly designed to mislead the public about the
+nature of the services provided. Advertising includes representations made
+directly to consumers; marketing practices; communication in any print
+medium, such as newspapers, magazines, mailers, or handouts; and any
+broadcast medium, such as television or radio, telephone marketing, or
+advertising over the Internet internet such as through websites and, web ads
+advertisements, and social media. For purposes of this chapter, advertising or
+the provision of services by a limited-services pregnancy center about health
+care services is an act in commerce.
+(b) Health care providers certified, registered, or licensed under Title 26 of
+the Vermont Statutes Annotated who are employed by, contracted to provide
+services for or on behalf of, or volunteer to provide services at a limited-
+services pregnancy center shall be responsible for conducting and providing
+health care services, information, and counseling at the center. The failure of
+a health care professional certified, registered, or licensed under Title 26 of the
+Vermont Statutes Annotated to conduct or to ensure that health care services,
+information, and counseling at the limited-services pregnancy services center
+are conducted in accordance with State law and professional standards of
+practice may constitute unprofessional conduct under 3 V.S.A. § 129a and 26
+V.S.A. § 1354. [Repealed.]
+(c) The Attorney General has the same authority to make rules, conduct
+civil investigations, and bring civil actions with respect to violations of
+subsection (a) of this section as provided under subchapter 1 of this chapter.
+Sec. 4. 18 V.S.A. § 4999 is amended to read:
+§ 4999. DEFINITIONS
+As used in this part:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 28 of 34
+* * *
+(2) “Licensed health care professional,” as used in 18 V.S.A. chapter
+107, means a physician, a physician assistant, a naturopathic physician, or an
+advanced practice registered nurse. As used in chapter 107 of this part only,
+the term also includes a naturopathic physician.
+* * *
+Sec. 5. 18 V.S.A. § 5200 is amended to read:
+§ 5200. DEFINITIONS
+As used in this chapter:
+* * *
+(4) “Licensed health care professional” means a physician, a physician
+assistant, a naturopathic physician, or an advanced practice registered nurse.
+(5) “Natural organic reduction” has the same meaning as in section
+5302 of this title.
+Sec. 6. 18 V.S.A. § 5222 is amended to read:
+§ 5222. REPORTS
+(a)(1) The following fetal deaths shall be reported by the hospital,
+physician licensed health care professional, or funeral director directly to the
+Commissioner within seven days after delivery on forms prescribed by the
+Department:
+(1)(A) All fetal deaths of 20 or more weeks of gestation or, if gestational
+age is unknown, of 400 or more grams, 15 or more ounces, fetal weight shall
+be reported.
+(2)(B) All therapeutic or induced abortions, as legally authorized to be
+performed, of any length gestation or weight shall be reported.
+(3)(2) Spontaneous abortions and ectopic pregnancies of less than 20
+weeks gestation are not required to be reported.
+(b) The physician licensed health care professional who treats a woman as
+a result of a miscarriage or abortion shall report the fetal death if it is not
+known to be previously reported under subsection (a) of this section. If there is
+evidence of violence or other unusual or suspicious circumstances, the medical
+examiner shall be immediately notified, and he or she the medical examiner
+shall complete at least the medical items on the report. If a funeral director is
+to be involved, the physician licensed health care professional may delegate to
+the funeral director the responsibility for completing items other than those of
+a medical nature. Similarly, the physician licensed health care professional
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 29 of 34
+may delegate the responsibility for completion of nonmedical items to
+appropriate personnel having access to records containing the information.
+(c) If a fetal death occurs on a moving conveyance, the place of occurrence
+shall be given as the town or city where removal from the vehicle took place.
+(d) Fetal death reports Reports made pursuant to this section are for
+statistical purposes only and are not public records. They shall be kept
+confidential; shall not be disclosed or discoverable in any civil, criminal,
+administrative, or other proceeding; and shall be destroyed after five two
+years.
+Sec. 7. 26 V.S.A. § 1354 is amended to read:
+§ 1354. UNPROFESSIONAL CONDUCT
+(a) Prohibited conduct. The Board shall find that any one of the following,
+or any combination of the following, whether the conduct at issue was
+committed within or outside the State, constitutes unprofessional conduct:
+* * *
+(2) all advertising of about health care services or a medical business
+that is intended or has a tendency to mislead or deceive the public or impose
+upon credulous or ignorant persons and so be harmful or injurious to public
+morals or safety;
+* * *
+(21) permitting one’s name or license to be used by a person, group, or
+corporation when not actually in charge of, or responsible for, or actively
+overseeing the treatment given or other health care services provided;
+* * *
+(29) delegation of professional responsibilities, including delivery of any
+health care services, to a person whom the licensed professional knows, or has
+reason to know, is not qualified by any combination of training, experience,
+education, or licensing credentials to perform them;
+* * *
+(33)(A) providing, prescribing, dispensing, or furnishing medical
+services or prescription medication or prescription-only devices to a person in
+response to any communication transmitted or received by computer or other
+electronic means, when the licensee fails to take the following actions to
+establish and maintain a proper physician-patient relationship:
+(i) a reasonable effort to verify that the person requesting
+medication is in fact the patient, and is in fact who the person claims to be;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 30 of 34
+(ii) establishment of documented diagnosis through the use of
+accepted medical practices; and
+(iii) maintenance of a current medical record;
+(B) for the purposes of this subdivision (33), an electronic, on-line
+online, or telephonic evaluation by questionnaire is inadequate for the initial
+evaluation of the patient, except as otherwise provided in subdivision (C)(iv) of
+this subdivision (33);
+(C) the following would not be in violation of this subdivision (33) if
+transmitted or received by computer or other electronic means:
+(i) initial admission orders for newly hospitalized patients;
+(ii) prescribing for a patient of another physician for whom the
+prescriber has taken the call;
+(iii) prescribing for a patient examined by a licensed advanced
+practice registered nurse, physician assistant, or other advanced practitioner
+authorized by law and supported by the physician;
+(iv) in furtherance of 18 V.S.A. chapter 223, prescribing
+medication for an individual to terminate the individual’s pregnancy based on
+an adaptive questionnaire that allows the licensee to obtain additional medical
+history and ask follow-up questions as needed;
+(v) continuing medication on a short-term basis for a new patient,
+prior to the patient’s first appointment; or
+(v)(vi) emergency situations where life or health of the patient is
+in imminent danger;
+* * *
+(b) Failure to practice competently. The Board may also find that failure
+to practice competently by reason of any cause on a single occasion or on
+multiple occasions constitutes unprofessional conduct. Failure to practice
+competently includes, as determined by the Board:
+(1) performance of unsafe or unacceptable patient care; or
+(2) failure to conform to the essential standards of acceptable and
+prevailing practice.
+(c) Burden of proof. The burden of proof in a disciplinary action shall be
+on the State to show by a preponderance of the evidence that the person has
+engaged in unprofessional conduct.
+(d)(1) Health care providers. Notwithstanding any other law to the
+contrary, no health care provider who is certified, registered, or licensed in
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 31 of 34
+Vermont shall be subject to professional disciplinary action by the Board, nor
+shall the Board take adverse action on an application for certification,
+registration, or licensure of a qualified health care provider, based solely on:
+(A)(1) the health care provider providing or assisting in the provision of
+legally protected health care activity; or
+(B)(2) a criminal, civil, or disciplinary action in another state against
+the health care provider that is based solely on the provider providing or
+assisting in the provision of legally protected health care activity.
+(2)(e) Definitions. As used in this subsection section:
+(A)(1) “Health care provider” means a person who provides
+professional health care services to an individual during that individual’s
+medical care, treatment, or confinement.
+(B)(2) “Health care services” means services for the diagnosis,
+prevention, treatment, cure, or relief of a physical or mental health condition,
+including counseling, procedures, products, devices, and medications.
+(C)(3) “Legally protected health care activity” has the same meaning as
+in 1 V.S.A. § 150.
+Sec. 8. 26 V.S.A. § 1615 is amended to read:
+§ 1615. ADVANCED PRACTICE REGISTERED NURSES;
+REGULATORY AUTHORITY; UNPROFESSIONAL CONDUCT
+(a) In addition to the provisions of 3 V.S.A. § 129a and section 1582 of this
+chapter, the Board may deny an application for licensure, renewal, or
+reinstatement or may revoke, suspend, or otherwise discipline an advanced
+practice registered nurse upon due notice and opportunity for hearing if the
+person engages in the following conduct:
+* * *
+(6) Providing Except as otherwise provided in subsection (b) of this
+section, providing, prescribing, dispensing, or furnishing medical services or
+prescription medication or prescription-only devices to a person in response to
+any communication transmitted or received by computer or other electronic
+means when the licensee fails to take the following actions to establish and
+maintain a proper provider-patient relationship:
+(A) a reasonable effort to verify that the person requesting
+medication is in fact the patient and is in fact who the person claims to be;
+(B) establishment of documented diagnosis through the use of
+accepted medical practices; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 32 of 34
+(C) maintenance of a current medical record.
+* * *
+(b)(1) For the purposes of subdivision (a)(6) of this section, an electronic,
+online, or telephonic evaluation by questionnaire is inadequate for the initial
+evaluation of the patient, except as otherwise provided in subdivision (2)(D) of
+this subsection.
+(2) The following would not be in violation of subdivision (a)(6) of this
+section:
+(A) initial admission orders for newly hospitalized patients;
+(B) prescribing for a patient of another provider for whom the
+prescriber has taken call;
+(C) prescribing for a patient examined by a licensed APRN,
+physician assistant, or other practitioner authorized by law and supported by
+the APRN;
+(D) in furtherance of 18 V.S.A. chapter 223, prescribing medication
+for an individual to terminate the individual’s pregnancy based on an adaptive
+questionnaire that allows the licensee to obtain additional medical history and
+ask follow-up questions as needed;
+(E) continuing medication on a short-term basis for a new patient
+prior to the patient’s first appointment; or
+(E)(F) emergency situations where the life or health of the patient is
+in imminent danger.
+Sec. 9. 26 V.S.A. § 1658 is amended to read:
+§ 1658. UNPROFESSIONAL CONDUCT
+(a) The following conduct and the conduct described in section 1354 of this
+title by a certified anesthesiologist assistant constitutes unprofessional
+conduct. When that conduct is by an applicant or person who later becomes
+an applicant, it may constitute grounds for denial of certification:
+* * *
+(17) delegating professional responsibilities to a person whom the
+certified professional knows, or has reason to know, is not qualified by any
+combination of training, experience, education, or licensing credentials to
+perform;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 33 of 34
+* * *
+Sec. 10. 26 V.S.A. § 1736 is amended to read:
+§ 1736. UNPROFESSIONAL CONDUCT
+(a) The following conduct and the conduct described in section 1354 of this
+title by a licensed physician assistant shall constitute unprofessional conduct;
+when that conduct is by an applicant or person who later becomes an
+applicant, it may constitute grounds for denial of licensure:
+* * *
+(2) occupational advertising or advertising about health care services
+that is intended or has a tendency to mislead or deceive the public;
+(3) exercising undue influence on or taking improper advantage of a
+person using the individual’s services, or promoting the sale of professional
+goods or services in a manner that exploits a person for the financial gain of
+the practitioner or of a third party;
+(4) failing to comply with provisions of federal or state statutes or rules
+governing the profession;
+(5) conviction of a crime related to the profession; and
+(6) conduct that evidences unfitness to practice in the profession.
+* * *
+(d) As used in this section, “health care services” means services for the
+diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+condition, including counseling, procedures, products, devices, and
+medications.
+Sec. 11. 26 V.S.A. § 2024 is added to read:
+§ 2024. CONFIDENTIALITY OF PRESCRIBER INFORMATION ON
+MEDICATIONS FOR LEGALLY PROTECTED HEALTH CARE
+ACTIVITY
+(a) As used in this section, “gender-affirming health care services” and
+“reproductive health care services” have the same meanings as in 1 V.S.A.
+§ 150.
+(b) Upon the request of a prescribing practitioner and to the extent not
+expressly prohibited under federal law, a pharmacist shall not list the
+practitioner’s name on a fulfilled prescription for medication for gender-
+affirming health care services or reproductive health care services but shall
+instead list the name of the facility at which the practitioner is employed or is
+a contract employee.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.28
+2025 Page 34 of 34
+(c) Nothing in this chapter or the rules governing the pharmacy profession
+shall be construed to require a pharmacist to list the prescribing practitioner’s
+name on a fulfilled prescription for medication for gender-affirming health
+care services or reproductive health care services.
+Sec. 12. 26 V.S.A. § 2858 is amended to read:
+§ 2858. UNPROFESSIONAL CONDUCT
+(a) The following conduct and the conduct described in section 1354 of this
+title by a certified radiologist assistant constitutes unprofessional conduct.
+When that conduct is by an applicant or person who later becomes an
+applicant, it may constitute grounds for denial of certification:
+* * *
+(17) delegating professional responsibilities to a person whom the
+certified professional knows or has reason to know is not qualified by any
+combination of training, experience, education, or licensing credentials to
+perform;
+* * *
+Sec. 13. EFFECTIVE DATE
+This act shall take effect on passage.
+
+[DELETED: LASIDADPDBYSES5Pe1of3SIdbySsH,L,C,G,VyadWRdtoCeonHhadWD:Jy2,2S:H;hhcep;lypdhhclspyc;CrPnAulc;mna;fldhrStofpeofblasi:Tsblpstoedtpnonueormgagbyal0pycrurteCrPnAttoaytoayueo1mgagathhces.Itwdees2ryfrldhhcepswopessat3lspycrfrtesspdattecra4wdreleigttfetoeetessa5cdinaewhtelwcdceulc6Teblwdaocyadedtetsofasttcdb7cdulctfrp,pna8adperdn,adncpsurt9les.Teblwdeersonap0pna,oradperdnep1mntoteanispybdona]
+[DELETED: LASIDADPDBYSES5Pe2of3ecororoecnwhtei.ItwdasyttfldhrsrdbylwmtbektcAnatrgtoastocnlypdhhcesItishyedbyteGlAyofteSeofVS.1.9V.cr6,sr11isadtorSr1.PySsCsHhCeS§2.F;LEI()F.TeGlAyfst()Csttsktoclcsata,onr0toascspycsorlspyc,h1becnastec,iginV.A2inattessttalspyc3p,inantoftatofisl,i4eltoeeisintsSetomeiddsa5trc.Tsisisbgidofwrtya6rgssfmaldadqdhhceprat7lspyc,astsasistodei8tyndtoskmlceeeinortoceorte9p]
+[DELETED: LASIDADPDBYSES5Pe3of3()Ahselspycsoaeintra,ontrw,adattrfsttynrpeasnrrrcstoorpsofas,ospecgadmgintopiscganbylgteistobettrfsoranssadudc.Selsspycshepdpyfeorbdmcsata,p,c,adrehhcp0()Feadmgagbycsttdontororr1csfranisofslcntoteSebeoftet2seadcypdneoftedntoceo3teap.Wnaptilismdiob4ttacrosssttitdsntinftororrsfeo5mginrghhceo,teillst6cltotednwrtoteapyadmylet7ontoceaprmdortoteapyata8()Tgtethishwtdhhcepsd9rtfrp,frt,pes,adcea0etwebtpsinsddgcnf1Wtvyininadc,itisdtf]
+[DELETED: LASIDADPDBYSES5Pe4of3istomei,vycsttaeeltooseofplayada()Agssadelinathceosttlkt,uemgorastmtoroessp,orpefyiinaeafmofmnttdsiust,bshhd,adcnrtinpth()I()ItisteitofteGlAytoeetttepci0pdwha,flinattetsofhhc1ssttaeaetoptisintsS.TeG2Ayrstecypdrtofehilt3plrea,whisterttorec4h,adnginatteisosadt5mei,vycsarcgalrti6()TeGlAyrstertofl7pycstoclisata,adngint8srsdbecdtor,l,orclsha9§2.DSD0Asudintss]
+[DELETED: LASIDADPDBYSES5Pe5of3()“”msaymlttidtoiettno,ortot,acydepyetftepeofpgaleb()“”msanilwoisigatorsssatapyssc()“yc”msaydgadbyteUFdadDgAnasacemdfruearsi,wrpdortecrorbyp()“hi”msayolorwninina0fmormmttrstohhieortep,p,orf1plormlhhorcnofac2()“spyc”msapys3crttdsntdyp,orperstocsf4asoreyc5()“yssc”msaf,igam6f,wetepypeistopesstoisw7aeormybeptadtterosocu,o8s,orplcetoptisorhsteaeof9mlf.Apysscrhsteaeofam0fyiftoormeoftefgfsaep]
+[DELETED: LASIDADPDBYSES5Pe6of3()Tecrospytgorpyd,ob()Tecrhssforvswowrmlaeou()Tecrcsoeormeent()Tecrcsapeorsermoracgmlssormli()Tecrhssforvswocthhifmc0()TecrisldontesepsasaS1mlfyorprorssfysewhaS2mlp3()“”msldadisorasora4ptt5“hces”msssfrted,p,t6c,orrfofap,d,b,ormlhhcno7seued,igc,p,p,d8adm9§2.URADDEA0()Itisanuraddeatadpeincead1vnofsn23oftstefraylspyc]
+[DELETED: LASIDADPDBYSES5Pe7of3pntodeorcetobeddtotepcayaattehhcessorpdsspdatttcritsSettisueorcyddtomdtepcattneoftessp.Agisrsmdytoc;mgp;cninaypm,shasn,m,m,orh;adabtm,shastnorr,tem,oagorteItitshasthwsa,wbaa,adslm.Frpsoftsc,ago0tepnofssbyalspycrath1cessisanatinc2()Hhcepsc,r,orldurTe26o3teVtSsAdwoaeedb,cdtop4ssfroronbfo,orvrtopessatal5sspycrslberefrcgadp6hhces,i,adcgattec.Tefeof7hhceplc,r,orldurTe26oft8VtSsAdtoctortoeetthhces9i,adcgattelspyssc0aecdinaewhSelwadplsso]
+[DELETED: LASIDADPDBYSES5Pe8of3pemyceulctur3V.§1aad2V.§1.[()TeAyGlhsteseaytomer,ccli,adbgclaswhrttovsosn()oftssnaspdursr1oftscS.2.18V.§2isadtor§5.R()Tefgfldsslberdbytehp,orfldrdytoteCrwnsnd0ardyonfspdbyteD1()Alfldsof20ormewsofgno,i2glaeisu,of40ormeg,15ormeo,f3wtslber4()Altcorida,aslyadtob5p,ofaylhgnorwtslber6()Ssasadecpsoflstn27wsgnaentrdtober8()Tepnwotsawnasartofameo9anslrttefldhifitisntkntobepyr0ursn()oftss.Ifteiseeofveoro1ulorssc,temlerslb]
+[DELETED: LASIDADPDBYSES5Pe9of3iyn,adheorsetemlerslcealttemlisonter.Ifafldristobeitepnmydetotefldrteryfcgisortnteofamln.S,tpnmydeteryfrcnofnlitoaeplhgastorscgtei()Ifafldhosonamgc,tepeofoslbegnastetnorcywerlfmtevetkp()Fldhrsmepttosn()oftssna0frslpsoyadaentpcr.Tyslbek1cladslbeddarfey2S.3.26V.§4isadtor3§1.ULC4()Pdc.TeBdslfdttayoeoftef5oraycnoftef,wrtectatiew6cdwnoroeteS,csulc7**8()alagofhhcessoramlbstti9idorhsatytoc,m,ordetepco0ieuncsoritpsadsobehlorist1pcmsors]
+[DELETED: LASIDADPDBYSES5Pe10of3**()pgosneorletobeudbyap,gorcnwnntayinceoforrefrtetgnororhhcessp()fgtopeaeotorttororhcessttaepdugorrguntelsneol()fgtoaymrtee,t,adeeoispgttororhhcessttaep0ugorrguntelsneorl;o1()fgtorwadaeinatttorh2cessttaepdugorrguntelsneo3leprtocnofteintousorpluso4tettors5**6()dnofplr,igdyo7ayhhces,toapnwmteldplk,o8hsrntok,isntqdbyt,e,e,o9lgcstopmt0**]
+[DELETED: LASIDADPDBYSES5Pe11of3()p,p,d,orfgmssorpnmnorpydstoapniretoaycntdorrdbycroroecm,wntelefstotetefgastehadmnaprptr()areettovytttepnrmnisinfttep,adisinftwotepncstob()etofdddsthteueoadmlp;a0()meofactmlr1()frtepsoftssn(,ane,o2o,ortcenbyqeisiefrtei3enoftep,etasoepdinsn(4oftssn(5()tefgwdntbeinvnoftssn()i6tdorrdbycrororecm7()ilanosfrnyhdp8()pgfraptofarpnfrwmt9prhstntec]
+[DELETED: LASIDADPDBYSES5Pe12of3()pgfraptedbyaldaperdn,pna,ororadpadbylwadsdbytep()infeof18V.cr2,pmnfraniltoteteispybdoanaeqettasteletoonalmhyadakfpqsasn()cgmnonasmbsfranwpprtotepsfta;o0()eyssweleorhhoftepti1initd2**3()Fetopec.TeBdmyaofdttfet4pecybyrnofayceonaseonoro5meoscsulc.Fetop6cyi,asddbyteB7()peofueorueptc;o8()fetocmtoteelssofaea9pgp]
+[DELETED: LASIDADPDBYSES5Pe13of3()Bnofp.TebnofpfinadyanslbonteSetoswbyapeofteeetttepnhedinulc()Hhcep.Ngayorlwtotc,nohhceprwoisc,r,orldiVtslbesttopldyanbyteB,nslteBdteaeanonananfrcr,orleofaqdhhcep,bdsyo()tehhceprpgoragintepno0lypdhhcea;o1()ac,c,ordyaninarseatt2hhceprttisbdsyonteprpgora3intepnoflypdhhcea4()D.Asudintssns5()“hcep”msapnwop6plhhcesstoanildgtti7mlc,t,orc8()“hces”msssfrted9p,t,c,orrfofaplormlhhc0igc,p,p,d,adm]
+[DELETED: LASIDADPDBYSES5Pe14of3()“ypdhhcea”hstesemgain1V.§1S.4.26V.§2isadtor§1.RYA;ULC()TeBdmydyananfrl,r,or;reorsdayletopeidbyi;odeorinorwscntepeofanatorlundeneadoyfrhgiftepnesintfgctortectstfhin3V.§10**1()eginctofacrlytoc,m2d,d,orhmtep3**4()pgosneorletobeudbyap,g5orcnwnntayinceoforrefrtet6gnororhhcessp7()fgtopeaeotorttororh8cessttaepdugorrguntelsneo9l]
+[DELETED: LASIDADPDBYSES5Pe15of3()fgtoaymrtee,t,adeeoispgttororhhcessttaepugorrguntelsneorl;o()fgtorwadaeinatttorhcessttaepdugorrguntelsneoleprtocnofteintousorplusotettors**()Asudintss,“hs”msssfrt0d,p,t,c,orrfofaplormlh1c,igc,p,p,d,a2m3**4S.5.26V.§5isadtor5§1.ADPERDN6RYA;ULC7()Inantotepsof3V.§1aadsn12oft8c,teBdmydyananfrl,r,o9rtormyr,s,oroedeana0perdneundeneadoyfrhgift1pnesintefgc]
+[DELETED: LASIDADPDBYSES5Pe16of3**()PgEtasoepdinsn()ofts,p,p,d,orfgmlssopnmnorpydstoapninretaycntdorrdbycrororemswntelefstotetefgastoehamnaprptr()areettovytttepnrmnisinftteptadisinftwotepncstob0()etofdddsthteueo1admlp;a2()meofactmlr3**4()Pgosneorletobeudbyap,g5orcnwnntayinceoforrefrtet6gnororhhcessp7()fgtopeaeotorttororh8cessttaepdugorrgunteAsneo9l]
+[DELETED: LASIDADPDBYSES5Pe17of3()fgtoaymrtee,t,adeofispgttororhhcessttapdugorrgunteAsneorl;o()fgtorwadaeinatttohhcessttaepdugorrgunteAsnorleprtocnofteintousorpluoftettors()Frtepsofsn()oftss,aneo,ortcenbyqeisiefrtei0enoftep,etasoepdinsn()o1tss2()Tefgwdntbeinvnofsn()oft3s4()ilanosfrnyhdp5()pgfraptofarprfrwmt6prhstnc7()pgfraptedbyaldA8pna,ororpradbylwadsdb9teA0()infeof18V.cr2,pgm1franiltoteteispybdonana]
+[DELETED: LASIDADPDBYSES5Pe18of3qettasteletoonalmlhyaakfpqsasn()cgmnonasmbsfranwpprtotepsfta;o()eyssweteleorhhofteptiinitd()Asudintss,“hs”msssfrtd,p,t,c,orrfofaplormlhc,igc,p,p,d,a0m1S.6.26V.§6isadtor2§1.ULC3()Tefgctadtectddinsn14o4tstebyaldpnatslceu5c;wnttctisbyanatorpnwolrbsa6a,itmycegsfrdlofl7**8()olagoragathhces9ttisidorhsatytoc,m,ordetep0()egueieonortgiraeof1pnugteiss,orpgteseofp]
+[DELETED: LASIDADPDBYSES5Pe19of3gsorssinamrttesapnfrteflgnoteprorofatdp()fgtocywhpsofflorsessorrggtep()cnofacerdtotep;a()ctttesustopeintep**()Asudintss,“hs”msssfrtd,p,t,c,orrfofaplormlh0c,igc,p,p,d,a1m2S.7.26V.§2isadtor3§1.ULC4()Apnldasanocpnurtscrs5nteeinulc.Ifshctiscdbya6a,itslbegsfrdlofal7()Ulctmstefgctadcts8fhin3V.§19**]
+[DELETED: LASIDADPDBYSES5Pe20of3()Dgplr,igtedyohhces,toapnwowmteleksorhsrtokwisntqdbyt,e,orletopmt**()Pgosneorletobeudbyap,gorcnwnntayinceoforrefrtetororhhcessp()fgtopeaeotorttororhcessttaepdugorrguntelsneo0l1()fgtoaymrtee,t,ade2ofispgttororhhcesstta3pdugorrguntelsneorl;o4()fgtorwadaeinattto5hhcessttaepdugorrguntel6neorleprtocnofteintousorp7usoftettors8()Asudintss,“hs”msssfrt9d,p,t,c,orrfofaplormlh0c,igc,p,p,d,a1m]
+[DELETED: LASIDADPDBYSES5Pe21of3S.8.26V.§4isadtor§.CYOFPRINOMSFRLYPDHHCA()Asudintss,“ghhces”a“ehhces”hetesemsasin1V§()Untertofapgpradtoteetneypdurfll,aptslntltt0psneonafdpnfrmnfrg1aghhcessorrehhcessbts2idltteneoftefyatwhteprisedoris3cte4()Ngintscrortersggtepyp5slbecdtoreapttolttepgp6neonafdpnfrmnfrggh7cessorrehhces8S.9.26V.§2isadtor9§4.ULC]
+[DELETED: LASIDADPDBYSES5Pe22of3()Tefgctadctstfhin3V.§1abypnldasancpnurtscroranafrlecsulc**()Dgplr,igtedyohhces,toapnwmteleksorhsrntkwisntqdbyt,e,orletopmt()Pgosneorletobeudbyap,gorcnwnntayinceoforrefrtet0ororhhcessp1()fgtopeaeotorttororh2cessttaepdugorrguntelsneo3l4()fgtoaymrtee,t,ade5ofispgttororhhcesstta6pdugorrguntelsneorl;o7()fgtorwadaeinattto8hhcessttaepdugorrguntel9neorleprtocnofteintousorp0usoftettors1**]
+[DELETED: LASIDADPDBYSES5Pe23of3()Asudintss,“hs”msssfrtd,p,t,c,orrfofaplormlhc,igc,p,p,d,amS.1.EEDTsatslteetonp.1.1V.§)isadtor)Tefgpcrsaeetfmpcina*)RshdbyteOeofPlR,BdolP,orarpcayttisoeormel,orrstoeeinaSdpnonifterscnteten,elala,ormga,oracnoft,ofalwohsadfrorhsbngdal,c,ontopeapnoronintsS,ettttcaysldeayasttteilhsddapcasinter.2.3V.§aisadtor1.ULC)Inantoayorpnofl,tefgctbyecsulc.Wnttctisbyatorpnwolrbsana,itmycegrdlofaleorordya.Ayoeoftefsoraycnofi,wrtectatiewscnoroeteS,slceulc)Ftordeptorueofal)A,igagathhces,ttidorhsatytodeorm*]
+[DELETED: LASIDADPDBYSES5Pe24of3)Dgplr,igtedyohces,toapnwmteldplk,orhntok,isntqdbyaycnoft,e,orlgcstopmt,orkyplsnorsgasaprtoapnwohsnnldorrdasrdbytelsofttpsp*)Pgosneorletobeudbyap,g,onwnntayinceoforref,oragteplssp*)Hhcep.Ngsn()oftssrayorlwtotec,nohhceprwoisc,orldinVtslbesttopldnbyabdorteD,nrslabdorteDrteanonananfrc,r,orleoqdhhcep,bdsyo*)D.Asudintss*)“hces”msssfrted,t,c,orrfofaplormlhhcgc,p,p,d,adm*.3.9V.cr6,sr11isadtorr1.PySsCsHhCeS2.F;LEI)F.TeGlAyfst)Csttsktoclcsata,onroascspycsorlspyc,hecnastec,iginV.Anattessttalspyc,inantoftatofisl,iltoeeisintsSetomeiddsarc.Tsisisbgidofwrtyagssfmaldadqdhhceprat]
+[DELETED: LASIDADPDBYSES5Pe25of3spyc,astsasistodeiyndtoskmlceeeinortoceorte)Ahselspycsoeintra,ontrw,adattrfstynrpeasnrrrcstoorpsofa,ospecgadmgintopscganbylgteistobetrfsoranssadudc.Selspycshepdpyfeorbdmsata,p,c,adrehhc)FeadmgagbycsttdontororcsfranisofslcntoteSebeofteteadcypdneoftedntoceoeap.Wnaptilismdiobtacrosssttitdsntinftororrsfeoginrghhceo,teillstltotednwrtoteapyadmyletntoceaprmdortoteapyata)Tgtethishwtdhhcepsdtfrp,frt,pes,adceatwebtpsinsddgcnftvyininadc,itisdtfstomei,vycsttaeeltooeofplayada)Agssadelinatheosttlkt,uemgorasttoroessp,orpefyinaeafmofmnttdsist,bshhd,adcnrtinpth)I)ItisteitofteGlAytoeetttepcidwha,flinattetsofhhcsttaeaetoptisintsS.TeGyrstecypdrtofehiltlrea,whisterttorec,adnginatteisosadtei,vycsarcgalrti]
+[DELETED: LASIDADPDBYSES5Pe26of3)TeGlAyrstertoflycstoclisata,adngintrsdbecdtor,l,orclsha2.DSDsudintss)“”msaymlttidtoietno,ortot,acydepyetfepeofpgaleb)“”msanilwoisigatorssatapyssc)“yc”msaydgadbyteUdadDgAnasacemdfruears,wrpdortecrorbyp)“hi”msayolorwnininamormmttrstohhieortep,p,orflormlhhorcnofac)“spyc”msapysrttdsntdyp,orperstocsfsoreyc)“yssc”msaf,igam,wetepypeistopesstoisweormybeptadtterosocu,o,orplcetoptisorhsteaeomlf.Apysscrhsteaeoflfyiftoormeoftefgfsaep)Tecrospytgorpyd,o)Tecrhssforvswowrmlaeo)Tecrcsoeormeent)Tecrcsapeorsermoragmlssormli)Tecrhssforvswocthhimc]
+[DELETED: LASIDADPDBYSES5Pe27of3)TecrisldontesepsasaSlfyorprorssfysewhaSlp)“”msldadisorasorattf“hces”msssfrted,t,c,orrfofap,d,b,olhhcnorseued,igc,p,d,adm2.URADDEA)Itisanuraddeatadpeinceadnofsn23oftstefraylspycntodeorcetobeddtotepcayattehhcessorpdsspdatttcrisSettisueorcyddtomdtepcatteoftessp.Agisrsmytoc;mgp;cninayp,shasn,m,m,orh;adatm,shastnorr,tem,ogorteItitshasthwsa,wba,adslm.Frpsoftsc,agoepnofssbyalspycrathessisanatinc)Hhcepsc,r,orldurTe26oeVtSsAdwoaeedb,cdtopsfroronbfo,orvrtopessatalspycrslberefrcgadphces,i,adcgattec.Tefeohhceplc,r,orldurTe26ofttSsAdtoctortoeetthhces,adcgattelspysscecdinaewhSelwadplssoemyceulctur3V.§1aad2.§1.[)TeAyGlhsteseaytomer,cli,adbgclaswhrttovson()oftssnaspdursr1oftsc.4.18V.§9isadtor4.Dsudintsp]
+[DELETED: LASIDADPDBYSES5Pe28of3*)“dhhcep”asudin18V.c,msap,apna,ancp,oradperdn.Asudincr17oftsptoetmaoisancp*.5.18V.§0isadtor5.Dsudintsc*)“dhhcep”msap,ap,ancp,oranadperdn)“locr”hstesemgasins2oftst.6.18V.§2isadtor5.R)Tefgfldsslberdbytehnldhhcep,orfldrdytotrwnsndsardyonfspdbyt)Alfldsof20ormewsofgno,ifgeisu,of40ormeg,15ormeo,flwtser)Altcorida,aslyadtob,ofaylhgnorwtslber)Ssasadecpsoflstn2sgnaentrdtober)Tepnldhhceplwotsawnartofameoranslrttefldhifitisnntobepyrdursn()oftss.Ifteieofveororulorssc,temrslbeiyn,adheorsetemlelceatlttemlisonter.Ifafldriobei,tepnldhhceplmydetefldrteryfrcgisortnteomln.S,tepnldhhcep]
+[DELETED: LASIDADPDBYSES5Pe29of3ydeteryfrcnofnlisteplhgastorscgtei)Ifafldhosonamgc,tepeofolbegnastetnorcywerlfmtevetkp)FldhrsRsmepttotssnaeflpsoyadaentpcr.Tyslbek;slntbeddordeinayc,c,ororp;adslbeddarfet.7.26V.§4isadtor1.ULC)Pdc.TeBdslfdttayoeoftefraycnoftef,wrtectatiewdwnoroeteS,csulc*)alagofathhcessoramlbtisidorhsatytomdordetepcorincsoritpsadsobehloristopsors*)pgosneorletobeudbyap,g,onwnntayinceo,orref,oragtettgnororhhcessp*)dnofplr,igdyofahces,toapnwmteldplk,orhntok,isntqdbyaycnoft,e,orlgcstopmt*)p,p,d,orfgmsorpnmnorpydstoapnietoaycntdorrdbycrorocm,wntelefstotetefgasthadmnaprptr)areettovytttepnrnisinfttep,adisinftwotepncstob]
+[DELETED: LASIDADPDBYSES5Pe30of3)etofdddsthteueodmlp;a)meofactmlr)frtepsoftssn(,ane,o,ortcenbyqeisiefrteinoftep,etasoepdinsn()ossn()tefgwdntbeinvnoftssn()idorrdbycrororecm)ilanosfrnyhdp)pgfraptofarpnfrwmtrhstntec)pgfraptedbyaldaerdn,pna,ororadpdbylwadsdbytep)infeof18V.cr2,pnfraniltoteteispybdonaeqettasteletoonalmyadakfpqsasn)cgmnonasmbsfranwprtotepsfta;o)eyssweleorhhofteptinitd*)Fetopec.TeBdmyaofdttfopecybyrnofayceonaseonoroeoscsulc.Fetopyi,asddbyteB)peofueorueptc;o)fetocmtoteelssofaeagp)Bnofp.TebnofpfinadyanslbnteSetoswbyapeofteeetttepnhdinulc)Hhcep.Ngayorlwtot,nohhceprwoisc,r,orldi]
+[DELETED: LASIDADPDBYSES5Pe31of3tslbesttopldyanbyteB,nlteBdteaeanonananfrc,orleofaqdhhcep,bdsyo)tehhceprpgoragintepnoypdhhcea;o)ac,c,ordyaninarseaehhceprttisbdsyonteprpgogintepnoflypdhhcea)D.Asudintssns)“hcep”msapnwoplhhcesstoanildgttilc,t,orc)“hces”msssfrted,t,c,orrfofaplormlhhcgc,p,p,d,adm)“ypdhhcea”hstesemgan1V.§1.8.26V.§5isadtor1.ADPERDNYA;ULC)Inantotepsof3V.§1aadsn12oft,teBdmydyananfrl,r,otormyr,s,oroedeanaerdneundeneadoyfrhgiftnesintefgc*)PgEtasoepdinsn()oft,p,p,d,orfgmlssonmnorpydstoapninretycntdorrdbycrororeswntelefstotetefgastoehanaprptr)areettovytttepnrnisinftteptadisinftwotepncstob)etofdddsthteueodmlp;a]
+[DELETED: LASIDADPDBYSES5Pe32of3)meofactmlr*)Frtepsofsn()oftss,ane,ortcenbyqeisiefrteinoftep,etasoepdinsn()oss)Tefgwdntbeinvnofsn()oft)ilanosfrnyhdp)pgfraptofarprfrwmtrhstnc)pgfraptedbyaldAna,ororpradbylwadsdbeA)infeof18V.cr2,pgmraniltoteteispybdonanaettasteletoonalmlhyakfpqsasn)cgmnonasmbsfranwprtotepsfta;o)eyssweteleorhhofteptinitd.9.26V.§8isadtor1.ULC)Tefgctadtectddinsn14oftebyacdatatcsu.Wnttctisbyanatorpnwolrbna,itmycegsfrdlofc*)dgplrstoapnwmtdplk,orhsrntok,isntqdbyanoft,e,e,orlgcst]
+[DELETED: LASIDADPDBYSES5Pe33of3*.1.26V.§6isadtor1.ULC)Tefgctadtectddinsn14oftebyaldpnatslceulcnttctisbyanatorpnwolrbsa,itmycegsfrdlofl*)olagoragathhcestisidorhsatytomdordetep)egueieonortgiraeofnugteiss,orpgteseofpsorssinamrttesapnfrteflgnoeprorofatdp)fgtocywhpsofflorsessorrgtep)cnofacerdtotep;a)ctttesustopeintep*)Asudintss,“hces”msssfrt,p,t,c,orrfofaplormlh,igc,p,p,d,a.1.26V.§4isadtor.CYOFPRINOSFRLYPDHHC)Asudintss,“ghhces”aehhces”hetesemsasin1V)Untertofapgpradtoteetnypdurfll,aptslntlttsneonafdpnfrmnfrgghhcessorrehhcessbtsdltteneoftefyatwhteprisedoricte]
+[DELETED: LASIDADPDBYSES5Pe34of3)Ngintscrortersggtepyplbecdtoreapttolttepgpeonafdpnfrmnfrgghessorrehhces.1.26V.§8isadtor2.ULC)Tefgctadtectddinsn14oftebyacdrtatcsulcnttctisbyanatorpnwolrbsa,itmycegsfrdlofc*)dgplrstoapnwmtdplksorhsrntokwisntqdbyanoft,e,e,orlgcst*.1.EEDsatslteetonp]

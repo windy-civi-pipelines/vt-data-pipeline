@@ -1,0 +1,439 @@
+Title: BILL AS INTRODUCED H.213
+Official Title: BILL AS INTRODUCED H.213
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 9
+1 H.213
+2 Introduced by Representative Noyes of Wolcott
+3 Referred to Committee on
+4 Date:
+5 Subject: Crimes; human services; child abuse and neglect; assessment and
+6 investigation
+7 Statement of purpose of bill as introduced: This bill proposes to expand the
+8 bases of child abuse and neglect assessments and investigations by developing
+9 a statute to specify torture of a child and including investigatory bases for
+10 general lewd and lascivious conduct, as well as domestic assaults and offenses
+11 committed in the presence of a child. This bill also proposes including child
+12 advocacy centers and empaneled multidisciplinary teams in the assessment and
+13 investigation processes.
+14 An act relating to amending the bases and process of child abuse and
+15 neglect investigations
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 13 V.S.A. § 1304 is amended to read:
+18 § 1304. CRUELTY TO A CHILD; TORTURE OF A CHILD
+19 (a) A person over 16 years of age, having the custody, charge, or care of a
+20 child, who willfully through omission, neglect, or reckless act, assaults, ill
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 2 of 9
+1 treats, neglects, or abandons or exposes such child, or causes or procures such
+2 child to be assaulted, ill-treated, neglected, abandoned, or exposed, in a manner
+3 to cause such child unnecessary physical suffering or emotional distress, or to
+4 endanger his or her the child’s health, shall be imprisoned not more than two
+5 years or fined not more than $500.00, or both.
+6 (b)(1) A person is guilty of torture of a child when the person knowingly
+7 inflicts serious bodily injury or severe emotional distress, or both, against
+8 another person within the person’s custody, charge, or care.
+9 (2)(A) A person who is convicted of torture shall be imprisoned not
+10 more than five years or fined not more than $10,000.00, or both.
+11 (B) If the child suffers death, or serious bodily injury as defined in
+12 subdivision 1021(2) of this title, or is subjected to sexual conduct as defined in
+13 subdivision 2821(2) of this title, the person shall be imprisoned not more than
+14 ten 10 years or fined not more than $20,000.00, or both.
+15 (3) It shall not be an affirmative defense to a charge under this
+16 subsection that the alleged victim did not suffer pain.
+17 (2)(4) It shall be an affirmative defense to a charge under this subsection
+18 (b), if proven by a preponderance of the evidence, that the defendant engaged
+19 in the conduct set forth in subsection (a) of this section because of a reasonable
+20 fear that he or she the person or another person would suffer death, bodily
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 3 of 9
+1 injury, or serious bodily injury as defined in section 1021 of this title, or sexual
+2 assault in violation of chapter 72 of this title.
+3 (c) The provisions of this section do not limit or restrict the prosecution for
+4 other offenses arising out of the same conduct, nor shall it limit or restrict
+5 defenses available under common law.
+6 (d) As used in this section:
+7 (1) “Emotional distress” has the same meaning as in subdivision
+8 1061(2) of this title.
+9 (2) “Serious bodily injury” has the same meaning as in subdivision
+10 1021(a)(2) of this title.
+11 (3) “Sexual conduct” has the same meaning as in subdivision 2821(2) of
+12 this title.
+13 Sec. 2. 24 V.S.A. § 1940 is amended to read:
+14 § 1940. SPECIAL INVESTIGATIVE UNITS; BOARDS; GRANTS
+15 (a) Pursuant to the authority established under section 1938 of this title, and
+16 in collaboration with law enforcement agencies, investigative agencies,
+17 victims’ advocates, child advocacy centers, and social service providers, the
+18 Department of State’s Attorneys and Sheriffs shall coordinate efforts to
+19 provide access in each region of the State to special investigative units that:
+20 (1) shall investigate:
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 4 of 9
+1 (A) an incident in which a child suffers, by other than accidental
+2 means, serious bodily injury as defined in 13 V.S.A. § 1021; and
+3 (B) potential violations of:
+4 (i) 13 V.S.A. § 2602 (lewd or lascivious conduct with child);
+5 (ii) 13 V.S.A. chapter 60 (human trafficking);
+6 (iii) 13 V.S.A. chapter 64 (sexual exploitation of children);
+7 (iv) 13 V.S.A. chapter 72 (sexual assault); and
+8 (v) 13 V.S.A. § 1379 (sexual abuse of a vulnerable adult); and
+9 (2) may investigate:
+10 (A) an incident in which a child suffers:
+11 (i) bodily injury, by other than accidental means, as defined in 13
+12 V.S.A. § 1021; or
+13 (ii) death;
+14 (B) potential violations of:
+15 (i) 13 V.S.A. § 2601 (lewd and lascivious conduct);
+16 (ii) 13 V.S.A. § 2605 (voyeurism); and
+17 (iii) 13 V.S.A. § 1304 (cruelty to a child); and
+18 (3) may assist with the investigation of other incidents, including
+19 incidents involving domestic violence and crimes against vulnerable adults.
+20 * * *
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 5 of 9
+1 Sec. 3. 33 V.S.A. § 4915 is amended to read:
+2 § 4915. ASSESSMENT AND INVESTIGATION
+3 (a) Upon receipt of a report of abuse or neglect, the Department shall
+4 promptly determine whether it constitutes an allegation of child abuse or
+5 neglect as defined in section 4912 of this title. The Department shall respond
+6 to reports of alleged neglect or abuse that occurred in Vermont and to out-of-
+7 state conduct when the child is a resident of or is present in Vermont.
+8 (b) If the report is accepted as a valid allegation of abuse or neglect, the
+9 Department shall determine whether to conduct an assessment as provided for
+10 in section 4915a of this title or to conduct an investigation as provided for in
+11 section 4915b of this title. The Department shall begin either an assessment or
+12 an investigation within 72 hours after the receipt of a report made pursuant to
+13 section 4914 of this title, provided that it has sufficient information to proceed.
+14 The Commissioner may waive the 72-hour requirement only when necessary
+15 to locate the child who is the subject of the allegation or to ensure the safety of
+16 the child or social worker.
+17 (c) The decision to conduct an assessment shall include consideration of
+18 the following factors:
+19 (1) the nature of the conduct and the extent of the child’s injury, if any;
+20 (2) the accused person’s prior history of child abuse or neglect, or lack
+21 thereof; and
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 6 of 9
+1 (3) the accused person’s willingness or lack thereof to accept
+2 responsibility for the conduct and cooperate in remediation.
+3 (d) The Department shall conduct an investigation when an accepted report
+4 involves allegations indicating substantial child endangerment. For purposes
+5 of this section, “substantial child endangerment” includes conduct by an adult
+6 involving or resulting in sexual abuse, and conduct by a person responsible for
+7 a child’s welfare involving or resulting in abandonment, child fatality,
+8 malicious punishment, or abuse or neglect that causes serious physical injury.
+9 The Department may conduct an investigation of any report.
+10 (e) The Department shall begin an immediate investigation if, at any time
+11 during an assessment, it appears that an investigation is appropriate.
+12 (f) The Department may shall collaborate with child protection, law
+13 enforcement, child advocacy centers, empaneled multidisciplinary teams
+14 pursuant to section 4917 of this title, and other departments and agencies
+15 entities in Vermont and other jurisdictions to evaluate risk to a child and to
+16 determine the service needs of the child and family. The Department may
+17 enter into reciprocal agreements with other jurisdictions to further the purposes
+18 of this subchapter.
+19 (g) The Department shall report to and receive assistance from appropriate
+20 law enforcement in the following circumstances:
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 7 of 9
+1 (1) investigations of child sexual abuse by an alleged perpetrator 10
+2 years of age or older;
+3 (2) investigations of serious physical abuse or neglect requiring
+4 emergency medical care, resulting in death, or likely to result in criminal
+5 charges;
+6 (3) situations potentially dangerous to the child or Department worker;
+7 and
+8 (4) situations where children may have witnessed violence, injury,
+9 coercion, manipulation, or incidents of criminal activity; and
+10 (5) an incident in which a child suffers:
+11 (A) serious bodily injury as defined in 13 V.S.A. § 1021, by other
+12 than accidental means; and
+13 (B) potential violations of:
+14 (i) 13 V.S.A. § 2602 (lewd or lascivious conduct with child);
+15 (ii) 13 V.S.A. chapter 60 (human trafficking);
+16 (iii) 13 V.S.A. chapter 64 (sexual exploitation of children); and
+17 (iv) 13 V.S.A. chapter 72 (sexual assault);
+18 (v) 13 V.S.A. § 1304 (cruelty to a child; torture of a child);
+19 (vi) 13 V.S.A. chapter 19, subchapter 6 (domestic assaults;
+20 offenses committed within presence of a child); or
+21 (vii) 13 V.S.A. § 2601 (lewd and lascivious conduct).
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 8 of 9
+1 (h) Notwithstanding any law to the contrary, reports, assessments, or
+2 investigations that are not accepted pursuant to the criteria of this section shall
+3 be shared with local child advocacy centers and a member of the local Special
+4 Investigation Unit to evaluate whether to commence a criminal investigation or
+5 to provide support services for the well-being and safety of any children
+6 involved.
+7 Sec. 4. 33 V.S.A. § 4917 is amended to read:
+8 § 4917. MULTIDISCIPLINARY TEAMS; EMPANELING
+9 (a) The Commissioner or his or her the Commissioner’s designee may
+10 impanel a multidisciplinary team or a special investigative multitask force
+11 team, or both, wherever in the State there may be a probable case of child
+12 abuse or neglect that warrants the coordinated use of several professional
+13 services. These teams shall participate and cooperate with the local special
+14 investigation unit in compliance with 13 V.S.A. § 5415 and 24 V.S.A. § 1940.
+15 (b) The Commissioner or his or her the Commissioner’s designee, in
+16 conjunction with professionals and community agencies, shall appoint
+17 members to the multidisciplinary teams, which may include persons who are
+18 trained and engaged in work relating to child abuse or neglect such as
+19 medicine, mental health, social work, nursing, child care, child advocacy
+20 centers, education, law, or law enforcement. The teams shall include a
+21 representative of the Department of Corrections. Additional persons may be
+VT LEG #379816 v.1
+BILL AS INTRODUCED H.213
+2025 Page 9 of 9
+1 appointed when the services of those persons are appropriate to any particular
+2 case.
+3 (c) The empaneling of a multidisciplinary or special investigative multi-
+4 task multitask force team shall be authorized in writing and shall specifically
+5 list the members of the team. This list may be amended from time to time as
+6 needed as determined by the Commissioner or his or her the Commissioner’s
+7 designee.
+8 Sec. 5. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #379816 v.1
+[DELETED:  H P H I R R D S i S b a g c a i A n I S § ( c]
+[DELETED:  H P t c t e y ( i a ( m ( s s t ( s ( ( i f]
+[DELETED:  H P i a ( o d ( ( 1 ( 1 ( t S § ( i v D p (]
+[DELETED:  H P ( m ( ( ( ( ( ( ( ( ( V ( ( ( ( ( ( i *]
+[DELETED:  H P S § ( p n t s ( D i s a s T t t ( t ( ( t]
+[DELETED:  H P ( r ( i o i a m T ( d ( e p e d e o ( l]
+[DELETED:  H P ( y ( e c ( a ( c ( ( t ( ( ( ( ( ( ( o (]
+[DELETED:  H P ( i b I t i S § ( i t a s i ( c m t m c r]
+[DELETED:  H P a c ( t l n d S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.213
+2025 Page 1 of 9
+1 H.213
+2 Introduced by Representative Noyes of Wolcott
+3 Referred to Committee on
+4 Date:
+5 Subject: Crimes; human services; child abuse and neglect; assessment and
+6 investigation
+7 Statement of purpose of bill as introduced: This bill proposes to expand the
+8 bases of child abuse and neglect assessments and investigations by developing
+9 a statute to specify torture of a child and including investigatory bases for
+10 general lewd and lascivious conduct, as well as domestic assaults and offenses
+11 committed in the presence of a child. This bill also proposes including child
+12 advocacy centers and empaneled multidisciplinary teams in the assessment and
+13 investigation processes.
+14 An act relating to amending the bases and process of child abuse and
+15 neglect investigations
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 13 V.S.A. § 1304 is amended to read:
+18 § 1304. CRUELTY TO A CHILD; TORTURE OF A CHILD
+19 (a) A person over 16 years of age, having the custody, charge, or care of a
+20 child, who willfully through omission, neglect, or reckless act, assaults, ill
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 2 of 9
+1 treats, neglects, or abandons or exposes such child, or causes or procures such
+2 child to be assaulted, ill-treated, neglected, abandoned, or exposed, in a manner
+3 to cause such child unnecessary physical suffering or emotional distress, or to
+4 endanger his or her the child’s health, shall be imprisoned not more than two
+5 years or fined not more than $500.00, or both.
+6 (b)(1) A person is guilty of torture of a child when the person knowingly
+7 inflicts serious bodily injury or severe emotional distress, or both, against
+8 another person within the person’s custody, charge, or care.
+9 (2)(A) A person who is convicted of torture shall be imprisoned not
+10 more than five years or fined not more than $10,000.00, or both.
+11 (B) If the child suffers death, or serious bodily injury as defined in
+12 subdivision 1021(2) of this title, or is subjected to sexual conduct as defined in
+13 subdivision 2821(2) of this title, the person shall be imprisoned not more than
+14 ten 10 years or fined not more than $20,000.00, or both.
+15 (3) It shall not be an affirmative defense to a charge under this
+16 subsection that the alleged victim did not suffer pain.
+17 (2)(4) It shall be an affirmative defense to a charge under this subsection
+18 (b), if proven by a preponderance of the evidence, that the defendant engaged
+19 in the conduct set forth in subsection (a) of this section because of a reasonable
+20 fear that he or she the person or another person would suffer death, bodily
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 3 of 9
+1 injury, or serious bodily injury as defined in section 1021 of this title, or sexual
+2 assault in violation of chapter 72 of this title.
+3 (c) The provisions of this section do not limit or restrict the prosecution for
+4 other offenses arising out of the same conduct, nor shall it limit or restrict
+5 defenses available under common law.
+6 (d) As used in this section:
+7 (1) “Emotional distress” has the same meaning as in subdivision
+8 1061(2) of this title.
+9 (2) “Serious bodily injury” has the same meaning as in subdivision
+10 1021(a)(2) of this title.
+11 (3) “Sexual conduct” has the same meaning as in subdivision 2821(2) of
+12 this title.
+13 Sec. 2. 24 V.S.A. § 1940 is amended to read:
+14 § 1940. SPECIAL INVESTIGATIVE UNITS; BOARDS; GRANTS
+15 (a) Pursuant to the authority established under section 1938 of this title, and
+16 in collaboration with law enforcement agencies, investigative agencies,
+17 victims’ advocates, child advocacy centers, and social service providers, the
+18 Department of State’s Attorneys and Sheriffs shall coordinate efforts to
+19 provide access in each region of the State to special investigative units that:
+20 (1) shall investigate:
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 4 of 9
+1 (A) an incident in which a child suffers, by other than accidental
+2 means, serious bodily injury as defined in 13 V.S.A. § 1021; and
+3 (B) potential violations of:
+4 (i) 13 V.S.A. § 2602 (lewd or lascivious conduct with child);
+5 (ii) 13 V.S.A. chapter 60 (human trafficking);
+6 (iii) 13 V.S.A. chapter 64 (sexual exploitation of children);
+7 (iv) 13 V.S.A. chapter 72 (sexual assault); and
+8 (v) 13 V.S.A. § 1379 (sexual abuse of a vulnerable adult); and
+9 (2) may investigate:
+10 (A) an incident in which a child suffers:
+11 (i) bodily injury, by other than accidental means, as defined in 13
+12 V.S.A. § 1021; or
+13 (ii) death;
+14 (B) potential violations of:
+15 (i) 13 V.S.A. § 2601 (lewd and lascivious conduct);
+16 (ii) 13 V.S.A. § 2605 (voyeurism); and
+17 (iii) 13 V.S.A. § 1304 (cruelty to a child); and
+18 (3) may assist with the investigation of other incidents, including
+19 incidents involving domestic violence and crimes against vulnerable adults.
+20 * * *
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 5 of 9
+1 Sec. 3. 33 V.S.A. § 4915 is amended to read:
+2 § 4915. ASSESSMENT AND INVESTIGATION
+3 (a) Upon receipt of a report of abuse or neglect, the Department shall
+4 promptly determine whether it constitutes an allegation of child abuse or
+5 neglect as defined in section 4912 of this title. The Department shall respond
+6 to reports of alleged neglect or abuse that occurred in Vermont and to out-of-
+7 state conduct when the child is a resident of or is present in Vermont.
+8 (b) If the report is accepted as a valid allegation of abuse or neglect, the
+9 Department shall determine whether to conduct an assessment as provided for
+10 in section 4915a of this title or to conduct an investigation as provided for in
+11 section 4915b of this title. The Department shall begin either an assessment or
+12 an investigation within 72 hours after the receipt of a report made pursuant to
+13 section 4914 of this title, provided that it has sufficient information to proceed.
+14 The Commissioner may waive the 72-hour requirement only when necessary
+15 to locate the child who is the subject of the allegation or to ensure the safety of
+16 the child or social worker.
+17 (c) The decision to conduct an assessment shall include consideration of
+18 the following factors:
+19 (1) the nature of the conduct and the extent of the child’s injury, if any;
+20 (2) the accused person’s prior history of child abuse or neglect, or lack
+21 thereof; and
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 6 of 9
+1 (3) the accused person’s willingness or lack thereof to accept
+2 responsibility for the conduct and cooperate in remediation.
+3 (d) The Department shall conduct an investigation when an accepted report
+4 involves allegations indicating substantial child endangerment. For purposes
+5 of this section, “substantial child endangerment” includes conduct by an adult
+6 involving or resulting in sexual abuse, and conduct by a person responsible for
+7 a child’s welfare involving or resulting in abandonment, child fatality,
+8 malicious punishment, or abuse or neglect that causes serious physical injury.
+9 The Department may conduct an investigation of any report.
+10 (e) The Department shall begin an immediate investigation if, at any time
+11 during an assessment, it appears that an investigation is appropriate.
+12 (f) The Department may shall collaborate with child protection, law
+13 enforcement, child advocacy centers, empaneled multidisciplinary teams
+14 pursuant to section 4917 of this title, and other departments and agencies
+15 entities in Vermont and other jurisdictions to evaluate risk to a child and to
+16 determine the service needs of the child and family. The Department may
+17 enter into reciprocal agreements with other jurisdictions to further the purposes
+18 of this subchapter.
+19 (g) The Department shall report to and receive assistance from appropriate
+20 law enforcement in the following circumstances:
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 7 of 9
+1 (1) investigations of child sexual abuse by an alleged perpetrator 10
+2 years of age or older;
+3 (2) investigations of serious physical abuse or neglect requiring
+4 emergency medical care, resulting in death, or likely to result in criminal
+5 charges;
+6 (3) situations potentially dangerous to the child or Department worker;
+7 and
+8 (4) situations where children may have witnessed violence, injury,
+9 coercion, manipulation, or incidents of criminal activity; and
+10 (5) an incident in which a child suffers:
+11 (A) serious bodily injury as defined in 13 V.S.A. § 1021, by other
+12 than accidental means; and
+13 (B) potential violations of:
+14 (i) 13 V.S.A. § 2602 (lewd or lascivious conduct with child);
+15 (ii) 13 V.S.A. chapter 60 (human trafficking);
+16 (iii) 13 V.S.A. chapter 64 (sexual exploitation of children); and
+17 (iv) 13 V.S.A. chapter 72 (sexual assault);
+18 (v) 13 V.S.A. § 1304 (cruelty to a child; torture of a child);
+19 (vi) 13 V.S.A. chapter 19, subchapter 6 (domestic assaults;
+20 offenses committed within presence of a child); or
+21 (vii) 13 V.S.A. § 2601 (lewd and lascivious conduct).
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 8 of 9
+1 (h) Notwithstanding any law to the contrary, reports, assessments, or
+2 investigations that are not accepted pursuant to the criteria of this section shall
+3 be shared with local child advocacy centers and a member of the local Special
+4 Investigation Unit to evaluate whether to commence a criminal investigation or
+5 to provide support services for the well-being and safety of any children
+6 involved.
+7 Sec. 4. 33 V.S.A. § 4917 is amended to read:
+8 § 4917. MULTIDISCIPLINARY TEAMS; EMPANELING
+9 (a) The Commissioner or his or her the Commissioner’s designee may
+10 impanel a multidisciplinary team or a special investigative multitask force
+11 team, or both, wherever in the State there may be a probable case of child
+12 abuse or neglect that warrants the coordinated use of several professional
+13 services. These teams shall participate and cooperate with the local special
+14 investigation unit in compliance with 13 V.S.A. § 5415 and 24 V.S.A. § 1940.
+15 (b) The Commissioner or his or her the Commissioner’s designee, in
+16 conjunction with professionals and community agencies, shall appoint
+17 members to the multidisciplinary teams, which may include persons who are
+18 trained and engaged in work relating to child abuse or neglect such as
+19 medicine, mental health, social work, nursing, child care, child advocacy
+20 centers, education, law, or law enforcement. The teams shall include a
+21 representative of the Department of Corrections. Additional persons may be
+VT LEG #379816 v.1
+
+BILL AS INTRODUCED H.213
+2025 Page 9 of 9
+1 appointed when the services of those persons are appropriate to any particular
+2 case.
+3 (c) The empaneling of a multidisciplinary or special investigative multi-
+4 task multitask force team shall be authorized in writing and shall specifically
+5 list the members of the team. This list may be amended from time to time as
+6 needed as determined by the Commissioner or his or her the Commissioner’s
+7 designee.
+8 Sec. 5. EFFECTIVE DATE
+9 This act shall take effect on July 1, 2025.
+VT LEG #379816 v.1
+
+[DELETED:  H P H I R R D S i S b a g c a i A n I S § ( c]
+[DELETED:  H P t c t e y ( i a ( m ( s s t ( s ( ( i f]
+[DELETED:  H P i a ( o d ( ( 1 ( 1 ( t S § ( i v D p (]
+[DELETED:  H P ( m ( ( ( ( ( ( ( ( ( V ( ( ( ( ( ( i *]
+[DELETED:  H P S § ( p n t s ( D i s a s T t t ( t ( ( t]
+[DELETED:  H P ( r ( i o i a m T ( d ( e p e d e o ( l]
+[DELETED:  H P ( y ( e c ( a ( c ( ( t ( ( ( ( ( ( ( o (]
+[DELETED:  H P ( i b I t i S § ( i t a s i ( c m t m c r]
+[DELETED:  H P a c ( t l n d S T]

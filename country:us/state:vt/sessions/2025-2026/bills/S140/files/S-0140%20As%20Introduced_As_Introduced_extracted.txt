@@ -1,0 +1,900 @@
+Title: BILL AS INTRODUCED S.140
+Official Title: BILL AS INTRODUCED S.140
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 18
+1 S.140
+2 Introduced by Senators Vyhovsky, Gulick, Ram Hinsdale and Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedure; sentencing; life without parole; second look
+6 Statement of purpose of bill as introduced: This bill proposes to implement a
+7 second look sentencing review for individuals who have served not less than
+8 10 years of an incarcerative sentence or not less than half of an incarcerative
+9 sentence of at least five years, whichever is shorter. This bill also proposes to
+10 create a judicial procedure for the early release of offenders who have a
+11 terminal, incurable, or debilitating medical condition or who are not less than
+12 65 years of age, have serious medical needs, and are not a danger to the public.
+13 An act relating to implementing second look sentencing and compassionate
+14 release
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 13 V.S.A. § 7046 is added to read:
+17 § 7046. SECOND LOOK SENTENCING
+18 (a) Short title. This section may be cited as the “Second Look Act.”
+19 (b) Definitions. As used in this section:
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 2 of 18
+1 (1) “Authorized representative” means the incarcerated person’s
+2 counsel, family member, or a licensed health care professional.
+3 (2) “Developmental disability” has the same meaning as in 18 V.S.A.
+4 § 9302.
+5 (3) “Family member” has the same meaning as in subdivision 5301(2)
+6 of this title.
+7 (4) “Intellectual disability” has the same meaning as in 1 V.S.A. § 146.
+8 (5) “Mental illness” has the same meaning as in 18 V.S.A. § 7101(14).
+9 (6) “Successor judge” means the current judge presiding in the judicial
+10 unit where the original sentence was imposed if the original sentencing judge
+11 is unavailable.
+12 (7) “Victim” has the same meaning as in subdivision 5301(4) of this
+13 title.
+14 (c) Eligibility.
+15 (1) An incarcerated person may petition the judge who presided when
+16 the original sentence was imposed for a reduction of the person’s sentence if
+17 the person has served the lesser of:
+18 (A) 10 years in custody of the Department of Corrections; or
+19 (B) at least 50 percent of person’s sentence, provided the person was
+20 sentenced to at least five years of incarceration.
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 3 of 18
+1 (2) Notwithstanding any other provision of law to the contrary, an
+2 otherwise ineligible incarcerated person shall be deemed eligible to petition for
+3 a reduction in sentence upon consent of the prosecutor, regardless of the
+4 person’s number of years in custody.
+5 (3) Except as otherwise provided in this subsection, if a petition for a
+6 reduction in sentence filed pursuant to this section has been denied, the
+7 incarcerated person or an authorized representative shall not file another
+8 petition until at least two years have elapsed after the date the preceding
+9 petition was denied. A court may require a waiting period longer than two
+10 years, but in no event shall the waiting period be more than five years after the
+11 date the preceding petition was denied.
+12 (4) When a petition for a reduction in sentence made pursuant to this
+13 section has been granted and the total term of incarceration was reduced by at
+14 least 25 percent, the incarcerated person or an authorized representative shall
+15 not file a petition for a second sentencing reduction until at least five years
+16 have elapsed after the date the preceding petition was granted.
+17 (d) Procedure; petition.
+18 (1) After a person has served 40 percent of the person’s sentence in
+19 custody, the Department of Corrections shall, within 30 days, give written
+20 notice of this section to the incarcerated person and to the person’s counsel or,
+21 if the person is unrepresented, to the Office of the Defender General. The
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 4 of 18
+1 Department shall also give written notice of this section to the incarcerated
+2 person and to the person’s counsel or, if the person is unrepresented, to the
+3 Office of the Defender General, within 30 days after serving nine years and
+4 seven months in custody.
+5 (2) A petition for a sentence reduction pursuant to this section may be
+6 filed six months prior to the date upon which a person becomes eligible for a
+7 reduction in sentence pursuant to subsection (c) of this section.
+8 (3) The petition shall be filed by the incarcerated person, a prosecutor,
+9 or an authorized representative. A petition filed by an authorized
+10 representative shall be accompanied by an affidavit stating:
+11 (A) the reason that the incarcerated person is unable to file the
+12 petition;
+13 (B) a factual statement explaining the petitioner’s relationship to the
+14 incarcerated person; and
+15 (C) how the authorized representative is acting in the best interests of
+16 the incarcerated person.
+17 (4) The petition must be filed in writing in the Superior Court in which
+18 the original sentence was imposed and may include affidavits, declarations,
+19 letters, prison records, or other relevant written and electronic material. The
+20 petition shall include the following:
+21 (A) the name of the petitioner;
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 5 of 18
+1 (B) the name of the incarcerated person if different than the
+2 petitioner;
+3 (C) any docket number relevant to the petitioner’s resentencing
+4 request;
+5 (D) the name of the judge assigned to any docket number relevant to
+6 the petitioner’s resentencing request;
+7 (E) the offense and specific counts for which the incarcerated person
+8 was convicted relating to the resentencing request;
+9 (F) the current term of incarceration being served by the incarcerated
+10 person relating to the resentencing request; and
+11 (G) a factual statement explaining how the incarcerated person meets
+12 the eligibility requirements described in subsection (c) of this section.
+13 (e) Hearings.
+14 (1) Upon the court’s receipt of a petition filed pursuant to this section,
+15 the court shall, within 30 days, provide the prosecutor, the petitioner, and the
+16 incarcerated person if not the petitioner with a copy of the petition, including
+17 any attached material.
+18 (2) A petition made pursuant to this section shall be referred to the judge
+19 who presided over the imposition of the original sentence upon the petitioner.
+20 If, at the time of the petition to the court, the original sentencing judge is no
+21 longer available, then the petition shall be assigned to the successor judge.
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 6 of 18
+1 (3) Upon receiving the petition, the court shall determine whether the
+2 incarcerated person has served at least 10 years in custody of the Department
+3 of Corrections or at least 50 percent of the person’s sentence, provided that the
+4 person was sentenced to at least five years of incarceration. If the court
+5 determines that the incarcerated person has met the requirements of this
+6 subdivision, or if the prosecutor otherwise consents, the court shall set a
+7 hearing.
+8 (4) Unless the court finds good cause to hold the hearing at a later date
+9 or at the request of the petitioner, the court shall set the hearing not more than
+10 45 days after the date the petition is filed with the court if one or more of the
+11 following circumstances are met:
+12 (A) The incarcerated person has one or more medical conditions
+13 leading to major limitations in activities of daily living, including mental
+14 illness or an intellectual or developmental disability.
+15 (B) The incarcerated person has one or more medical conditions
+16 increasing the likelihood of contracting an illness or disease while incarcerated
+17 that could lead to death or cause the person to develop a medical condition that
+18 could prevent the performance of one or more activities of daily living without
+19 assistance. These conditions include any condition related to a weakened
+20 immune system, including human immunodeficiency virus (HIV) or acquired
+21 immune deficiency syndrome (AIDS); debilitating health conditions that occur
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 7 of 18
+1 as a result of dementia, Alzheimer’s disease, or similar degenerative brain
+2 disorders; cardiovascular disease; chronic lung disease or asthma; diabetes;
+3 hepatitis C; seizure disorders; the need for life-sustaining care such as feeding
+4 tubes or colostomy bags; disabling neurological disorders such as multiple
+5 sclerosis (MS) or amyotrophic lateral sclerosis (ALS); or any condition that
+6 requires or is expected to require specialty care or recurrent hospitalizations.
+7 (C) The petition is filed by a prosecutor.
+8 (5) If the petition does not meet the criteria of subdivision (4) of this
+9 subsection, unless the court finds good cause to hold the hearing at a later date
+10 or at the request of the petitioner, the court shall set the hearing date not more
+11 than:
+12 (A) 90 days after the date the petition is filed upon a finding that the
+13 incarcerated person has served over 20 years of the person’s sentence and is
+14 over 55 years of age; or
+15 (B) 180 days after the date the petition is filed upon a finding that the
+16 incarcerated person does not meet the criteria of subdivisions (4) and (5)(A) of
+17 this subsection (e).
+18 (6) If the court determines that the petitioner has not met the
+19 requirements pursuant to subdivisions (4) and (5) of this subsection (e) and the
+20 prosecutor does not consent, the court shall enter an order denying the petition
+21 and shall provide a copy of the order to the petitioner and, if the incarcerated
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 8 of 18
+1 person is not the petitioner, to the incarcerated person. The petitioner or
+2 incarcerated person may appeal this denial pursuant to subsection (i) of this
+3 section.
+4 (7) Upon setting a hearing, the court shall appoint counsel pursuant to
+5 chapter 163 of this title, if necessary. The court may direct the parties to
+6 supplement the record by submitting additional materials relating to the
+7 petition, if necessary. A petition filed under this section may be freely
+8 amended at any time prior to the hearing.
+9 (8) Upon a determination that the petition establishes eligibility pursuant
+10 to subdivision (c) of this section and the petition is assigned to a successor
+11 judge, the court shall not reconsider the sufficiency of the petition or decline to
+12 set a hearing.
+13 (9) When the court sets a resentencing hearing pursuant to this
+14 subsection, the court shall notify the petitioner, the incarcerated person if
+15 different than the petitioner; the Department of Corrections; and the prosecutor
+16 of the hearing date.
+17 (10) At a hearing pursuant to this subsection, the court may allow the
+18 parties to present any evidence that is relevant to the issue of a reduction in
+19 sentencing. Relevant evidence includes documents, testimony, tangible
+20 objects, or any other information germane to sentencing.
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 9 of 18
+1 (11) At a hearing under this section, the incarcerated person shall be
+2 present unless the person waives the right to be present. The incarcerated
+3 person shall have the right to testify or to remain silent at the person’s sole
+4 discretion. The incarcerated person shall be considered present for the
+5 purposes of the hearing if appearing by video teleconference upon consent of
+6 the parties.
+7 (12) Any hearing under this section shall be recorded or transcribed.
+8 (f) Grounds for sentence modification.
+9 (1) The court shall consider any evidence that is relevant to the issue of
+10 a reduction in sentencing, including:
+11 (A) the history and characteristics of the incarcerated person at the
+12 time of the petition for a reduction in sentence, including rehabilitation
+13 demonstrated by the incarcerated person; the incarcerated person’s disciplinary
+14 record while incarcerated; and the incarcerated person’s efforts to participate in
+15 educational, therapeutic, and vocational opportunities while imprisoned;
+16 (B) the age of the incarcerated person at the time of the offense and
+17 research regarding child, adolescent, and young adult brain development that
+18 meets evidentiary standards under the Vermont Rules of Evidence;
+19 (C) the age of the incarcerated person at the time of the sentence
+20 modification petition and research regarding desistance that meets evidentiary
+21 standards under the Vermont Rules of Evidence;
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 10 of 18
+1 (D) the nature of the incarcerated person’s offense, including
+2 changing societal attitudes regarding the propriety of criminalizing the offense
+3 and the appropriate sentence for the offense;
+4 (E) the circumstances surrounding the incarcerated person’s offense,
+5 including the person’s role in its commission, whether the person was under
+6 the influence of another person, and the proportionality of the person’s
+7 sentence compared to that received by other parties to the offense;
+8 (F) the circumstances of the incarcerated person’s incarceration,
+9 including the person’s conditions of confinement; the impact of the person’s
+10 incarceration on the community; and any evidence that the person was
+11 subjected to physical, sexual, or psychological abuse while incarcerated;
+12 (G) information concerning the incarcerated person’s current
+13 physical or mental health and the person’s physical or mental health at the time
+14 of the offense;
+15 (H) information that the incarcerated person was denied effective
+16 assistance of counsel at any stage in the case leading to the original sentence,
+17 including the ineffective assistance of counsel during plea bargaining;
+18 (I) information that the incarcerated person was wrongfully
+19 convicted;
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 11 of 18
+1 (J) information that the incarcerated person was subjected to human
+2 trafficking and that such victimization was a contributing factor to the person’s
+3 criminal behavior;
+4 (K) information that the incarcerated person was subjected to
+5 physical, sexual, or psychological abuse by an intimate partner or a family or
+6 household member and that such victimization was a contributing factor to the
+7 person’s criminal behavior; or
+8 (L) any other information the court deems relevant.
+9 (2) The court shall set forth, either in open court on the day of the
+10 hearing or in writing within 30 days after the hearing, the reasons for granting
+11 or denying a petition under this section.
+12 (g) Sentence modification.
+13 (1) In calculating the new term to be served by the incarcerated person,
+14 the court may consider a calculation of the shortest and longest lengths of time
+15 the person may be incarcerated under the individual’s existing sentence, taking
+16 into account the effect for time served as ordered by the court pursuant to
+17 section 7031 of this title, the provisions for reductions of term pursuant to 28
+18 V.S.A. § 811, and the provisions for earned time pursuant to 28 V.S.A. § 818.
+19 The court may request these calculations from the Commissioner of
+20 Corrections.
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 12 of 18
+1 (2) Upon the court’s determination that the incarcerated person meets
+2 the criteria pursuant to subdivision (e)(4)(A) of this section, there shall be a
+3 rebuttable presumption that the person’s sentence shall be reduced to time
+4 served.
+5 (3) Upon the court’s determination that the incarcerated person does not
+6 pose a significant risk to the community, there shall be a rebuttable
+7 presumption that the person’s sentence shall be reduced by at least 20 percent
+8 or reduced to a period not longer than five years of incarceration from the date
+9 of the filing of the petition, whichever results in a shorter term of incarceration.
+10 (4) If the prosecutor is the petitioner, the new term of incarceration to be
+11 served by the incarcerated person shall not be lengthier than the
+12 recommendation of the petitioner but may be shorter.
+13 (5) A court’s order granting an incarcerated person’s sentence
+14 modification shall be limited to the imposition of:
+15 (A) time served;
+16 (B) immediate parole;
+17 (C) sentencing alternatives pursuant to section 7030 of this title;
+18 (D) a lower minimum term of incarceration; or
+19 (E) a lower maximum term of incarceration.
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 13 of 18
+1 (6) Nothing in this section shall be construed to permit the court to
+2 impose a sentence of life without parole or an increase to the incarcerated
+3 person’s sentence in any circumstance.
+4 (h) Victim’s rights.
+5 (1) Upon receipt of a petition filed pursuant to this section, the
+6 prosecutor shall promptly notify any victim of the incarcerated person of the
+7 hearing date once it is scheduled.
+8 (2) The victim has the right to appear and the right to make a statement,
+9 oral or written, at the sentencing of the incarcerated person regarding the
+10 victim’s view of the crime, the person convicted, and the sentence.
+11 (3) The court shall not, in modifying a sentence, disturb any restitution
+12 awarded to a victim at the original sentencing.
+13 (i) Appeal.
+14 (1) Any party to a petition filed pursuant to this section shall have the
+15 right to appeal to the Supreme Court on the grounds that the sentence
+16 modification or its imposition is unlawful. The petitioner or incarcerated
+17 person shall also have the right to appeal to the Supreme Court on the ground
+18 that the sentence is otherwise contrary to considerations of sentencing pursuant
+19 to section 7030 of this title. The petitioner or incarcerated person may also
+20 appeal on the ground that the petitioner’s request for a hearing was unlawfully
+21 denied.
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 14 of 18
+1 (2) The right to appeal a sentence modification pursuant to this
+2 subsection shall be as of right on the same terms as a first appeal from an
+3 initial sentence at the time of conviction.
+4 (j) Construction.
+5 (1) Nothing in this section shall be construed to abridge or modify any
+6 existing remedy an incarcerated person may have pursuant to subchapter 2 of
+7 this chapter; habeas corpus; other statutory or judicial postconviction relief; or
+8 any other legal framework.
+9 (2) A petition filed pursuant to this section shall not impact in any way
+10 or be impacted in any way by any pending petitions pursuant to subchapter 2
+11 of this chapter; habeas corpus; or other postconviction proceedings, nor shall
+12 the denial of a petition filed pursuant to this section preclude these remedies
+13 from being pursued or granted.
+14 Sec. 2. 13 V.S.A. chapter 221, subchapter 5 is added to read:
+15 Subchapter 5. Petition for Compassionate Release
+16 § 7141. PETITION
+17 An offender who is serving a sentence of incarceration in the custody of the
+18 Commissioner of Corrections may petition the Superior Court of the county
+19 where the sentence was imposed for an order granting compassionate release.
+20 The petition may be informal but shall be in writing and shall include the
+21 offender’s name, offense, date of sentencing, sentence, and an explanation of
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 15 of 18
+1 why compassionate release is appropriate for the offender and how the
+2 offender satisfies the factors set forth in section 7142 of this subchapter. The
+3 offender shall serve a copy of the offender’s petition upon the superintendent
+4 of the facility in which the offender is incarcerated.
+5 § 7142. NOTICE, HEARING, AND DECISION
+6 (a) Unless the petition and the files and records of the case conclusively
+7 show that the offender is not entitled to relief, the court shall cause notice to be
+8 served upon the Office of the Attorney General and the State’s Attorney. The
+9 Office of the Attorney General and a State’s Attorney who receive notice may
+10 elect to appear as parties.
+11 (b) The court may decide the petition upon the files and records of the case
+12 or may grant a hearing. If the court grants a hearing, the court may entertain
+13 and decide the petition without requiring the offender to attend the hearing.
+14 (c) The court shall grant the petition if it finds by a preponderance of the
+15 evidence that:
+16 (1) the offender:
+17 (A) has been diagnosed with a terminal, incurable disease and has a
+18 life expectancy of 18 months or less;
+19 (B) has been diagnosed with an incurable and progressive illness or
+20 has suffered a debilitating injury and:
+21 (i) cannot provide self-care and is confined to a bed or chair; or
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 16 of 18
+1 (ii) can only provide limited self-care and is confined to a bed or
+2 chair for at least 50 percent of the inmate’s waking hours; or
+3 (C) is 65 years of age or older and:
+4 (i) suffers from a chronic or serious medical condition; or
+5 (ii) is experiencing deteriorating mental or physical health that
+6 diminishes the inmate’s ability to function in a correctional facility;
+7 (2) the offender is not a danger to the community and the offender’s
+8 release will not endanger public safety; and
+9 (3) compassionate release is appropriate.
+10 (d) If the court grants the petition, it may reduce the term of imprisonment
+11 and may impose a term of probation or supervised release with or without
+12 conditions that does not exceed the original term of imprisonment.
+13 § 7143. APPEALS
+14 An appeal may be taken to the Supreme Court from the order entered on the
+15 petition.
+16 § 7144. ASSIGNMENT OF COUNSEL
+17 The court may appoint counsel if, financially, the offender is unable to
+18 employ counsel, and may order that all necessary costs and expenses, including
+19 court costs, stenographic services, printing, and reasonable compensation for
+20 legal services, be paid by the State from the appropriation to the court where
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 17 of 18
+1 the sentence was imposed. On appeal, the Supreme Court may make a similar
+2 order.
+3 Sec. 3. 28 V.S.A. § 501 is amended to read:
+4 § 501. ELIGIBILITY FOR PAROLE CONSIDERATION
+5 (a) An inmate offender who is serving a sentence of imprisonment who is
+6 not eligible for presumptive parole pursuant to section 501a of this title shall be
+7 eligible for parole consideration as follows:
+8 (1) If the inmate’s offender’s sentence has no minimum term or a zero
+9 minimum term, the inmate offender shall be eligible for parole consideration
+10 within 12 months after commitment to a correctional facility.
+11 (2) If the inmate’s offender’s sentence has a minimum term, the inmate
+12 offender shall be eligible for parole consideration paroled after the inmate
+13 offender has served the minimum term of the sentence unless the offender has
+14 programming requirements that have not been fulfilled or has received a major
+15 disciplinary report within the previous 12 months.
+16 (3) If the offender has a serious medical condition that requires regular
+17 hospital visits and the inmate is designated low-risk, the offender shall be
+18 eligible for parole.
+19 (4) If the offender is 55 years of age or older but under 65 years of age,
+20 is designated low-risk, and has served 10 years but not served the minimum of
+21 the sentence, the offender shall be paroled, unless the offender has
+VT LEG #379939 v.2
+BILL AS INTRODUCED S.140
+2025 Page 18 of 18
+1 programming requirements that have not been fulfilled or has received a major
+2 disciplinary report within the previous 12 months.
+3 (5) If the offender is 65 years of age or older, has served five years but
+4 not served the minimum term of the sentence, and is designated low-risk, the
+5 offender shall be paroled, unless the offender has programming requirements
+6 that have not been fulfilled or has received a major disciplinary report within
+7 the previous 12 months.
+8 (b) For purposes of this section, “major disciplinary report” includes
+9 violations for violent acts or serious threats to institutional security or personal
+10 safety and does not include drug possession.
+11 Sec. 4. APPLICABILITY
+12 Notwithstanding 1 V.S.A. § 214, Sec. 1 of this act shall apply to sentences
+13 imposed prior to the effective date of this act.
+14 Sec. 5. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2025.
+VT LEG #379939 v.2
+[DELETED:  S P S I S R D S S s 1 s c t 6 A r I S § ( (]
+[DELETED:  S P ( c ( § ( o ( ( ( u i ( t ( ( t t ( ( s]
+[DELETED:  S P ( o a p ( r i p p y d ( s l n h ( ( c n i]
+[DELETED:  S P D p O s ( f r ( o r ( p ( i ( t ( t l p (]
+[DELETED:  S P ( p ( r ( t ( w ( p ( t ( ( t i a ( w I l]
+[DELETED:  S P ( i o p d s h ( o 4 f ( l i ( i t c a i i]
+[DELETED:  S P a d h t s r ( ( s o t ( i o ( i t ( r p a]
+[DELETED:  S P p i s ( c s p a ( t j s ( s d o ( p s o]
+[DELETED:  S P ( p p d p t ( ( ( a ( t d r e ( r m ( m s]
+[DELETED:  S P ( c a ( i t s ( i i s ( p o ( a i ( c]
+[DELETED:  S P ( t c ( p h p ( ( h o ( ( t t i s V T C]
+[DELETED:  S P ( t r s ( p p o o ( s r ( m ( ( ( ( (]
+[DELETED:  S P ( i p ( ( p h ( o v ( a ( ( r m p t t a d]
+[DELETED:  S P ( s i ( ( e t a ( o o t f S S § A C w T o]
+[DELETED:  S P w o o o § ( s s O e ( o a ( e ( ( l ( h (]
+[DELETED:  S P ( c ( ( ( d ( r ( ( a c § A p § T e c l]
+[DELETED:  S P t o S § ( n e ( m w ( o o p d ( h e ( i t]
+[DELETED:  S P p d ( n o t t ( v s S N i S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.140
+2025 Page 1 of 18
+1 S.140
+2 Introduced by Senators Vyhovsky, Gulick, Ram Hinsdale and Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal procedure; sentencing; life without parole; second look
+6 Statement of purpose of bill as introduced: This bill proposes to implement a
+7 second look sentencing review for individuals who have served not less than
+8 10 years of an incarcerative sentence or not less than half of an incarcerative
+9 sentence of at least five years, whichever is shorter. This bill also proposes to
+10 create a judicial procedure for the early release of offenders who have a
+11 terminal, incurable, or debilitating medical condition or who are not less than
+12 65 years of age, have serious medical needs, and are not a danger to the public.
+13 An act relating to implementing second look sentencing and compassionate
+14 release
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 13 V.S.A. § 7046 is added to read:
+17 § 7046. SECOND LOOK SENTENCING
+18 (a) Short title. This section may be cited as the “Second Look Act.”
+19 (b) Definitions. As used in this section:
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 2 of 18
+1 (1) “Authorized representative” means the incarcerated person’s
+2 counsel, family member, or a licensed health care professional.
+3 (2) “Developmental disability” has the same meaning as in 18 V.S.A.
+4 § 9302.
+5 (3) “Family member” has the same meaning as in subdivision 5301(2)
+6 of this title.
+7 (4) “Intellectual disability” has the same meaning as in 1 V.S.A. § 146.
+8 (5) “Mental illness” has the same meaning as in 18 V.S.A. § 7101(14).
+9 (6) “Successor judge” means the current judge presiding in the judicial
+10 unit where the original sentence was imposed if the original sentencing judge
+11 is unavailable.
+12 (7) “Victim” has the same meaning as in subdivision 5301(4) of this
+13 title.
+14 (c) Eligibility.
+15 (1) An incarcerated person may petition the judge who presided when
+16 the original sentence was imposed for a reduction of the person’s sentence if
+17 the person has served the lesser of:
+18 (A) 10 years in custody of the Department of Corrections; or
+19 (B) at least 50 percent of person’s sentence, provided the person was
+20 sentenced to at least five years of incarceration.
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 3 of 18
+1 (2) Notwithstanding any other provision of law to the contrary, an
+2 otherwise ineligible incarcerated person shall be deemed eligible to petition for
+3 a reduction in sentence upon consent of the prosecutor, regardless of the
+4 person’s number of years in custody.
+5 (3) Except as otherwise provided in this subsection, if a petition for a
+6 reduction in sentence filed pursuant to this section has been denied, the
+7 incarcerated person or an authorized representative shall not file another
+8 petition until at least two years have elapsed after the date the preceding
+9 petition was denied. A court may require a waiting period longer than two
+10 years, but in no event shall the waiting period be more than five years after the
+11 date the preceding petition was denied.
+12 (4) When a petition for a reduction in sentence made pursuant to this
+13 section has been granted and the total term of incarceration was reduced by at
+14 least 25 percent, the incarcerated person or an authorized representative shall
+15 not file a petition for a second sentencing reduction until at least five years
+16 have elapsed after the date the preceding petition was granted.
+17 (d) Procedure; petition.
+18 (1) After a person has served 40 percent of the person’s sentence in
+19 custody, the Department of Corrections shall, within 30 days, give written
+20 notice of this section to the incarcerated person and to the person’s counsel or,
+21 if the person is unrepresented, to the Office of the Defender General. The
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 4 of 18
+1 Department shall also give written notice of this section to the incarcerated
+2 person and to the person’s counsel or, if the person is unrepresented, to the
+3 Office of the Defender General, within 30 days after serving nine years and
+4 seven months in custody.
+5 (2) A petition for a sentence reduction pursuant to this section may be
+6 filed six months prior to the date upon which a person becomes eligible for a
+7 reduction in sentence pursuant to subsection (c) of this section.
+8 (3) The petition shall be filed by the incarcerated person, a prosecutor,
+9 or an authorized representative. A petition filed by an authorized
+10 representative shall be accompanied by an affidavit stating:
+11 (A) the reason that the incarcerated person is unable to file the
+12 petition;
+13 (B) a factual statement explaining the petitioner’s relationship to the
+14 incarcerated person; and
+15 (C) how the authorized representative is acting in the best interests of
+16 the incarcerated person.
+17 (4) The petition must be filed in writing in the Superior Court in which
+18 the original sentence was imposed and may include affidavits, declarations,
+19 letters, prison records, or other relevant written and electronic material. The
+20 petition shall include the following:
+21 (A) the name of the petitioner;
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 5 of 18
+1 (B) the name of the incarcerated person if different than the
+2 petitioner;
+3 (C) any docket number relevant to the petitioner’s resentencing
+4 request;
+5 (D) the name of the judge assigned to any docket number relevant to
+6 the petitioner’s resentencing request;
+7 (E) the offense and specific counts for which the incarcerated person
+8 was convicted relating to the resentencing request;
+9 (F) the current term of incarceration being served by the incarcerated
+10 person relating to the resentencing request; and
+11 (G) a factual statement explaining how the incarcerated person meets
+12 the eligibility requirements described in subsection (c) of this section.
+13 (e) Hearings.
+14 (1) Upon the court’s receipt of a petition filed pursuant to this section,
+15 the court shall, within 30 days, provide the prosecutor, the petitioner, and the
+16 incarcerated person if not the petitioner with a copy of the petition, including
+17 any attached material.
+18 (2) A petition made pursuant to this section shall be referred to the judge
+19 who presided over the imposition of the original sentence upon the petitioner.
+20 If, at the time of the petition to the court, the original sentencing judge is no
+21 longer available, then the petition shall be assigned to the successor judge.
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 6 of 18
+1 (3) Upon receiving the petition, the court shall determine whether the
+2 incarcerated person has served at least 10 years in custody of the Department
+3 of Corrections or at least 50 percent of the person’s sentence, provided that the
+4 person was sentenced to at least five years of incarceration. If the court
+5 determines that the incarcerated person has met the requirements of this
+6 subdivision, or if the prosecutor otherwise consents, the court shall set a
+7 hearing.
+8 (4) Unless the court finds good cause to hold the hearing at a later date
+9 or at the request of the petitioner, the court shall set the hearing not more than
+10 45 days after the date the petition is filed with the court if one or more of the
+11 following circumstances are met:
+12 (A) The incarcerated person has one or more medical conditions
+13 leading to major limitations in activities of daily living, including mental
+14 illness or an intellectual or developmental disability.
+15 (B) The incarcerated person has one or more medical conditions
+16 increasing the likelihood of contracting an illness or disease while incarcerated
+17 that could lead to death or cause the person to develop a medical condition that
+18 could prevent the performance of one or more activities of daily living without
+19 assistance. These conditions include any condition related to a weakened
+20 immune system, including human immunodeficiency virus (HIV) or acquired
+21 immune deficiency syndrome (AIDS); debilitating health conditions that occur
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 7 of 18
+1 as a result of dementia, Alzheimer’s disease, or similar degenerative brain
+2 disorders; cardiovascular disease; chronic lung disease or asthma; diabetes;
+3 hepatitis C; seizure disorders; the need for life-sustaining care such as feeding
+4 tubes or colostomy bags; disabling neurological disorders such as multiple
+5 sclerosis (MS) or amyotrophic lateral sclerosis (ALS); or any condition that
+6 requires or is expected to require specialty care or recurrent hospitalizations.
+7 (C) The petition is filed by a prosecutor.
+8 (5) If the petition does not meet the criteria of subdivision (4) of this
+9 subsection, unless the court finds good cause to hold the hearing at a later date
+10 or at the request of the petitioner, the court shall set the hearing date not more
+11 than:
+12 (A) 90 days after the date the petition is filed upon a finding that the
+13 incarcerated person has served over 20 years of the person’s sentence and is
+14 over 55 years of age; or
+15 (B) 180 days after the date the petition is filed upon a finding that the
+16 incarcerated person does not meet the criteria of subdivisions (4) and (5)(A) of
+17 this subsection (e).
+18 (6) If the court determines that the petitioner has not met the
+19 requirements pursuant to subdivisions (4) and (5) of this subsection (e) and the
+20 prosecutor does not consent, the court shall enter an order denying the petition
+21 and shall provide a copy of the order to the petitioner and, if the incarcerated
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 8 of 18
+1 person is not the petitioner, to the incarcerated person. The petitioner or
+2 incarcerated person may appeal this denial pursuant to subsection (i) of this
+3 section.
+4 (7) Upon setting a hearing, the court shall appoint counsel pursuant to
+5 chapter 163 of this title, if necessary. The court may direct the parties to
+6 supplement the record by submitting additional materials relating to the
+7 petition, if necessary. A petition filed under this section may be freely
+8 amended at any time prior to the hearing.
+9 (8) Upon a determination that the petition establishes eligibility pursuant
+10 to subdivision (c) of this section and the petition is assigned to a successor
+11 judge, the court shall not reconsider the sufficiency of the petition or decline to
+12 set a hearing.
+13 (9) When the court sets a resentencing hearing pursuant to this
+14 subsection, the court shall notify the petitioner, the incarcerated person if
+15 different than the petitioner; the Department of Corrections; and the prosecutor
+16 of the hearing date.
+17 (10) At a hearing pursuant to this subsection, the court may allow the
+18 parties to present any evidence that is relevant to the issue of a reduction in
+19 sentencing. Relevant evidence includes documents, testimony, tangible
+20 objects, or any other information germane to sentencing.
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 9 of 18
+1 (11) At a hearing under this section, the incarcerated person shall be
+2 present unless the person waives the right to be present. The incarcerated
+3 person shall have the right to testify or to remain silent at the person’s sole
+4 discretion. The incarcerated person shall be considered present for the
+5 purposes of the hearing if appearing by video teleconference upon consent of
+6 the parties.
+7 (12) Any hearing under this section shall be recorded or transcribed.
+8 (f) Grounds for sentence modification.
+9 (1) The court shall consider any evidence that is relevant to the issue of
+10 a reduction in sentencing, including:
+11 (A) the history and characteristics of the incarcerated person at the
+12 time of the petition for a reduction in sentence, including rehabilitation
+13 demonstrated by the incarcerated person; the incarcerated person’s disciplinary
+14 record while incarcerated; and the incarcerated person’s efforts to participate in
+15 educational, therapeutic, and vocational opportunities while imprisoned;
+16 (B) the age of the incarcerated person at the time of the offense and
+17 research regarding child, adolescent, and young adult brain development that
+18 meets evidentiary standards under the Vermont Rules of Evidence;
+19 (C) the age of the incarcerated person at the time of the sentence
+20 modification petition and research regarding desistance that meets evidentiary
+21 standards under the Vermont Rules of Evidence;
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 10 of 18
+1 (D) the nature of the incarcerated person’s offense, including
+2 changing societal attitudes regarding the propriety of criminalizing the offense
+3 and the appropriate sentence for the offense;
+4 (E) the circumstances surrounding the incarcerated person’s offense,
+5 including the person’s role in its commission, whether the person was under
+6 the influence of another person, and the proportionality of the person’s
+7 sentence compared to that received by other parties to the offense;
+8 (F) the circumstances of the incarcerated person’s incarceration,
+9 including the person’s conditions of confinement; the impact of the person’s
+10 incarceration on the community; and any evidence that the person was
+11 subjected to physical, sexual, or psychological abuse while incarcerated;
+12 (G) information concerning the incarcerated person’s current
+13 physical or mental health and the person’s physical or mental health at the time
+14 of the offense;
+15 (H) information that the incarcerated person was denied effective
+16 assistance of counsel at any stage in the case leading to the original sentence,
+17 including the ineffective assistance of counsel during plea bargaining;
+18 (I) information that the incarcerated person was wrongfully
+19 convicted;
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 11 of 18
+1 (J) information that the incarcerated person was subjected to human
+2 trafficking and that such victimization was a contributing factor to the person’s
+3 criminal behavior;
+4 (K) information that the incarcerated person was subjected to
+5 physical, sexual, or psychological abuse by an intimate partner or a family or
+6 household member and that such victimization was a contributing factor to the
+7 person’s criminal behavior; or
+8 (L) any other information the court deems relevant.
+9 (2) The court shall set forth, either in open court on the day of the
+10 hearing or in writing within 30 days after the hearing, the reasons for granting
+11 or denying a petition under this section.
+12 (g) Sentence modification.
+13 (1) In calculating the new term to be served by the incarcerated person,
+14 the court may consider a calculation of the shortest and longest lengths of time
+15 the person may be incarcerated under the individual’s existing sentence, taking
+16 into account the effect for time served as ordered by the court pursuant to
+17 section 7031 of this title, the provisions for reductions of term pursuant to 28
+18 V.S.A. § 811, and the provisions for earned time pursuant to 28 V.S.A. § 818.
+19 The court may request these calculations from the Commissioner of
+20 Corrections.
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 12 of 18
+1 (2) Upon the court’s determination that the incarcerated person meets
+2 the criteria pursuant to subdivision (e)(4)(A) of this section, there shall be a
+3 rebuttable presumption that the person’s sentence shall be reduced to time
+4 served.
+5 (3) Upon the court’s determination that the incarcerated person does not
+6 pose a significant risk to the community, there shall be a rebuttable
+7 presumption that the person’s sentence shall be reduced by at least 20 percent
+8 or reduced to a period not longer than five years of incarceration from the date
+9 of the filing of the petition, whichever results in a shorter term of incarceration.
+10 (4) If the prosecutor is the petitioner, the new term of incarceration to be
+11 served by the incarcerated person shall not be lengthier than the
+12 recommendation of the petitioner but may be shorter.
+13 (5) A court’s order granting an incarcerated person’s sentence
+14 modification shall be limited to the imposition of:
+15 (A) time served;
+16 (B) immediate parole;
+17 (C) sentencing alternatives pursuant to section 7030 of this title;
+18 (D) a lower minimum term of incarceration; or
+19 (E) a lower maximum term of incarceration.
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 13 of 18
+1 (6) Nothing in this section shall be construed to permit the court to
+2 impose a sentence of life without parole or an increase to the incarcerated
+3 person’s sentence in any circumstance.
+4 (h) Victim’s rights.
+5 (1) Upon receipt of a petition filed pursuant to this section, the
+6 prosecutor shall promptly notify any victim of the incarcerated person of the
+7 hearing date once it is scheduled.
+8 (2) The victim has the right to appear and the right to make a statement,
+9 oral or written, at the sentencing of the incarcerated person regarding the
+10 victim’s view of the crime, the person convicted, and the sentence.
+11 (3) The court shall not, in modifying a sentence, disturb any restitution
+12 awarded to a victim at the original sentencing.
+13 (i) Appeal.
+14 (1) Any party to a petition filed pursuant to this section shall have the
+15 right to appeal to the Supreme Court on the grounds that the sentence
+16 modification or its imposition is unlawful. The petitioner or incarcerated
+17 person shall also have the right to appeal to the Supreme Court on the ground
+18 that the sentence is otherwise contrary to considerations of sentencing pursuant
+19 to section 7030 of this title. The petitioner or incarcerated person may also
+20 appeal on the ground that the petitioner’s request for a hearing was unlawfully
+21 denied.
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 14 of 18
+1 (2) The right to appeal a sentence modification pursuant to this
+2 subsection shall be as of right on the same terms as a first appeal from an
+3 initial sentence at the time of conviction.
+4 (j) Construction.
+5 (1) Nothing in this section shall be construed to abridge or modify any
+6 existing remedy an incarcerated person may have pursuant to subchapter 2 of
+7 this chapter; habeas corpus; other statutory or judicial postconviction relief; or
+8 any other legal framework.
+9 (2) A petition filed pursuant to this section shall not impact in any way
+10 or be impacted in any way by any pending petitions pursuant to subchapter 2
+11 of this chapter; habeas corpus; or other postconviction proceedings, nor shall
+12 the denial of a petition filed pursuant to this section preclude these remedies
+13 from being pursued or granted.
+14 Sec. 2. 13 V.S.A. chapter 221, subchapter 5 is added to read:
+15 Subchapter 5. Petition for Compassionate Release
+16 § 7141. PETITION
+17 An offender who is serving a sentence of incarceration in the custody of the
+18 Commissioner of Corrections may petition the Superior Court of the county
+19 where the sentence was imposed for an order granting compassionate release.
+20 The petition may be informal but shall be in writing and shall include the
+21 offender’s name, offense, date of sentencing, sentence, and an explanation of
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 15 of 18
+1 why compassionate release is appropriate for the offender and how the
+2 offender satisfies the factors set forth in section 7142 of this subchapter. The
+3 offender shall serve a copy of the offender’s petition upon the superintendent
+4 of the facility in which the offender is incarcerated.
+5 § 7142. NOTICE, HEARING, AND DECISION
+6 (a) Unless the petition and the files and records of the case conclusively
+7 show that the offender is not entitled to relief, the court shall cause notice to be
+8 served upon the Office of the Attorney General and the State’s Attorney. The
+9 Office of the Attorney General and a State’s Attorney who receive notice may
+10 elect to appear as parties.
+11 (b) The court may decide the petition upon the files and records of the case
+12 or may grant a hearing. If the court grants a hearing, the court may entertain
+13 and decide the petition without requiring the offender to attend the hearing.
+14 (c) The court shall grant the petition if it finds by a preponderance of the
+15 evidence that:
+16 (1) the offender:
+17 (A) has been diagnosed with a terminal, incurable disease and has a
+18 life expectancy of 18 months or less;
+19 (B) has been diagnosed with an incurable and progressive illness or
+20 has suffered a debilitating injury and:
+21 (i) cannot provide self-care and is confined to a bed or chair; or
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 16 of 18
+1 (ii) can only provide limited self-care and is confined to a bed or
+2 chair for at least 50 percent of the inmate’s waking hours; or
+3 (C) is 65 years of age or older and:
+4 (i) suffers from a chronic or serious medical condition; or
+5 (ii) is experiencing deteriorating mental or physical health that
+6 diminishes the inmate’s ability to function in a correctional facility;
+7 (2) the offender is not a danger to the community and the offender’s
+8 release will not endanger public safety; and
+9 (3) compassionate release is appropriate.
+10 (d) If the court grants the petition, it may reduce the term of imprisonment
+11 and may impose a term of probation or supervised release with or without
+12 conditions that does not exceed the original term of imprisonment.
+13 § 7143. APPEALS
+14 An appeal may be taken to the Supreme Court from the order entered on the
+15 petition.
+16 § 7144. ASSIGNMENT OF COUNSEL
+17 The court may appoint counsel if, financially, the offender is unable to
+18 employ counsel, and may order that all necessary costs and expenses, including
+19 court costs, stenographic services, printing, and reasonable compensation for
+20 legal services, be paid by the State from the appropriation to the court where
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 17 of 18
+1 the sentence was imposed. On appeal, the Supreme Court may make a similar
+2 order.
+3 Sec. 3. 28 V.S.A. § 501 is amended to read:
+4 § 501. ELIGIBILITY FOR PAROLE CONSIDERATION
+5 (a) An inmate offender who is serving a sentence of imprisonment who is
+6 not eligible for presumptive parole pursuant to section 501a of this title shall be
+7 eligible for parole consideration as follows:
+8 (1) If the inmate’s offender’s sentence has no minimum term or a zero
+9 minimum term, the inmate offender shall be eligible for parole consideration
+10 within 12 months after commitment to a correctional facility.
+11 (2) If the inmate’s offender’s sentence has a minimum term, the inmate
+12 offender shall be eligible for parole consideration paroled after the inmate
+13 offender has served the minimum term of the sentence unless the offender has
+14 programming requirements that have not been fulfilled or has received a major
+15 disciplinary report within the previous 12 months.
+16 (3) If the offender has a serious medical condition that requires regular
+17 hospital visits and the inmate is designated low-risk, the offender shall be
+18 eligible for parole.
+19 (4) If the offender is 55 years of age or older but under 65 years of age,
+20 is designated low-risk, and has served 10 years but not served the minimum of
+21 the sentence, the offender shall be paroled, unless the offender has
+VT LEG #379939 v.2
+
+BILL AS INTRODUCED S.140
+2025 Page 18 of 18
+1 programming requirements that have not been fulfilled or has received a major
+2 disciplinary report within the previous 12 months.
+3 (5) If the offender is 65 years of age or older, has served five years but
+4 not served the minimum term of the sentence, and is designated low-risk, the
+5 offender shall be paroled, unless the offender has programming requirements
+6 that have not been fulfilled or has received a major disciplinary report within
+7 the previous 12 months.
+8 (b) For purposes of this section, “major disciplinary report” includes
+9 violations for violent acts or serious threats to institutional security or personal
+10 safety and does not include drug possession.
+11 Sec. 4. APPLICABILITY
+12 Notwithstanding 1 V.S.A. § 214, Sec. 1 of this act shall apply to sentences
+13 imposed prior to the effective date of this act.
+14 Sec. 5. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2025.
+VT LEG #379939 v.2
+
+[DELETED:  S P S I S R D S S s 1 s c t 6 A r I S § ( (]
+[DELETED:  S P ( c ( § ( o ( ( ( u i ( t ( ( t t ( ( s]
+[DELETED:  S P ( o a p ( r i p p y d ( s l n h ( ( c n i]
+[DELETED:  S P D p O s ( f r ( o r ( p ( i ( t ( t l p (]
+[DELETED:  S P ( p ( r ( t ( w ( p ( t ( ( t i a ( w I l]
+[DELETED:  S P ( i o p d s h ( o 4 f ( l i ( i t c a i i]
+[DELETED:  S P a d h t s r ( ( s o t ( i o ( i t ( r p a]
+[DELETED:  S P p i s ( c s p a ( t j s ( s d o ( p s o]
+[DELETED:  S P ( p p d p t ( ( ( a ( t d r e ( r m ( m s]
+[DELETED:  S P ( c a ( i t s ( i i s ( p o ( a i ( c]
+[DELETED:  S P ( t c ( p h p ( ( h o ( ( t t i s V T C]
+[DELETED:  S P ( t r s ( p p o o ( s r ( m ( ( ( ( (]
+[DELETED:  S P ( i p ( ( p h ( o v ( a ( ( r m p t t a d]
+[DELETED:  S P ( s i ( ( e t a ( o o t f S S § A C w T o]
+[DELETED:  S P w o o o § ( s s O e ( o a ( e ( ( l ( h (]
+[DELETED:  S P ( c ( ( ( d ( r ( ( a c § A p § T e c l]
+[DELETED:  S P t o S § ( n e ( m w ( o o p d ( h e ( i t]
+[DELETED:  S P p d ( n o t t ( v s S N i S T]

@@ -1,0 +1,345 @@
+Title: BILL AS INTRODUCED H.382
+Official Title: BILL AS INTRODUCED H.382
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.382
+2 Introduced by Representative Christie of Hartford
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal justice data collection
+6 Statement of purpose of bill as introduced: This bill proposes to require the
+7 Judiciary, the Vermont Crime Information Center, the Department of State’s
+8 Attorneys and Sheriffs, and the Department of Corrections to collect and
+9 publicly post criminal justice data.
+10 An act relating to data collection in the criminal justice system
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. SHORT TITLE
+13 This act may be cited as “The Vermont Justice Transparency Act.”
+14 Sec. 2. 4 V.S.A. § 42 is added to read:
+15 § 42. DATA REPORTING
+16 (a)(1) Beginning on August 1, 2028 and quarterly thereafter, the Judiciary
+17 shall issue a report on all of the following data from the previous year relating
+18 to:
+VT LEG #380830 v.1
+BILL AS INTRODUCED H.382
+2025 Page 2 of 7
+1 (A) pretrial release determination for individuals, including the
+2 amount of bail set and nonmonetary conditions of release, if any;
+3 (B) sentence type and length imposed by the court, including
+4 minimum and maximum sentence imposed, and conditions of probation or
+5 other supervision or resolution; and
+6 (C) the number of cases diverted from prosecution.
+7 (2) All data required by subdivision (1) of this subsection shall identify
+8 the county of the proceeding, the presiding judge, the charge or charges, and
+9 the individual’s age, race, gender, and state of last residence.
+10 (b) The Judiciary shall post the report electronically on its website in a
+11 manner that is easily understandable and accessible to the public.
+12 Sec. 3. 20 V.S.A. § 2057 is amended to read:
+13 § 2057. INFORMATION
+14 (a) From time to time but at least annually, the center Center shall publish
+15 information relating to criminal activity, arrests, convictions, and such other
+16 information as the commissioner Commissioner deems relevant. At a
+17 minimum, the Center shall issue a report on arrest data from each State,
+18 county, and municipal law enforcement agency from the previous year relating
+19 to:
+20 (1) the age, race, gender, and state of residence of individuals who
+21 are arrested;
+VT LEG #380830 v.1
+BILL AS INTRODUCED H.382
+2025 Page 3 of 7
+1 (2) reported incidents of use of force, identified by type of force
+2 used;
+3 (3) arrests categorized by legal basis for the arrest; and
+4 (4) results of searches conducted pursuant to arrests.
+5 (b) Each State, county, and municipal law enforcement agency shall
+6 provide the information required in subsection (a) of this section to the Center
+7 in a time frame and manner established by the Center.
+8 Sec. 4. 24 V.S.A. § 368 is added to read:
+9 § 368. REPORTING DATA
+10 (a) Beginning on January 31, 2026 and annually thereafter, the Department
+11 of State’s Attorneys and Sheriffs shall issue a report consisting of data from
+12 each of the State’s Attorneys on the following:
+13 (1) the number and percentage of cases a State’s Attorney declines to
+14 prosecute; the rationale for declining to prosecute in each instance; the alleged
+15 criminal violation; and the age, race, gender, and state of last residence of the
+16 individual referred for prosecution;
+17 (2) the number and percentage of cases that result in accepted pleas to
+18 lesser charges, identified by original charge and charge pled to by the
+19 individual, and the age, race, gender, and state of last residence of the
+20 individual;
+VT LEG #380830 v.1
+BILL AS INTRODUCED H.382
+2025 Page 4 of 7
+1 (3) the number and percentage of cases in which a State’s Attorney
+2 sought the maximum sentence, identified by the charge, and the age, race,
+3 gender, and state of last residence of the individual;
+4 (4) the number and percentage of cases recommended by a State’s
+5 Attorney for the individual to be released on the individual’s own recognizance
+6 and cash bail or no bail, identified by charge; bail amount; and the age, race,
+7 gender, and state of last residence of the individual; and
+8 (5) the number and percentage of cases in which a State’s Attorney
+9 sought an alternative to incarceration; the types of alternatives chosen; the
+10 charges in each case in which an alternative was sought; and the age, race,
+11 gender, and state of last residence of the individual.
+12 (b) Each State’s Attorney shall provide the information required in
+13 subsection (a) of this section to the Center in a time frame and manner
+14 established by the Center.
+15 (c) The Department shall post the reports created electronically in a manner
+16 that is accessible to the public on the Department’s website.
+17 Sec 5. 28 V.S.A. § 123 is added to read:
+18 § 123. REPORTING DATA
+19 (a) Beginning on August 5, 2026, and on the first Monday of every month
+20 thereafter, the Department shall issue a report on Vermont’s incarcerated
+VT LEG #380830 v.1
+BILL AS INTRODUCED H.382
+2025 Page 5 of 7
+1 population on the provisions identified in subdivisions (1)–(2) of this
+2 subsection.
+3 (1) Inmate data as follows:
+4 (A) The number and characteristics of the inmate population. Data
+5 shall include offenses; length of longest sentence; and an inmate’s age, race,
+6 gender, county of sentencing, and state of last residence.
+7 (B) The number and percentage of inmates held past their minimum
+8 release date. Data shall include offenses and the inmate’s age, race, gender,
+9 state of last residence and the reason why the inmate was held beyond the
+10 minimum release date.
+11 (C) The number and percentage of inmates who have been held in
+12 solitary confinement in the previous month and the number of days of that
+13 confinement. Data shall include the inmate’s age, race, and gender; the reason
+14 for segregation; and whether or not the inmate is classified as having a serious
+15 functional impairment.
+16 (D) The number and percentage of inmates who have screened
+17 positive for opioid use disorder, have requested medication for opioid use
+18 disorder, and are receiving such medication. Data shall include the inmate’s
+19 age, race, gender, county of sentencing, and state of last residence.
+20 (2) Detainee data as follows:
+VT LEG #380830 v.1
+BILL AS INTRODUCED H.382
+2025 Page 6 of 7
+1 (A) A monthly update of Vermont’s detainee population. The update
+2 shall include data on offenses charged; the county where charges are filed; the
+3 length of detention if the detainee is held for more than one day; bail amount;
+4 and the inmate’s age, race, gender, and state of last residence.
+5 (B) The number and percentage of detainees who have screened
+6 positive for opioid use disorder, who have requested medication-assisted
+7 treatment (MAT), and who are receiving MAT. Data shall include the county
+8 where charges are filed and the inmate’s age, race, gender, and state of last
+9 residence.
+10 (b) Beginning on January 31, 2026, and annually thereafter, the
+11 Department shall issue a report on the incarcerated population as follows:
+12 (1) Data from the previous year on the total number of people
+13 incarcerated. Data shall include offenses and length of longest sentence by the
+14 inmate’s age, race, gender, county of sentencing, and state of last residence.
+15 (2) Data from the previous year on the 12 most frequent charges. Data
+16 shall include the offenses and the inmate’s age, race, gender, county of
+17 sentencing, and state of last residence.
+18 (3) Data from the previous year on mean and median sentence length for
+19 the 12 most frequent charges. Data shall include the offenses and the inmate’s
+20 age, race, gender, county of sentencing, and state of last residence.
+VT LEG #380830 v.1
+BILL AS INTRODUCED H.382
+2025 Page 7 of 7
+1 (4) Data from the previous year on revocation of probation, parole,
+2 furlough, or other community supervision. Data shall include the original
+3 offenses; violations; the county where the person was supervised and the
+4 violation occurred; whether the person was reincarcerated; and the person’s
+5 age, race, gender, and state of last residence.
+6 (5) Data on the recidivism rate, as defined in 28 V.S.A. § 4, identified
+7 by the new offense charged and the county in which it was charged and the
+8 person’s age, race, and gender.
+9 (6) Data from the previous year on the number and percentage of
+10 inmates who have been screened for developmental disabilities, mental health
+11 conditions, and substance use disorders.
+12 (c) The Department shall post the report electronically on its website in a
+13 manner that is easily understandable and accessible to the public.
+14 Sec. 6. EFFECTIVE DATE
+15 This act shall take effect July 1, 2025.
+VT LEG #380830 v.1
+[DELETED:  H P H I R R D S S J A p A I S T S § ( s t]
+[DELETED:  H P ( a ( m o ( ( t t   m S § ( i i m c t ( a]
+[DELETED:  H P ( u ( ( ( p i S § ( o e ( p c i ( l i i]
+[DELETED:  H P ( s g ( A a g ( s c g ( s e ( t S § ( t]
+[DELETED:  H P p s ( ( s g ( r s m ( s c f f ( p d a (]
+[DELETED:  H P ( s l a ( p t w r ( D ( i i ( s s ( t a]
+[DELETED:  H P ( f o v a ( b p ( i c ( m S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.382
+2025 Page 1 of 7
+1 H.382
+2 Introduced by Representative Christie of Hartford
+3 Referred to Committee on
+4 Date:
+5 Subject: Criminal justice data collection
+6 Statement of purpose of bill as introduced: This bill proposes to require the
+7 Judiciary, the Vermont Crime Information Center, the Department of State’s
+8 Attorneys and Sheriffs, and the Department of Corrections to collect and
+9 publicly post criminal justice data.
+10 An act relating to data collection in the criminal justice system
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. SHORT TITLE
+13 This act may be cited as “The Vermont Justice Transparency Act.”
+14 Sec. 2. 4 V.S.A. § 42 is added to read:
+15 § 42. DATA REPORTING
+16 (a)(1) Beginning on August 1, 2028 and quarterly thereafter, the Judiciary
+17 shall issue a report on all of the following data from the previous year relating
+18 to:
+VT LEG #380830 v.1
+
+BILL AS INTRODUCED H.382
+2025 Page 2 of 7
+1 (A) pretrial release determination for individuals, including the
+2 amount of bail set and nonmonetary conditions of release, if any;
+3 (B) sentence type and length imposed by the court, including
+4 minimum and maximum sentence imposed, and conditions of probation or
+5 other supervision or resolution; and
+6 (C) the number of cases diverted from prosecution.
+7 (2) All data required by subdivision (1) of this subsection shall identify
+8 the county of the proceeding, the presiding judge, the charge or charges, and
+9 the individual’s age, race, gender, and state of last residence.
+10 (b) The Judiciary shall post the report electronically on its website in a
+11 manner that is easily understandable and accessible to the public.
+12 Sec. 3. 20 V.S.A. § 2057 is amended to read:
+13 § 2057. INFORMATION
+14 (a) From time to time but at least annually, the center Center shall publish
+15 information relating to criminal activity, arrests, convictions, and such other
+16 information as the commissioner Commissioner deems relevant. At a
+17 minimum, the Center shall issue a report on arrest data from each State,
+18 county, and municipal law enforcement agency from the previous year relating
+19 to:
+20 (1) the age, race, gender, and state of residence of individuals who
+21 are arrested;
+VT LEG #380830 v.1
+
+BILL AS INTRODUCED H.382
+2025 Page 3 of 7
+1 (2) reported incidents of use of force, identified by type of force
+2 used;
+3 (3) arrests categorized by legal basis for the arrest; and
+4 (4) results of searches conducted pursuant to arrests.
+5 (b) Each State, county, and municipal law enforcement agency shall
+6 provide the information required in subsection (a) of this section to the Center
+7 in a time frame and manner established by the Center.
+8 Sec. 4. 24 V.S.A. § 368 is added to read:
+9 § 368. REPORTING DATA
+10 (a) Beginning on January 31, 2026 and annually thereafter, the Department
+11 of State’s Attorneys and Sheriffs shall issue a report consisting of data from
+12 each of the State’s Attorneys on the following:
+13 (1) the number and percentage of cases a State’s Attorney declines to
+14 prosecute; the rationale for declining to prosecute in each instance; the alleged
+15 criminal violation; and the age, race, gender, and state of last residence of the
+16 individual referred for prosecution;
+17 (2) the number and percentage of cases that result in accepted pleas to
+18 lesser charges, identified by original charge and charge pled to by the
+19 individual, and the age, race, gender, and state of last residence of the
+20 individual;
+VT LEG #380830 v.1
+
+BILL AS INTRODUCED H.382
+2025 Page 4 of 7
+1 (3) the number and percentage of cases in which a State’s Attorney
+2 sought the maximum sentence, identified by the charge, and the age, race,
+3 gender, and state of last residence of the individual;
+4 (4) the number and percentage of cases recommended by a State’s
+5 Attorney for the individual to be released on the individual’s own recognizance
+6 and cash bail or no bail, identified by charge; bail amount; and the age, race,
+7 gender, and state of last residence of the individual; and
+8 (5) the number and percentage of cases in which a State’s Attorney
+9 sought an alternative to incarceration; the types of alternatives chosen; the
+10 charges in each case in which an alternative was sought; and the age, race,
+11 gender, and state of last residence of the individual.
+12 (b) Each State’s Attorney shall provide the information required in
+13 subsection (a) of this section to the Center in a time frame and manner
+14 established by the Center.
+15 (c) The Department shall post the reports created electronically in a manner
+16 that is accessible to the public on the Department’s website.
+17 Sec 5. 28 V.S.A. § 123 is added to read:
+18 § 123. REPORTING DATA
+19 (a) Beginning on August 5, 2026, and on the first Monday of every month
+20 thereafter, the Department shall issue a report on Vermont’s incarcerated
+VT LEG #380830 v.1
+
+BILL AS INTRODUCED H.382
+2025 Page 5 of 7
+1 population on the provisions identified in subdivisions (1)–(2) of this
+2 subsection.
+3 (1) Inmate data as follows:
+4 (A) The number and characteristics of the inmate population. Data
+5 shall include offenses; length of longest sentence; and an inmate’s age, race,
+6 gender, county of sentencing, and state of last residence.
+7 (B) The number and percentage of inmates held past their minimum
+8 release date. Data shall include offenses and the inmate’s age, race, gender,
+9 state of last residence and the reason why the inmate was held beyond the
+10 minimum release date.
+11 (C) The number and percentage of inmates who have been held in
+12 solitary confinement in the previous month and the number of days of that
+13 confinement. Data shall include the inmate’s age, race, and gender; the reason
+14 for segregation; and whether or not the inmate is classified as having a serious
+15 functional impairment.
+16 (D) The number and percentage of inmates who have screened
+17 positive for opioid use disorder, have requested medication for opioid use
+18 disorder, and are receiving such medication. Data shall include the inmate’s
+19 age, race, gender, county of sentencing, and state of last residence.
+20 (2) Detainee data as follows:
+VT LEG #380830 v.1
+
+BILL AS INTRODUCED H.382
+2025 Page 6 of 7
+1 (A) A monthly update of Vermont’s detainee population. The update
+2 shall include data on offenses charged; the county where charges are filed; the
+3 length of detention if the detainee is held for more than one day; bail amount;
+4 and the inmate’s age, race, gender, and state of last residence.
+5 (B) The number and percentage of detainees who have screened
+6 positive for opioid use disorder, who have requested medication-assisted
+7 treatment (MAT), and who are receiving MAT. Data shall include the county
+8 where charges are filed and the inmate’s age, race, gender, and state of last
+9 residence.
+10 (b) Beginning on January 31, 2026, and annually thereafter, the
+11 Department shall issue a report on the incarcerated population as follows:
+12 (1) Data from the previous year on the total number of people
+13 incarcerated. Data shall include offenses and length of longest sentence by the
+14 inmate’s age, race, gender, county of sentencing, and state of last residence.
+15 (2) Data from the previous year on the 12 most frequent charges. Data
+16 shall include the offenses and the inmate’s age, race, gender, county of
+17 sentencing, and state of last residence.
+18 (3) Data from the previous year on mean and median sentence length for
+19 the 12 most frequent charges. Data shall include the offenses and the inmate’s
+20 age, race, gender, county of sentencing, and state of last residence.
+VT LEG #380830 v.1
+
+BILL AS INTRODUCED H.382
+2025 Page 7 of 7
+1 (4) Data from the previous year on revocation of probation, parole,
+2 furlough, or other community supervision. Data shall include the original
+3 offenses; violations; the county where the person was supervised and the
+4 violation occurred; whether the person was reincarcerated; and the person’s
+5 age, race, gender, and state of last residence.
+6 (5) Data on the recidivism rate, as defined in 28 V.S.A. § 4, identified
+7 by the new offense charged and the county in which it was charged and the
+8 person’s age, race, and gender.
+9 (6) Data from the previous year on the number and percentage of
+10 inmates who have been screened for developmental disabilities, mental health
+11 conditions, and substance use disorders.
+12 (c) The Department shall post the report electronically on its website in a
+13 manner that is easily understandable and accessible to the public.
+14 Sec. 6. EFFECTIVE DATE
+15 This act shall take effect July 1, 2025.
+VT LEG #380830 v.1
+
+[DELETED:  H P H I R R D S S J A p A I S T S § ( s t]
+[DELETED:  H P ( a ( m o ( ( t t   m S § ( i i m c t ( a]
+[DELETED:  H P ( u ( ( ( p i S § ( o e ( p c i ( l i i]
+[DELETED:  H P ( s g ( A a g ( s c g ( s e ( t S § ( t]
+[DELETED:  H P p s ( ( s g ( r s m ( s c f f ( p d a (]
+[DELETED:  H P ( s l a ( p t w r ( D ( i i ( s s ( t a]
+[DELETED:  H P ( f o v a ( b p ( i c ( m S T]

@@ -1,0 +1,323 @@
+Title: BILL AS INTRODUCED H.121
+Official Title: BILL AS INTRODUCED H.121
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.121
+2 Introduced by Representative Morrow of Weston
+3 Referred to Committee on
+4 Date:
+5 Subject: Broadband; internet access service; consumer protection; affordability
+6 Statement of purpose of bill as introduced: This bill proposes to require
+7 internet service providers to offer and provide affordable broadband service to
+8 eligible low-income consumers.
+9 An act relating to affordable broadband service
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 9 V.S.A. § 2466d is added to read:
+12 § 2466d. AFFORDABLE BROADBAND SERVICE
+13 (a) On or before October 1, 2025, an internet service provider engaged in
+14 the provision of broadband service shall offer and provide affordable
+15 broadband service to eligible low-income consumers.
+16 (b) As used in this section:
+17 (1) “Affordable broadband service” means:
+18 (A) Broadband service capable of a download speed of at least 25
+19 Mbps at a monthly price of not more than $15.00, inclusive of any recurring
+VT LEG #380080 v.1
+BILL AS INTRODUCED H.121
+2025 Page 2 of 7
+1 taxes and fees such as recurring rental fees for provider equipment required to
+2 obtain broadband service and usage fees.
+3 (B) Broadband service capable of a download speed of at least 200
+4 Mbps at a monthly price of not more than $20.00, inclusive of any recurring
+5 taxes and fees such as recurring rental fees for provider equipment required to
+6 obtain broadband service and usage fees.
+7 (2) “Broadband service” means a mass-market retail service by wire or
+8 radio in Vermont that provides the capability to transmit data to and receive
+9 data from all or substantially all internet endpoints, including any capabilities
+10 that are incidental to and enable the operation of the communications service
+11 provided by a wireline or fixed wireless service provider, but shall not include
+12 dial-up internet access service.
+13 (3) “Internet service provider” or “provider” means a business that
+14 provides broadband service to any person in Vermont.
+15 (4) “Low-income consumer” means a household that qualifies for
+16 participation in:
+17 (A) the federal Lifeline program under criteria established by the
+18 Federal Communications Commission or other federal law or regulation; or
+19 (B) the Home Heating Fuel Assistance Program established under
+20 Title 33, chapter 26.
+VT LEG #380080 v.1
+BILL AS INTRODUCED H.121
+2025 Page 3 of 7
+1 (c) The Public Utility Commission shall adopt by rule the following
+2 provisions:
+3 (1) The time and manner in which the prices established in subdivisions
+4 (b)(1)(A) and (B) of this section may be adjusted to account for inflationary
+5 changes as measured by the Consumer Price Index, but in no event may the
+6 monthly price be increased by more than two percent per year.
+7 (2) Standards and procedures for waiving, upon a provider’s request, the
+8 minimum speed requirement specified in subdivision (b)(1)(A) of this section
+9 but only if the Commission determines such download speed is not reasonably
+10 practicable under the circumstances and specifies an alternative minimum
+11 download speed.
+12 (3) Standards and procedures for exempting an internet service provider
+13 from the requirements of this section if:
+14 (A) the provider provides broadband service to not more than 20,000
+15 customers; and
+16 (B) the Commission determines compliance with the requirements of
+17 this section would have an unreasonable or unsustainable financial impact on
+18 the provider.
+19 (4) A process for ensuring that any contract or agreement for affordable
+20 broadband service entered into pursuant to this section has the same terms and
+VT LEG #380080 v.1
+BILL AS INTRODUCED H.121
+2025 Page 4 of 7
+1 conditions, other than price and speed, as the regularly priced offerings for
+2 similar broadband service provided by the provider.
+3 (d) Beginning on November 15, 2025, and annually thereafter, an internet
+4 service provider shall submit to the Department of Public Service a compliance
+5 report, which shall include the following information:
+6 (1) a description of the affordable broadband service offered pursuant to
+7 this section;
+8 (2) the number of customers receiving affordable broadband service;
+9 (3) a description of the procedures used to verify customer eligibility for
+10 affordable broadband service;
+11 (4) a description and samples of the advertising or marketing efforts
+12 undertaken to advertise or promote affordable broadband service;
+13 (5) a description of all retail rate products, including pricing, offered by
+14 the provider;
+15 (6) a description, including speed and price, of all broadband products
+16 offered in Vermont;
+17 (7) the number of customers in arrears for broadband service, the
+18 percentage of customers in arrears that qualify for affordable broadband
+19 service, the number of customers that have had their service terminated for
+20 nonpayment, the number of customers whose service was terminated for
+21 arrears arising from nonpayment for services other than broadband service, and
+VT LEG #380080 v.1
+BILL AS INTRODUCED H.121
+2025 Page 5 of 7
+1 the number of customers that have had their broadband service restored after
+2 being delinquent on their payments; and
+3 (8) any other information the Commissioner deems necessary and
+4 relevant to carrying out the purpose of this section.
+5 (e) Beginning on or before October 1, 2027, and not less than every five
+6 years thereafter, the Commissioner of Public Service shall undertake a
+7 proceeding to:
+8 (1) determine if the minimum download speed requirement established
+9 under subdivision (b)(1)(A) of this section should be increased to correspond
+10 with the Federal Communications Commission’s benchmark for high-speed
+11 fixed broadband, or to another minimum download speed deemed appropriate
+12 by the Commissioner; and
+13 (2) review the consumer eligibility requirements established under
+14 subdivision (b)(4) of this section and determine whether those requirements
+15 should be updated to meet the needs of consumers.
+16 (f) Beginning on or before December 15, 2026, and annually thereafter and
+17 notwithstanding the limitation in 2 V.S.A. § 20(d), the Commissioner of Public
+18 Service shall submit to the General Assembly a report that includes:
+19 (1) a narrative description of the aggregated data obtained from the
+20 annual compliance reports submitted pursuant to subsection (d) of this section;
+VT LEG #380080 v.1
+BILL AS INTRODUCED H.121
+2025 Page 6 of 7
+1 (2) any recommended increase to the minimum download speed
+2 established in subdivision (b)(1)(A) of this section;
+3 (3) any recommended update to the consumer eligibility requirements
+4 established in subdivision (b)(4) of this section; and
+5 (4) any other findings and recommendations the Commissioner deems
+6 necessary and appropriate to the implementation of this section.
+7 (g) An internet service provider shall make all commercially reasonable
+8 efforts to promote and advertise the availability of affordable broadband
+9 service, including the prominent display of, and enrollment procedures for,
+10 such service on the provider’s website and in any written and commercial
+11 promotional materials developed to inform consumers who may be eligible for
+12 affordable broadband service pursuant to this section. In addition, the
+13 Department of Public Service shall undertake appropriate measures to inform
+14 the public about available broadband products, including retail rate products
+15 and affordable broadband service offerings.
+16 (h) An internet service provider who violates a provision of this section
+17 commits an unfair and deceptive act in commerce in violation of section 2453
+18 of this title.
+19 (i) An internet service provider who willfully and knowingly violates a
+20 provision of this section shall be liable for a civil penalty of up to $1,000.00
+21 per violation.
+VT LEG #380080 v.1
+BILL AS INTRODUCED H.121
+2025 Page 7 of 7
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #380080 v.1
+[DELETED:  H P H I R R D S S i e A I S § ( t b ( ( ( M]
+[DELETED:  H P t o ( M t o ( r d t p d ( p ( p ( F ( T]
+[DELETED:  H P ( p ( ( c m ( m b p d ( f ( c ( t t ( b]
+[DELETED:  H P c s ( s r ( t ( ( a ( u ( t ( o ( p s n a]
+[DELETED:  H P t b ( r ( y p ( u w f b ( s s ( n S ( a]
+[DELETED:  H P ( e ( e ( n ( e s s p a D t a ( c o ( p p]
+[DELETED:  H P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.121
+2025 Page 1 of 7
+1 H.121
+2 Introduced by Representative Morrow of Weston
+3 Referred to Committee on
+4 Date:
+5 Subject: Broadband; internet access service; consumer protection; affordability
+6 Statement of purpose of bill as introduced: This bill proposes to require
+7 internet service providers to offer and provide affordable broadband service to
+8 eligible low-income consumers.
+9 An act relating to affordable broadband service
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. 9 V.S.A. § 2466d is added to read:
+12 § 2466d. AFFORDABLE BROADBAND SERVICE
+13 (a) On or before October 1, 2025, an internet service provider engaged in
+14 the provision of broadband service shall offer and provide affordable
+15 broadband service to eligible low-income consumers.
+16 (b) As used in this section:
+17 (1) “Affordable broadband service” means:
+18 (A) Broadband service capable of a download speed of at least 25
+19 Mbps at a monthly price of not more than $15.00, inclusive of any recurring
+VT LEG #380080 v.1
+
+BILL AS INTRODUCED H.121
+2025 Page 2 of 7
+1 taxes and fees such as recurring rental fees for provider equipment required to
+2 obtain broadband service and usage fees.
+3 (B) Broadband service capable of a download speed of at least 200
+4 Mbps at a monthly price of not more than $20.00, inclusive of any recurring
+5 taxes and fees such as recurring rental fees for provider equipment required to
+6 obtain broadband service and usage fees.
+7 (2) “Broadband service” means a mass-market retail service by wire or
+8 radio in Vermont that provides the capability to transmit data to and receive
+9 data from all or substantially all internet endpoints, including any capabilities
+10 that are incidental to and enable the operation of the communications service
+11 provided by a wireline or fixed wireless service provider, but shall not include
+12 dial-up internet access service.
+13 (3) “Internet service provider” or “provider” means a business that
+14 provides broadband service to any person in Vermont.
+15 (4) “Low-income consumer” means a household that qualifies for
+16 participation in:
+17 (A) the federal Lifeline program under criteria established by the
+18 Federal Communications Commission or other federal law or regulation; or
+19 (B) the Home Heating Fuel Assistance Program established under
+20 Title 33, chapter 26.
+VT LEG #380080 v.1
+
+BILL AS INTRODUCED H.121
+2025 Page 3 of 7
+1 (c) The Public Utility Commission shall adopt by rule the following
+2 provisions:
+3 (1) The time and manner in which the prices established in subdivisions
+4 (b)(1)(A) and (B) of this section may be adjusted to account for inflationary
+5 changes as measured by the Consumer Price Index, but in no event may the
+6 monthly price be increased by more than two percent per year.
+7 (2) Standards and procedures for waiving, upon a provider’s request, the
+8 minimum speed requirement specified in subdivision (b)(1)(A) of this section
+9 but only if the Commission determines such download speed is not reasonably
+10 practicable under the circumstances and specifies an alternative minimum
+11 download speed.
+12 (3) Standards and procedures for exempting an internet service provider
+13 from the requirements of this section if:
+14 (A) the provider provides broadband service to not more than 20,000
+15 customers; and
+16 (B) the Commission determines compliance with the requirements of
+17 this section would have an unreasonable or unsustainable financial impact on
+18 the provider.
+19 (4) A process for ensuring that any contract or agreement for affordable
+20 broadband service entered into pursuant to this section has the same terms and
+VT LEG #380080 v.1
+
+BILL AS INTRODUCED H.121
+2025 Page 4 of 7
+1 conditions, other than price and speed, as the regularly priced offerings for
+2 similar broadband service provided by the provider.
+3 (d) Beginning on November 15, 2025, and annually thereafter, an internet
+4 service provider shall submit to the Department of Public Service a compliance
+5 report, which shall include the following information:
+6 (1) a description of the affordable broadband service offered pursuant to
+7 this section;
+8 (2) the number of customers receiving affordable broadband service;
+9 (3) a description of the procedures used to verify customer eligibility for
+10 affordable broadband service;
+11 (4) a description and samples of the advertising or marketing efforts
+12 undertaken to advertise or promote affordable broadband service;
+13 (5) a description of all retail rate products, including pricing, offered by
+14 the provider;
+15 (6) a description, including speed and price, of all broadband products
+16 offered in Vermont;
+17 (7) the number of customers in arrears for broadband service, the
+18 percentage of customers in arrears that qualify for affordable broadband
+19 service, the number of customers that have had their service terminated for
+20 nonpayment, the number of customers whose service was terminated for
+21 arrears arising from nonpayment for services other than broadband service, and
+VT LEG #380080 v.1
+
+BILL AS INTRODUCED H.121
+2025 Page 5 of 7
+1 the number of customers that have had their broadband service restored after
+2 being delinquent on their payments; and
+3 (8) any other information the Commissioner deems necessary and
+4 relevant to carrying out the purpose of this section.
+5 (e) Beginning on or before October 1, 2027, and not less than every five
+6 years thereafter, the Commissioner of Public Service shall undertake a
+7 proceeding to:
+8 (1) determine if the minimum download speed requirement established
+9 under subdivision (b)(1)(A) of this section should be increased to correspond
+10 with the Federal Communications Commission’s benchmark for high-speed
+11 fixed broadband, or to another minimum download speed deemed appropriate
+12 by the Commissioner; and
+13 (2) review the consumer eligibility requirements established under
+14 subdivision (b)(4) of this section and determine whether those requirements
+15 should be updated to meet the needs of consumers.
+16 (f) Beginning on or before December 15, 2026, and annually thereafter and
+17 notwithstanding the limitation in 2 V.S.A. § 20(d), the Commissioner of Public
+18 Service shall submit to the General Assembly a report that includes:
+19 (1) a narrative description of the aggregated data obtained from the
+20 annual compliance reports submitted pursuant to subsection (d) of this section;
+VT LEG #380080 v.1
+
+BILL AS INTRODUCED H.121
+2025 Page 6 of 7
+1 (2) any recommended increase to the minimum download speed
+2 established in subdivision (b)(1)(A) of this section;
+3 (3) any recommended update to the consumer eligibility requirements
+4 established in subdivision (b)(4) of this section; and
+5 (4) any other findings and recommendations the Commissioner deems
+6 necessary and appropriate to the implementation of this section.
+7 (g) An internet service provider shall make all commercially reasonable
+8 efforts to promote and advertise the availability of affordable broadband
+9 service, including the prominent display of, and enrollment procedures for,
+10 such service on the provider’s website and in any written and commercial
+11 promotional materials developed to inform consumers who may be eligible for
+12 affordable broadband service pursuant to this section. In addition, the
+13 Department of Public Service shall undertake appropriate measures to inform
+14 the public about available broadband products, including retail rate products
+15 and affordable broadband service offerings.
+16 (h) An internet service provider who violates a provision of this section
+17 commits an unfair and deceptive act in commerce in violation of section 2453
+18 of this title.
+19 (i) An internet service provider who willfully and knowingly violates a
+20 provision of this section shall be liable for a civil penalty of up to $1,000.00
+21 per violation.
+VT LEG #380080 v.1
+
+BILL AS INTRODUCED H.121
+2025 Page 7 of 7
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #380080 v.1
+
+[DELETED:  H P H I R R D S S i e A I S § ( t b ( ( ( M]
+[DELETED:  H P t o ( M t o ( r d t p d ( p ( p ( F ( T]
+[DELETED:  H P ( p ( ( c m ( m b p d ( f ( c ( t t ( b]
+[DELETED:  H P c s ( s r ( t ( ( a ( u ( t ( o ( p s n a]
+[DELETED:  H P t b ( r ( y p ( u w f b ( s s ( n S ( a]
+[DELETED:  H P ( e ( e ( n ( e s s p a D t a ( c o ( p p]
+[DELETED:  H P S T]

@@ -1,0 +1,514 @@
+Title: BILL AS INTRODUCED S.150
+Official Title: BILL AS INTRODUCED S.150
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 10
+1 S.150
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; Department of Motor Vehicles; operator’s licenses;
+6 mobile identification; privacy
+7 Statement of purpose of bill as introduced: This bill proposes to establish
+8 specific requirements to protect the privacy of individuals who use mobile
+9 identification and to limit access to images recorded by automated traffic law
+10 enforcement systems.
+11 An act relating to privacy protections for mobile identification and images
+12 recorded by automated traffic law enforcement systems
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 23 V.S.A § 116 is amended to read:
+15 § 116. ISSUANCE OF MOBILE IDENTIFICATION
+16 (a) Definitions. As used in this section:
+17 (1) “Attribute authentication” means the verification of a specific quality
+18 of a data field on a mobile identification without revealing the underlying data
+19 in that field. Attribute authentication includes verifying that a mobile
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 2 of 10
+1 identification holder is legally permitted to purchase an age-restricted item
+2 without revealing the holder’s date of birth or actual age.
+3 (2) “Data field” means a discrete piece of information that appears on a
+4 mobile identification.
+5 (2)(3) “Full profile” means all the information provided on a mobile
+6 identification.
+7 (3)(4) “Limited profile” means a portion of the information provided on
+8 a mobile identification.
+9 (4)(5) “Mobile identification” means an electronic representation of the
+10 information contained on a nonmobile credential.
+11 (5)(6) “Mobile identification holder” means an individual to whom a
+12 mobile identification has been issued.
+13 (6)(7) “Nonmobile credential” means a nondriver identification card
+14 issued under section 115 of this title, a driver’s license issued under section
+15 603 of this title, a junior operator’s license issued under section 602 of this
+16 title, a learner’s permit issued under section 617 of this title, a commercial
+17 driver’s license issued under section 4111 of this title, or a commercial
+18 learner’s permit issued under section 4112 of this title.
+19 (8) “Selective disclosure” means the disclosure through a verification
+20 system of only certain data fields from a mobile identification that are
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 3 of 10
+1 reasonably necessary for the purposes of the verification and the ability of the
+2 mobile identification holder to determine which data fields are disclosed.
+3 (b) Issuance. The Commissioner of Motor Vehicles may issue a mobile
+4 identification to an individual in addition to, and not instead of, a nonmobile
+5 credential. If issued, the mobile identification shall:
+6 (1) be capable of producing both a full profile and a limited profile;
+7 (2) satisfy the purpose for which the profile is presented;
+8 (3) allow the mobile identification holder to maintain physical
+9 possession of the device on which the mobile identification is accessed during
+10 verification; and
+11 (4) not be a substitute for an individual producing a nonmobile
+12 credential upon request.
+13 * * *
+14 (d) Administration.
+15 (1) The Commissioner may operate, or may operate through a third-
+16 party administrator, a verification system for mobile identifications.
+17 (2) Access to the verification system and any data field by a person
+18 presented with a mobile identification requires the credential mobile
+19 identification holder’s consent, and, if consent is granted, the Commissioner
+20 may release the following through the verification system:
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 4 of 10
+1 (A) for a full profile, all data fields that appear on the mobile
+2 identification; and
+3 (B) for a limited profile, only the data fields represented in the
+4 limited profile for appearing on the mobile identification that the mobile
+5 identification holder has consented to have released.
+6 (3) The Commissioner shall ensure that any verification system for
+7 mobile identifications meets the following requirements:
+8 (A) The verification system does not incentivize or require a person
+9 using the verification system to take possession of a mobile identification
+10 holder’s device while accessing data from the mobile identification.
+11 (B) The verification system does not share or retain any information
+12 regarding the persons that have accessed data from a particular mobile
+13 identification or the locations at which data from a particular mobile
+14 identification has been accessed.
+15 (C) The verification system requires attribute authentication or
+16 selective disclosure in all instances when access to a full profile is not
+17 reasonably necessary. The verification system shall ensure that the data fields
+18 being requested are first disclosed to the mobile identification holder and that
+19 the mobile identification holder may determine which data fields are released
+20 to the person requesting the data.
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 5 of 10
+1 (D) The verification system utilizes techniques, methodologies, or
+2 processes that ensure that data obtained from a mobile identification, including
+3 the fact that the verification system was accessed in relation to a specific
+4 mobile identification, cannot be linked together by one or more persons who
+5 access the verification system.
+6 (4)(A) The Commissioner shall adopt standards relating to:
+7 (i) security and communications requirements for devices on
+8 which mobile identifications are stored;
+9 (ii) procedures for requesting and accessing data from mobile
+10 identifications through the verification system;
+11 (iii) minimum requirements for the identification and
+12 authentication of the mobile identification holder prior to obtaining the
+13 identification holder’s consent to the disclosure of data fields on the mobile
+14 identification; and
+15 (iv) requirements providing for the storage of information
+16 regarding what data was requested and accessed from a mobile identification,
+17 which shall only be available to the mobile identification holder and may be
+18 retained or destroyed at the mobile identification holder’s discretion.
+19 (B) The standards, to the extent practicable, shall be based on widely
+20 accepted and publicly available national or international standards.
+21 (e) Privacy protections.
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 6 of 10
+1 (1) The verification system and mobile identifications shall not permit
+2 the Department or any State entity to obtain control over the device on which a
+3 mobile identification is stored or to deactivate a mobile identification stored on
+4 a mobile identification holder’s device.
+5 (2) A law enforcement officer shall not take physical possession of the
+6 device on which a mobile identification holder’s mobile identification is
+7 accessed for the purpose of accessing the mobile identification or verifying the
+8 mobile identification holder’s identity.
+9 (3) No person shall request more data from a mobile identification than
+10 is reasonably necessary to determine that the mobile identification holder
+11 meets the legal requirements to enter into the transaction with the person
+12 requesting the data.
+13 (4) No digital services provider, application developer, or administrator
+14 or operator of the verification system shall access, collect, retain, share, or use
+15 data from a mobile identification or data about the use of a mobile
+16 identification, except as necessary to comply with applicable State and federal
+17 law.
+18 (f) Right to choose whether to use mobile identification.
+19 (1) No person shall condition the offer or use of a good or service on
+20 access to an individual’s mobile identification or nonmobile credential except
+21 if:
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 7 of 10
+1 (A) the transaction requires proof of age, identity, residency, or
+2 another characteristic pursuant to State or federal law;
+3 (B) the identification or credential is requested in relation to financial
+4 or banking services to ensure that accounts, funds, financial instruments, or
+5 personally identifiable information or financial data is not accessed by an
+6 unauthorized person; or
+7 (C) the identification or credential is requested in relation to medical
+8 services to ensure that goods, services, or private medical information are not
+9 provided to an unauthorized person.
+10 (2) No person shall charge different prices or rates for goods or services,
+11 provide different treatment or quality of goods or services, or condition access
+12 or entry to a location based on whether an individual presents mobile
+13 identification or an appropriate nonmobile credential, unless the use of mobile
+14 identification or an appropriate nonmobile credential is necessary for
+15 conducting a remote transaction or due to circumstances beyond the person’s
+16 control that prevent the person from accessing the verification system.
+17 (g) Enforcement.
+18 (1) The Attorney General or a State’s Attorney may bring an action
+19 against a private entity to enforce the provisions of this section by restraining
+20 prohibited acts, seeking civil penalties, obtaining assurances of discontinuance,
+21 and conducting civil investigations in accordance with the procedures
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 8 of 10
+1 established in 9 V.S.A. §§ 2458–2461 as though a violation of the provisions
+2 of this section is an unfair act in commerce. Any person complained against
+3 shall have the same rights and remedies as specified in 9 V.S.A. §§ 2458–
+4 2461. The Superior Courts are authorized to impose the same civil penalties
+5 and investigation costs and to order other relief to the State of Vermont or an
+6 aggrieved individual for violations of this section as they are authorized to
+7 impose or order under the provisions of 9 V.S.A. §§ 2458 and 2461 in an
+8 unfair act in commerce.
+9 (2) An individual who has been aggrieved by a violation of the
+10 provisions of this section may bring a civil action in the Superior Court
+11 seeking:
+12 (A) damages equal to:
+13 (i) for a negligent violation of the provisions of this section,
+14 $2,500.00 or the amount of actual damages, whichever is greater; and
+15 (ii) for an intentional violation of the provisions of this section,
+16 $5,000.00 or the amount of actual damages, whichever is greater;
+17 (B) restraint of prohibited acts;
+18 (C) reasonable attorney’s fees and costs; and
+19 (D) other appropriate relief.
+20 (3) For purposes of enforcing the provisions of this section, a repeated
+21 violation of the provisions of this section by the same person through identical
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 9 of 10
+1 use of the same individual’s mobile identification prior to enforcement under
+2 the provisions of this subsection shall not constitute separate violations of the
+3 provisions of this section.
+4 Sec. 2. 23 V.S.A. § 1606 is amended to read:
+5 § 1606. AUTOMATED TRAFFIC LAW ENFORCEMENT SYSTEMS;
+6 SPEEDING
+7 * * *
+8 (b) Vendor.
+9 (1) The Agency of Transportation shall enter into a contract with a third
+10 party for the operation and deployment of ATLE systems on behalf of the
+11 Agency.
+12 (2) The Agency, in consultation with the Department of Public Safety,
+13 may require the vendor to maintain a storage system to store any recorded
+14 images or other data collected by the ATLE system. Any storage system shall
+15 adhere to the use, retention, and limitation requirements pursuant to this
+16 section.
+17 (3) The Agency, in consultation with the Department of Public Safety,
+18 shall require the vendor to employ security measures to prevent the disclosure
+19 of any recorded images for any reason other than the issuance and adjudication
+20 of a civil violation complaint to enforce the provisions of this section and the
+21 resolution of any related appeal.
+VT LEG #382145 v.1
+BILL AS INTRODUCED S.150
+2025 Page 10 of 10
+1 * * *
+2 (l) Limitations.
+3 (1) ATLE systems shall only record violations of this section and shall
+4 not be used for any other purpose, including other surveillance purposes.
+5 (2) Recorded images shall only be accessed to determine if a violation
+6 of this section was committed in the prior 12 months.
+7 (3) Notwithstanding any applicable law to the contrary, the Agency of
+8 Transportation may permit the vendor to coordinate with designated law
+9 enforcement agencies to obtain a recorded image from the vendor to determine
+10 whether a violation of this section occurred within the prior 12 months.
+11 (4) Recorded images shall not be subject to subpoena or discovery and
+12 shall not be admissible in any action except a proceeding to enforce the
+13 provisions of this section.
+14 (5) Except as otherwise provided pursuant to the provisions of this
+15 section, recorded images shall be kept confidential and are exempt from public
+16 inspection and copying under the Public Records Act. Notwithstanding
+17 1 V.S.A. § 317(e), the Public Records Act exemption created pursuant to this
+18 subdivision (5) shall continue in effect and shall not be repealed through the
+19 operation of 1 V.S.A. § 317(e).
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #382145 v.1
+[DELETED:  S P S I S R D S m S s i e A r I S § ( ( o i]
+[DELETED:  S P i w ( m ( i ( a ( i ( m ( i 6 t d l ( s]
+[DELETED:  S P r m ( i c ( ( ( p v ( c * ( ( p ( p i m]
+[DELETED:  S P ( i ( l i ( m ( u h ( r i i ( s r b t t]
+[DELETED:  S P ( p t m a ( ( w ( i ( a i i ( r w r ( a (]
+[DELETED:  S P ( t m a ( d a m ( i m r ( o d i l ( ( a i]
+[DELETED:  S P ( a ( o p u ( s p ( p o i i c c ( ( a p a]
+[DELETED:  S P e o s 2 a a i u ( p s ( ( $ ( $ ( ( ( ( v]
+[DELETED:  S P u t p S §   * ( ( p A ( m i a s ( s o o r]
+[DELETED:  S P * ( ( n ( o ( T e w ( s p ( s i 1 s o S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.150
+2025 Page 1 of 10
+1 S.150
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; Department of Motor Vehicles; operator’s licenses;
+6 mobile identification; privacy
+7 Statement of purpose of bill as introduced: This bill proposes to establish
+8 specific requirements to protect the privacy of individuals who use mobile
+9 identification and to limit access to images recorded by automated traffic law
+10 enforcement systems.
+11 An act relating to privacy protections for mobile identification and images
+12 recorded by automated traffic law enforcement systems
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 23 V.S.A § 116 is amended to read:
+15 § 116. ISSUANCE OF MOBILE IDENTIFICATION
+16 (a) Definitions. As used in this section:
+17 (1) “Attribute authentication” means the verification of a specific quality
+18 of a data field on a mobile identification without revealing the underlying data
+19 in that field. Attribute authentication includes verifying that a mobile
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 2 of 10
+1 identification holder is legally permitted to purchase an age-restricted item
+2 without revealing the holder’s date of birth or actual age.
+3 (2) “Data field” means a discrete piece of information that appears on a
+4 mobile identification.
+5 (2)(3) “Full profile” means all the information provided on a mobile
+6 identification.
+7 (3)(4) “Limited profile” means a portion of the information provided on
+8 a mobile identification.
+9 (4)(5) “Mobile identification” means an electronic representation of the
+10 information contained on a nonmobile credential.
+11 (5)(6) “Mobile identification holder” means an individual to whom a
+12 mobile identification has been issued.
+13 (6)(7) “Nonmobile credential” means a nondriver identification card
+14 issued under section 115 of this title, a driver’s license issued under section
+15 603 of this title, a junior operator’s license issued under section 602 of this
+16 title, a learner’s permit issued under section 617 of this title, a commercial
+17 driver’s license issued under section 4111 of this title, or a commercial
+18 learner’s permit issued under section 4112 of this title.
+19 (8) “Selective disclosure” means the disclosure through a verification
+20 system of only certain data fields from a mobile identification that are
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 3 of 10
+1 reasonably necessary for the purposes of the verification and the ability of the
+2 mobile identification holder to determine which data fields are disclosed.
+3 (b) Issuance. The Commissioner of Motor Vehicles may issue a mobile
+4 identification to an individual in addition to, and not instead of, a nonmobile
+5 credential. If issued, the mobile identification shall:
+6 (1) be capable of producing both a full profile and a limited profile;
+7 (2) satisfy the purpose for which the profile is presented;
+8 (3) allow the mobile identification holder to maintain physical
+9 possession of the device on which the mobile identification is accessed during
+10 verification; and
+11 (4) not be a substitute for an individual producing a nonmobile
+12 credential upon request.
+13 * * *
+14 (d) Administration.
+15 (1) The Commissioner may operate, or may operate through a third-
+16 party administrator, a verification system for mobile identifications.
+17 (2) Access to the verification system and any data field by a person
+18 presented with a mobile identification requires the credential mobile
+19 identification holder’s consent, and, if consent is granted, the Commissioner
+20 may release the following through the verification system:
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 4 of 10
+1 (A) for a full profile, all data fields that appear on the mobile
+2 identification; and
+3 (B) for a limited profile, only the data fields represented in the
+4 limited profile for appearing on the mobile identification that the mobile
+5 identification holder has consented to have released.
+6 (3) The Commissioner shall ensure that any verification system for
+7 mobile identifications meets the following requirements:
+8 (A) The verification system does not incentivize or require a person
+9 using the verification system to take possession of a mobile identification
+10 holder’s device while accessing data from the mobile identification.
+11 (B) The verification system does not share or retain any information
+12 regarding the persons that have accessed data from a particular mobile
+13 identification or the locations at which data from a particular mobile
+14 identification has been accessed.
+15 (C) The verification system requires attribute authentication or
+16 selective disclosure in all instances when access to a full profile is not
+17 reasonably necessary. The verification system shall ensure that the data fields
+18 being requested are first disclosed to the mobile identification holder and that
+19 the mobile identification holder may determine which data fields are released
+20 to the person requesting the data.
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 5 of 10
+1 (D) The verification system utilizes techniques, methodologies, or
+2 processes that ensure that data obtained from a mobile identification, including
+3 the fact that the verification system was accessed in relation to a specific
+4 mobile identification, cannot be linked together by one or more persons who
+5 access the verification system.
+6 (4)(A) The Commissioner shall adopt standards relating to:
+7 (i) security and communications requirements for devices on
+8 which mobile identifications are stored;
+9 (ii) procedures for requesting and accessing data from mobile
+10 identifications through the verification system;
+11 (iii) minimum requirements for the identification and
+12 authentication of the mobile identification holder prior to obtaining the
+13 identification holder’s consent to the disclosure of data fields on the mobile
+14 identification; and
+15 (iv) requirements providing for the storage of information
+16 regarding what data was requested and accessed from a mobile identification,
+17 which shall only be available to the mobile identification holder and may be
+18 retained or destroyed at the mobile identification holder’s discretion.
+19 (B) The standards, to the extent practicable, shall be based on widely
+20 accepted and publicly available national or international standards.
+21 (e) Privacy protections.
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 6 of 10
+1 (1) The verification system and mobile identifications shall not permit
+2 the Department or any State entity to obtain control over the device on which a
+3 mobile identification is stored or to deactivate a mobile identification stored on
+4 a mobile identification holder’s device.
+5 (2) A law enforcement officer shall not take physical possession of the
+6 device on which a mobile identification holder’s mobile identification is
+7 accessed for the purpose of accessing the mobile identification or verifying the
+8 mobile identification holder’s identity.
+9 (3) No person shall request more data from a mobile identification than
+10 is reasonably necessary to determine that the mobile identification holder
+11 meets the legal requirements to enter into the transaction with the person
+12 requesting the data.
+13 (4) No digital services provider, application developer, or administrator
+14 or operator of the verification system shall access, collect, retain, share, or use
+15 data from a mobile identification or data about the use of a mobile
+16 identification, except as necessary to comply with applicable State and federal
+17 law.
+18 (f) Right to choose whether to use mobile identification.
+19 (1) No person shall condition the offer or use of a good or service on
+20 access to an individual’s mobile identification or nonmobile credential except
+21 if:
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 7 of 10
+1 (A) the transaction requires proof of age, identity, residency, or
+2 another characteristic pursuant to State or federal law;
+3 (B) the identification or credential is requested in relation to financial
+4 or banking services to ensure that accounts, funds, financial instruments, or
+5 personally identifiable information or financial data is not accessed by an
+6 unauthorized person; or
+7 (C) the identification or credential is requested in relation to medical
+8 services to ensure that goods, services, or private medical information are not
+9 provided to an unauthorized person.
+10 (2) No person shall charge different prices or rates for goods or services,
+11 provide different treatment or quality of goods or services, or condition access
+12 or entry to a location based on whether an individual presents mobile
+13 identification or an appropriate nonmobile credential, unless the use of mobile
+14 identification or an appropriate nonmobile credential is necessary for
+15 conducting a remote transaction or due to circumstances beyond the person’s
+16 control that prevent the person from accessing the verification system.
+17 (g) Enforcement.
+18 (1) The Attorney General or a State’s Attorney may bring an action
+19 against a private entity to enforce the provisions of this section by restraining
+20 prohibited acts, seeking civil penalties, obtaining assurances of discontinuance,
+21 and conducting civil investigations in accordance with the procedures
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 8 of 10
+1 established in 9 V.S.A. §§ 2458–2461 as though a violation of the provisions
+2 of this section is an unfair act in commerce. Any person complained against
+3 shall have the same rights and remedies as specified in 9 V.S.A. §§ 2458–
+4 2461. The Superior Courts are authorized to impose the same civil penalties
+5 and investigation costs and to order other relief to the State of Vermont or an
+6 aggrieved individual for violations of this section as they are authorized to
+7 impose or order under the provisions of 9 V.S.A. §§ 2458 and 2461 in an
+8 unfair act in commerce.
+9 (2) An individual who has been aggrieved by a violation of the
+10 provisions of this section may bring a civil action in the Superior Court
+11 seeking:
+12 (A) damages equal to:
+13 (i) for a negligent violation of the provisions of this section,
+14 $2,500.00 or the amount of actual damages, whichever is greater; and
+15 (ii) for an intentional violation of the provisions of this section,
+16 $5,000.00 or the amount of actual damages, whichever is greater;
+17 (B) restraint of prohibited acts;
+18 (C) reasonable attorney’s fees and costs; and
+19 (D) other appropriate relief.
+20 (3) For purposes of enforcing the provisions of this section, a repeated
+21 violation of the provisions of this section by the same person through identical
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 9 of 10
+1 use of the same individual’s mobile identification prior to enforcement under
+2 the provisions of this subsection shall not constitute separate violations of the
+3 provisions of this section.
+4 Sec. 2. 23 V.S.A. § 1606 is amended to read:
+5 § 1606. AUTOMATED TRAFFIC LAW ENFORCEMENT SYSTEMS;
+6 SPEEDING
+7 * * *
+8 (b) Vendor.
+9 (1) The Agency of Transportation shall enter into a contract with a third
+10 party for the operation and deployment of ATLE systems on behalf of the
+11 Agency.
+12 (2) The Agency, in consultation with the Department of Public Safety,
+13 may require the vendor to maintain a storage system to store any recorded
+14 images or other data collected by the ATLE system. Any storage system shall
+15 adhere to the use, retention, and limitation requirements pursuant to this
+16 section.
+17 (3) The Agency, in consultation with the Department of Public Safety,
+18 shall require the vendor to employ security measures to prevent the disclosure
+19 of any recorded images for any reason other than the issuance and adjudication
+20 of a civil violation complaint to enforce the provisions of this section and the
+21 resolution of any related appeal.
+VT LEG #382145 v.1
+
+BILL AS INTRODUCED S.150
+2025 Page 10 of 10
+1 * * *
+2 (l) Limitations.
+3 (1) ATLE systems shall only record violations of this section and shall
+4 not be used for any other purpose, including other surveillance purposes.
+5 (2) Recorded images shall only be accessed to determine if a violation
+6 of this section was committed in the prior 12 months.
+7 (3) Notwithstanding any applicable law to the contrary, the Agency of
+8 Transportation may permit the vendor to coordinate with designated law
+9 enforcement agencies to obtain a recorded image from the vendor to determine
+10 whether a violation of this section occurred within the prior 12 months.
+11 (4) Recorded images shall not be subject to subpoena or discovery and
+12 shall not be admissible in any action except a proceeding to enforce the
+13 provisions of this section.
+14 (5) Except as otherwise provided pursuant to the provisions of this
+15 section, recorded images shall be kept confidential and are exempt from public
+16 inspection and copying under the Public Records Act. Notwithstanding
+17 1 V.S.A. § 317(e), the Public Records Act exemption created pursuant to this
+18 subdivision (5) shall continue in effect and shall not be repealed through the
+19 operation of 1 V.S.A. § 317(e).
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #382145 v.1
+
+[DELETED:  S P S I S R D S m S s i e A r I S § ( ( o i]
+[DELETED:  S P i w ( m ( i ( a ( i ( m ( i 6 t d l ( s]
+[DELETED:  S P r m ( i c ( ( ( p v ( c * ( ( p ( p i m]
+[DELETED:  S P ( i ( l i ( m ( u h ( r i i ( s r b t t]
+[DELETED:  S P ( p t m a ( ( w ( i ( a i i ( r w r ( a (]
+[DELETED:  S P ( t m a ( d a m ( i m r ( o d i l ( ( a i]
+[DELETED:  S P ( a ( o p u ( s p ( p o i i c c ( ( a p a]
+[DELETED:  S P e o s 2 a a i u ( p s ( ( $ ( $ ( ( ( ( v]
+[DELETED:  S P u t p S §   * ( ( p A ( m i a s ( s o o r]
+[DELETED:  S P * ( ( n ( o ( T e w ( s p ( s i 1 s o S T]

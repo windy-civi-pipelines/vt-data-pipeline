@@ -1,0 +1,786 @@
+Title: BILL AS INTRODUCED H.33
+Official Title: BILL AS INTRODUCED H.33
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 16
+1 H.33
+2 Introduced by Representatives Headrick of Burlington, Burrows of West
+3 Windsor, Chapin of East Montpelier, Greer of Bennington,
+4 Krasnow of South Burlington, LaMont of Morristown, Logan of
+5 Burlington, McCann of Montpelier, McGill of Bridport,
+6 Priestley of Bradford, Stevens of Waterbury, Tomlinson of
+7 Winooski, Waszazak of Barre City, and White of Bethel
+8 Referred to Committee on
+9 Date:
+10 Subject: Labor; employment practices; Parental and Family Leave Act; unpaid
+11 leave
+12 Statement of purpose of bill as introduced: This bill proposes to expand access
+13 to unpaid family and medical leave and provide job-protected leave from
+14 employment for reasons related to domestic violence, sexual assault, stalking,
+15 bereavement, and a qualifying exigency. This bill also proposes to eliminate
+16 barriers for LGBTQ+ families in accessing caregiving leave and to establish
+17 reporting requirements to track the impact of expanded access.
+18 An act relating to expanding employee access to unpaid leave
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 2 of 16
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. INTENT
+3 It is the intent of the General Assembly to align Vermont’s family leave
+4 policies with inclusive and equitable standards, ensuring that LGBTQ+
+5 families, low-income workers, and individuals in nontraditional family
+6 structures have equal access to caregiving leave without undue burden.
+7 Sec. 2. 21 V.S.A. § 471 is amended to read:
+8 § 471. DEFINITIONS
+9 As used in this subchapter:
+10 (1) “Bereavement leave” means a leave of absence from employment or
+11 self-employment by an individual due to the death of the individual’s family
+12 member that occurs not more than one year after the family member’s death.
+13 Bereavement leave includes leave taken in relation to the administration or
+14 settlement of the deceased family member’s estate. Leave taken in relation to
+15 the administration or settlement of the deceased family member’s estate may
+16 occur more than one year after the family member’s death.
+17 (2) “Domestic partner” means an individual with whom the employee
+18 has an enduring domestic relationship of a spousal nature, provided the
+19 employee and the domestic partner:
+20 (A) have shared a residence for at least six consecutive months;
+21 (B) are at least 18 years of age;
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 3 of 16
+1 (C) are not married to or considered a domestic partner of another
+2 individual;
+3 (D) are not related by blood closer than would bar marriage under
+4 State law; and
+5 (E) have agreed between themselves to be responsible for each
+6 other’s welfare.
+7 (3) “Domestic violence” has the same meaning as in 15 V.S.A. § 1151.
+8 (4) “Employer” means an individual, organization, or governmental
+9 body, partnership, association, corporation, legal representative, trustee,
+10 receiver, trustee in bankruptcy, and any common carrier by rail, motor, water,
+11 air, or express company doing business in or operating within this State that a
+12 person who for the purposes of parental leave, bereavement leave, safe leave,
+13 and leave for a qualifying exigency employs 10 or more individuals who are
+14 employed for an average of at least 30 hours per week during a year and for the
+15 purposes of family leave employs 15 or more individuals for an average of at
+16 least 30 hours per week during a year.
+17 (2)(5) “Employee” means a person who, in consideration of direct or
+18 indirect gain or profit, has been continuously employed by the same employer
+19 for a period of one year for an average of at least 30 hours per week. For
+20 purposes of safe leave only, “employee” means a person who in consideration
+21 of direct or indirect gain or profit has been continuously employed by the same
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 4 of 16
+1 employer for a period of six months for an average of at least 20 hours per
+2 week.
+3 (3)(6) “Family leave” means a leave of absence from employment by an
+4 employee who works for an employer that employs 15 or more individuals
+5 who are employed for an average of at least 30 hours per week during the year
+6 for one of the following reasons:
+7 (A) the serious health condition of the employee; or
+8 (B) the serious health condition of the employee’s child, stepchild or
+9 ward who lives with the employee, foster child, parent, spouse, or parent of the
+10 employee’s spouse family member.
+11 (7) “Family member” means:
+12 (A) regardless of age, an employee’s biological, adopted, or foster
+13 child; an employee’s stepchild or legal ward; a child of the employee’s spouse
+14 or civil union or domestic partner; a child to whom the employee stands in loco
+15 parentis, regardless of legal documentation; an individual to whom the
+16 employee stood in loco parentis when the individual was under 18 years of
+17 age; or any individual for whom the employee provides caregiving
+18 responsibilities similar to those of a parent-child relationship;
+19 (B)(i) a parent of an employee or an employee’s spouse or civil union
+20 or domestic partner, regardless of whether the relationship to the employee or
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 5 of 16
+1 the employee’s spouse or civil union or domestic partner is a biological, foster,
+2 adoptive, or step relationship;
+3 (ii) a legal guardian of an employee or employee’s spouse or civil
+4 union or domestic partner; or
+5 (iii) a person who stands in loco parentis for the employee or who
+6 stood in loco parentis when the employee or employee’s spouse or civil union
+7 or domestic partner was under 18 years of age;
+8 (C) a person to whom the employee is legally married under the laws
+9 of any state or a civil union or domestic partner of an employee;
+10 (D) a grandparent, grandchild, or sibling of the employee or the
+11 employee’s spouse or civil union or domestic partner, regardless of whether
+12 the relationship to the employee or the employee’s spouse or civil union or
+13 domestic partner is a biological, foster, adoptive, or step relationship; or
+14 (E) any other individual with whom the employee has a significant
+15 personal bond that is or is like a family relationship, regardless of formal
+16 documentation, including individuals who rely on one another for caregiving,
+17 emotional support, or other familial responsibilities; no specific evidence or
+18 legal documentation shall be required to establish this relationship.
+19 (4)(8) “Health care provider” means a licensed health care provider or a
+20 health care provider as defined pursuant to 29 C.F.R. § 825.125.
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 6 of 16
+1 (9) “In loco parentis” means a relationship in which an individual has
+2 day-to-day responsibilities to care for and support a child, regardless of
+3 biological or legal ties. Financial support is not a requirement for this
+4 relationship, recognizing caregiving roles beyond traditional definitions.
+5 (5)(10) “Parental leave” means a leave of absence from employment by
+6 an employee who works for an employer that employs 10 or more individuals
+7 who are employed for an average of at least 30 hours per week during the year
+8 for one of the following reasons:
+9 (A) the employee’s pregnancy;
+10 (B) the employee’s recovery from childbirth or miscarriage;
+11 (C) the birth of the employee’s child and to care for or bond with the
+12 child within one year after the child’s birth; or
+13 (D) the initial placement of a child 18 years of age or younger with
+14 the employee for the purpose of adoption or foster care and to care for or bond
+15 with the child within one year after the placement for adoption or foster care.
+16 (11) “Qualifying exigency” means a qualifying exigency identified
+17 pursuant to 29 C.F.R. § 825.126 that is related to active duty service by a
+18 family member in the U.S. Armed Forces.
+19 (12) “Safe leave” means a leave of absence from employment by an
+20 employee because:
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 7 of 16
+1 (A) the employee or the employee’s family member is a victim or
+2 alleged victim of domestic violence, sexual assault, or stalking;
+3 (B) the employee is using leave for one of the following reasons
+4 related to domestic violence, sexual assault, or stalking:
+5 (i) to seek or obtain medical care, counseling, or social or legal
+6 services, either for themselves or for a family member;
+7 (ii) to recover from injuries;
+8 (iii) to participate in safety planning, either for themselves or for a
+9 family member;
+10 (iv) to relocate or secure safe housing, either for themselves or for
+11 a family member;
+12 (v) to meet with a State’s Attorney or law enforcement officer; or
+13 (vi) to attend a hearing concerning an order against stalking or
+14 sexual assault pursuant to 12 V.S.A. § 5133, when the employee seeks the
+15 order as a plaintiff; and
+16 (C) the employee is not the perpetrator or alleged perpetrator of the
+17 domestic violence, sexual assault, or stalking.
+18 (6)(13) “Serious health condition” means:
+19 (A) an accident, illness, injury, disease, or physical or mental
+20 condition that:
+21 (i) poses imminent danger of death;
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 8 of 16
+1 (ii) requires inpatient care in a hospital, hospice, or residential
+2 medical care facility; or
+3 (iii) requires continuing treatment by a health care provider; or
+4 (B) rehabilitation from an accident, illness, injury, disease, or
+5 physical or mental condition described in subdivision (A) of this subdivision
+6 (6)(13), including treatment for substance use disorder.
+7 (14) “Sexual assault” has the same meaning as in 15 V.S.A. § 1151.
+8 (15) “Stalking” has the same meaning as in 15 V.S.A. § 1151.
+9 (16) “U.S. Armed Forces” means:
+10 (A) the U.S. Army, Navy, Air Force, Marine Corps, Space Force, and
+11 Coast Guard;
+12 (B) a reserve component of the U.S. Army, Navy, Air Force, Marine
+13 Corps, Space Force, and Coast Guard; or
+14 (C) the National Guard of any state.
+15 Sec. 3. 21 V.S.A. § 472 is amended to read:
+16 § 472. LEAVE
+17 (a)(1) During any 12-month period, an employee shall be entitled to take
+18 unpaid leave for a period not to exceed 12 weeks:
+19 (1)(A) for parental leave, during the employee’s pregnancy and
+20 following the birth of an employee’s child or within a year following the initial
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 9 of 16
+1 placement of a child 16 years of age or younger with the employee for the
+2 purpose of adoption.;
+3 (2)(B) for family leave, for the serious health condition of the employee
+4 or the employee’s child, stepchild or ward of the employee who lives with the
+5 employee, foster child, parent, spouse, or parent of the employee’s spouse; or
+6 (C) for a qualifying exigency.
+7 (2) During any 12-month period, an employee may use up to two out of
+8 the 12 weeks of leave available pursuant to subdivision (1) of this subsection
+9 for bereavement leave.
+10 (3) In addition to the leave provided pursuant to subdivisions (1) and (2)
+11 of this subsection, during any 12-month period an employee shall be entitled to
+12 take unpaid leave for a period not to exceed 12 weeks for safe leave.
+13 (b) During the leave, at the employee’s option, the employee may use
+14 accrued sick leave or, vacation leave or, any other accrued paid leave, not to
+15 exceed six weeks or short-term disability insurance. Utilization of accrued
+16 paid leave or short-term disability insurance shall not extend the leave
+17 provided pursuant to this section.
+18 * * *
+19 (e)(1) An employee shall give the employer reasonable written notice of
+20 intent to take leave under this subchapter section. Notice shall include the date
+21 the leave is expected to commence and the estimated duration of the leave.
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 10 of 16
+1 (2) In the case of the adoption or birth of a child, an employer shall not
+2 require that notice be given more than six weeks prior to the anticipated
+3 commencement of the leave.
+4 (3) In the case of an unanticipated serious health condition, a
+5 miscarriage, an unanticipated need for safe leave, a premature birth, the death
+6 of a family member, or a short-notice qualifying exigency, the employee shall
+7 give the employer notice of the commencement of the leave as soon as
+8 practicable.
+9 (4)(A) In the case of a serious health condition of the employee or a
+10 member of the employee’s family, an employer may require certification from
+11 a health care provider to verify the condition and the amount and necessity for
+12 the leave requested.
+13 (B) An employer may require an employee to provide documentation
+14 of the need for safe leave. An employee may provide documentation from any
+15 one of the following sources:
+16 (i) a court or a law enforcement or other government agency;
+17 (ii) a domestic violence, sexual assault, or stalking assistance
+18 program;
+19 (iii) a legal, clerical, medical, or other professional from whom the
+20 employee, or the employee’s family member, received counseling or other
+21 assistance concerning domestic violence, sexual assault, or stalking; or
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 11 of 16
+1 (iv) a self-attestation by the employee describing the
+2 circumstances supporting the need for safe leave; no further corroboration shall
+3 be required unless otherwise mandated by law.
+4 (C) An employer may require an employee to provide documentation
+5 of the need for bereavement leave. An employee may provide any of the
+6 following forms of documentation:
+7 (i) a death certificate;
+8 (ii) a published obituary; or
+9 (iii) a written notice or verification of death, burial, or memorial
+10 services from a mortuary, funeral home, burial society, crematorium, religious
+11 organization, or governmental agency.
+12 (D) An employer may require an employee to provide documentation
+13 of the need for leave for a qualifying exigency as set forth in 29 C.F.R.
+14 § 825.309.
+15 (E) An employer shall not disclose any private medical information
+16 or information relating to a safe leave that the employer receives pursuant to
+17 this subdivision (4) except to the extent the disclosure is permitted by law and:
+18 (i) consented to by the employee in writing;
+19 (ii) required pursuant to a court order; or
+20 (iii) required pursuant to State or federal law.
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 12 of 16
+1 (4)(5) An employee may return from leave earlier than estimated upon
+2 approval of the employer.
+3 (5)(6) An employee shall provide reasonable notice to the employer of
+4 the need to extend leave to the extent provided by this subchapter.
+5 (f) Upon return from leave taken under this subchapter, an employee shall
+6 be offered the same or comparable job at the same level of compensation,
+7 employment benefits, seniority, or any other term or condition of the
+8 employment existing on the day leave began. This subchapter subsection shall
+9 not apply if, prior to requesting leave, the employee had been given notice or
+10 had given notice that the employment would terminate. This subsection shall
+11 not apply if the employer can demonstrate by clear and convincing evidence
+12 that:
+13 (1) during the period of leave the employee’s job would have been
+14 terminated or the employee laid off for reasons unrelated to the leave or the
+15 condition for which the leave was granted; or
+16 (2) the employee performed unique services and hiring a permanent
+17 replacement during the leave, after giving reasonable notice to the employee of
+18 intent to do so, was the only alternative available to the employer to prevent
+19 substantial and grievous economic injury to the employer’s operation.
+20 (g)(1) An employer may adopt a leave policy more generous than the leave
+21 policy provided by this subchapter.
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 13 of 16
+1 (2)(A) Nothing in this subchapter shall be construed to diminish an
+2 employer’s obligation to comply with any collective bargaining agreement or
+3 any employment benefit program or plan that provides greater leave rights than
+4 the rights provided by this subchapter.
+5 (B) A collective bargaining agreement or employment benefit
+6 program or plan may not diminish rights provided by this subchapter.
+7 (3) Notwithstanding the provisions of this subchapter, an employee may,
+8 at the time a need for parental or family leave arises, waive some or all the
+9 rights under this subchapter provided the waiver is informed and voluntary and
+10 any changes in conditions of employment related to any waiver shall be
+11 mutually agreed upon between employer and employee.
+12 (h) Except for the serious health condition of the employee or safe leave
+13 when the employee is the victim or alleged victim, an employee who does not
+14 return to employment with the employer who provided the leave shall return to
+15 the employer the value of any compensation that the employer paid to or on
+16 behalf of the employee during the leave, except payments for accrued sick
+17 leave or vacation leave.
+18 Sec. 4. 21 V.S.A. § 472a is amended to read:
+19 § 472a. SHORT-TERM FAMILY LEAVE
+20 (a) In addition to the leave provided in section 472 of this title, an
+21 employee shall be entitled to take unpaid leave not to exceed four hours in any
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 14 of 16
+1 30-day period and not to exceed 24 hours in any 12-month period. An
+2 employer may require that leave be taken in a minimum of two-hour segments
+3 and may be taken for any of the following purposes:
+4 (1) To participate in preschool or school activities directly related to the
+5 academic educational advancement of the employee’s child, stepchild, foster
+6 child, or ward who lives with the employee family member, such as a parent-
+7 teacher conference.
+8 (2) To attend or to accompany the employee’s child, stepchild, foster
+9 child, or ward who lives with the employee or the employee’s parent, spouse,
+10 or parent-in-law family member to routine medical or dental appointments.
+11 (3) To accompany the employee’s parent, spouse, or parent-in-law
+12 family member to other appointments for professional services related to their
+13 care and well-being.
+14 (4) To respond to a medical emergency involving the employee’s child,
+15 stepchild, foster child, or ward who lives with the employee or the employee’s
+16 parent, spouse, or parent-in-law family member.
+17 * * *
+18 Sec. 5. 21 V.S.A. § 472c is amended to read:
+19 § 472c. LEAVE; ALLEGED CRIME VICTIMS; RELIEF FROM
+20 STALKING OR ABUSE
+21 * * *
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 15 of 16
+1 (b) In addition to the leave provided in section 472 of this title, an
+2 employee shall be entitled to take unpaid leave from employment for the
+3 purpose of attending a deposition or court proceeding related to:
+4 * * *
+5 (2) a relief from abuse hearing pursuant to 15 V.S.A. § 1103, when the
+6 employee seeks the order as a plaintiff; or
+7 (3) a hearing concerning an order against stalking or sexual assault
+8 pursuant to 12 V.S.A. § 5133, when the employee seeks the order as plaintiff;
+9 or
+10 (4) a relief from abuse, neglect, or exploitation hearing pursuant to
+11 33 V.S.A. chapter 69, when the employee is the plaintiff.
+12 * * *
+13 Sec. 6. 21 V.S.A. § 475 is added to read:
+14 § 475. REPORTING REQUIREMENTS
+15 (a) The Commissioner of Labor shall adopt rules requiring employers to
+16 track and report on the usage rate of leave taken under this subchapter. The
+17 reports shall be submitted to the Commissioner of Labor and shall include:
+18 (1) aggregated data on leave usage rates by all employees, including
+19 those in nontraditional family structures, LGBTQ+ families, and chosen family
+20 relationships; and
+VT LEG #379426 v.1
+BILL AS INTRODUCED H.33
+2025 Page 16 of 16
+1 (2) data on barriers or challenges reported by employees attempting to
+2 access leave under this subchapter.
+3 (b) The Commissioner of Labor shall compile data from the reports
+4 submitted by employers and use the information to identify structural barriers
+5 to accessing leave under this subchapter and make recommendations to
+6 improve access and reduce equity gaps.
+7 Sec. 7. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #379426 v.1
+[DELETED:  H P H I R W K B P W R D S l S t e b b r A]
+[DELETED:  H P I S I p f s S § A ( s m B s t o ( h e ( (]
+[DELETED:  H P ( i ( S ( o ( ( b r a p a e p l ( i f p o]
+[DELETED:  H P e w ( e w f ( ( w e ( ( c o p e a r ( o]
+[DELETED:  H P t a ( u ( s o ( o ( e t d ( p d e l ( h]
+[DELETED:  H P ( d b r ( a w f ( ( ( c ( t w ( p f ( e]
+[DELETED:  H P ( a ( r ( s ( ( f ( a ( ( s o ( d ( ( c (]
+[DELETED:  H P ( m ( ( p ( ( ( ( ( C ( C ( S § ( u ( f]
+[DELETED:  H P p p ( o e ( ( t f ( o t ( a e p p * ( i t]
+[DELETED:  H P ( r c ( m o g p ( m a t ( o o ( ( p ( e a]
+[DELETED:  H P ( c b ( o f ( ( ( s o ( o § ( o t ( ( (]
+[DELETED:  H P ( a ( t ( b e e n h n t ( t c ( r i s ( p]
+[DELETED:  H P ( e a t ( p ( a r a m ( w r t b l S § ( e]
+[DELETED:  H P 3 e a ( a c t ( c o ( f c ( s p * S §   *]
+[DELETED:  H P ( e p * ( e ( p o ( 3 * S § ( t r ( t r]
+[DELETED:  H P ( a ( s t i S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.33
+2025 Page 1 of 16
+1 H.33
+2 Introduced by Representatives Headrick of Burlington, Burrows of West
+3 Windsor, Chapin of East Montpelier, Greer of Bennington,
+4 Krasnow of South Burlington, LaMont of Morristown, Logan of
+5 Burlington, McCann of Montpelier, McGill of Bridport,
+6 Priestley of Bradford, Stevens of Waterbury, Tomlinson of
+7 Winooski, Waszazak of Barre City, and White of Bethel
+8 Referred to Committee on
+9 Date:
+10 Subject: Labor; employment practices; Parental and Family Leave Act; unpaid
+11 leave
+12 Statement of purpose of bill as introduced: This bill proposes to expand access
+13 to unpaid family and medical leave and provide job-protected leave from
+14 employment for reasons related to domestic violence, sexual assault, stalking,
+15 bereavement, and a qualifying exigency. This bill also proposes to eliminate
+16 barriers for LGBTQ+ families in accessing caregiving leave and to establish
+17 reporting requirements to track the impact of expanded access.
+18 An act relating to expanding employee access to unpaid leave
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 2 of 16
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. INTENT
+3 It is the intent of the General Assembly to align Vermont’s family leave
+4 policies with inclusive and equitable standards, ensuring that LGBTQ+
+5 families, low-income workers, and individuals in nontraditional family
+6 structures have equal access to caregiving leave without undue burden.
+7 Sec. 2. 21 V.S.A. § 471 is amended to read:
+8 § 471. DEFINITIONS
+9 As used in this subchapter:
+10 (1) “Bereavement leave” means a leave of absence from employment or
+11 self-employment by an individual due to the death of the individual’s family
+12 member that occurs not more than one year after the family member’s death.
+13 Bereavement leave includes leave taken in relation to the administration or
+14 settlement of the deceased family member’s estate. Leave taken in relation to
+15 the administration or settlement of the deceased family member’s estate may
+16 occur more than one year after the family member’s death.
+17 (2) “Domestic partner” means an individual with whom the employee
+18 has an enduring domestic relationship of a spousal nature, provided the
+19 employee and the domestic partner:
+20 (A) have shared a residence for at least six consecutive months;
+21 (B) are at least 18 years of age;
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 3 of 16
+1 (C) are not married to or considered a domestic partner of another
+2 individual;
+3 (D) are not related by blood closer than would bar marriage under
+4 State law; and
+5 (E) have agreed between themselves to be responsible for each
+6 other’s welfare.
+7 (3) “Domestic violence” has the same meaning as in 15 V.S.A. § 1151.
+8 (4) “Employer” means an individual, organization, or governmental
+9 body, partnership, association, corporation, legal representative, trustee,
+10 receiver, trustee in bankruptcy, and any common carrier by rail, motor, water,
+11 air, or express company doing business in or operating within this State that a
+12 person who for the purposes of parental leave, bereavement leave, safe leave,
+13 and leave for a qualifying exigency employs 10 or more individuals who are
+14 employed for an average of at least 30 hours per week during a year and for the
+15 purposes of family leave employs 15 or more individuals for an average of at
+16 least 30 hours per week during a year.
+17 (2)(5) “Employee” means a person who, in consideration of direct or
+18 indirect gain or profit, has been continuously employed by the same employer
+19 for a period of one year for an average of at least 30 hours per week. For
+20 purposes of safe leave only, “employee” means a person who in consideration
+21 of direct or indirect gain or profit has been continuously employed by the same
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 4 of 16
+1 employer for a period of six months for an average of at least 20 hours per
+2 week.
+3 (3)(6) “Family leave” means a leave of absence from employment by an
+4 employee who works for an employer that employs 15 or more individuals
+5 who are employed for an average of at least 30 hours per week during the year
+6 for one of the following reasons:
+7 (A) the serious health condition of the employee; or
+8 (B) the serious health condition of the employee’s child, stepchild or
+9 ward who lives with the employee, foster child, parent, spouse, or parent of the
+10 employee’s spouse family member.
+11 (7) “Family member” means:
+12 (A) regardless of age, an employee’s biological, adopted, or foster
+13 child; an employee’s stepchild or legal ward; a child of the employee’s spouse
+14 or civil union or domestic partner; a child to whom the employee stands in loco
+15 parentis, regardless of legal documentation; an individual to whom the
+16 employee stood in loco parentis when the individual was under 18 years of
+17 age; or any individual for whom the employee provides caregiving
+18 responsibilities similar to those of a parent-child relationship;
+19 (B)(i) a parent of an employee or an employee’s spouse or civil union
+20 or domestic partner, regardless of whether the relationship to the employee or
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 5 of 16
+1 the employee’s spouse or civil union or domestic partner is a biological, foster,
+2 adoptive, or step relationship;
+3 (ii) a legal guardian of an employee or employee’s spouse or civil
+4 union or domestic partner; or
+5 (iii) a person who stands in loco parentis for the employee or who
+6 stood in loco parentis when the employee or employee’s spouse or civil union
+7 or domestic partner was under 18 years of age;
+8 (C) a person to whom the employee is legally married under the laws
+9 of any state or a civil union or domestic partner of an employee;
+10 (D) a grandparent, grandchild, or sibling of the employee or the
+11 employee’s spouse or civil union or domestic partner, regardless of whether
+12 the relationship to the employee or the employee’s spouse or civil union or
+13 domestic partner is a biological, foster, adoptive, or step relationship; or
+14 (E) any other individual with whom the employee has a significant
+15 personal bond that is or is like a family relationship, regardless of formal
+16 documentation, including individuals who rely on one another for caregiving,
+17 emotional support, or other familial responsibilities; no specific evidence or
+18 legal documentation shall be required to establish this relationship.
+19 (4)(8) “Health care provider” means a licensed health care provider or a
+20 health care provider as defined pursuant to 29 C.F.R. § 825.125.
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 6 of 16
+1 (9) “In loco parentis” means a relationship in which an individual has
+2 day-to-day responsibilities to care for and support a child, regardless of
+3 biological or legal ties. Financial support is not a requirement for this
+4 relationship, recognizing caregiving roles beyond traditional definitions.
+5 (5)(10) “Parental leave” means a leave of absence from employment by
+6 an employee who works for an employer that employs 10 or more individuals
+7 who are employed for an average of at least 30 hours per week during the year
+8 for one of the following reasons:
+9 (A) the employee’s pregnancy;
+10 (B) the employee’s recovery from childbirth or miscarriage;
+11 (C) the birth of the employee’s child and to care for or bond with the
+12 child within one year after the child’s birth; or
+13 (D) the initial placement of a child 18 years of age or younger with
+14 the employee for the purpose of adoption or foster care and to care for or bond
+15 with the child within one year after the placement for adoption or foster care.
+16 (11) “Qualifying exigency” means a qualifying exigency identified
+17 pursuant to 29 C.F.R. § 825.126 that is related to active duty service by a
+18 family member in the U.S. Armed Forces.
+19 (12) “Safe leave” means a leave of absence from employment by an
+20 employee because:
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 7 of 16
+1 (A) the employee or the employee’s family member is a victim or
+2 alleged victim of domestic violence, sexual assault, or stalking;
+3 (B) the employee is using leave for one of the following reasons
+4 related to domestic violence, sexual assault, or stalking:
+5 (i) to seek or obtain medical care, counseling, or social or legal
+6 services, either for themselves or for a family member;
+7 (ii) to recover from injuries;
+8 (iii) to participate in safety planning, either for themselves or for a
+9 family member;
+10 (iv) to relocate or secure safe housing, either for themselves or for
+11 a family member;
+12 (v) to meet with a State’s Attorney or law enforcement officer; or
+13 (vi) to attend a hearing concerning an order against stalking or
+14 sexual assault pursuant to 12 V.S.A. § 5133, when the employee seeks the
+15 order as a plaintiff; and
+16 (C) the employee is not the perpetrator or alleged perpetrator of the
+17 domestic violence, sexual assault, or stalking.
+18 (6)(13) “Serious health condition” means:
+19 (A) an accident, illness, injury, disease, or physical or mental
+20 condition that:
+21 (i) poses imminent danger of death;
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 8 of 16
+1 (ii) requires inpatient care in a hospital, hospice, or residential
+2 medical care facility; or
+3 (iii) requires continuing treatment by a health care provider; or
+4 (B) rehabilitation from an accident, illness, injury, disease, or
+5 physical or mental condition described in subdivision (A) of this subdivision
+6 (6)(13), including treatment for substance use disorder.
+7 (14) “Sexual assault” has the same meaning as in 15 V.S.A. § 1151.
+8 (15) “Stalking” has the same meaning as in 15 V.S.A. § 1151.
+9 (16) “U.S. Armed Forces” means:
+10 (A) the U.S. Army, Navy, Air Force, Marine Corps, Space Force, and
+11 Coast Guard;
+12 (B) a reserve component of the U.S. Army, Navy, Air Force, Marine
+13 Corps, Space Force, and Coast Guard; or
+14 (C) the National Guard of any state.
+15 Sec. 3. 21 V.S.A. § 472 is amended to read:
+16 § 472. LEAVE
+17 (a)(1) During any 12-month period, an employee shall be entitled to take
+18 unpaid leave for a period not to exceed 12 weeks:
+19 (1)(A) for parental leave, during the employee’s pregnancy and
+20 following the birth of an employee’s child or within a year following the initial
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 9 of 16
+1 placement of a child 16 years of age or younger with the employee for the
+2 purpose of adoption.;
+3 (2)(B) for family leave, for the serious health condition of the employee
+4 or the employee’s child, stepchild or ward of the employee who lives with the
+5 employee, foster child, parent, spouse, or parent of the employee’s spouse; or
+6 (C) for a qualifying exigency.
+7 (2) During any 12-month period, an employee may use up to two out of
+8 the 12 weeks of leave available pursuant to subdivision (1) of this subsection
+9 for bereavement leave.
+10 (3) In addition to the leave provided pursuant to subdivisions (1) and (2)
+11 of this subsection, during any 12-month period an employee shall be entitled to
+12 take unpaid leave for a period not to exceed 12 weeks for safe leave.
+13 (b) During the leave, at the employee’s option, the employee may use
+14 accrued sick leave or, vacation leave or, any other accrued paid leave, not to
+15 exceed six weeks or short-term disability insurance. Utilization of accrued
+16 paid leave or short-term disability insurance shall not extend the leave
+17 provided pursuant to this section.
+18 * * *
+19 (e)(1) An employee shall give the employer reasonable written notice of
+20 intent to take leave under this subchapter section. Notice shall include the date
+21 the leave is expected to commence and the estimated duration of the leave.
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 10 of 16
+1 (2) In the case of the adoption or birth of a child, an employer shall not
+2 require that notice be given more than six weeks prior to the anticipated
+3 commencement of the leave.
+4 (3) In the case of an unanticipated serious health condition, a
+5 miscarriage, an unanticipated need for safe leave, a premature birth, the death
+6 of a family member, or a short-notice qualifying exigency, the employee shall
+7 give the employer notice of the commencement of the leave as soon as
+8 practicable.
+9 (4)(A) In the case of a serious health condition of the employee or a
+10 member of the employee’s family, an employer may require certification from
+11 a health care provider to verify the condition and the amount and necessity for
+12 the leave requested.
+13 (B) An employer may require an employee to provide documentation
+14 of the need for safe leave. An employee may provide documentation from any
+15 one of the following sources:
+16 (i) a court or a law enforcement or other government agency;
+17 (ii) a domestic violence, sexual assault, or stalking assistance
+18 program;
+19 (iii) a legal, clerical, medical, or other professional from whom the
+20 employee, or the employee’s family member, received counseling or other
+21 assistance concerning domestic violence, sexual assault, or stalking; or
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 11 of 16
+1 (iv) a self-attestation by the employee describing the
+2 circumstances supporting the need for safe leave; no further corroboration shall
+3 be required unless otherwise mandated by law.
+4 (C) An employer may require an employee to provide documentation
+5 of the need for bereavement leave. An employee may provide any of the
+6 following forms of documentation:
+7 (i) a death certificate;
+8 (ii) a published obituary; or
+9 (iii) a written notice or verification of death, burial, or memorial
+10 services from a mortuary, funeral home, burial society, crematorium, religious
+11 organization, or governmental agency.
+12 (D) An employer may require an employee to provide documentation
+13 of the need for leave for a qualifying exigency as set forth in 29 C.F.R.
+14 § 825.309.
+15 (E) An employer shall not disclose any private medical information
+16 or information relating to a safe leave that the employer receives pursuant to
+17 this subdivision (4) except to the extent the disclosure is permitted by law and:
+18 (i) consented to by the employee in writing;
+19 (ii) required pursuant to a court order; or
+20 (iii) required pursuant to State or federal law.
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 12 of 16
+1 (4)(5) An employee may return from leave earlier than estimated upon
+2 approval of the employer.
+3 (5)(6) An employee shall provide reasonable notice to the employer of
+4 the need to extend leave to the extent provided by this subchapter.
+5 (f) Upon return from leave taken under this subchapter, an employee shall
+6 be offered the same or comparable job at the same level of compensation,
+7 employment benefits, seniority, or any other term or condition of the
+8 employment existing on the day leave began. This subchapter subsection shall
+9 not apply if, prior to requesting leave, the employee had been given notice or
+10 had given notice that the employment would terminate. This subsection shall
+11 not apply if the employer can demonstrate by clear and convincing evidence
+12 that:
+13 (1) during the period of leave the employee’s job would have been
+14 terminated or the employee laid off for reasons unrelated to the leave or the
+15 condition for which the leave was granted; or
+16 (2) the employee performed unique services and hiring a permanent
+17 replacement during the leave, after giving reasonable notice to the employee of
+18 intent to do so, was the only alternative available to the employer to prevent
+19 substantial and grievous economic injury to the employer’s operation.
+20 (g)(1) An employer may adopt a leave policy more generous than the leave
+21 policy provided by this subchapter.
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 13 of 16
+1 (2)(A) Nothing in this subchapter shall be construed to diminish an
+2 employer’s obligation to comply with any collective bargaining agreement or
+3 any employment benefit program or plan that provides greater leave rights than
+4 the rights provided by this subchapter.
+5 (B) A collective bargaining agreement or employment benefit
+6 program or plan may not diminish rights provided by this subchapter.
+7 (3) Notwithstanding the provisions of this subchapter, an employee may,
+8 at the time a need for parental or family leave arises, waive some or all the
+9 rights under this subchapter provided the waiver is informed and voluntary and
+10 any changes in conditions of employment related to any waiver shall be
+11 mutually agreed upon between employer and employee.
+12 (h) Except for the serious health condition of the employee or safe leave
+13 when the employee is the victim or alleged victim, an employee who does not
+14 return to employment with the employer who provided the leave shall return to
+15 the employer the value of any compensation that the employer paid to or on
+16 behalf of the employee during the leave, except payments for accrued sick
+17 leave or vacation leave.
+18 Sec. 4. 21 V.S.A. § 472a is amended to read:
+19 § 472a. SHORT-TERM FAMILY LEAVE
+20 (a) In addition to the leave provided in section 472 of this title, an
+21 employee shall be entitled to take unpaid leave not to exceed four hours in any
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 14 of 16
+1 30-day period and not to exceed 24 hours in any 12-month period. An
+2 employer may require that leave be taken in a minimum of two-hour segments
+3 and may be taken for any of the following purposes:
+4 (1) To participate in preschool or school activities directly related to the
+5 academic educational advancement of the employee’s child, stepchild, foster
+6 child, or ward who lives with the employee family member, such as a parent-
+7 teacher conference.
+8 (2) To attend or to accompany the employee’s child, stepchild, foster
+9 child, or ward who lives with the employee or the employee’s parent, spouse,
+10 or parent-in-law family member to routine medical or dental appointments.
+11 (3) To accompany the employee’s parent, spouse, or parent-in-law
+12 family member to other appointments for professional services related to their
+13 care and well-being.
+14 (4) To respond to a medical emergency involving the employee’s child,
+15 stepchild, foster child, or ward who lives with the employee or the employee’s
+16 parent, spouse, or parent-in-law family member.
+17 * * *
+18 Sec. 5. 21 V.S.A. § 472c is amended to read:
+19 § 472c. LEAVE; ALLEGED CRIME VICTIMS; RELIEF FROM
+20 STALKING OR ABUSE
+21 * * *
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 15 of 16
+1 (b) In addition to the leave provided in section 472 of this title, an
+2 employee shall be entitled to take unpaid leave from employment for the
+3 purpose of attending a deposition or court proceeding related to:
+4 * * *
+5 (2) a relief from abuse hearing pursuant to 15 V.S.A. § 1103, when the
+6 employee seeks the order as a plaintiff; or
+7 (3) a hearing concerning an order against stalking or sexual assault
+8 pursuant to 12 V.S.A. § 5133, when the employee seeks the order as plaintiff;
+9 or
+10 (4) a relief from abuse, neglect, or exploitation hearing pursuant to
+11 33 V.S.A. chapter 69, when the employee is the plaintiff.
+12 * * *
+13 Sec. 6. 21 V.S.A. § 475 is added to read:
+14 § 475. REPORTING REQUIREMENTS
+15 (a) The Commissioner of Labor shall adopt rules requiring employers to
+16 track and report on the usage rate of leave taken under this subchapter. The
+17 reports shall be submitted to the Commissioner of Labor and shall include:
+18 (1) aggregated data on leave usage rates by all employees, including
+19 those in nontraditional family structures, LGBTQ+ families, and chosen family
+20 relationships; and
+VT LEG #379426 v.1
+
+BILL AS INTRODUCED H.33
+2025 Page 16 of 16
+1 (2) data on barriers or challenges reported by employees attempting to
+2 access leave under this subchapter.
+3 (b) The Commissioner of Labor shall compile data from the reports
+4 submitted by employers and use the information to identify structural barriers
+5 to accessing leave under this subchapter and make recommendations to
+6 improve access and reduce equity gaps.
+7 Sec. 7. EFFECTIVE DATE
+8 This act shall take effect on July 1, 2025.
+VT LEG #379426 v.1
+
+[DELETED:  H P H I R W K B P W R D S l S t e b b r A]
+[DELETED:  H P I S I p f s S § A ( s m B s t o ( h e ( (]
+[DELETED:  H P ( i ( S ( o ( ( b r a p a e p l ( i f p o]
+[DELETED:  H P e w ( e w f ( ( w e ( ( c o p e a r ( o]
+[DELETED:  H P t a ( u ( s o ( o ( e t d ( p d e l ( h]
+[DELETED:  H P ( d b r ( a w f ( ( ( c ( t w ( p f ( e]
+[DELETED:  H P ( a ( r ( s ( ( f ( a ( ( s o ( d ( ( c (]
+[DELETED:  H P ( m ( ( p ( ( ( ( ( C ( C ( S § ( u ( f]
+[DELETED:  H P p p ( o e ( ( t f ( o t ( a e p p * ( i t]
+[DELETED:  H P ( r c ( m o g p ( m a t ( o o ( ( p ( e a]
+[DELETED:  H P ( c b ( o f ( ( ( s o ( o § ( o t ( ( (]
+[DELETED:  H P ( a ( t ( b e e n h n t ( t c ( r i s ( p]
+[DELETED:  H P ( e a t ( p ( a r a m ( w r t b l S § ( e]
+[DELETED:  H P 3 e a ( a c t ( c o ( f c ( s p * S §   *]
+[DELETED:  H P ( e p * ( e ( p o ( 3 * S § ( t r ( t r]
+[DELETED:  H P ( a ( s t i S T]

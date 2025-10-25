@@ -1,0 +1,378 @@
+Title: BILL AS INTRODUCED H.155
+Official Title: BILL AS INTRODUCED H.155
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 8
+1 H.155
+2 Introduced by Representatives Torre of Moretown, Cordes of Bristol,
+3 Goldman of Rockingham, Hunter of Manchester, Lalley of
+4 Shelburne, Logan of Burlington, Masland of Thetford, Morrow
+5 of Weston, and Pouech of Hinesburg
+6 Referred to Committee on
+7 Date:
+8 Subject: Public service; energy; renewable energy; solar energy; Standard
+9 Offer Program
+10 Statement of purpose of bill as introduced: This bill proposes to reauthorize
+11 the Standard Offer Program to award contracts for the construction of new
+12 renewable energy generation projects.
+13 An act relating to the Standard Offer Program
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 30 V.S.A. § 8005a is amended to read:
+16 § 8005a. STANDARD OFFER PROGRAM
+17 * * *
+18 (b) Eligibility. To be eligible for a standard offer under this section, a plant
+19 must constitute a qualifying small power production facility under 16 U.S.C.
+20 § 796(17)(C) and 18 C.F.R. part 292, must not be a net metering system under
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 2 of 8
+1 section 219a 8010 of this title, and must be a new standard offer plant. In this
+2 section, “new standard offer plant” means a renewable energy plant that is
+3 located in Vermont, that has a plant capacity of 2.2 MW or less, and that is
+4 commissioned on or after September 30, 2009.
+5 (c) Cumulative capacity. In accordance with this subsection, the
+6 Commission shall issue standard offers to new standard offer plants until a
+7 cumulative plant capacity amount of 127.5 227.5 MW is reached.
+8 (1) Pace. Annually commencing April 1, 2013, the Commission shall
+9 increase the cumulative plant capacity of the Standard Offer Program (the
+10 annual increase) until the 127.5-MW 227.5-MW cumulative plant capacity of
+11 this subsection is reached.
+12 (A) Annual amounts. The amount of the annual increase shall be five
+13 MW for the three years commencing April 1, 2013, 7.5 MW for the three years
+14 commencing April 1, 2016, and 10 MW commencing April 1, 2019, and then
+15 20 MW commencing April 1, 2026.
+16 (B) Blocks. Each year, a portion of the annual increase shall be
+17 reserved for new standard offer plants proposed by Vermont retail electricity
+18 providers (the provider block), and the remainder shall be reserved for new
+19 standard offer plants proposed by persons who are not providers (the
+20 independent developer block).
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 3 of 8
+1 (i) The portion of the annual increase reserved for the provider
+2 block shall be 10 percent for the three years commencing April 1, 2013, 15
+3 percent for the three years commencing April 1, 2016, and 20 percent
+4 commencing April 1, 2019.
+5 (ii) If the provider block for a given year is not fully subscribed,
+6 any unsubscribed capacity within that block shall be added to the annual
+7 increase for each following year until that capacity is subscribed and shall be
+8 made available to new standard offer plants proposed by persons who are not
+9 providers.
+10 (iii) If the independent developer block for a given year is not fully
+11 subscribed, any unsubscribed capacity within that block shall be added to the
+12 annual increase for each following year until that capacity is subscribed and:
+13 (I) shall be made available to new standard offer plants
+14 proposed by persons who are not providers; and
+15 (II) may be made available to a provider following a written
+16 request and specific proposal submitted to and approved by the Commission.
+17 [Repealed.]
+18 (C) Adjustment; greenhouse gas reduction credits. The Commission
+19 shall adjust the annual increase to account for greenhouse gas reduction credits
+20 by multiplying the annual increase by one minus the ratio of the prior year’s
+21 greenhouse gas reduction credits to that year’s statewide retail electric sales.
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 4 of 8
+1 (i) The amount of the prior year’s greenhouse gas reduction
+2 credits shall be determined in accordance with subdivision subsection 8006a(a)
+3 of this title.
+4 (ii) The adjustment in the annual increase shall be applied
+5 proportionally to the independent developer block and the provider block.
+6 (iii) Greenhouse gas reduction credits used to diminish a
+7 provider’s obligation under section 8004 of this title may be used to adjust the
+8 annual increase under this subsection (c).
+9 * * *
+10 (d) Plants outside cumulative capacity. The following categories of plants
+11 shall not count toward the cumulative capacity amount of subsection (c) of this
+12 section, and the Commission shall make standard offers available to them
+13 provided that they are otherwise eligible for such offers under this section:
+14 (1) Plants using methane derived from an agricultural operation.
+15 (2) New standard offer plants that the Commission determines will have
+16 sufficient benefits to the operation and management of the electric grid or a
+17 provider’s portion thereof because of their design, characteristics, location, or
+18 any other discernible benefit. To enhance the ability of new standard offer
+19 plants to mitigate transmission and distribution constraints, the Commission
+20 shall require Vermont retail electricity providers and companies that own or
+21 operate electric transmission facilities within the State to make sufficient
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 5 of 8
+1 information concerning these constraints available to developers who propose
+2 new standard offer plants.
+3 (A) By March 1, 2013, the Commission shall develop a screening
+4 framework or guidelines that will provide developers with adequate
+5 information regarding constrained areas in which generation having particular
+6 characteristics is reasonably likely to provide sufficient benefit to allow the
+7 generation to qualify for eligibility under this subdivision (2).
+8 (B) Once the Commission develops the screening framework or
+9 guidelines under subdivision (2)(A) of this subsection (d), the Commission
+10 shall require Vermont transmission and retail electricity providers to make the
+11 necessary information publicly available in a timely manner, with updates at
+12 least annually.
+13 (C) Nothing in this subdivision (2) shall require the disclosure of
+14 information in contravention of federal law.
+15 (e) Term. The term of a standard offer required by this section shall be 10
+16 to 20 years, except that the term of a standard offer for a plant using solar
+17 power shall be 10 to 25 years.
+18 (f) Price. The categories of renewable energy for which the Commission
+19 shall set standard offer prices shall include at least each of the categories
+20 established pursuant to subdivision (c)(2) of this section. The Commission by
+21 order shall determine and set the price paid to a plant owner for each kWh
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 6 of 8
+1 generated under a standard offer required by this section, with a goal of
+2 ensuring timely development at the lowest feasible cost. The Commission
+3 shall not be required to make this determination as a contested case under
+4 3 V.S.A. chapter 25.
+5 * * *
+6 (3) Price determinations. The Commission shall take all actions
+7 necessary to determine the pricing mechanism and implement the pricing
+8 requirements of this subsection (f) no later than on or before March 1, 2013 for
+9 effect on April 1, 2013. Annually thereafter, the Commission shall review the
+10 determinations previously made under this subsection to decide whether they
+11 should be modified in any respect in order to achieve the goal and
+12 requirements of this subsection. Any such modification shall be effective on a
+13 prospective basis commencing one month after it has been made. Once a
+14 pricing determination made or modified under this subsection goes into effect,
+15 subsequently executed standard offer contracts shall comply with the most
+16 recently effective determination.
+17 * * *
+18 (g) Qualifying existing agricultural plants. Notwithstanding any other
+19 provision of this section, on and after June 8, 2010, a standard offer shall be
+20 available for a qualifying existing plant as defined in Sec. 3 of No. 159 of the
+21 Acts of the 2009 Adj. Sess. (2010) (Act 159) 2010 Acts and Resolves No. 159,
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 7 of 8
+1 Sec. 3. The provisions of subdivision 8005(b)(2) of this title, as they existed
+2 on June 4, 2010, the effective date of Act 159 2010 Acts and Resolves
+3 No. 159, shall govern a standard offer under this subsection. Standard offers
+4 for these plants shall not be subject to subsection (c) of this section (cumulative
+5 capacity; new standard offer plants).
+6 * * *
+7 (s) Solar only allocations.
+8 (1) Notwithstanding other provisions of this section to the contrary,
+9 beginning on April 1, 2026, the Commission shall allocate the new standard
+10 offer awards to new solar, wind, and hydroelectric power plants only. Of the
+11 annual capacity awards under this subsection (s), two MW shall be allocated to
+12 community solar projects.
+13 (2) As used in this section, “community solar project” means a solar
+14 plant owned by its members or an entity controlled by its members.
+15 (3) The Commission shall establish a price cap on projects equal to the
+16 price of the highest-cost, similarly sized solar project from the Standard Offer
+17 Program from the preceding 12 months.
+18 (4) If the annual allocation for community solar is not fully subscribed,
+19 the Commission shall allocate the unsubscribed capacity to new standard offer
+20 plants other than community solar.
+VT LEG #380044 v.1
+BILL AS INTRODUCED H.155
+2025 Page 8 of 8
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #380044 v.1
+[DELETED:  H P H I R G S o R D S O S t r A I S § * ( m §]
+[DELETED:  H P s s l c ( C c ( i a t ( M c 2 ( r p s i]
+[DELETED:  H P ( b p c ( a i m p ( s a ( p ( r [ ( s b g]
+[DELETED:  H P ( c o ( p ( p a * ( s s p ( ( s p a p s o]
+[DELETED:  H P i n ( f i c g ( g s n l ( i ( t p ( s e o]
+[DELETED:  H P g e s 3 * ( n r e d s r p p s r * ( p a A]
+[DELETED:  H P S o N f c * ( ( b o a c ( p ( p P ( t p]
+[DELETED:  H P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.155
+2025 Page 1 of 8
+1 H.155
+2 Introduced by Representatives Torre of Moretown, Cordes of Bristol,
+3 Goldman of Rockingham, Hunter of Manchester, Lalley of
+4 Shelburne, Logan of Burlington, Masland of Thetford, Morrow
+5 of Weston, and Pouech of Hinesburg
+6 Referred to Committee on
+7 Date:
+8 Subject: Public service; energy; renewable energy; solar energy; Standard
+9 Offer Program
+10 Statement of purpose of bill as introduced: This bill proposes to reauthorize
+11 the Standard Offer Program to award contracts for the construction of new
+12 renewable energy generation projects.
+13 An act relating to the Standard Offer Program
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 30 V.S.A. § 8005a is amended to read:
+16 § 8005a. STANDARD OFFER PROGRAM
+17 * * *
+18 (b) Eligibility. To be eligible for a standard offer under this section, a plant
+19 must constitute a qualifying small power production facility under 16 U.S.C.
+20 § 796(17)(C) and 18 C.F.R. part 292, must not be a net metering system under
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 2 of 8
+1 section 219a 8010 of this title, and must be a new standard offer plant. In this
+2 section, “new standard offer plant” means a renewable energy plant that is
+3 located in Vermont, that has a plant capacity of 2.2 MW or less, and that is
+4 commissioned on or after September 30, 2009.
+5 (c) Cumulative capacity. In accordance with this subsection, the
+6 Commission shall issue standard offers to new standard offer plants until a
+7 cumulative plant capacity amount of 127.5 227.5 MW is reached.
+8 (1) Pace. Annually commencing April 1, 2013, the Commission shall
+9 increase the cumulative plant capacity of the Standard Offer Program (the
+10 annual increase) until the 127.5-MW 227.5-MW cumulative plant capacity of
+11 this subsection is reached.
+12 (A) Annual amounts. The amount of the annual increase shall be five
+13 MW for the three years commencing April 1, 2013, 7.5 MW for the three years
+14 commencing April 1, 2016, and 10 MW commencing April 1, 2019, and then
+15 20 MW commencing April 1, 2026.
+16 (B) Blocks. Each year, a portion of the annual increase shall be
+17 reserved for new standard offer plants proposed by Vermont retail electricity
+18 providers (the provider block), and the remainder shall be reserved for new
+19 standard offer plants proposed by persons who are not providers (the
+20 independent developer block).
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 3 of 8
+1 (i) The portion of the annual increase reserved for the provider
+2 block shall be 10 percent for the three years commencing April 1, 2013, 15
+3 percent for the three years commencing April 1, 2016, and 20 percent
+4 commencing April 1, 2019.
+5 (ii) If the provider block for a given year is not fully subscribed,
+6 any unsubscribed capacity within that block shall be added to the annual
+7 increase for each following year until that capacity is subscribed and shall be
+8 made available to new standard offer plants proposed by persons who are not
+9 providers.
+10 (iii) If the independent developer block for a given year is not fully
+11 subscribed, any unsubscribed capacity within that block shall be added to the
+12 annual increase for each following year until that capacity is subscribed and:
+13 (I) shall be made available to new standard offer plants
+14 proposed by persons who are not providers; and
+15 (II) may be made available to a provider following a written
+16 request and specific proposal submitted to and approved by the Commission.
+17 [Repealed.]
+18 (C) Adjustment; greenhouse gas reduction credits. The Commission
+19 shall adjust the annual increase to account for greenhouse gas reduction credits
+20 by multiplying the annual increase by one minus the ratio of the prior year’s
+21 greenhouse gas reduction credits to that year’s statewide retail electric sales.
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 4 of 8
+1 (i) The amount of the prior year’s greenhouse gas reduction
+2 credits shall be determined in accordance with subdivision subsection 8006a(a)
+3 of this title.
+4 (ii) The adjustment in the annual increase shall be applied
+5 proportionally to the independent developer block and the provider block.
+6 (iii) Greenhouse gas reduction credits used to diminish a
+7 provider’s obligation under section 8004 of this title may be used to adjust the
+8 annual increase under this subsection (c).
+9 * * *
+10 (d) Plants outside cumulative capacity. The following categories of plants
+11 shall not count toward the cumulative capacity amount of subsection (c) of this
+12 section, and the Commission shall make standard offers available to them
+13 provided that they are otherwise eligible for such offers under this section:
+14 (1) Plants using methane derived from an agricultural operation.
+15 (2) New standard offer plants that the Commission determines will have
+16 sufficient benefits to the operation and management of the electric grid or a
+17 provider’s portion thereof because of their design, characteristics, location, or
+18 any other discernible benefit. To enhance the ability of new standard offer
+19 plants to mitigate transmission and distribution constraints, the Commission
+20 shall require Vermont retail electricity providers and companies that own or
+21 operate electric transmission facilities within the State to make sufficient
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 5 of 8
+1 information concerning these constraints available to developers who propose
+2 new standard offer plants.
+3 (A) By March 1, 2013, the Commission shall develop a screening
+4 framework or guidelines that will provide developers with adequate
+5 information regarding constrained areas in which generation having particular
+6 characteristics is reasonably likely to provide sufficient benefit to allow the
+7 generation to qualify for eligibility under this subdivision (2).
+8 (B) Once the Commission develops the screening framework or
+9 guidelines under subdivision (2)(A) of this subsection (d), the Commission
+10 shall require Vermont transmission and retail electricity providers to make the
+11 necessary information publicly available in a timely manner, with updates at
+12 least annually.
+13 (C) Nothing in this subdivision (2) shall require the disclosure of
+14 information in contravention of federal law.
+15 (e) Term. The term of a standard offer required by this section shall be 10
+16 to 20 years, except that the term of a standard offer for a plant using solar
+17 power shall be 10 to 25 years.
+18 (f) Price. The categories of renewable energy for which the Commission
+19 shall set standard offer prices shall include at least each of the categories
+20 established pursuant to subdivision (c)(2) of this section. The Commission by
+21 order shall determine and set the price paid to a plant owner for each kWh
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 6 of 8
+1 generated under a standard offer required by this section, with a goal of
+2 ensuring timely development at the lowest feasible cost. The Commission
+3 shall not be required to make this determination as a contested case under
+4 3 V.S.A. chapter 25.
+5 * * *
+6 (3) Price determinations. The Commission shall take all actions
+7 necessary to determine the pricing mechanism and implement the pricing
+8 requirements of this subsection (f) no later than on or before March 1, 2013 for
+9 effect on April 1, 2013. Annually thereafter, the Commission shall review the
+10 determinations previously made under this subsection to decide whether they
+11 should be modified in any respect in order to achieve the goal and
+12 requirements of this subsection. Any such modification shall be effective on a
+13 prospective basis commencing one month after it has been made. Once a
+14 pricing determination made or modified under this subsection goes into effect,
+15 subsequently executed standard offer contracts shall comply with the most
+16 recently effective determination.
+17 * * *
+18 (g) Qualifying existing agricultural plants. Notwithstanding any other
+19 provision of this section, on and after June 8, 2010, a standard offer shall be
+20 available for a qualifying existing plant as defined in Sec. 3 of No. 159 of the
+21 Acts of the 2009 Adj. Sess. (2010) (Act 159) 2010 Acts and Resolves No. 159,
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 7 of 8
+1 Sec. 3. The provisions of subdivision 8005(b)(2) of this title, as they existed
+2 on June 4, 2010, the effective date of Act 159 2010 Acts and Resolves
+3 No. 159, shall govern a standard offer under this subsection. Standard offers
+4 for these plants shall not be subject to subsection (c) of this section (cumulative
+5 capacity; new standard offer plants).
+6 * * *
+7 (s) Solar only allocations.
+8 (1) Notwithstanding other provisions of this section to the contrary,
+9 beginning on April 1, 2026, the Commission shall allocate the new standard
+10 offer awards to new solar, wind, and hydroelectric power plants only. Of the
+11 annual capacity awards under this subsection (s), two MW shall be allocated to
+12 community solar projects.
+13 (2) As used in this section, “community solar project” means a solar
+14 plant owned by its members or an entity controlled by its members.
+15 (3) The Commission shall establish a price cap on projects equal to the
+16 price of the highest-cost, similarly sized solar project from the Standard Offer
+17 Program from the preceding 12 months.
+18 (4) If the annual allocation for community solar is not fully subscribed,
+19 the Commission shall allocate the unsubscribed capacity to new standard offer
+20 plants other than community solar.
+VT LEG #380044 v.1
+
+BILL AS INTRODUCED H.155
+2025 Page 8 of 8
+1 Sec. 2. EFFECTIVE DATE
+2 This act shall take effect on passage.
+VT LEG #380044 v.1
+
+[DELETED:  H P H I R G S o R D S O S t r A I S § * ( m §]
+[DELETED:  H P s s l c ( C c ( i a t ( M c 2 ( r p s i]
+[DELETED:  H P ( b p c ( a i m p ( s a ( p ( r [ ( s b g]
+[DELETED:  H P ( c o ( p ( p a * ( s s p ( ( s p a p s o]
+[DELETED:  H P i n ( f i c g ( g s n l ( i ( t p ( s e o]
+[DELETED:  H P g e s 3 * ( n r e d s r p p s r * ( p a A]
+[DELETED:  H P S o N f c * ( ( b o a c ( p ( p P ( t p]
+[DELETED:  H P S T]

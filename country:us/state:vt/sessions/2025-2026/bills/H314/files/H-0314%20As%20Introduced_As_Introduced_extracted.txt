@@ -1,0 +1,1505 @@
+Title: BILL AS INTRODUCED H.314
+Official Title: BILL AS INTRODUCED H.314
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 29
+1 H.314
+2 Introduced by Representatives Sibilia of Dover and Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; primaries
+6 Statement of purpose of bill as introduced: This bill proposes to require
+7 nonpartisan primary elections in which the four candidates receiving the most
+8 votes shall be placed on the ballot for the succeeding general election.
+9 An act relating to a top-four nonpartisan primary election system
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 * * * Short Title * * *
+12 Sec. 1. SHORT TITLE
+13 This act may be cited as the “People over Party Provision for Vermont’s
+14 Primary Elections Act of 2025.”
+15 * * * Provisions for Primary Elections * * *
+16 Sec. 2. 17 V.S.A. chapter 49 is amended to read:
+17 CHAPTER 49. NOMINATIONS PRIMARY ELECTIONS
+18 Subchapter 1. Primary Elections
+19 § 2351. PROVISIONS FOR PRIMARY ELECTION
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 2 of 29
+1 A primary election shall be held on the second Tuesday in August in each
+2 even-numbered year for the nomination of candidates of major political parties
+3 to narrow the number of candidates for all offices to be voted for at the
+4 succeeding general election, except candidates for President and Vice
+5 President of the United States, their electors, and justices of the peace. A
+6 primary election does not serve to determine the nominee of a political party.
+7 § 2352. NOMINATION OF CANDIDATES PRIOR TO SPECIAL
+8 PRIMARY ELECTION
+9 When the Governor or any court, pursuant to law, orders a special election
+10 to be held for any of the offices covered by section 2351 of this title, a special
+11 primary election shall be held on the Tuesday that falls not less than 60 days
+12 nor more than 66 days prior to the date set for the special election. The
+13 nomination of candidates prior to a special election, including nomination both
+14 by primary and by other means, shall be governed by the rules applicable to
+15 nomination of candidates prior to the general election, except as may be
+16 specifically provided in this chapter. The term “general election,” as used in
+17 this chapter, shall be deemed to include a special election, unless the context
+18 requires a different interpretation.
+19 § 2353. PETITIONS TO PLACE NAMES ON BALLOT
+20 (a) The name of any person shall be printed upon the primary ballot as a
+21 candidate for nomination by any major political party for the office indicated,
+22 if a petition containing the requisite number of signatures made by registered
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 3 of 29
+1 voters, in substantially the following form, is filed with the proper official,
+2 together with the person’s written consent to having his or her the person’s
+3 name printed on the ballot:
+4 I join in a petition to place on the primary ballot of the ....................... party the
+5 name of ...................., whose residence is in the (city), (town) of ......................
+6 in the county of ......................, for the office of ...................... to be voted for
+7 on Tuesday, the ............... day of August, 20 ........; and I certify that I am at the
+8 present time a registered voter and am qualified to vote for a candidate for this
+9 office.
+10 (b)(1) A person’s name shall not be listed as a candidate on the primary
+11 ballot of more than one party in the same election. [Repealed.]
+12 (2) A single petition shall contain only one office for which a person
+13 seeks to be a candidate.
+14 (3) A person shall file a separate petition for each office for which he or
+15 she a person seeks to be a candidate.
+16 § 2354. SIGNING PETITIONS
+17 (a) Any number of voters may sign the same petition.
+18 (b)(1) A voter’s signature shall not be valid unless at the time he or she the
+19 voter signs, the voter is registered and qualified to vote for the candidate whose
+20 petition he or she the voter signs.
+21 (2) Each voter shall indicate he or she the voter’s town of residence next
+22 to his or her signature.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 4 of 29
+1 (c) The signature of a voter on a candidate’s petition does not necessarily
+2 indicate that the voter supports the candidate.
+3 (d) A petition shall contain the name of only one candidate.
+4 § 2355. NUMBER OF SIGNATURES REQUIRED
+5 The number of signatures on primary petitions shall be not less than:
+6 (1) for State and congressional officers, 500;
+7 (2) for county officers or State senator, 100; and
+8 (3) for Representative to the General Assembly, 50; and
+9 (4) for justice of the peace, 30 or one percent of the legal voters of the
+10 municipality, whichever is less.
+11 § 2356. TIME FOR FILING PETITIONS
+12 (a) Primary petitions for major party candidates shall be filed not earlier
+13 than the fourth Monday in April and not later than 5:00 p.m. on the fourth
+14 Thursday after the first Monday in May preceding the primary election
+15 prescribed by section 2351 of this chapter, and not later than 5:00 p.m. of the
+16 62nd day prior to the day of a special primary election.
+17 (b) A petition or statement of nomination shall apply only to the election
+18 cycle in which the petition or statement of nomination is filed.
+19 § 2357. PLACE OF FILING PETITION
+20 (a) Primary petitions and consent forms shall be filed as follows:
+21 (1) For State and congressional officers, with the Secretary of State;
+22 (2) For county officers, with the county clerk;
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 5 of 29
+1 (3) For State Senator, with the senatorial district clerk;
+2 (4) For Representative to the General Assembly, with the representative
+3 district clerk; and
+4 (5) for justices of the peace, with the town clerk.
+5 (b) The public official designated to accept a petition shall not accept a
+6 nominating primary petition unless a completed and signed consent form is
+7 filed at the same time.
+8 * * *
+9 § 2362. PRIMARY BALLOTS
+10 (a) A separate primary ballot for each major political party shall be printed
+11 and furnished to the towns by the Secretary of State and shall contain the
+12 names of all candidates for nomination by that party at the primary election.
+13 Ballots shall be printed on index stock and configured to be readable by vote
+14 tabulators. Ballots shall be printed in substantially the following form:
+15 OFFICIAL VERMONT PRIMARY ELECTION BALLOT
+16 VOTE ON ONE PARTY BALLOT ONLY AND PLACE IN BALLOT
+17 BOX OR VOTE TABULATOR
+18 ALL OTHER PARTY BALLOTS MUST BE PLACED IN UNVOTED
+19 BALLOT BOX
+20 __________________
+21 [MAJOR POLITICAL PARTY NAME]
+22 __________________
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 6 of 29
+1 Instructions to voters: Use black pen or pencil to fill in the oval. To vote
+2 for a person whose name is printed on the ballot, fill in the oval to the right of
+3 the name of that person. To vote for a person whose name is not printed on the
+4 ballot, write or stick his or her the person’s name in the blank space provided
+5 and fill in the oval to the right of the write-in space. Do not vote for more
+6 candidates than the “Vote for Not More Than” number for an office. If you
+7 make a mistake, tear, or deface the ballot, return it to an election official and
+8 obtain another ballot. Do not erase.
+9 (b) Following the names of candidates printed on the primary ballot after
+10 the name of each office to be filled shall be as many blank lines for write-in
+11 candidates as there are persons to be elected to that office. If no primary
+12 petition is filed for an office or for a candidate belonging to a party, the ballot
+13 shall contain the name of the office and blank lines for write-in candidates.
+14 (c) A primary ballot shall not indicate any party affiliation of any
+15 candidate.
+16 § 2363. VOTER’S CHOICE OF PARTY
+17 (a) A voter shall vote for the candidates of one party only. A person voting
+18 at the primary shall not be required to indicate his or her party choice to any
+19 election official.
+20 (b) [Repealed.] [Repealed.]
+21 * * *
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 7 of 29
+1 § 2369. DETERMINING WINNER WINNERS; TIE VOTES
+2 (a) A person who receives a plurality of all the votes cast by a party in a
+3 primary shall be a candidate of that party be placed for the office designated on
+4 the ballot Determining winners. Only the four candidates who receive the
+5 greatest number of votes for an office in a primary election shall be determined
+6 to have won the primary election for that office and shall, except as provided in
+7 17 V.S.A. § 2475, be placed on the ballot for that office for the subsequent
+8 general election.
+9 (b)(1) Ties. If any primary election results in more than four candidates
+10 qualifying to be placed on the ballot for an office for the general election
+11 because of a tie in the number of votes received by candidates, and after the
+12 period for requesting a recount under section 2602 of this title has expired, no
+13 candidate has requested a recount and two or more candidates of the same
+14 party of the four candidates to receive the most votes are tied for the same
+15 office, or if the results of recount result in a tie, the choice among those tied
+16 shall be determined upon five days’ notice and not later than 10 days following
+17 the primary election by the committee of that party, which shall meet to
+18 nominate a candidate from among the tied candidates the Secretary of State
+19 shall resolve the tie by lot to determine which candidates have won the primary
+20 election and shall be placed on the ballot for that office for the subsequent
+21 general election. The Secretary of State shall notify each active candidate
+22 involved in the tie, or the candidate’s designee, to be present at the Secretary of
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 8 of 29
+1 State’s office at a certain time. At that time, the Secretary of State shall select
+2 the winner of the tabulation by lot. “By lot” means a method, determined by
+3 the Secretary of State, for randomly choosing between two or more candidates.
+4 The committee that nominates a candidate shall be as follows:
+5 (A) the State committee of a party for a State or congressional office;
+6 (B) the senatorial district committee for State Senate;
+7 (C) the county committee for county office; or
+8 (D) the representative district committee for a Representative to the
+9 General Assembly.
+10 (2) The committee chair shall certify the candidate nomination for the
+11 general election to the Secretary of State within 48 hours of the nomination.
+12 § 2370. WRITE-IN CANDIDATES
+13 (a) A write-in candidate shall not qualify as a primary winner unless he or
+14 she the candidate receives at least one-half the number of votes as the number
+15 of signatures required for his or her the candidate’s office on a primary
+16 petition, except that if a write-in candidate receives more votes than a
+17 candidate whose name is printed on the ballot, he or she the write-in candidate
+18 may qualify as a primary winner.
+19 (b) The write-in candidate who qualifies as a primary winner under this
+20 section must still be determined a winner under section 2369 of this chapter
+21 before he or she becomes the party’s candidate shall be placed on the ballot for
+22 the subsequent general election.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 9 of 29
+1 § 2371. NOMINEES; NOTICE TO NOMINEES PRIMARY ELECTION
+2 WINNERS
+3 (a) The canvassing committee shall prepare and sign certificates of
+4 nomination advancement and mail or deliver in person to each winning
+5 candidate nominated a notice of his or her nomination the candidate’s
+6 advancement within two days after their meeting. On each certificate the
+7 canvassing committee shall indicate the name, town of residence, party
+8 affiliation, and mailing address of the winning candidate nominated. At the
+9 same time that they mail or deliver the certificates of nomination advancement,
+10 the canvassing committees shall also file with the office of the Secretary of
+11 State a list showing the vote for each candidate of each party for each office.
+12 (b) Unless a person winning candidate who is notified of being nominated
+13 withdraws the candidacy, the person’s name, and residence, and party
+14 affiliation shall be printed upon the general election ballot in the same manner
+15 as they appear in the notice of nomination advancement; provided, however,
+16 that within five days of the date of mailing or personal delivery a candidate
+17 may request that an error in the candidate’s name, or residence, or party
+18 affiliation be corrected or that the candidate’s preference as to the candidate’s
+19 own name be used on the ballot. The candidate shall also have the right to
+20 make the choice as set forth in section 2474 of this title.
+21 Subchapter 2. Nomination by Party Committee
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 10 of 29
+1 § 2381. APPLICABILITY OF SUBCHAPTER
+2 (a) A candidate may also be nominated and have the candidate’s name
+3 printed on the general election ballot in accordance with the provisions set
+4 forth in this subchapter, in the following instances:
+5 (1) In case of a vacancy on the general election ballot occasioned by
+6 death, removal, or withdrawal of a candidate, or the failure of a major political
+7 party to nominate a candidate by primary;
+8 (2) In case a minor political party desires to nominate a candidate for
+9 any office for which major political parties nominate candidates by primary or
+10 for the offices of President and Vice President of the United States;
+11 (3) In case of nomination for the office of justice of the peace, in the
+12 event that such nomination has not already been made by caucus as provided in
+13 section 2413 of this chapter.
+14 (b) In no event may any committee nominate a candidate or candidates for
+15 statewide office under this subchapter unless the political party has town
+16 committees organized in at least 10 towns in this State in accordance with
+17 procedures in chapter 45 of this title. [Repealed.]
+18 § 2382. WHICH COMMITTEE TO NOMINATE
+19 Nominations of party candidates pursuant to this subchapter shall be made
+20 by the following political committee of the party:
+21 (1) By the State committee in the case of President and Vice President
+22 of the United States or State or congressional officers;
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 11 of 29
+1 (2) By the county committee in the case of county officers;
+2 (3) By the senatorial district committee in the case of the office of State
+3 Senator;
+4 (4) By the representative district committee in the case of the office of
+5 Representative to the General Assembly;
+6 (5) By the town committee in the case of the office of justice of the
+7 peace. [Repealed.]
+8 § 2383. NOTICE OF MEETINGS
+9 The chair of the appropriate committee, or if the chair has not called a
+10 meeting then any three members of the committee, may set a date, time, and
+11 place for a committee meeting for the nomination of candidates pursuant to
+12 this subchapter and shall give not less than five days’ notice in writing to all
+13 members of the committee. The notice shall specifically state the offices for
+14 which nominations may be made. [Repealed.]
+15 § 2384. PROCEDURE UPON MEETING
+16 At the time and place set for the meeting, the committee shall proceed to
+17 nominate such candidates as it may desire pursuant to this subchapter.
+18 Nomination shall require a majority of those present and voting, and if no
+19 candidate shall have received a majority after two ballots, the candidate with
+20 the lowest number of votes in the second and in each succeeding ballot shall be
+21 eliminated until a candidate receives a majority. [Repealed.]
+22 § 2385. STATEMENT BY COMMITTEE OFFICERS; CONSENT OF
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 12 of 29
+1 CANDIDATE
+2 (a) When a nomination is made under the provisions of this subchapter, the
+3 chair and the secretary of the committee making the nomination shall file a
+4 statement of nomination in substantially the following form:
+5 “The ................................ met on ............ and nominated the
+6 (name of committee) (date)
+7 following person (or persons) to be a candidate (or candidates) of the
+8 ................................... for the office (or offices) indicated
+9 (Name of political party)
+10 .........................................
+11 (Name of candidate) (residence) (office for which
+12 nominated)
+13 “Notice of the meeting was properly given in compliance with all requirements
+14 of section 2383 of this title and the procedures required by section 2384 of this
+15 title were followed. A copy of the notice of the meeting is attached.
+16 “We swear under oath that we understand the above provisions of law and that
+17 the statements we have made in this document are true.
+18 Sworn to before me
+19 ................................................................................
+20 Notary Public Signature of Chair
+21 ................................................................................”
+22 Date Signature of Secretary
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 13 of 29
+1 (b) The statement of nomination shall be signed by the chair or acting chair
+2 and secretary or acting secretary of the committee making the nomination.
+3 They shall swear in their statement of nomination that the notice requirements
+4 of section 2383 of this title and procedural requirements of section 2384 of this
+5 title were complied with and that the persons listed as candidates were
+6 nominated at the meeting.
+7 (c) A copy of the notice that was sent to all committee members pursuant to
+8 section 2383 of this title shall be filed along with the statement of nomination.
+9 (d) Except in the case of nominations for justice of the peace, the candidate
+10 named in the statement shall file a consent to having the candidate’s name
+11 printed on the ballot, similar in form to the consent required in section 2361 of
+12 this title before the last day for filing statements of nomination. It shall be
+13 sufficient for meeting this requirement if the candidate signs the statement of
+14 nomination with a statement in substantially the following form:
+15 “I consent to having my name printed on the general election ballot for the
+16 office of _________________________________________ .
+17 (office for which nomination was made)
+18 My name (as I wish it to appear on the ballot), town or city of residence, and
+19 party are as follows:
+20 ________ _____________
+21 _________________________________________
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 14 of 29
+1 Name (please print) Town of residence (please print) Party (please
+2 print)
+3 ____ _________________________________________
+4 Date Signature of Candidate
+5 _________________________________________ ”
+6 Mailing Address
+7 (e) In the case of nominations by town committee or caucus for the office
+8 of justice of the peace, before filing the statement of nomination the chair,
+9 acting chair, secretary, or acting secretary shall check with each nominee and
+10 confirm that he or she consents to have his or her name printed on the ballot as
+11 a candidate for that position and to serve if elected. [Repealed.]
+12 § 2386. TIME FOR FILING STATEMENTS
+13 (a) In the case of the failure of a major political party to nominate a
+14 candidate by primary, a statement shall be filed not later than 5:00 p.m. on the
+15 sixth day following the primary.
+16 (b) In the case of the death or withdrawal of a candidate after the primary
+17 election, the party committee shall have seven days from the date of the death
+18 or withdrawal to nominate a candidate. In no event shall a statement be filed
+19 later than 60 days prior to the general election.
+20 (c)(1) In the case of a nomination by a minor political party, a statement
+21 shall be filed not earlier than the fourth Monday in April and not later than
+22 5:00 p.m. on the Thursday preceding the primary election described in section
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 15 of 29
+1 2351 of this chapter and not later than 5:00 p.m. on the third day prior to the
+2 day of a special primary election.
+3 (2) A statement shall apply only to the election cycle in which the
+4 statement is filed.
+5 (d) In the case of a nomination for the office of justice of the peace, a
+6 statement shall be filed as set forth in section 2413 of this chapter. [Repealed.]
+7 § 2387. PLACE FOR FILING STATEMENTS
+8 Statements for the office of justice of the peace shall be filed with the town
+9 clerk. All other statements and consents shall be filed with the Secretary of
+10 State. [Repealed.]
+11 Subchapter 3. Independent Candidates
+12 § 2401. APPLICABILITY OF SUBCHAPTER
+13 A person may be nominated and have his or her name printed on the general
+14 election ballot for any office by filing a consent similar in form to the consent
+15 prescribed by section 2361 of this title and a statement of nomination with the
+16 Secretary of State. In the case of a nomination for justice of the peace, the
+17 consent form and statement of nomination shall be filed with the town clerk.
+18 [Repealed.]
+19 § 2402. REQUISITES OF STATEMENT
+20 (a) A statement of nomination shall contain:
+21 (1) The name of the office for which the nomination is made.
+22 (2) The candidate’s name and residence.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 16 of 29
+1 (3) If desired, a name, or other identification (in not more than three
+2 words) to be printed on the ballot following the candidate’s name.
+3 (4) In the case of nomination for President or Vice President of the
+4 United States:
+5 (A) The name and state of residence of each candidate for such
+6 office, together with the name, town of residence, and correct mailing address
+7 of each nominee for the office of elector.
+8 (B)(i) The original statement of nomination shall include a
+9 certification by the town clerk of each town where the signers appear to be
+10 voters that the persons whose names appear as signers of the statement are
+11 registered voters in the town and of the total number of valid signers from the
+12 town.
+13 (ii) Only the number of signers certified as registered voters by
+14 each town clerk on the original statement of nomination forms shall count
+15 toward the required number of signatures.
+16 (C) The statement shall also be accompanied by a consent form from
+17 each nominee for elector. The consent form shall be similar to the consent
+18 form prescribed in section 2361 of this title.
+19 (b)(1) To constitute a valid nomination, a statement shall contain signatures
+20 of voters qualified to vote in an election for the office in question, equal in
+21 number to at least:
+22 (A) for presidential and vice presidential offices, 1,000;
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 17 of 29
+1 (B) for State and congressional offices, 500;
+2 (C) for county officers or State Senators, 100;
+3 (D) for Representative to the General Assembly, 50;
+4 (E) for justice of the peace, 30 or one percent of the legal voters of
+5 the municipality, whichever is less.
+6 (2) Signatures need not all be contained on one paper.
+7 (c) A statement shall state that each signer is qualified to vote in an election
+8 for the office in question and that the voter’s residence is as set forth next to
+9 the voter’s name.
+10 (d)(1) A statement of nomination and a completed and signed consent form
+11 shall be filed:
+12 (A) in the case of nomination for President or Vice President of the
+13 United States, not earlier than the fourth Monday in April and not later than
+14 5:00 p.m. on the August 1 preceding the presidential general election;
+15 (B) in the case of nomination for justice of the peace, not earlier than
+16 the fourth Monday in April and not later than 5:00 p.m. on the third day
+17 following the primary election; or
+18 (C) in the case of any other independent candidate, not earlier than
+19 the fourth Monday in April and not later than 5:00 p.m. on the Thursday
+20 preceding the primary election prescribed by section 2351 of this chapter, and
+21 not later than 5:00 p.m. of the third day prior to the day of a special primary
+22 election.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 18 of 29
+1 (2) A public official receiving nominations shall not accept a petition
+2 unless a completed and signed consent form is filed at the same time.
+3 (3) A statement of nomination shall apply only to the election cycle in
+4 which the statement of nomination is filed.
+5 (e) The Secretary of State shall prescribe and furnish forms for a statement
+6 of nomination.
+7 (f) In the event that an independent vice presidential candidate withdraws
+8 in accordance with section 2412 of this chapter, the presidential candidate may
+9 submit to the Secretary of State on or before the ballot printing deadline a new
+10 consent form signed by the presidential candidate and his or her new vice
+11 presidential candidate. [Repealed.]
+12 § 2403. NUMBER OF CANDIDATES; PARTY NAMES
+13 (a)(1) A statement of nomination shall contain the name of only one
+14 candidate, except in the case of presidential and vice presidential candidates,
+15 who may be nominated by means of the same statement of nomination.
+16 (2) A single statement of nomination shall contain only one office for
+17 which a person seeks to be a candidate.
+18 (b)(1) The political or other name on a statement of nomination shall be
+19 substantially different from the name of any organized political party. It shall
+20 also be substantially different from the political or other name already
+21 appearing on any other statement of nomination for the same office then on file
+22 with the same officer for the same election.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 19 of 29
+1 (2) If the Secretary of State determines that it is not substantially
+2 different, the candidate named on the statement shall select a different political
+3 or other name; otherwise the Secretary shall print the word “Independent” on
+4 the ballot for that candidate.
+5 (c)(1) Except in the case of presidential and vice presidential candidates,
+6 the word “independent” may not be used as part of a party name.
+7 (2) If no party is indicated, the word “Independent” shall be printed on
+8 the ballot.
+9 (3) A candidate appearing on the ballot as a candidate of a political party
+10 shall not also appear on the ballot as an “Independent.” [Repealed.]
+11 § 2404. PRESERVATION OF STATEMENTS
+12 The Secretary of State shall preserve all statements until three months after
+13 the general election, after which they may be destroyed. [Repealed.]
+14 Subchapter 4. Miscellaneous Provisions
+15 § 2411. APPLICABILITY OF OTHER LAW
+16 Except as specifically provided in this chapter, all other provisions of this
+17 title shall govern the several procedures specified in this chapter for the
+18 making of nominations conduct of primary elections.
+19 § 2412. WITHDRAWAL OF CANDIDACY
+20 (a)(1) A candidate who has been validly nominated by one of the methods
+21 prescribed in this chapter shall have a right to withdraw his or her candidacy
+22 up until 5:00 p.m. on the tenth day following the primary by filing a written
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 20 of 29
+1 notice of withdrawal with the town clerk in the case of a candidate for justice
+2 of the peace, and with the Secretary of State in the case of all other offices.
+3 (2) The name of a candidate who has withdrawn in accordance with the
+4 provisions of this subsection shall not be printed on the ballot.
+5 (b) After the date described in subdivision (a)(1) of this section, if the
+6 candidate has filed a written notice of withdrawal, the town clerk or Secretary
+7 of State may still remove the candidate’s name from the ballot up until the
+8 printing deadline. [Repealed.]
+9 § 2413. NOMINATION OF JUSTICES OF THE PEACE
+10 (a)(1) The party members in each town, on or before each primary election,
+11 upon the call of the town committee, may meet in caucus and nominate
+12 candidates for justice of the peace.
+13 (2)(A) The committee shall give notice of the caucus by posting notice
+14 at the office of the town clerk and two other public places in the town at least
+15 five days prior to the caucus.
+16 (B) In addition, for towns with over 3,000 voters, the committee shall
+17 post this notice at least one day prior to the caucus:
+18 (i)(I) in a newspaper of general circulation within the town; or
+19 (II) on a nonpartisan electronic news media website that
+20 specializes in news of the State or the community; and
+21 (ii) on the municipality’s website, if the municipality actively
+22 updates its website on a regular basis.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 21 of 29
+1 (3) [Repealed.]
+2 (b) If it does not hold a caucus as provided in subsection (a) of this section,
+3 the town committee shall meet and nominate candidates for justices of the
+4 peace as provided in sections 2381 through 2385 of this title. At least three
+5 days prior to this meeting, the town committee shall provide notice of the
+6 meeting by e-mailing or mailing committee members and by posting notice of
+7 the meeting in the office of the town clerk and in two other public places in the
+8 town.
+9 (c) In any town in which a political party has not formally organized, any
+10 three members of the party who are voters in the town may call a caucus to
+11 nominate candidates for justice of the peace by giving notice as required in
+12 subsection (a) of this section. Upon meeting, the caucus shall first elect a chair
+13 and a secretary. Thereafter the caucus shall nominate its candidates for justice
+14 of the peace.
+15 (d) [Repealed.]
+16 (e) For any nomination made under this section, the chair and secretary of
+17 the committee or caucus shall file the statement required by section 2385 of
+18 this title by 5:00 p.m. on the third day following the primary election.
+19 [Repealed.]
+20 * * *
+21 Sec. 3. 17 V.S.A. chapter 51, subchapter 2 is amended to read:
+22 Subchapter 2. Ballots
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 22 of 29
+1 * * *
+2 § 2472. CONTENTS
+3 * * *
+4 (b)(1) Each office to be voted upon shall be separately indicated and
+5 preceded by the word “For,” as: “For United States Senator.” Beneath the
+6 office to be voted upon shall appear the instructions: “Vote for not more than
+7 (the number of candidates to be elected).”
+8 (2) The names of the candidates for each office shall be listed in
+9 alphabetical order by surname, followed by the candidate’s town of residence,
+10 and the party or parties by which the candidate has been nominated, or in the
+11 case of independent candidates who have not chosen some other name or
+12 identification, by the word “Independent.” The word “party” shall not be
+13 printed on the ballot following a candidate’s party name.
+14 (3) To the right of the party designation surname shall be an oval in
+15 which the voter may indicate his or her choice by filling in the oval.
+16 (4) A candidate’s name shall not appear on the ballot more than once for
+17 any one office.
+18 * * *
+19 § 2474. CHOICE OF PARTY
+20 (a)(1) A person nominated by any means for the same office by more than
+21 one political party may elect, not later than 5:00 p.m. on the tenth day
+22 following the primary election, the party or parties in which the nominee will
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 23 of 29
+1 be a candidate. The nominee shall notify in writing the Secretary of State or
+2 town clerk, as the case may be, of such choice by that deadline, and only the
+3 party or parties that the nominee so elects shall be printed next to the
+4 nominee’s name on the ballot.
+5 (2) If the nominee does not notify the Secretary of State or the town
+6 clerk of his or her choice of party, the Secretary of State shall print on the
+7 ballot those parties next to the nominee’s name by listing in this order:
+8 (A) the major political party for which the nominee had his or her
+9 name printed on the ballot in the primary;
+10 (B) any major political parties that nominated the nominee by the
+11 party committee, in the order in which the nominations were submitted to the
+12 Secretary of State;
+13 (C) any major political parties for which the nominee received write-
+14 in votes, in an order from highest to lowest vote counts; and
+15 (D) any minor political parties that nominated the nominee by party
+16 committee, in the order in which the nominations were submitted to the
+17 Secretary of State.
+18 (b)(1) A candidate for State office who is the nominee of two or more
+19 political parties shall file with the Secretary of State, not later than 5:00 p.m.
+20 the tenth day following the primary election, a statement designating for which
+21 party the votes cast for him or her shall be counted for the purposes of
+22 determining whether his or her designated party shall be a major political
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 24 of 29
+1 party. The party so designated shall be the first party to be printed
+2 immediately after the candidate’s name on the ballot.
+3 (2) If a candidate does not file the statement by that deadline, the
+4 Secretary of State shall designate the party for which the votes cast shall be
+5 counted as provided in subdivision (a)(2) of this section. [Repealed.]
+6 § 2475. DEATH OR WITHDRAWAL OF CANDIDATE
+7 (a) When a candidate dies or withdraws and the vacancy is filled as
+8 provided in chapter 49 of this title, the name supplied for the vacancy shall be
+9 inserted instead of the original nomination Withdrawal. A candidate who wins
+10 a primary election pursuant to section 2369 of this title shall have a right to
+11 withdraw up until 5:00 p.m. on the 10th day following a primary election by
+12 filing a written notice of withdrawal with the town clerk in the case of a
+13 candidate for justice of the peace, and with the Secretary of State in the case of
+14 all other offices.
+15 (b) Replacement of withdrawn or deceased primary candidates. A winning
+16 primary candidate who withdraws pursuant to subsection (a) of this section or
+17 who dies between a primary election and the 10th day following a primary
+18 election shall be replaced on the general election ballot by the primary
+19 candidate who received the next greatest number of votes for that office in the
+20 primary election after any other winners of the primary election.
+21 (c) Printing. After the 10th day following a primary election, if a winning
+22 primary candidate withdraws or dies, the town clerk or Secretary of State may
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 25 of 29
+1 still remove the candidate’s name from the ballot up until the printing deadline.
+2 If the ballots have already been printed, the officer who furnished them shall
+3 prepare and furnish new ballots. The town clerk in each town shall, upon
+4 delivery of the new ballots, immediately destroy all original ballots except
+5 those already supplied to or used by early or absentee voters. Such early or
+6 absentee voter ballots shall be acceptable and counted with the other ballots.
+7 * * *
+8 * * * Miscellaneous Cross-References * * *
+9 Sec. 4. 17 V.S.A. § 1881a is amended to read:
+10 § 1881a. SENATORIAL DISTRICTS; NOMINATIONS AND ELECTION
+11 * * *
+12 (c)(1) Petitions for nominating candidates for Senator in the General
+13 Assembly by primary or by certificates of nomination of candidates for that
+14 office by convention, caucus, committee, or voters election under chapter 49 of
+15 this title may be filed in the office of any county clerk in a senatorial district.
+16 (2)(A) On the day after the last day for filing those petitions or
+17 certificates for that office, the other county clerk shall notify the senatorial
+18 district clerk of the facts concerning those petitions or certificates.
+19 (B) The senatorial district clerk shall be responsible for determining
+20 the names of candidates and other facts required by law to appear on the ballot
+21 for the office of Senator and for obtaining and distributing the ballots to the
+22 other clerks in the district.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 26 of 29
+1 (d) The clerk of the less populous county in a senatorial district shall report
+2 the results of voting in his or her the clerk’s county immediately after they are
+3 determined to the senatorial district clerk, who shall issue the certificates of
+4 nomination advancement or election required by law as to the office of
+5 Senator.
+6 * * *
+7 Sec. 5. 17 V.S.A. § 2721 is amended to read:
+8 § 2721. NOMINATION OF PRESIDENTIAL ELECTORS
+9 (a) In presidential election years, presidential electors for major political
+10 parties shall be nominated at the party platform convention held pursuant to
+11 this title.
+12 (b) Electors for all other presidential candidates shall be nominated
+13 pursuant to chapter 49, subchapter 3 of this title. as follows:
+14 (1) Requisites of statement.
+15 (A) A statement of nomination shall contain the name and state of
+16 residence of each candidate for such office, together with the name, town of
+17 residence, and correct mailing address of each nominee for the office of
+18 elector.
+19 (B)(i) The original statement of nomination shall include a
+20 certification by the town clerk of each town where the signers appear to be
+21 voters that the persons whose names appear as signers of the statement are
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 27 of 29
+1 registered voters in the town and of the total number of valid signers from the
+2 town.
+3 (ii) Only the number of signers certified as registered voters by
+4 each town clerk on the original statement of nomination forms shall count
+5 toward the required number of signatures.
+6 (C) The statement shall also be accompanied by a consent form from
+7 each nominee for elector. The consent form shall be similar to the consent
+8 form prescribed in section 2361 of this title.
+9 (D)(i) To constitute a valid nomination for presidential and vice
+10 presidential offices, a statement shall contain signatures of voters qualified to
+11 vote in an election for the office in question, equal in number to at least 1,000.
+12 (ii) Signatures need not all be contained on one paper.
+13 (E) A statement shall state that each signer is qualified to vote in an
+14 election for the office in question and that the voter’s residence is as set forth
+15 next to the voter’s name.
+16 (F)(i) In the case of nomination for President or Vice President of the
+17 United States, a statement of nomination and a completed and signed consent
+18 form shall be filed not earlier than the fourth Monday in April and not later
+19 than 5:00 p.m. on the August 1 preceding the presidential general election.
+20 (ii) A public official receiving nominations shall not accept a
+21 petition unless a completed and signed consent form is filed at the same time.
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 28 of 29
+1 (iii) A statement of nomination shall apply only to the election
+2 cycle in which the statement of nomination is filed.
+3 (G) The Secretary of State shall prescribe and furnish forms for a
+4 statement of nomination.
+5 (H) In the event that an independent vice presidential candidate
+6 withdraws in accordance with section 2412 of this chapter, the presidential
+7 candidate may submit to the Secretary of State on or before the ballot printing
+8 deadline a new consent form signed by the presidential candidate and the
+9 presidential candidate’s new vice presidential candidate.
+10 (2) Number of candidates; party names.
+11 (A)(i) Presidential and vice presidential candidates may be nominated
+12 by means of the same statement of nomination.
+13 (ii) A single statement of nomination shall contain only one office
+14 for which a person seeks to be a candidate.
+15 (B)(i) The political or other name on a statement of nomination shall
+16 be substantially different from the name of any organized political party. It
+17 shall also be substantially different from the political or other name already
+18 appearing on any other statement of nomination for the same office then on file
+19 with the same officer for the same election.
+20 (ii) If the Secretary of State determines that it is not substantially
+21 different, the candidate named on the statement shall select a different political
+VT LEG #380916 v.1
+BILL AS INTRODUCED H.314
+2025 Page 29 of 29
+1 or other name; otherwise the Secretary shall print the word “Independent” on
+2 the ballot for that candidate.
+3 (3) Preservation of statements. The Secretary of State shall preserve all
+4 statements until three months after the general election, after which they may
+5 be destroyed.
+6 * * * Effective Date * * *
+7 Sec. 6. EFFECTIVE DATE
+8 This act shall take effect on January 1, 2026.
+VT LEG #380916 v.1
+[DELETED:  H P H I R R D S S n v A I * S T P * S C S §]
+[DELETED:  H P A e t s P p §   W t p n n b n s t r § ( c i]
+[DELETED:  H P v t n I n i o p o ( b ( s ( s § ( ( v p ( t]
+[DELETED:  H P ( i ( § T ( ( ( ( m § ( t T p 6 ( c § ( ( (]
+[DELETED:  H P ( ( d ( ( n f * § ( a n B t O V B A B _ [ _]
+[DELETED:  H P I f t b a c m o ( t c p s ( c § ( a e ( *]
+[DELETED:  H P § ( p t g t 1 g ( q b p c p o s t n s e g i]
+[DELETED:  H P S t t T ( ( ( ( G ( g § ( s o p c m ( s b t]
+[DELETED:  H P     ( n c a c a s t S ( w a a t m a o m S]
+[DELETED:  H P § ( p f ( d p ( a f ( e s ( s c p § N b ( o]
+[DELETED:  H P ( ( S ( R ( p § T m p t m w § A n N c t e §]
+[DELETED:  H P   ( c s “   f .   . ( n “ o t “ t S . N . D]
+[DELETED:  H P ( a T o t n ( s ( n p t s n “ o   M p _ _]
+[DELETED:  H P N p _       ( o a c a § ( c s ( e o l ( s 5]
+[DELETED:  H P 2 d ( s ( s § S c S S § A e p S c [ § ( ( (]
+[DELETED:  H P ( w ( U ( o o ( c v r t ( e t ( e f ( o n (]
+[DELETED:  H P ( ( ( ( t ( ( f t ( s ( U 5 ( t f ( t p n e]
+[DELETED:  H P ( u ( w ( o ( i s c p   ( c w ( w ( s a a w]
+[DELETED:  H P ( d o t ( t ( t ( s § T t S § E t m § ( p u]
+[DELETED:  H P n o ( p ( c o p § ( u c ( a f ( p ( ( s ( u]
+[DELETED:  H P ( ( t p d m t t ( t n s a o ( ( t t [ * S S]
+[DELETED:  H P   § * ( p o ( ( a a c i p ( w ( a * § ( o f]
+[DELETED:  H P b t p n ( c b ( n ( p S ( i ( c S ( p t p d]
+[DELETED:  H P p i ( S c § ( p i a w f c a ( p w e c p ( p]
+[DELETED:  H P s I p d t a * * S § * ( A o t ( c d ( t f o]
+[DELETED:  H P ( t d n S * S § ( p t ( p ( ( r r e ( c v]
+[DELETED:  H P r t ( e t ( e f ( p v ( ( e n ( U f t ( p]
+[DELETED:  H P ( c ( s ( w c d p ( ( b ( f ( b s a w ( d]
+[DELETED:  H P o t ( s b * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.314
+2025 Page 1 of 29
+1 H.314
+2 Introduced by Representatives Sibilia of Dover and Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Elections; primaries
+6 Statement of purpose of bill as introduced: This bill proposes to require
+7 nonpartisan primary elections in which the four candidates receiving the most
+8 votes shall be placed on the ballot for the succeeding general election.
+9 An act relating to a top-four nonpartisan primary election system
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 * * * Short Title * * *
+12 Sec. 1. SHORT TITLE
+13 This act may be cited as the “People over Party Provision for Vermont’s
+14 Primary Elections Act of 2025.”
+15 * * * Provisions for Primary Elections * * *
+16 Sec. 2. 17 V.S.A. chapter 49 is amended to read:
+17 CHAPTER 49. NOMINATIONS PRIMARY ELECTIONS
+18 Subchapter 1. Primary Elections
+19 § 2351. PROVISIONS FOR PRIMARY ELECTION
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 2 of 29
+1 A primary election shall be held on the second Tuesday in August in each
+2 even-numbered year for the nomination of candidates of major political parties
+3 to narrow the number of candidates for all offices to be voted for at the
+4 succeeding general election, except candidates for President and Vice
+5 President of the United States, their electors, and justices of the peace. A
+6 primary election does not serve to determine the nominee of a political party.
+7 § 2352. NOMINATION OF CANDIDATES PRIOR TO SPECIAL
+8 PRIMARY ELECTION
+9 When the Governor or any court, pursuant to law, orders a special election
+10 to be held for any of the offices covered by section 2351 of this title, a special
+11 primary election shall be held on the Tuesday that falls not less than 60 days
+12 nor more than 66 days prior to the date set for the special election. The
+13 nomination of candidates prior to a special election, including nomination both
+14 by primary and by other means, shall be governed by the rules applicable to
+15 nomination of candidates prior to the general election, except as may be
+16 specifically provided in this chapter. The term “general election,” as used in
+17 this chapter, shall be deemed to include a special election, unless the context
+18 requires a different interpretation.
+19 § 2353. PETITIONS TO PLACE NAMES ON BALLOT
+20 (a) The name of any person shall be printed upon the primary ballot as a
+21 candidate for nomination by any major political party for the office indicated,
+22 if a petition containing the requisite number of signatures made by registered
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 3 of 29
+1 voters, in substantially the following form, is filed with the proper official,
+2 together with the person’s written consent to having his or her the person’s
+3 name printed on the ballot:
+4 I join in a petition to place on the primary ballot of the ....................... party the
+5 name of ...................., whose residence is in the (city), (town) of ......................
+6 in the county of ......................, for the office of ...................... to be voted for
+7 on Tuesday, the ............... day of August, 20 ........; and I certify that I am at the
+8 present time a registered voter and am qualified to vote for a candidate for this
+9 office.
+10 (b)(1) A person’s name shall not be listed as a candidate on the primary
+11 ballot of more than one party in the same election. [Repealed.]
+12 (2) A single petition shall contain only one office for which a person
+13 seeks to be a candidate.
+14 (3) A person shall file a separate petition for each office for which he or
+15 she a person seeks to be a candidate.
+16 § 2354. SIGNING PETITIONS
+17 (a) Any number of voters may sign the same petition.
+18 (b)(1) A voter’s signature shall not be valid unless at the time he or she the
+19 voter signs, the voter is registered and qualified to vote for the candidate whose
+20 petition he or she the voter signs.
+21 (2) Each voter shall indicate he or she the voter’s town of residence next
+22 to his or her signature.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 4 of 29
+1 (c) The signature of a voter on a candidate’s petition does not necessarily
+2 indicate that the voter supports the candidate.
+3 (d) A petition shall contain the name of only one candidate.
+4 § 2355. NUMBER OF SIGNATURES REQUIRED
+5 The number of signatures on primary petitions shall be not less than:
+6 (1) for State and congressional officers, 500;
+7 (2) for county officers or State senator, 100; and
+8 (3) for Representative to the General Assembly, 50; and
+9 (4) for justice of the peace, 30 or one percent of the legal voters of the
+10 municipality, whichever is less.
+11 § 2356. TIME FOR FILING PETITIONS
+12 (a) Primary petitions for major party candidates shall be filed not earlier
+13 than the fourth Monday in April and not later than 5:00 p.m. on the fourth
+14 Thursday after the first Monday in May preceding the primary election
+15 prescribed by section 2351 of this chapter, and not later than 5:00 p.m. of the
+16 62nd day prior to the day of a special primary election.
+17 (b) A petition or statement of nomination shall apply only to the election
+18 cycle in which the petition or statement of nomination is filed.
+19 § 2357. PLACE OF FILING PETITION
+20 (a) Primary petitions and consent forms shall be filed as follows:
+21 (1) For State and congressional officers, with the Secretary of State;
+22 (2) For county officers, with the county clerk;
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 5 of 29
+1 (3) For State Senator, with the senatorial district clerk;
+2 (4) For Representative to the General Assembly, with the representative
+3 district clerk; and
+4 (5) for justices of the peace, with the town clerk.
+5 (b) The public official designated to accept a petition shall not accept a
+6 nominating primary petition unless a completed and signed consent form is
+7 filed at the same time.
+8 * * *
+9 § 2362. PRIMARY BALLOTS
+10 (a) A separate primary ballot for each major political party shall be printed
+11 and furnished to the towns by the Secretary of State and shall contain the
+12 names of all candidates for nomination by that party at the primary election.
+13 Ballots shall be printed on index stock and configured to be readable by vote
+14 tabulators. Ballots shall be printed in substantially the following form:
+15 OFFICIAL VERMONT PRIMARY ELECTION BALLOT
+16 VOTE ON ONE PARTY BALLOT ONLY AND PLACE IN BALLOT
+17 BOX OR VOTE TABULATOR
+18 ALL OTHER PARTY BALLOTS MUST BE PLACED IN UNVOTED
+19 BALLOT BOX
+20 __________________
+21 [MAJOR POLITICAL PARTY NAME]
+22 __________________
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 6 of 29
+1 Instructions to voters: Use black pen or pencil to fill in the oval. To vote
+2 for a person whose name is printed on the ballot, fill in the oval to the right of
+3 the name of that person. To vote for a person whose name is not printed on the
+4 ballot, write or stick his or her the person’s name in the blank space provided
+5 and fill in the oval to the right of the write-in space. Do not vote for more
+6 candidates than the “Vote for Not More Than” number for an office. If you
+7 make a mistake, tear, or deface the ballot, return it to an election official and
+8 obtain another ballot. Do not erase.
+9 (b) Following the names of candidates printed on the primary ballot after
+10 the name of each office to be filled shall be as many blank lines for write-in
+11 candidates as there are persons to be elected to that office. If no primary
+12 petition is filed for an office or for a candidate belonging to a party, the ballot
+13 shall contain the name of the office and blank lines for write-in candidates.
+14 (c) A primary ballot shall not indicate any party affiliation of any
+15 candidate.
+16 § 2363. VOTER’S CHOICE OF PARTY
+17 (a) A voter shall vote for the candidates of one party only. A person voting
+18 at the primary shall not be required to indicate his or her party choice to any
+19 election official.
+20 (b) [Repealed.] [Repealed.]
+21 * * *
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 7 of 29
+1 § 2369. DETERMINING WINNER WINNERS; TIE VOTES
+2 (a) A person who receives a plurality of all the votes cast by a party in a
+3 primary shall be a candidate of that party be placed for the office designated on
+4 the ballot Determining winners. Only the four candidates who receive the
+5 greatest number of votes for an office in a primary election shall be determined
+6 to have won the primary election for that office and shall, except as provided in
+7 17 V.S.A. § 2475, be placed on the ballot for that office for the subsequent
+8 general election.
+9 (b)(1) Ties. If any primary election results in more than four candidates
+10 qualifying to be placed on the ballot for an office for the general election
+11 because of a tie in the number of votes received by candidates, and after the
+12 period for requesting a recount under section 2602 of this title has expired, no
+13 candidate has requested a recount and two or more candidates of the same
+14 party of the four candidates to receive the most votes are tied for the same
+15 office, or if the results of recount result in a tie, the choice among those tied
+16 shall be determined upon five days’ notice and not later than 10 days following
+17 the primary election by the committee of that party, which shall meet to
+18 nominate a candidate from among the tied candidates the Secretary of State
+19 shall resolve the tie by lot to determine which candidates have won the primary
+20 election and shall be placed on the ballot for that office for the subsequent
+21 general election. The Secretary of State shall notify each active candidate
+22 involved in the tie, or the candidate’s designee, to be present at the Secretary of
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 8 of 29
+1 State’s office at a certain time. At that time, the Secretary of State shall select
+2 the winner of the tabulation by lot. “By lot” means a method, determined by
+3 the Secretary of State, for randomly choosing between two or more candidates.
+4 The committee that nominates a candidate shall be as follows:
+5 (A) the State committee of a party for a State or congressional office;
+6 (B) the senatorial district committee for State Senate;
+7 (C) the county committee for county office; or
+8 (D) the representative district committee for a Representative to the
+9 General Assembly.
+10 (2) The committee chair shall certify the candidate nomination for the
+11 general election to the Secretary of State within 48 hours of the nomination.
+12 § 2370. WRITE-IN CANDIDATES
+13 (a) A write-in candidate shall not qualify as a primary winner unless he or
+14 she the candidate receives at least one-half the number of votes as the number
+15 of signatures required for his or her the candidate’s office on a primary
+16 petition, except that if a write-in candidate receives more votes than a
+17 candidate whose name is printed on the ballot, he or she the write-in candidate
+18 may qualify as a primary winner.
+19 (b) The write-in candidate who qualifies as a primary winner under this
+20 section must still be determined a winner under section 2369 of this chapter
+21 before he or she becomes the party’s candidate shall be placed on the ballot for
+22 the subsequent general election.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 9 of 29
+1 § 2371. NOMINEES; NOTICE TO NOMINEES PRIMARY ELECTION
+2 WINNERS
+3 (a) The canvassing committee shall prepare and sign certificates of
+4 nomination advancement and mail or deliver in person to each winning
+5 candidate nominated a notice of his or her nomination the candidate’s
+6 advancement within two days after their meeting. On each certificate the
+7 canvassing committee shall indicate the name, town of residence, party
+8 affiliation, and mailing address of the winning candidate nominated. At the
+9 same time that they mail or deliver the certificates of nomination advancement,
+10 the canvassing committees shall also file with the office of the Secretary of
+11 State a list showing the vote for each candidate of each party for each office.
+12 (b) Unless a person winning candidate who is notified of being nominated
+13 withdraws the candidacy, the person’s name, and residence, and party
+14 affiliation shall be printed upon the general election ballot in the same manner
+15 as they appear in the notice of nomination advancement; provided, however,
+16 that within five days of the date of mailing or personal delivery a candidate
+17 may request that an error in the candidate’s name, or residence, or party
+18 affiliation be corrected or that the candidate’s preference as to the candidate’s
+19 own name be used on the ballot. The candidate shall also have the right to
+20 make the choice as set forth in section 2474 of this title.
+21 Subchapter 2. Nomination by Party Committee
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 10 of 29
+1 § 2381. APPLICABILITY OF SUBCHAPTER
+2 (a) A candidate may also be nominated and have the candidate’s name
+3 printed on the general election ballot in accordance with the provisions set
+4 forth in this subchapter, in the following instances:
+5 (1) In case of a vacancy on the general election ballot occasioned by
+6 death, removal, or withdrawal of a candidate, or the failure of a major political
+7 party to nominate a candidate by primary;
+8 (2) In case a minor political party desires to nominate a candidate for
+9 any office for which major political parties nominate candidates by primary or
+10 for the offices of President and Vice President of the United States;
+11 (3) In case of nomination for the office of justice of the peace, in the
+12 event that such nomination has not already been made by caucus as provided in
+13 section 2413 of this chapter.
+14 (b) In no event may any committee nominate a candidate or candidates for
+15 statewide office under this subchapter unless the political party has town
+16 committees organized in at least 10 towns in this State in accordance with
+17 procedures in chapter 45 of this title. [Repealed.]
+18 § 2382. WHICH COMMITTEE TO NOMINATE
+19 Nominations of party candidates pursuant to this subchapter shall be made
+20 by the following political committee of the party:
+21 (1) By the State committee in the case of President and Vice President
+22 of the United States or State or congressional officers;
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 11 of 29
+1 (2) By the county committee in the case of county officers;
+2 (3) By the senatorial district committee in the case of the office of State
+3 Senator;
+4 (4) By the representative district committee in the case of the office of
+5 Representative to the General Assembly;
+6 (5) By the town committee in the case of the office of justice of the
+7 peace. [Repealed.]
+8 § 2383. NOTICE OF MEETINGS
+9 The chair of the appropriate committee, or if the chair has not called a
+10 meeting then any three members of the committee, may set a date, time, and
+11 place for a committee meeting for the nomination of candidates pursuant to
+12 this subchapter and shall give not less than five days’ notice in writing to all
+13 members of the committee. The notice shall specifically state the offices for
+14 which nominations may be made. [Repealed.]
+15 § 2384. PROCEDURE UPON MEETING
+16 At the time and place set for the meeting, the committee shall proceed to
+17 nominate such candidates as it may desire pursuant to this subchapter.
+18 Nomination shall require a majority of those present and voting, and if no
+19 candidate shall have received a majority after two ballots, the candidate with
+20 the lowest number of votes in the second and in each succeeding ballot shall be
+21 eliminated until a candidate receives a majority. [Repealed.]
+22 § 2385. STATEMENT BY COMMITTEE OFFICERS; CONSENT OF
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 12 of 29
+1 CANDIDATE
+2 (a) When a nomination is made under the provisions of this subchapter, the
+3 chair and the secretary of the committee making the nomination shall file a
+4 statement of nomination in substantially the following form:
+5 “The ................................ met on ............ and nominated the
+6 (name of committee) (date)
+7 following person (or persons) to be a candidate (or candidates) of the
+8 ................................... for the office (or offices) indicated
+9 (Name of political party)
+10 .........................................
+11 (Name of candidate) (residence) (office for which
+12 nominated)
+13 “Notice of the meeting was properly given in compliance with all requirements
+14 of section 2383 of this title and the procedures required by section 2384 of this
+15 title were followed. A copy of the notice of the meeting is attached.
+16 “We swear under oath that we understand the above provisions of law and that
+17 the statements we have made in this document are true.
+18 Sworn to before me
+19 ................................................................................
+20 Notary Public Signature of Chair
+21 ................................................................................”
+22 Date Signature of Secretary
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 13 of 29
+1 (b) The statement of nomination shall be signed by the chair or acting chair
+2 and secretary or acting secretary of the committee making the nomination.
+3 They shall swear in their statement of nomination that the notice requirements
+4 of section 2383 of this title and procedural requirements of section 2384 of this
+5 title were complied with and that the persons listed as candidates were
+6 nominated at the meeting.
+7 (c) A copy of the notice that was sent to all committee members pursuant to
+8 section 2383 of this title shall be filed along with the statement of nomination.
+9 (d) Except in the case of nominations for justice of the peace, the candidate
+10 named in the statement shall file a consent to having the candidate’s name
+11 printed on the ballot, similar in form to the consent required in section 2361 of
+12 this title before the last day for filing statements of nomination. It shall be
+13 sufficient for meeting this requirement if the candidate signs the statement of
+14 nomination with a statement in substantially the following form:
+15 “I consent to having my name printed on the general election ballot for the
+16 office of _________________________________________ .
+17 (office for which nomination was made)
+18 My name (as I wish it to appear on the ballot), town or city of residence, and
+19 party are as follows:
+20 ________ _____________
+21 _________________________________________
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 14 of 29
+1 Name (please print) Town of residence (please print) Party (please
+2 print)
+3 ____ _________________________________________
+4 Date Signature of Candidate
+5 _________________________________________ ”
+6 Mailing Address
+7 (e) In the case of nominations by town committee or caucus for the office
+8 of justice of the peace, before filing the statement of nomination the chair,
+9 acting chair, secretary, or acting secretary shall check with each nominee and
+10 confirm that he or she consents to have his or her name printed on the ballot as
+11 a candidate for that position and to serve if elected. [Repealed.]
+12 § 2386. TIME FOR FILING STATEMENTS
+13 (a) In the case of the failure of a major political party to nominate a
+14 candidate by primary, a statement shall be filed not later than 5:00 p.m. on the
+15 sixth day following the primary.
+16 (b) In the case of the death or withdrawal of a candidate after the primary
+17 election, the party committee shall have seven days from the date of the death
+18 or withdrawal to nominate a candidate. In no event shall a statement be filed
+19 later than 60 days prior to the general election.
+20 (c)(1) In the case of a nomination by a minor political party, a statement
+21 shall be filed not earlier than the fourth Monday in April and not later than
+22 5:00 p.m. on the Thursday preceding the primary election described in section
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 15 of 29
+1 2351 of this chapter and not later than 5:00 p.m. on the third day prior to the
+2 day of a special primary election.
+3 (2) A statement shall apply only to the election cycle in which the
+4 statement is filed.
+5 (d) In the case of a nomination for the office of justice of the peace, a
+6 statement shall be filed as set forth in section 2413 of this chapter. [Repealed.]
+7 § 2387. PLACE FOR FILING STATEMENTS
+8 Statements for the office of justice of the peace shall be filed with the town
+9 clerk. All other statements and consents shall be filed with the Secretary of
+10 State. [Repealed.]
+11 Subchapter 3. Independent Candidates
+12 § 2401. APPLICABILITY OF SUBCHAPTER
+13 A person may be nominated and have his or her name printed on the general
+14 election ballot for any office by filing a consent similar in form to the consent
+15 prescribed by section 2361 of this title and a statement of nomination with the
+16 Secretary of State. In the case of a nomination for justice of the peace, the
+17 consent form and statement of nomination shall be filed with the town clerk.
+18 [Repealed.]
+19 § 2402. REQUISITES OF STATEMENT
+20 (a) A statement of nomination shall contain:
+21 (1) The name of the office for which the nomination is made.
+22 (2) The candidate’s name and residence.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 16 of 29
+1 (3) If desired, a name, or other identification (in not more than three
+2 words) to be printed on the ballot following the candidate’s name.
+3 (4) In the case of nomination for President or Vice President of the
+4 United States:
+5 (A) The name and state of residence of each candidate for such
+6 office, together with the name, town of residence, and correct mailing address
+7 of each nominee for the office of elector.
+8 (B)(i) The original statement of nomination shall include a
+9 certification by the town clerk of each town where the signers appear to be
+10 voters that the persons whose names appear as signers of the statement are
+11 registered voters in the town and of the total number of valid signers from the
+12 town.
+13 (ii) Only the number of signers certified as registered voters by
+14 each town clerk on the original statement of nomination forms shall count
+15 toward the required number of signatures.
+16 (C) The statement shall also be accompanied by a consent form from
+17 each nominee for elector. The consent form shall be similar to the consent
+18 form prescribed in section 2361 of this title.
+19 (b)(1) To constitute a valid nomination, a statement shall contain signatures
+20 of voters qualified to vote in an election for the office in question, equal in
+21 number to at least:
+22 (A) for presidential and vice presidential offices, 1,000;
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 17 of 29
+1 (B) for State and congressional offices, 500;
+2 (C) for county officers or State Senators, 100;
+3 (D) for Representative to the General Assembly, 50;
+4 (E) for justice of the peace, 30 or one percent of the legal voters of
+5 the municipality, whichever is less.
+6 (2) Signatures need not all be contained on one paper.
+7 (c) A statement shall state that each signer is qualified to vote in an election
+8 for the office in question and that the voter’s residence is as set forth next to
+9 the voter’s name.
+10 (d)(1) A statement of nomination and a completed and signed consent form
+11 shall be filed:
+12 (A) in the case of nomination for President or Vice President of the
+13 United States, not earlier than the fourth Monday in April and not later than
+14 5:00 p.m. on the August 1 preceding the presidential general election;
+15 (B) in the case of nomination for justice of the peace, not earlier than
+16 the fourth Monday in April and not later than 5:00 p.m. on the third day
+17 following the primary election; or
+18 (C) in the case of any other independent candidate, not earlier than
+19 the fourth Monday in April and not later than 5:00 p.m. on the Thursday
+20 preceding the primary election prescribed by section 2351 of this chapter, and
+21 not later than 5:00 p.m. of the third day prior to the day of a special primary
+22 election.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 18 of 29
+1 (2) A public official receiving nominations shall not accept a petition
+2 unless a completed and signed consent form is filed at the same time.
+3 (3) A statement of nomination shall apply only to the election cycle in
+4 which the statement of nomination is filed.
+5 (e) The Secretary of State shall prescribe and furnish forms for a statement
+6 of nomination.
+7 (f) In the event that an independent vice presidential candidate withdraws
+8 in accordance with section 2412 of this chapter, the presidential candidate may
+9 submit to the Secretary of State on or before the ballot printing deadline a new
+10 consent form signed by the presidential candidate and his or her new vice
+11 presidential candidate. [Repealed.]
+12 § 2403. NUMBER OF CANDIDATES; PARTY NAMES
+13 (a)(1) A statement of nomination shall contain the name of only one
+14 candidate, except in the case of presidential and vice presidential candidates,
+15 who may be nominated by means of the same statement of nomination.
+16 (2) A single statement of nomination shall contain only one office for
+17 which a person seeks to be a candidate.
+18 (b)(1) The political or other name on a statement of nomination shall be
+19 substantially different from the name of any organized political party. It shall
+20 also be substantially different from the political or other name already
+21 appearing on any other statement of nomination for the same office then on file
+22 with the same officer for the same election.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 19 of 29
+1 (2) If the Secretary of State determines that it is not substantially
+2 different, the candidate named on the statement shall select a different political
+3 or other name; otherwise the Secretary shall print the word “Independent” on
+4 the ballot for that candidate.
+5 (c)(1) Except in the case of presidential and vice presidential candidates,
+6 the word “independent” may not be used as part of a party name.
+7 (2) If no party is indicated, the word “Independent” shall be printed on
+8 the ballot.
+9 (3) A candidate appearing on the ballot as a candidate of a political party
+10 shall not also appear on the ballot as an “Independent.” [Repealed.]
+11 § 2404. PRESERVATION OF STATEMENTS
+12 The Secretary of State shall preserve all statements until three months after
+13 the general election, after which they may be destroyed. [Repealed.]
+14 Subchapter 4. Miscellaneous Provisions
+15 § 2411. APPLICABILITY OF OTHER LAW
+16 Except as specifically provided in this chapter, all other provisions of this
+17 title shall govern the several procedures specified in this chapter for the
+18 making of nominations conduct of primary elections.
+19 § 2412. WITHDRAWAL OF CANDIDACY
+20 (a)(1) A candidate who has been validly nominated by one of the methods
+21 prescribed in this chapter shall have a right to withdraw his or her candidacy
+22 up until 5:00 p.m. on the tenth day following the primary by filing a written
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 20 of 29
+1 notice of withdrawal with the town clerk in the case of a candidate for justice
+2 of the peace, and with the Secretary of State in the case of all other offices.
+3 (2) The name of a candidate who has withdrawn in accordance with the
+4 provisions of this subsection shall not be printed on the ballot.
+5 (b) After the date described in subdivision (a)(1) of this section, if the
+6 candidate has filed a written notice of withdrawal, the town clerk or Secretary
+7 of State may still remove the candidate’s name from the ballot up until the
+8 printing deadline. [Repealed.]
+9 § 2413. NOMINATION OF JUSTICES OF THE PEACE
+10 (a)(1) The party members in each town, on or before each primary election,
+11 upon the call of the town committee, may meet in caucus and nominate
+12 candidates for justice of the peace.
+13 (2)(A) The committee shall give notice of the caucus by posting notice
+14 at the office of the town clerk and two other public places in the town at least
+15 five days prior to the caucus.
+16 (B) In addition, for towns with over 3,000 voters, the committee shall
+17 post this notice at least one day prior to the caucus:
+18 (i)(I) in a newspaper of general circulation within the town; or
+19 (II) on a nonpartisan electronic news media website that
+20 specializes in news of the State or the community; and
+21 (ii) on the municipality’s website, if the municipality actively
+22 updates its website on a regular basis.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 21 of 29
+1 (3) [Repealed.]
+2 (b) If it does not hold a caucus as provided in subsection (a) of this section,
+3 the town committee shall meet and nominate candidates for justices of the
+4 peace as provided in sections 2381 through 2385 of this title. At least three
+5 days prior to this meeting, the town committee shall provide notice of the
+6 meeting by e-mailing or mailing committee members and by posting notice of
+7 the meeting in the office of the town clerk and in two other public places in the
+8 town.
+9 (c) In any town in which a political party has not formally organized, any
+10 three members of the party who are voters in the town may call a caucus to
+11 nominate candidates for justice of the peace by giving notice as required in
+12 subsection (a) of this section. Upon meeting, the caucus shall first elect a chair
+13 and a secretary. Thereafter the caucus shall nominate its candidates for justice
+14 of the peace.
+15 (d) [Repealed.]
+16 (e) For any nomination made under this section, the chair and secretary of
+17 the committee or caucus shall file the statement required by section 2385 of
+18 this title by 5:00 p.m. on the third day following the primary election.
+19 [Repealed.]
+20 * * *
+21 Sec. 3. 17 V.S.A. chapter 51, subchapter 2 is amended to read:
+22 Subchapter 2. Ballots
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 22 of 29
+1 * * *
+2 § 2472. CONTENTS
+3 * * *
+4 (b)(1) Each office to be voted upon shall be separately indicated and
+5 preceded by the word “For,” as: “For United States Senator.” Beneath the
+6 office to be voted upon shall appear the instructions: “Vote for not more than
+7 (the number of candidates to be elected).”
+8 (2) The names of the candidates for each office shall be listed in
+9 alphabetical order by surname, followed by the candidate’s town of residence,
+10 and the party or parties by which the candidate has been nominated, or in the
+11 case of independent candidates who have not chosen some other name or
+12 identification, by the word “Independent.” The word “party” shall not be
+13 printed on the ballot following a candidate’s party name.
+14 (3) To the right of the party designation surname shall be an oval in
+15 which the voter may indicate his or her choice by filling in the oval.
+16 (4) A candidate’s name shall not appear on the ballot more than once for
+17 any one office.
+18 * * *
+19 § 2474. CHOICE OF PARTY
+20 (a)(1) A person nominated by any means for the same office by more than
+21 one political party may elect, not later than 5:00 p.m. on the tenth day
+22 following the primary election, the party or parties in which the nominee will
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 23 of 29
+1 be a candidate. The nominee shall notify in writing the Secretary of State or
+2 town clerk, as the case may be, of such choice by that deadline, and only the
+3 party or parties that the nominee so elects shall be printed next to the
+4 nominee’s name on the ballot.
+5 (2) If the nominee does not notify the Secretary of State or the town
+6 clerk of his or her choice of party, the Secretary of State shall print on the
+7 ballot those parties next to the nominee’s name by listing in this order:
+8 (A) the major political party for which the nominee had his or her
+9 name printed on the ballot in the primary;
+10 (B) any major political parties that nominated the nominee by the
+11 party committee, in the order in which the nominations were submitted to the
+12 Secretary of State;
+13 (C) any major political parties for which the nominee received write-
+14 in votes, in an order from highest to lowest vote counts; and
+15 (D) any minor political parties that nominated the nominee by party
+16 committee, in the order in which the nominations were submitted to the
+17 Secretary of State.
+18 (b)(1) A candidate for State office who is the nominee of two or more
+19 political parties shall file with the Secretary of State, not later than 5:00 p.m.
+20 the tenth day following the primary election, a statement designating for which
+21 party the votes cast for him or her shall be counted for the purposes of
+22 determining whether his or her designated party shall be a major political
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 24 of 29
+1 party. The party so designated shall be the first party to be printed
+2 immediately after the candidate’s name on the ballot.
+3 (2) If a candidate does not file the statement by that deadline, the
+4 Secretary of State shall designate the party for which the votes cast shall be
+5 counted as provided in subdivision (a)(2) of this section. [Repealed.]
+6 § 2475. DEATH OR WITHDRAWAL OF CANDIDATE
+7 (a) When a candidate dies or withdraws and the vacancy is filled as
+8 provided in chapter 49 of this title, the name supplied for the vacancy shall be
+9 inserted instead of the original nomination Withdrawal. A candidate who wins
+10 a primary election pursuant to section 2369 of this title shall have a right to
+11 withdraw up until 5:00 p.m. on the 10th day following a primary election by
+12 filing a written notice of withdrawal with the town clerk in the case of a
+13 candidate for justice of the peace, and with the Secretary of State in the case of
+14 all other offices.
+15 (b) Replacement of withdrawn or deceased primary candidates. A winning
+16 primary candidate who withdraws pursuant to subsection (a) of this section or
+17 who dies between a primary election and the 10th day following a primary
+18 election shall be replaced on the general election ballot by the primary
+19 candidate who received the next greatest number of votes for that office in the
+20 primary election after any other winners of the primary election.
+21 (c) Printing. After the 10th day following a primary election, if a winning
+22 primary candidate withdraws or dies, the town clerk or Secretary of State may
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 25 of 29
+1 still remove the candidate’s name from the ballot up until the printing deadline.
+2 If the ballots have already been printed, the officer who furnished them shall
+3 prepare and furnish new ballots. The town clerk in each town shall, upon
+4 delivery of the new ballots, immediately destroy all original ballots except
+5 those already supplied to or used by early or absentee voters. Such early or
+6 absentee voter ballots shall be acceptable and counted with the other ballots.
+7 * * *
+8 * * * Miscellaneous Cross-References * * *
+9 Sec. 4. 17 V.S.A. § 1881a is amended to read:
+10 § 1881a. SENATORIAL DISTRICTS; NOMINATIONS AND ELECTION
+11 * * *
+12 (c)(1) Petitions for nominating candidates for Senator in the General
+13 Assembly by primary or by certificates of nomination of candidates for that
+14 office by convention, caucus, committee, or voters election under chapter 49 of
+15 this title may be filed in the office of any county clerk in a senatorial district.
+16 (2)(A) On the day after the last day for filing those petitions or
+17 certificates for that office, the other county clerk shall notify the senatorial
+18 district clerk of the facts concerning those petitions or certificates.
+19 (B) The senatorial district clerk shall be responsible for determining
+20 the names of candidates and other facts required by law to appear on the ballot
+21 for the office of Senator and for obtaining and distributing the ballots to the
+22 other clerks in the district.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 26 of 29
+1 (d) The clerk of the less populous county in a senatorial district shall report
+2 the results of voting in his or her the clerk’s county immediately after they are
+3 determined to the senatorial district clerk, who shall issue the certificates of
+4 nomination advancement or election required by law as to the office of
+5 Senator.
+6 * * *
+7 Sec. 5. 17 V.S.A. § 2721 is amended to read:
+8 § 2721. NOMINATION OF PRESIDENTIAL ELECTORS
+9 (a) In presidential election years, presidential electors for major political
+10 parties shall be nominated at the party platform convention held pursuant to
+11 this title.
+12 (b) Electors for all other presidential candidates shall be nominated
+13 pursuant to chapter 49, subchapter 3 of this title. as follows:
+14 (1) Requisites of statement.
+15 (A) A statement of nomination shall contain the name and state of
+16 residence of each candidate for such office, together with the name, town of
+17 residence, and correct mailing address of each nominee for the office of
+18 elector.
+19 (B)(i) The original statement of nomination shall include a
+20 certification by the town clerk of each town where the signers appear to be
+21 voters that the persons whose names appear as signers of the statement are
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 27 of 29
+1 registered voters in the town and of the total number of valid signers from the
+2 town.
+3 (ii) Only the number of signers certified as registered voters by
+4 each town clerk on the original statement of nomination forms shall count
+5 toward the required number of signatures.
+6 (C) The statement shall also be accompanied by a consent form from
+7 each nominee for elector. The consent form shall be similar to the consent
+8 form prescribed in section 2361 of this title.
+9 (D)(i) To constitute a valid nomination for presidential and vice
+10 presidential offices, a statement shall contain signatures of voters qualified to
+11 vote in an election for the office in question, equal in number to at least 1,000.
+12 (ii) Signatures need not all be contained on one paper.
+13 (E) A statement shall state that each signer is qualified to vote in an
+14 election for the office in question and that the voter’s residence is as set forth
+15 next to the voter’s name.
+16 (F)(i) In the case of nomination for President or Vice President of the
+17 United States, a statement of nomination and a completed and signed consent
+18 form shall be filed not earlier than the fourth Monday in April and not later
+19 than 5:00 p.m. on the August 1 preceding the presidential general election.
+20 (ii) A public official receiving nominations shall not accept a
+21 petition unless a completed and signed consent form is filed at the same time.
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 28 of 29
+1 (iii) A statement of nomination shall apply only to the election
+2 cycle in which the statement of nomination is filed.
+3 (G) The Secretary of State shall prescribe and furnish forms for a
+4 statement of nomination.
+5 (H) In the event that an independent vice presidential candidate
+6 withdraws in accordance with section 2412 of this chapter, the presidential
+7 candidate may submit to the Secretary of State on or before the ballot printing
+8 deadline a new consent form signed by the presidential candidate and the
+9 presidential candidate’s new vice presidential candidate.
+10 (2) Number of candidates; party names.
+11 (A)(i) Presidential and vice presidential candidates may be nominated
+12 by means of the same statement of nomination.
+13 (ii) A single statement of nomination shall contain only one office
+14 for which a person seeks to be a candidate.
+15 (B)(i) The political or other name on a statement of nomination shall
+16 be substantially different from the name of any organized political party. It
+17 shall also be substantially different from the political or other name already
+18 appearing on any other statement of nomination for the same office then on file
+19 with the same officer for the same election.
+20 (ii) If the Secretary of State determines that it is not substantially
+21 different, the candidate named on the statement shall select a different political
+VT LEG #380916 v.1
+
+BILL AS INTRODUCED H.314
+2025 Page 29 of 29
+1 or other name; otherwise the Secretary shall print the word “Independent” on
+2 the ballot for that candidate.
+3 (3) Preservation of statements. The Secretary of State shall preserve all
+4 statements until three months after the general election, after which they may
+5 be destroyed.
+6 * * * Effective Date * * *
+7 Sec. 6. EFFECTIVE DATE
+8 This act shall take effect on January 1, 2026.
+VT LEG #380916 v.1
+
+[DELETED:  H P H I R R D S S n v A I * S T P * S C S §]
+[DELETED:  H P A e t s P p §   W t p n n b n s t r § ( c i]
+[DELETED:  H P v t n I n i o p o ( b ( s ( s § ( ( v p ( t]
+[DELETED:  H P ( i ( § T ( ( ( ( m § ( t T p 6 ( c § ( ( (]
+[DELETED:  H P ( ( d ( ( n f * § ( a n B t O V B A B _ [ _]
+[DELETED:  H P I f t b a c m o ( t c p s ( c § ( a e ( *]
+[DELETED:  H P § ( p t g t 1 g ( q b p c p o s t n s e g i]
+[DELETED:  H P S t t T ( ( ( ( G ( g § ( s o p c m ( s b t]
+[DELETED:  H P     ( n c a c a s t S ( w a a t m a o m S]
+[DELETED:  H P § ( p f ( d p ( a f ( e s ( s c p § N b ( o]
+[DELETED:  H P ( ( S ( R ( p § T m p t m w § A n N c t e §]
+[DELETED:  H P   ( c s “   f .   . ( n “ o t “ t S . N . D]
+[DELETED:  H P ( a T o t n ( s ( n p t s n “ o   M p _ _]
+[DELETED:  H P N p _       ( o a c a § ( c s ( e o l ( s 5]
+[DELETED:  H P 2 d ( s ( s § S c S S § A e p S c [ § ( ( (]
+[DELETED:  H P ( w ( U ( o o ( c v r t ( e t ( e f ( o n (]
+[DELETED:  H P ( ( ( ( t ( ( f t ( s ( U 5 ( t f ( t p n e]
+[DELETED:  H P ( u ( w ( o ( i s c p   ( c w ( w ( s a a w]
+[DELETED:  H P ( d o t ( t ( t ( s § T t S § E t m § ( p u]
+[DELETED:  H P n o ( p ( c o p § ( u c ( a f ( p ( ( s ( u]
+[DELETED:  H P ( ( t p d m t t ( t n s a o ( ( t t [ * S S]
+[DELETED:  H P   § * ( p o ( ( a a c i p ( w ( a * § ( o f]
+[DELETED:  H P b t p n ( c b ( n ( p S ( i ( c S ( p t p d]
+[DELETED:  H P p i ( S c § ( p i a w f c a ( p w e c p ( p]
+[DELETED:  H P s I p d t a * * S § * ( A o t ( c d ( t f o]
+[DELETED:  H P ( t d n S * S § ( p t ( p ( ( r r e ( c v]
+[DELETED:  H P r t ( e t ( e f ( p v ( ( e n ( U f t ( p]
+[DELETED:  H P ( c ( s ( w c d p ( ( b ( f ( b s a w ( d]
+[DELETED:  H P o t ( s b * S T]

@@ -1,0 +1,127 @@
+Title: BILL AS INTRODUCED H.8
+Official Title: BILL AS INTRODUCED H.8
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 3
+1 H.8
+2 Introduced by Representative Stone of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; income tax; tax credit; home modification
+6 Statement of purpose of bill as introduced: This bill proposes to create a
+7 personal income tax credit for home modifications that enhance safety and
+8 livability.
+9 An act relating to a tax credit for home modifications for safety and
+10 livability
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 32 V.S.A. § 5830g is added to read:
+13 § 5830g. HOME MODIFICATION TAX CREDIT
+14 (a) An individual shall be eligible for a credit against the tax imposed under
+15 section 5822 of this title. The credit shall be equal to an individual’s qualified
+16 expenses for home modifications to enhance safety and livability. An
+17 individual shall not claim more than $15,000.00 of qualified expenses under
+18 this section in a lifetime.
+VT LEG #379044 v.1
+BILL AS INTRODUCED H.8
+2025 Page 2 of 3
+1 (b) As used in this section, “qualified expenses” means unreimbursed and
+2 uncovered expenses relating to the following modifications of a homestead to
+3 enhance safety and livability:
+4 (1) ramps;
+5 (2) stair lifts, chair lifts, platform lifts, and elevators;
+6 (3) widened doorways and hallways;
+7 (4) bathroom renovation; and
+8 (5) any other modification specifically made to improve accessibility or
+9 safety.
+10 (c) As used in this section, “homestead” has the same meaning as in
+11 subdivision 5401(7) of this title.
+12 (d) If the amount of allowed tax credit exceeds the individual’s income tax
+13 liability for the taxable year, the excess amount may be carried over for
+14 deduction from the taxpayer’s income tax liability in the next succeeding
+15 taxable year or years until the total amount of the tax credit has been deducted
+16 from tax liability; provided, however, that no tax credit shall be carried over
+17 for deduction after the third taxable year succeeding the taxable year in which
+18 the credit was earned.
+19 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+20 * * *
+VT LEG #379044 v.1
+BILL AS INTRODUCED H.8
+2025 Page 3 of 3
+1 (aa) The statutory purpose of the tax credit for home modifications in
+2 section 5830g of this title is to help individuals live more safely in their homes.
+3 Sec. 3. EFFECTIVE DATE
+4 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+5 January 1, 2025 and apply to taxable years on and after January 1, 2025.
+VT LEG #379044 v.1
+[DELETED:  H P H I R R D S S p l A l I S § ( s e i t]
+[DELETED:  H P ( u e ( ( ( ( ( s ( s ( l d t f f t S *]
+[DELETED:  H P ( s S N J]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.8
+2025 Page 1 of 3
+1 H.8
+2 Introduced by Representative Stone of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Taxation; income tax; tax credit; home modification
+6 Statement of purpose of bill as introduced: This bill proposes to create a
+7 personal income tax credit for home modifications that enhance safety and
+8 livability.
+9 An act relating to a tax credit for home modifications for safety and
+10 livability
+11 It is hereby enacted by the General Assembly of the State of Vermont:
+12 Sec. 1. 32 V.S.A. § 5830g is added to read:
+13 § 5830g. HOME MODIFICATION TAX CREDIT
+14 (a) An individual shall be eligible for a credit against the tax imposed under
+15 section 5822 of this title. The credit shall be equal to an individual’s qualified
+16 expenses for home modifications to enhance safety and livability. An
+17 individual shall not claim more than $15,000.00 of qualified expenses under
+18 this section in a lifetime.
+VT LEG #379044 v.1
+
+BILL AS INTRODUCED H.8
+2025 Page 2 of 3
+1 (b) As used in this section, “qualified expenses” means unreimbursed and
+2 uncovered expenses relating to the following modifications of a homestead to
+3 enhance safety and livability:
+4 (1) ramps;
+5 (2) stair lifts, chair lifts, platform lifts, and elevators;
+6 (3) widened doorways and hallways;
+7 (4) bathroom renovation; and
+8 (5) any other modification specifically made to improve accessibility or
+9 safety.
+10 (c) As used in this section, “homestead” has the same meaning as in
+11 subdivision 5401(7) of this title.
+12 (d) If the amount of allowed tax credit exceeds the individual’s income tax
+13 liability for the taxable year, the excess amount may be carried over for
+14 deduction from the taxpayer’s income tax liability in the next succeeding
+15 taxable year or years until the total amount of the tax credit has been deducted
+16 from tax liability; provided, however, that no tax credit shall be carried over
+17 for deduction after the third taxable year succeeding the taxable year in which
+18 the credit was earned.
+19 Sec. 2. 32 V.S.A. § 5813 is amended to read:
+20 * * *
+VT LEG #379044 v.1
+
+BILL AS INTRODUCED H.8
+2025 Page 3 of 3
+1 (aa) The statutory purpose of the tax credit for home modifications in
+2 section 5830g of this title is to help individuals live more safely in their homes.
+3 Sec. 3. EFFECTIVE DATE
+4 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+5 January 1, 2025 and apply to taxable years on and after January 1, 2025.
+VT LEG #379044 v.1
+
+[DELETED:  H P H I R R D S S p l A l I S § ( s e i t]
+[DELETED:  H P ( u e ( ( ( ( ( s ( s ( l d t f f t S *]
+[DELETED:  H P ( s S N J]

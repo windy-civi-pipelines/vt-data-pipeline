@@ -1,0 +1,182 @@
+Title: BILL AS INTRODUCED H.62
+Official Title: BILL AS INTRODUCED H.62
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.62
+2 Introduced by Representatives Higley of Lowell, Bailey of Hyde Park, Burditt
+3 of West Rutland, Burtt of Cabot, Casey of Hubbardton, Coffin
+4 of Cavendish, Demar of Enosburgh, Dickinson of St. Albans
+5 Town, Dobrovich of Williamstown, Feltus of Lyndon, Howland
+6 of Rutland Town, Keyser of Rutland City, Labor of Morgan,
+7 Luneau of St. Albans City, McFaun of Barre Town, Morgan, L.
+8 of Milton, Morgan, M. of Milton, Morrissey of Bennington,
+9 Nelson of Derby, Nielsen of Brandon, Oliver of Sheldon, Page
+10 of Newport City, Parsons of Newbury, Powers of Waterford,
+11 Quimby of Lyndon, Southworth of Walden, Tagliavia of
+12 Corinth, Taylor of Milton, and Toof of St. Albans Town
+13 Referred to Committee on
+14 Date:
+15 Subject: Conservation and development; air pollution; climate change;
+16 Vermont Climate Council
+17 Statement of purpose of bill as introduced: This bill proposes to change the
+18 State’s greenhouse gas reduction requirements to goals and repeal the Vermont
+19 Climate Council.
+20 An act relating to repealing the Global Warming Solutions Act
+VT LEG #379037 v.1
+BILL AS INTRODUCED H.62
+2025 Page 2 of 4
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. REPEAL
+3 10 V.S.A. chapter 24 (Vermont Climate Council and Climate Action Plan)
+4 is repealed.
+5 Sec. 2. 10 V.S.A. § 578 is amended to read:
+6 § 578. GREENHOUSE GAS REDUCTION REQUIREMENTS GOALS
+7 (a) Greenhouse gas reduction requirements goals. It is the goal of Vermont
+8 shall to reduce emissions of greenhouse gases from within the geographical
+9 boundaries of the State and those emissions outside the boundaries of the State
+10 that are caused by the use of energy in Vermont, as measured and inventoried
+11 pursuant to section 582 of this title, by:
+12 * * *
+13 (c) Implementation of State programs to reduce greenhouse gas emissions.
+14 In order to facilitate the State’s compliance with the goals established in this
+15 section, all State agencies shall consider, whenever practicable, any increase or
+16 decrease in greenhouse gas emissions in their decision-making procedures with
+17 respect to the purchase and use of equipment and goods; the siting,
+18 construction, and maintenance of buildings; the assignment of personnel; and
+19 the planning, design, and operation of programs, services, and infrastructure.
+20 * * *
+VT LEG #379037 v.1
+BILL AS INTRODUCED H.62
+2025 Page 3 of 4
+1 Sec. 3. 30 V.S.A. § 202a is amended to read:
+2 § 202a. STATE ENERGY POLICY
+3 It is the general policy of the State of Vermont:
+4 * * *
+5 (3) To meet Vermont’s energy service needs in a manner that will
+6 achieve the greenhouse gas emissions reductions requirements goals pursuant
+7 to 10 V.S.A § 578 and is consistent with the Vermont Climate Action Plan
+8 adopted and updated pursuant to 10 V.S.A. § 592.
+9 Sec. 4. 30 V.S.A. § 202b is amended to read:
+10 § 202b. STATE COMPREHENSIVE ENERGY PLAN
+11 (a) The Department of Public Service, in conjunction with other State
+12 agencies designated by the Governor, shall prepare a State Comprehensive
+13 Energy Plan covering at least a 20-year period. The Plan shall seek to
+14 implement the State energy policy set forth in section 202a of this title,
+15 including meeting the State’s greenhouse gas emissions reductions
+16 requirements goals pursuant to 10 V.S.A. § 578, and shall be consistent with
+17 the relevant goals of 24 V.S.A. § 4302 and with the Vermont Climate Action
+18 Plan adopted and updated pursuant to 10 V.S.A. § 592. The State
+19 Comprehensive Energy Plan shall include:
+20 * * *
+VT LEG #379037 v.1
+BILL AS INTRODUCED H.62
+2025 Page 4 of 4
+1 Sec. 5. RULE REPEAL
+2 Department of Environmental Conservation, Chapter 40: Vermont Low
+3 Emission Vehicle and Zero Emission Vehicle Rules (CVR 12-30-40) is
+4 repealed.
+5 Sec. 6. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #379037 v.1
+[DELETED:  H P H I R o o T o L o N o Q C R D S V S S C A]
+[DELETED:  H P I S 1 i S § ( s b t p * ( I s d r c t *]
+[DELETED:  H P S § I * ( a t a S § ( a E i i r t P C *]
+[DELETED:  H P S D E r S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.62
+2025 Page 1 of 4
+1 H.62
+2 Introduced by Representatives Higley of Lowell, Bailey of Hyde Park, Burditt
+3 of West Rutland, Burtt of Cabot, Casey of Hubbardton, Coffin
+4 of Cavendish, Demar of Enosburgh, Dickinson of St. Albans
+5 Town, Dobrovich of Williamstown, Feltus of Lyndon, Howland
+6 of Rutland Town, Keyser of Rutland City, Labor of Morgan,
+7 Luneau of St. Albans City, McFaun of Barre Town, Morgan, L.
+8 of Milton, Morgan, M. of Milton, Morrissey of Bennington,
+9 Nelson of Derby, Nielsen of Brandon, Oliver of Sheldon, Page
+10 of Newport City, Parsons of Newbury, Powers of Waterford,
+11 Quimby of Lyndon, Southworth of Walden, Tagliavia of
+12 Corinth, Taylor of Milton, and Toof of St. Albans Town
+13 Referred to Committee on
+14 Date:
+15 Subject: Conservation and development; air pollution; climate change;
+16 Vermont Climate Council
+17 Statement of purpose of bill as introduced: This bill proposes to change the
+18 State’s greenhouse gas reduction requirements to goals and repeal the Vermont
+19 Climate Council.
+20 An act relating to repealing the Global Warming Solutions Act
+VT LEG #379037 v.1
+
+BILL AS INTRODUCED H.62
+2025 Page 2 of 4
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. REPEAL
+3 10 V.S.A. chapter 24 (Vermont Climate Council and Climate Action Plan)
+4 is repealed.
+5 Sec. 2. 10 V.S.A. § 578 is amended to read:
+6 § 578. GREENHOUSE GAS REDUCTION REQUIREMENTS GOALS
+7 (a) Greenhouse gas reduction requirements goals. It is the goal of Vermont
+8 shall to reduce emissions of greenhouse gases from within the geographical
+9 boundaries of the State and those emissions outside the boundaries of the State
+10 that are caused by the use of energy in Vermont, as measured and inventoried
+11 pursuant to section 582 of this title, by:
+12 * * *
+13 (c) Implementation of State programs to reduce greenhouse gas emissions.
+14 In order to facilitate the State’s compliance with the goals established in this
+15 section, all State agencies shall consider, whenever practicable, any increase or
+16 decrease in greenhouse gas emissions in their decision-making procedures with
+17 respect to the purchase and use of equipment and goods; the siting,
+18 construction, and maintenance of buildings; the assignment of personnel; and
+19 the planning, design, and operation of programs, services, and infrastructure.
+20 * * *
+VT LEG #379037 v.1
+
+BILL AS INTRODUCED H.62
+2025 Page 3 of 4
+1 Sec. 3. 30 V.S.A. § 202a is amended to read:
+2 § 202a. STATE ENERGY POLICY
+3 It is the general policy of the State of Vermont:
+4 * * *
+5 (3) To meet Vermont’s energy service needs in a manner that will
+6 achieve the greenhouse gas emissions reductions requirements goals pursuant
+7 to 10 V.S.A § 578 and is consistent with the Vermont Climate Action Plan
+8 adopted and updated pursuant to 10 V.S.A. § 592.
+9 Sec. 4. 30 V.S.A. § 202b is amended to read:
+10 § 202b. STATE COMPREHENSIVE ENERGY PLAN
+11 (a) The Department of Public Service, in conjunction with other State
+12 agencies designated by the Governor, shall prepare a State Comprehensive
+13 Energy Plan covering at least a 20-year period. The Plan shall seek to
+14 implement the State energy policy set forth in section 202a of this title,
+15 including meeting the State’s greenhouse gas emissions reductions
+16 requirements goals pursuant to 10 V.S.A. § 578, and shall be consistent with
+17 the relevant goals of 24 V.S.A. § 4302 and with the Vermont Climate Action
+18 Plan adopted and updated pursuant to 10 V.S.A. § 592. The State
+19 Comprehensive Energy Plan shall include:
+20 * * *
+VT LEG #379037 v.1
+
+BILL AS INTRODUCED H.62
+2025 Page 4 of 4
+1 Sec. 5. RULE REPEAL
+2 Department of Environmental Conservation, Chapter 40: Vermont Low
+3 Emission Vehicle and Zero Emission Vehicle Rules (CVR 12-30-40) is
+4 repealed.
+5 Sec. 6. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #379037 v.1
+
+[DELETED:  H P H I R o o T o L o N o Q C R D S V S S C A]
+[DELETED:  H P I S 1 i S § ( s b t p * ( I s d r c t *]
+[DELETED:  H P S § I * ( a t a S § ( a E i i r t P C *]
+[DELETED:  H P S D E r S T]

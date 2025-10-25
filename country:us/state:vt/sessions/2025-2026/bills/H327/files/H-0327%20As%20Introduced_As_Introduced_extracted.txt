@@ -1,0 +1,112 @@
+Title: BILL AS INTRODUCED H.327
+Official Title: BILL AS INTRODUCED H.327
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 H.327
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; utilities; Public Utility Commission; labor
+6 Statement of purpose of bill as introduced: This bill proposes to require any
+7 corporation regulated by the Public Utility Commission that contracts to
+8 construct an energy facility to receive a line-item budget from the contractor
+9 and attestation from the contractor that union labor was used on the
+10 construction of the facility and the prevailing wage was paid.
+11 An act relating to labor requirements for certain energy projects
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 30 V.S.A. § 205a is added to read:
+14 § 205a. REQUIREMENTS FOR CERTAIN ENERGY FACILITIES
+15 (a) For any energy generation facility it constructs after January 1, 2025, a
+16 corporation subject to supervision under this chapter shall submit to the
+17 Commission within 60 days after construction is completed:
+18 (1) a certified copy of any contract for the energy generation facility
+19 with a line-item budget; and
+VT LEG #380945 v.2
+BILL AS INTRODUCED H.327
+2025 Page 2 of 2
+1 (2) an attestation that each contract awarded for any energy generation
+2 facility with a construction cost exceeding $100,000.00:
+3 (A) was constructed using unionized labor paid not less than the
+4 prevailing wage published periodically by the Vermont Department of Labor
+5 in its occupational employment and wage survey plus an additional fringe
+6 benefit of 42.5 percent of wage, as calculated by the current Vermont
+7 prevailing wage survey; or
+8 (B) if unionized labor was not available, was constructed by
+9 employees paid not less than the mean prevailing wage published periodically
+10 by the Vermont Department of Labor in its occupational employment and
+11 wage survey plus an additional fringe benefit of 42.5 percent of wage, as
+12 calculated by the current Vermont prevailing wage survey.
+13 (b) As used in this section, “fringe benefits” means benefits, including paid
+14 vacations and holidays, sick leave, employer contributions and reimbursements
+15 to health insurance and retirement benefits, and similar benefits that are
+16 incidents of employment.
+17 (c) The Commission shall make the documents required under this section
+18 available for public review, with any personally identifiable information
+19 redacted.
+20 Sec. 2. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #380945 v.2
+[DELETED:  H P H I R R D S S c c a c A I S § ( c C ( w]
+[DELETED:  H P ( f ( p i b p ( e b w c ( v t i ( a r S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.327
+2025 Page 1 of 2
+1 H.327
+2 Introduced by Representative Logan of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; utilities; Public Utility Commission; labor
+6 Statement of purpose of bill as introduced: This bill proposes to require any
+7 corporation regulated by the Public Utility Commission that contracts to
+8 construct an energy facility to receive a line-item budget from the contractor
+9 and attestation from the contractor that union labor was used on the
+10 construction of the facility and the prevailing wage was paid.
+11 An act relating to labor requirements for certain energy projects
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 Sec. 1. 30 V.S.A. § 205a is added to read:
+14 § 205a. REQUIREMENTS FOR CERTAIN ENERGY FACILITIES
+15 (a) For any energy generation facility it constructs after January 1, 2025, a
+16 corporation subject to supervision under this chapter shall submit to the
+17 Commission within 60 days after construction is completed:
+18 (1) a certified copy of any contract for the energy generation facility
+19 with a line-item budget; and
+VT LEG #380945 v.2
+
+BILL AS INTRODUCED H.327
+2025 Page 2 of 2
+1 (2) an attestation that each contract awarded for any energy generation
+2 facility with a construction cost exceeding $100,000.00:
+3 (A) was constructed using unionized labor paid not less than the
+4 prevailing wage published periodically by the Vermont Department of Labor
+5 in its occupational employment and wage survey plus an additional fringe
+6 benefit of 42.5 percent of wage, as calculated by the current Vermont
+7 prevailing wage survey; or
+8 (B) if unionized labor was not available, was constructed by
+9 employees paid not less than the mean prevailing wage published periodically
+10 by the Vermont Department of Labor in its occupational employment and
+11 wage survey plus an additional fringe benefit of 42.5 percent of wage, as
+12 calculated by the current Vermont prevailing wage survey.
+13 (b) As used in this section, “fringe benefits” means benefits, including paid
+14 vacations and holidays, sick leave, employer contributions and reimbursements
+15 to health insurance and retirement benefits, and similar benefits that are
+16 incidents of employment.
+17 (c) The Commission shall make the documents required under this section
+18 available for public review, with any personally identifiable information
+19 redacted.
+20 Sec. 2. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #380945 v.2
+
+[DELETED:  H P H I R R D S S c c a c A I S § ( c C ( w]
+[DELETED:  H P ( f ( p i b p ( e b w c ( v t i ( a r S T]

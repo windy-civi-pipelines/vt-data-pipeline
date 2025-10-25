@@ -1,0 +1,184 @@
+Title: BILL AS INTRODUCED H.65
+Official Title: BILL AS INTRODUCED H.65
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.65
+2 Introduced by Representatives Higley of Lowell, Burtt of Cabot, Casey of
+3 Hubbardton, Coffin of Cavendish, Demar of Enosburgh,
+4 Dickinson of St. Albans Town, Dobrovich of Williamstown,
+5 Donahue of Northfield, Feltus of Lyndon, Galfetti of Barre
+6 Town, Goslant of Northfield, Howland of Rutland Town,
+7 Keyser of Rutland City, Labor of Morgan, Luneau of St. Albans
+8 City, McFaun of Barre Town, Morgan, L. of Milton, Morgan,
+9 M. of Milton, Morrissey of Bennington, Nelson of Derby,
+10 Nielsen of Brandon, Oliver of Sheldon, Page of Newport City,
+11 Parsons of Newbury, Powers of Waterford, Quimby of Lyndon,
+12 Southworth of Walden, Tagliavia of Corinth, Taylor of Milton,
+13 and Toof of St. Albans Town
+14 Referred to Committee on
+15 Date:
+16 Subject: Conservation and development; air pollution; motor vehicles;
+17 emissions
+18 Statement of purpose of bill as introduced: This bill proposes to prohibit
+19 Vermont from using California’s Clean Air Act waiver to set motor vehicle
+20 emission standards.
+VT LEG #379036 v.1
+BILL AS INTRODUCED H.65
+2025 Page 2 of 4
+1 An act relating to revoking Vermont’s use of California’s Clean Air Act
+2 waiver
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 10 V.S.A. § 567 is amended to read:
+5 § 567. MOTOR VEHICLE POLLUTION
+6 (a) The Secretary, in conjunction with the Department of Motor Vehicles,
+7 may provide rules for the control of emissions from motor vehicles. However,
+8 the Secretary shall not adopt the California rules for new motor vehicles
+9 authorized in the Clean Air Act, 42 U.S.C. § 7507. Such The rules may
+10 prescribe requirements for the installation and use of equipment designed to
+11 reduce or eliminate emissions and for the proper maintenance of the equipment
+12 and the vehicles. Rules pursuant to this section shall be consistent with
+13 provisions of federal law, if any, relating to control of emissions from the
+14 vehicles concerned and shall not require, as a condition precedent to the initial
+15 sale of a vehicle or vehicular equipment, the inspection, certification, or other
+16 approval of any feature or equipment designed for the control of emissions
+17 from motor vehicles, if the feature or equipment has been certified, approved,
+18 or otherwise authorized pursuant to federal law.
+19 * * *
+VT LEG #379036 v.1
+BILL AS INTRODUCED H.65
+2025 Page 3 of 4
+1 Sec. 2. 10 V.S.A. § 558 is amended to read:
+2 § 558. EMISSION CONTROL REQUIREMENTS
+3 The Secretary may establish such emission control requirements, by rule, as
+4 in his or her the Secretary’s judgment may be necessary to prevent, abate, or
+5 control air pollution. The requirements may be for the State as a whole or may
+6 vary from area to area, as may be appropriate to facilitate accomplishment of
+7 the purposes of this chapter, and in order to take necessary or desirable account
+8 of varying local conditions. However, the Secretary shall not adopt the
+9 California rules for new motor vehicles authorized in the Clean Air Act,
+10 42 U.S.C. § 7507.
+11 Sec. 3. 10 V.S.A. § 592 is amended to read:
+12 § 592. THE VERMONT CLIMATE ACTION PLAN
+13 * * *
+14 (e) The Plan shall form the basis for the rules adopted by the Secretary of
+15 Natural Resources pursuant to section 593 of this chapter. If the Council fails
+16 to adopt the Plan or update the Plan as required by this chapter, the Secretary
+17 shall proceed with adopting and implementing rules pursuant to subsection
+18 593(j) of this chapter to achieve the greenhouse gas emissions reductions
+19 requirements pursuant to section 578 of this title. However, in neither instance
+20 shall the Secretary adopt the California rules for new motor vehicles authorized
+21 in the Clean Air Act, 42 U.S.C. § 7507.
+VT LEG #379036 v.1
+BILL AS INTRODUCED H.65
+2025 Page 4 of 4
+1 Sec. 4. RULE REPEAL
+2 The Vermont Low Emission Vehicle and Zero Emission Vehicle Rules,
+3 Department of Environmental Conservation, Chapter 40: Vermont Low
+4 Emission Vehicle and Zero Emission Vehicle Rules (CVR 12-30-40) are
+5 repealed.
+6 Sec. 5. EFFECTIVE DATE
+7 This act shall take effect on July 1, 2025.
+VT LEG #379036 v.1
+[DELETED:  H P H I R H D D T K C M N P S a R D S e S V e]
+[DELETED:  H P A w I S § ( m t a p r a p v s a f o *]
+[DELETED:  H P S § T i c v t o C 4 S § * ( N t s 5 r s i]
+[DELETED:  H P S T D E r S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.65
+2025 Page 1 of 4
+1 H.65
+2 Introduced by Representatives Higley of Lowell, Burtt of Cabot, Casey of
+3 Hubbardton, Coffin of Cavendish, Demar of Enosburgh,
+4 Dickinson of St. Albans Town, Dobrovich of Williamstown,
+5 Donahue of Northfield, Feltus of Lyndon, Galfetti of Barre
+6 Town, Goslant of Northfield, Howland of Rutland Town,
+7 Keyser of Rutland City, Labor of Morgan, Luneau of St. Albans
+8 City, McFaun of Barre Town, Morgan, L. of Milton, Morgan,
+9 M. of Milton, Morrissey of Bennington, Nelson of Derby,
+10 Nielsen of Brandon, Oliver of Sheldon, Page of Newport City,
+11 Parsons of Newbury, Powers of Waterford, Quimby of Lyndon,
+12 Southworth of Walden, Tagliavia of Corinth, Taylor of Milton,
+13 and Toof of St. Albans Town
+14 Referred to Committee on
+15 Date:
+16 Subject: Conservation and development; air pollution; motor vehicles;
+17 emissions
+18 Statement of purpose of bill as introduced: This bill proposes to prohibit
+19 Vermont from using California’s Clean Air Act waiver to set motor vehicle
+20 emission standards.
+VT LEG #379036 v.1
+
+BILL AS INTRODUCED H.65
+2025 Page 2 of 4
+1 An act relating to revoking Vermont’s use of California’s Clean Air Act
+2 waiver
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. 10 V.S.A. § 567 is amended to read:
+5 § 567. MOTOR VEHICLE POLLUTION
+6 (a) The Secretary, in conjunction with the Department of Motor Vehicles,
+7 may provide rules for the control of emissions from motor vehicles. However,
+8 the Secretary shall not adopt the California rules for new motor vehicles
+9 authorized in the Clean Air Act, 42 U.S.C. § 7507. Such The rules may
+10 prescribe requirements for the installation and use of equipment designed to
+11 reduce or eliminate emissions and for the proper maintenance of the equipment
+12 and the vehicles. Rules pursuant to this section shall be consistent with
+13 provisions of federal law, if any, relating to control of emissions from the
+14 vehicles concerned and shall not require, as a condition precedent to the initial
+15 sale of a vehicle or vehicular equipment, the inspection, certification, or other
+16 approval of any feature or equipment designed for the control of emissions
+17 from motor vehicles, if the feature or equipment has been certified, approved,
+18 or otherwise authorized pursuant to federal law.
+19 * * *
+VT LEG #379036 v.1
+
+BILL AS INTRODUCED H.65
+2025 Page 3 of 4
+1 Sec. 2. 10 V.S.A. § 558 is amended to read:
+2 § 558. EMISSION CONTROL REQUIREMENTS
+3 The Secretary may establish such emission control requirements, by rule, as
+4 in his or her the Secretary’s judgment may be necessary to prevent, abate, or
+5 control air pollution. The requirements may be for the State as a whole or may
+6 vary from area to area, as may be appropriate to facilitate accomplishment of
+7 the purposes of this chapter, and in order to take necessary or desirable account
+8 of varying local conditions. However, the Secretary shall not adopt the
+9 California rules for new motor vehicles authorized in the Clean Air Act,
+10 42 U.S.C. § 7507.
+11 Sec. 3. 10 V.S.A. § 592 is amended to read:
+12 § 592. THE VERMONT CLIMATE ACTION PLAN
+13 * * *
+14 (e) The Plan shall form the basis for the rules adopted by the Secretary of
+15 Natural Resources pursuant to section 593 of this chapter. If the Council fails
+16 to adopt the Plan or update the Plan as required by this chapter, the Secretary
+17 shall proceed with adopting and implementing rules pursuant to subsection
+18 593(j) of this chapter to achieve the greenhouse gas emissions reductions
+19 requirements pursuant to section 578 of this title. However, in neither instance
+20 shall the Secretary adopt the California rules for new motor vehicles authorized
+21 in the Clean Air Act, 42 U.S.C. § 7507.
+VT LEG #379036 v.1
+
+BILL AS INTRODUCED H.65
+2025 Page 4 of 4
+1 Sec. 4. RULE REPEAL
+2 The Vermont Low Emission Vehicle and Zero Emission Vehicle Rules,
+3 Department of Environmental Conservation, Chapter 40: Vermont Low
+4 Emission Vehicle and Zero Emission Vehicle Rules (CVR 12-30-40) are
+5 repealed.
+6 Sec. 5. EFFECTIVE DATE
+7 This act shall take effect on July 1, 2025.
+VT LEG #379036 v.1
+
+[DELETED:  H P H I R H D D T K C M N P S a R D S e S V e]
+[DELETED:  H P A w I S § ( m t a p r a p v s a f o *]
+[DELETED:  H P S § T i c v t o C 4 S § * ( N t s 5 r s i]
+[DELETED:  H P S T D E r S T]

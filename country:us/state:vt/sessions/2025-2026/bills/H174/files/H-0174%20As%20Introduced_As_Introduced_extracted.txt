@@ -1,0 +1,537 @@
+Title: BILL AS INTRODUCED H.174
+Official Title: BILL AS INTRODUCED H.174
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 11
+1 H.174
+2 Introduced by Representatives Casey of Montpelier and Headrick of
+3 Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Executive; State Employees Labor Relations Act; Labor Relations
+7 Board; grievances, unfair labor practices
+8 Statement of purpose of bill as introduced: This bill proposes to remove
+9 grievances from the Labor Relations Board workload and to require that the
+10 final step in the grievance process be binding arbitration. This bill also
+11 proposes to set deadlines for the handling of unfair labor practices before the
+12 Labor Relations Board.
+13 An act relating to the Vermont Labor Relations Board
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 * * * Binding Arbitration * * *
+16 Sec. 1. 3 V.S.A. § 904 is amended to read:
+17 § 904. SUBJECTS FOR BARGAINING
+18 (a) All matters relating to the relationship between the employer and
+19 employees shall be the subject of collective bargaining except those matters
+20 that are prescribed or controlled by statute. The matters appropriate for
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 2 of 11
+1 collective bargaining to the extent they are not prescribed or controlled by
+2 statute include:
+3 (1) wages, salaries, benefits, and reimbursement practices relating to
+4 necessary expenses and the limits of reimbursable expenses;
+5 (2) minimum hours per week;
+6 (3) working conditions;
+7 (4) overtime compensation and related matters;
+8 (5) leave compensation and related matters;
+9 (6) reduction-in-force procedures;
+10 (7) grievance procedures, including whether an appeal to the Vermont
+11 Labor Relations Board or binding arbitration, or both, will constitute the final
+12 step in a grievance procedure;
+13 * * *
+14 Sec. 2. 3 V.S.A. § 926 is amended to read:
+15 § 926. GRIEVANCES
+16 (a) The Board shall hear and make a final determination on the grievances
+17 of all employees who are eligible to appeal grievances to the Board. Grievance
+18 hearings at the Board level shall be conducted in accordance with the rules and
+19 regulations adopted by the Board. The right to institute grievance proceedings
+20 extends to individual employees, groups of employees, and collective
+21 bargaining units.
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 3 of 11
+1 (b) A collective bargaining agreement may provide for binding Binding
+2 arbitration as a shall be the final step of a grievance procedure, rather than a
+3 hearing by the Board. An agreement that includes a binding arbitration
+4 provision Collective bargaining agreements shall also include the procedure
+5 for selecting an arbitrator.
+6 (c) If a collective Collective bargaining agreement provides for binding
+7 arbitration as a final step of a grievance procedure, the agreement agreements
+8 may also establish:
+9 (1) procedural rules for conducting grievance arbitration proceedings;
+10 (2) whether grievance arbitration proceedings will be confidential; and
+11 (3) whether arbitrated grievance determinations will have precedential
+12 value.
+13 (d) An arbitrator chosen or appointed under this section shall have no
+14 authority to add to, subtract from, or modify the collective bargaining
+15 agreement.
+16 (e) Any collective Collective bargaining agreement that contains a binding
+17 arbitration provision pursuant to this section agreements shall include an
+18 acknowledgement of arbitration that provides substantially the following:
+19 ACKNOWLEDGEMENT OF ARBITRATION
+20 (The parties) understand that this agreement contains a provision for binding
+21 arbitration as a final step of the grievance process. After the effective date of
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 4 of 11
+1 this agreement, no grievance, submitted to binding arbitration, may be brought
+2 to the Vermont Labor Relations Board. An employee who has declined
+3 representation by the employee organization or whom the employee
+4 organization has declined to represent or is unable to represent, shall be
+5 entitled, either by representing himself or herself or with the assistance of
+6 independent legal counsel, to appeal his or her grievance to the Vermont Labor
+7 Relations Board as the final step of the grievance process in accordance with
+8 the rules and regulations adopted by the Board.
+9 (f) This section shall not apply to labor interest arbitration, which as used in
+10 this chapter means the method of concluding labor negotiations by means of a
+11 disinterested person to determine the terms of a labor agreement.
+12 (g) A party may apply to the arbitrator for a modification of an award if the
+13 application is made within 30 days after delivery of a copy of the award to the
+14 applicant. An arbitrator may modify an award only if the arbitrator finds any
+15 one of the following:
+16 (1) There was an evident miscalculation of figures or an evident mistake
+17 in the description of any person, thing, or property referred to in the award.
+18 (2) The award was based on a matter not submitted to the arbitrator, and
+19 the award may be corrected without affecting the merits of the decision on the
+20 issues submitted.
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 5 of 11
+1 (3) The award was imperfect in form and the award may be corrected
+2 without affecting the merits of the controversy.
+3 (h) A party may apply to the Civil Division of the Superior Court for
+4 review of the award provided the application is made within 30 days after
+5 delivery of a copy of the award to the applicant or, in the case of a claim of
+6 corruption, fraud, or other undue means, the application is made within 30 days
+7 after those grounds are known or should have been known. The Civil Division
+8 of the Superior Court shall vacate an arbitration award based on any of the
+9 following:
+10 (1) The award was procured by corruption, fraud, or other undue means.
+11 (2) There was partiality or prejudicial misconduct by the arbitrator.
+12 (3) The arbitrator exceeded his or her the arbitrator’s power or rendered
+13 an award requiring a person to commit an act or engage in conduct prohibited
+14 by law.
+15 (i) The Board shall hear and make a final determination on the The
+16 grievances of all retired individual employees of the University of Vermont,
+17 groups of such retired individuals, and retired collective bargaining unit
+18 members of the University of Vermont shall be submitted to binding
+19 arbitration for a final determination. Grievances shall be limited to those
+20 relating to compensation and benefits that were accrued during active
+21 employment but are received after retirement. As used in this subsection,
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 6 of 11
+1 “grievance” means an allegation of a violation of a collective bargaining
+2 agreement, employee handbook provision, early retirement plan, individual
+3 separation agreement or other documented agreement, or rule or regulation of
+4 the University of Vermont.
+5 Sec. 3. 3 V.S.A. § 928 is amended to read:
+6 § 928. RULES
+7 (a) The Board, as necessary to carry out the provisions of this chapter, shall
+8 adopt and may amend and rescind rules consistent with this chapter.
+9 (b) Notwithstanding the provisions of subsection (a) of this section, rules
+10 adopted by the Board as they relate to grievance appeals shall provide:
+11 (1) If a collective bargaining agreement provides that an appeal to the
+12 Board will constitute the final step in the grievance procedure, all employees
+13 and other persons authorized by this chapter shall have the right to appeal to
+14 the Board in accordance with the rules of the Board.
+15 (2) That a reasonable notice be given to the State agency or officer, and
+16 State employee, and the representative concerned and to the Commissioner of
+17 Human Resources.
+18 (3) That all hearings of the Board shall be public and, unless both parties
+19 concerned request that it be formal, hearings shall be informal and not subject
+20 to the rules of pleadings, procedure, and evidence of the courts of the State.
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 7 of 11
+1 (4) That all parties in interest to any appeal shall be entitled to be heard
+2 on any matter at issue.
+3 (5) That in appeals from the decisions of the Department of Human
+4 Resources or any State agency or officer, the State agency and officer and the
+5 State employee shall be parties in interest, and the Commissioner of Human
+6 Resources or the collective bargaining representative on motion, may intervene
+7 as a party in interest.
+8 (6) That the parties at interest shall have the right to present witnesses,
+9 give evidence, and examine witnesses before the Board.
+10 (7)(A)(i) That the name of any grievant whom the Board exonerates of
+11 misconduct for which he or she was disciplined shall be redacted from the
+12 version of the Board’s decision that is posted on the Board’s website.
+13 (ii) Nothing in this subdivision (7)(A) shall be construed to require
+14 the Board to redact the name of the grievant from any other version of the
+15 Board’s decision or from any other documents related to the grievance.
+16 (B) Nothing in this subdivision (7) shall be construed to modify an
+17 individual’s right to privacy pursuant to any law, rule, or policy.
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 8 of 11
+1 Sec. 4. 3 V.S.A. § 941 is amended to read:
+2 § 941. UNIT DETERMINATION, CERTIFICATION, AND
+3 REPRESENTATION
+4 * * *
+5 (i) The Board, by rule, shall prescribe a uniform procedure for the
+6 resolution of employee grievances submitted through the collective bargaining
+7 machinery. If the collective bargaining agreement does not provide that
+8 binding arbitration will be the final step of the negotiated grievance procedure
+9 pursuant to section 926 of this chapter, the final step of the negotiated
+10 grievance procedure, if required, shall be a hearing and final determination by
+11 the Board. Grievance hearings conducted by the Board shall be informal and
+12 not subject to the rules of pleading procedure, and evidence of the courts of the
+13 State. Any employee or group of employees included in a duly certified
+14 bargaining unit may be represented before the Board by its bargaining
+15 representative’s counsel or designated executive staff employees or by any
+16 individual the Board may permit at its discretion. [Repealed.]
+17 * * *
+18 Sec. 5. 3 V.S.A. § 1001 is amended to read:
+19 § 1001. GRIEVANCES; APPLICANTS AND EXCLUDED PERSONNEL
+20 * * *
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 9 of 11
+1 (c) Any dispute concerning the amount of a collective bargaining service
+2 fee may be grieved as set forth in the collective bargaining agreement through
+3 either an appeal to the Vermont Labor Relations Board in accordance with the
+4 Board’s rules concerning grievances, or through binding arbitration.
+5 * * * Unfair Labor Practices * * *
+6 Sec. 6. 3 V.S.A. § 965 is amended to read:
+7 § 965. PREVENTION OF UNFAIR PRACTICES
+8 (a) The Board may prevent any person from engaging in any unfair labor
+9 practice listed in sections 961–962 of this title. Whenever a charge is made
+10 that any person has engaged in or is engaging in any unfair labor practice, the
+11 Board may issue and cause to be served upon that person a complaint stating
+12 the charges in that respect and containing a notice of hearing before the Board
+13 at a place and time therein fixed at least seven business days after the
+14 complaint is served. The Board may amend the complaint at any time before it
+15 issues an order based thereon on the complaint. No complaint shall issue
+16 based on any unfair labor practice occurring more than six months prior to the
+17 filing of the charge with the Board and the service of a copy thereof of the
+18 charge upon the person against whom such charge is made, unless the person
+19 aggrieved thereby individual filing the charge was prevented from filing the
+20 charge doing so by reason of service in the U.S. Armed Forces, in which event
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 10 of 11
+1 the six-month period shall be computed from the day of his or her the
+2 individual’s discharge.
+3 (b) The person complained of shall have the right to file an answer to the
+4 original or amended complaint and appear in person or otherwise and present
+5 evidence in connection therewith with the complaint at the time and place
+6 fixed in the complaint by the Board. In the discretion of the Board, any other
+7 person may be permitted to intervene and present evidence in the matter. Any
+8 proceeding under this section shall, so far as practicable, be conducted in
+9 accordance with Rules of Evidence used in the courts. The Board shall
+10 provide for the making of a transcript of the testimony presented at the hearing.
+11 * * *
+12 (f) No order of the Board shall require the reinstatement of any individual
+13 as an employee who has been suspended or discharged or the payment to him
+14 or her the individual of any back pay, if such the individual was suspended or
+15 discharged for cause, except through the grievance procedures.
+16 (g) The following timelines shall apply to charges brought under this
+17 section:
+18 (1) The party against whom an unfair labor practice charge is filed shall
+19 file the answer not later than 14 days after receipt of service of the complaint.
+20 (2) The Board shall hold a hearing on the unfair labor practice charge
+21 not later than 90 days after the date upon which the answer is filed, absent
+VT LEG #379953 v.1
+BILL AS INTRODUCED H.174
+2025 Page 11 of 11
+1 extenuating circumstances. If extenuating circumstances require additional
+2 time before a hearing is held, the Board shall promptly notify the parties of the
+3 reason for the extension and set a new date and time for the hearing.
+4 (3) Post-hearing briefs, if any, shall be filed not later than 14 days after
+5 the hearing.
+6 (4) The Board shall issue its decision on the unfair labor practice charge
+7 not later than 30 days after the hearing or after receipt of the parties’ post-
+8 hearing briefs, whichever is later.
+9 * * * Effective Date * * *
+10 Sec. 7. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #379953 v.1
+[DELETED:  H P H I R B R D S B S g f p L A I * S § ( e t]
+[DELETED:  H P c s ( n ( ( ( ( ( ( L s * S § ( o h r e b]
+[DELETED:  H P ( a h p f ( a m ( ( ( v ( a a ( a a A ( a]
+[DELETED:  H P t t r o e i R t ( t d ( a a o ( i ( t i]
+[DELETED:  H P ( w ( r d c a o f ( ( ( a b ( g g m a r e]
+[DELETED:  H P “ a s t S § ( a ( a ( B a t ( S H ( c t]
+[DELETED:  H P ( o ( R S R a ( g ( m v ( t B ( i]
+[DELETED:  H P S §   * ( r m b p g t n S b r i * S § *]
+[DELETED:  H P ( f e B * S § ( p t B t a c i b f c a c]
+[DELETED:  H P t i ( o e f p p a p * ( a o d ( s ( f ( n]
+[DELETED:  H P e t r ( t ( n h * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.174
+2025 Page 1 of 11
+1 H.174
+2 Introduced by Representatives Casey of Montpelier and Headrick of
+3 Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Executive; State Employees Labor Relations Act; Labor Relations
+7 Board; grievances, unfair labor practices
+8 Statement of purpose of bill as introduced: This bill proposes to remove
+9 grievances from the Labor Relations Board workload and to require that the
+10 final step in the grievance process be binding arbitration. This bill also
+11 proposes to set deadlines for the handling of unfair labor practices before the
+12 Labor Relations Board.
+13 An act relating to the Vermont Labor Relations Board
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 * * * Binding Arbitration * * *
+16 Sec. 1. 3 V.S.A. § 904 is amended to read:
+17 § 904. SUBJECTS FOR BARGAINING
+18 (a) All matters relating to the relationship between the employer and
+19 employees shall be the subject of collective bargaining except those matters
+20 that are prescribed or controlled by statute. The matters appropriate for
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 2 of 11
+1 collective bargaining to the extent they are not prescribed or controlled by
+2 statute include:
+3 (1) wages, salaries, benefits, and reimbursement practices relating to
+4 necessary expenses and the limits of reimbursable expenses;
+5 (2) minimum hours per week;
+6 (3) working conditions;
+7 (4) overtime compensation and related matters;
+8 (5) leave compensation and related matters;
+9 (6) reduction-in-force procedures;
+10 (7) grievance procedures, including whether an appeal to the Vermont
+11 Labor Relations Board or binding arbitration, or both, will constitute the final
+12 step in a grievance procedure;
+13 * * *
+14 Sec. 2. 3 V.S.A. § 926 is amended to read:
+15 § 926. GRIEVANCES
+16 (a) The Board shall hear and make a final determination on the grievances
+17 of all employees who are eligible to appeal grievances to the Board. Grievance
+18 hearings at the Board level shall be conducted in accordance with the rules and
+19 regulations adopted by the Board. The right to institute grievance proceedings
+20 extends to individual employees, groups of employees, and collective
+21 bargaining units.
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 3 of 11
+1 (b) A collective bargaining agreement may provide for binding Binding
+2 arbitration as a shall be the final step of a grievance procedure, rather than a
+3 hearing by the Board. An agreement that includes a binding arbitration
+4 provision Collective bargaining agreements shall also include the procedure
+5 for selecting an arbitrator.
+6 (c) If a collective Collective bargaining agreement provides for binding
+7 arbitration as a final step of a grievance procedure, the agreement agreements
+8 may also establish:
+9 (1) procedural rules for conducting grievance arbitration proceedings;
+10 (2) whether grievance arbitration proceedings will be confidential; and
+11 (3) whether arbitrated grievance determinations will have precedential
+12 value.
+13 (d) An arbitrator chosen or appointed under this section shall have no
+14 authority to add to, subtract from, or modify the collective bargaining
+15 agreement.
+16 (e) Any collective Collective bargaining agreement that contains a binding
+17 arbitration provision pursuant to this section agreements shall include an
+18 acknowledgement of arbitration that provides substantially the following:
+19 ACKNOWLEDGEMENT OF ARBITRATION
+20 (The parties) understand that this agreement contains a provision for binding
+21 arbitration as a final step of the grievance process. After the effective date of
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 4 of 11
+1 this agreement, no grievance, submitted to binding arbitration, may be brought
+2 to the Vermont Labor Relations Board. An employee who has declined
+3 representation by the employee organization or whom the employee
+4 organization has declined to represent or is unable to represent, shall be
+5 entitled, either by representing himself or herself or with the assistance of
+6 independent legal counsel, to appeal his or her grievance to the Vermont Labor
+7 Relations Board as the final step of the grievance process in accordance with
+8 the rules and regulations adopted by the Board.
+9 (f) This section shall not apply to labor interest arbitration, which as used in
+10 this chapter means the method of concluding labor negotiations by means of a
+11 disinterested person to determine the terms of a labor agreement.
+12 (g) A party may apply to the arbitrator for a modification of an award if the
+13 application is made within 30 days after delivery of a copy of the award to the
+14 applicant. An arbitrator may modify an award only if the arbitrator finds any
+15 one of the following:
+16 (1) There was an evident miscalculation of figures or an evident mistake
+17 in the description of any person, thing, or property referred to in the award.
+18 (2) The award was based on a matter not submitted to the arbitrator, and
+19 the award may be corrected without affecting the merits of the decision on the
+20 issues submitted.
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 5 of 11
+1 (3) The award was imperfect in form and the award may be corrected
+2 without affecting the merits of the controversy.
+3 (h) A party may apply to the Civil Division of the Superior Court for
+4 review of the award provided the application is made within 30 days after
+5 delivery of a copy of the award to the applicant or, in the case of a claim of
+6 corruption, fraud, or other undue means, the application is made within 30 days
+7 after those grounds are known or should have been known. The Civil Division
+8 of the Superior Court shall vacate an arbitration award based on any of the
+9 following:
+10 (1) The award was procured by corruption, fraud, or other undue means.
+11 (2) There was partiality or prejudicial misconduct by the arbitrator.
+12 (3) The arbitrator exceeded his or her the arbitrator’s power or rendered
+13 an award requiring a person to commit an act or engage in conduct prohibited
+14 by law.
+15 (i) The Board shall hear and make a final determination on the The
+16 grievances of all retired individual employees of the University of Vermont,
+17 groups of such retired individuals, and retired collective bargaining unit
+18 members of the University of Vermont shall be submitted to binding
+19 arbitration for a final determination. Grievances shall be limited to those
+20 relating to compensation and benefits that were accrued during active
+21 employment but are received after retirement. As used in this subsection,
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 6 of 11
+1 “grievance” means an allegation of a violation of a collective bargaining
+2 agreement, employee handbook provision, early retirement plan, individual
+3 separation agreement or other documented agreement, or rule or regulation of
+4 the University of Vermont.
+5 Sec. 3. 3 V.S.A. § 928 is amended to read:
+6 § 928. RULES
+7 (a) The Board, as necessary to carry out the provisions of this chapter, shall
+8 adopt and may amend and rescind rules consistent with this chapter.
+9 (b) Notwithstanding the provisions of subsection (a) of this section, rules
+10 adopted by the Board as they relate to grievance appeals shall provide:
+11 (1) If a collective bargaining agreement provides that an appeal to the
+12 Board will constitute the final step in the grievance procedure, all employees
+13 and other persons authorized by this chapter shall have the right to appeal to
+14 the Board in accordance with the rules of the Board.
+15 (2) That a reasonable notice be given to the State agency or officer, and
+16 State employee, and the representative concerned and to the Commissioner of
+17 Human Resources.
+18 (3) That all hearings of the Board shall be public and, unless both parties
+19 concerned request that it be formal, hearings shall be informal and not subject
+20 to the rules of pleadings, procedure, and evidence of the courts of the State.
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 7 of 11
+1 (4) That all parties in interest to any appeal shall be entitled to be heard
+2 on any matter at issue.
+3 (5) That in appeals from the decisions of the Department of Human
+4 Resources or any State agency or officer, the State agency and officer and the
+5 State employee shall be parties in interest, and the Commissioner of Human
+6 Resources or the collective bargaining representative on motion, may intervene
+7 as a party in interest.
+8 (6) That the parties at interest shall have the right to present witnesses,
+9 give evidence, and examine witnesses before the Board.
+10 (7)(A)(i) That the name of any grievant whom the Board exonerates of
+11 misconduct for which he or she was disciplined shall be redacted from the
+12 version of the Board’s decision that is posted on the Board’s website.
+13 (ii) Nothing in this subdivision (7)(A) shall be construed to require
+14 the Board to redact the name of the grievant from any other version of the
+15 Board’s decision or from any other documents related to the grievance.
+16 (B) Nothing in this subdivision (7) shall be construed to modify an
+17 individual’s right to privacy pursuant to any law, rule, or policy.
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 8 of 11
+1 Sec. 4. 3 V.S.A. § 941 is amended to read:
+2 § 941. UNIT DETERMINATION, CERTIFICATION, AND
+3 REPRESENTATION
+4 * * *
+5 (i) The Board, by rule, shall prescribe a uniform procedure for the
+6 resolution of employee grievances submitted through the collective bargaining
+7 machinery. If the collective bargaining agreement does not provide that
+8 binding arbitration will be the final step of the negotiated grievance procedure
+9 pursuant to section 926 of this chapter, the final step of the negotiated
+10 grievance procedure, if required, shall be a hearing and final determination by
+11 the Board. Grievance hearings conducted by the Board shall be informal and
+12 not subject to the rules of pleading procedure, and evidence of the courts of the
+13 State. Any employee or group of employees included in a duly certified
+14 bargaining unit may be represented before the Board by its bargaining
+15 representative’s counsel or designated executive staff employees or by any
+16 individual the Board may permit at its discretion. [Repealed.]
+17 * * *
+18 Sec. 5. 3 V.S.A. § 1001 is amended to read:
+19 § 1001. GRIEVANCES; APPLICANTS AND EXCLUDED PERSONNEL
+20 * * *
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 9 of 11
+1 (c) Any dispute concerning the amount of a collective bargaining service
+2 fee may be grieved as set forth in the collective bargaining agreement through
+3 either an appeal to the Vermont Labor Relations Board in accordance with the
+4 Board’s rules concerning grievances, or through binding arbitration.
+5 * * * Unfair Labor Practices * * *
+6 Sec. 6. 3 V.S.A. § 965 is amended to read:
+7 § 965. PREVENTION OF UNFAIR PRACTICES
+8 (a) The Board may prevent any person from engaging in any unfair labor
+9 practice listed in sections 961–962 of this title. Whenever a charge is made
+10 that any person has engaged in or is engaging in any unfair labor practice, the
+11 Board may issue and cause to be served upon that person a complaint stating
+12 the charges in that respect and containing a notice of hearing before the Board
+13 at a place and time therein fixed at least seven business days after the
+14 complaint is served. The Board may amend the complaint at any time before it
+15 issues an order based thereon on the complaint. No complaint shall issue
+16 based on any unfair labor practice occurring more than six months prior to the
+17 filing of the charge with the Board and the service of a copy thereof of the
+18 charge upon the person against whom such charge is made, unless the person
+19 aggrieved thereby individual filing the charge was prevented from filing the
+20 charge doing so by reason of service in the U.S. Armed Forces, in which event
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 10 of 11
+1 the six-month period shall be computed from the day of his or her the
+2 individual’s discharge.
+3 (b) The person complained of shall have the right to file an answer to the
+4 original or amended complaint and appear in person or otherwise and present
+5 evidence in connection therewith with the complaint at the time and place
+6 fixed in the complaint by the Board. In the discretion of the Board, any other
+7 person may be permitted to intervene and present evidence in the matter. Any
+8 proceeding under this section shall, so far as practicable, be conducted in
+9 accordance with Rules of Evidence used in the courts. The Board shall
+10 provide for the making of a transcript of the testimony presented at the hearing.
+11 * * *
+12 (f) No order of the Board shall require the reinstatement of any individual
+13 as an employee who has been suspended or discharged or the payment to him
+14 or her the individual of any back pay, if such the individual was suspended or
+15 discharged for cause, except through the grievance procedures.
+16 (g) The following timelines shall apply to charges brought under this
+17 section:
+18 (1) The party against whom an unfair labor practice charge is filed shall
+19 file the answer not later than 14 days after receipt of service of the complaint.
+20 (2) The Board shall hold a hearing on the unfair labor practice charge
+21 not later than 90 days after the date upon which the answer is filed, absent
+VT LEG #379953 v.1
+
+BILL AS INTRODUCED H.174
+2025 Page 11 of 11
+1 extenuating circumstances. If extenuating circumstances require additional
+2 time before a hearing is held, the Board shall promptly notify the parties of the
+3 reason for the extension and set a new date and time for the hearing.
+4 (3) Post-hearing briefs, if any, shall be filed not later than 14 days after
+5 the hearing.
+6 (4) The Board shall issue its decision on the unfair labor practice charge
+7 not later than 30 days after the hearing or after receipt of the parties’ post-
+8 hearing briefs, whichever is later.
+9 * * * Effective Date * * *
+10 Sec. 7. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #379953 v.1
+
+[DELETED:  H P H I R B R D S B S g f p L A I * S § ( e t]
+[DELETED:  H P c s ( n ( ( ( ( ( ( L s * S § ( o h r e b]
+[DELETED:  H P ( a h p f ( a m ( ( ( v ( a a ( a a A ( a]
+[DELETED:  H P t t r o e i R t ( t d ( a a o ( i ( t i]
+[DELETED:  H P ( w ( r d c a o f ( ( ( a b ( g g m a r e]
+[DELETED:  H P “ a s t S § ( a ( a ( B a t ( S H ( c t]
+[DELETED:  H P ( o ( R S R a ( g ( m v ( t B ( i]
+[DELETED:  H P S §   * ( r m b p g t n S b r i * S § *]
+[DELETED:  H P ( f e B * S § ( p t B t a c i b f c a c]
+[DELETED:  H P t i ( o e f p p a p * ( a o d ( s ( f ( n]
+[DELETED:  H P e t r ( t ( n h * S T]

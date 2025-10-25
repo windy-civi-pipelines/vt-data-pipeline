@@ -1,0 +1,610 @@
+Title: BILL AS INTRODUCED H.436
+Official Title: BILL AS INTRODUCED H.436
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 12
+1 H.436
+2 Introduced by Representative Headrick of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Corrections; release prior to trial; supervision of adult inmates and
+6 offenders; classification of inmates and offenders; release after
+7 incarceration; reentry facility
+8 Statement of purpose of bill as introduced: This bill proposes to create a
+9 statutory framework for the Department of Corrections to establish and use
+10 reentry facilities designed to house persons with low-level risk and needs
+11 assessments upon release from incarceration. The bill proposes that the
+12 Department of Corrections assess and place appropriate persons in a reentry
+13 facility to provide the least restrictive security level necessary to protect the
+14 public while providing any transitional services needed by the person. The bill
+15 also proposes that reentry facility placement be condition of release available
+16 to the courts. The bill also proposes that the Department of Corrections submit
+17 annual reports on the use of reentry facilities and a plan to develop any reentry
+18 facilities.
+19 An act relating to establishing reentry facilities for persons under the
+20 custody of the Commissioner of Corrections
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 2 of 12
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. FINDINGS AND PURPOSE
+3 (a) Findings. The General Assembly finds that:
+4 (1) Housing insecurity disproportionately impacts women in the
+5 criminal justice system, resulting in inequitable detention outcomes.
+6 (2) Women nearing the end of their criminal sentences or detained
+7 pretrial lack consistent access to appropriate low-security settings, impeding
+8 successful reentry and exacerbating equity concerns.
+9 (3) Current practices, such as reward-based housing classifications,
+10 create barriers to equitable access to low-security or reentry-focused facilities.
+11 (4) The Chittenden Regional Correctional Facility was not designed to
+12 meet the diverse security and reentry needs of incarcerated women.
+13 (b) Purpose. The purpose of this act is to:
+14 (1) ensure all incarcerated women are housed at the least restrictive
+15 security level appropriate to their risk and needs;
+16 (2) establish a statutory framework for reentry-specific facilities that
+17 prioritize rehabilitation, equity, and community reintegration;
+18 (3) address inequities in pretrial detention related to housing insecurity;
+19 and
+20 (4) minimize barriers to reentry by reforming incarceration classification
+21 and housing policies.
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 3 of 12
+1 Sec. 2. 28 V.S.A. § 3 is amended to read:
+2 § 3. GENERAL DEFINITIONS
+3 As used in this title:
+4 * * *
+5 (3) “Correctional facility” or “facility” means any building, enclosure,
+6 space, or structure of or supported by the Department and used for the
+7 confinement of persons committed to the custody of the Commissioner, or for
+8 any other matter related to such confinement, except a reentry facility.
+9 * * *
+10 (13) “Least restrictive security level” means placing persons in the
+11 custody of the Commissioner at a facility based on a validated risk assessment
+12 that prioritizes public safety and individual needs while minimizing
+13 unnecessary security restrictions.
+14 (14) “Reentry facility” has the same meaning as described in section 602
+15 of this title.
+16 Sec. 3. 28 V.S.A. § 602 is added to read:
+17 § 602. REENTRY FACILITIES
+18 (a) Creation and design.
+19 (1) The Department shall establish a reentry facility at any appropriate
+20 location in the State to provide the least restrictive security level for persons
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 4 of 12
+1 transitioning back into the community following release from a correctional
+2 facility.
+3 (2) Reentry facilities shall be designed to:
+4 (A) serve offenders within five years after release from a correctional
+5 facility;
+6 (B) be accessible to inmates awaiting trial who do not pose a
+7 significant risk of flight or public safety concerns in accordance with 13 V.S.A.
+8 § 7554; and
+9 (C) provide inmate and offender transitional services, including
+10 family support, housing assistance, mental health care, career and vocational
+11 training, and other necessities of life in accordance with 33 V.S.A. chapter 21.
+12 (b) Assessment and placement. The placement of persons at a reentry
+13 facility shall be based upon an evidence-based risk and needs assessment of
+14 eligible persons under the custody of the Commissioner.
+15 (1) Inmates committed to the custody of the Commissioner shall be
+16 assessed for placement in a reentry facility pursuant to section 701b of this
+17 title.
+18 (2) Inmates placed in a correctional facility shall be reassessed every 90
+19 days for placement in a reentry facility.
+20 (3) Within 90 days before release from a correctional facility, the
+21 Department shall assess any offender for placement in a reentry facility.
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 5 of 12
+1 (c) Victim notification. The Department shall develop procedures to
+2 ensure any alleged or known victims are informed when a person is placed in a
+3 reentry facility. Notification procedures shall be established in collaboration
+4 with the Department’s victim services unit, the Department of State’s
+5 Attorneys and Sheriffs victim advocates, and any operator of the State’s victim
+6 notification system.
+7 (d) Report. Annually, on or before July 1, the Department shall submit a
+8 written report to the House Committee on Corrections and Institutions and the
+9 Senate Committees on Institutions and on Judiciary detailing the following:
+10 (1) security level assignments for persons under the custody of the
+11 Commissioner, including all available demographic data;
+12 (2) the numbers of inmates and offenders placed in any reentry facility
+13 established pursuant to this section; and
+14 (3) the transitional services provided to inmates and offenders pursuant
+15 to subdivision (a)(2)(C) of this section.
+16 Sec. 4. 28 V.S.A. § 701b is amended to read:
+17 § 701b. CLASSIFICATION OF PERSONS OR DEFENDANTS
+18 (a) When a defendant or person in a civil or criminal action is sentenced to
+19 the custody of the Commissioner or committed to the Commissioner’s custody
+20 pending a prosecution on a misdemeanor criminal charge or for sentencing, the
+21 Commissioner or the Commissioner’s designee shall within five days of
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 6 of 12
+1 sentencing or commitment, excluding weekends and holidays, classify the
+2 person to determine whether he or she the person shall be incarcerated, held at
+3 a community work camp, placed in a reentry facility, or furloughed. Failure to
+4 classify within the five-day period shall not create a private right of action
+5 against the State, its political subdivisions, or its employees.
+6 (b) Notwithstanding 13 V.S.A. § 7554, the Commissioner may place on
+7 furlough under provisions of section 808 of this title or in a reentry facility
+8 pursuant to section 602 of this title, a misdemeanor defendant when the
+9 Commissioner, based upon a completed classification, has determined that the
+10 defendant is likely to appear in court as directed. If the Commissioner places
+11 such a defendant on furlough or in a reentry facility, the Commissioner shall
+12 impose not only the conditions of release initially ordered by the judicial
+13 officer, but also such additional terms or conditions deemed necessary to
+14 ensure that the defendant will appear in court. The Commissioner shall
+15 supervise compliance with all such conditions imposed.
+16 Sec. 5. 28 V.S.A. § 808 is amended to read:
+17 § 808. TEMPORARY FURLOUGHS GRANTED TO OFFENDERS
+18 (a) The Department may extend the limits of the place of confinement of an
+19 offender at any correctional facility or reentry facility if the offender agrees to
+20 comply with such conditions of supervision the Department, in its sole
+21 discretion, deems appropriate for that offender’s furlough. The Department
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 7 of 12
+1 may authorize a temporary furlough for a defined period for any of the
+2 following reasons:
+3 (1) to visit a critically ill relative;
+4 (2) to attend the funeral of a relative;
+5 (3) to obtain medical services;
+6 (4) to contact prospective employers; or
+7 (5) to secure a suitable residence for use upon discharge.
+8 (b) An offender granted a temporary furlough pursuant to this section may
+9 be accompanied by an employee of the Department, in the discretion of the
+10 Commissioner, during the period of the offender’s furlough. The Department
+11 may use electronic monitoring equipment such as global position monitoring,
+12 automated voice recognition telephone equipment, and transdermal alcohol
+13 monitoring equipment to enable more effective or efficient supervision of
+14 individuals placed on furlough.
+15 (c) The extension of the limits of the place of confinement authorized by
+16 this section shall in no way be interpreted as a probation or parole of the
+17 offender, but shall constitute solely a permitted extension of the limits of the
+18 place of confinement for offenders committed to the custody of the
+19 Commissioner.
+20 (d) When any enforcement officer, as defined in 23 V.S.A. § 4; employee
+21 of the Department; or correctional officer responsible for supervising an
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 8 of 12
+1 offender believes the offender is in violation of any verbal or written condition
+2 of the temporary furlough, the officer or employee may immediately lodge the
+3 offender at a correctional or reentry facility or orally or in writing deputize any
+4 law enforcement officer or agency to arrest and lodge the offender at such a
+5 correctional or reentry facility. The officer or employee shall subsequently
+6 document the reason for taking such action.
+7 (e) The Commissioner may place on medical furlough any offender who is
+8 serving a sentence, including an offender who has not yet served the minimum
+9 term of the sentence, who is diagnosed with a terminal or serious medical
+10 condition so as to render the offender unlikely to be physically capable of
+11 presenting a danger to society. The Commissioner shall develop a policy
+12 regarding the application for, standards for eligibility of, and supervision of
+13 persons on medical furlough. The offender may be released to a reentry
+14 facility, hospital, hospice, other licensed inpatient facility, or other housing
+15 accommodation deemed suitable by the Commissioner. As used in this
+16 subsection, a “serious medical condition” does not mean a condition caused by
+17 noncompliance with a medical treatment plan.
+18 (f) [Repealed.]
+19 (g) Subsection (b) of this section shall also apply to sections section 808a
+20 and 808c of this title.
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 9 of 12
+1 Sec. 6. 28 V.S.A. § 808a is amended to read:
+2 § 808a. TREATMENT FURLOUGH
+3 (a) An offender may be sentenced to serve a term of imprisonment, but
+4 placed by a court on treatment furlough to participate in such programs
+5 administered by the Department at a reentry facility or in the community that
+6 reduce the offender’s risk to reoffend or that provide reparation to the
+7 community in the form of supervised work activities.
+8 (b) Provided the approval of the sentencing judge, if available, otherwise a
+9 Superior Court judge, is first obtained, the Department may place on treatment
+10 furlough an offender who has not yet served the minimum term of the
+11 sentence, who, in the Department’s determination, needs residential treatment
+12 services not available in a correctional facility. The services may include
+13 treatment for substance abuse or personal violence or any other condition that
+14 the Department has determined should be addressed in order to reduce the
+15 offender’s risk to reoffend or cause harm to himself or herself themselves or to
+16 others in the facility. The offender shall be released only to a reentry facility
+17 established pursuant to section 602 of this title or a hospital or residential
+18 treatment facility that provides services to the general population. The State’s
+19 share of the cost of placement in such a facility, net of any private or federal
+20 participation, shall be paid pursuant to memoranda of agreement between and
+21 within State agencies reflective of their shared responsibilities to maximize the
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 10 of 12
+1 efficient and effective use of State resources. In the event that a memorandum
+2 of agreement cannot be reached, the Secretary of Administration shall make a
+3 final determination as to the manner in which costs will be allocated.
+4 (c) [Repealed.]
+5 Sec. 7. 13 V.S.A. § 7554 is amended to read:
+6 § 7554. RELEASE PRIOR TO TRIAL
+7 (a) Release; conditions of release. Any person charged with an offense,
+8 other than a person held without bail under section 7553 or 7553a of this title,
+9 shall at the person’s appearance before a judicial officer be ordered released
+10 pending trial in accordance with this section.
+11 (1) The defendant shall be ordered released on personal recognizance or
+12 upon the execution of an unsecured appearance bond in an amount specified by
+13 the judicial officer unless the judicial officer determines that such a release will
+14 not reasonably mitigate the risk of flight from prosecution as required. In
+15 determining whether the defendant presents a risk of flight from prosecution,
+16 the judicial officer shall consider, in addition to any other factors, the
+17 seriousness of the offense charged; the number of offenses with which the
+18 person is charged; whether, at the time of the current offense or arrest, the
+19 defendant was released on conditions or personal recognizance, on probation,
+20 furlough, parole, or other release pending trial, sentencing, appeal, or
+21 completion of a sentence for an offense under federal or state law; and
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 11 of 12
+1 whether, in connection with a criminal prosecution, the defendant is compliant
+2 with court orders or has failed to appear at a court hearing. If the judicial
+3 officer determines that the defendant presents a risk of flight from prosecution,
+4 the officer shall, either in lieu of or in addition to the methods of release in this
+5 section, impose the least restrictive of the following conditions or the least
+6 restrictive combination of the following conditions that will reasonably
+7 mitigate the risk of flight of the defendant as required:
+8 * * *
+9 (I) Place the defendant in the home detention program pursuant to
+10 section 7554b of this title.
+11 (J) Place the defendant in a reentry facility pursuant to 28 V.S.A.
+12 § 602.
+13 (2) If the judicial officer determines that conditions of release imposed
+14 to mitigate the risk of flight will not reasonably protect the public, the judicial
+15 officer may impose, in addition, the least restrictive of the following conditions
+16 or the least restrictive combination of the following conditions that will
+17 reasonably ensure protection of the public:
+18 * * *
+19 (H) Place the defendant in the home detention program pursuant to
+20 section 7554b of this title.
+VT LEG #380894 v.1
+BILL AS INTRODUCED H.436
+2025 Page 12 of 12
+1 (I) Place the defendant in a reentry facility pursuant to 28 V.S.A.
+2 § 602.
+3 * * *
+4 Sec. 8. DEPARTMENT OF CORRECTIONS; REENTRY FACILITY;
+5 DEVELOPMENT; REPORT
+6 On or before January 15, 2026, the Department of Corrections shall submit
+7 a written report to the House Committee on Corrections and Institutions and
+8 the Senate Committees on Institutions and on Judiciary detailing the following:
+9 (1) any plans to establish a reentry facility at a standalone location or at
+10 an existing correctional facility;
+11 (2) current or projected housing needs for inmates and offenders under
+12 the custody of the Commissioner; and
+13 (3) any current or prospective local, State, or federal partnerships to
+14 facilitate and enhance the Department’s current and future reentry efforts.
+15 Sec. 9. EFFECTIVE DATES
+16 This act shall take effect on July 1, 2030, except that Sec. 8 (Department of
+17 Corrections; reentry facility; development; report) shall take effect on passage.
+VT LEG #380894 v.1
+[DELETED:  H P H I R R D S o i S s r a D f p a t a f A c]
+[DELETED:  H P I S ( ( c ( p s ( c ( m ( ( s ( p ( a ( a]
+[DELETED:  H P S § A * ( s c a * ( c t u ( o S § ( ( l]
+[DELETED:  H P t f ( ( f ( s § ( f t ( f e ( a t ( d ( D]
+[DELETED:  H P ( e r w A n ( w S ( C ( e ( t S § ( t p C]
+[DELETED:  H P s p a c a ( f p C d s i o e s S § ( o c d]
+[DELETED:  H P m f ( ( ( ( ( ( b C m a m i ( t o p C ( o]
+[DELETED:  H P o o o l c d ( s t c p r p f a s n ( ( a]
+[DELETED:  H P S § ( p a r c ( S f s s t t o o e t s p w]
+[DELETED:  H P e o f ( S § ( o s p ( u t n d t s p d f c]
+[DELETED:  H P w w o t s r m * ( s ( § ( t o o r * ( s]
+[DELETED:  H P ( § * S   O a t ( a ( t ( f S T C]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.436
+2025 Page 1 of 12
+1 H.436
+2 Introduced by Representative Headrick of Burlington
+3 Referred to Committee on
+4 Date:
+5 Subject: Corrections; release prior to trial; supervision of adult inmates and
+6 offenders; classification of inmates and offenders; release after
+7 incarceration; reentry facility
+8 Statement of purpose of bill as introduced: This bill proposes to create a
+9 statutory framework for the Department of Corrections to establish and use
+10 reentry facilities designed to house persons with low-level risk and needs
+11 assessments upon release from incarceration. The bill proposes that the
+12 Department of Corrections assess and place appropriate persons in a reentry
+13 facility to provide the least restrictive security level necessary to protect the
+14 public while providing any transitional services needed by the person. The bill
+15 also proposes that reentry facility placement be condition of release available
+16 to the courts. The bill also proposes that the Department of Corrections submit
+17 annual reports on the use of reentry facilities and a plan to develop any reentry
+18 facilities.
+19 An act relating to establishing reentry facilities for persons under the
+20 custody of the Commissioner of Corrections
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 2 of 12
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 Sec. 1. FINDINGS AND PURPOSE
+3 (a) Findings. The General Assembly finds that:
+4 (1) Housing insecurity disproportionately impacts women in the
+5 criminal justice system, resulting in inequitable detention outcomes.
+6 (2) Women nearing the end of their criminal sentences or detained
+7 pretrial lack consistent access to appropriate low-security settings, impeding
+8 successful reentry and exacerbating equity concerns.
+9 (3) Current practices, such as reward-based housing classifications,
+10 create barriers to equitable access to low-security or reentry-focused facilities.
+11 (4) The Chittenden Regional Correctional Facility was not designed to
+12 meet the diverse security and reentry needs of incarcerated women.
+13 (b) Purpose. The purpose of this act is to:
+14 (1) ensure all incarcerated women are housed at the least restrictive
+15 security level appropriate to their risk and needs;
+16 (2) establish a statutory framework for reentry-specific facilities that
+17 prioritize rehabilitation, equity, and community reintegration;
+18 (3) address inequities in pretrial detention related to housing insecurity;
+19 and
+20 (4) minimize barriers to reentry by reforming incarceration classification
+21 and housing policies.
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 3 of 12
+1 Sec. 2. 28 V.S.A. § 3 is amended to read:
+2 § 3. GENERAL DEFINITIONS
+3 As used in this title:
+4 * * *
+5 (3) “Correctional facility” or “facility” means any building, enclosure,
+6 space, or structure of or supported by the Department and used for the
+7 confinement of persons committed to the custody of the Commissioner, or for
+8 any other matter related to such confinement, except a reentry facility.
+9 * * *
+10 (13) “Least restrictive security level” means placing persons in the
+11 custody of the Commissioner at a facility based on a validated risk assessment
+12 that prioritizes public safety and individual needs while minimizing
+13 unnecessary security restrictions.
+14 (14) “Reentry facility” has the same meaning as described in section 602
+15 of this title.
+16 Sec. 3. 28 V.S.A. § 602 is added to read:
+17 § 602. REENTRY FACILITIES
+18 (a) Creation and design.
+19 (1) The Department shall establish a reentry facility at any appropriate
+20 location in the State to provide the least restrictive security level for persons
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 4 of 12
+1 transitioning back into the community following release from a correctional
+2 facility.
+3 (2) Reentry facilities shall be designed to:
+4 (A) serve offenders within five years after release from a correctional
+5 facility;
+6 (B) be accessible to inmates awaiting trial who do not pose a
+7 significant risk of flight or public safety concerns in accordance with 13 V.S.A.
+8 § 7554; and
+9 (C) provide inmate and offender transitional services, including
+10 family support, housing assistance, mental health care, career and vocational
+11 training, and other necessities of life in accordance with 33 V.S.A. chapter 21.
+12 (b) Assessment and placement. The placement of persons at a reentry
+13 facility shall be based upon an evidence-based risk and needs assessment of
+14 eligible persons under the custody of the Commissioner.
+15 (1) Inmates committed to the custody of the Commissioner shall be
+16 assessed for placement in a reentry facility pursuant to section 701b of this
+17 title.
+18 (2) Inmates placed in a correctional facility shall be reassessed every 90
+19 days for placement in a reentry facility.
+20 (3) Within 90 days before release from a correctional facility, the
+21 Department shall assess any offender for placement in a reentry facility.
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 5 of 12
+1 (c) Victim notification. The Department shall develop procedures to
+2 ensure any alleged or known victims are informed when a person is placed in a
+3 reentry facility. Notification procedures shall be established in collaboration
+4 with the Department’s victim services unit, the Department of State’s
+5 Attorneys and Sheriffs victim advocates, and any operator of the State’s victim
+6 notification system.
+7 (d) Report. Annually, on or before July 1, the Department shall submit a
+8 written report to the House Committee on Corrections and Institutions and the
+9 Senate Committees on Institutions and on Judiciary detailing the following:
+10 (1) security level assignments for persons under the custody of the
+11 Commissioner, including all available demographic data;
+12 (2) the numbers of inmates and offenders placed in any reentry facility
+13 established pursuant to this section; and
+14 (3) the transitional services provided to inmates and offenders pursuant
+15 to subdivision (a)(2)(C) of this section.
+16 Sec. 4. 28 V.S.A. § 701b is amended to read:
+17 § 701b. CLASSIFICATION OF PERSONS OR DEFENDANTS
+18 (a) When a defendant or person in a civil or criminal action is sentenced to
+19 the custody of the Commissioner or committed to the Commissioner’s custody
+20 pending a prosecution on a misdemeanor criminal charge or for sentencing, the
+21 Commissioner or the Commissioner’s designee shall within five days of
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 6 of 12
+1 sentencing or commitment, excluding weekends and holidays, classify the
+2 person to determine whether he or she the person shall be incarcerated, held at
+3 a community work camp, placed in a reentry facility, or furloughed. Failure to
+4 classify within the five-day period shall not create a private right of action
+5 against the State, its political subdivisions, or its employees.
+6 (b) Notwithstanding 13 V.S.A. § 7554, the Commissioner may place on
+7 furlough under provisions of section 808 of this title or in a reentry facility
+8 pursuant to section 602 of this title, a misdemeanor defendant when the
+9 Commissioner, based upon a completed classification, has determined that the
+10 defendant is likely to appear in court as directed. If the Commissioner places
+11 such a defendant on furlough or in a reentry facility, the Commissioner shall
+12 impose not only the conditions of release initially ordered by the judicial
+13 officer, but also such additional terms or conditions deemed necessary to
+14 ensure that the defendant will appear in court. The Commissioner shall
+15 supervise compliance with all such conditions imposed.
+16 Sec. 5. 28 V.S.A. § 808 is amended to read:
+17 § 808. TEMPORARY FURLOUGHS GRANTED TO OFFENDERS
+18 (a) The Department may extend the limits of the place of confinement of an
+19 offender at any correctional facility or reentry facility if the offender agrees to
+20 comply with such conditions of supervision the Department, in its sole
+21 discretion, deems appropriate for that offender’s furlough. The Department
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 7 of 12
+1 may authorize a temporary furlough for a defined period for any of the
+2 following reasons:
+3 (1) to visit a critically ill relative;
+4 (2) to attend the funeral of a relative;
+5 (3) to obtain medical services;
+6 (4) to contact prospective employers; or
+7 (5) to secure a suitable residence for use upon discharge.
+8 (b) An offender granted a temporary furlough pursuant to this section may
+9 be accompanied by an employee of the Department, in the discretion of the
+10 Commissioner, during the period of the offender’s furlough. The Department
+11 may use electronic monitoring equipment such as global position monitoring,
+12 automated voice recognition telephone equipment, and transdermal alcohol
+13 monitoring equipment to enable more effective or efficient supervision of
+14 individuals placed on furlough.
+15 (c) The extension of the limits of the place of confinement authorized by
+16 this section shall in no way be interpreted as a probation or parole of the
+17 offender, but shall constitute solely a permitted extension of the limits of the
+18 place of confinement for offenders committed to the custody of the
+19 Commissioner.
+20 (d) When any enforcement officer, as defined in 23 V.S.A. § 4; employee
+21 of the Department; or correctional officer responsible for supervising an
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 8 of 12
+1 offender believes the offender is in violation of any verbal or written condition
+2 of the temporary furlough, the officer or employee may immediately lodge the
+3 offender at a correctional or reentry facility or orally or in writing deputize any
+4 law enforcement officer or agency to arrest and lodge the offender at such a
+5 correctional or reentry facility. The officer or employee shall subsequently
+6 document the reason for taking such action.
+7 (e) The Commissioner may place on medical furlough any offender who is
+8 serving a sentence, including an offender who has not yet served the minimum
+9 term of the sentence, who is diagnosed with a terminal or serious medical
+10 condition so as to render the offender unlikely to be physically capable of
+11 presenting a danger to society. The Commissioner shall develop a policy
+12 regarding the application for, standards for eligibility of, and supervision of
+13 persons on medical furlough. The offender may be released to a reentry
+14 facility, hospital, hospice, other licensed inpatient facility, or other housing
+15 accommodation deemed suitable by the Commissioner. As used in this
+16 subsection, a “serious medical condition” does not mean a condition caused by
+17 noncompliance with a medical treatment plan.
+18 (f) [Repealed.]
+19 (g) Subsection (b) of this section shall also apply to sections section 808a
+20 and 808c of this title.
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 9 of 12
+1 Sec. 6. 28 V.S.A. § 808a is amended to read:
+2 § 808a. TREATMENT FURLOUGH
+3 (a) An offender may be sentenced to serve a term of imprisonment, but
+4 placed by a court on treatment furlough to participate in such programs
+5 administered by the Department at a reentry facility or in the community that
+6 reduce the offender’s risk to reoffend or that provide reparation to the
+7 community in the form of supervised work activities.
+8 (b) Provided the approval of the sentencing judge, if available, otherwise a
+9 Superior Court judge, is first obtained, the Department may place on treatment
+10 furlough an offender who has not yet served the minimum term of the
+11 sentence, who, in the Department’s determination, needs residential treatment
+12 services not available in a correctional facility. The services may include
+13 treatment for substance abuse or personal violence or any other condition that
+14 the Department has determined should be addressed in order to reduce the
+15 offender’s risk to reoffend or cause harm to himself or herself themselves or to
+16 others in the facility. The offender shall be released only to a reentry facility
+17 established pursuant to section 602 of this title or a hospital or residential
+18 treatment facility that provides services to the general population. The State’s
+19 share of the cost of placement in such a facility, net of any private or federal
+20 participation, shall be paid pursuant to memoranda of agreement between and
+21 within State agencies reflective of their shared responsibilities to maximize the
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 10 of 12
+1 efficient and effective use of State resources. In the event that a memorandum
+2 of agreement cannot be reached, the Secretary of Administration shall make a
+3 final determination as to the manner in which costs will be allocated.
+4 (c) [Repealed.]
+5 Sec. 7. 13 V.S.A. § 7554 is amended to read:
+6 § 7554. RELEASE PRIOR TO TRIAL
+7 (a) Release; conditions of release. Any person charged with an offense,
+8 other than a person held without bail under section 7553 or 7553a of this title,
+9 shall at the person’s appearance before a judicial officer be ordered released
+10 pending trial in accordance with this section.
+11 (1) The defendant shall be ordered released on personal recognizance or
+12 upon the execution of an unsecured appearance bond in an amount specified by
+13 the judicial officer unless the judicial officer determines that such a release will
+14 not reasonably mitigate the risk of flight from prosecution as required. In
+15 determining whether the defendant presents a risk of flight from prosecution,
+16 the judicial officer shall consider, in addition to any other factors, the
+17 seriousness of the offense charged; the number of offenses with which the
+18 person is charged; whether, at the time of the current offense or arrest, the
+19 defendant was released on conditions or personal recognizance, on probation,
+20 furlough, parole, or other release pending trial, sentencing, appeal, or
+21 completion of a sentence for an offense under federal or state law; and
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 11 of 12
+1 whether, in connection with a criminal prosecution, the defendant is compliant
+2 with court orders or has failed to appear at a court hearing. If the judicial
+3 officer determines that the defendant presents a risk of flight from prosecution,
+4 the officer shall, either in lieu of or in addition to the methods of release in this
+5 section, impose the least restrictive of the following conditions or the least
+6 restrictive combination of the following conditions that will reasonably
+7 mitigate the risk of flight of the defendant as required:
+8 * * *
+9 (I) Place the defendant in the home detention program pursuant to
+10 section 7554b of this title.
+11 (J) Place the defendant in a reentry facility pursuant to 28 V.S.A.
+12 § 602.
+13 (2) If the judicial officer determines that conditions of release imposed
+14 to mitigate the risk of flight will not reasonably protect the public, the judicial
+15 officer may impose, in addition, the least restrictive of the following conditions
+16 or the least restrictive combination of the following conditions that will
+17 reasonably ensure protection of the public:
+18 * * *
+19 (H) Place the defendant in the home detention program pursuant to
+20 section 7554b of this title.
+VT LEG #380894 v.1
+
+BILL AS INTRODUCED H.436
+2025 Page 12 of 12
+1 (I) Place the defendant in a reentry facility pursuant to 28 V.S.A.
+2 § 602.
+3 * * *
+4 Sec. 8. DEPARTMENT OF CORRECTIONS; REENTRY FACILITY;
+5 DEVELOPMENT; REPORT
+6 On or before January 15, 2026, the Department of Corrections shall submit
+7 a written report to the House Committee on Corrections and Institutions and
+8 the Senate Committees on Institutions and on Judiciary detailing the following:
+9 (1) any plans to establish a reentry facility at a standalone location or at
+10 an existing correctional facility;
+11 (2) current or projected housing needs for inmates and offenders under
+12 the custody of the Commissioner; and
+13 (3) any current or prospective local, State, or federal partnerships to
+14 facilitate and enhance the Department’s current and future reentry efforts.
+15 Sec. 9. EFFECTIVE DATES
+16 This act shall take effect on July 1, 2030, except that Sec. 8 (Department of
+17 Corrections; reentry facility; development; report) shall take effect on passage.
+VT LEG #380894 v.1
+
+[DELETED:  H P H I R R D S o i S s r a D f p a t a f A c]
+[DELETED:  H P I S ( ( c ( p s ( c ( m ( ( s ( p ( a ( a]
+[DELETED:  H P S § A * ( s c a * ( c t u ( o S § ( ( l]
+[DELETED:  H P t f ( ( f ( s § ( f t ( f e ( a t ( d ( D]
+[DELETED:  H P ( e r w A n ( w S ( C ( e ( t S § ( t p C]
+[DELETED:  H P s p a c a ( f p C d s i o e s S § ( o c d]
+[DELETED:  H P m f ( ( ( ( ( ( b C m a m i ( t o p C ( o]
+[DELETED:  H P o o o l c d ( s t c p r p f a s n ( ( a]
+[DELETED:  H P S § ( p a r c ( S f s s t t o o e t s p w]
+[DELETED:  H P e o f ( S § ( o s p ( u t n d t s p d f c]
+[DELETED:  H P w w o t s r m * ( s ( § ( t o o r * ( s]
+[DELETED:  H P ( § * S   O a t ( a ( t ( f S T C]

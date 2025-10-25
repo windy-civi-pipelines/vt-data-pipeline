@@ -1,0 +1,676 @@
+Title: BILL AS INTRODUCED H.258
+Official Title: BILL AS INTRODUCED H.258
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 14 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 14
+1 H.258
+2 Introduced by Representatives Arsenault of Williston and Rachelson of
+3 Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Crimes; criminal procedure; law enforcement; interrogation; juveniles
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit law
+8 enforcement’s use of deception during the custodial interrogation of juveniles.
+9 This bill also proposes to require the notification and contact with a juvenile’s
+10 parent, guardian, or legal custodian prior to any custodial interrogation.
+11 Additionally, this bill proposes to mandate the Vermont Criminal Justice
+12 Council to adopt a statewide policy implementing a minimum set of standards
+13 for various forms of law enforcement interrogation, including the limitation
+14 and eventual elimination of deception in all forms of interrogation.
+15 An act relating to law enforcement interrogation policies
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. LEGISLATIVE INTENT; JUVENILE INTERROGATION; LAW
+18 ENFORCEMENT INTERROGATION POLICIES
+19 It is the intent of the General Assembly to prevent false confessions and
+20 wrongful convictions of individuals subject to law enforcement interrogation
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 2 of 14
+1 and to improve trust between Vermont’s communities and law enforcement.
+2 To achieve these objectives, it is the further intent of the General Assembly to
+3 create a minimum set of law enforcement interrogation standards that
+4 incorporate evidence-based best practices by:
+5 (1) requiring that a juvenile’s parent, guardian, or legal custodian obtain
+6 notice and contact with the juvenile prior to any custodial interrogation;
+7 (2) prohibiting law enforcement’s use of threats, physical harm, and
+8 deception during custodial interrogations of persons under 22 years of age; and
+9 (3) mandating that the Vermont Criminal Justice Council develop,
+10 adopt, and enforce a statewide model interrogation policy that applies to all
+11 Vermont law enforcement agencies and constables exercising law enforcement
+12 authority pursuant to 24 V.S.A. § 1936a.
+13 Sec. 2. 13 V.S.A. § 5585 is amended to read:
+14 § 5585. ELECTRONIC RECORDING OF A CUSTODIAL
+15 INTERROGATION DEFINITIONS
+16 (a) As used in this section subchapter:
+17 (1) “Custodial interrogation” means any interrogation:
+18 (A) involving questioning by a law enforcement officer that is
+19 reasonably likely to elicit an incriminating response from the subject; and
+20 (B) in which a reasonable person in the subject’s position would
+21 consider the person to be in custody, starting from the moment a person should
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 3 of 14
+1 have been advised of the person’s Miranda rights and ending when the
+2 questioning has concluded.
+3 (2) “Deception” includes the knowing communication of false facts
+4 about evidence, the knowing misrepresentation of the accuracy of the facts, the
+5 knowing misrepresentation of the law, or the knowing communication of
+6 unauthorized statements regarding leniency.
+7 (2)(3) “Electronic recording” or “electronically recorded” means an
+8 audio and visual recording that is an authentic, accurate, unaltered record of a
+9 custodial interrogation, or if law enforcement does not have the current
+10 capacity to create a visual recording, an audio recording of the interrogation.
+11 (4) “Government agent” means:
+12 (A) a school resource or safety officer; or
+13 (B) an individual acting at the request or direction of a school
+14 resource or safety officer or a law enforcement officer.
+15 (5) “Interested adult” means a person who is 18 years of age or older
+16 and genuinely interested in the welfare of a juvenile subject to custodial
+17 interrogation but is completely independent from and dissociated with the
+18 prosecution in accordance with In re E.T.C., 141 Vt. 375, 378 (1982).
+19 (6) “Law enforcement officer” has the same meaning as in 20 V.S.A.
+20 § 2351a.
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 4 of 14
+1 (3)(7) “Place of detention” means a building or a police station that is a
+2 place of operation for the State police, a municipal police department, county
+3 sheriff department, or other law enforcement agency that is owned or operated
+4 by a law enforcement agency at which persons are or may be questioned in
+5 connection with criminal offenses or detained temporarily in connection with
+6 criminal charges pending a potential arrest or citation.
+7 (4)(8) “Statement” means an oral, written, sign language, or nonverbal
+8 communication.
+9 (b)(1) A custodial interrogation that occurs in a place of detention
+10 concerning the investigation of a felony or misdemeanor violation of this title
+11 shall be electronically recorded in its entirety. Unless impracticable, a custodial
+12 interrogation occurring outside a place of detention concerning the
+13 investigation of a felony or misdemeanor violation of this title shall be
+14 electronically recorded in its entirety.
+15 (2) In consideration of best practices, law enforcement shall strive to
+16 record simultaneously both the interrogator and the person being interrogated.
+17 (c)(1) The following are exceptions to the recording requirement in
+18 subsection (b) of this section:
+19 (A) exigent circumstances;
+20 (B) a person’s refusal to be electronically recorded;
+21 (C) interrogations conducted by other jurisdictions;
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 5 of 14
+1 (D) a reasonable belief that the person being interrogated did not
+2 commit a felony or misdemeanor violation of this title and, therefore, an
+3 electronic recording of the interrogation was not required;
+4 (E) the safety of a person or protection of the person’s identity; and
+5 (F) equipment malfunction.
+6 (2) If law enforcement does not make an electronic recording of a
+7 custodial interrogation as required by this section, the prosecution shall prove
+8 by a preponderance of the evidence that one of the exceptions identified in
+9 subdivision (1) of this subsection applies. If the prosecution does not meet the
+10 burden of proof, the evidence is still admissible, but the court shall provide
+11 cautionary instructions to the jury regarding the failure to record the
+12 interrogation.
+13 Sec. 3. 13 V.S.A. § 5586 is added to read:
+14 § 5586. ELECTRONIC RECORDING OF A CUSTODIAL
+15 INTERROGATION
+16 (a)(1) A custodial interrogation that occurs in a place of detention
+17 concerning the investigation of a felony or misdemeanor violation of this title
+18 shall be electronically recorded in its entirety. Unless impracticable, a
+19 custodial interrogation occurring outside a place of detention concerning the
+20 investigation of a felony or misdemeanor violation of this title shall be
+21 electronically recorded in its entirety.
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 6 of 14
+1 (2) In consideration of best practices, law enforcement shall strive to
+2 record simultaneously both the interrogator and the person being interrogated.
+3 (b)(1) The following are exceptions to the recording requirement in
+4 subsection (a) of this section:
+5 (A) exigent circumstances;
+6 (B) a person’s refusal to be electronically recorded;
+7 (C) interrogations conducted by other jurisdictions;
+8 (D) a reasonable belief that the person being interrogated did not
+9 commit a felony or misdemeanor violation of this title and, therefore, an
+10 electronic recording of the interrogation was not required;
+11 (E) the safety of a person or protection of the person’s identity; and
+12 (F) equipment malfunction.
+13 (2) If law enforcement does not make an electronic recording of a
+14 custodial interrogation as required by this section, the prosecution shall prove
+15 by a preponderance of the evidence that one of the exceptions identified in
+16 subdivision (1) of this subsection applies. If the prosecution does not meet the
+17 burden of proof, the evidence is still admissible, but the court shall provide
+18 cautionary instructions to the jury regarding the failure to record the
+19 interrogation.
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 7 of 14
+1 Sec. 4. 13 V.S.A. § 5587 is added to read:
+2 § 5587. CUSTODIAL INTERROGATION; JUVENILES; INTERESTED
+3 ADULT; NOTICE, CONSULTATION, AND PRESENCE
+4 (a)(1) Prior to any custodial interrogation of a person under 18 years of age
+5 by a law enforcement officer or government agent, the person’s interested
+6 adult shall be notified of the person’s arrest.
+7 (2) The interested adult shall have contact with the person’s parent or
+8 guardian prior to the commencement of any custodial interrogation, if the
+9 interested adult is not the person’s parent or guardian themselves.
+10 (b) The interested adult shall be present during the entirety of any custodial
+11 interrogation of a person under 18 years of age.
+12 (c) The notification and contact required by subsection (a) of this section
+13 shall be effectuated by an in-person meeting or by electronic, telephonic, or
+14 videographic conference.
+15 Sec. 5. 13 V.S.A. § 5588 is added to read:
+16 § 5588. CUSTODIAL INTERROGATION; JUVENILES; PROHIBITIONS;
+17 INADMISSIBILITY
+18 (a) During a custodial interrogation of a person under 22 years of age
+19 relating to the commission of a criminal offense or delinquent act, a law
+20 enforcement officer or government agent shall not employ threats, physical
+21 harm, or deception.
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 8 of 14
+1 (b)(1) Any admission, confession, or statement, whether written or oral,
+2 made by a person under 22 years of age and obtained in violation of subsection
+3 (a) of this section shall be presumed to be involuntary and inadmissible in any
+4 proceeding.
+5 (2) The presumption that any such admission, confession, or statement
+6 is involuntary and inadmissible may be overcome if the State proves by clear
+7 and convincing evidence that the admission, confession, or statement was:
+8 (A) voluntary and not induced by a law enforcement officer’s or
+9 government agent’s use of threats, physical harm, or deception prohibited by
+10 subsection (a) of this section; and
+11 (B) any actions of a law enforcement officer or government agent in
+12 violation of subsection (a) of this section did not undermine the reliability of
+13 the person’s admission, confession, or statement and did not create a
+14 substantial risk that the person might falsely incriminate themselves.
+15 Sec. 6. VERMONT CRIMINAL JUSTICE COUNCIL; MODEL
+16 INTERROGATION POLICY
+17 (a) Intent. It is the intent of the General Assembly that the Vermont
+18 Criminal Justice Council create a model interrogation policy that is grounded
+19 in evidence-based best practices to limit and eventually eliminate the use of
+20 deception in law enforcement interrogations.
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 9 of 14
+1 (b) Policy development. On or before January 1, 2026, the Vermont
+2 Criminal Justice Council, in consultation with the Office of the Attorney
+3 General and stakeholders, including the Agency of Human Services, the
+4 Vermont League of Cities and Towns, the Vermont Human Rights
+5 Commission, and the Innocence Project, shall establish one cohesive evidence-
+6 based model interrogation policy for law enforcement agencies and constables
+7 to adopt, follow, and enforce as part of the agency’s or constable’s own
+8 interrogation policy.
+9 (c) Policy contents. The evidence-based model interrogation policy created
+10 pursuant to this section shall apply to all persons subject to various forms of
+11 interrogation, including the following:
+12 (1) custodial interrogations occurring in a place of detention;
+13 (2) custodial interrogations occurring outside a place of detention;
+14 (3) interrogations that are not considered custodial, regardless of
+15 location; and
+16 (4) the interrogation of individuals with developmental, intellectual, and
+17 psychiatric disabilities; substance use disorders; and low literacy levels.
+18 Sec. 7. 20 V.S.A. § 2359 is amended to read:
+19 § 2359. COUNCIL SERVICES CONTINGENT ON AGENCY
+20 COMPLIANCE; GRANT ELIGIBILITY
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 10 of 14
+1 (a) On and after January 1, 2022, a law enforcement agency shall be
+2 prohibited from having its law enforcement applicants or officers trained by
+3 the Police Academy or from otherwise using the services of the Council if the
+4 agency is not in compliance with the requirements for collecting roadside stop
+5 data under section 2366 of this chapter, the requirement to report to the Office
+6 of Attorney General death or serious bodily injuries under 18 V.S.A.
+7 § 7257a(b), or the requirement to adopt, follow, or and enforce any policy
+8 required under this chapter.
+9 (b) On and after April 1, 2026, a law enforcement agency shall be
+10 prohibited from receiving grants, or other forms of financial assistance, if the
+11 agency is not in compliance with the requirement to adopt, follow, and enforce
+12 the model interrogation policy established by the Council pursuant to section
+13 2372 of this title.
+14 (c) The Council shall adopt procedures to enforce the requirements of this
+15 section, which may allow for waivers for agencies under a plan to obtain
+16 compliance with this section.
+17 Sec. 8. 20 V.S.A. § 2372 is added to read:
+18 § 2372. STATEWIDE POLICY; INTERROGATION METHODS
+19 (a) As used in this section:
+20 (1) “Custodial interrogation” has the same meaning as in 13 V.S.A.
+21 § 5585.
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 11 of 14
+1 (2) “Place of detention” has the same meaning as in 13 V.S.A. § 5585.
+2 (b) The Council shall establish a model interrogation policy that applies to
+3 all persons subject to various forms of interrogation, including the following:
+4 (1) custodial interrogations occurring in a place of detention;
+5 (2) custodial interrogations occurring outside a place of detention;
+6 (3) interrogations that are not considered custodial, regardless of
+7 location; and
+8 (4) the interrogation of individuals with developmental, intellectual, and
+9 psychiatric disabilities; substance use disorders; and low literacy levels.
+10 (c)(1) On or before April 1, 2026, each law enforcement agency and every
+11 constable who exercises law enforcement authority pursuant to 24 V.S.A.
+12 § 1936a and who is trained in compliance with section 2358 of this title shall
+13 adopt, follow, and enforce an interrogation policy that includes each
+14 component of the model interrogation policy established by the Council, and
+15 each law enforcement officer or constable who exercises law enforcement
+16 authority shall comply with the provisions of the agency’s or constable’s
+17 policy.
+18 (2) On or before October 1, 2026, and every even-numbered year
+19 thereafter, the Vermont Criminal Justice Council, in consultation with others,
+20 including the Office of the Attorney General, the Agency of Human Services,
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 12 of 14
+1 and the Human Rights Commission, shall review and, if necessary, update the
+2 model interrogation policy.
+3 (d) To encourage fair and consistent interrogation methods statewide, the
+4 Vermont Criminal Justice Council, in consultation with the Office of the
+5 Attorney General, shall review the policies of law enforcement agencies and
+6 constables required to adopt a policy pursuant to subsection (c) of this section,
+7 to ensure that those policies establish each component of the model policy on
+8 or before April 15, 2026. If the Council finds that a policy does not meet each
+9 component of the model policy, it shall work with the law enforcement agency
+10 or constable to bring the policy into compliance. If, after consultation with its
+11 attorney or with the Council, or with both, the law enforcement agency or
+12 constable fails to adopt a policy that meets each component of the model
+13 policy, that agency or constable shall be deemed to have adopted, and shall
+14 follow and enforce, the model policy established by the Council.
+15 (e) The Council shall incorporate the provisions of this section into the
+16 training it provides.
+17 (f) Annually, as part of their annual training report to the Council, every
+18 law enforcement agency and every constable who exercises law enforcement
+19 authority pursuant to 24 V.S.A. § 1936a and who is trained in compliance with
+20 section 2358 of this title shall report to the Council whether the agency or
+21 constable has adopted an interrogation policy in accordance with subsections
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 13 of 14
+1 (c) and (d) of this section. The Vermont Criminal Justice Council shall
+2 determine, as part of the Council’s annual certification of training
+3 requirements, whether current officers have received training on interrogation
+4 methods as required by subsection (e) of this section.
+5 (g) Annually, on or before July 1, the Vermont Criminal Justice Council
+6 shall report to the House and Senate Committees on Judiciary regarding which
+7 law enforcement agencies and officers have received training on interrogation
+8 methods.
+9 Sec. 9. VERMONT CRIMINAL JUSTICE COUNCIL; POSITION;
+10 APPROPRIATION
+11 (a) On July 1, 2025, a new, permanent, classified Director of Policy
+12 position is created in the Vermont Criminal Justice Council. In addition to any
+13 other duties deemed appropriate by the Council, the Director of Policy shall
+14 supervise the development, oversight, and compliance work related to the
+15 Council’s internal, external, and State-mandated policies.
+16 (b) The position of Director of Policy established in subsection (a) of this
+17 section shall be subject to a General Fund appropriation in fiscal year 2026.
+18 Sec. 10. EFFECTIVE DATES
+19 This act shall take effect on July 1, 2025, except that Secs. 4 (juvenile
+20 custodial interrogation; notice and contact with parent, custodian, or legal
+21 guardian), 5 (juvenile custodial interrogation; prohibitions; inadmissibility),
+VT LEG #379628 v.1
+BILL AS INTRODUCED H.258
+2025 Page 14 of 14
+1 7 (council services contingent on Agency compliance; grant eligibility), and
+2 8 (statewide policy; interrogation methods) shall take effect on April 1, 2026.
+VT LEG #379628 v.1
+[DELETED:  H P H I R B R D S S e T p A C f a A I S   I w]
+[DELETED:  H P a T c i ( n ( d ( a V a S §   ( ( ( r ( c]
+[DELETED:  H P h q ( a k u ( a c c ( ( ( r ( a i p ( §]
+[DELETED:  H P ( p s b c c ( c ( c s i i e ( r ( s ( ( (]
+[DELETED:  H P ( c e ( ( ( c b s b c i S §   ( c s c i e]
+[DELETED:  H P ( r ( s ( ( ( ( c e ( ( ( c b s b c i]
+[DELETED:  H P S §   ( b a ( g i ( i ( s v S §   ( r e h]
+[DELETED:  H P ( m ( p ( i a ( g s ( v t s S   ( C i d]
+[DELETED:  H P ( C G V C b t i ( p i ( ( ( l ( p S §  ]
+[DELETED:  H P ( p t a d o § r ( p a t 2 ( s c S § ( ( §]
+[DELETED:  H P ( ( a ( ( ( l ( p ( c § a c e a p ( t i]
+[DELETED:  H P a m ( V A c t o c o a c p f ( t ( l a s c]
+[DELETED:  H P ( d r m ( s l m S   ( p o s C ( s S T c g]
+[DELETED:  H P 7 8]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.258
+2025 Page 1 of 14
+1 H.258
+2 Introduced by Representatives Arsenault of Williston and Rachelson of
+3 Burlington
+4 Referred to Committee on
+5 Date:
+6 Subject: Crimes; criminal procedure; law enforcement; interrogation; juveniles
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit law
+8 enforcement’s use of deception during the custodial interrogation of juveniles.
+9 This bill also proposes to require the notification and contact with a juvenile’s
+10 parent, guardian, or legal custodian prior to any custodial interrogation.
+11 Additionally, this bill proposes to mandate the Vermont Criminal Justice
+12 Council to adopt a statewide policy implementing a minimum set of standards
+13 for various forms of law enforcement interrogation, including the limitation
+14 and eventual elimination of deception in all forms of interrogation.
+15 An act relating to law enforcement interrogation policies
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. LEGISLATIVE INTENT; JUVENILE INTERROGATION; LAW
+18 ENFORCEMENT INTERROGATION POLICIES
+19 It is the intent of the General Assembly to prevent false confessions and
+20 wrongful convictions of individuals subject to law enforcement interrogation
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 2 of 14
+1 and to improve trust between Vermont’s communities and law enforcement.
+2 To achieve these objectives, it is the further intent of the General Assembly to
+3 create a minimum set of law enforcement interrogation standards that
+4 incorporate evidence-based best practices by:
+5 (1) requiring that a juvenile’s parent, guardian, or legal custodian obtain
+6 notice and contact with the juvenile prior to any custodial interrogation;
+7 (2) prohibiting law enforcement’s use of threats, physical harm, and
+8 deception during custodial interrogations of persons under 22 years of age; and
+9 (3) mandating that the Vermont Criminal Justice Council develop,
+10 adopt, and enforce a statewide model interrogation policy that applies to all
+11 Vermont law enforcement agencies and constables exercising law enforcement
+12 authority pursuant to 24 V.S.A. § 1936a.
+13 Sec. 2. 13 V.S.A. § 5585 is amended to read:
+14 § 5585. ELECTRONIC RECORDING OF A CUSTODIAL
+15 INTERROGATION DEFINITIONS
+16 (a) As used in this section subchapter:
+17 (1) “Custodial interrogation” means any interrogation:
+18 (A) involving questioning by a law enforcement officer that is
+19 reasonably likely to elicit an incriminating response from the subject; and
+20 (B) in which a reasonable person in the subject’s position would
+21 consider the person to be in custody, starting from the moment a person should
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 3 of 14
+1 have been advised of the person’s Miranda rights and ending when the
+2 questioning has concluded.
+3 (2) “Deception” includes the knowing communication of false facts
+4 about evidence, the knowing misrepresentation of the accuracy of the facts, the
+5 knowing misrepresentation of the law, or the knowing communication of
+6 unauthorized statements regarding leniency.
+7 (2)(3) “Electronic recording” or “electronically recorded” means an
+8 audio and visual recording that is an authentic, accurate, unaltered record of a
+9 custodial interrogation, or if law enforcement does not have the current
+10 capacity to create a visual recording, an audio recording of the interrogation.
+11 (4) “Government agent” means:
+12 (A) a school resource or safety officer; or
+13 (B) an individual acting at the request or direction of a school
+14 resource or safety officer or a law enforcement officer.
+15 (5) “Interested adult” means a person who is 18 years of age or older
+16 and genuinely interested in the welfare of a juvenile subject to custodial
+17 interrogation but is completely independent from and dissociated with the
+18 prosecution in accordance with In re E.T.C., 141 Vt. 375, 378 (1982).
+19 (6) “Law enforcement officer” has the same meaning as in 20 V.S.A.
+20 § 2351a.
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 4 of 14
+1 (3)(7) “Place of detention” means a building or a police station that is a
+2 place of operation for the State police, a municipal police department, county
+3 sheriff department, or other law enforcement agency that is owned or operated
+4 by a law enforcement agency at which persons are or may be questioned in
+5 connection with criminal offenses or detained temporarily in connection with
+6 criminal charges pending a potential arrest or citation.
+7 (4)(8) “Statement” means an oral, written, sign language, or nonverbal
+8 communication.
+9 (b)(1) A custodial interrogation that occurs in a place of detention
+10 concerning the investigation of a felony or misdemeanor violation of this title
+11 shall be electronically recorded in its entirety. Unless impracticable, a custodial
+12 interrogation occurring outside a place of detention concerning the
+13 investigation of a felony or misdemeanor violation of this title shall be
+14 electronically recorded in its entirety.
+15 (2) In consideration of best practices, law enforcement shall strive to
+16 record simultaneously both the interrogator and the person being interrogated.
+17 (c)(1) The following are exceptions to the recording requirement in
+18 subsection (b) of this section:
+19 (A) exigent circumstances;
+20 (B) a person’s refusal to be electronically recorded;
+21 (C) interrogations conducted by other jurisdictions;
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 5 of 14
+1 (D) a reasonable belief that the person being interrogated did not
+2 commit a felony or misdemeanor violation of this title and, therefore, an
+3 electronic recording of the interrogation was not required;
+4 (E) the safety of a person or protection of the person’s identity; and
+5 (F) equipment malfunction.
+6 (2) If law enforcement does not make an electronic recording of a
+7 custodial interrogation as required by this section, the prosecution shall prove
+8 by a preponderance of the evidence that one of the exceptions identified in
+9 subdivision (1) of this subsection applies. If the prosecution does not meet the
+10 burden of proof, the evidence is still admissible, but the court shall provide
+11 cautionary instructions to the jury regarding the failure to record the
+12 interrogation.
+13 Sec. 3. 13 V.S.A. § 5586 is added to read:
+14 § 5586. ELECTRONIC RECORDING OF A CUSTODIAL
+15 INTERROGATION
+16 (a)(1) A custodial interrogation that occurs in a place of detention
+17 concerning the investigation of a felony or misdemeanor violation of this title
+18 shall be electronically recorded in its entirety. Unless impracticable, a
+19 custodial interrogation occurring outside a place of detention concerning the
+20 investigation of a felony or misdemeanor violation of this title shall be
+21 electronically recorded in its entirety.
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 6 of 14
+1 (2) In consideration of best practices, law enforcement shall strive to
+2 record simultaneously both the interrogator and the person being interrogated.
+3 (b)(1) The following are exceptions to the recording requirement in
+4 subsection (a) of this section:
+5 (A) exigent circumstances;
+6 (B) a person’s refusal to be electronically recorded;
+7 (C) interrogations conducted by other jurisdictions;
+8 (D) a reasonable belief that the person being interrogated did not
+9 commit a felony or misdemeanor violation of this title and, therefore, an
+10 electronic recording of the interrogation was not required;
+11 (E) the safety of a person or protection of the person’s identity; and
+12 (F) equipment malfunction.
+13 (2) If law enforcement does not make an electronic recording of a
+14 custodial interrogation as required by this section, the prosecution shall prove
+15 by a preponderance of the evidence that one of the exceptions identified in
+16 subdivision (1) of this subsection applies. If the prosecution does not meet the
+17 burden of proof, the evidence is still admissible, but the court shall provide
+18 cautionary instructions to the jury regarding the failure to record the
+19 interrogation.
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 7 of 14
+1 Sec. 4. 13 V.S.A. § 5587 is added to read:
+2 § 5587. CUSTODIAL INTERROGATION; JUVENILES; INTERESTED
+3 ADULT; NOTICE, CONSULTATION, AND PRESENCE
+4 (a)(1) Prior to any custodial interrogation of a person under 18 years of age
+5 by a law enforcement officer or government agent, the person’s interested
+6 adult shall be notified of the person’s arrest.
+7 (2) The interested adult shall have contact with the person’s parent or
+8 guardian prior to the commencement of any custodial interrogation, if the
+9 interested adult is not the person’s parent or guardian themselves.
+10 (b) The interested adult shall be present during the entirety of any custodial
+11 interrogation of a person under 18 years of age.
+12 (c) The notification and contact required by subsection (a) of this section
+13 shall be effectuated by an in-person meeting or by electronic, telephonic, or
+14 videographic conference.
+15 Sec. 5. 13 V.S.A. § 5588 is added to read:
+16 § 5588. CUSTODIAL INTERROGATION; JUVENILES; PROHIBITIONS;
+17 INADMISSIBILITY
+18 (a) During a custodial interrogation of a person under 22 years of age
+19 relating to the commission of a criminal offense or delinquent act, a law
+20 enforcement officer or government agent shall not employ threats, physical
+21 harm, or deception.
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 8 of 14
+1 (b)(1) Any admission, confession, or statement, whether written or oral,
+2 made by a person under 22 years of age and obtained in violation of subsection
+3 (a) of this section shall be presumed to be involuntary and inadmissible in any
+4 proceeding.
+5 (2) The presumption that any such admission, confession, or statement
+6 is involuntary and inadmissible may be overcome if the State proves by clear
+7 and convincing evidence that the admission, confession, or statement was:
+8 (A) voluntary and not induced by a law enforcement officer’s or
+9 government agent’s use of threats, physical harm, or deception prohibited by
+10 subsection (a) of this section; and
+11 (B) any actions of a law enforcement officer or government agent in
+12 violation of subsection (a) of this section did not undermine the reliability of
+13 the person’s admission, confession, or statement and did not create a
+14 substantial risk that the person might falsely incriminate themselves.
+15 Sec. 6. VERMONT CRIMINAL JUSTICE COUNCIL; MODEL
+16 INTERROGATION POLICY
+17 (a) Intent. It is the intent of the General Assembly that the Vermont
+18 Criminal Justice Council create a model interrogation policy that is grounded
+19 in evidence-based best practices to limit and eventually eliminate the use of
+20 deception in law enforcement interrogations.
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 9 of 14
+1 (b) Policy development. On or before January 1, 2026, the Vermont
+2 Criminal Justice Council, in consultation with the Office of the Attorney
+3 General and stakeholders, including the Agency of Human Services, the
+4 Vermont League of Cities and Towns, the Vermont Human Rights
+5 Commission, and the Innocence Project, shall establish one cohesive evidence-
+6 based model interrogation policy for law enforcement agencies and constables
+7 to adopt, follow, and enforce as part of the agency’s or constable’s own
+8 interrogation policy.
+9 (c) Policy contents. The evidence-based model interrogation policy created
+10 pursuant to this section shall apply to all persons subject to various forms of
+11 interrogation, including the following:
+12 (1) custodial interrogations occurring in a place of detention;
+13 (2) custodial interrogations occurring outside a place of detention;
+14 (3) interrogations that are not considered custodial, regardless of
+15 location; and
+16 (4) the interrogation of individuals with developmental, intellectual, and
+17 psychiatric disabilities; substance use disorders; and low literacy levels.
+18 Sec. 7. 20 V.S.A. § 2359 is amended to read:
+19 § 2359. COUNCIL SERVICES CONTINGENT ON AGENCY
+20 COMPLIANCE; GRANT ELIGIBILITY
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 10 of 14
+1 (a) On and after January 1, 2022, a law enforcement agency shall be
+2 prohibited from having its law enforcement applicants or officers trained by
+3 the Police Academy or from otherwise using the services of the Council if the
+4 agency is not in compliance with the requirements for collecting roadside stop
+5 data under section 2366 of this chapter, the requirement to report to the Office
+6 of Attorney General death or serious bodily injuries under 18 V.S.A.
+7 § 7257a(b), or the requirement to adopt, follow, or and enforce any policy
+8 required under this chapter.
+9 (b) On and after April 1, 2026, a law enforcement agency shall be
+10 prohibited from receiving grants, or other forms of financial assistance, if the
+11 agency is not in compliance with the requirement to adopt, follow, and enforce
+12 the model interrogation policy established by the Council pursuant to section
+13 2372 of this title.
+14 (c) The Council shall adopt procedures to enforce the requirements of this
+15 section, which may allow for waivers for agencies under a plan to obtain
+16 compliance with this section.
+17 Sec. 8. 20 V.S.A. § 2372 is added to read:
+18 § 2372. STATEWIDE POLICY; INTERROGATION METHODS
+19 (a) As used in this section:
+20 (1) “Custodial interrogation” has the same meaning as in 13 V.S.A.
+21 § 5585.
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 11 of 14
+1 (2) “Place of detention” has the same meaning as in 13 V.S.A. § 5585.
+2 (b) The Council shall establish a model interrogation policy that applies to
+3 all persons subject to various forms of interrogation, including the following:
+4 (1) custodial interrogations occurring in a place of detention;
+5 (2) custodial interrogations occurring outside a place of detention;
+6 (3) interrogations that are not considered custodial, regardless of
+7 location; and
+8 (4) the interrogation of individuals with developmental, intellectual, and
+9 psychiatric disabilities; substance use disorders; and low literacy levels.
+10 (c)(1) On or before April 1, 2026, each law enforcement agency and every
+11 constable who exercises law enforcement authority pursuant to 24 V.S.A.
+12 § 1936a and who is trained in compliance with section 2358 of this title shall
+13 adopt, follow, and enforce an interrogation policy that includes each
+14 component of the model interrogation policy established by the Council, and
+15 each law enforcement officer or constable who exercises law enforcement
+16 authority shall comply with the provisions of the agency’s or constable’s
+17 policy.
+18 (2) On or before October 1, 2026, and every even-numbered year
+19 thereafter, the Vermont Criminal Justice Council, in consultation with others,
+20 including the Office of the Attorney General, the Agency of Human Services,
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 12 of 14
+1 and the Human Rights Commission, shall review and, if necessary, update the
+2 model interrogation policy.
+3 (d) To encourage fair and consistent interrogation methods statewide, the
+4 Vermont Criminal Justice Council, in consultation with the Office of the
+5 Attorney General, shall review the policies of law enforcement agencies and
+6 constables required to adopt a policy pursuant to subsection (c) of this section,
+7 to ensure that those policies establish each component of the model policy on
+8 or before April 15, 2026. If the Council finds that a policy does not meet each
+9 component of the model policy, it shall work with the law enforcement agency
+10 or constable to bring the policy into compliance. If, after consultation with its
+11 attorney or with the Council, or with both, the law enforcement agency or
+12 constable fails to adopt a policy that meets each component of the model
+13 policy, that agency or constable shall be deemed to have adopted, and shall
+14 follow and enforce, the model policy established by the Council.
+15 (e) The Council shall incorporate the provisions of this section into the
+16 training it provides.
+17 (f) Annually, as part of their annual training report to the Council, every
+18 law enforcement agency and every constable who exercises law enforcement
+19 authority pursuant to 24 V.S.A. § 1936a and who is trained in compliance with
+20 section 2358 of this title shall report to the Council whether the agency or
+21 constable has adopted an interrogation policy in accordance with subsections
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 13 of 14
+1 (c) and (d) of this section. The Vermont Criminal Justice Council shall
+2 determine, as part of the Council’s annual certification of training
+3 requirements, whether current officers have received training on interrogation
+4 methods as required by subsection (e) of this section.
+5 (g) Annually, on or before July 1, the Vermont Criminal Justice Council
+6 shall report to the House and Senate Committees on Judiciary regarding which
+7 law enforcement agencies and officers have received training on interrogation
+8 methods.
+9 Sec. 9. VERMONT CRIMINAL JUSTICE COUNCIL; POSITION;
+10 APPROPRIATION
+11 (a) On July 1, 2025, a new, permanent, classified Director of Policy
+12 position is created in the Vermont Criminal Justice Council. In addition to any
+13 other duties deemed appropriate by the Council, the Director of Policy shall
+14 supervise the development, oversight, and compliance work related to the
+15 Council’s internal, external, and State-mandated policies.
+16 (b) The position of Director of Policy established in subsection (a) of this
+17 section shall be subject to a General Fund appropriation in fiscal year 2026.
+18 Sec. 10. EFFECTIVE DATES
+19 This act shall take effect on July 1, 2025, except that Secs. 4 (juvenile
+20 custodial interrogation; notice and contact with parent, custodian, or legal
+21 guardian), 5 (juvenile custodial interrogation; prohibitions; inadmissibility),
+VT LEG #379628 v.1
+
+BILL AS INTRODUCED H.258
+2025 Page 14 of 14
+1 7 (council services contingent on Agency compliance; grant eligibility), and
+2 8 (statewide policy; interrogation methods) shall take effect on April 1, 2026.
+VT LEG #379628 v.1
+
+[DELETED:  H P H I R B R D S S e T p A C f a A I S   I w]
+[DELETED:  H P a T c i ( n ( d ( a V a S §   ( ( ( r ( c]
+[DELETED:  H P h q ( a k u ( a c c ( ( ( r ( a i p ( §]
+[DELETED:  H P ( p s b c c ( c ( c s i i e ( r ( s ( ( (]
+[DELETED:  H P ( c e ( ( ( c b s b c i S §   ( c s c i e]
+[DELETED:  H P ( r ( s ( ( ( ( c e ( ( ( c b s b c i]
+[DELETED:  H P S §   ( b a ( g i ( i ( s v S §   ( r e h]
+[DELETED:  H P ( m ( p ( i a ( g s ( v t s S   ( C i d]
+[DELETED:  H P ( C G V C b t i ( p i ( ( ( l ( p S §  ]
+[DELETED:  H P ( p t a d o § r ( p a t 2 ( s c S § ( ( §]
+[DELETED:  H P ( ( a ( ( ( l ( p ( c § a c e a p ( t i]
+[DELETED:  H P a m ( V A c t o c o a c p f ( t ( l a s c]
+[DELETED:  H P ( d r m ( s l m S   ( p o s C ( s S T c g]
+[DELETED:  H P 7 8]

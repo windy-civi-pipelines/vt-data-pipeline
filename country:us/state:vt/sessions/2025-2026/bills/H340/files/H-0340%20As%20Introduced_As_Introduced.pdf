@@ -1,0 +1,575 @@
+BILL AS INTRODUCED H.340
+2025 Page 1 of 23
+1 H.340
+2 Introduced by Representatives Priestley of Bradford, Arsenault of Williston,
+3 Berbeco of Winooski, Cole of Hartford, Logan of Burlington,
+4 Masland of Thetford, McGill of Bridport, Sibilia of Dover, and
+5 White of Waitsfield
+6 Referred to Committee on
+7 Date:
+8 Subject: Commerce and trade; consumer protection; artificial intelligence
+9 Statement of purpose of bill as introduced: This bill proposes to regulate
+10 developers and deployers of automated decision systems used in consequential
+11 decisions in an effort to avoid algorithmic discrimination towards consumers.
+12 An act relating to regulating developers and deployers of certain automated
+13 decision systems
+14 It is hereby enacted by the General Assembly of the State of Vermont:
+15 Sec. 1. 9 V.S.A. chapter 118 is added to read:
+16 CHAPTER 118. ARTIFICIAL INTELLIGENCE
+17 Subchapter 1. Algorithmic Discrimination and Automated Decision Systems
+18 § 4193a. DEFINITIONS
+19 As used in this subchapter:
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 2 of 23
+1 (1)(A) “Algorithmic discrimination” means any condition in which the
+2 use of an automated decision system results in a differential treatment or
+3 impact that disfavors an individual on the basis of the individual’s actual or
+4 perceived age, color, disability, ethnicity, genetic information, immigration or
+5 citizenship status, limited proficiency in the English language, national origin,
+6 race, religion, reproductive health, sex, sexual orientation, gender identity,
+7 veteran status, or other classification protected under the laws of this State or
+8 federal law.
+9 (B) “Algorithmic discrimination” does not include:
+10 (i) a developer’s or deployer’s testing of the developer’s or
+11 deployer’s own automated decision system to identify, mitigate, and prevent
+12 discrimination;
+13 (ii) expanding an applicant, customer, or participant pool to
+14 increase diversity or redress historical discrimination; or
+15 (iii) an act or omission by or on behalf of a private club or other
+16 establishment that is not in fact open to the public, as set forth in Title II of the
+17 federal Civil Rights Act of 1964, 42 U.S.C.§ 2000a(e), as amended.
+18 (2) “Auditor” refers to an independent entity, including an individual, a
+19 nonprofit, a firm, a corporation, a partnership, a cooperative, or an association,
+20 commissioned to perform an audit.
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 3 of 23
+1 (3)(A) “Automated decision system” means a computational process
+2 derived from machine learning, statistical modeling, data analytics, or artificial
+3 intelligence that issues an output, including a score, classification, or
+4 recommendation.
+5 (B) “Automated decision system” does not include any software used
+6 primarily for basic computerized processes, such as antimalware, antivirus,
+7 autocorrect functions, calculators, databases, data storage, electronic
+8 communications, firewall, internet domain registration, website loading,
+9 networking, spam and robocall filtering, spellcheck tools, spreadsheets, web
+10 caching, web hosting, or any tool that relates only to nonemployment internal
+11 management affairs such as ordering office supplies or processing payments,
+12 and that do not materially affect the rights, liberties, benefits, safety, or welfare
+13 of any individual within the State.
+14 (4) “Consequential decision” means a decision that has a material, legal,
+15 or similarly significant effect on the provision or denial to any consumer of, or
+16 the cost, terms, or availability of:
+17 (A) educational and vocational training, including:
+18 (i) assessment or grading, including detecting student cheating or
+19 plagiarism;
+20 (ii) accreditation;
+21 (iii) certification;
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 4 of 23
+1 (iv) admissions or enrollment; and
+2 (v) financial aid or scholarships;
+3 (B) employment or an employment opportunity, including:
+4 (i) pay or promotion;
+5 (ii) hiring or termination; and
+6 (iii) automated task allocation;
+7 (C) housing or lodging, including long-term or short-term rentals;
+8 (D) essential utilities, including electricity, heat, water, internet or
+9 telecommunications access, or transportation;
+10 (E) family planning, including adoption services or reproductive
+11 services, as well as assessments related to child protection services;
+12 (F) health care or health insurance, including mental health care,
+13 dental, or vision;
+14 (G) financial services, including a financial service provided by a
+15 mortgage company, mortgage broker, or creditor;
+16 (H) law enforcement activities, including the allocation of law
+17 enforcement personnel or assets, the enforcement of laws, maintaining public
+18 order, or managing public safety;
+19 (I) government services, including the determination, allocation, or
+20 denial of public benefits and services; and
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 5 of 23
+1 (J) a reasonable accommodation or other right granted under the civil
+2 rights laws of this State.
+3 (5) “Consumer” means an individual who is a resident of the State.
+4 (6) “Deployer” means a person doing business in this State that uses an
+5 automated decision system in a consequential decision in the State or provides
+6 an automated decision system for use in a consequential decision by the
+7 general public in the State. A developer shall also be considered a deployer if
+8 its actions satisfy this definition.
+9 (7) “Deployer-employer” means a deployer that is an employer.
+10 (8) “Developer” means a person doing business in this State that
+11 designs, codes, or produces an automated decision system for use in a
+12 consequential decision or creates a substantial change with respect to an
+13 automated decision system for use in a consequential decision, whether for its
+14 own use in the State or for use by a third party in the State.
+15 (9) “Developer-employer” means a developer that is an employer.
+16 (10) “Employee” means an individual who performs services for and
+17 under the control and direction of an employer for wages or other
+18 remuneration, including former employees, or natural persons employed as
+19 independent contractors to carry out work in furtherance of an employer’s
+20 business enterprise who are not themselves employers.
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 6 of 23
+1 (11) “Employer” means any person, firm, partnership, institution,
+2 corporation, or association that employs one or more employees.
+3 (12) “Software stack” means the group of individual software
+4 components that work together to support the execution of an automated
+5 decision system.
+6 (13) “Substantial change” means any:
+7 (A) deliberate change to an automated decision system that would
+8 result in material inaccuracies in the reports created under section 4193f of this
+9 title; or
+10 (B) substantial change in the data that the automated decision system
+11 uses as input or training data.
+12 § 4193b. ALGORITHMIC DISCRIMINATION
+13 It shall be unlawful discrimination for a developer or deployer to use, sell,
+14 or share an automated decision system for use in a consequential decision or a
+15 product featuring an automated decision system for use in a consequential
+16 decision that produces algorithmic discrimination.
+17 § 4193c. DEPLOYER AND DEVELOPER OBLIGATIONS
+18 (a) Any deployer that employs an automated decision system for a
+19 consequential decision shall inform the consumer prior to the use of the system
+20 for a consequential decision in clear, conspicuous, and consumer-friendly
+21 terms, made available in each of the languages in which the company offers its
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 7 of 23
+1 end services, that automated decision systems will be used to make a
+2 consequential decision or to assist in making a consequential decision.
+3 (b) Any notice provided by a deployer to the consumer pursuant to
+4 subsection (a) of this section shall include:
+5 (1) a description of the personal characteristics or attributes that the
+6 system will measure or assess;
+7 (2) the method by which the system measures or assesses those
+8 attributes or characteristics;
+9 (3) how those attributes or characteristics are relevant to the
+10 consequential decisions for which the system should be used;
+11 (4) any human components of the system;
+12 (5) how any automated components of the system are used to inform the
+13 consequential decision; and
+14 (6) a direct link to a publicly accessible page on the deployer’s website
+15 that contains a plain-language description of the:
+16 (A) system’s outputs;
+17 (B) types and sources of data collected from natural persons and
+18 processed by the system when it is used to make, or assists in making, a
+19 consequential decision; and
+20 (C) results of the most recent impact assessment, or an active link to
+21 a web page where a consumer can review those results.
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 8 of 23
+1 (c) Any deployer that employs an automated decision system for a
+2 consequential decision shall provide the consumer with a single notice
+3 containing a plain-language explanation of the decision that identifies the
+4 principal reason or reasons for the consequential decision, including:
+5 (1) the identity of the developer of the automated decision system used
+6 in the consequential decision, if the deployer is not also the developer;
+7 (2) a description of what the output of the automated decision system is,
+8 such as a score, recommendation, or other similar description;
+9 (3) the degree and manner to which the automated decision system
+10 contributed to the decision;
+11 (4) the types and sources of data processed by the automated decision
+12 system in making the consequential decision;
+13 (5) a plain language explanation of how the consumer’s personal data
+14 informed the consequential decision; and
+15 (6) what actions, if any, the consumer might have taken to secure a
+16 different decision and the actions that the consumer might take to secure a
+17 different decision in the future.
+18 (d)(1) A deployer shall provide and explain a process for a consumer to
+19 appeal a decision, which shall at minimum allow the consumer to:
+20 (A) formally contest the decision;
+21 (B) provide information to support their position; and
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 9 of 23
+1 (C) obtain meaningful human review of the decision.
+2 (2) For an appeal made pursuant to subdivision (1) of this subsection:
+3 (A) a deployer shall designate a human reviewer who:
+4 (i) is trained and qualified to understand the consequential
+5 decision being appealed, the consequences of the decision for the consumer,
+6 how to evaluate and how to serve impartially, including by avoiding
+7 prejudgment of the facts at issue, conflict of interest, and bias;
+8 (ii) does not have a conflict of interest for or against the deployer
+9 or the consumer;
+10 (iii) was not involved in the initial decision being appealed;
+11 (iv) shall enjoy protection from dismissal or its equivalent,
+12 disciplinary measures, or other adverse treatment for exercising their functions
+13 under this section; and
+14 (v) shall be allocated sufficient human resources by the deployer
+15 to conduct an effective appeal of the decision; and
+16 (B) the human reviewer shall consider the information provided by
+17 the consumer in their appeal and may consider other sources of information
+18 relevant to the consequential decision.
+19 (3) A deployer shall respond to a consumer’s appeal not later than 45
+20 after receipt of the appeal. That period may be extended once by an additional
+21 45 days where reasonably necessary, taking into account the complexity and
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 10 of 23
+1 number of appeals. The deployer shall inform the consumer of any extension
+2 not later than 45 days after receipt of the appeal, together with the reasons for
+3 the delay.
+4 (e) The deployer or developer of an automated decision system is legally
+5 responsible for the quality and accuracy of all consequential decisions made,
+6 including any bias or algorithmic discrimination resulting from the operation
+7 of the automated decision system.
+8 (f) A developer shall not use, sell, or share an automated decision system
+9 for use in a consequential decision or a product featuring an automated
+10 decision system for use in a consequential decision that has not passed an
+11 independent audit, in accordance with section 4193e of this title. If an
+12 independent audit finds that an automated decision system for use in a
+13 consequential decision does produce algorithmic discrimination, the developer
+14 shall not use, sell, or share the system until the algorithmic discrimination has
+15 been proven to be rectified by a post-adjustment audit.
+16 (g) Except as provided in subsection 4193e(a) of this title, the rights and
+17 obligations under this section may not be waived by any person, partnership,
+18 association, or corporation.
+19 § 4193d. WHISTLEBLOWER PROTECTIONS
+20 (a) Developer-employers and deployer-employers of automated decision
+21 systems used in consequential decisions shall not:
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 11 of 23
+1 (1) prevent an employee from disclosing information to the Attorney
+2 General, including through terms and conditions of employment or seeking
+3 to enforce terms and conditions of employment, if the employee has reasonable
+4 cause to believe the information indicates a violation of this subchapter; or
+5 (2) retaliate against an employee for disclosing information to the
+6 Attorney General pursuant to subdivision (1) of this subsection.
+7 (b) Developer-employers and deployer-employers of automated decision
+8 systems used in consequential decisions shall provide a clear notice to all
+9 employees working on automated decision systems of their rights and
+10 responsibilities under this subchapter, including the right of employees of
+11 contractors and subcontractors to use the developer’s internal process for
+12 making protected disclosures pursuant to subsection (c) of this section. A
+13 developer-employer or deployer-employer is presumed to be in compliance
+14 with the requirements of this subsection if the developer-employer or deployer-
+15 employer does either of the following:
+16 (1) at all times:
+17 (A) posts and displays within all workplaces maintained by
+18 the developer-employer or deployer-employer a notice to all employees of
+19 their rights and responsibilities under this subchapter;
+20 (B) ensures that all new employees receive equivalent notice; and
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 12 of 23
+1 (C) ensures that employees who work remotely periodically receive
+2 an equivalent notice; or
+3 (2) not less frequently than once every year, provides written notice
+4 to all employees of their rights and responsibilities under this subchapter and
+5 ensures that the notice is received and acknowledged by all of those
+6 employees.
+7 (c) Each developer-employer shall provide a reasonable internal process
+8 through which an employee may anonymously disclose information to the
+9 developer if the employee believes in good faith that the information indicates
+10 that the developer has violated any provision of this subchapter or any other
+11 law, or has made false or materially misleading statements related to its safety
+12 and security protocol, or failed to disclose known risks to employees,
+13 including, at a minimum, a monthly update to the person who made the
+14 disclosure regarding the status of the developer’s investigation of the
+15 disclosure and the actions taken by the developer in response to the disclosure.
+16 § 4193e. AUDITS
+17 (a) Prior to deployment of an automated decision system for use in a
+18 consequential decision, six months after deployment, and at least every 18
+19 months thereafter for each calendar year an automated decision system is in
+20 use in consequential decisions after the first post-deployment audit, the
+21 developer and deployer shall be jointly responsible for ensuring that an
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 13 of 23
+1 independent audit is conducted in compliance with the provisions of this
+2 section to ensure that the product does not produce algorithmic discrimination
+3 and complies with the provisions of this subchapter. The developer and
+4 deployer shall enter into a contract specifying which party is responsible for
+5 the costs, oversight, and results of the audit. Absent an agreement of
+6 responsibility through contract, the developer and deployer shall be jointly and
+7 severally liable for any violations of this section. Regardless of final findings,
+8 the deployer or developer shall deliver all audits conducted under this section
+9 to the Attorney General.
+10 (b) A deployer or developer may contract with more than one auditor to
+11 fulfill the requirements of this section.
+12 (c) The audit shall include the following:
+13 (1) an analysis of data management policies, including whether personal
+14 or sensitive data relating to a consumer is subject to data security protection
+15 standards that comply with the requirements of applicable State law;
+16 (2) an analysis of the system validity and reliability according to each
+17 specified use case listed in the entity’s reporting document filed by the
+18 developer or deployer pursuant to section 4193f of this title;
+19 (3) a comparative analysis of the system’s performance when used on
+20 consumers of different demographic groups and a determination of whether the
+21 system produces algorithmic discrimination in violation of this subchapter by
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 14 of 23
+1 each intended and foreseeable identified use as identified by the deployer and
+2 developer pursuant to section 4193f of this title;
+3 (4) an analysis of how the technology complies with existing relevant
+4 federal, State, and local labor, civil rights, consumer protection, privacy, and
+5 data privacy laws; and
+6 (5) an evaluation of the developer’s or deployer’s documented risk
+7 management policy and program as set forth in section 4193g of this title for
+8 conformity with subsection 4193g(a) of this title.
+9 (d) The Attorney General may adopt further rules as necessary to ensure
+10 that audits under this section assess whether or not automated decision systems
+11 used in consequential decisions produce algorithmic discrimination and
+12 otherwise comply with the provisions of this subchapter.
+13 (e) The independent auditor shall have complete and unredacted copies of
+14 all reports previously filed by the deployer or developer pursuant to section
+15 4193f of this title.
+16 (f) An audit conducted under this section shall be completed in its entirety
+17 without the assistance of an automated decision system.
+18 (g)(1) An auditor shall be an independent entity, including an individual,
+19 nonprofit, firm, corporation, partnership, cooperative, or association.
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 15 of 23
+1 (2) For the purposes of this subchapter, no auditor may be
+2 commissioned by a developer or deployer of an automated decision system
+3 used in consequential decisions if the auditor:
+4 (A) has already been commissioned to provide any auditing or
+5 nonauditing service, including financial auditing, cybersecurity auditing, or
+6 consulting services of any type, to the commissioning company in the past 12
+7 months;
+8 (B) is or was involved in using, developing, integrating, offering,
+9 licensing, or deploying the automated decision system;
+10 (C) has or had an employment relationship with a developer or
+11 deployer that uses, offers, or licenses the automated decision system; or
+12 (D) has or had a direct financial interest or a material indirect
+13 financial interest in a developer or deployer that uses, offers, or licenses the
+14 automated decision system.
+15 (3) Fees paid to auditors may not be contingent on the result of the audit
+16 and the commissioning company shall not provide any incentives or bonuses
+17 for a positive audit result.
+18 (h) The Attorney General may adopt rules to ensure:
+19 (1) the independence of auditors under this section;
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 16 of 23
+1 (2) that teams conducting audits incorporate feedback from communities
+2 that may foreseeably be the subject of algorithmic discrimination with respect
+3 to the automated decision system being audited; and
+4 (3) that the requirements of an audit as set forth in subsection (c) of this
+5 section are updated to reflect responsible evaluation practices and include
+6 adequate information to enforce this subchapter.
+7 § 4193f. AUTOMATED DECISION SYSTEM REPORTING
+8 REQUIREMENTS
+9 (a) Every developer and deployer of an automated decision system used in
+10 a consequential decision shall comply with the reporting requirements of this
+11 section. Regardless of final findings, reports shall be filed with the Attorney
+12 General prior to deployment of an automated decision system used in a
+13 consequential decision and then annually, or after each substantial change to
+14 the system, whichever comes first.
+15 (b) Together with each report required to be filed under this section,
+16 developers and deployers shall file with the Attorney General a copy of the last
+17 completed independent audit required by this subchapter and a legal attestation
+18 that the automated decision system used in a consequential decision:
+19 (1) does not violate any provision of this subchapter; or
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 17 of 23
+1 (2) may violate or does violate one or more provisions of this article,
+2 that there is a plan of remediation to bring the automated decision system into
+3 compliance with this subchapter, and a summary of the plan of remediation.
+4 (c) Developers of automated decision systems shall file with the Attorney
+5 General a report containing the following:
+6 (1) a description of the system including:
+7 (A) a description of the system’s software stack;
+8 (B) the purpose of the system and its expected benefits; and
+9 (C) the system’s current and intended uses, including what
+10 consequential decisions it will support and what stakeholders will be impacted;
+11 (2) the intended outputs of the system and whether the outputs can be or
+12 are otherwise appropriate to be used for any purpose not previously articulated;
+13 (3) the methods for training of their models including:
+14 (A) any pre-processing steps taken to prepare datasets for the training
+15 of a model underlying an automated decision system;
+16 (B) descriptions of the datasets upon which models were trained and
+17 evaluated, how and why datasets were collected and the sources of those
+18 datasets, and how that training data will be used and maintained;
+19 (C) the quality and appropriateness of the data used in the automated
+20 decision system’s design, development, testing, and operation;
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 18 of 23
+1 (D) whether the data contains sufficient breadth to address the range
+2 of real-world inputs the automated decision system might encounter and how
+3 any data gaps have been addressed; and
+4 (E) steps taken to ensure compliance with privacy, data privacy,
+5 data security, and copyright laws;
+6 (4) use and data management policies;
+7 (5) any other information necessary to allow the deployer to understand
+8 the outputs and monitor the system for compliance with this subchapter;
+9 (6) any other information necessary to allow the deployer to comply
+10 with the requirements of subsection (d) of this section;
+11 (7) a description of the system’s capabilities and any developer-imposed
+12 limitations, including capabilities outside of its intended use, when the system
+13 should not be used, any safeguards or guardrails in place to protect against
+14 unintended, inappropriate, or disallowed uses, and testing of any safeguards or
+15 guardrails;
+16 (8) an internal risk assessment including documentation and results of
+17 testing conducted to identify all reasonably foreseeable risks related to
+18 algorithmic discrimination, validity and reliability, privacy and autonomy, and
+19 safety and security, as well as actions taken to address those risks, and
+20 subsequent testing to assess the efficacy of actions taken to address risks; and
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 19 of 23
+1 (9) whether the system should be monitored and, if so, how the system
+2 should be monitored.
+3 (d) Deployers of automated decision systems used in consequential
+4 decisions shall file with the Attorney General a report containing the
+5 following:
+6 (1) a description of the system, including:
+7 (A) a description of the system’s software stack;
+8 (B) the purpose of the system and its expected benefits; and
+9 (C) the system’s current and intended uses, including what
+10 consequential decisions it will support and what stakeholders will be impacted;
+11 (2) the intended outputs of the system and whether the outputs can be
+12 or are otherwise appropriate to be used for any purpose not previously
+13 articulated;
+14 (3) whether the deployer collects revenue or plans to collect revenue
+15 from use of the automated decision system in a consequential decision and, if
+16 so, how it monetizes or plans to monetize use of the system;
+17 (4) whether the system is designed to make consequential decisions
+18 itself or whether and how it supports consequential decisions;
+19 (5) a description of the system’s capabilities and any deployer-imposed
+20 limitations, including capabilities outside of its intended use, when the system
+21 should not be used, any safeguards or guardrails in place to protect against
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 20 of 23
+1 unintended, inappropriate, or disallowed uses, and testing of any safeguards or
+2 guardrails;
+3 (6) an assessment of the relative benefits and costs to the consumer
+4 given the system’s purpose, capabilities, and probable use cases;
+5 (7) an internal risk assessment including documentation and results of
+6 testing conducted to identify all reasonably foreseeable risks related to
+7 algorithmic discrimination, accuracy and reliability, privacy and autonomy,
+8 and safety and security, as well as actions taken to address those risks, and
+9 subsequent testing to assess the efficacy of actions taken to address risks; and
+10 (8) whether the system should be monitored and, if so, how the
+11 system should be monitored.
+12 (e) The Attorney General shall:
+13 (1) adopt rules:
+14 (A) for a process whereby developers and deployers may request
+15 redaction of portions of reports required under this section to ensure that they
+16 are not required to disclose sensitive and protected information; and
+17 (B) to determine reasonably foreseeable risks related to algorithmic
+18 discrimination, validity and reliability, privacy and autonomy, and safety and
+19 security, pursuant to subsections (c) and (d) of this section; and
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 21 of 23
+1 (2) maintain an online database that is accessible to the general public
+2 with reports, redacted in accordance with this section, and audits required by
+3 this subchapter, which shall be updated biannually.
+4 (f) For automated decision systems already in deployment for use in
+5 consequential decisions on or before July 1, 2025, developers and deployers
+6 shall not later than 18 months after July 1, 2025 complete and file the reports
+7 and complete the independent audit required by this subchapter.
+8 § 4193g. RISK MANAGEMENT POLICY AND PROGRAM
+9 (a) Each developer or deployer of automated decision systems used in
+10 consequential decisions shall plan, document, and implement a risk
+11 management policy and program to govern development or deployment, as
+12 applicable, of the automated decision system. The risk management policy and
+13 program shall specify and incorporate the principles, processes, and personnel
+14 that the deployer uses to identify, document, and mitigate known or reasonably
+15 foreseeable risks of algorithmic discrimination covered under section 4193b of
+16 this title. The risk management policy and program shall be an iterative
+17 process planned, implemented, and regularly and systematically reviewed and
+18 updated over the life cycle of an automated decision system, requiring regular,
+19 systematic review and updates, including updates to documentation. A risk
+20 management policy and program implemented and maintained pursuant to this
+21 subsection shall be reasonable considering the:
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 22 of 23
+1 (1) guidance and standards set forth in version 1.0 of the Artificial
+2 Intelligence Risk Management Framework published by the National Institute
+3 of Standards and Technology in the U.S. Department of Commerce, or the
+4 latest version of the Artificial Intelligence Risk Management Framework
+5 published by the National Institute of Standards and Technology if, in the
+6 Attorney General’s discretion, the latest version of the Artificial Intelligence
+7 Risk Management Framework published by the National Institute of Standards
+8 and Technology in the U.S. Department of Commerce is at least as stringent as
+9 version 1.0;
+10 (2) size and complexity of the developer or deployer;
+11 (3) nature, scope, and intended uses of the automated decision system
+12 developed or deployed for use in consequential decisions; and
+13 (4) sensitivity and volume of data processed in connection with
+14 the automated decision system.
+15 (b) A risk management policy and program implemented pursuant to
+16 subsection (a) of this section may cover multiple automated decision systems
+17 developed by the same developer or deployed by the same deployer for use in
+18 consequential decisions if sufficient.
+19 (c) The Attorney General may require a developer or a deployer to
+20 disclose the risk management policy and program implemented pursuant to
+VT LEG #378965 v.1
+
+BILL AS INTRODUCED H.340
+2025 Page 23 of 23
+1 subsection (a) of this section in a form and manner prescribed by the Attorney
+2 General. The Attorney General may evaluate the risk management policy and
+3 program to ensure compliance with this section.
+4 § 4193h. ENFORCEMENT AND RULEMAKING
+5 (a) A person who violates this subchapter or rules adopted pursuant to this
+6 subchapter commits an unfair and deceptive act in commerce in violation of
+7 section 2453 of this title (Vermont Consumer Protection Act). A consumer
+8 harmed by a violation is eligible to all remedies provided under the Vermont
+9 Consumer Protection Act.
+10 (b) The Attorney General has the same authority to adopt rules to
+11 implement the provisions of this section and to conduct civil investigations,
+12 enter into assurances of discontinuance, bring civil actions, and take other
+13 enforcement actions as provided under chapter 63, subchapter 1 of this title.
+14 Sec. 2. EFFECTIVE DATE
+15 This act shall take effect on July 1, 2025.
+VT LEG #378965 v.1
+
+[DELETED:  H P H I R B M W R D S S d d A d I S C S § A]
+[DELETED:  H P ( u i p c r v f ( ( d d ( i ( e f ( n c]
+[DELETED:  H P ( d i r ( p a c n c m a o ( o t ( ( p ( (]
+[DELETED:  H P ( ( ( ( ( ( ( ( t ( s ( d ( m ( e o ( d]
+[DELETED:  H P ( r ( ( a a g i ( ( d c a o ( ( u r i b]
+[DELETED:  H P ( c ( c d ( ( r t ( u § I o p d § ( c f t]
+[DELETED:  H P e c ( s ( s ( a ( c ( ( c ( t ( ( p c ( a]
+[DELETED:  H P ( c c p ( i ( s ( c ( s ( i ( d d ( a ( (]
+[DELETED:  H P ( ( ( ( d h p ( o ( ( d u ( t ( t r ( a 4]
+[DELETED:  H P n n t ( r i o ( f d i i c s b ( o a § ( s]
+[DELETED:  H P ( G t c ( A ( s e r c m d w e ( ( t t (]
+[DELETED:  H P ( a ( t e e ( t d t l a i d d § ( c m u d]
+[DELETED:  H P i s a d t r s t t ( f ( ( o s ( s d ( c s]
+[DELETED:  H P e d ( f d ( m c ( t u o ( a 4 ( w ( n]
+[DELETED:  H P ( c u ( n c m ( l ( d ( f a ( a f ( (]
+[DELETED:  H P ( t t ( s a §   ( a s G c t ( d c t (]
+[DELETED:  H P ( t c ( G ( ( ( ( c ( a ( ( o ( e d ( d]
+[DELETED:  H P ( o a ( d ( ( t ( w ( l s u g ( t a s s]
+[DELETED:  H P ( s ( d f ( ( ( ( c ( o a ( f s ( i ( l s]
+[DELETED:  H P u g ( g ( t a a s ( s ( ( ( r a ( d s]
+[DELETED:  H P ( w t ( c s a § ( c m a p t f t p u s m s]
+[DELETED:  H P ( I o l p A R a v ( ( d ( t ( s d c ( d]
+[DELETED:  H P s G p § ( s s h C ( i e e S T]

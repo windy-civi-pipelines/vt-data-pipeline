@@ -1,0 +1,172 @@
+Title: BILL AS INTRODUCED H.288
+Official Title: BILL AS INTRODUCED H.288
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.288
+2 Introduced by Representatives Hooper of Burlington, Birong of Vergennes,
+3 Bosch of Clarendon, Boyden of Cambridge, Burtt of Cabot,
+4 Casey of Montpelier, Coffin of Cavendish, Dobrovich of
+5 Williamstown, Gregoire of Fairfield, Hooper of Randolph,
+6 Morgan, M. of Milton, Morrissey of Bennington, Mrowicki of
+7 Putney, Ode of Burlington, Page of Newport City, Pinsonault of
+8 Dorset, and Winter of Ludlow
+9 Referred to Committee on
+10 Date:
+11 Subject: Motor vehicles; registration fees; veterans
+12 Statement of purpose of bill as introduced: This bill proposes to waive 100
+13 percent or 50 percent of the registration fee for certain motor vehicles upon
+14 proof that the registered owner or co-owner is a veteran who received a
+15 discharge under other than dishonorable conditions.
+16 An act relating to reduced motor vehicle registration fees for veterans
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 Sec. 1. 23 V.S.A. § 378 is amended to read:
+19 § 378. VETERANS’ EXEMPTIONS
+VT LEG #380632 v.1
+BILL AS INTRODUCED H.288
+2025 Page 2 of 4
+1 (a) No fees shall be charged an honorably discharged to a veteran of the
+2 U.S. Armed Forces who received a discharge under other than dishonorable
+3 conditions and is a resident of the State of Vermont for the registration of a
+4 motor vehicle that the veteran has acquired with financial assistance from the
+5 U.S. Department of Veterans Affairs, or for the registration of a motor vehicle
+6 owned by him or her the veteran during his or her the veteran’s lifetime
+7 obtained as a replacement thereof, when his or her the veteran’s application is
+8 accompanied by a copy of an approved VA Form 21-4502 issued by the U.S.
+9 Department of Veterans Affairs certifying him or her the veteran to be entitled
+10 to the financial assistance.
+11 (b) A veteran of the U.S. Armed Forces who received a discharge under
+12 other than dishonorable conditions and is a resident of the State of Vermont
+13 shall be entitled to a 50 percent reduction of the registration fees owed under
+14 sections 361 (pleasure cars), 364 (motorcycles), 364a (motor-driven cycles),
+15 364b (all-surface vehicles), 373 (exhibition vehicles), 382 (diesel-powered
+16 pleasure cars), 3204 (snowmobiles), 3204a (antique snowmobiles),
+17 3305 (motorboats), and 3504 (all-terrain vehicles) of this title and 3 V.S.A.
+18 § 2822(m) (Clean Air Fund) when the veteran’s registration form or renewal
+19 registration form is accompanied by a copy of an approved DD Form 214.
+20 This reduction in registration fees shall be available if the veteran is listed as
+VT LEG #380632 v.1
+BILL AS INTRODUCED H.288
+2025 Page 3 of 4
+1 an owner or co-owner of the motor vehicle on any registration forms filed with
+2 the Department of Motor Vehicles.
+3 (c) Notwithstanding subsection (b) of this section, a veteran of the U.S.
+4 Armed Forces who received a discharge under other than dishonorable
+5 conditions and is a resident of the State of Vermont shall be entitled to one 100
+6 percent reduction of the registration fees listed in subsection (b) per calendar
+7 year when the veteran’s registration form or renewal registration form is
+8 accompanied by a copy of an approved DD Form 214, provided that the
+9 veteran is not already receiving a fee exemption under subsection (a) of this
+10 section. This reduction in registration fees shall be available if the veteran is
+11 listed as an owner or co-owner of the motor vehicle on any registration forms
+12 filed with the Department of Motor Vehicles.
+13 Sec. 2. 31 V.S.A. § 1304 is amended to read
+14 § 1304. ALLOCATION OF REVENUES TO SPORTS WAGERING
+15 ENTERPRISE FUND
+16 The revenues and fees received by the Department pursuant to this chapter
+17 shall be deposited in the Sports Wagering Enterprise Fund, except for an
+18 amount necessary to offset the amount of foregone vehicle registration fees
+19 pursuant to 23 V.S.A. § 378, which shall be deposited in the Transportation
+20 Fund.
+VT LEG #380632 v.1
+BILL AS INTRODUCED H.288
+2025 Page 4 of 4
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on January 1, 2026.
+VT LEG #380632 v.1
+[DELETED:  H P H I R B C W M P D R D S S p p d A I S §]
+[DELETED:  H P ( U c m U o o a D t ( o s s 3 p 3 § r T]
+[DELETED:  H P a t ( A c p y a v s l f S §   T s a p F]
+[DELETED:  H P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.288
+2025 Page 1 of 4
+1 H.288
+2 Introduced by Representatives Hooper of Burlington, Birong of Vergennes,
+3 Bosch of Clarendon, Boyden of Cambridge, Burtt of Cabot,
+4 Casey of Montpelier, Coffin of Cavendish, Dobrovich of
+5 Williamstown, Gregoire of Fairfield, Hooper of Randolph,
+6 Morgan, M. of Milton, Morrissey of Bennington, Mrowicki of
+7 Putney, Ode of Burlington, Page of Newport City, Pinsonault of
+8 Dorset, and Winter of Ludlow
+9 Referred to Committee on
+10 Date:
+11 Subject: Motor vehicles; registration fees; veterans
+12 Statement of purpose of bill as introduced: This bill proposes to waive 100
+13 percent or 50 percent of the registration fee for certain motor vehicles upon
+14 proof that the registered owner or co-owner is a veteran who received a
+15 discharge under other than dishonorable conditions.
+16 An act relating to reduced motor vehicle registration fees for veterans
+17 It is hereby enacted by the General Assembly of the State of Vermont:
+18 Sec. 1. 23 V.S.A. § 378 is amended to read:
+19 § 378. VETERANS’ EXEMPTIONS
+VT LEG #380632 v.1
+
+BILL AS INTRODUCED H.288
+2025 Page 2 of 4
+1 (a) No fees shall be charged an honorably discharged to a veteran of the
+2 U.S. Armed Forces who received a discharge under other than dishonorable
+3 conditions and is a resident of the State of Vermont for the registration of a
+4 motor vehicle that the veteran has acquired with financial assistance from the
+5 U.S. Department of Veterans Affairs, or for the registration of a motor vehicle
+6 owned by him or her the veteran during his or her the veteran’s lifetime
+7 obtained as a replacement thereof, when his or her the veteran’s application is
+8 accompanied by a copy of an approved VA Form 21-4502 issued by the U.S.
+9 Department of Veterans Affairs certifying him or her the veteran to be entitled
+10 to the financial assistance.
+11 (b) A veteran of the U.S. Armed Forces who received a discharge under
+12 other than dishonorable conditions and is a resident of the State of Vermont
+13 shall be entitled to a 50 percent reduction of the registration fees owed under
+14 sections 361 (pleasure cars), 364 (motorcycles), 364a (motor-driven cycles),
+15 364b (all-surface vehicles), 373 (exhibition vehicles), 382 (diesel-powered
+16 pleasure cars), 3204 (snowmobiles), 3204a (antique snowmobiles),
+17 3305 (motorboats), and 3504 (all-terrain vehicles) of this title and 3 V.S.A.
+18 § 2822(m) (Clean Air Fund) when the veteran’s registration form or renewal
+19 registration form is accompanied by a copy of an approved DD Form 214.
+20 This reduction in registration fees shall be available if the veteran is listed as
+VT LEG #380632 v.1
+
+BILL AS INTRODUCED H.288
+2025 Page 3 of 4
+1 an owner or co-owner of the motor vehicle on any registration forms filed with
+2 the Department of Motor Vehicles.
+3 (c) Notwithstanding subsection (b) of this section, a veteran of the U.S.
+4 Armed Forces who received a discharge under other than dishonorable
+5 conditions and is a resident of the State of Vermont shall be entitled to one 100
+6 percent reduction of the registration fees listed in subsection (b) per calendar
+7 year when the veteran’s registration form or renewal registration form is
+8 accompanied by a copy of an approved DD Form 214, provided that the
+9 veteran is not already receiving a fee exemption under subsection (a) of this
+10 section. This reduction in registration fees shall be available if the veteran is
+11 listed as an owner or co-owner of the motor vehicle on any registration forms
+12 filed with the Department of Motor Vehicles.
+13 Sec. 2. 31 V.S.A. § 1304 is amended to read
+14 § 1304. ALLOCATION OF REVENUES TO SPORTS WAGERING
+15 ENTERPRISE FUND
+16 The revenues and fees received by the Department pursuant to this chapter
+17 shall be deposited in the Sports Wagering Enterprise Fund, except for an
+18 amount necessary to offset the amount of foregone vehicle registration fees
+19 pursuant to 23 V.S.A. § 378, which shall be deposited in the Transportation
+20 Fund.
+VT LEG #380632 v.1
+
+BILL AS INTRODUCED H.288
+2025 Page 4 of 4
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on January 1, 2026.
+VT LEG #380632 v.1
+
+[DELETED:  H P H I R B C W M P D R D S S p p d A I S §]
+[DELETED:  H P ( U c m U o o a D t ( o s s 3 p 3 § r T]
+[DELETED:  H P a t ( A c p y a v s l f S §   T s a p F]
+[DELETED:  H P S T]

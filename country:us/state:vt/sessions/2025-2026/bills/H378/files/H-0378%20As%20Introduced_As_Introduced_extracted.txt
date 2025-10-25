@@ -1,0 +1,916 @@
+Title: BILL AS INTRODUCED H.378
+Official Title: BILL AS INTRODUCED H.378
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 18
+1 H.378
+2 Introduced by Representatives Bartley of Fairfax, Canfield of Fair Haven,
+3 Bosch of Clarendon, Duke of Burlington, Graning of Jericho,
+4 Krasnow of South Burlington, Marcotte of Coventry, Micklus
+5 of Milton, Priestley of Bradford, and White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Taxation and finance; education property tax; tax increment
+9 financing; municipal and county government; indebtedness; TIF
+10 Statement of purpose of bill as introduced: This bill proposes to establish a
+11 housing infrastructure tax increment financing program, administered by the
+12 Vermont Economic Progress Council, to authorize municipalities to use
+13 statewide education property tax and municipal property tax increment to pay
+14 for financing undertaken by the municipality, a developer, or a sponsor for
+15 infrastructure that will stimulate housing development within a geographically
+16 eligible area.
+17 An act relating to tax increment financing for housing infrastructure
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 24 V.S.A. chapter 53, subchapter 7 is added to read:
+20 Subchapter 7. Housing Infrastructure Tax Increment Financing
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 2 of 18
+1 § 1906. DEFINITIONS
+2 As used in this subchapter:
+3 (1) “Brownfield” means a property on which the presence or potential
+4 presence of a hazardous substance, pollutant, or contaminant complicates the
+5 expansion, development, redevelopment, or reuse of the property.
+6 (2) “Committed” means pledged and appropriated for the purpose of the
+7 current and future payment of financing and related costs.
+8 (3) “Developer” means the person undertaking to develop a housing
+9 infrastructure project.
+10 (4) “Financing” means debt, including principal, interest, and any fees
+11 or charges directly related to that debt, incurred by a sponsor to pay for a
+12 housing infrastructure project and, in the case of a sponsor that is a
+13 municipality, authorized by the municipality pursuant to section 1910 of this
+14 subchapter.
+15 (5) “Housing development site” means the parcel or parcels
+16 encompassing a housing infrastructure project authorized by a municipality
+17 pursuant to section 1907 of this subchapter.
+18 (6) “Housing infrastructure project” means an improvement or
+19 improvements authorized by a municipality pursuant to section 1907 of this
+20 subchapter.
+21 (7) “Improvements” means:
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 3 of 18
+1 (A) the installation or construction of infrastructure, including
+2 utilities, transportation, public facilities and amenities, land and property
+3 acquisition and demolition, brownfield remediation, site preparation, and flood
+4 remediation and mitigation; and
+5 (B) the funding of debt service interest payments for a period of up to
+6 three years, beginning on the date on which the first debt is incurred.
+7 (8) “Legislative body” means the mayor and alderboard, the city
+8 council, the selectboard, and the president and trustees of an incorporated
+9 village, as appropriate.
+10 (9) “Municipality” means a city, town, or incorporated village.
+11 (10) “Original taxable value” means the total valuation as determined in
+12 accordance with 32 V.S.A. chapter 129 of a housing development site as of its
+13 creation date.
+14 (11) “Public infrastructure agreement” means a legally binding
+15 agreement to develop a housing infrastructure project between a municipality
+16 and a sponsor or developer, or both.
+17 (12) “Related costs” means expenses incurred and paid by a
+18 municipality, exclusive of the actual cost of constructing and financing a
+19 housing infrastructure project, that are directly related to the creation and
+20 implementation of the municipality’s housing infrastructure project, including
+21 reimbursement of sums previously advanced by the municipality for those
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 4 of 18
+1 purposes. Related costs may not include direct municipal expenses such as
+2 departmental or personnel costs.
+3 (13) “Sponsor” means the person undertaking to finance a housing
+4 infrastructure project. Any of a municipality, a developer, or an independent
+5 agency that meets State lending standards may serve as a sponsor for a housing
+6 infrastructure project.
+7 § 1907. CREATION OF HOUSING INFRASTRUCTURE PROJECT AND
+8 HOUSING DEVELOPMENT SITE
+9 (a) The legislative body of a municipality may create within its jurisdiction
+10 a housing infrastructure project, which shall consist of improvements that
+11 stimulate the development of housing, and a housing development site, which
+12 shall consist of the parcel or parcels on which a housing infrastructure project
+13 is installed or constructed.
+14 (b) To create a housing infrastructure project and housing development
+15 site, a municipality shall:
+16 (1) develop a housing development plan, including:
+17 (A) a description of the proposed housing infrastructure project and
+18 the proposed housing development site;
+19 (B) identification of a sponsor;
+20 (C) a development financing plan;
+21 (D) a pro forma projection of expected costs;
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 5 of 18
+1 (E) a projection of revenues; and
+2 (F) a development schedule that includes a list, a cost estimate, and a
+3 schedule for the proposed housing infrastructure project and projected private
+4 development to occur as a result of the proposed housing infrastructure project;
+5 (2) develop a plan describing the housing development site by its
+6 boundaries and the properties therein, entitled “Proposed Housing
+7 Development Site (municipal name), Vermont”;
+8 (3) hold one or more public hearings, after public notice, on the
+9 proposed housing infrastructure project, including the plans developed
+10 pursuant to this subsection; and
+11 (4) adopt by act of the legislative body of the municipality the plan
+12 developed under subdivision (2) of this subsection, which shall be recorded
+13 with the municipal clerk and lister or assessor.
+14 (c) The creation of a housing development site shall occur at 12:01 a.m. on
+15 April 1 of the calendar year in which the Vermont Economic Progress Council
+16 approves the use of tax increment financing for the housing infrastructure
+17 project pursuant to section 1909 of this subchapter.
+18 § 1908. PUBLIC INFRASTRUCTURE AGREEMENT
+19 (a) The public infrastructure agreement for a housing infrastructure project
+20 shall:
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 6 of 18
+1 (1) clearly identify the developer and sponsor for the housing
+2 infrastructure project;
+3 (2) clearly identify the housing development projected for the housing
+4 development site and identify the substantial completion target for certification
+5 pursuant to subsection 1910b(d);
+6 (3) obligate the tax increments retained pursuant to section 1910b of this
+7 subchapter for not more than the financing and related costs for the housing
+8 infrastructure project;
+9 (4) provide as consideration offered by the municipality not more than
+10 the tax increments retained pursuant to section 1910b of this subchapter; and
+11 (5) ensure the municipality pursuing the housing infrastructure project is
+12 protected against developer or sponsor failure to perform.
+13 (b) A municipality shall provide notice of the terms of the public
+14 infrastructure agreement governing the municipality’s housing infrastructure
+15 project to the legal voters of the municipality and shall provide the same
+16 information as set forth in subsection 1910(e) of this subchapter.
+17 § 1909. HOUSING INFRASTRUCTURE PROJECT APPLICATION;
+18 VERMONT ECONOMIC PROGRESS COUNCIL
+19 (a) A municipality, upon approval of its legislative body, may apply to the
+20 Vermont Economic Progress Council to use tax increment financing for a
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 7 of 18
+1 housing infrastructure project. The Vermont Economic Progress Council may
+2 approve only applications meeting the standards of this section.
+3 (b) Staff of the Council may approve applications submitted to meet either
+4 location criterion of subdivisions (d)(2)(A)–(B) of this section, but applications
+5 submitted to meet either location criterion of subdivisions (d)(2)(C)–(D) of this
+6 section shall require approval of the board.
+7 (c) The Vermont Economic Progress Council shall review a municipality’s
+8 housing infrastructure project application to determine whether the
+9 municipality has:
+10 (1) created a housing infrastructure project and housing development
+11 site pursuant to subsection 1907(b) of this subchapter;
+12 (2) executed a public infrastructure agreement to develop the housing
+13 infrastructure project with a sponsor or developer, or both, adhering to the
+14 standards of subsection 1908(a) of this subchapter; and
+15 (3) approved or pledged to use incremental municipal tax revenues for
+16 the housing infrastructure project in the proportion provided in subsection
+17 1910b(b) of this subchapter.
+18 (d) The Vermont Economic Progress Council shall review a municipality’s
+19 housing infrastructure project application to determine whether the housing
+20 development plan meets the following criteria:
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 8 of 18
+1 (1) at least 50 percent of the gross floor area of the projected private
+2 development is dedicated to housing; and
+3 (2) the housing development site is located within one of the following
+4 areas:
+5 (A) an area designated Tier 1 pursuant to 10 V.S.A. chapter 151;
+6 (B) an area exempt from the provisions of 10 V.S.A. chapter 151
+7 pursuant to 10 V.S.A. § 6081(dd);
+8 (C) an existing settlement as that term is defined in 10 V.S.A.
+9 § 6001(16); or
+10 (D) an area within one half-mile of an existing settlement as that term
+11 is defined in 10 V.S.A. § 6001(16).
+12 (e) The Vermont Economic Progress Council shall approve a
+13 municipality’s tax increment financing plan prior to a sponsor’s incurrence of
+14 debt for the housing infrastructure project, including, if the sponsor is a
+15 municipality, prior to a public vote to pledge the credit of the municipality
+16 under section 1910 of this subchapter. The tax increment financing plan shall
+17 include all information related to the proposed financing necessary for
+18 approval by the Council and to ensure its viability and consistency with the
+19 housing development plan developed pursuant to subdivision 1907(b)(1) of
+20 this subchapter.
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 9 of 18
+1 § 1910. INDEBTEDNESS
+2 (a) A municipality approved for tax increment financing under section
+3 1909 of this subchapter may incur indebtedness against revenues of the
+4 housing development site at any time during a period of up to two years
+5 following the creation of the housing development site. If no debt is incurred
+6 for the housing infrastructure project during this two-year period, whether by
+7 the municipality or sponsor, the housing development site shall terminate.
+8 (b) Notwithstanding any provision of any municipal charter, each instance
+9 of borrowing by the municipality to finance or otherwise pay for a housing
+10 infrastructure project shall occur only after the legal voters of the municipality,
+11 by a majority vote of all voters present and voting on the question at a special
+12 or annual municipal meeting duly warned for the purpose, authorize the
+13 legislative body to pledge the credit of the municipality, borrow, or otherwise
+14 secure the debt for the specific purposes so warned.
+15 (c) Any indebtedness incurred under this section may be retired over any
+16 period authorized by the legislative body of the municipality.
+17 (d) The housing development site shall continue until the date and hour the
+18 indebtedness is retired or, if no debt is incurred, two years following the
+19 creation of the housing development site.
+20 (e) A municipal legislative body shall provide information to the public
+21 prior to the public vote required under subsection (b) of this section. This
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 10 of 18
+1 information shall include the amount and types of debt and related costs to be
+2 incurred, including principal, interest, and fees; terms of the debt; the housing
+3 infrastructure project to be financed; the private development projected to
+4 occur because of the housing infrastructure project; and notice to the voters
+5 that if the tax increment received by the municipality from any property tax
+6 source is insufficient to pay the principal and interest on the debt in any year,
+7 the municipality shall remain liable for the full payment of the principal and
+8 interest for the term of the indebtedness. If interfund loans within the
+9 municipality are used, the information must also include documentation of the
+10 terms and conditions of the loan. If interfund loans within the municipality are
+11 used as the method of financing, no interest shall be charged.
+12 § 1910a. ORIGINAL TAXABLE VALUE; TAX INCREMENT
+13 (a) As of the date the housing development site is created, the lister or
+14 assessor for the municipality shall certify the original taxable value and shall
+15 certify to the legislative body in each year thereafter during the life of the
+16 housing development site the amount by which the total valuation as
+17 determined in accordance with 32 V.S.A. chapter 129 of all taxable real
+18 property within the housing development site has increased or decreased
+19 relative to the original taxable value.
+20 (b) Throughout the life of the housing development site, the lister or
+21 assessor shall include not more than the original taxable value of the real
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 11 of 18
+1 property in the assessed valuation upon which the treasurer computes the rates
+2 of all taxes levied by the municipality and every other taxing district in which
+3 the housing development site is situated, but the treasurer shall extend all rates
+4 so determined against the entire assessed valuation of real property for that
+5 year.
+6 (c) Throughout the life of the housing development site, a municipality
+7 shall remit not less than the aggregate tax due on the original taxable value to
+8 the Education Fund.
+9 (d) Throughout the life of the housing development site, the municipality
+10 shall hold apart, rather than remit to the taxing districts, that proportion of all
+11 taxes paid that year on the real property within the housing development site
+12 that the excess valuation bears to the total assessed valuation. The amount
+13 held apart each year is the “tax increment” for that year. The tax increment
+14 shall only be used for financing and related costs.
+15 (e) Not more than the percentages established pursuant to section 1910b of
+16 this subchapter of the municipal and State education tax increments received
+17 with respect to the housing development site and committed for the payment
+18 for financing for improvements and related costs shall be segregated by the
+19 municipality in a special tax increment financing account and in its official
+20 books and records until all capital indebtedness incurred for the housing
+21 infrastructure project has been fully paid. The final payment shall be reported
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 12 of 18
+1 to the treasurer, who shall thereafter include the entire assessed valuation of the
+2 housing development site in the assessed valuations upon which the municipal
+3 and other tax rates are computed and extended, and thereafter no taxes from
+4 the housing development site shall be deposited in the special tax increment
+5 financing account.
+6 (f) Notwithstanding any charter provision or other provision, all property
+7 taxes assessed within a housing development site shall be subject to the
+8 provisions of this section. Special assessments levied under chapter 76A or 87
+9 of this title or under a municipal charter shall not be considered property taxes
+10 for the purpose of this section if the proceeds are used exclusively for
+11 operating expenses related to properties within the housing development site
+12 and not for the housing infrastructure project.
+13 § 1910b. USE OF TAX INCREMENT; RETENTION PERIOD;
+14 SUBSTANTIAL COMPLETION
+15 (a) Education property tax increment. For only debt incurred within the
+16 period permitted under subsection 1910(a) of this subchapter and related costs,
+17 up to 80 percent of the education property tax increment may be retained for
+18 up to 20 years, beginning on July 1 of the year in which the Vermont
+19 Economic Progress Council certifies substantial completion of the housing
+20 development pursuant to subsection (d) of this section.
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 13 of 18
+1 (b) Municipal property tax increment. For only debt incurred within the
+2 period permitted under subsection 1910(a) of this subchapter and related costs,
+3 not less than 80 percent of the municipal property tax increment may be
+4 retained, beginning on July 1 of the year in which the Vermont Economic
+5 Progress Council certifies substantial completion of the housing development
+6 pursuant to subsection (d) of this section.
+7 (c) Excess tax increment.
+8 (1) Of the municipal and education property tax increments received in
+9 any tax year that exceed the amounts committed for the payment of the
+10 financing and related costs for a housing infrastructure project, equal portions
+11 of each increment may be retained for the following purposes:
+12 (A) to prepay principal and interest on the financing;
+13 (B) to place in a special tax increment financing account required
+14 pursuant to subsection 1910a(e) of this subchapter and use for future financing
+15 payments; or
+16 (C) to use for defeasance of the financing.
+17 (2) Any remaining portion of the excess education property tax
+18 increment shall be distributed to the Education Fund. Any remaining portion
+19 of the excess municipal property tax increment shall be distributed to the city,
+20 town, or village budget in the proportion that each budget bears to the
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 14 of 18
+1 combined total of the budgets unless otherwise negotiated by the city, town, or
+2 village.
+3 (d) Substantial completion certification. A municipality shall promptly
+4 notify the Vermont Economic Progress Council upon completion of 50 percent
+5 of the housing development projected in the housing development plan
+6 developed pursuant to subdivision 1907(b)(1). The Vermont Economic
+7 Progress Council shall confirm and certify substantial completion of the
+8 housing development against the housing development plan for the purpose of
+9 starting the tax increment retention periods pursuant to subsections (a) and (b)
+10 of this section.
+11 § 1910c. INFORMATION REPORTING
+12 (a) A municipality with an active housing infrastructure project shall:
+13 (1) develop a system, segregated for the housing infrastructure project,
+14 to identify, collect, and maintain all data and information necessary to fulfill
+15 the reporting requirements of this section, including performance measures;
+16 (2) provide timely notification to the Department of Taxes and the
+17 Vermont Economic Progress Council of any housing infrastructure project
+18 debt, public vote, or vote by the municipal legislative body immediately
+19 following the debt incurrence or public vote on a form prescribed by the
+20 Council, including copies of public notices, agendas, minutes, vote tally, and a
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 15 of 18
+1 copy of the information provided to the public pursuant to subsection 1910(e)
+2 of this subchapter; and
+3 (3) annually on or before October 15, submit on a form prescribed by
+4 the Vermont Economic Progress Council an annual report to the Council and
+5 the Department of Taxes, including the information required by subdivision (2)
+6 of this subsection if not previously submitted, the information required for
+7 annual audit under section 1910d of this subchapter, and any information
+8 required by the Council or the Department of Taxes for the report required
+9 pursuant to subsection (b) of this section.
+10 (b) Annually on or before January 1, the Vermont Economic Progress
+11 Council and the Department of Taxes shall submit a report to the Senate
+12 Committees on Economic Development, Housing and General Affairs and on
+13 Finance and the House Committees on Commerce and Economic Development
+14 and on Ways and Means on housing infrastructure projects approved pursuant
+15 to this subchapter, including for each:
+16 (1) the date of approval;
+17 (2) a description of the housing infrastructure project;
+18 (3) the original taxable value of the housing development site;
+19 (4) the scope and value of projected and actual improvements and
+20 developments in the housing development site;
+21 (5) projected and actual incremental revenue amounts;
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 16 of 18
+1 (6) the allocation of incremental revenue;
+2 (7) projected and actual financing;
+3 (8) performance measures developed by the Vermont Economic
+4 Progress Council; and
+5 (9) the amount of infrastructure work performed by Vermont firms.
+6 § 1910d. AUDITING
+7 Annually on or before April 1 until the year following the end of the period
+8 for retention of education property tax increment, a municipality with a
+9 housing infrastructure project approved under this subchapter shall ensure that
+10 the housing infrastructure project is subject to the annual audit prescribed in
+11 section 1681 or 1690 of this title and submit a copy to the Vermont Economic
+12 Progress Council. If a housing infrastructure project is subject only to the
+13 audit under section 1681 of this title, the Council shall ensure a process is in
+14 place to subject the housing infrastructure project to an independent audit.
+15 Procedures for the audit must include verification of the original taxable value
+16 and annual and total municipal and education property tax increments
+17 generated, expenditures for financing and related costs, and current balance.
+18 § 1910e. GUIDANCE
+19 (a) The Secretary of Commerce and Community Development, after
+20 reasonable notice to a municipality and an opportunity for a hearing, may issue
+21 decisions to a municipality on questions and inquiries concerning the
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 17 of 18
+1 administration of housing infrastructure projects, statutes, rules,
+2 noncompliance with this subchapter, and any instances of noncompliance
+3 identified in audit reports conducted pursuant to section 1910d of this
+4 subchapter.
+5 (b) The Vermont Economic Progress Council shall prepare
+6 recommendations for the Secretary of Commerce and Community
+7 Development prior to any decision issued pursuant to subsection (a) of this
+8 section. The Council may prepare recommendations in consultation with the
+9 Commissioner of Taxes, the Attorney General, and the State Treasurer. In
+10 preparing recommendations, the Council shall provide a municipality with a
+11 reasonable opportunity to submit written information in support of its position.
+12 (c) The Secretary of Commerce and Community Development shall review
+13 the recommendations of the Council and issue a final written decision on each
+14 matter within 60 days following receipt of the recommendations. The
+15 Secretary may permit an appeal to be taken by any party to a Superior Court
+16 for determination of questions of law in the same manner as the Supreme Court
+17 may by rule provide for appeals before final judgment from a Superior Court
+18 before issuing a final decision.
+19 (d) The Vermont Economic Progress Council may adopt policies that are
+20 consistent with the 2015 TIF Rule, as modified by subsequent rulemaking, to
+21 implement this subchapter.
+VT LEG #381015 v.3
+BILL AS INTRODUCED H.378
+2025 Page 18 of 18
+1 Sec. 2. 32 V.S.A. § 3325 is amended to read:
+2 § 3325. VERMONT ECONOMIC PROGRESS COUNCIL
+3 (a) Creation. The Vermont Economic Progress Council is created to
+4 exercise the authority and perform the duties assigned to it, including its
+5 authority and duties relating to:
+6 (1) the Vermont Employment Growth Incentive Program pursuant to
+7 subchapter 2 of this chapter; and
+8 (2) tax increment financing districts pursuant to 24 V.S.A. chapter 53,
+9 subchapter 5 and section 5404a of this title; and
+10 (3) housing infrastructure tax increment financing pursuant to 24 V.S.A.
+11 chapter 53, subchapter 7.
+12 * * *
+13 (g) Decisions not subject to review. A decision of the Council to approve
+14 or deny an application under subchapter 2 of this chapter, or to approve or
+15 deny a tax increment financing district pursuant to 24 V.S.A. chapter 53,
+16 subchapter 5 and section 5404a of this title, or to approve or deny a housing
+17 infrastructure project pursuant to 24 V.S.A. chapter 53, subchapter 7 is an
+18 administrative decision that is not subject to the contested case hearing
+19 requirements under 3 V.S.A. chapter 25 and is not subject to judicial review.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #381015 v.3
+[DELETED:  H P H I R B K o R D S f S h V s f i e A I S S]
+[DELETED:  H P § A ( p e ( c ( i ( o h m s ( e p ( i s (]
+[DELETED:  H P ( u a r ( t ( c v ( ( a c ( a a ( m h i r]
+[DELETED:  H P p d ( i a i §   ( a s s i ( s ( ( t ( ( (]
+[DELETED:  H P ( ( s d ( b D ( p p ( d w ( A a p § ( s]
+[DELETED:  H P ( i ( d p ( s i ( t ( p ( i p i §   ( V]
+[DELETED:  H P h a ( l s s ( h m ( s ( i s ( t 1 ( h d]
+[DELETED:  H P ( d ( a ( ( p ( § ( i ( m d m u i a h t]
+[DELETED:  H P § ( 1 h f f t ( o i b o l s ( p ( i c ( p]
+[DELETED:  H P i i i o t s t i m t u § ( a c h d p r ( a]
+[DELETED:  H P p o t s y ( s t ( s t t h s ( t w f m b i]
+[DELETED:  H P t h a t f ( t p o f o a §   ( p u u E d]
+[DELETED:  H P ( p n r P p ( ( a f o ( ( p p ( ( i o t]
+[DELETED:  H P c v ( n o d P h s o § ( ( t t ( V d f C]
+[DELETED:  H P c o ( t t o a r p ( C C F a t ( ( ( ( d (]
+[DELETED:  H P ( ( ( P ( § A f h t s P a p P a g § ( r d]
+[DELETED:  H P a n i s ( r D s C p r ( t m S f m b ( c i]
+[DELETED:  H P S § ( e a ( s ( s ( c * ( o d s i a r S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.378
+2025 Page 1 of 18
+1 H.378
+2 Introduced by Representatives Bartley of Fairfax, Canfield of Fair Haven,
+3 Bosch of Clarendon, Duke of Burlington, Graning of Jericho,
+4 Krasnow of South Burlington, Marcotte of Coventry, Micklus
+5 of Milton, Priestley of Bradford, and White of Bethel
+6 Referred to Committee on
+7 Date:
+8 Subject: Taxation and finance; education property tax; tax increment
+9 financing; municipal and county government; indebtedness; TIF
+10 Statement of purpose of bill as introduced: This bill proposes to establish a
+11 housing infrastructure tax increment financing program, administered by the
+12 Vermont Economic Progress Council, to authorize municipalities to use
+13 statewide education property tax and municipal property tax increment to pay
+14 for financing undertaken by the municipality, a developer, or a sponsor for
+15 infrastructure that will stimulate housing development within a geographically
+16 eligible area.
+17 An act relating to tax increment financing for housing infrastructure
+18 It is hereby enacted by the General Assembly of the State of Vermont:
+19 Sec. 1. 24 V.S.A. chapter 53, subchapter 7 is added to read:
+20 Subchapter 7. Housing Infrastructure Tax Increment Financing
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 2 of 18
+1 § 1906. DEFINITIONS
+2 As used in this subchapter:
+3 (1) “Brownfield” means a property on which the presence or potential
+4 presence of a hazardous substance, pollutant, or contaminant complicates the
+5 expansion, development, redevelopment, or reuse of the property.
+6 (2) “Committed” means pledged and appropriated for the purpose of the
+7 current and future payment of financing and related costs.
+8 (3) “Developer” means the person undertaking to develop a housing
+9 infrastructure project.
+10 (4) “Financing” means debt, including principal, interest, and any fees
+11 or charges directly related to that debt, incurred by a sponsor to pay for a
+12 housing infrastructure project and, in the case of a sponsor that is a
+13 municipality, authorized by the municipality pursuant to section 1910 of this
+14 subchapter.
+15 (5) “Housing development site” means the parcel or parcels
+16 encompassing a housing infrastructure project authorized by a municipality
+17 pursuant to section 1907 of this subchapter.
+18 (6) “Housing infrastructure project” means an improvement or
+19 improvements authorized by a municipality pursuant to section 1907 of this
+20 subchapter.
+21 (7) “Improvements” means:
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 3 of 18
+1 (A) the installation or construction of infrastructure, including
+2 utilities, transportation, public facilities and amenities, land and property
+3 acquisition and demolition, brownfield remediation, site preparation, and flood
+4 remediation and mitigation; and
+5 (B) the funding of debt service interest payments for a period of up to
+6 three years, beginning on the date on which the first debt is incurred.
+7 (8) “Legislative body” means the mayor and alderboard, the city
+8 council, the selectboard, and the president and trustees of an incorporated
+9 village, as appropriate.
+10 (9) “Municipality” means a city, town, or incorporated village.
+11 (10) “Original taxable value” means the total valuation as determined in
+12 accordance with 32 V.S.A. chapter 129 of a housing development site as of its
+13 creation date.
+14 (11) “Public infrastructure agreement” means a legally binding
+15 agreement to develop a housing infrastructure project between a municipality
+16 and a sponsor or developer, or both.
+17 (12) “Related costs” means expenses incurred and paid by a
+18 municipality, exclusive of the actual cost of constructing and financing a
+19 housing infrastructure project, that are directly related to the creation and
+20 implementation of the municipality’s housing infrastructure project, including
+21 reimbursement of sums previously advanced by the municipality for those
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 4 of 18
+1 purposes. Related costs may not include direct municipal expenses such as
+2 departmental or personnel costs.
+3 (13) “Sponsor” means the person undertaking to finance a housing
+4 infrastructure project. Any of a municipality, a developer, or an independent
+5 agency that meets State lending standards may serve as a sponsor for a housing
+6 infrastructure project.
+7 § 1907. CREATION OF HOUSING INFRASTRUCTURE PROJECT AND
+8 HOUSING DEVELOPMENT SITE
+9 (a) The legislative body of a municipality may create within its jurisdiction
+10 a housing infrastructure project, which shall consist of improvements that
+11 stimulate the development of housing, and a housing development site, which
+12 shall consist of the parcel or parcels on which a housing infrastructure project
+13 is installed or constructed.
+14 (b) To create a housing infrastructure project and housing development
+15 site, a municipality shall:
+16 (1) develop a housing development plan, including:
+17 (A) a description of the proposed housing infrastructure project and
+18 the proposed housing development site;
+19 (B) identification of a sponsor;
+20 (C) a development financing plan;
+21 (D) a pro forma projection of expected costs;
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 5 of 18
+1 (E) a projection of revenues; and
+2 (F) a development schedule that includes a list, a cost estimate, and a
+3 schedule for the proposed housing infrastructure project and projected private
+4 development to occur as a result of the proposed housing infrastructure project;
+5 (2) develop a plan describing the housing development site by its
+6 boundaries and the properties therein, entitled “Proposed Housing
+7 Development Site (municipal name), Vermont”;
+8 (3) hold one or more public hearings, after public notice, on the
+9 proposed housing infrastructure project, including the plans developed
+10 pursuant to this subsection; and
+11 (4) adopt by act of the legislative body of the municipality the plan
+12 developed under subdivision (2) of this subsection, which shall be recorded
+13 with the municipal clerk and lister or assessor.
+14 (c) The creation of a housing development site shall occur at 12:01 a.m. on
+15 April 1 of the calendar year in which the Vermont Economic Progress Council
+16 approves the use of tax increment financing for the housing infrastructure
+17 project pursuant to section 1909 of this subchapter.
+18 § 1908. PUBLIC INFRASTRUCTURE AGREEMENT
+19 (a) The public infrastructure agreement for a housing infrastructure project
+20 shall:
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 6 of 18
+1 (1) clearly identify the developer and sponsor for the housing
+2 infrastructure project;
+3 (2) clearly identify the housing development projected for the housing
+4 development site and identify the substantial completion target for certification
+5 pursuant to subsection 1910b(d);
+6 (3) obligate the tax increments retained pursuant to section 1910b of this
+7 subchapter for not more than the financing and related costs for the housing
+8 infrastructure project;
+9 (4) provide as consideration offered by the municipality not more than
+10 the tax increments retained pursuant to section 1910b of this subchapter; and
+11 (5) ensure the municipality pursuing the housing infrastructure project is
+12 protected against developer or sponsor failure to perform.
+13 (b) A municipality shall provide notice of the terms of the public
+14 infrastructure agreement governing the municipality’s housing infrastructure
+15 project to the legal voters of the municipality and shall provide the same
+16 information as set forth in subsection 1910(e) of this subchapter.
+17 § 1909. HOUSING INFRASTRUCTURE PROJECT APPLICATION;
+18 VERMONT ECONOMIC PROGRESS COUNCIL
+19 (a) A municipality, upon approval of its legislative body, may apply to the
+20 Vermont Economic Progress Council to use tax increment financing for a
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 7 of 18
+1 housing infrastructure project. The Vermont Economic Progress Council may
+2 approve only applications meeting the standards of this section.
+3 (b) Staff of the Council may approve applications submitted to meet either
+4 location criterion of subdivisions (d)(2)(A)–(B) of this section, but applications
+5 submitted to meet either location criterion of subdivisions (d)(2)(C)–(D) of this
+6 section shall require approval of the board.
+7 (c) The Vermont Economic Progress Council shall review a municipality’s
+8 housing infrastructure project application to determine whether the
+9 municipality has:
+10 (1) created a housing infrastructure project and housing development
+11 site pursuant to subsection 1907(b) of this subchapter;
+12 (2) executed a public infrastructure agreement to develop the housing
+13 infrastructure project with a sponsor or developer, or both, adhering to the
+14 standards of subsection 1908(a) of this subchapter; and
+15 (3) approved or pledged to use incremental municipal tax revenues for
+16 the housing infrastructure project in the proportion provided in subsection
+17 1910b(b) of this subchapter.
+18 (d) The Vermont Economic Progress Council shall review a municipality’s
+19 housing infrastructure project application to determine whether the housing
+20 development plan meets the following criteria:
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 8 of 18
+1 (1) at least 50 percent of the gross floor area of the projected private
+2 development is dedicated to housing; and
+3 (2) the housing development site is located within one of the following
+4 areas:
+5 (A) an area designated Tier 1 pursuant to 10 V.S.A. chapter 151;
+6 (B) an area exempt from the provisions of 10 V.S.A. chapter 151
+7 pursuant to 10 V.S.A. § 6081(dd);
+8 (C) an existing settlement as that term is defined in 10 V.S.A.
+9 § 6001(16); or
+10 (D) an area within one half-mile of an existing settlement as that term
+11 is defined in 10 V.S.A. § 6001(16).
+12 (e) The Vermont Economic Progress Council shall approve a
+13 municipality’s tax increment financing plan prior to a sponsor’s incurrence of
+14 debt for the housing infrastructure project, including, if the sponsor is a
+15 municipality, prior to a public vote to pledge the credit of the municipality
+16 under section 1910 of this subchapter. The tax increment financing plan shall
+17 include all information related to the proposed financing necessary for
+18 approval by the Council and to ensure its viability and consistency with the
+19 housing development plan developed pursuant to subdivision 1907(b)(1) of
+20 this subchapter.
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 9 of 18
+1 § 1910. INDEBTEDNESS
+2 (a) A municipality approved for tax increment financing under section
+3 1909 of this subchapter may incur indebtedness against revenues of the
+4 housing development site at any time during a period of up to two years
+5 following the creation of the housing development site. If no debt is incurred
+6 for the housing infrastructure project during this two-year period, whether by
+7 the municipality or sponsor, the housing development site shall terminate.
+8 (b) Notwithstanding any provision of any municipal charter, each instance
+9 of borrowing by the municipality to finance or otherwise pay for a housing
+10 infrastructure project shall occur only after the legal voters of the municipality,
+11 by a majority vote of all voters present and voting on the question at a special
+12 or annual municipal meeting duly warned for the purpose, authorize the
+13 legislative body to pledge the credit of the municipality, borrow, or otherwise
+14 secure the debt for the specific purposes so warned.
+15 (c) Any indebtedness incurred under this section may be retired over any
+16 period authorized by the legislative body of the municipality.
+17 (d) The housing development site shall continue until the date and hour the
+18 indebtedness is retired or, if no debt is incurred, two years following the
+19 creation of the housing development site.
+20 (e) A municipal legislative body shall provide information to the public
+21 prior to the public vote required under subsection (b) of this section. This
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 10 of 18
+1 information shall include the amount and types of debt and related costs to be
+2 incurred, including principal, interest, and fees; terms of the debt; the housing
+3 infrastructure project to be financed; the private development projected to
+4 occur because of the housing infrastructure project; and notice to the voters
+5 that if the tax increment received by the municipality from any property tax
+6 source is insufficient to pay the principal and interest on the debt in any year,
+7 the municipality shall remain liable for the full payment of the principal and
+8 interest for the term of the indebtedness. If interfund loans within the
+9 municipality are used, the information must also include documentation of the
+10 terms and conditions of the loan. If interfund loans within the municipality are
+11 used as the method of financing, no interest shall be charged.
+12 § 1910a. ORIGINAL TAXABLE VALUE; TAX INCREMENT
+13 (a) As of the date the housing development site is created, the lister or
+14 assessor for the municipality shall certify the original taxable value and shall
+15 certify to the legislative body in each year thereafter during the life of the
+16 housing development site the amount by which the total valuation as
+17 determined in accordance with 32 V.S.A. chapter 129 of all taxable real
+18 property within the housing development site has increased or decreased
+19 relative to the original taxable value.
+20 (b) Throughout the life of the housing development site, the lister or
+21 assessor shall include not more than the original taxable value of the real
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 11 of 18
+1 property in the assessed valuation upon which the treasurer computes the rates
+2 of all taxes levied by the municipality and every other taxing district in which
+3 the housing development site is situated, but the treasurer shall extend all rates
+4 so determined against the entire assessed valuation of real property for that
+5 year.
+6 (c) Throughout the life of the housing development site, a municipality
+7 shall remit not less than the aggregate tax due on the original taxable value to
+8 the Education Fund.
+9 (d) Throughout the life of the housing development site, the municipality
+10 shall hold apart, rather than remit to the taxing districts, that proportion of all
+11 taxes paid that year on the real property within the housing development site
+12 that the excess valuation bears to the total assessed valuation. The amount
+13 held apart each year is the “tax increment” for that year. The tax increment
+14 shall only be used for financing and related costs.
+15 (e) Not more than the percentages established pursuant to section 1910b of
+16 this subchapter of the municipal and State education tax increments received
+17 with respect to the housing development site and committed for the payment
+18 for financing for improvements and related costs shall be segregated by the
+19 municipality in a special tax increment financing account and in its official
+20 books and records until all capital indebtedness incurred for the housing
+21 infrastructure project has been fully paid. The final payment shall be reported
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 12 of 18
+1 to the treasurer, who shall thereafter include the entire assessed valuation of the
+2 housing development site in the assessed valuations upon which the municipal
+3 and other tax rates are computed and extended, and thereafter no taxes from
+4 the housing development site shall be deposited in the special tax increment
+5 financing account.
+6 (f) Notwithstanding any charter provision or other provision, all property
+7 taxes assessed within a housing development site shall be subject to the
+8 provisions of this section. Special assessments levied under chapter 76A or 87
+9 of this title or under a municipal charter shall not be considered property taxes
+10 for the purpose of this section if the proceeds are used exclusively for
+11 operating expenses related to properties within the housing development site
+12 and not for the housing infrastructure project.
+13 § 1910b. USE OF TAX INCREMENT; RETENTION PERIOD;
+14 SUBSTANTIAL COMPLETION
+15 (a) Education property tax increment. For only debt incurred within the
+16 period permitted under subsection 1910(a) of this subchapter and related costs,
+17 up to 80 percent of the education property tax increment may be retained for
+18 up to 20 years, beginning on July 1 of the year in which the Vermont
+19 Economic Progress Council certifies substantial completion of the housing
+20 development pursuant to subsection (d) of this section.
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 13 of 18
+1 (b) Municipal property tax increment. For only debt incurred within the
+2 period permitted under subsection 1910(a) of this subchapter and related costs,
+3 not less than 80 percent of the municipal property tax increment may be
+4 retained, beginning on July 1 of the year in which the Vermont Economic
+5 Progress Council certifies substantial completion of the housing development
+6 pursuant to subsection (d) of this section.
+7 (c) Excess tax increment.
+8 (1) Of the municipal and education property tax increments received in
+9 any tax year that exceed the amounts committed for the payment of the
+10 financing and related costs for a housing infrastructure project, equal portions
+11 of each increment may be retained for the following purposes:
+12 (A) to prepay principal and interest on the financing;
+13 (B) to place in a special tax increment financing account required
+14 pursuant to subsection 1910a(e) of this subchapter and use for future financing
+15 payments; or
+16 (C) to use for defeasance of the financing.
+17 (2) Any remaining portion of the excess education property tax
+18 increment shall be distributed to the Education Fund. Any remaining portion
+19 of the excess municipal property tax increment shall be distributed to the city,
+20 town, or village budget in the proportion that each budget bears to the
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 14 of 18
+1 combined total of the budgets unless otherwise negotiated by the city, town, or
+2 village.
+3 (d) Substantial completion certification. A municipality shall promptly
+4 notify the Vermont Economic Progress Council upon completion of 50 percent
+5 of the housing development projected in the housing development plan
+6 developed pursuant to subdivision 1907(b)(1). The Vermont Economic
+7 Progress Council shall confirm and certify substantial completion of the
+8 housing development against the housing development plan for the purpose of
+9 starting the tax increment retention periods pursuant to subsections (a) and (b)
+10 of this section.
+11 § 1910c. INFORMATION REPORTING
+12 (a) A municipality with an active housing infrastructure project shall:
+13 (1) develop a system, segregated for the housing infrastructure project,
+14 to identify, collect, and maintain all data and information necessary to fulfill
+15 the reporting requirements of this section, including performance measures;
+16 (2) provide timely notification to the Department of Taxes and the
+17 Vermont Economic Progress Council of any housing infrastructure project
+18 debt, public vote, or vote by the municipal legislative body immediately
+19 following the debt incurrence or public vote on a form prescribed by the
+20 Council, including copies of public notices, agendas, minutes, vote tally, and a
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 15 of 18
+1 copy of the information provided to the public pursuant to subsection 1910(e)
+2 of this subchapter; and
+3 (3) annually on or before October 15, submit on a form prescribed by
+4 the Vermont Economic Progress Council an annual report to the Council and
+5 the Department of Taxes, including the information required by subdivision (2)
+6 of this subsection if not previously submitted, the information required for
+7 annual audit under section 1910d of this subchapter, and any information
+8 required by the Council or the Department of Taxes for the report required
+9 pursuant to subsection (b) of this section.
+10 (b) Annually on or before January 1, the Vermont Economic Progress
+11 Council and the Department of Taxes shall submit a report to the Senate
+12 Committees on Economic Development, Housing and General Affairs and on
+13 Finance and the House Committees on Commerce and Economic Development
+14 and on Ways and Means on housing infrastructure projects approved pursuant
+15 to this subchapter, including for each:
+16 (1) the date of approval;
+17 (2) a description of the housing infrastructure project;
+18 (3) the original taxable value of the housing development site;
+19 (4) the scope and value of projected and actual improvements and
+20 developments in the housing development site;
+21 (5) projected and actual incremental revenue amounts;
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 16 of 18
+1 (6) the allocation of incremental revenue;
+2 (7) projected and actual financing;
+3 (8) performance measures developed by the Vermont Economic
+4 Progress Council; and
+5 (9) the amount of infrastructure work performed by Vermont firms.
+6 § 1910d. AUDITING
+7 Annually on or before April 1 until the year following the end of the period
+8 for retention of education property tax increment, a municipality with a
+9 housing infrastructure project approved under this subchapter shall ensure that
+10 the housing infrastructure project is subject to the annual audit prescribed in
+11 section 1681 or 1690 of this title and submit a copy to the Vermont Economic
+12 Progress Council. If a housing infrastructure project is subject only to the
+13 audit under section 1681 of this title, the Council shall ensure a process is in
+14 place to subject the housing infrastructure project to an independent audit.
+15 Procedures for the audit must include verification of the original taxable value
+16 and annual and total municipal and education property tax increments
+17 generated, expenditures for financing and related costs, and current balance.
+18 § 1910e. GUIDANCE
+19 (a) The Secretary of Commerce and Community Development, after
+20 reasonable notice to a municipality and an opportunity for a hearing, may issue
+21 decisions to a municipality on questions and inquiries concerning the
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 17 of 18
+1 administration of housing infrastructure projects, statutes, rules,
+2 noncompliance with this subchapter, and any instances of noncompliance
+3 identified in audit reports conducted pursuant to section 1910d of this
+4 subchapter.
+5 (b) The Vermont Economic Progress Council shall prepare
+6 recommendations for the Secretary of Commerce and Community
+7 Development prior to any decision issued pursuant to subsection (a) of this
+8 section. The Council may prepare recommendations in consultation with the
+9 Commissioner of Taxes, the Attorney General, and the State Treasurer. In
+10 preparing recommendations, the Council shall provide a municipality with a
+11 reasonable opportunity to submit written information in support of its position.
+12 (c) The Secretary of Commerce and Community Development shall review
+13 the recommendations of the Council and issue a final written decision on each
+14 matter within 60 days following receipt of the recommendations. The
+15 Secretary may permit an appeal to be taken by any party to a Superior Court
+16 for determination of questions of law in the same manner as the Supreme Court
+17 may by rule provide for appeals before final judgment from a Superior Court
+18 before issuing a final decision.
+19 (d) The Vermont Economic Progress Council may adopt policies that are
+20 consistent with the 2015 TIF Rule, as modified by subsequent rulemaking, to
+21 implement this subchapter.
+VT LEG #381015 v.3
+
+BILL AS INTRODUCED H.378
+2025 Page 18 of 18
+1 Sec. 2. 32 V.S.A. § 3325 is amended to read:
+2 § 3325. VERMONT ECONOMIC PROGRESS COUNCIL
+3 (a) Creation. The Vermont Economic Progress Council is created to
+4 exercise the authority and perform the duties assigned to it, including its
+5 authority and duties relating to:
+6 (1) the Vermont Employment Growth Incentive Program pursuant to
+7 subchapter 2 of this chapter; and
+8 (2) tax increment financing districts pursuant to 24 V.S.A. chapter 53,
+9 subchapter 5 and section 5404a of this title; and
+10 (3) housing infrastructure tax increment financing pursuant to 24 V.S.A.
+11 chapter 53, subchapter 7.
+12 * * *
+13 (g) Decisions not subject to review. A decision of the Council to approve
+14 or deny an application under subchapter 2 of this chapter, or to approve or
+15 deny a tax increment financing district pursuant to 24 V.S.A. chapter 53,
+16 subchapter 5 and section 5404a of this title, or to approve or deny a housing
+17 infrastructure project pursuant to 24 V.S.A. chapter 53, subchapter 7 is an
+18 administrative decision that is not subject to the contested case hearing
+19 requirements under 3 V.S.A. chapter 25 and is not subject to judicial review.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #381015 v.3
+
+[DELETED:  H P H I R B K o R D S f S h V s f i e A I S S]
+[DELETED:  H P § A ( p e ( c ( i ( o h m s ( e p ( i s (]
+[DELETED:  H P ( u a r ( t ( c v ( ( a c ( a a ( m h i r]
+[DELETED:  H P p d ( i a i §   ( a s s i ( s ( ( t ( ( (]
+[DELETED:  H P ( ( s d ( b D ( p p ( d w ( A a p § ( s]
+[DELETED:  H P ( i ( d p ( s i ( t ( p ( i p i §   ( V]
+[DELETED:  H P h a ( l s s ( h m ( s ( i s ( t 1 ( h d]
+[DELETED:  H P ( d ( a ( ( p ( § ( i ( m d m u i a h t]
+[DELETED:  H P § ( 1 h f f t ( o i b o l s ( p ( i c ( p]
+[DELETED:  H P i i i o t s t i m t u § ( a c h d p r ( a]
+[DELETED:  H P p o t s y ( s t ( s t t h s ( t w f m b i]
+[DELETED:  H P t h a t f ( t p o f o a §   ( p u u E d]
+[DELETED:  H P ( p n r P p ( ( a f o ( ( p p ( ( i o t]
+[DELETED:  H P c v ( n o d P h s o § ( ( t t ( V d f C]
+[DELETED:  H P c o ( t t o a r p ( C C F a t ( ( ( ( d (]
+[DELETED:  H P ( ( ( P ( § A f h t s P a p P a g § ( r d]
+[DELETED:  H P a n i s ( r D s C p r ( t m S f m b ( c i]
+[DELETED:  H P S § ( e a ( s ( s ( c * ( o d s i a r S T]

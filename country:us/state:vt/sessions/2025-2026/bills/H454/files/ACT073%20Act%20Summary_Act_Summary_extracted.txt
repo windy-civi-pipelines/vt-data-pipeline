@@ -1,0 +1,259 @@
+Title: This act summary is provided for the convenience of the public and members of the General Assembly. It
+Official Title: This act summary is provided for the convenience of the public and members of the General Assembly. It
+Number of Sections: 1
+Source: versions - Act Summary
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+Act No. 73 Page 1 of 3
+2025
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 73 (H.454). An act relating to transforming Vermont’s education governance,
+quality, and finance systems
+Subjects: Education; school districts; taxation and finance; education property tax;
+State Board of Education; State funding of public education; education finance;
+Agency of Education
+This act makes changes to Vermont’s education policy and finance systems. It states
+the General Assembly’s intent to, in the 2026 session, enact updates to the career and
+technical education (CTE) system and prekindergarten system, as well as enact new,
+larger school districts that would become operational on July 1, 2028. This act limits the
+changes of the Commission on the Future of Public Education, creates the School District
+Redistricting Task Force to recommend new school district boundaries to the General
+Assembly, and also creates the School District Voting Ward Working Group to make
+recommendations to the General Assembly for proportionally representative voting wards
+within new school districts. It requires public schools and approved independent schools
+that are eligible for public tuition to comply with class size minimums and requires the
+State Board of Education (SBE) to update rules to reflect class size minimum
+requirements and statewide graduation requirements. It also requires the SBE to
+recommend standards for schools to be deemed small by necessity and sparse by
+necessity. This act requires the Agency of Education (AOE) to create a statewide school
+calendar to be effective for the 2028–2029 school year, as well as report back to the
+General Assembly regarding several topics, including the state of special education
+delivery and funding. It requires the SBE to review their rules and make
+recommendations to the General Assembly regarding updating rules. This act creates the
+State Aid for School Construction Program that will be administered by the AOE with
+advice from the State Aid for School Construction Advisory Board. It requires approved
+independent schools to meet certain criteria in order to be eligible to receive public
+tuition, including being located in a nonoperating district or supervisory union with
+nonoperating districts and complying with class size minimums. It also permits the
+General Assembly to appoint two members of the SBE. This act also requires school
+districts, under the new foundation formula that will contingently take effect on July 1,
+2028, to pay tuition in an amount of the base amount plus any applicable weights to a
+receiving school. It also allows receiving schools to charge an additional five percent fee
+for secondary students if certain criteria are met and requires school districts to pay the
+full tuition charged its students attending an approved independent school in Vermont
+functioning as an approved area career and technical center. It requires the AOE to create
+a three-year strategic plan for the delivery of special education services and establishes
+one new permanent classified position within AOE to support the development of the
+strategic plan. This act also appropriates $2,865,000.00 to AOE to support education
+transformation and establishes five limited service positions within AOE to support
+education transformation work.
+VT LEG #384340 v.4
+Act No. 73 Page 2 of 3
+2025
+As contingently effective July 1, 2028, this act replaces Vermont’s existing education
+finance system that fully funds locally voted school budgets, accounting for local
+variation in spending through varying homestead property tax rates, with a foundation
+formula that provides school districts with a fixed, inflation-adjusted base amount of
+$15,033.00 per pupil, as adjusted for student weighting. It amends Vermont’s student
+weighting provisions to provide weights for prekindergarten, economic disadvantage,
+English learners distinguished by both proficiency level and formal education level, and
+special education distinguished by disability cost. It replaces existing sparsity and small-
+school weights with small schools and sparse schools support grants. In conjunction with
+these changes, this act repeals certain existing education finance provisions, such as
+census block grants for special education, categorical aid for English learners’ services,
+and merger support for merged districts. This act finances the foundation formula
+payouts to school districts, known as “educational opportunity payments” (EOP), through
+the imposition of a statewide education tax on homestead and nonhomestead property
+that may be adjusted by statutory factors based on the new tax classification system and
+that will be set each year by the General Assembly. This act authorizes school districts to
+vote additional funds beyond their EOPs (supplemental district spending), subject to a
+cap of five percent of the product of the school district’s unweighted pupil count and the
+base amount, which funds are raised through a locally imposed supplemental district
+spending tax. This act creates a supplemental district spending yield to equalize this local
+tax rate for any locally voted spending that results in the application of the rate that would
+be required to raise that spending in the school district with the lowest taxing capacity,
+regardless of property wealth. This act recaptures any locally raised funds in excess of
+the school district’s supplemental district spending resulting from use of the supplemental
+district spending yield and holds those funds in a newly established Supplemental District
+Spending Reserve within the Education Fund to be used to buy down statewide education
+property tax rates in the following fiscal year. This act amends the provisions governing
+the December 1 letter to require the Commissioner of Taxes to annually recommend the
+statewide education property tax rate and supplemental district spending yield. It
+additionally provides for transitionary measures in the first years of the foundation
+formula rollout to gradually move school districts from Vermont’s existing education
+finance system and onto the new foundation formula. This act tasks the Joint Fiscal
+Office (JFO) with contracting with an expert in Vermont’s education funding system to
+recommend updates to the foundation formula, including related to sparsity measures,
+secondary student costs, and CTE, on or before December 1, 2026. The act’s provisions
+governing the new foundation formula are effective July 1, 2028, contingent upon
+operationalization of new school districts and receipt of this foundation formula report.
+As contingently effective July 1, 2028, this act repeals the statewide property tax
+credit and replaces it with a capped homestead exemption that reduces the portion of
+housesite value subject to the statewide education tax and supplemental district spending
+tax. It establishes income sensitivity measures for households that do not exceed
+$115,000.00 in household income that provide an increasing homestead exemption as
+household income declines, with households at or below $25,000.00 in household income
+entitled to a homestead property tax exemption of 95 percent of the first $425,000.00 of
+housesite value. This act makes conforming changes to provide the benefits of the
+homestead exemption to households that indirectly pay property taxes as is currently
+VT LEG #384340 v.4
+Act No. 73 Page 3 of 3
+2025
+done for the statewide property tax credit. It additionally tasks the Department of Taxes
+with submitting an alternative homestead exemption structure proposal to committees of
+jurisdiction on or before December 15, 2026, that includes appropriate inflationary
+measures and analyzes the implications of moving to income sensitivity measures that
+provide benefits to households with household income of up to $175,000.00.
+As contingently effective July 1, 2028, this act creates a new property tax
+classification for nonhomestead residential properties. The new classification will be
+repealed on July 1, 2028, if the General Assembly does not create a new tax rate
+multiplier for tax classifications before that date. This act requires the Department of
+Taxes to study the implementation of a new tax classification and report back for the
+2026 legislative session.
+As contingently effective January 1, 2029, this act creates regional assessment districts
+for the purpose of full reappraisal of grand list properties in a designated region, which
+will replace the current system of having individual municipalities responsible for full
+reappraisals. It further creates a stakeholder working group, to be managed by the
+Department of Taxes, to recommend future changes to the regional assessment district
+system. This act makes further technical and policy adjustments to property valuation
+and property tax statutes.
+Multiple effective dates, beginning on July 1, 2025
+VT LEG #384340 v.4
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+Act No. 73 Page 1 of 3
+2025
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 73 (H.454). An act relating to transforming Vermont’s education governance,
+quality, and finance systems
+Subjects: Education; school districts; taxation and finance; education property tax;
+State Board of Education; State funding of public education; education finance;
+Agency of Education
+This act makes changes to Vermont’s education policy and finance systems. It states
+the General Assembly’s intent to, in the 2026 session, enact updates to the career and
+technical education (CTE) system and prekindergarten system, as well as enact new,
+larger school districts that would become operational on July 1, 2028. This act limits the
+changes of the Commission on the Future of Public Education, creates the School District
+Redistricting Task Force to recommend new school district boundaries to the General
+Assembly, and also creates the School District Voting Ward Working Group to make
+recommendations to the General Assembly for proportionally representative voting wards
+within new school districts. It requires public schools and approved independent schools
+that are eligible for public tuition to comply with class size minimums and requires the
+State Board of Education (SBE) to update rules to reflect class size minimum
+requirements and statewide graduation requirements. It also requires the SBE to
+recommend standards for schools to be deemed small by necessity and sparse by
+necessity. This act requires the Agency of Education (AOE) to create a statewide school
+calendar to be effective for the 2028–2029 school year, as well as report back to the
+General Assembly regarding several topics, including the state of special education
+delivery and funding. It requires the SBE to review their rules and make
+recommendations to the General Assembly regarding updating rules. This act creates the
+State Aid for School Construction Program that will be administered by the AOE with
+advice from the State Aid for School Construction Advisory Board. It requires approved
+independent schools to meet certain criteria in order to be eligible to receive public
+tuition, including being located in a nonoperating district or supervisory union with
+nonoperating districts and complying with class size minimums. It also permits the
+General Assembly to appoint two members of the SBE. This act also requires school
+districts, under the new foundation formula that will contingently take effect on July 1,
+2028, to pay tuition in an amount of the base amount plus any applicable weights to a
+receiving school. It also allows receiving schools to charge an additional five percent fee
+for secondary students if certain criteria are met and requires school districts to pay the
+full tuition charged its students attending an approved independent school in Vermont
+functioning as an approved area career and technical center. It requires the AOE to create
+a three-year strategic plan for the delivery of special education services and establishes
+one new permanent classified position within AOE to support the development of the
+strategic plan. This act also appropriates $2,865,000.00 to AOE to support education
+transformation and establishes five limited service positions within AOE to support
+education transformation work.
+VT LEG #384340 v.4
+
+Act No. 73 Page 2 of 3
+2025
+As contingently effective July 1, 2028, this act replaces Vermont’s existing education
+finance system that fully funds locally voted school budgets, accounting for local
+variation in spending through varying homestead property tax rates, with a foundation
+formula that provides school districts with a fixed, inflation-adjusted base amount of
+$15,033.00 per pupil, as adjusted for student weighting. It amends Vermont’s student
+weighting provisions to provide weights for prekindergarten, economic disadvantage,
+English learners distinguished by both proficiency level and formal education level, and
+special education distinguished by disability cost. It replaces existing sparsity and small-
+school weights with small schools and sparse schools support grants. In conjunction with
+these changes, this act repeals certain existing education finance provisions, such as
+census block grants for special education, categorical aid for English learners’ services,
+and merger support for merged districts. This act finances the foundation formula
+payouts to school districts, known as “educational opportunity payments” (EOP), through
+the imposition of a statewide education tax on homestead and nonhomestead property
+that may be adjusted by statutory factors based on the new tax classification system and
+that will be set each year by the General Assembly. This act authorizes school districts to
+vote additional funds beyond their EOPs (supplemental district spending), subject to a
+cap of five percent of the product of the school district’s unweighted pupil count and the
+base amount, which funds are raised through a locally imposed supplemental district
+spending tax. This act creates a supplemental district spending yield to equalize this local
+tax rate for any locally voted spending that results in the application of the rate that would
+be required to raise that spending in the school district with the lowest taxing capacity,
+regardless of property wealth. This act recaptures any locally raised funds in excess of
+the school district’s supplemental district spending resulting from use of the supplemental
+district spending yield and holds those funds in a newly established Supplemental District
+Spending Reserve within the Education Fund to be used to buy down statewide education
+property tax rates in the following fiscal year. This act amends the provisions governing
+the December 1 letter to require the Commissioner of Taxes to annually recommend the
+statewide education property tax rate and supplemental district spending yield. It
+additionally provides for transitionary measures in the first years of the foundation
+formula rollout to gradually move school districts from Vermont’s existing education
+finance system and onto the new foundation formula. This act tasks the Joint Fiscal
+Office (JFO) with contracting with an expert in Vermont’s education funding system to
+recommend updates to the foundation formula, including related to sparsity measures,
+secondary student costs, and CTE, on or before December 1, 2026. The act’s provisions
+governing the new foundation formula are effective July 1, 2028, contingent upon
+operationalization of new school districts and receipt of this foundation formula report.
+As contingently effective July 1, 2028, this act repeals the statewide property tax
+credit and replaces it with a capped homestead exemption that reduces the portion of
+housesite value subject to the statewide education tax and supplemental district spending
+tax. It establishes income sensitivity measures for households that do not exceed
+$115,000.00 in household income that provide an increasing homestead exemption as
+household income declines, with households at or below $25,000.00 in household income
+entitled to a homestead property tax exemption of 95 percent of the first $425,000.00 of
+housesite value. This act makes conforming changes to provide the benefits of the
+homestead exemption to households that indirectly pay property taxes as is currently
+VT LEG #384340 v.4
+
+Act No. 73 Page 3 of 3
+2025
+done for the statewide property tax credit. It additionally tasks the Department of Taxes
+with submitting an alternative homestead exemption structure proposal to committees of
+jurisdiction on or before December 15, 2026, that includes appropriate inflationary
+measures and analyzes the implications of moving to income sensitivity measures that
+provide benefits to households with household income of up to $175,000.00.
+As contingently effective July 1, 2028, this act creates a new property tax
+classification for nonhomestead residential properties. The new classification will be
+repealed on July 1, 2028, if the General Assembly does not create a new tax rate
+multiplier for tax classifications before that date. This act requires the Department of
+Taxes to study the implementation of a new tax classification and report back for the
+2026 legislative session.
+As contingently effective January 1, 2029, this act creates regional assessment districts
+for the purpose of full reappraisal of grand list properties in a designated region, which
+will replace the current system of having individual municipalities responsible for full
+reappraisals. It further creates a stakeholder working group, to be managed by the
+Department of Taxes, to recommend future changes to the regional assessment district
+system. This act makes further technical and policy adjustments to property valuation
+and property tax statutes.
+Multiple effective dates, beginning on July 1, 2025
+VT LEG #384340 v.4
+
+[DELETED:  P]
+[DELETED:  P]
+[DELETED:  P]

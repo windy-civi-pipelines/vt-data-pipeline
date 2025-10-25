@@ -1,0 +1,49 @@
+Title: BILL AS INTRODUCED H.520
+Official Title: BILL AS INTRODUCED H.520
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 1
+1 H.520
+2 SHORT FORM
+3 Introduced by Representative Priestley of Bradford
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; social media; data privacy
+7 Statement of purpose of bill as introduced: This bill proposes to require that
+8 social media companies provide individuals with the ability to delete their user
+9 data, obtain their user data in a portable format, and transfer their user data to
+10 other social media platforms.
+11 An act relating to the right of users to control their social media data
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 (TEXT OMITTED IN SHORT-FORM BILLS)
+VT LEG #383348 v.1
+[DELETED:  H P H S I R D S S s d o A I (]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.520
+2025 Page 1 of 1
+1 H.520
+2 SHORT FORM
+3 Introduced by Representative Priestley of Bradford
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; social media; data privacy
+7 Statement of purpose of bill as introduced: This bill proposes to require that
+8 social media companies provide individuals with the ability to delete their user
+9 data, obtain their user data in a portable format, and transfer their user data to
+10 other social media platforms.
+11 An act relating to the right of users to control their social media data
+12 It is hereby enacted by the General Assembly of the State of Vermont:
+13 (TEXT OMITTED IN SHORT-FORM BILLS)
+VT LEG #383348 v.1
+
+[DELETED:  H P H S I R D S S s d o A I (]

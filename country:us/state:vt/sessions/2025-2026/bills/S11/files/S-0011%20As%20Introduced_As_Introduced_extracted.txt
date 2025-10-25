@@ -1,0 +1,294 @@
+Title: BILL AS INTRODUCED S.11
+Official Title: BILL AS INTRODUCED S.11
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 6
+1 S.11
+2 Introduced by Senator Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Trusts; stewardship trusts
+6 Statement of purpose of bill as introduced: This bill proposes to authorize the
+7 creation of stewardship trusts in Vermont.
+8 An act relating to stewardship trusts
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 14A V.S.A. § 409 is amended to read:
+11 § 409. NONCHARITABLE TRUST WITHOUT ASCERTAINABLE
+12 BENEFICIARY
+13 Except as otherwise provided in section 408 of this title or by another
+14 statute, the following rules apply:
+15 (1) A trust may be created for a noncharitable purpose without a definite
+16 or definitely ascertainable beneficiary or for a noncharitable but otherwise
+17 valid purpose to be selected by the trustee. The trust may not be enforced for
+18 more than 21 500 years.
+VT LEG #379326 v.1
+BILL AS INTRODUCED S.11
+2025 Page 2 of 6
+1 (2) A trust authorized by this section may be enforced by a person
+2 appointed in the terms of the trust or, if no person is so appointed, by a person
+3 appointed by the Probate Division of the Superior Court.
+4 (3) Property of a trust authorized by this section may be applied only to
+5 its intended use, except to the extent the Probate Division of the Superior Court
+6 determines that the value of the trust property exceeds the amount required for
+7 the intended use. Except as otherwise provided in the terms of the trust,
+8 property not required for the intended use must be distributed to the settlor, if
+9 then living, otherwise to the settlor’s successors in interest.
+10 Sec. 2. 14A V.S.A. § 409a is added to read:
+11 § 409a. STEWARDSHIP TRUST
+12 (a) A stewardship trust may be created under this section for a business
+13 purpose without a definite or definitely ascertainable beneficiary. The business
+14 purpose may seek economic and noneconomic benefits.
+15 (b) A stewardship trust may hold an ownership interest of any corporation,
+16 partnership, limited partnership, cooperative, limited liability company, limited
+17 liability partnership, or joint venture.
+18 (c)(1) A stewardship trust may be enforced by one or more trust enforcers
+19 appointed in the terms of the trust, and the terms of the trust may provide a
+20 process for appointing successor trust enforcers. If at any time no person is
+21 serving as trust enforcer, the court shall name one or more trust enforcers.
+VT LEG #379326 v.1
+BILL AS INTRODUCED S.11
+2025 Page 3 of 6
+1 (2) Each trust enforcer shall enforce the purpose and the terms of the
+2 trust and shall exercise authority as a fiduciary. If more than one person is
+3 serving as a trust enforcer, action may be taken by a majority of the persons
+4 serving as trust enforcers.
+5 (3) A trust enforcer shall not be a beneficiary of a trust created pursuant
+6 to this section, but a trust enforcer may have the rights of a qualified
+7 beneficiary.
+8 (d)(1)(A) A stewardship trust shall have a trust stewardship committee with
+9 at least three persons as members. Each member of the trust stewardship
+10 committee shall exercise authority as a fiduciary.
+11 (B) The terms of the trust may appoint the initial members of the
+12 trust stewardship committee and may provide a process for appointing
+13 successor members.
+14 (2)(A) A vacancy on the trust stewardship committee shall be filled if
+15 the trust stewardship committee has fewer than three members.
+16 (B) A vacancy on the trust stewardship committee that is required to
+17 be filled by subdivision (A) of this subdivision (2) shall be filled in the
+18 following order of priority:
+19 (i) by a person designated in the terms of the trust or selected
+20 through a process provided in the terms of the trust;
+VT LEG #379326 v.1
+BILL AS INTRODUCED S.11
+2025 Page 4 of 6
+1 (ii) by a person appointed by unanimous agreement of the trust
+2 enforcers; or
+3 (iii) by a person appointed by the court.
+4 (3) Unless the terms of the trust provide otherwise and except as
+5 provided in subdivision (4)(D) of this subsection or subsection (f) of this
+6 section, the trust stewardship committee may take action by a majority vote of
+7 its members.
+8 (4) Unless the terms of the trust provide otherwise, and in order to carry
+9 out the purposes of the trust, the trust stewardship committee may, after notice
+10 to the trust enforcers:
+11 (A) remove a trustee, with or without cause;
+12 (B) appoint one or more successor trustees or cotrustees;
+13 (C) remove a trust enforcer, with or without cause;
+14 (D) remove a member of the stewardship committee, by unanimous
+15 vote of all other members of the trust stewardship committee;
+16 (E) direct distributions from the trust; and
+17 (F) exercise all rights belonging to the trustee, including the right to
+18 vote stock owned by the trust.
+19 (5) Unless the trust agreement provides otherwise, a member of the trust
+20 stewardship committee or a trust enforcer may resign:
+VT LEG #379326 v.1
+BILL AS INTRODUCED S.11
+2025 Page 5 of 6
+1 (A) after at least 30 days’ notice to the trustee, all trust enforcers, and
+2 all members of the trust stewardship committee; or
+3 (B) at any time with approval of the court.
+4 (6) The trust stewardship committee shall submit a report to the trustee
+5 and to the trust enforcers at least annually showing receipts and disbursements
+6 and listing trust property and liabilities. The trust stewardship committee shall
+7 keep the trustee and the trust enforcers reasonably informed about the
+8 administration of the trust and of the material facts necessary for the trustee to
+9 comply with the trustee’s duties under section 813 of this title and for the trust
+10 enforcers to protect the purposes of the trust.
+11 (e)(1) A trustee of a stewardship trust shall act in accordance with a
+12 direction from the trust stewardship committee unless the action is manifestly
+13 contrary to the terms of the trust or the trustee knows that the action would
+14 constitute a serious breach of a fiduciary duty that the trust stewardship
+15 committee, the trust enforcer, or the trustee owes to the trust.
+16 (2) A trustee shall be liable only for willful misconduct and shall not be
+17 liable for reliance on documents provided by the trust stewardship committee
+18 or the trust enforcer.
+19 (f) Unless the terms of the trust provide otherwise, the trust stewardship
+20 committee and the trust enforcers, acting together, may modify or terminate a
+VT LEG #379326 v.1
+BILL AS INTRODUCED S.11
+2025 Page 6 of 6
+1 stewardship trust by unanimous agreement of the members of the trust
+2 stewardship committee and unanimous agreement of the trust enforcers.
+3 (g) Upon termination of a stewardship trust, the trustee shall distribute all
+4 remaining trust property as the terms of the trust provide, or if the terms of the
+5 trust do not provide for complete distribution of the property, as the court
+6 determines to be consistent with the purposes for which the trust was created.
+7 (h)(1) A person serving as a trustee shall not serve as a trust enforcer or as
+8 a member of the trust stewardship committee.
+9 (2) A person serving as a trust enforcer shall not serve as a member of
+10 the trust stewardship committee.
+11 (i) This section shall not apply to a trust created pursuant to 11A V.S.A.
+12 § 7.30.
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on passage.
+VT LEG #379326 v.1
+[DELETED:  S P S I S R D S S c A I S §   E s ( o v m]
+[DELETED:  S P ( a a ( i d t p t S § ( p p ( p l ( a p s]
+[DELETED:  S P ( t s s ( t b ( a c ( t s ( t ( b f ( t]
+[DELETED:  S P ( e ( ( p s i ( o t ( ( ( ( v ( ( v ( s]
+[DELETED:  S P ( a ( ( a a k a c e ( d c c c ( l o ( c]
+[DELETED:  S P s s ( r t d ( a ( t ( § S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.11
+2025 Page 1 of 6
+1 S.11
+2 Introduced by Senator Chittenden
+3 Referred to Committee on
+4 Date:
+5 Subject: Trusts; stewardship trusts
+6 Statement of purpose of bill as introduced: This bill proposes to authorize the
+7 creation of stewardship trusts in Vermont.
+8 An act relating to stewardship trusts
+9 It is hereby enacted by the General Assembly of the State of Vermont:
+10 Sec. 1. 14A V.S.A. § 409 is amended to read:
+11 § 409. NONCHARITABLE TRUST WITHOUT ASCERTAINABLE
+12 BENEFICIARY
+13 Except as otherwise provided in section 408 of this title or by another
+14 statute, the following rules apply:
+15 (1) A trust may be created for a noncharitable purpose without a definite
+16 or definitely ascertainable beneficiary or for a noncharitable but otherwise
+17 valid purpose to be selected by the trustee. The trust may not be enforced for
+18 more than 21 500 years.
+VT LEG #379326 v.1
+
+BILL AS INTRODUCED S.11
+2025 Page 2 of 6
+1 (2) A trust authorized by this section may be enforced by a person
+2 appointed in the terms of the trust or, if no person is so appointed, by a person
+3 appointed by the Probate Division of the Superior Court.
+4 (3) Property of a trust authorized by this section may be applied only to
+5 its intended use, except to the extent the Probate Division of the Superior Court
+6 determines that the value of the trust property exceeds the amount required for
+7 the intended use. Except as otherwise provided in the terms of the trust,
+8 property not required for the intended use must be distributed to the settlor, if
+9 then living, otherwise to the settlor’s successors in interest.
+10 Sec. 2. 14A V.S.A. § 409a is added to read:
+11 § 409a. STEWARDSHIP TRUST
+12 (a) A stewardship trust may be created under this section for a business
+13 purpose without a definite or definitely ascertainable beneficiary. The business
+14 purpose may seek economic and noneconomic benefits.
+15 (b) A stewardship trust may hold an ownership interest of any corporation,
+16 partnership, limited partnership, cooperative, limited liability company, limited
+17 liability partnership, or joint venture.
+18 (c)(1) A stewardship trust may be enforced by one or more trust enforcers
+19 appointed in the terms of the trust, and the terms of the trust may provide a
+20 process for appointing successor trust enforcers. If at any time no person is
+21 serving as trust enforcer, the court shall name one or more trust enforcers.
+VT LEG #379326 v.1
+
+BILL AS INTRODUCED S.11
+2025 Page 3 of 6
+1 (2) Each trust enforcer shall enforce the purpose and the terms of the
+2 trust and shall exercise authority as a fiduciary. If more than one person is
+3 serving as a trust enforcer, action may be taken by a majority of the persons
+4 serving as trust enforcers.
+5 (3) A trust enforcer shall not be a beneficiary of a trust created pursuant
+6 to this section, but a trust enforcer may have the rights of a qualified
+7 beneficiary.
+8 (d)(1)(A) A stewardship trust shall have a trust stewardship committee with
+9 at least three persons as members. Each member of the trust stewardship
+10 committee shall exercise authority as a fiduciary.
+11 (B) The terms of the trust may appoint the initial members of the
+12 trust stewardship committee and may provide a process for appointing
+13 successor members.
+14 (2)(A) A vacancy on the trust stewardship committee shall be filled if
+15 the trust stewardship committee has fewer than three members.
+16 (B) A vacancy on the trust stewardship committee that is required to
+17 be filled by subdivision (A) of this subdivision (2) shall be filled in the
+18 following order of priority:
+19 (i) by a person designated in the terms of the trust or selected
+20 through a process provided in the terms of the trust;
+VT LEG #379326 v.1
+
+BILL AS INTRODUCED S.11
+2025 Page 4 of 6
+1 (ii) by a person appointed by unanimous agreement of the trust
+2 enforcers; or
+3 (iii) by a person appointed by the court.
+4 (3) Unless the terms of the trust provide otherwise and except as
+5 provided in subdivision (4)(D) of this subsection or subsection (f) of this
+6 section, the trust stewardship committee may take action by a majority vote of
+7 its members.
+8 (4) Unless the terms of the trust provide otherwise, and in order to carry
+9 out the purposes of the trust, the trust stewardship committee may, after notice
+10 to the trust enforcers:
+11 (A) remove a trustee, with or without cause;
+12 (B) appoint one or more successor trustees or cotrustees;
+13 (C) remove a trust enforcer, with or without cause;
+14 (D) remove a member of the stewardship committee, by unanimous
+15 vote of all other members of the trust stewardship committee;
+16 (E) direct distributions from the trust; and
+17 (F) exercise all rights belonging to the trustee, including the right to
+18 vote stock owned by the trust.
+19 (5) Unless the trust agreement provides otherwise, a member of the trust
+20 stewardship committee or a trust enforcer may resign:
+VT LEG #379326 v.1
+
+BILL AS INTRODUCED S.11
+2025 Page 5 of 6
+1 (A) after at least 30 days’ notice to the trustee, all trust enforcers, and
+2 all members of the trust stewardship committee; or
+3 (B) at any time with approval of the court.
+4 (6) The trust stewardship committee shall submit a report to the trustee
+5 and to the trust enforcers at least annually showing receipts and disbursements
+6 and listing trust property and liabilities. The trust stewardship committee shall
+7 keep the trustee and the trust enforcers reasonably informed about the
+8 administration of the trust and of the material facts necessary for the trustee to
+9 comply with the trustee’s duties under section 813 of this title and for the trust
+10 enforcers to protect the purposes of the trust.
+11 (e)(1) A trustee of a stewardship trust shall act in accordance with a
+12 direction from the trust stewardship committee unless the action is manifestly
+13 contrary to the terms of the trust or the trustee knows that the action would
+14 constitute a serious breach of a fiduciary duty that the trust stewardship
+15 committee, the trust enforcer, or the trustee owes to the trust.
+16 (2) A trustee shall be liable only for willful misconduct and shall not be
+17 liable for reliance on documents provided by the trust stewardship committee
+18 or the trust enforcer.
+19 (f) Unless the terms of the trust provide otherwise, the trust stewardship
+20 committee and the trust enforcers, acting together, may modify or terminate a
+VT LEG #379326 v.1
+
+BILL AS INTRODUCED S.11
+2025 Page 6 of 6
+1 stewardship trust by unanimous agreement of the members of the trust
+2 stewardship committee and unanimous agreement of the trust enforcers.
+3 (g) Upon termination of a stewardship trust, the trustee shall distribute all
+4 remaining trust property as the terms of the trust provide, or if the terms of the
+5 trust do not provide for complete distribution of the property, as the court
+6 determines to be consistent with the purposes for which the trust was created.
+7 (h)(1) A person serving as a trustee shall not serve as a trust enforcer or as
+8 a member of the trust stewardship committee.
+9 (2) A person serving as a trust enforcer shall not serve as a member of
+10 the trust stewardship committee.
+11 (i) This section shall not apply to a trust created pursuant to 11A V.S.A.
+12 § 7.30.
+13 Sec. 3. EFFECTIVE DATE
+14 This act shall take effect on passage.
+VT LEG #379326 v.1
+
+[DELETED:  S P S I S R D S S c A I S §   E s ( o v m]
+[DELETED:  S P ( a a ( i d t p t S § ( p p ( p l ( a p s]
+[DELETED:  S P ( t s s ( t b ( a c ( t s ( t ( b f ( t]
+[DELETED:  S P ( e ( ( p s i ( o t ( ( ( ( v ( ( v ( s]
+[DELETED:  S P ( a ( ( a a k a c e ( d c c c ( l o ( c]
+[DELETED:  S P s s ( r t d ( a ( t ( § S T]

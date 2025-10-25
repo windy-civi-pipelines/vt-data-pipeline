@@ -1,0 +1,147 @@
+Title: BILL AS INTRODUCED S.149
+Official Title: BILL AS INTRODUCED S.149
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 3
+1 S.149
+2 Introduced by Senator White
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; gasoline tax; diesel fuel tax; inflation; indexing
+6 Statement of purpose of bill as introduced: This bill proposes to provide that
+7 gasoline and diesel fuel taxes shall annually increase by the percentage change
+8 in the Consumer Price Index.
+9 An act relating to indexing the gasoline and diesel fuel taxes for inflation
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 * * * Diesel Fuel Tax * * *
+12 Sec. 1. 23 V.S.A. § 3003 is amended to read:
+13 § 3003. IMPOSITION OF TAX; EXCEPTIONS
+14 (a)(1) A tax of $0.28 in the amount set forth in subdivision (2) of this
+15 subsection, a fee of $0.01 established pursuant to the provisions of 10 V.S.A.
+16 § 1942, and a $0.03 motor fuel transportation infrastructure assessment, which
+17 for purposes of the International Fuel Tax Agreement only shall be deemed to
+18 be a surcharge, are imposed on each gallon of fuel:
+19 (1)(A) sold or delivered by a distributor; or
+20 (2)(B) used by a user.
+VT LEG #382268 v.2
+BILL AS INTRODUCED S.149
+2025 Page 2 of 3
+1 (2) The amount of the tax on each gallon of fuel pursuant to subdivision
+2 (1) of this subsection shall, before July 1, 2028, be $0.28. Beginning on July
+3 1, 2028, and on each subsequent July 1, the amount of the tax shall increase by
+4 the percentage change in the Bureau of Labor Statistics Consumer Price Index
+5 for All Urban Consumers (CPI-U) for the 12-month period preceding the
+6 previous April 1. The amount of the tax shall remain the same as the previous
+7 year if the percentage change in the CPI-U for the 12-month period preceding
+8 the previous April 1 is negative.
+9 * * *
+10 * * * Gasoline Tax * * *
+11 Sec. 2. 23 V.S.A. § 3106 is amended to read:
+12 § 3106. IMPOSITION, RATE, AND PAYMENT OF TAX
+13 (a)(1) Except for sales of motor fuels between distributors licensed in this
+14 State, which sales shall be exempt from the taxes and assessments authorized
+15 under this section, unless exempt under the laws of the United States at the
+16 time of filing the report required by section 3108 of this title, each distributor
+17 shall pay to the Commissioner:
+18 (A) a tax of $0.121 in the amount set forth pursuant to subdivision (6)
+19 of this subsection (a) upon each gallon of motor fuel sold by the distributor;
+20 and
+21 * * *
+VT LEG #382268 v.2
+BILL AS INTRODUCED S.149
+2025 Page 3 of 3
+1 (6) The amount of the tax on each gallon of motor fuel pursuant to
+2 subdivision (1) of this subsection shall, before July 1, 2028, be $0.28.
+3 Beginning on July 1, 2028, and on each subsequent July 1, the amount of the
+4 tax shall increase by the percentage change in the Bureau of Labor Statistics
+5 Consumer Price Index for All Urban Consumers (CPI-U) for the 12-month
+6 period preceding the previous April 1. The amount of the tax shall the same as
+7 the previous year if the percentage change in the CPI-U for the 12-month
+8 period preceding the previous April 1 is negative.
+9 * * *
+10 * * * Effective Date * * *
+11 Sec. 3. EFFECTIVE DATE
+12 This act shall take effect on July 1, 2025.
+VT LEG #382268 v.2
+[DELETED:  S P S I S R D S S g i A I * S § ( s § f b ( (]
+[DELETED:  S P ( ( 1 t f p y t * * S § ( S u t s ( o a *]
+[DELETED:  S P ( s B t C p t p * * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.149
+2025 Page 1 of 3
+1 S.149
+2 Introduced by Senator White
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; gasoline tax; diesel fuel tax; inflation; indexing
+6 Statement of purpose of bill as introduced: This bill proposes to provide that
+7 gasoline and diesel fuel taxes shall annually increase by the percentage change
+8 in the Consumer Price Index.
+9 An act relating to indexing the gasoline and diesel fuel taxes for inflation
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 * * * Diesel Fuel Tax * * *
+12 Sec. 1. 23 V.S.A. § 3003 is amended to read:
+13 § 3003. IMPOSITION OF TAX; EXCEPTIONS
+14 (a)(1) A tax of $0.28 in the amount set forth in subdivision (2) of this
+15 subsection, a fee of $0.01 established pursuant to the provisions of 10 V.S.A.
+16 § 1942, and a $0.03 motor fuel transportation infrastructure assessment, which
+17 for purposes of the International Fuel Tax Agreement only shall be deemed to
+18 be a surcharge, are imposed on each gallon of fuel:
+19 (1)(A) sold or delivered by a distributor; or
+20 (2)(B) used by a user.
+VT LEG #382268 v.2
+
+BILL AS INTRODUCED S.149
+2025 Page 2 of 3
+1 (2) The amount of the tax on each gallon of fuel pursuant to subdivision
+2 (1) of this subsection shall, before July 1, 2028, be $0.28. Beginning on July
+3 1, 2028, and on each subsequent July 1, the amount of the tax shall increase by
+4 the percentage change in the Bureau of Labor Statistics Consumer Price Index
+5 for All Urban Consumers (CPI-U) for the 12-month period preceding the
+6 previous April 1. The amount of the tax shall remain the same as the previous
+7 year if the percentage change in the CPI-U for the 12-month period preceding
+8 the previous April 1 is negative.
+9 * * *
+10 * * * Gasoline Tax * * *
+11 Sec. 2. 23 V.S.A. § 3106 is amended to read:
+12 § 3106. IMPOSITION, RATE, AND PAYMENT OF TAX
+13 (a)(1) Except for sales of motor fuels between distributors licensed in this
+14 State, which sales shall be exempt from the taxes and assessments authorized
+15 under this section, unless exempt under the laws of the United States at the
+16 time of filing the report required by section 3108 of this title, each distributor
+17 shall pay to the Commissioner:
+18 (A) a tax of $0.121 in the amount set forth pursuant to subdivision (6)
+19 of this subsection (a) upon each gallon of motor fuel sold by the distributor;
+20 and
+21 * * *
+VT LEG #382268 v.2
+
+BILL AS INTRODUCED S.149
+2025 Page 3 of 3
+1 (6) The amount of the tax on each gallon of motor fuel pursuant to
+2 subdivision (1) of this subsection shall, before July 1, 2028, be $0.28.
+3 Beginning on July 1, 2028, and on each subsequent July 1, the amount of the
+4 tax shall increase by the percentage change in the Bureau of Labor Statistics
+5 Consumer Price Index for All Urban Consumers (CPI-U) for the 12-month
+6 period preceding the previous April 1. The amount of the tax shall the same as
+7 the previous year if the percentage change in the CPI-U for the 12-month
+8 period preceding the previous April 1 is negative.
+9 * * *
+10 * * * Effective Date * * *
+11 Sec. 3. EFFECTIVE DATE
+12 This act shall take effect on July 1, 2025.
+VT LEG #382268 v.2
+
+[DELETED:  S P S I S R D S S g i A I * S § ( s § f b ( (]
+[DELETED:  S P ( ( 1 t f p y t * * S § ( S u t s ( o a *]
+[DELETED:  S P ( s B t C p t p * * S T]

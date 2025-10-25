@@ -1,0 +1,178 @@
+Title: BILL AS INTRODUCED H.104
+Official Title: BILL AS INTRODUCED H.104
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 4
+1 H.104
+2 Introduced by Representatives Page of Newport City, Coffin of Cavendish,
+3 Demar of Enosburgh, Goslant of Northfield, Hango of
+4 Berkshire, Harrison of Chittenden, Hooper of Burlington,
+5 Kascenska of Burke, Keyser of Rutland City, Lipsky of Stowe,
+6 Morrissey of Bennington, Oliver of Sheldon, Quimby of
+7 Lyndon, and Wells of Brownington
+8 Referred to Committee on
+9 Date:
+10 Subject: Human services; health care; energy; public assistance benefits;
+11 eligibility; veterans’ disability benefits
+12 Statement of purpose of bill as introduced: This bill proposes to exclude
+13 veterans’ disability benefits from an applicant’s income for the purpose of
+14 making eligibility determinations for public assistance programs or benefits, to
+15 the extent not already excluded.
+16 An act relating to excluding veterans’ disability benefits from income-based
+17 eligibility determinations for public assistance programs or benefits
+VT LEG #379259 v.1
+BILL AS INTRODUCED H.104
+2025 Page 2 of 4
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Electricity and Natural Gas Efficiency Entity * * *
+3 Sec. 1. 30 V.S.A. § 209(d) is amended to read:
+4 (d) Energy efficiency.
+5 * * *
+6 (4) Contract or order of appointment. Appointment of an entity under
+7 subdivision (2) of this subsection may be by contract or by an order of
+8 appointment. An appointment, whether by order of appointment or by
+9 contract, may only be issued after notice and opportunity for hearing. An order
+10 of appointment shall be for a limited duration not to exceed 12 years, although
+11 an entity may be reappointed by order or contract. An order of appointment
+12 may include any conditions and requirements that the Commission deems
+13 appropriate to promote the public good. An order of appointment shall require
+14 that any program operated, or benefit issued by the entity, exclude a veteran’s
+15 disability benefit from the calculation of the individual’s taxable income as
+16 defined by 32 V.S.A. § 5811(21) or the individual’s adjusted gross income as
+17 defined by 26 U.S.C. § 62, respectively, for the purpose determining eligibility.
+18 For good cause, after notice and opportunity for hearing, the Commission may
+19 amend or revoke an order of appointment.
+20 * * *
+VT LEG #379259 v.1
+BILL AS INTRODUCED H.104
+2025 Page 3 of 4
+1 * * * Department for Children and Families * * *
+2 Sec. 2. 33 V.S.A. § 125 is added to read:
+3 § 125. VETERANS’ DISABILITY BENEFITS; EXCLUDED INCOME
+4 Any State program or benefit administered or operated by the Department
+5 shall exclude a veteran’s disability benefit from the calculation of the
+6 individual’s taxable income as defined by 32 V.S.A. § 5811(21) or the
+7 individual’s adjusted gross income as defined by 26 U.S.C. § 62, respectively,
+8 for the purpose determining eligibility.
+9 * * * Department of Vermont Health Access * * *
+10 Sec. 3. 33 V.S.A. § 405 is added to read:
+11 § 405. VETERANS’ DISABILITY BENEFITS; EXCLUDED INCOME
+12 Any State program or benefit administered or operated by the Department
+13 shall exclude a veteran’s disability benefit from the calculation of the
+14 individual’s taxable income as defined by 32 V.S.A. § 5811(21) or the
+15 individual’s adjusted gross income as defined by 26 U.S.C. § 62, respectively,
+16 for the purpose determining eligibility.
+17 * * * Department of Disabilities, Aging, and Independent Living * * *
+18 Sec. 4. 33 V.S.A. § 506 is added to read:
+19 § 506. VETERANS’ DISABILITY BENEFITS; EXCLUDED INCOME
+20 Any State program or benefit administered or operated by the Department
+21 shall exclude a veteran’s disability benefit from the calculation of the
+VT LEG #379259 v.1
+BILL AS INTRODUCED H.104
+2025 Page 4 of 4
+1 individual’s taxable income as defined by 32 V.S.A. § 5811(21) or the
+2 individual’s adjusted gross income as defined by 26 U.S.C. § 62, respectively,
+3 for the purpose determining eligibility.
+4 * * * Effective Date * * *
+5 Sec. 5. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #379259 v.1
+[DELETED:  H P H I R D B K M L R D S e S v m t A e]
+[DELETED:  H P I * S ( * ( s a c o a m a t d d d F a *]
+[DELETED:  H P * S § A s i i f * S § A s i i f * S § A s]
+[DELETED:  H P i i f * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.104
+2025 Page 1 of 4
+1 H.104
+2 Introduced by Representatives Page of Newport City, Coffin of Cavendish,
+3 Demar of Enosburgh, Goslant of Northfield, Hango of
+4 Berkshire, Harrison of Chittenden, Hooper of Burlington,
+5 Kascenska of Burke, Keyser of Rutland City, Lipsky of Stowe,
+6 Morrissey of Bennington, Oliver of Sheldon, Quimby of
+7 Lyndon, and Wells of Brownington
+8 Referred to Committee on
+9 Date:
+10 Subject: Human services; health care; energy; public assistance benefits;
+11 eligibility; veterans’ disability benefits
+12 Statement of purpose of bill as introduced: This bill proposes to exclude
+13 veterans’ disability benefits from an applicant’s income for the purpose of
+14 making eligibility determinations for public assistance programs or benefits, to
+15 the extent not already excluded.
+16 An act relating to excluding veterans’ disability benefits from income-based
+17 eligibility determinations for public assistance programs or benefits
+VT LEG #379259 v.1
+
+BILL AS INTRODUCED H.104
+2025 Page 2 of 4
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Electricity and Natural Gas Efficiency Entity * * *
+3 Sec. 1. 30 V.S.A. § 209(d) is amended to read:
+4 (d) Energy efficiency.
+5 * * *
+6 (4) Contract or order of appointment. Appointment of an entity under
+7 subdivision (2) of this subsection may be by contract or by an order of
+8 appointment. An appointment, whether by order of appointment or by
+9 contract, may only be issued after notice and opportunity for hearing. An order
+10 of appointment shall be for a limited duration not to exceed 12 years, although
+11 an entity may be reappointed by order or contract. An order of appointment
+12 may include any conditions and requirements that the Commission deems
+13 appropriate to promote the public good. An order of appointment shall require
+14 that any program operated, or benefit issued by the entity, exclude a veteran’s
+15 disability benefit from the calculation of the individual’s taxable income as
+16 defined by 32 V.S.A. § 5811(21) or the individual’s adjusted gross income as
+17 defined by 26 U.S.C. § 62, respectively, for the purpose determining eligibility.
+18 For good cause, after notice and opportunity for hearing, the Commission may
+19 amend or revoke an order of appointment.
+20 * * *
+VT LEG #379259 v.1
+
+BILL AS INTRODUCED H.104
+2025 Page 3 of 4
+1 * * * Department for Children and Families * * *
+2 Sec. 2. 33 V.S.A. § 125 is added to read:
+3 § 125. VETERANS’ DISABILITY BENEFITS; EXCLUDED INCOME
+4 Any State program or benefit administered or operated by the Department
+5 shall exclude a veteran’s disability benefit from the calculation of the
+6 individual’s taxable income as defined by 32 V.S.A. § 5811(21) or the
+7 individual’s adjusted gross income as defined by 26 U.S.C. § 62, respectively,
+8 for the purpose determining eligibility.
+9 * * * Department of Vermont Health Access * * *
+10 Sec. 3. 33 V.S.A. § 405 is added to read:
+11 § 405. VETERANS’ DISABILITY BENEFITS; EXCLUDED INCOME
+12 Any State program or benefit administered or operated by the Department
+13 shall exclude a veteran’s disability benefit from the calculation of the
+14 individual’s taxable income as defined by 32 V.S.A. § 5811(21) or the
+15 individual’s adjusted gross income as defined by 26 U.S.C. § 62, respectively,
+16 for the purpose determining eligibility.
+17 * * * Department of Disabilities, Aging, and Independent Living * * *
+18 Sec. 4. 33 V.S.A. § 506 is added to read:
+19 § 506. VETERANS’ DISABILITY BENEFITS; EXCLUDED INCOME
+20 Any State program or benefit administered or operated by the Department
+21 shall exclude a veteran’s disability benefit from the calculation of the
+VT LEG #379259 v.1
+
+BILL AS INTRODUCED H.104
+2025 Page 4 of 4
+1 individual’s taxable income as defined by 32 V.S.A. § 5811(21) or the
+2 individual’s adjusted gross income as defined by 26 U.S.C. § 62, respectively,
+3 for the purpose determining eligibility.
+4 * * * Effective Date * * *
+5 Sec. 5. EFFECTIVE DATE
+6 This act shall take effect on July 1, 2025.
+VT LEG #379259 v.1
+
+[DELETED:  H P H I R D B K M L R D S e S v m t A e]
+[DELETED:  H P I * S ( * ( s a c o a m a t d d d F a *]
+[DELETED:  H P * S § A s i i f * S § A s i i f * S § A s]
+[DELETED:  H P i i f * S T]

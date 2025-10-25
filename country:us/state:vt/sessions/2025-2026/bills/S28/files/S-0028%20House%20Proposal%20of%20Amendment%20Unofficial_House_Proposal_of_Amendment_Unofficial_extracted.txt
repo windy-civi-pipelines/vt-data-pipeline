@@ -1,0 +1,1294 @@
+Title: 2 An act relating to access to certain legally protected health care services
+Official Title: 2 An act relating to access to certain legally protected health care services
+Number of Sections: 1
+Source: versions - House Proposal of Amendment (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 1 of 26
+1 S.28
+3 The House proposes to the Senate that the bill be amended by striking out
+4 all after the enacting clause and inserting in lieu thereof the following:
+5 Sec. 1. 1 V.S.A. § 150 is amended to read:
+6 § 150. LEGALLY PROTECTED HEALTH CARE ACTIVITY
+7 * * *
+8 (b)(1) “Legally protected health care activity” means:
+9 * * *
+10 (4) The protections applicable to persons who engage in “legally
+11 protected health care activity” shall also apply to a person who has previously
+12 undertaken one or more acts or omissions while in another U.S. jurisdiction to
+13 aid or encourage, or attempt to aid or encourage, any person in the exercise and
+14 enjoyment, or attempted exercise and enjoyment, of rights to reproductive
+15 health care services or gender-affirming health care services that would have
+16 been protected by this State if they had been undertaken in this State, provided
+17 that the acts or omissions were permissible under the laws of the jurisdiction in
+18 which the person was located at the time they were undertaken.
+19 * * *
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 2 of 26
+1 Sec. 2. 1 V.S.A. § 317(c) is amended to read:
+2 (c) The following public records are exempt from public inspection and
+3 copying:
+4 * * *
+5 (44) Records held by the Office of Professional Regulation, Board of
+6 Medical Practice, or another public agency that issues one or more licenses,
+7 certificates, or registrations to engage in a State-regulated profession or
+8 occupation if the records contain the telephone number, email address,
+9 physical address, or mailing address, or a combination of these, of an
+10 individual who has applied for or has been granted a license, certificate, or
+11 registration to practice a profession or occupation in this State, except that the
+12 public agency shall disclose any address that the individual has designated as a
+13 public address in the record.
+14 Sec. 3. 3 V.S.A. § 129a is amended to read:
+15 § 129a. UNPROFESSIONAL CONDUCT
+16 (a) In addition to any other provision of law, the following conduct by a
+17 licensee constitutes unprofessional conduct. When that conduct is by an
+18 applicant or person who later becomes an applicant, it may constitute grounds
+19 for denial of a license or other disciplinary action. Any one of the following
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 3 of 26
+1 items or any combination of items, whether the conduct at issue was
+2 committed within or outside the State, shall constitute unprofessional conduct:
+3 (1) Fraudulent or deceptive procurement or use of a license.
+4 (2) Advertising, including advertising about health care services, that is
+5 intended or has a tendency to deceive or mislead.
+6 * * *
+7 (6) Delegating professional responsibilities, including the delivery of
+8 health care services, to a person whom the licensed professional knows, or has
+9 reason to know, is not qualified by training, experience, education, or licensing
+10 credentials to perform them, or knowingly providing professional supervision
+11 or serving as a preceptor to a person who has not been licensed or registered as
+12 required by the laws of that person’s profession.
+13 * * *
+14 (21) Permitting one’s name or license to be used by a person, group, or
+15 corporation when not actually in charge of or responsible for, or actively
+16 overseeing the professional services provided.
+17 * * *
+18 (f)(1) Health care providers. Notwithstanding subsection (e) of this section
+19 or any other law to the contrary, no health care provider who is certified,
+20 registered, or licensed in Vermont shall be subject to professional disciplinary
+21 action by a board or the Director, nor shall a board or the Director take adverse
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 4 of 26
+1 action on an application for certification, registration, or licensure of a
+2 qualified health care provider, based solely on:
+3 * * *
+4 (2) Definitions. As used in this subsection:
+5 * * *
+6 (B) “Health care services” means services for the diagnosis,
+7 prevention, treatment, cure, or relief of a physical or mental health condition,
+8 including counseling, procedures, products, devices, and medications.
+9 * * *
+10 Sec. 4. 9 V.S.A. chapter 63, subchapter 11 is amended to read:
+11 Subchapter 11. Pregnancy Services Centers Health Care Services
+12 § 2491. FINDINGS; LEGISLATIVE INTENT
+13 (a) Findings. The General Assembly finds that:
+14 (1) Centers that seek to counsel clients against abortion, often referred to
+15 as crisis pregnancy centers or limited-services pregnancy centers, have become
+16 common across the country, including in Vermont. Accurate information
+17 about the services that a limited-services pregnancy center performs, in
+18 addition to forthright acknowledgement of its limitations, is essential to enable
+19 individuals in this State to make informed decisions about their care. This
+20 includes individuals being informed of whether they are receiving services
+21 from a licensed and qualified health care provider at a limited-services
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 5 of 26
+1 pregnancy center, as this allows individuals to determine if they need to seek
+2 medical care elsewhere in order to continue or terminate a pregnancy.
+3 (2) Although some limited-services pregnancy centers openly
+4 acknowledge in their advertising, on their websites, and at their facilities that
+5 they neither provide abortions nor refer clients to other providers of abortion
+6 services, others provide confusing and misleading information to pregnant
+7 individuals contemplating abortion by leading those individuals to believe that
+8 their facilities offer abortion services and unbiased counseling. Some limited-
+9 services pregnancy centers have promoted patently false or biased medical
+10 claims about abortion, pregnancy, contraception, and reproductive health care
+11 providers.
+12 (3) False and misleading advertising by centers that do not offer or refer
+13 clients for abortion is of special concern to the State because of the time-
+14 sensitive and constitutionally protected nature of the decision to continue or
+15 terminate a pregnancy. When a pregnant individual is misled into believing
+16 that a center offers services that it does not in fact offer or receives false or
+17 misleading information regarding health care options, the individual loses time
+18 crucial to the decision whether to terminate a pregnancy and may lose the
+19 option to choose a particular method or to terminate a pregnancy at all.
+20 (4) Telling the truth is how trained health care providers demonstrate
+21 respect for patients, foster trust, promote self-determination, and cultivate an
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 6 of 26
+1 environment where best practices in shared decision-making can flourish.
+2 Without veracity in information and communication, it is difficult for
+3 individuals to make informed, voluntary choices that are essential to one’s
+4 sense of personal agency and autonomy.
+5 (5)(2) Advertising strategies and educational information about health
+6 care options that lack transparency, use misleading or ambiguous terminology,
+7 misrepresent or obfuscate services provided, or provide factually inaccurate
+8 information are a form of manipulation that disrespects individuals,
+9 undermines trust, broadens health disparity, and can result in patient harm.
+10 (b) Intent.
+11 (1) It is the intent of the General Assembly to ensure that the public is
+12 provided with accurate, factual information about the types of health care
+13 services that are available to pregnant individuals in this State. The General
+14 Assembly respects the constitutionally protected right of each individual to
+15 personal reproductive autonomy, which includes the right to receive clear,
+16 honest, and nonmisleading information about the individual’s options and to
+17 make informed, voluntary choices after considering all relevant information.
+18 (2) The General Assembly respects the right of limited-services
+19 pregnancy centers to counsel individuals against abortion, and nothing in this
+20 subchapter should be construed to regulate, limit, or curtail such advocacy.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 7 of 26
+1 § 2492. DEFINITIONS DEFINITION
+2 As used in this subchapter:,
+3 (1) “Abortion” means any medical treatment intended to induce the
+4 termination of, or to terminate, a clinically diagnosable pregnancy except for
+5 the purpose of producing a live birth.
+6 (2) “Client” means an individual who is inquiring about or seeking
+7 services at a pregnancy services center.
+8 (3) “Emergency contraception” means any drug approved by the U.S.
+9 Food and Drug Administration as a contraceptive method for use after sexual
+10 intercourse, whether provided over the counter or by prescription.
+11 (4) “Health information” means any oral or written information in any
+12 form or medium that relates to health insurance or the past, present, or future
+13 physical or mental health or condition of a client.
+14 (5) “Limited-services pregnancy center” means a pregnancy services
+15 center that does not directly provide, or provide referrals to clients for,
+16 abortions or emergency contraception.
+17 (6) “Pregnancy services center” means a facility, including a mobile
+18 facility, where the primary purpose is to provide services to individuals who
+19 are or may be pregnant and that either offers obstetric ultrasounds, obstetric
+20 sonograms, or prenatal care to pregnant individuals or has the appearance of a
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 8 of 26
+1 medical facility. A pregnancy services center has the appearance of a medical
+2 facility if two or more of the following factors are present:
+3 (A) The center offers pregnancy testing or pregnancy diagnosis, or
+4 both.
+5 (B) The center has staff or volunteers who wear medical attire or
+6 uniforms.
+7 (C) The center contains one or more examination tables.
+8 (D) The center contains a private or semiprivate room or area
+9 containing medical supplies or medical instruments.
+10 (E) The center has staff or volunteers who collect health information
+11 from clients.
+12 (F) The center is located on the same premises as a State-licensed
+13 medical facility or provider or shares facility space with a State-licensed
+14 medical provider.
+15 (7) “Premises” means land and improvements or appurtenances or any
+16 part thereof “health care services” means all supplies, care, and services of a
+17 medical, dental, behavioral health, mental health, substance use disorder
+18 treatment, surgical, psychiatric, therapeutic, diagnostic, preventative,
+19 rehabilitative, or supportive nature, including medication.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 9 of 26
+1 § 2493. UNFAIR AND DECEPTIVE ACT
+2 (a) It is an unfair and deceptive act and practice in commerce and a
+3 violation of section 2453 of this title for any limited-services pregnancy center
+4 person to disseminate or cause to be disseminated to the public any advertising
+5 about the health care services or proposed services performed at that center in
+6 this State that is untrue or clearly designed to mislead the public about the
+7 nature of the services provided. Advertising includes representations made
+8 directly to consumers; marketing practices; communication in any print
+9 medium, such as newspapers, magazines, mailers, or handouts; and any
+10 broadcast medium, such as television or radio, telephone marketing, or
+11 advertising over the Internet internet such as through websites and, web ads
+12 advertisements, and social media. For purposes of this chapter, advertising or
+13 the provision of services by a limited-services pregnancy center about health
+14 care services is an act in commerce.
+15 (b) Health care providers certified, registered, or licensed under Title 26 of
+16 the Vermont Statutes Annotated who are employed by, contracted to provide
+17 services for or on behalf of, or volunteer to provide services at a limited-
+18 services pregnancy center shall be responsible for conducting and providing
+19 health care services, information, and counseling at the center. The failure of a
+20 health care professional certified, registered, or licensed under Title 26 of the
+21 Vermont Statutes Annotated to conduct or to ensure that health care services,
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 10 of 26
+1 information, and counseling at the limited-services pregnancy services center
+2 are conducted in accordance with State law and professional standards of
+3 practice may constitute unprofessional conduct under 3 V.S.A. § 129a and 26
+4 V.S.A. § 1354. [Repealed.]
+5 (c) The Attorney General has the same authority to make rules, conduct
+6 civil investigations, and bring civil actions with respect to violations of
+7 subsection (a) of this section as provided under subchapter 1 of this chapter.
+8 Sec. 5. 12 V.S.A. § 7306 is amended to read:
+9 § 7306. NONCOOPERATION
+10 (a) No public agency or employee, appointee, officer or official, or any
+11 other person individual acting on behalf of a public agency may knowingly
+12 provide any information or expend or use time, money, facilities, property,
+13 equipment, personnel, or other resources in furtherance of any interstate or
+14 federal investigation or proceeding seeking to impose civil or criminal liability
+15 upon a person an individual or entity for:
+16 (1) the provision, seeking or receipt of, or inquiring about legally
+17 protected health care activity that is legal in this State; or
+18 (2) assisting any person individual or entity providing, seeking,
+19 receiving, or responding to an inquiry about legally protected health care
+20 activity that is legal in this State.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 11 of 26
+1 (b) This section shall not apply to:
+2 (1) any investigation or proceeding where the conduct subject to
+3 potential liability under the investigation or proceeding would be subject to
+4 liability under the laws of this State if committed in this State;
+5 (2) any action taken by the Judicial Branch in judicial proceedings order
+6 issued by a Vermont State court or a federal court; or
+7 (3) a public agency or employee, appointee, officer or official, or any
+8 other individual acting on behalf of a public agency who, in the course of
+9 normal business, is responding to a warrant or extradition demand on the good
+10 faith belief that the warrant or demand is valid in this State.
+11 Sec. 6. 18 V.S.A. § 1881 is amended to read:
+12 § 1881. DISCLOSURE OF PROTECTED HEALTH INFORMATION
+13 PROHIBITED
+14 (a) As used in this section:
+15 (1) “Business associate” has the same meaning as in 45 C.F.R. §
+16 160.103.
+17 (2) “Covered entity” has the same meaning as in 45 C.F.R. § 160.103.
+18 (3) “Legally protected health care activity” has the same meaning as in 1
+19 V.S.A. § 150.
+20 (4) “Protected health information” has the same meaning as in 45 C.F.R.
+21 § 160.103.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 12 of 26
+1 (5) “Telehealth” has the same meaning as in 26 V.S.A. § 3052.
+2 (b) A covered entity or business associate shall not disclose protected
+3 health information unless the disclosure is permitted under the Health
+4 Insurance Portability and Accountability Act of 1996 (HIPAA).
+5 (c)(1) In Notwithstanding any provision of subsection (b) of this section to
+6 the contrary, in order to protect patients and providers who engage in legally
+7 protected health care activity and except as set forth in in subdivision (2) of
+8 this subsection, a covered entity or business associate shall not disclose
+9 protected health information that is identifiable or susceptible to
+10 reidentification and is related to a legally protected health care activity:
+11 (A) to any government entity other than the State of Vermont or its
+12 political subdivisions or instrumentalities if the covered entity or business
+13 associate has reason to believe that the information will be used:
+14 (i) to conduct a criminal, civil, administrative, or professional
+15 disciplinary investigation into any individual for the mere act of seeking,
+16 obtaining, providing, or facilitating a legally protected health care activity;
+17 (ii) to impose criminal, civil, or administrative liability or
+18 professional disciplinary action on any individual for the mere act of seeking,
+19 obtaining, providing, or facilitating a legally protected health care activity; or
+20 (iii) to identify any individual for any of the activities described in
+21 subdivision (i) or (ii) of this subdivision (A); or
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 13 of 26
+1 (B) for use in a civil or criminal action; a proceeding preliminary to a
+2 civil or criminal action; or a probate, legislative, or administrative proceeding
+3 unless.
+4 (2) Notwithstanding any provision of subdivision (1) of this subsection
+5 to the contrary, a covered entity or business associate may disclose protected
+6 health information that is identifiable or susceptible to reidentification and is
+7 related to a legally protected health care activity if the disclosure meets one or
+8 more of the following conditions:
+9 (1)(A) The disclosure is authorized by the patient or the patient’s
+10 conservator, guardian, or other authorized legal representative.
+11 (2) The disclosure is specifically required by federal law, Vermont law,
+12 or rules adopted by the Vermont Supreme Court.
+13 (3)(B) The disclosure is ordered by a court of competent jurisdiction
+14 pursuant to federal law, Vermont law, or rules adopted by the Vermont
+15 Supreme Court. An A State court order compelling disclosure under this
+16 subdivision (B) shall include the court’s determination that good cause exists
+17 to require disclosure of the information related to the information will not be
+18 used to impose criminal, civil, or administrative liability or professional
+19 disciplinary action on any individual based solely on the fact that the person
+20 sought, obtained, provided, or facilitated a legally protected health care
+21 activity.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 14 of 26
+1 (4)(C) The disclosure is to be made to a person business associate
+2 designated by the covered entity or the covered entity’s business associate and
+3 will be used solely in the defense of the covered entity or the covered entity’s
+4 business associate against a claim that has been made, or there is a reasonable
+5 belief will be made, against the covered entity or the covered entity’s business
+6 associate in a civil or criminal action; a proceeding preliminary to a civil or
+7 criminal action; or a probate, legislative, or administrative proceeding.
+8 (5)(D) The disclosure is to Vermont’s Board of Medical Practice or
+9 Office of Professional Regulation, as applicable, in connection with a bona fide
+10 investigation in Vermont of a licensed, certified, or registered health care
+11 provider or a bona fide investigation of whether an individual who is not
+12 licensed, certified, or registered to practice a health care profession in Vermont
+13 engaged in unauthorized practice in this State, whether in person or through
+14 telehealth.
+15 (6)(E) The disclosure is to the Vermont Department of Health or the
+16 Vermont Department of Disabilities, Aging, and Independent Living, or both,
+17 in connection with a bona fide investigation of a licensed health care facility in
+18 Vermont.
+19 (F) Subject to the limitations set forth in 12 V.S.A. § 7306, the
+20 disclosure is required in the ordinary course of business of Vermont’s
+21 Medicaid program.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 15 of 26
+1 (d) A covered entity or business associate shall not be subject to any civil,
+2 criminal, or administrative liability or professional disciplinary action for
+3 refusing to disclose protected health information that is identifiable or
+4 susceptible to reidentification and is related to a legally protected health care
+5 activity, in accordance with subsection (c) of this section.
+6 Sec. 7. 18 V.S.A. § 4999 is amended to read:
+7 § 4999. DEFINITIONS
+8 As used in this part:
+9 * * *
+10 (2) “Licensed health care professional,” as used in 18 V.S.A. chapter
+11 107, means a physician, a physician assistant, a naturopathic physician, or an
+12 advanced practice registered nurse. As used in chapter 107 of this part only,
+13 the term also includes a naturopathic physician.
+14 * * *
+15 Sec. 8. 18 V.S.A. § 5200 is amended to read:
+16 § 5200. DEFINITIONS
+17 As used in this chapter:
+18 * * *
+19 (4) “Licensed health care professional” means a physician, a physician
+20 assistant, a naturopathic physician, or an advanced practice registered nurse.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 16 of 26
+1 (5) “Natural organic reduction” has the same meaning as in section 5302
+2 of this title.
+3 Sec. 9. 18 V.S.A. § 5222 is amended to read:
+4 § 5222. REPORTS
+5 (a)(1) The following fetal deaths shall be reported by the hospital,
+6 physician licensed health care professional, or funeral director directly to the
+7 Commissioner within seven days after delivery on forms prescribed by the
+8 Department:
+9 (1)(A) All fetal deaths of 20 or more weeks of gestation or, if gestational
+10 age is unknown, of 400 or more grams, 15 or more ounces, fetal weight shall
+11 be reported.
+12 (2)(B) All therapeutic or induced abortions, as legally authorized to be
+13 performed, of any length gestation or weight shall be reported.
+14 (3)(2) Spontaneous abortions and ectopic pregnancies of less than 20
+15 weeks gestation are not required to be reported.
+16 (b) The physician licensed health care professional who treats a woman
+17 patient as a result of a miscarriage or abortion shall report the fetal death if it is
+18 not known to be previously reported under subsection (a) of this section. If
+19 there is evidence of violence or other unusual or suspicious circumstances, the
+20 medical examiner shall be immediately notified, and he or she the medical
+21 examiner shall complete at least the medical items on the report. If a funeral
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 17 of 26
+1 director is to be involved, the physician licensed health care professional may
+2 delegate to the funeral director the responsibility for completing items other
+3 than those of a medical nature. Similarly, the physician licensed health care
+4 professional may delegate the responsibility for completion of nonmedical
+5 items to appropriate personnel having access to records containing the
+6 information.
+7 (c) If a fetal death occurs on a moving conveyance, the place of occurrence
+8 shall be given as the town or city where removal from the vehicle took place.
+9 (d) Fetal death reports Reports made pursuant to this section are for
+10 statistical purposes only and are not public records. They shall be kept
+11 confidential; shall not be disclosed or discoverable in any civil, criminal,
+12 administrative, or other proceeding; and shall be destroyed after five two years.
+13 Sec. 10. 26 V.S.A. § 1354 is amended to read:
+14 § 1354. UNPROFESSIONAL CONDUCT
+15 (a) Prohibited conduct. The Board shall find that any one of the following,
+16 or any combination of the following, whether the conduct at issue was
+17 committed within or outside the State, constitutes unprofessional conduct:
+18 * * *
+19 (2) all advertising of about health care services or a medical business
+20 that is intended or has a tendency to mislead or deceive the public or impose
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 18 of 26
+1 upon credulous or ignorant persons and so be harmful or injurious to public
+2 morals or safety;
+3 * * *
+4 (21) permitting one’s name or license to be used by a person, group, or
+5 corporation when not actually in charge of, or responsible for, or actively
+6 overseeing the treatment given or other health care services provided;
+7 * * *
+8 (29) delegation of professional responsibilities, including delivery of
+9 any health care services, to a person whom the licensed professional knows, or
+10 has reason to know, is not qualified by training, experience, education, or
+11 licensing credentials to perform them;
+12 * * *
+13 (33)(A) providing, prescribing, dispensing, or furnishing medical
+14 services or prescription medication or prescription-only devices to a person in
+15 response to any communication transmitted or received by computer or other
+16 electronic means, when the licensee fails to take the following actions to
+17 establish and maintain a proper physician-patient relationship:
+18 (i) a reasonable effort to verify that the person requesting
+19 medication is in fact the patient, and is in fact who the person claims to be;
+20 (ii) establishment of documented diagnosis through the use of
+21 accepted medical practices; and
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 19 of 26
+1 (iii) maintenance of a current medical record;
+2 (B) for the purposes of this subdivision (33), an electronic, on-line
+3 online, or telephonic evaluation by questionnaire is inadequate for the initial
+4 evaluation of the patient, except as otherwise provided in subdivision (C)(iv)
+5 of this subdivision (33);
+6 (C) the following would not be in violation of this subdivision (33) if
+7 transmitted or received by computer or other electronic means:
+8 (i) initial admission orders for newly hospitalized patients;
+9 (ii) prescribing for a patient of another physician for whom the
+10 prescriber has taken the call;
+11 (iii) prescribing for a patient examined by a licensed advanced
+12 practice registered nurse, physician assistant, or other advanced practitioner
+13 authorized by law and supported by the physician;
+14 (iv) in furtherance of 18 V.S.A. chapter 223, prescribing
+15 medication for an individual to terminate the individual’s pregnancy based on
+16 an adaptive questionnaire developed by or in consultation with health care
+17 providers with clinically appropriate expertise that allows the licensee to obtain
+18 additional medical history and ask follow-up questions as needed;
+19 (v) continuing medication on a short-term basis for a new patient,
+20 prior to the patient’s first appointment; or
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 20 of 26
+1 (v)(vi) emergency situations where life or health of the patient is
+2 in imminent danger;
+3 * * *
+4 (b) Failure to practice competently. The Board may also find that failure to
+5 practice competently by reason of any cause on a single occasion or on
+6 multiple occasions constitutes unprofessional conduct. Failure to practice
+7 competently includes, as determined by the Board:
+8 (1) performance of unsafe or unacceptable patient care; or
+9 (2) failure to conform to the essential standards of acceptable and
+10 prevailing practice.
+11 (c) Burden of proof. The burden of proof in a disciplinary action shall be
+12 on the State to show by a preponderance of the evidence that the person has
+13 engaged in unprofessional conduct.
+14 (d)(1) Health care providers. Notwithstanding any other law to the
+15 contrary, no health care provider who is certified, registered, or licensed in
+16 Vermont shall be subject to professional disciplinary action by the Board, nor
+17 shall the Board take adverse action on an application for certification,
+18 registration, or licensure of a qualified health care provider, based solely on:
+19 (A)(1) the health care provider providing or assisting in the provision of
+20 legally protected health care activity; or
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 21 of 26
+1 (B)(2) a criminal, civil, or disciplinary action in another state against the
+2 health care provider that is based solely on the provider providing or assisting
+3 in the provision of legally protected health care activity.
+4 (2)(e) Definitions. As used in this subsection section:
+5 (A)(1) “Health care provider” means a person who provides professional
+6 health care services to an individual during that individual’s medical care,
+7 treatment, or confinement.
+8 (B)(2) “Health care services” means services for the diagnosis,
+9 prevention, treatment, cure, or relief of a physical or mental health condition,
+10 including counseling, procedures, products, devices, and medications.
+11 (C)(3) “Legally protected health care activity” has the same meaning as
+12 in 1 V.S.A. § 150.
+13 Sec. 11. 26 V.S.A. § 1615 is amended to read:
+14 § 1615. ADVANCED PRACTICE REGISTERED NURSES;
+15 REGULATORY AUTHORITY; UNPROFESSIONAL CONDUCT
+16 (a) In addition to the provisions of 3 V.S.A. § 129a and section 1582 of this
+17 chapter, the Board may deny an application for licensure, renewal, or
+18 reinstatement or may revoke, suspend, or otherwise discipline an advanced
+19 practice registered nurse upon due notice and opportunity for hearing if the
+20 person engages in the following conduct:
+21 * * *
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 22 of 26
+1 (6) Providing Except as otherwise provided in subsection (b) of this
+2 section, providing, prescribing, dispensing, or furnishing medical services or
+3 prescription medication or prescription-only devices to a person in response to
+4 any communication transmitted or received by computer or other electronic
+5 means when the licensee fails to take the following actions to establish and
+6 maintain a proper provider-patient relationship:
+7 (A) a reasonable effort to verify that the person requesting
+8 medication is in fact the patient and is in fact who the person claims to be;
+9 (B) establishment of documented diagnosis through the use of
+10 accepted medical practices; and
+11 (C) maintenance of a current medical record.
+12 * * *
+13 (b)(1) For the purposes of subdivision (a)(6) of this section, an electronic,
+14 online, or telephonic evaluation by questionnaire is inadequate for the initial
+15 evaluation of the patient, except as otherwise provided in subdivision (2)(D) of
+16 this subsection.
+17 (2) The following would not be in violation of subdivision (a)(6) of this
+18 section:
+19 (A) initial admission orders for newly hospitalized patients;
+20 (B) prescribing for a patient of another provider for whom the
+21 prescriber has taken call;
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 23 of 26
+1 (C) prescribing for a patient examined by a licensed APRN,
+2 physician assistant, or other practitioner authorized by law and supported by
+3 the APRN;
+4 (D) in furtherance of 18 V.S.A. chapter 223, prescribing medication
+5 for an individual to terminate the individual’s pregnancy based on an adaptive
+6 questionnaire developed by or in consultation with health care providers with
+7 clinically appropriate expertise that allows the licensee to obtain additional
+8 medical history and ask follow-up questions as needed;
+9 (E) continuing medication on a short-term basis for a new patient
+10 prior to the patient’s first appointment; or
+11 (E)(F) emergency situations where the life or health of the patient is
+12 in imminent danger.
+13 * * *
+14 Sec. 12. 26 V.S.A. § 1736 is amended to read:
+15 § 1736. UNPROFESSIONAL CONDUCT
+16 (a) The following conduct and the conduct described in section 1354 of this
+17 title by a licensed physician assistant shall constitute unprofessional conduct;
+18 when that conduct is by an applicant or person who later becomes an applicant,
+19 it may constitute grounds for denial of licensure:
+20 * * *
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 24 of 26
+1 (2) occupational advertising or advertising about health care services
+2 that is intended or has a tendency to mislead or deceive the public;
+3 (3) exercising undue influence on or taking improper advantage of a
+4 person using the individual’s services, or promoting the sale of professional
+5 goods or services in a manner that exploits a person for the financial gain of
+6 the practitioner or of a third party;
+7 (4) failing to comply with provisions of federal or state statutes or rules
+8 governing the profession;
+9 (5) conviction of a crime related to the profession; and
+10 (6) conduct that evidences unfitness to practice in the profession.
+11 * * *
+12 (d) As used in this section, “health care services” means services for the
+13 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+14 condition, including counseling, procedures, products, devices, and
+15 medications.
+16 Sec. 13. 26 V.S.A. § 2024 is added to read:
+17 § 2024. CONFIDENTIALITY OF PRESCRIBER AND PHARMACIST
+18 INFORMATION ON MEDICATIONS FOR LEGALLY
+19 PROTECTED HEALTH CARE ACTIVITY
+20 (a) As used in this section:
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 25 of 26
+1 (1) “Gender-affirming health care services” and “reproductive health
+2 care services” have the same meanings as in 1 V.S.A. § 150.
+3 (2) “Noncontrolled medication” means a medication that is not a
+4 controlled substance as defined in 21 U.S.C. § 802.
+5 (b)(1) Upon the request of a prescribing practitioner and to the extent not
+6 expressly required under federal law, a pharmacist or other licensed member of
+7 the pharmacy staff shall redact or otherwise remove the practitioner’s name or
+8 initials from a fulfilled prescription for a noncontrolled medication for gender-
+9 affirming health care services or reproductive health care services, and from
+10 any accompanying printed materials.
+11 (2) A pharmacist may, or, upon the pharmacist’s request, another
+12 licensed member of the pharmacy staff shall, redact or otherwise remove the
+13 pharmacist’s name or initials from a fulfilled prescription for a noncontrolled
+14 medication for gender-affirming health care services or reproductive health
+15 care services, and from any accompanying printed materials.
+16 (3) If a prescribing practitioner dispenses medication directly to patients
+17 for gender-affirming health care services or reproductive health care services,
+18 or both, the practitioner may redact or otherwise remove the practitioner’s own
+19 name or initials from a fulfilled prescription for a noncontrolled medication for
+20 gender-affirming health care services or reproductive health care services, and
+21 from any accompanying printed materials.
+VT LEG #382878 v.1
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 26 of 26
+1 (c) Nothing in this chapter or the rules governing the pharmacy profession
+2 shall be construed to require a pharmacist or other licensed member of a
+3 pharmacy’s staff to list the prescribing practitioner’s or pharmacist’s name or
+4 initials on a fulfilled prescription for noncontrolled medication for gender-
+5 affirming health care services or reproductive health care services.
+6 (d) A pharmacist or other licensed member of a pharmacy’s staff shall be
+7 immune from civil and administrative liability for failing to redact or remove
+8 the name of a prescriber or pharmacist when requested to do so pursuant to
+9 subdivision (b)(1) or (2) of this section; provided, however, that this immunity
+10 shall not apply to gross negligence, recklessness, or intentional misconduct by
+11 a pharmacist or other licensed member of the pharmacy staff.
+12 Sec. 14. EFFECTIVE DATE
+13 This act shall take effect on passage.
+VT LEG #382878 v.1
+[DELETED:   S  P S A T a S § * ( * ( p u a e h b t w *]
+[DELETED:   S  P S ( c * ( M c o p i r p p S § ( l a f]
+[DELETED:   S  P i c ( ( i * ( h r c o r * ( c o * ( o r a]
+[DELETED:   S  P a q * ( * ( p i * S S § ( ( a c a a i i f]
+[DELETED:   S  P p m ( a t s i t s c p ( c s t t m c o ( r]
+[DELETED:   S  P e W i s ( c m i u ( ( p s A p h m ( p s]
+[DELETED:   S  P § A ( t t ( s ( F i ( f p ( c a ( f a s]
+[DELETED:   S  P m f ( b ( u ( ( c ( f ( m m ( p m t r]
+[DELETED:   S  P § ( v p a t n d m b a a t c ( t s s h h V]
+[DELETED:   S  P i a p V ( c s S § ( o p e f u ( p ( r a]
+[DELETED:   S  P ( ( p l ( i ( o n f S §   ( ( 1 ( ( V ( §]
+[DELETED:   S  P ( ( h I ( t p t p r ( p a ( d o ( p o ( s]
+[DELETED:   S  P ( c u ( t h r m ( c ( o ( p S s t u d s a]
+[DELETED:   S  P ( d w b b a c ( O i p l e t ( V i V ( d M]
+[DELETED:   S  P ( c r s a S § A * ( 1 a t * S § A * ( a]
+[DELETED:   S  P ( o S § ( p C D ( a b ( p ( w ( p n t m e]
+[DELETED:   S  P d d t p i i ( s ( s c a S § ( o c * ( t]
+[DELETED:   S  P u m * ( c o * ( a h l * ( s r e e ( m ( a]
+[DELETED:   S  P ( ( o e o ( t ( ( p ( p a ( m a p a ( p]
+[DELETED:   S  P ( i * ( p m c ( ( p ( o e ( c V s r ( l]
+[DELETED:   S  P ( h i ( ( h t ( p i ( i S §   ( c r p p *]
+[DELETED:   S  P ( s p a m m ( m ( a ( * ( o e t ( s ( ( p]
+[DELETED:   S  P ( p t ( f q c m ( p ( i * S § ( t w i *]
+[DELETED:   S  P ( t ( p g t ( g ( ( * ( d c m S §     (]
+[DELETED:   S  P ( c ( c ( e t i a a ( l p m c ( f o n g f]
+[DELETED:   S  P ( s p i a ( i t s s a S T]
+
+
+================================================================================
+
+Raw Text:
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 1 of 26
+1 S.28
+2 An act relating to access to certain legally protected health care services
+3 The House proposes to the Senate that the bill be amended by striking out
+4 all after the enacting clause and inserting in lieu thereof the following:
+5 Sec. 1. 1 V.S.A. § 150 is amended to read:
+6 § 150. LEGALLY PROTECTED HEALTH CARE ACTIVITY
+7 * * *
+8 (b)(1) “Legally protected health care activity” means:
+9 * * *
+10 (4) The protections applicable to persons who engage in “legally
+11 protected health care activity” shall also apply to a person who has previously
+12 undertaken one or more acts or omissions while in another U.S. jurisdiction to
+13 aid or encourage, or attempt to aid or encourage, any person in the exercise and
+14 enjoyment, or attempted exercise and enjoyment, of rights to reproductive
+15 health care services or gender-affirming health care services that would have
+16 been protected by this State if they had been undertaken in this State, provided
+17 that the acts or omissions were permissible under the laws of the jurisdiction in
+18 which the person was located at the time they were undertaken.
+19 * * *
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 2 of 26
+1 Sec. 2. 1 V.S.A. § 317(c) is amended to read:
+2 (c) The following public records are exempt from public inspection and
+3 copying:
+4 * * *
+5 (44) Records held by the Office of Professional Regulation, Board of
+6 Medical Practice, or another public agency that issues one or more licenses,
+7 certificates, or registrations to engage in a State-regulated profession or
+8 occupation if the records contain the telephone number, email address,
+9 physical address, or mailing address, or a combination of these, of an
+10 individual who has applied for or has been granted a license, certificate, or
+11 registration to practice a profession or occupation in this State, except that the
+12 public agency shall disclose any address that the individual has designated as a
+13 public address in the record.
+14 Sec. 3. 3 V.S.A. § 129a is amended to read:
+15 § 129a. UNPROFESSIONAL CONDUCT
+16 (a) In addition to any other provision of law, the following conduct by a
+17 licensee constitutes unprofessional conduct. When that conduct is by an
+18 applicant or person who later becomes an applicant, it may constitute grounds
+19 for denial of a license or other disciplinary action. Any one of the following
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 3 of 26
+1 items or any combination of items, whether the conduct at issue was
+2 committed within or outside the State, shall constitute unprofessional conduct:
+3 (1) Fraudulent or deceptive procurement or use of a license.
+4 (2) Advertising, including advertising about health care services, that is
+5 intended or has a tendency to deceive or mislead.
+6 * * *
+7 (6) Delegating professional responsibilities, including the delivery of
+8 health care services, to a person whom the licensed professional knows, or has
+9 reason to know, is not qualified by training, experience, education, or licensing
+10 credentials to perform them, or knowingly providing professional supervision
+11 or serving as a preceptor to a person who has not been licensed or registered as
+12 required by the laws of that person’s profession.
+13 * * *
+14 (21) Permitting one’s name or license to be used by a person, group, or
+15 corporation when not actually in charge of or responsible for, or actively
+16 overseeing the professional services provided.
+17 * * *
+18 (f)(1) Health care providers. Notwithstanding subsection (e) of this section
+19 or any other law to the contrary, no health care provider who is certified,
+20 registered, or licensed in Vermont shall be subject to professional disciplinary
+21 action by a board or the Director, nor shall a board or the Director take adverse
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 4 of 26
+1 action on an application for certification, registration, or licensure of a
+2 qualified health care provider, based solely on:
+3 * * *
+4 (2) Definitions. As used in this subsection:
+5 * * *
+6 (B) “Health care services” means services for the diagnosis,
+7 prevention, treatment, cure, or relief of a physical or mental health condition,
+8 including counseling, procedures, products, devices, and medications.
+9 * * *
+10 Sec. 4. 9 V.S.A. chapter 63, subchapter 11 is amended to read:
+11 Subchapter 11. Pregnancy Services Centers Health Care Services
+12 § 2491. FINDINGS; LEGISLATIVE INTENT
+13 (a) Findings. The General Assembly finds that:
+14 (1) Centers that seek to counsel clients against abortion, often referred to
+15 as crisis pregnancy centers or limited-services pregnancy centers, have become
+16 common across the country, including in Vermont. Accurate information
+17 about the services that a limited-services pregnancy center performs, in
+18 addition to forthright acknowledgement of its limitations, is essential to enable
+19 individuals in this State to make informed decisions about their care. This
+20 includes individuals being informed of whether they are receiving services
+21 from a licensed and qualified health care provider at a limited-services
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 5 of 26
+1 pregnancy center, as this allows individuals to determine if they need to seek
+2 medical care elsewhere in order to continue or terminate a pregnancy.
+3 (2) Although some limited-services pregnancy centers openly
+4 acknowledge in their advertising, on their websites, and at their facilities that
+5 they neither provide abortions nor refer clients to other providers of abortion
+6 services, others provide confusing and misleading information to pregnant
+7 individuals contemplating abortion by leading those individuals to believe that
+8 their facilities offer abortion services and unbiased counseling. Some limited-
+9 services pregnancy centers have promoted patently false or biased medical
+10 claims about abortion, pregnancy, contraception, and reproductive health care
+11 providers.
+12 (3) False and misleading advertising by centers that do not offer or refer
+13 clients for abortion is of special concern to the State because of the time-
+14 sensitive and constitutionally protected nature of the decision to continue or
+15 terminate a pregnancy. When a pregnant individual is misled into believing
+16 that a center offers services that it does not in fact offer or receives false or
+17 misleading information regarding health care options, the individual loses time
+18 crucial to the decision whether to terminate a pregnancy and may lose the
+19 option to choose a particular method or to terminate a pregnancy at all.
+20 (4) Telling the truth is how trained health care providers demonstrate
+21 respect for patients, foster trust, promote self-determination, and cultivate an
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 6 of 26
+1 environment where best practices in shared decision-making can flourish.
+2 Without veracity in information and communication, it is difficult for
+3 individuals to make informed, voluntary choices that are essential to one’s
+4 sense of personal agency and autonomy.
+5 (5)(2) Advertising strategies and educational information about health
+6 care options that lack transparency, use misleading or ambiguous terminology,
+7 misrepresent or obfuscate services provided, or provide factually inaccurate
+8 information are a form of manipulation that disrespects individuals,
+9 undermines trust, broadens health disparity, and can result in patient harm.
+10 (b) Intent.
+11 (1) It is the intent of the General Assembly to ensure that the public is
+12 provided with accurate, factual information about the types of health care
+13 services that are available to pregnant individuals in this State. The General
+14 Assembly respects the constitutionally protected right of each individual to
+15 personal reproductive autonomy, which includes the right to receive clear,
+16 honest, and nonmisleading information about the individual’s options and to
+17 make informed, voluntary choices after considering all relevant information.
+18 (2) The General Assembly respects the right of limited-services
+19 pregnancy centers to counsel individuals against abortion, and nothing in this
+20 subchapter should be construed to regulate, limit, or curtail such advocacy.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 7 of 26
+1 § 2492. DEFINITIONS DEFINITION
+2 As used in this subchapter:,
+3 (1) “Abortion” means any medical treatment intended to induce the
+4 termination of, or to terminate, a clinically diagnosable pregnancy except for
+5 the purpose of producing a live birth.
+6 (2) “Client” means an individual who is inquiring about or seeking
+7 services at a pregnancy services center.
+8 (3) “Emergency contraception” means any drug approved by the U.S.
+9 Food and Drug Administration as a contraceptive method for use after sexual
+10 intercourse, whether provided over the counter or by prescription.
+11 (4) “Health information” means any oral or written information in any
+12 form or medium that relates to health insurance or the past, present, or future
+13 physical or mental health or condition of a client.
+14 (5) “Limited-services pregnancy center” means a pregnancy services
+15 center that does not directly provide, or provide referrals to clients for,
+16 abortions or emergency contraception.
+17 (6) “Pregnancy services center” means a facility, including a mobile
+18 facility, where the primary purpose is to provide services to individuals who
+19 are or may be pregnant and that either offers obstetric ultrasounds, obstetric
+20 sonograms, or prenatal care to pregnant individuals or has the appearance of a
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 8 of 26
+1 medical facility. A pregnancy services center has the appearance of a medical
+2 facility if two or more of the following factors are present:
+3 (A) The center offers pregnancy testing or pregnancy diagnosis, or
+4 both.
+5 (B) The center has staff or volunteers who wear medical attire or
+6 uniforms.
+7 (C) The center contains one or more examination tables.
+8 (D) The center contains a private or semiprivate room or area
+9 containing medical supplies or medical instruments.
+10 (E) The center has staff or volunteers who collect health information
+11 from clients.
+12 (F) The center is located on the same premises as a State-licensed
+13 medical facility or provider or shares facility space with a State-licensed
+14 medical provider.
+15 (7) “Premises” means land and improvements or appurtenances or any
+16 part thereof “health care services” means all supplies, care, and services of a
+17 medical, dental, behavioral health, mental health, substance use disorder
+18 treatment, surgical, psychiatric, therapeutic, diagnostic, preventative,
+19 rehabilitative, or supportive nature, including medication.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 9 of 26
+1 § 2493. UNFAIR AND DECEPTIVE ACT
+2 (a) It is an unfair and deceptive act and practice in commerce and a
+3 violation of section 2453 of this title for any limited-services pregnancy center
+4 person to disseminate or cause to be disseminated to the public any advertising
+5 about the health care services or proposed services performed at that center in
+6 this State that is untrue or clearly designed to mislead the public about the
+7 nature of the services provided. Advertising includes representations made
+8 directly to consumers; marketing practices; communication in any print
+9 medium, such as newspapers, magazines, mailers, or handouts; and any
+10 broadcast medium, such as television or radio, telephone marketing, or
+11 advertising over the Internet internet such as through websites and, web ads
+12 advertisements, and social media. For purposes of this chapter, advertising or
+13 the provision of services by a limited-services pregnancy center about health
+14 care services is an act in commerce.
+15 (b) Health care providers certified, registered, or licensed under Title 26 of
+16 the Vermont Statutes Annotated who are employed by, contracted to provide
+17 services for or on behalf of, or volunteer to provide services at a limited-
+18 services pregnancy center shall be responsible for conducting and providing
+19 health care services, information, and counseling at the center. The failure of a
+20 health care professional certified, registered, or licensed under Title 26 of the
+21 Vermont Statutes Annotated to conduct or to ensure that health care services,
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 10 of 26
+1 information, and counseling at the limited-services pregnancy services center
+2 are conducted in accordance with State law and professional standards of
+3 practice may constitute unprofessional conduct under 3 V.S.A. § 129a and 26
+4 V.S.A. § 1354. [Repealed.]
+5 (c) The Attorney General has the same authority to make rules, conduct
+6 civil investigations, and bring civil actions with respect to violations of
+7 subsection (a) of this section as provided under subchapter 1 of this chapter.
+8 Sec. 5. 12 V.S.A. § 7306 is amended to read:
+9 § 7306. NONCOOPERATION
+10 (a) No public agency or employee, appointee, officer or official, or any
+11 other person individual acting on behalf of a public agency may knowingly
+12 provide any information or expend or use time, money, facilities, property,
+13 equipment, personnel, or other resources in furtherance of any interstate or
+14 federal investigation or proceeding seeking to impose civil or criminal liability
+15 upon a person an individual or entity for:
+16 (1) the provision, seeking or receipt of, or inquiring about legally
+17 protected health care activity that is legal in this State; or
+18 (2) assisting any person individual or entity providing, seeking,
+19 receiving, or responding to an inquiry about legally protected health care
+20 activity that is legal in this State.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 11 of 26
+1 (b) This section shall not apply to:
+2 (1) any investigation or proceeding where the conduct subject to
+3 potential liability under the investigation or proceeding would be subject to
+4 liability under the laws of this State if committed in this State;
+5 (2) any action taken by the Judicial Branch in judicial proceedings order
+6 issued by a Vermont State court or a federal court; or
+7 (3) a public agency or employee, appointee, officer or official, or any
+8 other individual acting on behalf of a public agency who, in the course of
+9 normal business, is responding to a warrant or extradition demand on the good
+10 faith belief that the warrant or demand is valid in this State.
+11 Sec. 6. 18 V.S.A. § 1881 is amended to read:
+12 § 1881. DISCLOSURE OF PROTECTED HEALTH INFORMATION
+13 PROHIBITED
+14 (a) As used in this section:
+15 (1) “Business associate” has the same meaning as in 45 C.F.R. §
+16 160.103.
+17 (2) “Covered entity” has the same meaning as in 45 C.F.R. § 160.103.
+18 (3) “Legally protected health care activity” has the same meaning as in 1
+19 V.S.A. § 150.
+20 (4) “Protected health information” has the same meaning as in 45 C.F.R.
+21 § 160.103.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 12 of 26
+1 (5) “Telehealth” has the same meaning as in 26 V.S.A. § 3052.
+2 (b) A covered entity or business associate shall not disclose protected
+3 health information unless the disclosure is permitted under the Health
+4 Insurance Portability and Accountability Act of 1996 (HIPAA).
+5 (c)(1) In Notwithstanding any provision of subsection (b) of this section to
+6 the contrary, in order to protect patients and providers who engage in legally
+7 protected health care activity and except as set forth in in subdivision (2) of
+8 this subsection, a covered entity or business associate shall not disclose
+9 protected health information that is identifiable or susceptible to
+10 reidentification and is related to a legally protected health care activity:
+11 (A) to any government entity other than the State of Vermont or its
+12 political subdivisions or instrumentalities if the covered entity or business
+13 associate has reason to believe that the information will be used:
+14 (i) to conduct a criminal, civil, administrative, or professional
+15 disciplinary investigation into any individual for the mere act of seeking,
+16 obtaining, providing, or facilitating a legally protected health care activity;
+17 (ii) to impose criminal, civil, or administrative liability or
+18 professional disciplinary action on any individual for the mere act of seeking,
+19 obtaining, providing, or facilitating a legally protected health care activity; or
+20 (iii) to identify any individual for any of the activities described in
+21 subdivision (i) or (ii) of this subdivision (A); or
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 13 of 26
+1 (B) for use in a civil or criminal action; a proceeding preliminary to a
+2 civil or criminal action; or a probate, legislative, or administrative proceeding
+3 unless.
+4 (2) Notwithstanding any provision of subdivision (1) of this subsection
+5 to the contrary, a covered entity or business associate may disclose protected
+6 health information that is identifiable or susceptible to reidentification and is
+7 related to a legally protected health care activity if the disclosure meets one or
+8 more of the following conditions:
+9 (1)(A) The disclosure is authorized by the patient or the patient’s
+10 conservator, guardian, or other authorized legal representative.
+11 (2) The disclosure is specifically required by federal law, Vermont law,
+12 or rules adopted by the Vermont Supreme Court.
+13 (3)(B) The disclosure is ordered by a court of competent jurisdiction
+14 pursuant to federal law, Vermont law, or rules adopted by the Vermont
+15 Supreme Court. An A State court order compelling disclosure under this
+16 subdivision (B) shall include the court’s determination that good cause exists
+17 to require disclosure of the information related to the information will not be
+18 used to impose criminal, civil, or administrative liability or professional
+19 disciplinary action on any individual based solely on the fact that the person
+20 sought, obtained, provided, or facilitated a legally protected health care
+21 activity.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 14 of 26
+1 (4)(C) The disclosure is to be made to a person business associate
+2 designated by the covered entity or the covered entity’s business associate and
+3 will be used solely in the defense of the covered entity or the covered entity’s
+4 business associate against a claim that has been made, or there is a reasonable
+5 belief will be made, against the covered entity or the covered entity’s business
+6 associate in a civil or criminal action; a proceeding preliminary to a civil or
+7 criminal action; or a probate, legislative, or administrative proceeding.
+8 (5)(D) The disclosure is to Vermont’s Board of Medical Practice or
+9 Office of Professional Regulation, as applicable, in connection with a bona fide
+10 investigation in Vermont of a licensed, certified, or registered health care
+11 provider or a bona fide investigation of whether an individual who is not
+12 licensed, certified, or registered to practice a health care profession in Vermont
+13 engaged in unauthorized practice in this State, whether in person or through
+14 telehealth.
+15 (6)(E) The disclosure is to the Vermont Department of Health or the
+16 Vermont Department of Disabilities, Aging, and Independent Living, or both,
+17 in connection with a bona fide investigation of a licensed health care facility in
+18 Vermont.
+19 (F) Subject to the limitations set forth in 12 V.S.A. § 7306, the
+20 disclosure is required in the ordinary course of business of Vermont’s
+21 Medicaid program.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 15 of 26
+1 (d) A covered entity or business associate shall not be subject to any civil,
+2 criminal, or administrative liability or professional disciplinary action for
+3 refusing to disclose protected health information that is identifiable or
+4 susceptible to reidentification and is related to a legally protected health care
+5 activity, in accordance with subsection (c) of this section.
+6 Sec. 7. 18 V.S.A. § 4999 is amended to read:
+7 § 4999. DEFINITIONS
+8 As used in this part:
+9 * * *
+10 (2) “Licensed health care professional,” as used in 18 V.S.A. chapter
+11 107, means a physician, a physician assistant, a naturopathic physician, or an
+12 advanced practice registered nurse. As used in chapter 107 of this part only,
+13 the term also includes a naturopathic physician.
+14 * * *
+15 Sec. 8. 18 V.S.A. § 5200 is amended to read:
+16 § 5200. DEFINITIONS
+17 As used in this chapter:
+18 * * *
+19 (4) “Licensed health care professional” means a physician, a physician
+20 assistant, a naturopathic physician, or an advanced practice registered nurse.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 16 of 26
+1 (5) “Natural organic reduction” has the same meaning as in section 5302
+2 of this title.
+3 Sec. 9. 18 V.S.A. § 5222 is amended to read:
+4 § 5222. REPORTS
+5 (a)(1) The following fetal deaths shall be reported by the hospital,
+6 physician licensed health care professional, or funeral director directly to the
+7 Commissioner within seven days after delivery on forms prescribed by the
+8 Department:
+9 (1)(A) All fetal deaths of 20 or more weeks of gestation or, if gestational
+10 age is unknown, of 400 or more grams, 15 or more ounces, fetal weight shall
+11 be reported.
+12 (2)(B) All therapeutic or induced abortions, as legally authorized to be
+13 performed, of any length gestation or weight shall be reported.
+14 (3)(2) Spontaneous abortions and ectopic pregnancies of less than 20
+15 weeks gestation are not required to be reported.
+16 (b) The physician licensed health care professional who treats a woman
+17 patient as a result of a miscarriage or abortion shall report the fetal death if it is
+18 not known to be previously reported under subsection (a) of this section. If
+19 there is evidence of violence or other unusual or suspicious circumstances, the
+20 medical examiner shall be immediately notified, and he or she the medical
+21 examiner shall complete at least the medical items on the report. If a funeral
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 17 of 26
+1 director is to be involved, the physician licensed health care professional may
+2 delegate to the funeral director the responsibility for completing items other
+3 than those of a medical nature. Similarly, the physician licensed health care
+4 professional may delegate the responsibility for completion of nonmedical
+5 items to appropriate personnel having access to records containing the
+6 information.
+7 (c) If a fetal death occurs on a moving conveyance, the place of occurrence
+8 shall be given as the town or city where removal from the vehicle took place.
+9 (d) Fetal death reports Reports made pursuant to this section are for
+10 statistical purposes only and are not public records. They shall be kept
+11 confidential; shall not be disclosed or discoverable in any civil, criminal,
+12 administrative, or other proceeding; and shall be destroyed after five two years.
+13 Sec. 10. 26 V.S.A. § 1354 is amended to read:
+14 § 1354. UNPROFESSIONAL CONDUCT
+15 (a) Prohibited conduct. The Board shall find that any one of the following,
+16 or any combination of the following, whether the conduct at issue was
+17 committed within or outside the State, constitutes unprofessional conduct:
+18 * * *
+19 (2) all advertising of about health care services or a medical business
+20 that is intended or has a tendency to mislead or deceive the public or impose
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 18 of 26
+1 upon credulous or ignorant persons and so be harmful or injurious to public
+2 morals or safety;
+3 * * *
+4 (21) permitting one’s name or license to be used by a person, group, or
+5 corporation when not actually in charge of, or responsible for, or actively
+6 overseeing the treatment given or other health care services provided;
+7 * * *
+8 (29) delegation of professional responsibilities, including delivery of
+9 any health care services, to a person whom the licensed professional knows, or
+10 has reason to know, is not qualified by training, experience, education, or
+11 licensing credentials to perform them;
+12 * * *
+13 (33)(A) providing, prescribing, dispensing, or furnishing medical
+14 services or prescription medication or prescription-only devices to a person in
+15 response to any communication transmitted or received by computer or other
+16 electronic means, when the licensee fails to take the following actions to
+17 establish and maintain a proper physician-patient relationship:
+18 (i) a reasonable effort to verify that the person requesting
+19 medication is in fact the patient, and is in fact who the person claims to be;
+20 (ii) establishment of documented diagnosis through the use of
+21 accepted medical practices; and
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 19 of 26
+1 (iii) maintenance of a current medical record;
+2 (B) for the purposes of this subdivision (33), an electronic, on-line
+3 online, or telephonic evaluation by questionnaire is inadequate for the initial
+4 evaluation of the patient, except as otherwise provided in subdivision (C)(iv)
+5 of this subdivision (33);
+6 (C) the following would not be in violation of this subdivision (33) if
+7 transmitted or received by computer or other electronic means:
+8 (i) initial admission orders for newly hospitalized patients;
+9 (ii) prescribing for a patient of another physician for whom the
+10 prescriber has taken the call;
+11 (iii) prescribing for a patient examined by a licensed advanced
+12 practice registered nurse, physician assistant, or other advanced practitioner
+13 authorized by law and supported by the physician;
+14 (iv) in furtherance of 18 V.S.A. chapter 223, prescribing
+15 medication for an individual to terminate the individual’s pregnancy based on
+16 an adaptive questionnaire developed by or in consultation with health care
+17 providers with clinically appropriate expertise that allows the licensee to obtain
+18 additional medical history and ask follow-up questions as needed;
+19 (v) continuing medication on a short-term basis for a new patient,
+20 prior to the patient’s first appointment; or
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 20 of 26
+1 (v)(vi) emergency situations where life or health of the patient is
+2 in imminent danger;
+3 * * *
+4 (b) Failure to practice competently. The Board may also find that failure to
+5 practice competently by reason of any cause on a single occasion or on
+6 multiple occasions constitutes unprofessional conduct. Failure to practice
+7 competently includes, as determined by the Board:
+8 (1) performance of unsafe or unacceptable patient care; or
+9 (2) failure to conform to the essential standards of acceptable and
+10 prevailing practice.
+11 (c) Burden of proof. The burden of proof in a disciplinary action shall be
+12 on the State to show by a preponderance of the evidence that the person has
+13 engaged in unprofessional conduct.
+14 (d)(1) Health care providers. Notwithstanding any other law to the
+15 contrary, no health care provider who is certified, registered, or licensed in
+16 Vermont shall be subject to professional disciplinary action by the Board, nor
+17 shall the Board take adverse action on an application for certification,
+18 registration, or licensure of a qualified health care provider, based solely on:
+19 (A)(1) the health care provider providing or assisting in the provision of
+20 legally protected health care activity; or
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 21 of 26
+1 (B)(2) a criminal, civil, or disciplinary action in another state against the
+2 health care provider that is based solely on the provider providing or assisting
+3 in the provision of legally protected health care activity.
+4 (2)(e) Definitions. As used in this subsection section:
+5 (A)(1) “Health care provider” means a person who provides professional
+6 health care services to an individual during that individual’s medical care,
+7 treatment, or confinement.
+8 (B)(2) “Health care services” means services for the diagnosis,
+9 prevention, treatment, cure, or relief of a physical or mental health condition,
+10 including counseling, procedures, products, devices, and medications.
+11 (C)(3) “Legally protected health care activity” has the same meaning as
+12 in 1 V.S.A. § 150.
+13 Sec. 11. 26 V.S.A. § 1615 is amended to read:
+14 § 1615. ADVANCED PRACTICE REGISTERED NURSES;
+15 REGULATORY AUTHORITY; UNPROFESSIONAL CONDUCT
+16 (a) In addition to the provisions of 3 V.S.A. § 129a and section 1582 of this
+17 chapter, the Board may deny an application for licensure, renewal, or
+18 reinstatement or may revoke, suspend, or otherwise discipline an advanced
+19 practice registered nurse upon due notice and opportunity for hearing if the
+20 person engages in the following conduct:
+21 * * *
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 22 of 26
+1 (6) Providing Except as otherwise provided in subsection (b) of this
+2 section, providing, prescribing, dispensing, or furnishing medical services or
+3 prescription medication or prescription-only devices to a person in response to
+4 any communication transmitted or received by computer or other electronic
+5 means when the licensee fails to take the following actions to establish and
+6 maintain a proper provider-patient relationship:
+7 (A) a reasonable effort to verify that the person requesting
+8 medication is in fact the patient and is in fact who the person claims to be;
+9 (B) establishment of documented diagnosis through the use of
+10 accepted medical practices; and
+11 (C) maintenance of a current medical record.
+12 * * *
+13 (b)(1) For the purposes of subdivision (a)(6) of this section, an electronic,
+14 online, or telephonic evaluation by questionnaire is inadequate for the initial
+15 evaluation of the patient, except as otherwise provided in subdivision (2)(D) of
+16 this subsection.
+17 (2) The following would not be in violation of subdivision (a)(6) of this
+18 section:
+19 (A) initial admission orders for newly hospitalized patients;
+20 (B) prescribing for a patient of another provider for whom the
+21 prescriber has taken call;
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 23 of 26
+1 (C) prescribing for a patient examined by a licensed APRN,
+2 physician assistant, or other practitioner authorized by law and supported by
+3 the APRN;
+4 (D) in furtherance of 18 V.S.A. chapter 223, prescribing medication
+5 for an individual to terminate the individual’s pregnancy based on an adaptive
+6 questionnaire developed by or in consultation with health care providers with
+7 clinically appropriate expertise that allows the licensee to obtain additional
+8 medical history and ask follow-up questions as needed;
+9 (E) continuing medication on a short-term basis for a new patient
+10 prior to the patient’s first appointment; or
+11 (E)(F) emergency situations where the life or health of the patient is
+12 in imminent danger.
+13 * * *
+14 Sec. 12. 26 V.S.A. § 1736 is amended to read:
+15 § 1736. UNPROFESSIONAL CONDUCT
+16 (a) The following conduct and the conduct described in section 1354 of this
+17 title by a licensed physician assistant shall constitute unprofessional conduct;
+18 when that conduct is by an applicant or person who later becomes an applicant,
+19 it may constitute grounds for denial of licensure:
+20 * * *
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 24 of 26
+1 (2) occupational advertising or advertising about health care services
+2 that is intended or has a tendency to mislead or deceive the public;
+3 (3) exercising undue influence on or taking improper advantage of a
+4 person using the individual’s services, or promoting the sale of professional
+5 goods or services in a manner that exploits a person for the financial gain of
+6 the practitioner or of a third party;
+7 (4) failing to comply with provisions of federal or state statutes or rules
+8 governing the profession;
+9 (5) conviction of a crime related to the profession; and
+10 (6) conduct that evidences unfitness to practice in the profession.
+11 * * *
+12 (d) As used in this section, “health care services” means services for the
+13 diagnosis, prevention, treatment, cure, or relief of a physical or mental health
+14 condition, including counseling, procedures, products, devices, and
+15 medications.
+16 Sec. 13. 26 V.S.A. § 2024 is added to read:
+17 § 2024. CONFIDENTIALITY OF PRESCRIBER AND PHARMACIST
+18 INFORMATION ON MEDICATIONS FOR LEGALLY
+19 PROTECTED HEALTH CARE ACTIVITY
+20 (a) As used in this section:
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 25 of 26
+1 (1) “Gender-affirming health care services” and “reproductive health
+2 care services” have the same meanings as in 1 V.S.A. § 150.
+3 (2) “Noncontrolled medication” means a medication that is not a
+4 controlled substance as defined in 21 U.S.C. § 802.
+5 (b)(1) Upon the request of a prescribing practitioner and to the extent not
+6 expressly required under federal law, a pharmacist or other licensed member of
+7 the pharmacy staff shall redact or otherwise remove the practitioner’s name or
+8 initials from a fulfilled prescription for a noncontrolled medication for gender-
+9 affirming health care services or reproductive health care services, and from
+10 any accompanying printed materials.
+11 (2) A pharmacist may, or, upon the pharmacist’s request, another
+12 licensed member of the pharmacy staff shall, redact or otherwise remove the
+13 pharmacist’s name or initials from a fulfilled prescription for a noncontrolled
+14 medication for gender-affirming health care services or reproductive health
+15 care services, and from any accompanying printed materials.
+16 (3) If a prescribing practitioner dispenses medication directly to patients
+17 for gender-affirming health care services or reproductive health care services,
+18 or both, the practitioner may redact or otherwise remove the practitioner’s own
+19 name or initials from a fulfilled prescription for a noncontrolled medication for
+20 gender-affirming health care services or reproductive health care services, and
+21 from any accompanying printed materials.
+VT LEG #382878 v.1
+
+HOUSE PROPOSAL OF AMENDMENT S.28
+2025 Page 26 of 26
+1 (c) Nothing in this chapter or the rules governing the pharmacy profession
+2 shall be construed to require a pharmacist or other licensed member of a
+3 pharmacy’s staff to list the prescribing practitioner’s or pharmacist’s name or
+4 initials on a fulfilled prescription for noncontrolled medication for gender-
+5 affirming health care services or reproductive health care services.
+6 (d) A pharmacist or other licensed member of a pharmacy’s staff shall be
+7 immune from civil and administrative liability for failing to redact or remove
+8 the name of a prescriber or pharmacist when requested to do so pursuant to
+9 subdivision (b)(1) or (2) of this section; provided, however, that this immunity
+10 shall not apply to gross negligence, recklessness, or intentional misconduct by
+11 a pharmacist or other licensed member of the pharmacy staff.
+12 Sec. 14. EFFECTIVE DATE
+13 This act shall take effect on passage.
+VT LEG #382878 v.1
+
+[DELETED:   S  P S A T a S § * ( * ( p u a e h b t w *]
+[DELETED:   S  P S ( c * ( M c o p i r p p S § ( l a f]
+[DELETED:   S  P i c ( ( i * ( h r c o r * ( c o * ( o r a]
+[DELETED:   S  P a q * ( * ( p i * S S § ( ( a c a a i i f]
+[DELETED:   S  P p m ( a t s i t s c p ( c s t t m c o ( r]
+[DELETED:   S  P e W i s ( c m i u ( ( p s A p h m ( p s]
+[DELETED:   S  P § A ( t t ( s ( F i ( f p ( c a ( f a s]
+[DELETED:   S  P m f ( b ( u ( ( c ( f ( m m ( p m t r]
+[DELETED:   S  P § ( v p a t n d m b a a t c ( t s s h h V]
+[DELETED:   S  P i a p V ( c s S § ( o p e f u ( p ( r a]
+[DELETED:   S  P ( ( p l ( i ( o n f S §   ( ( 1 ( ( V ( §]
+[DELETED:   S  P ( ( h I ( t p t p r ( p a ( d o ( p o ( s]
+[DELETED:   S  P ( c u ( t h r m ( c ( o ( p S s t u d s a]
+[DELETED:   S  P ( d w b b a c ( O i p l e t ( V i V ( d M]
+[DELETED:   S  P ( c r s a S § A * ( 1 a t * S § A * ( a]
+[DELETED:   S  P ( o S § ( p C D ( a b ( p ( w ( p n t m e]
+[DELETED:   S  P d d t p i i ( s ( s c a S § ( o c * ( t]
+[DELETED:   S  P u m * ( c o * ( a h l * ( s r e e ( m ( a]
+[DELETED:   S  P ( ( o e o ( t ( ( p ( p a ( m a p a ( p]
+[DELETED:   S  P ( i * ( p m c ( ( p ( o e ( c V s r ( l]
+[DELETED:   S  P ( h i ( ( h t ( p i ( i S §   ( c r p p *]
+[DELETED:   S  P ( s p a m m ( m ( a ( * ( o e t ( s ( ( p]
+[DELETED:   S  P ( p t ( f q c m ( p ( i * S § ( t w i *]
+[DELETED:   S  P ( t ( p g t ( g ( ( * ( d c m S §     (]
+[DELETED:   S  P ( c ( c ( e t i a a ( l p m c ( f o n g f]
+[DELETED:   S  P ( s p i a ( i t s s a S T]

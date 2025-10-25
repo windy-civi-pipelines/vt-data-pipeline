@@ -1,0 +1,39 @@
+Title: J.R.S. 7. Joint resolution to provide for a Joint Assembly to hear the
+Official Title: J.R.S. 7. Joint resolution to provide for a Joint Assembly to hear the
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+State of Vermont
+Senate Chamber
+Montpelier, Vermont
+Joint Senate Resolution
+Offered by Senator Perchlik,
+budget message of the Governor.
+Resolved by the Senate and House of Representatives:
+That the two Houses meet in Joint Assembly on Tuesday, January 28, 2025,
+at one o'clock in the afternoon to receive the budget message of the Governor.
+VTLEG#365059v.1
+[DELETED: 9veofVeC,VtSeRdbySrP.7.JtrntopefraJtAytohrttmeofteGdbyteSeadHeofRttetoHsmtinJtAyonTy2,2toeokinteantoretebtmeofteG]
+
+
+================================================================================
+
+Raw Text:
+State of Vermont
+Senate Chamber
+Montpelier, Vermont
+Joint Senate Resolution
+Offered by Senator Perchlik,
+J.R.S. 7. Joint resolution to provide for a Joint Assembly to hear the
+budget message of the Governor.
+Resolved by the Senate and House of Representatives:
+That the two Houses meet in Joint Assembly on Tuesday, January 28, 2025,
+at one o'clock in the afternoon to receive the budget message of the Governor.
+VTLEG#365059v.1
+
+[DELETED: 9veofVeC,VtSeRdbySrP.7.JtrntopefraJtAytohrttmeofteGdbyteSeadHeofRttetoHsmtinJtAyonTy2,2toeokinteantoretebtmeofteG]

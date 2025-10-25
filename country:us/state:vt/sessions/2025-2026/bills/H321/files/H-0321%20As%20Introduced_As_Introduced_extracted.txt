@@ -1,0 +1,1143 @@
+Title: BILL AS INTRODUCED H.321
+Official Title: BILL AS INTRODUCED H.321
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 23
+1 H.321
+2 Introduced by Representatives Birong of Vergennes and Boyden of Cambridge
+3 Referred to Committee on
+4 Date:
+5 Subject: Cannabis; cannabis establishments
+6 Statement of purpose of bill as introduced: This bill proposes to clarify that
+7 cannabis possessed unlawfully in violation of administrative rules adopted by
+8 the Cannabis Control Board may be seized by law enforcement and is subject
+9 to forfeiture; to require fingerprint-based state and national criminal history
+10 record check on any person prior to issuance of a cannabis establishment
+11 identification card; to amend the definition of “hemp” to comport with the
+12 Title 6 definition; to require the Board to adopt rules for cannabis retailers
+13 regarding requirements and criteria governing licensee applications to change
+14 ownership, control, or location; to authorize the Board to repeat criminal
+15 background checks; to establish a procedure for receivership of a cannabis
+16 establishment for a period of time in cases of death, disability, bankruptcy,
+17 insolvency, receivership, assignment for the benefit of creditors, shareholder or
+18 LLC member disputes, license interruption, or other exceptional circumstances
+19 rendering one or more owners incapable of performing, or ineligible to
+20 perform, the duties of a licensee; to establish a new trim and harvest service
+21 license with an annual fee of $500.00; to require cannabis cultivators to include
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 2 of 23
+1 on cannabis packaging a “harvested on” date reflecting the date the cultivator
+2 harvested the cannabis and a “packed on” date reflecting the date the product
+3 was packaged for sale; to require cannabis retailers that collect cannabis excise
+4 tax to inform the Department of Taxes before transferring the business to a
+5 new entity; and to create a new position, Enforcement Attorney, within the
+6 Cannabis Control Board.
+7 An act relating to miscellaneous cannabis amendments
+8 It is hereby enacted by the General Assembly of the State of Vermont:
+9 Sec. 1. 7 V.S.A. § 832 is amended to read:
+10 § 832. CANNABIS POSSESSED UNLAWFULLY SUBJECT TO SEIZURE
+11 AND FORFEITURE
+12 Cannabis possessed unlawfully in violation of this title or administrative
+13 rules adopted pursuant to this title may be seized by law enforcement and is
+14 subject to forfeiture.
+15 Sec. 2. 7 V.S.A. § 844 is amended to read:
+16 § 844. AUTHORITY FOR CRIMINAL BACKGROUND CHECKS
+17 (a) The Board shall establish a user agreement with the Vermont Crime
+18 Information Center in accordance with 20 V.S.A. chapter 117 for the purpose
+19 of obtaining Vermont criminal history records, out-of-state criminal history
+20 records, and criminal history records from the Federal Bureau of Investigation
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 3 of 23
+1 as required by chapters 33 (cannabis establishments) and 37 (medical cannabis
+2 dispensaries) of this title.
+3 (b) A fingerprint-based state and national criminal history record check
+4 shall be conducted for each natural person prior to being issued a cannabis
+5 establishment identification card pursuant to chapter 33 (cannabis
+6 establishments) of this title or a medical cannabis dispensary identification
+7 card pursuant to chapter 37 (medical cannabis dispensaries) of this title. The
+8 Board may require that such record checks be completed as a condition
+9 precedent to license renewal.
+10 Sec. 3. 7 V.S.A. § 861(23) is amended to read:
+11 (23)(A) “Hemp products” or “hemp-infused products” means all
+12 products with the federally defined tetrahydrocannabinol concentration level
+13 for hemp derived from, or made by, processing hemp plants or plant parts that
+14 are prepared in a form available for commercial sale, including cosmetics,
+15 personal care products, food intended for animal or human consumption, cloth,
+16 cordage, fiber, fuel, paint, paper, construction materials, plastics, and any
+17 product containing one or more hemp-derived cannabinoids, such as
+18 cannabidiol.
+19 (B) Notwithstanding subdivision (A) of this subdivision (23), “hemp
+20 products” and “hemp-infused products” do not include any substance,
+21 manufacturing intermediary, or product that:
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 4 of 23
+1 (i) is prohibited or deemed a regulated cannabis product by
+2 administrative rule of the Cannabis Control Board; or
+3 (ii) contains more than 0.3 percent total tetrahydrocannabinol on a
+4 dry-weight basis.
+5 (C) A hemp-derived product or substance that is excluded from the
+6 definition of “hemp products” or “hemp-infused products” pursuant to
+7 subdivision (B) of this subdivision (23) shall be considered a cannabis product
+8 as defined by 7 V.S.A. § 831(3); provided, however, that a person duly
+9 licensed or registered by the Cannabis Control Board lawfully may possess
+10 such products in conformity with the person’s license or hemp processor
+11 registration.
+12 Sec. 4. 7 V.S.A. § 881 is amended to read:
+13 § 881. RULEMAKING; CANNABIS ESTABLISHMENTS
+14 (a) The Board shall adopt rules to implement and administer this chapter in
+15 accordance with subdivisions (1)–(8)(9) of this subsection.
+16 (1) Rules concerning any cannabis establishment shall include:
+17 (A) the form and content of license and renewal applications;
+18 (B) qualifications for licensure that are directly and demonstrably
+19 related to the operation of a cannabis establishment, including:
+20 (i) a requirement to submit an operating plan, which shall include
+21 information concerning:
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 5 of 23
+1 (I) the type of business organization, the identity of its
+2 controlling owners and principals, and the identity of the controlling owners
+3 and principals of its affiliates; and
+4 (II) the sources, amount, and nature of its capital, assets, and
+5 financing; the identity of its financiers; and the identity of the controlling
+6 owners and principals of its financiers;
+7 (ii) a requirement to file an amendment to its operating plan in the
+8 event of a significant change in organization, operation, or financing; and
+9 (iii) the requirement for a fingerprint-based criminal history record
+10 check and regulatory record check pursuant to section 883 of this title;
+11 (C) oversight requirements, including provisions to ensure that a
+12 licensed establishment complies with State and federal regulatory requirements
+13 governing insurance, securities, workers’ compensation, unemployment
+14 insurance, and occupational health and safety;
+15 (D) inspection requirements;
+16 (E) records to be kept by licensees and the required availability of the
+17 records;
+18 (F) employment and training requirements;
+19 (G) security requirements, including any appropriate lighting,
+20 physical security, video, and alarm requirements;
+21 (H) health and safety requirements;
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 6 of 23
+1 (I) regulation of additives to cannabis and cannabis products,
+2 including cannabidiol derived from hemp and substances that are toxic or
+3 designed to make the product more addictive, more appealing to persons under
+4 21 years of age, or to mislead consumers;
+5 (J) procedures for seed-to-sale traceability of cannabis, including any
+6 requirements for tracking software;
+7 (K) regulation of the storage and transportation of cannabis;
+8 (L) sanitary requirements;
+9 (M) procedures for the renewal of a license, which shall allow
+10 renewal applications to be submitted up to 90 days prior to the expiration of
+11 the cannabis establishment’s license;
+12 (N) procedures for suspension and revocation of a license;
+13 (O) requirements for banking and financial transactions, including
+14 provisions to ensure that the Board, the Department of Financial Regulation,
+15 and financial institutions have access to relevant information concerning
+16 licensed establishments to comply with State and federal regulatory
+17 requirements;
+18 (P) disclosure or eligibility requirements for a financier, its owners
+19 and principals, and its affiliates, which may include:
+20 (i) requirements to disclose information to a licensed
+21 establishment, the Board, or the Department of Financial Regulation;
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 7 of 23
+1 (ii) a minimum age requirement and a requirement to conduct a
+2 background check for natural persons;
+3 (iii) requirements to ensure that a financier complies with
+4 applicable State and federal laws governing financial institutions, licensed
+5 lenders, and other financial service providers; and
+6 (iv) any other requirements, conditions, or limitations on the type
+7 or amount of loans or capital investments made by a financier or its affiliates,
+8 which the Board, in consultation with the Department of Financial Regulation,
+9 determines are necessary to protect the public health, safety, and general
+10 welfare;
+11 (Q) policies and procedures for conducting outreach and promoting
+12 participation in the regulated cannabis market by diverse groups of individuals,
+13 including those who have been disproportionately harmed by cannabis
+14 prohibition;
+15 (R) advertising and marketing; and
+16 (S) requirements for cannabis control testing of hemp, hemp-infused
+17 products, cannabis, and cannabis products; and
+18 (T) requirements and criteria governing licensee applications to
+19 change ownership, control, or location.
+20 * * *
+21 (9) Rules concerning trim and harvest services shall include:
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 8 of 23
+1 (A) requirements for verification of the licenses of clients;
+2 (B) essential content and permissible terms of written service
+3 contracts, including provisions for security and diversion prevention;
+4 (C) provisions to ensure safe and lawful transportation and lodging of
+5 travelling personnel;
+6 (D) essential content of employee health, safety, and skills training,
+7 including first aid and recognition of common pests and pathogens;
+8 (E) requirements appropriate to minimize the risk of pest and
+9 pathogen transmission; and
+10 (F) procedures for documenting lawful compensation.
+11 * * *
+12 Sec. 5. 7 V.S.A. § 883 is amended to read:
+13 § 883. CRIMINAL BACKGROUND RECORD CHECKS; APPLICANTS
+14 (a) The Board shall obtain from the Vermont Crime Information Center a
+15 copy of a fingerprint-based Vermont criminal history records, out-of-state
+16 criminal history records, and criminal history records from the Federal Bureau
+17 of Investigation for each license applicant, principal of an applicant, and
+18 person who controls an applicant who is a natural person. Checks may be
+19 repeated for good cause or with prudent frequency as determined by the Board.
+20 (b) The Board shall adopt rules that set forth standards for determining
+21 whether an applicant should be denied a cannabis establishment license
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 9 of 23
+1 because of his or her the applicant’s criminal history record based on factors
+2 that demonstrate whether the applicant presently poses a threat to public safety
+3 or the proper functioning of the regulated market. Nonviolent drug offenses
+4 shall not automatically disqualify an applicant.
+5 (c) Notwithstanding subsection (a) of this section or subsection 844(b) of
+6 this title, if required records are not reasonably available to the Board due to
+7 circumstances beyond its control, with the consent of the applicant, the Board
+8 may accept third-party criminal background checks submitted by an applicant
+9 for a cannabis establishment license or renewal in lieu of obtaining the records
+10 from the Vermont Crime Information Center a copy of the person’s Vermont
+11 fingerprint-based criminal history records, out-of-state criminal history
+12 records, and criminal history records from the Federal Bureau of Investigation
+13 from a reputable commercial provider. Any such third-party background
+14 check shall:
+15 (1) be conducted by a third-party consumer reporting agency or
+16 background screening company that is in compliance with the federal Fair
+17 Credit Reporting Act; and
+18 (2) include a multistate and multi-jurisdiction criminal record locator.
+19 Consumer credit scores shall not be a basis for license denial.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 10 of 23
+1 Sec. 6. 7 V.S.A. § 884 is amended to read:
+2 § 884. CANNABIS ESTABLISHMENT IDENTIFICATION CARD
+3 (a) Every owner, principal, and employee of a cannabis establishment shall
+4 obtain an identification card issued by the Board. A person may apply for an
+5 identification card prior to obtaining employment with a licensee. An
+6 employee identification card shall authorize the person to work for any
+7 licensee.
+8 (b)(1)(A) Prior to issuing the identification card to an owner or principal of
+9 a cannabis establishment, the Board shall obtain from the Vermont Crime
+10 Information Center a copy of the person’s Vermont fingerprint-based criminal
+11 history records, out-of-state criminal history records, and criminal history
+12 records from the Federal Bureau of Investigation.
+13 (B) Prior to issuing the identification card to an employee of a
+14 cannabis establishment, the Board shall obtain a copy of a fingerprint-based
+15 identity history summary record from the Federal Bureau of Investigation.
+16 (2) The Board shall adopt rules that set forth standards for determining
+17 whether a person should be denied a cannabis establishment identification card
+18 because of his or her the person’s criminal history record based on factors that
+19 demonstrate whether the applicant presently poses a threat to public safety or
+20 the proper functioning of the regulated market. Nonviolent drug offenses shall
+21 not automatically disqualify an applicant.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 11 of 23
+1 (c) Once an identification card application has been submitted, a person the
+2 Board, for good cause, may serve issue a temporary permit authorizing the
+3 applicant to serve as an employee of a cannabis establishment pending the
+4 background check, provided the person is supervised in his or her duties by
+5 someone who is a cardholder. The Board shall issue a temporary permit to the
+6 person for this purpose, which shall expire upon the issuance of the
+7 identification card or disqualification of the person in accordance with this
+8 section Good cause exists if, among other reasons, the application is
+9 reasonably expected to take more than 12 days to process.
+10 (d) An identification card shall expire one year after its issuance or, in the
+11 case of owners and principals, upon the expiration of the cannabis
+12 establishment’s license, whichever occurs first.
+13 Sec. 7. 7 V.S.A. § 886 is added to read:
+14 § 886. RECEIVERSHIP; SPECIAL PERMITTING; IMMUNITY
+15 (a) When a cannabis establishment becomes distressed, it may abruptly
+16 lose authority or ability to possess commercial quantities of cannabis. It is the
+17 purpose of this section to empower the Civil Division of the Superior Court
+18 and the Board to oversee the orderly unwinding of cannabis establishments,
+19 including lawful disposition of inventory in lieu of forfeiture, in case of
+20 functional distress or interruption in active licensure.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 12 of 23
+1 (b)(1) An individual may be appointed as receiver, representative, executor,
+2 administrator, guardian, conservator, trustee, or assignee, to temporarily
+3 operate a cannabis establishment on the licensed premises for a period of time
+4 determined by the Board in cases of death, disability, bankruptcy, insolvency,
+5 receivership, assignment for the benefit of creditors, shareholder or LLC
+6 member disputes, license interruption, or other exceptional circumstances
+7 rendering one or more owners incapable of performing, or ineligible to
+8 perform, the duties of a licensee. Such appointee shall be at least 21 years of
+9 age.
+10 (2)(A) Such appointee shall not be permitted to conduct licensed
+11 activities without the express authorization of the Board, which may be granted
+12 upon submission and approval of a written request for the authority to
+13 temporarily conduct licensed activities. The written request shall include
+14 information or disclosures required by the Board, including:
+15 (i) name;
+16 (ii) valid identification;
+17 (iii) phone number;
+18 (iv) mailing address;
+19 (v) email address;
+20 (vi) Social Security number;
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 13 of 23
+1 (vii) the name of the person on whose behalf the appointee is
+2 appointed;
+3 (viii) proof that such appointee is the legal receiver,
+4 representative, executor, administrator, guardian, conservator, trustee, or
+5 assignee, and;
+6 (ix) any direct or indirect interests held by that appointee in a
+7 cannabis license, registration or permit.
+8 (B) The Board may adopt rules governing appointment and the
+9 process and qualifications.
+10 (3) Authorization to conduct licensed activities by the appointee is
+11 conditioned on compliance with these regulations, including restrictions on
+12 ownership and other interests, approval by the Board, and the authorization
+13 shall not constitute a guarantee of license issuance or renewal by the Board.
+14 (4) Any licensee or person who files, or against whom is filed, any
+15 action or proceeding, or who seeks an appointment, as set forth in subdivision
+16 (1) of this subsection, is required to serve the Board with original notice of the
+17 action or proceeding and provide the Board with opportunity to be heard
+18 regarding the appointment. Such notice shall be provided to employees upon
+19 commencement of such proceeding for a receivership. A licensee surrendering
+20 its license shall provide its employees any lawfully required warnings of
+21 closures and layoffs.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 14 of 23
+1 (c) When no licensed custodian can be found to take custody of or transport
+2 cannabis or cannabis products, the Board, in its sole discretion, may issue a
+3 special permit temporarily authorizing an unlicensed designee of suitable
+4 ability and judgment to possess, transport, or dispose of cannabis and cannabis
+5 products as specified by the terms of the permit. The permit shall be printed
+6 on official Board letterhead, bear the signature of the Chair of the Board, state
+7 clearly a means of prompt authentication by law enforcement and licensees,
+8 and specify start and end dates and times.
+9 (d) A person acting as a duly appointed receiver or in conformity with the
+10 terms of a special Board permit issued pursuant to subsection (c) of this section
+11 shall be immune from civil and criminal liability in relation to possession,
+12 transportation, or transfer of cannabis within the borders of this State. The
+13 Board shall not be liable for economic losses resulting from forfeiture, seizure,
+14 sequestration, sale stoppage, transportation, storage, or destruction of cannabis
+15 or cannabis products.
+16 Sec. 8. 7 V.S.A. § 901 is amended to read:
+17 § 901. GENERAL PROVISIONS
+18 (a) Except as otherwise permitted by law, a person shall not engage in the
+19 cultivation, preparation, processing, packaging, transportation, testing, or sale
+20 of cannabis or cannabis products without obtaining a license from the Board.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 15 of 23
+1 (b) All licenses shall be valid for one year and expire at midnight on the
+2 eve of the anniversary of the date the license was issued. A licensee may apply
+3 to renew the license annually.
+4 (c) Applications for licenses and renewals shall be submitted on forms
+5 provided by the Board and shall be accompanied by the fees provided for in
+6 section 910 of this title.
+7 (d)(1) There shall be seven eight types of licenses available:
+8 (A) a cultivator license;
+9 (B) a propagator license;
+10 (C) a wholesaler license;
+11 (D) a product manufacturer license;
+12 (E) a retailer license;
+13 (F) a testing laboratory license; and
+14 (G) a trim and harvest service license; and
+15 (H) an integrated license.
+16 (2)(A) The Board shall develop tiers for:
+17 (i) cultivator licenses based on the plant canopy size of the
+18 cultivation operation or plant count for breeding stock; and
+19 (ii) retailer licenses.
+20 (B) The Board may develop tiers for other types of licenses.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 16 of 23
+1 (3)(A) Except as provided in subdivisions (B) and (C) of this
+2 subdivision (3), an applicant and its affiliates may obtain a maximum of one
+3 type of each type of license as provided in subdivisions (1)(A)–(F)(G) of this
+4 subsection (d). Each license shall permit only one location of the
+5 establishment, however a trim and harvest service licensee may provide
+6 services at multiple other licensed cannabis establishments.
+7 (B) An applicant and its affiliates that control a dispensary registered
+8 on April 1, 2022 may obtain one integrated license provided in subdivision
+9 (1)(G)(H) of this subsection (d) or a maximum of one of each type of license
+10 provided in subdivisions (1)(A)–(F) of this subsection (d). An integrated
+11 licensee may not hold a separate cultivator, propagator, wholesaler, product
+12 manufacturer, retailer, or testing laboratory license, and no applicant or its
+13 affiliates that control a dispensary shall hold more than one integrated license.
+14 An integrated license shall permit only one location for each of the types of
+15 activities permitted by the license: cultivation, propagator, wholesale
+16 operations, product manufacturing, retail sales, and testing.
+17 (C) An applicant and its affiliates may obtain multiple testing
+18 laboratory licenses.
+19 (e) A dispensary that obtains a retailer license or an integrated license
+20 pursuant to this chapter shall maintain the dispensary and retail operations in a
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 17 of 23
+1 manner that protects patient and caregiver privacy in accordance with rules
+2 adopted by the Board.
+3 (f) Each licensee shall obtain and maintain commercial general liability
+4 insurance in accordance with rules adopted by the Board. Failure to provide
+5 proof of insurance to the Board, as required, may result in revocation of the
+6 license.
+7 (g) All licenses may be renewed according to procedures adopted through
+8 rulemaking by the Board.
+9 (h) [Repealed.]
+10 Sec. 9. 7 V.S.A. § 904 is amended to read:
+11 § 904. CULTIVATOR LICENSE
+12 * * *
+13 (d) Each cultivator shall create packaging for its cannabis.
+14 (1) Packaging shall include:
+15 (A) The name and registration number of the cultivator.
+16 (B) The strain and variety of cannabis contained.
+17 (C) The potency of the cannabis represented by the amount of
+18 tetrahydrocannabinol and cannabidiol in milligrams total and per serving.
+19 (D) A “produced on” date reflecting the date that the cultivator
+20 finished producing the cannabis “harvested on” date reflecting the date the
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 18 of 23
+1 cultivator harvested the cannabis and a “packed on” date reflecting the date the
+2 product was packaged for sale.
+3 (E) Appropriate warnings as prescribed by the Board in rule.
+4 (F) Any additional requirements contained in rules adopted by the
+5 Board in accordance with this chapter. Rules shall take into consideration that
+6 different labeling requirements may be appropriate depending on whether the
+7 cannabis is sold to a wholesaler, product manufacturer, or retailer.
+8 (2) Packaging shall not be designed to appeal to persons under 21 years
+9 of age.
+10 * * *
+11 Sec. 10. 7 V.S.A. § 904b is amended to read:
+12 § 904b. PROPAGATION CULTIVATOR LICENSE
+13 (a) A propagation cultivator licensed under this section may:
+14 (1) cultivate not more than 3,500 square feet of cannabis clones,
+15 immature cannabis plants, or mature cannabis plants;
+16 (2) test, transport, and sell cannabis clones and immature cannabis
+17 plants to licensed cultivators and retailers; and
+18 (3) test, transport, and sell cannabis seeds that meet the federal
+19 definition of hemp to a licensed cultivator or retailer or to the public.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 19 of 23
+1 (b) A licensed propagation cultivator shall not cultivate mature cannabis
+2 plants for the purpose of producing, harvesting, transferring, or selling
+3 cannabis flower for or to any person.
+4 Sec. 11. 7 V.S.A. § 904c is added to read:
+5 § 904c. TRIM AND HARVEST SERVICE LICENSE
+6 A trim and harvest service licensed under this section may contract with
+7 cultivators licensed under section 904 or 904a of this chapter, on a seasonal or
+8 temporary basis, to supply specified cannabis maintenance services within the
+9 scope of each client-cultivator’s license.
+10 Sec. 12. 7 V.S.A. § 910 is amended to read:
+11 § 910. CANNABIS ESTABLISHMENT FEE SCHEDULE
+12 The following fees shall apply to each person or product licensed by the
+13 Board:
+14 * * *
+15 (8) Trim and harvest services. Trim and harvest services shall be
+16 assessed an annual licensing fee of $500.00.
+17 (9) Employees. Cannabis establishments licensed by the Board shall be
+18 assessed an annual a biennial licensing fee of $50.00 for each employee.
+19 (9)(10) Products. Cannabis establishments licensed by the Board shall
+20 be assessed an annual a biennial product licensing fee of $50.00 for every type
+21 of cannabis and cannabis product that is sold in accordance with this chapter.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 20 of 23
+1 The Board may issue longer product registrations, prorated at the same cost per
+2 year, for products it deems low risk and shelf stable. Such products may be
+3 defined and distinguished in readily accessible published guidance.
+4 (10)(11) Local licensing fees. Cannabis establishments licensed by the
+5 Board shall be assessed an annual local licensing fee of $100.00 in addition to
+6 each fee assessed under subdivisions (1)–(7) of this section. Local licensing
+7 fees shall be distributed to the municipality in which the cannabis
+8 establishment is located pursuant to section 846(c) of this title.
+9 (11)(12) One-time fees Application fee.
+10 (A) All applicants for a cannabis establishment license shall be
+11 assessed an initial one-time application fee of $1,000.00.
+12 (B) An applicant may choose to be assessed an initial one-time intent-
+13 to-apply fee of $500.00. If the applicant subsequently seeks a license within
+14 one year after paying the intent-to-apply fee, the initial one-time application
+15 fee of $1,000.00 shall be reduced by $500.00.
+16 Sec. 13. 32 V.S.A. § 3260 is amended to read:
+17 § 3260. BULK SALES
+18 (a) Whenever a person (transferor) required to collect or withhold a trust
+19 tax pursuant to chapter 151, 207, 225, or 233 of this title shall make any sale,
+20 transfer, long-term lease, or assignment (transfer) in bulk of any part or the
+21 whole of the assets of a business, otherwise than in the ordinary course of the
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 21 of 23
+1 business, the purchaser, transferee or assignee (transferee) shall, at least 10
+2 days before taking possession of the subject of the transfer or before payment
+3 therefore if earlier, notify the Commissioner in writing of the proposed sale
+4 and of the price, terms, and conditions thereof whether or not the transferor has
+5 represented to or informed the transferee that the transferor owes any trust tax
+6 pursuant to chapter 151, 207, 225, or 233 and whether or not the transferee has
+7 knowledge that such taxes are owed, and whether any taxes are in fact owed.
+8 (b) Whenever the transferee shall fail to give notice to the Commissioner as
+9 required by subsection (a) of this section, or whenever the Commissioner shall
+10 inform the transferee that a possible claim for tax exists, any sums of money,
+11 property, or choses in action, or other consideration, which the transferee is
+12 required to transfer over to or for the transferor, shall be subject to a first
+13 priority right and lien for any taxes theretofore or thereafter determined to be
+14 due from the transferor to the State, and the transferee is forbidden to transfer
+15 the consideration to or for the transferor to the extent of the amount of the
+16 State’s claim.
+17 (c) For failure to comply with this section, the transferee shall be
+18 personally liable for the payment to the State of any taxes theretofore or
+19 thereafter determined to be due to the State from the transferor and the liability
+20 may be assessed and enforced in the same manner as the liability for tax under
+21 chapter 151, 207, 225, or 233.
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 22 of 23
+1 Sec. 14. 2022 Acts and Resolves No. 185, Secs E.240.5 and E.240.6 are
+2 amended to read:
+3 Sec. E.240.5. [Deleted.]
+4 Sec. E.240.6. [Deleted.]
+5 Sec. 15. 2022 Acts and Resolves No. 185, Sec. H.100 is amended to read:
+6 Sec. H.100. EFFECTIVE DATES
+7 * * *
+8 (b) [Deleted.]
+9 * * *
+10 Sec. 16. ISSUANCE OF RETAILER LICENSES
+11 Notwithstanding any other provision of law, the Cannabis Control Board
+12 shall not issue any new retailer licenses until July 1, 2027, provided that:
+13 (1) annual renewals of retailer licenses that were originally issued prior
+14 to February 1, 2025 may be issued;
+15 (2) amendments to and early renewals of retailer licenses that were
+16 originally issued prior to February 1, 2025 may be issued in the case of
+17 changes in location of the licensed retailer where the proposed new location
+18 would be permissible as a new licensed location pursuant to rules adopted by
+19 the Board under 7 V.S.A. § 881(a)(5)(F);
+VT LEG #380104 v.1
+BILL AS INTRODUCED H.321
+2025 Page 23 of 23
+1 (3) amendments to and early renewals of retailer licenses that were
+2 originally issued prior to February 1, 2025 may be issued in the case of
+3 changes in control of the licensed retailer; and
+4 (4) the Board may issue new retailer licenses prior to July 1, 2027 if, at
+5 the time of such issuance, the number of licensed retailers is fewer than the
+6 number of 80 locations.
+7 Sec. 17. CANNABIS CONTROL BOARD; ENFORCEMENT ATTORNEY;
+8 POSITION
+9 One full-time, permanent, exempt position of Enforcement Attorney is
+10 authorized in the Cannabis Control Board in fiscal year 2025.
+11 Sec. 18. EFFECTIVE DATE
+12 This act shall take effect on passage.
+VT LEG #380104 v.1
+[DELETED:  H P H I R R D S S c t t r i T r o b e i L r p l]
+[DELETED:  H P o h w t n C A I S §   C r s S § ( I o r]
+[DELETED:  H P a d ( s e e c B p S ( p f a p c p c ( p m]
+[DELETED:  H P ( a ( d ( d s a l s r S § ( a ( ( ( r ( i]
+[DELETED:  H P ( c a ( f o ( e ( c ( l g i ( ( r ( ( p (]
+[DELETED:  H P ( i d 2 ( r ( ( ( r t ( ( p a l r ( a ( e]
+[DELETED:  H P ( b ( a l ( o w d w ( p i p ( ( p ( c * (]
+[DELETED:  H P ( ( c ( t ( i ( p ( * S § ( c c o p r ( w]
+[DELETED:  H P b t o s ( t c m f f f r f c ( b C ( C]
+[DELETED:  H P S § ( o i e l ( a I h r ( c i ( w b d t n]
+[DELETED:  H P ( B a b s p i s r ( c e S § ( l p a i f]
+[DELETED:  H P ( a o d r m r p a ( a u t i ( ( ( ( ( (]
+[DELETED:  H P ( a ( r a ( c ( p ( c o s ( a ( a r c i c]
+[DELETED:  H P ( c s a p o c a ( t s t B s o S § ( c o]
+[DELETED:  H P ( e t ( p s ( ( ( ( ( ( ( ( ( ( ( c ( (]
+[DELETED:  H P ( s t s e s ( o ( p l m a A a o ( l ( p]
+[DELETED:  H P m a ( i p l ( r ( S § * ( ( ( ( ( t ( f]
+[DELETED:  H P c p ( ( B d c ( o * S § ( ( i ( p ( d]
+[DELETED:  H P ( p c S § A c t s S § T B * ( a ( a ( b o]
+[DELETED:  H P T y d ( B e f e ( ( a ( t o f S § ( t t w]
+[DELETED:  H P b d t a r p k ( r i p r p d t S ( p t m c]
+[DELETED:  H P S a S S S S * ( * S N s ( t ( o c w t]
+[DELETED:  H P ( o c ( t n S   O a S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.321
+2025 Page 1 of 23
+1 H.321
+2 Introduced by Representatives Birong of Vergennes and Boyden of Cambridge
+3 Referred to Committee on
+4 Date:
+5 Subject: Cannabis; cannabis establishments
+6 Statement of purpose of bill as introduced: This bill proposes to clarify that
+7 cannabis possessed unlawfully in violation of administrative rules adopted by
+8 the Cannabis Control Board may be seized by law enforcement and is subject
+9 to forfeiture; to require fingerprint-based state and national criminal history
+10 record check on any person prior to issuance of a cannabis establishment
+11 identification card; to amend the definition of “hemp” to comport with the
+12 Title 6 definition; to require the Board to adopt rules for cannabis retailers
+13 regarding requirements and criteria governing licensee applications to change
+14 ownership, control, or location; to authorize the Board to repeat criminal
+15 background checks; to establish a procedure for receivership of a cannabis
+16 establishment for a period of time in cases of death, disability, bankruptcy,
+17 insolvency, receivership, assignment for the benefit of creditors, shareholder or
+18 LLC member disputes, license interruption, or other exceptional circumstances
+19 rendering one or more owners incapable of performing, or ineligible to
+20 perform, the duties of a licensee; to establish a new trim and harvest service
+21 license with an annual fee of $500.00; to require cannabis cultivators to include
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 2 of 23
+1 on cannabis packaging a “harvested on” date reflecting the date the cultivator
+2 harvested the cannabis and a “packed on” date reflecting the date the product
+3 was packaged for sale; to require cannabis retailers that collect cannabis excise
+4 tax to inform the Department of Taxes before transferring the business to a
+5 new entity; and to create a new position, Enforcement Attorney, within the
+6 Cannabis Control Board.
+7 An act relating to miscellaneous cannabis amendments
+8 It is hereby enacted by the General Assembly of the State of Vermont:
+9 Sec. 1. 7 V.S.A. § 832 is amended to read:
+10 § 832. CANNABIS POSSESSED UNLAWFULLY SUBJECT TO SEIZURE
+11 AND FORFEITURE
+12 Cannabis possessed unlawfully in violation of this title or administrative
+13 rules adopted pursuant to this title may be seized by law enforcement and is
+14 subject to forfeiture.
+15 Sec. 2. 7 V.S.A. § 844 is amended to read:
+16 § 844. AUTHORITY FOR CRIMINAL BACKGROUND CHECKS
+17 (a) The Board shall establish a user agreement with the Vermont Crime
+18 Information Center in accordance with 20 V.S.A. chapter 117 for the purpose
+19 of obtaining Vermont criminal history records, out-of-state criminal history
+20 records, and criminal history records from the Federal Bureau of Investigation
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 3 of 23
+1 as required by chapters 33 (cannabis establishments) and 37 (medical cannabis
+2 dispensaries) of this title.
+3 (b) A fingerprint-based state and national criminal history record check
+4 shall be conducted for each natural person prior to being issued a cannabis
+5 establishment identification card pursuant to chapter 33 (cannabis
+6 establishments) of this title or a medical cannabis dispensary identification
+7 card pursuant to chapter 37 (medical cannabis dispensaries) of this title. The
+8 Board may require that such record checks be completed as a condition
+9 precedent to license renewal.
+10 Sec. 3. 7 V.S.A. § 861(23) is amended to read:
+11 (23)(A) “Hemp products” or “hemp-infused products” means all
+12 products with the federally defined tetrahydrocannabinol concentration level
+13 for hemp derived from, or made by, processing hemp plants or plant parts that
+14 are prepared in a form available for commercial sale, including cosmetics,
+15 personal care products, food intended for animal or human consumption, cloth,
+16 cordage, fiber, fuel, paint, paper, construction materials, plastics, and any
+17 product containing one or more hemp-derived cannabinoids, such as
+18 cannabidiol.
+19 (B) Notwithstanding subdivision (A) of this subdivision (23), “hemp
+20 products” and “hemp-infused products” do not include any substance,
+21 manufacturing intermediary, or product that:
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 4 of 23
+1 (i) is prohibited or deemed a regulated cannabis product by
+2 administrative rule of the Cannabis Control Board; or
+3 (ii) contains more than 0.3 percent total tetrahydrocannabinol on a
+4 dry-weight basis.
+5 (C) A hemp-derived product or substance that is excluded from the
+6 definition of “hemp products” or “hemp-infused products” pursuant to
+7 subdivision (B) of this subdivision (23) shall be considered a cannabis product
+8 as defined by 7 V.S.A. § 831(3); provided, however, that a person duly
+9 licensed or registered by the Cannabis Control Board lawfully may possess
+10 such products in conformity with the person’s license or hemp processor
+11 registration.
+12 Sec. 4. 7 V.S.A. § 881 is amended to read:
+13 § 881. RULEMAKING; CANNABIS ESTABLISHMENTS
+14 (a) The Board shall adopt rules to implement and administer this chapter in
+15 accordance with subdivisions (1)–(8)(9) of this subsection.
+16 (1) Rules concerning any cannabis establishment shall include:
+17 (A) the form and content of license and renewal applications;
+18 (B) qualifications for licensure that are directly and demonstrably
+19 related to the operation of a cannabis establishment, including:
+20 (i) a requirement to submit an operating plan, which shall include
+21 information concerning:
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 5 of 23
+1 (I) the type of business organization, the identity of its
+2 controlling owners and principals, and the identity of the controlling owners
+3 and principals of its affiliates; and
+4 (II) the sources, amount, and nature of its capital, assets, and
+5 financing; the identity of its financiers; and the identity of the controlling
+6 owners and principals of its financiers;
+7 (ii) a requirement to file an amendment to its operating plan in the
+8 event of a significant change in organization, operation, or financing; and
+9 (iii) the requirement for a fingerprint-based criminal history record
+10 check and regulatory record check pursuant to section 883 of this title;
+11 (C) oversight requirements, including provisions to ensure that a
+12 licensed establishment complies with State and federal regulatory requirements
+13 governing insurance, securities, workers’ compensation, unemployment
+14 insurance, and occupational health and safety;
+15 (D) inspection requirements;
+16 (E) records to be kept by licensees and the required availability of the
+17 records;
+18 (F) employment and training requirements;
+19 (G) security requirements, including any appropriate lighting,
+20 physical security, video, and alarm requirements;
+21 (H) health and safety requirements;
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 6 of 23
+1 (I) regulation of additives to cannabis and cannabis products,
+2 including cannabidiol derived from hemp and substances that are toxic or
+3 designed to make the product more addictive, more appealing to persons under
+4 21 years of age, or to mislead consumers;
+5 (J) procedures for seed-to-sale traceability of cannabis, including any
+6 requirements for tracking software;
+7 (K) regulation of the storage and transportation of cannabis;
+8 (L) sanitary requirements;
+9 (M) procedures for the renewal of a license, which shall allow
+10 renewal applications to be submitted up to 90 days prior to the expiration of
+11 the cannabis establishment’s license;
+12 (N) procedures for suspension and revocation of a license;
+13 (O) requirements for banking and financial transactions, including
+14 provisions to ensure that the Board, the Department of Financial Regulation,
+15 and financial institutions have access to relevant information concerning
+16 licensed establishments to comply with State and federal regulatory
+17 requirements;
+18 (P) disclosure or eligibility requirements for a financier, its owners
+19 and principals, and its affiliates, which may include:
+20 (i) requirements to disclose information to a licensed
+21 establishment, the Board, or the Department of Financial Regulation;
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 7 of 23
+1 (ii) a minimum age requirement and a requirement to conduct a
+2 background check for natural persons;
+3 (iii) requirements to ensure that a financier complies with
+4 applicable State and federal laws governing financial institutions, licensed
+5 lenders, and other financial service providers; and
+6 (iv) any other requirements, conditions, or limitations on the type
+7 or amount of loans or capital investments made by a financier or its affiliates,
+8 which the Board, in consultation with the Department of Financial Regulation,
+9 determines are necessary to protect the public health, safety, and general
+10 welfare;
+11 (Q) policies and procedures for conducting outreach and promoting
+12 participation in the regulated cannabis market by diverse groups of individuals,
+13 including those who have been disproportionately harmed by cannabis
+14 prohibition;
+15 (R) advertising and marketing; and
+16 (S) requirements for cannabis control testing of hemp, hemp-infused
+17 products, cannabis, and cannabis products; and
+18 (T) requirements and criteria governing licensee applications to
+19 change ownership, control, or location.
+20 * * *
+21 (9) Rules concerning trim and harvest services shall include:
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 8 of 23
+1 (A) requirements for verification of the licenses of clients;
+2 (B) essential content and permissible terms of written service
+3 contracts, including provisions for security and diversion prevention;
+4 (C) provisions to ensure safe and lawful transportation and lodging of
+5 travelling personnel;
+6 (D) essential content of employee health, safety, and skills training,
+7 including first aid and recognition of common pests and pathogens;
+8 (E) requirements appropriate to minimize the risk of pest and
+9 pathogen transmission; and
+10 (F) procedures for documenting lawful compensation.
+11 * * *
+12 Sec. 5. 7 V.S.A. § 883 is amended to read:
+13 § 883. CRIMINAL BACKGROUND RECORD CHECKS; APPLICANTS
+14 (a) The Board shall obtain from the Vermont Crime Information Center a
+15 copy of a fingerprint-based Vermont criminal history records, out-of-state
+16 criminal history records, and criminal history records from the Federal Bureau
+17 of Investigation for each license applicant, principal of an applicant, and
+18 person who controls an applicant who is a natural person. Checks may be
+19 repeated for good cause or with prudent frequency as determined by the Board.
+20 (b) The Board shall adopt rules that set forth standards for determining
+21 whether an applicant should be denied a cannabis establishment license
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 9 of 23
+1 because of his or her the applicant’s criminal history record based on factors
+2 that demonstrate whether the applicant presently poses a threat to public safety
+3 or the proper functioning of the regulated market. Nonviolent drug offenses
+4 shall not automatically disqualify an applicant.
+5 (c) Notwithstanding subsection (a) of this section or subsection 844(b) of
+6 this title, if required records are not reasonably available to the Board due to
+7 circumstances beyond its control, with the consent of the applicant, the Board
+8 may accept third-party criminal background checks submitted by an applicant
+9 for a cannabis establishment license or renewal in lieu of obtaining the records
+10 from the Vermont Crime Information Center a copy of the person’s Vermont
+11 fingerprint-based criminal history records, out-of-state criminal history
+12 records, and criminal history records from the Federal Bureau of Investigation
+13 from a reputable commercial provider. Any such third-party background
+14 check shall:
+15 (1) be conducted by a third-party consumer reporting agency or
+16 background screening company that is in compliance with the federal Fair
+17 Credit Reporting Act; and
+18 (2) include a multistate and multi-jurisdiction criminal record locator.
+19 Consumer credit scores shall not be a basis for license denial.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 10 of 23
+1 Sec. 6. 7 V.S.A. § 884 is amended to read:
+2 § 884. CANNABIS ESTABLISHMENT IDENTIFICATION CARD
+3 (a) Every owner, principal, and employee of a cannabis establishment shall
+4 obtain an identification card issued by the Board. A person may apply for an
+5 identification card prior to obtaining employment with a licensee. An
+6 employee identification card shall authorize the person to work for any
+7 licensee.
+8 (b)(1)(A) Prior to issuing the identification card to an owner or principal of
+9 a cannabis establishment, the Board shall obtain from the Vermont Crime
+10 Information Center a copy of the person’s Vermont fingerprint-based criminal
+11 history records, out-of-state criminal history records, and criminal history
+12 records from the Federal Bureau of Investigation.
+13 (B) Prior to issuing the identification card to an employee of a
+14 cannabis establishment, the Board shall obtain a copy of a fingerprint-based
+15 identity history summary record from the Federal Bureau of Investigation.
+16 (2) The Board shall adopt rules that set forth standards for determining
+17 whether a person should be denied a cannabis establishment identification card
+18 because of his or her the person’s criminal history record based on factors that
+19 demonstrate whether the applicant presently poses a threat to public safety or
+20 the proper functioning of the regulated market. Nonviolent drug offenses shall
+21 not automatically disqualify an applicant.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 11 of 23
+1 (c) Once an identification card application has been submitted, a person the
+2 Board, for good cause, may serve issue a temporary permit authorizing the
+3 applicant to serve as an employee of a cannabis establishment pending the
+4 background check, provided the person is supervised in his or her duties by
+5 someone who is a cardholder. The Board shall issue a temporary permit to the
+6 person for this purpose, which shall expire upon the issuance of the
+7 identification card or disqualification of the person in accordance with this
+8 section Good cause exists if, among other reasons, the application is
+9 reasonably expected to take more than 12 days to process.
+10 (d) An identification card shall expire one year after its issuance or, in the
+11 case of owners and principals, upon the expiration of the cannabis
+12 establishment’s license, whichever occurs first.
+13 Sec. 7. 7 V.S.A. § 886 is added to read:
+14 § 886. RECEIVERSHIP; SPECIAL PERMITTING; IMMUNITY
+15 (a) When a cannabis establishment becomes distressed, it may abruptly
+16 lose authority or ability to possess commercial quantities of cannabis. It is the
+17 purpose of this section to empower the Civil Division of the Superior Court
+18 and the Board to oversee the orderly unwinding of cannabis establishments,
+19 including lawful disposition of inventory in lieu of forfeiture, in case of
+20 functional distress or interruption in active licensure.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 12 of 23
+1 (b)(1) An individual may be appointed as receiver, representative, executor,
+2 administrator, guardian, conservator, trustee, or assignee, to temporarily
+3 operate a cannabis establishment on the licensed premises for a period of time
+4 determined by the Board in cases of death, disability, bankruptcy, insolvency,
+5 receivership, assignment for the benefit of creditors, shareholder or LLC
+6 member disputes, license interruption, or other exceptional circumstances
+7 rendering one or more owners incapable of performing, or ineligible to
+8 perform, the duties of a licensee. Such appointee shall be at least 21 years of
+9 age.
+10 (2)(A) Such appointee shall not be permitted to conduct licensed
+11 activities without the express authorization of the Board, which may be granted
+12 upon submission and approval of a written request for the authority to
+13 temporarily conduct licensed activities. The written request shall include
+14 information or disclosures required by the Board, including:
+15 (i) name;
+16 (ii) valid identification;
+17 (iii) phone number;
+18 (iv) mailing address;
+19 (v) email address;
+20 (vi) Social Security number;
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 13 of 23
+1 (vii) the name of the person on whose behalf the appointee is
+2 appointed;
+3 (viii) proof that such appointee is the legal receiver,
+4 representative, executor, administrator, guardian, conservator, trustee, or
+5 assignee, and;
+6 (ix) any direct or indirect interests held by that appointee in a
+7 cannabis license, registration or permit.
+8 (B) The Board may adopt rules governing appointment and the
+9 process and qualifications.
+10 (3) Authorization to conduct licensed activities by the appointee is
+11 conditioned on compliance with these regulations, including restrictions on
+12 ownership and other interests, approval by the Board, and the authorization
+13 shall not constitute a guarantee of license issuance or renewal by the Board.
+14 (4) Any licensee or person who files, or against whom is filed, any
+15 action or proceeding, or who seeks an appointment, as set forth in subdivision
+16 (1) of this subsection, is required to serve the Board with original notice of the
+17 action or proceeding and provide the Board with opportunity to be heard
+18 regarding the appointment. Such notice shall be provided to employees upon
+19 commencement of such proceeding for a receivership. A licensee surrendering
+20 its license shall provide its employees any lawfully required warnings of
+21 closures and layoffs.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 14 of 23
+1 (c) When no licensed custodian can be found to take custody of or transport
+2 cannabis or cannabis products, the Board, in its sole discretion, may issue a
+3 special permit temporarily authorizing an unlicensed designee of suitable
+4 ability and judgment to possess, transport, or dispose of cannabis and cannabis
+5 products as specified by the terms of the permit. The permit shall be printed
+6 on official Board letterhead, bear the signature of the Chair of the Board, state
+7 clearly a means of prompt authentication by law enforcement and licensees,
+8 and specify start and end dates and times.
+9 (d) A person acting as a duly appointed receiver or in conformity with the
+10 terms of a special Board permit issued pursuant to subsection (c) of this section
+11 shall be immune from civil and criminal liability in relation to possession,
+12 transportation, or transfer of cannabis within the borders of this State. The
+13 Board shall not be liable for economic losses resulting from forfeiture, seizure,
+14 sequestration, sale stoppage, transportation, storage, or destruction of cannabis
+15 or cannabis products.
+16 Sec. 8. 7 V.S.A. § 901 is amended to read:
+17 § 901. GENERAL PROVISIONS
+18 (a) Except as otherwise permitted by law, a person shall not engage in the
+19 cultivation, preparation, processing, packaging, transportation, testing, or sale
+20 of cannabis or cannabis products without obtaining a license from the Board.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 15 of 23
+1 (b) All licenses shall be valid for one year and expire at midnight on the
+2 eve of the anniversary of the date the license was issued. A licensee may apply
+3 to renew the license annually.
+4 (c) Applications for licenses and renewals shall be submitted on forms
+5 provided by the Board and shall be accompanied by the fees provided for in
+6 section 910 of this title.
+7 (d)(1) There shall be seven eight types of licenses available:
+8 (A) a cultivator license;
+9 (B) a propagator license;
+10 (C) a wholesaler license;
+11 (D) a product manufacturer license;
+12 (E) a retailer license;
+13 (F) a testing laboratory license; and
+14 (G) a trim and harvest service license; and
+15 (H) an integrated license.
+16 (2)(A) The Board shall develop tiers for:
+17 (i) cultivator licenses based on the plant canopy size of the
+18 cultivation operation or plant count for breeding stock; and
+19 (ii) retailer licenses.
+20 (B) The Board may develop tiers for other types of licenses.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 16 of 23
+1 (3)(A) Except as provided in subdivisions (B) and (C) of this
+2 subdivision (3), an applicant and its affiliates may obtain a maximum of one
+3 type of each type of license as provided in subdivisions (1)(A)–(F)(G) of this
+4 subsection (d). Each license shall permit only one location of the
+5 establishment, however a trim and harvest service licensee may provide
+6 services at multiple other licensed cannabis establishments.
+7 (B) An applicant and its affiliates that control a dispensary registered
+8 on April 1, 2022 may obtain one integrated license provided in subdivision
+9 (1)(G)(H) of this subsection (d) or a maximum of one of each type of license
+10 provided in subdivisions (1)(A)–(F) of this subsection (d). An integrated
+11 licensee may not hold a separate cultivator, propagator, wholesaler, product
+12 manufacturer, retailer, or testing laboratory license, and no applicant or its
+13 affiliates that control a dispensary shall hold more than one integrated license.
+14 An integrated license shall permit only one location for each of the types of
+15 activities permitted by the license: cultivation, propagator, wholesale
+16 operations, product manufacturing, retail sales, and testing.
+17 (C) An applicant and its affiliates may obtain multiple testing
+18 laboratory licenses.
+19 (e) A dispensary that obtains a retailer license or an integrated license
+20 pursuant to this chapter shall maintain the dispensary and retail operations in a
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 17 of 23
+1 manner that protects patient and caregiver privacy in accordance with rules
+2 adopted by the Board.
+3 (f) Each licensee shall obtain and maintain commercial general liability
+4 insurance in accordance with rules adopted by the Board. Failure to provide
+5 proof of insurance to the Board, as required, may result in revocation of the
+6 license.
+7 (g) All licenses may be renewed according to procedures adopted through
+8 rulemaking by the Board.
+9 (h) [Repealed.]
+10 Sec. 9. 7 V.S.A. § 904 is amended to read:
+11 § 904. CULTIVATOR LICENSE
+12 * * *
+13 (d) Each cultivator shall create packaging for its cannabis.
+14 (1) Packaging shall include:
+15 (A) The name and registration number of the cultivator.
+16 (B) The strain and variety of cannabis contained.
+17 (C) The potency of the cannabis represented by the amount of
+18 tetrahydrocannabinol and cannabidiol in milligrams total and per serving.
+19 (D) A “produced on” date reflecting the date that the cultivator
+20 finished producing the cannabis “harvested on” date reflecting the date the
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 18 of 23
+1 cultivator harvested the cannabis and a “packed on” date reflecting the date the
+2 product was packaged for sale.
+3 (E) Appropriate warnings as prescribed by the Board in rule.
+4 (F) Any additional requirements contained in rules adopted by the
+5 Board in accordance with this chapter. Rules shall take into consideration that
+6 different labeling requirements may be appropriate depending on whether the
+7 cannabis is sold to a wholesaler, product manufacturer, or retailer.
+8 (2) Packaging shall not be designed to appeal to persons under 21 years
+9 of age.
+10 * * *
+11 Sec. 10. 7 V.S.A. § 904b is amended to read:
+12 § 904b. PROPAGATION CULTIVATOR LICENSE
+13 (a) A propagation cultivator licensed under this section may:
+14 (1) cultivate not more than 3,500 square feet of cannabis clones,
+15 immature cannabis plants, or mature cannabis plants;
+16 (2) test, transport, and sell cannabis clones and immature cannabis
+17 plants to licensed cultivators and retailers; and
+18 (3) test, transport, and sell cannabis seeds that meet the federal
+19 definition of hemp to a licensed cultivator or retailer or to the public.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 19 of 23
+1 (b) A licensed propagation cultivator shall not cultivate mature cannabis
+2 plants for the purpose of producing, harvesting, transferring, or selling
+3 cannabis flower for or to any person.
+4 Sec. 11. 7 V.S.A. § 904c is added to read:
+5 § 904c. TRIM AND HARVEST SERVICE LICENSE
+6 A trim and harvest service licensed under this section may contract with
+7 cultivators licensed under section 904 or 904a of this chapter, on a seasonal or
+8 temporary basis, to supply specified cannabis maintenance services within the
+9 scope of each client-cultivator’s license.
+10 Sec. 12. 7 V.S.A. § 910 is amended to read:
+11 § 910. CANNABIS ESTABLISHMENT FEE SCHEDULE
+12 The following fees shall apply to each person or product licensed by the
+13 Board:
+14 * * *
+15 (8) Trim and harvest services. Trim and harvest services shall be
+16 assessed an annual licensing fee of $500.00.
+17 (9) Employees. Cannabis establishments licensed by the Board shall be
+18 assessed an annual a biennial licensing fee of $50.00 for each employee.
+19 (9)(10) Products. Cannabis establishments licensed by the Board shall
+20 be assessed an annual a biennial product licensing fee of $50.00 for every type
+21 of cannabis and cannabis product that is sold in accordance with this chapter.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 20 of 23
+1 The Board may issue longer product registrations, prorated at the same cost per
+2 year, for products it deems low risk and shelf stable. Such products may be
+3 defined and distinguished in readily accessible published guidance.
+4 (10)(11) Local licensing fees. Cannabis establishments licensed by the
+5 Board shall be assessed an annual local licensing fee of $100.00 in addition to
+6 each fee assessed under subdivisions (1)–(7) of this section. Local licensing
+7 fees shall be distributed to the municipality in which the cannabis
+8 establishment is located pursuant to section 846(c) of this title.
+9 (11)(12) One-time fees Application fee.
+10 (A) All applicants for a cannabis establishment license shall be
+11 assessed an initial one-time application fee of $1,000.00.
+12 (B) An applicant may choose to be assessed an initial one-time intent-
+13 to-apply fee of $500.00. If the applicant subsequently seeks a license within
+14 one year after paying the intent-to-apply fee, the initial one-time application
+15 fee of $1,000.00 shall be reduced by $500.00.
+16 Sec. 13. 32 V.S.A. § 3260 is amended to read:
+17 § 3260. BULK SALES
+18 (a) Whenever a person (transferor) required to collect or withhold a trust
+19 tax pursuant to chapter 151, 207, 225, or 233 of this title shall make any sale,
+20 transfer, long-term lease, or assignment (transfer) in bulk of any part or the
+21 whole of the assets of a business, otherwise than in the ordinary course of the
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 21 of 23
+1 business, the purchaser, transferee or assignee (transferee) shall, at least 10
+2 days before taking possession of the subject of the transfer or before payment
+3 therefore if earlier, notify the Commissioner in writing of the proposed sale
+4 and of the price, terms, and conditions thereof whether or not the transferor has
+5 represented to or informed the transferee that the transferor owes any trust tax
+6 pursuant to chapter 151, 207, 225, or 233 and whether or not the transferee has
+7 knowledge that such taxes are owed, and whether any taxes are in fact owed.
+8 (b) Whenever the transferee shall fail to give notice to the Commissioner as
+9 required by subsection (a) of this section, or whenever the Commissioner shall
+10 inform the transferee that a possible claim for tax exists, any sums of money,
+11 property, or choses in action, or other consideration, which the transferee is
+12 required to transfer over to or for the transferor, shall be subject to a first
+13 priority right and lien for any taxes theretofore or thereafter determined to be
+14 due from the transferor to the State, and the transferee is forbidden to transfer
+15 the consideration to or for the transferor to the extent of the amount of the
+16 State’s claim.
+17 (c) For failure to comply with this section, the transferee shall be
+18 personally liable for the payment to the State of any taxes theretofore or
+19 thereafter determined to be due to the State from the transferor and the liability
+20 may be assessed and enforced in the same manner as the liability for tax under
+21 chapter 151, 207, 225, or 233.
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 22 of 23
+1 Sec. 14. 2022 Acts and Resolves No. 185, Secs E.240.5 and E.240.6 are
+2 amended to read:
+3 Sec. E.240.5. [Deleted.]
+4 Sec. E.240.6. [Deleted.]
+5 Sec. 15. 2022 Acts and Resolves No. 185, Sec. H.100 is amended to read:
+6 Sec. H.100. EFFECTIVE DATES
+7 * * *
+8 (b) [Deleted.]
+9 * * *
+10 Sec. 16. ISSUANCE OF RETAILER LICENSES
+11 Notwithstanding any other provision of law, the Cannabis Control Board
+12 shall not issue any new retailer licenses until July 1, 2027, provided that:
+13 (1) annual renewals of retailer licenses that were originally issued prior
+14 to February 1, 2025 may be issued;
+15 (2) amendments to and early renewals of retailer licenses that were
+16 originally issued prior to February 1, 2025 may be issued in the case of
+17 changes in location of the licensed retailer where the proposed new location
+18 would be permissible as a new licensed location pursuant to rules adopted by
+19 the Board under 7 V.S.A. § 881(a)(5)(F);
+VT LEG #380104 v.1
+
+BILL AS INTRODUCED H.321
+2025 Page 23 of 23
+1 (3) amendments to and early renewals of retailer licenses that were
+2 originally issued prior to February 1, 2025 may be issued in the case of
+3 changes in control of the licensed retailer; and
+4 (4) the Board may issue new retailer licenses prior to July 1, 2027 if, at
+5 the time of such issuance, the number of licensed retailers is fewer than the
+6 number of 80 locations.
+7 Sec. 17. CANNABIS CONTROL BOARD; ENFORCEMENT ATTORNEY;
+8 POSITION
+9 One full-time, permanent, exempt position of Enforcement Attorney is
+10 authorized in the Cannabis Control Board in fiscal year 2025.
+11 Sec. 18. EFFECTIVE DATE
+12 This act shall take effect on passage.
+VT LEG #380104 v.1
+
+[DELETED:  H P H I R R D S S c t t r i T r o b e i L r p l]
+[DELETED:  H P o h w t n C A I S §   C r s S § ( I o r]
+[DELETED:  H P a d ( s e e c B p S ( p f a p c p c ( p m]
+[DELETED:  H P ( a ( d ( d s a l s r S § ( a ( ( ( r ( i]
+[DELETED:  H P ( c a ( f o ( e ( c ( l g i ( ( r ( ( p (]
+[DELETED:  H P ( i d 2 ( r ( ( ( r t ( ( p a l r ( a ( e]
+[DELETED:  H P ( b ( a l ( o w d w ( p i p ( ( p ( c * (]
+[DELETED:  H P ( ( c ( t ( i ( p ( * S § ( c c o p r ( w]
+[DELETED:  H P b t o s ( t c m f f f r f c ( b C ( C]
+[DELETED:  H P S § ( o i e l ( a I h r ( c i ( w b d t n]
+[DELETED:  H P ( B a b s p i s r ( c e S § ( l p a i f]
+[DELETED:  H P ( a o d r m r p a ( a u t i ( ( ( ( ( (]
+[DELETED:  H P ( a ( r a ( c ( p ( c o s ( a ( a r c i c]
+[DELETED:  H P ( c s a p o c a ( t s t B s o S § ( c o]
+[DELETED:  H P ( e t ( p s ( ( ( ( ( ( ( ( ( ( ( c ( (]
+[DELETED:  H P ( s t s e s ( o ( p l m a A a o ( l ( p]
+[DELETED:  H P m a ( i p l ( r ( S § * ( ( ( ( ( t ( f]
+[DELETED:  H P c p ( ( B d c ( o * S § ( ( i ( p ( d]
+[DELETED:  H P ( p c S § A c t s S § T B * ( a ( a ( b o]
+[DELETED:  H P T y d ( B e f e ( ( a ( t o f S § ( t t w]
+[DELETED:  H P b d t a r p k ( r i p r p d t S ( p t m c]
+[DELETED:  H P S a S S S S * ( * S N s ( t ( o c w t]
+[DELETED:  H P ( o c ( t n S   O a S T]

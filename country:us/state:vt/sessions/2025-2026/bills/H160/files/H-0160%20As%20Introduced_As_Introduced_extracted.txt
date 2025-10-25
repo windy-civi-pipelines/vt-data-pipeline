@@ -1,0 +1,355 @@
+Title: BILL AS INTRODUCED H.160
+Official Title: BILL AS INTRODUCED H.160
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 7
+1 H.160
+2 Introduced by Representatives Donahue of Northfield, Priestley of Bradford,
+3 Marcotte of Coventry, and Tomlinson of Winooski
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; consumer protection; right to repair
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 manufacturers of medical devices to make available to hospitals and
+9 independent service organizations, on fair and reasonable terms, the
+10 documentation, parts, and tools used to diagnose, maintain, and repair medical
+11 devices.
+12 An act relating to creating a right to repair for medical devices
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 9 V.S.A. chapter 106 is added to read:
+15 CHAPTER 106. RIGHT TO REPAIR
+16 Subchapter 1. Medical Devices
+17 § 4049. DEFINITIONS
+18 As used in this chapter:
+19 (1)(A) “Authorized repair provider” means an individual or business
+20 that has an arrangement with the original equipment manufacturer under which
+VT LEG #380003 v.1
+BILL AS INTRODUCED H.160
+2025 Page 2 of 7
+1 the original equipment manufacturer grants to the individual or business a
+2 license to use a trade name, service mark, or other proprietary identifier for the
+3 purposes of offering the services of diagnosis, maintenance, or repair of
+4 medical equipment under the name of the original equipment manufacturer or
+5 other arrangement with the original equipment manufacturer to offer such
+6 services on behalf of the original equipment manufacturer.
+7 (B) An original equipment manufacturer that offers the services of
+8 diagnosis, maintenance, or repair of its own medical equipment shall be
+9 considered an authorized repair provider with respect to such equipment.
+10 (2) “Documentation” means any manual, diagram, reporting output,
+11 service code description, schematic diagram, security code, password, or other
+12 guidance or information, whether in an electronic or tangible format, used to
+13 perform the services of diagnosis, maintenance, or repair of medical
+14 equipment.
+15 (3) “Fair and reasonable terms” means making available parts, tools, or
+16 documentation as follows:
+17 (A) with respect to documentation required for repair, that
+18 documentation is provided by the OEM at no charge, except that, when the
+19 documentation is requested in physical printed form, a charge may be included
+20 for the reasonable actual costs of preparing and sending the copy;
+VT LEG #380003 v.1
+BILL AS INTRODUCED H.160
+2025 Page 3 of 7
+1 (B) with respect to tools, that tools are made available by the OEM at
+2 no charge and without requiring authorization or internet access for use or
+3 operation of the tool, or imposing impediments to access or use of the tool to
+4 diagnose, maintain, or repair and enable full functionality of medical
+5 equipment, except that when a tool is requested in physical form, a charge may
+6 be included for the reasonable, actual costs of preparing and sending the tool;
+7 and
+8 (C) with respect to parts, that parts are made available by the OEM,
+9 either directly or indirectly through an authorized repair provider, to
+10 independent repair providers and health care facilities at reasonable costs and
+11 terms that are equivalent to the most favorable costs and terms under which an
+12 OEM offers the part to an authorized repair provider and that:
+13 (i) account for any discount, rebate, convenient and timely means
+14 of delivery, means of enabling fully restored and updated functionality, rights
+15 of use, or other incentive or preference the OEM offers to an authorized repair
+16 provider, or any additional cost, burden, or impediment the OEM imposes on
+17 an independent repair provider or health care facility;
+18 (ii) are not conditioned on or imposing a substantial obligation or
+19 restriction that is not reasonably necessary for enabling the independent repair
+20 provider or health care facility to engage in the diagnosis, maintenance, or
+21 repair of medical equipment made by or on behalf of the OEM; and
+VT LEG #380003 v.1
+BILL AS INTRODUCED H.160
+2025 Page 4 of 7
+1 (iii) are not conditioned on an arrangement described in
+2 subdivision (1)(A) of this section.
+3 (4) “Health care facility” means all persons or institutions, including
+4 mobile facilities, whether public or private, proprietary or not for profit, that
+5 offer diagnosis, treatment, inpatient, or ambulatory care to two or more
+6 unrelated persons, and the buildings in which those services are offered. The
+7 term shall not apply to any facility operated by religious groups relying solely
+8 on spiritual means through prayer or healing but includes all institutions
+9 included in 18 V.S.A. § 9432(8), except health maintenance organizations.
+10 (5) “Independent repair provider” means a person operating in this State,
+11 who does not have an arrangement with an OEM as described in subdivision
+12 (1)(A) of this section, and who is engaged in the diagnosis, service,
+13 maintenance, or repair of medical equipment.
+14 (6) “Medical equipment” or “equipment” means any powered device
+15 approved by the United States Food and Drug Administration that is used in
+16 the treatment, monitoring, or diagnosis of a patient, and includes assistive,
+17 adaptive, and rehabilitative devices.
+18 (7) “Original equipment manufacturer” or “OEM” means a business
+19 engaged in the business of selling, leasing, or otherwise supplying new medical
+20 equipment manufactured by or on behalf of itself.
+VT LEG #380003 v.1
+BILL AS INTRODUCED H.160
+2025 Page 5 of 7
+1 (8) “Part” means any replacement part, either used or new, made
+2 available by an OEM for purposes of effecting the services of maintenance or
+3 repair of medical equipment manufactured by or on behalf of, sold or
+4 otherwise supplied by, the OEM.
+5 (9) “Tools” means any software program, service key, hardware
+6 implement, or other apparatus used for diagnosis, maintenance, or repair of
+7 medical equipment, including software or other mechanisms that provision,
+8 program, or pair a new part; facilitate access to the equipment’s repair and
+9 diagnostic functions; calibrate functionality; or perform any other function
+10 required to bring the product back to fully functional condition, including any
+11 updates.
+12 (10) “Trade secret” has the same meaning as provided in 18 U.S.C.
+13 § 1839.
+14 § 4050. REQUIREMENTS
+15 (a) General requirements. For medical equipment and parts sold and used
+16 in this State, the OEM of the equipment or parts or an authorized repair
+17 provider shall make available to independent repair providers and health care
+18 facilities, on fair and reasonable terms, any:
+19 (1) documentation, parts, and tools, required for the diagnosis,
+20 maintenance, or repair of medical equipment and parts for medical equipment,
+21 inclusive of any updates to information; and
+VT LEG #380003 v.1
+BILL AS INTRODUCED H.160
+2025 Page 6 of 7
+1 (2) training courses and materials on the operation, inspection,
+2 diagnosis, maintenance, and repair of the equipment that the OEM similarly
+3 provides to authorized repair providers.
+4 (b) Security lock access. For medical equipment sold and used in this State
+5 that contains an electronic security lock or other security-related function, the
+6 OEM of the equipment or parts or an authorized repair provider shall make
+7 available to independent repair providers and health care facilities, on fair and
+8 reasonable terms, special documentation, tools, and parts required to access
+9 and reset the lock or function when disabled in the course of diagnosis,
+10 maintenance, or repair of such equipment. The documentation, tools, and parts
+11 may be made available through appropriate secure release systems.
+12 § 4051. LIMITATIONS
+13 (a) This subchapter does not require an OEM to divulge a trade secret to an
+14 independent repair provider or health care facility.
+15 (b) This subchapter does not alter the terms of any arrangement described
+16 in subdivision 4049(1)(A) of this title in force between an authorized repair
+17 provider and an OEM, including the performance or provision of warranty or
+18 recall repair work by an authorized repair provider on behalf of an OEM
+19 pursuant to such arrangement, except that any provision governing such an
+20 arrangement that purports to waive, avoid, restrict, or limit the OEM’s
+21 obligations to comply with this subchapter is void and unenforceable.
+VT LEG #380003 v.1
+BILL AS INTRODUCED H.160
+2025 Page 7 of 7
+1 (c) Original equipment manufacturers and authorized repair providers are
+2 not liable for damage caused to any medical equipment by independent repair
+3 providers or health care facilities that occurs during the course of repair,
+4 diagnosis, or maintenance of the equipment.
+5 § 4052. ENFORCEMENT
+6 (a) A person who violates a provision of this subchapter commits an unfair
+7 and deceptive act in trade and commerce in violation of section 2453 of this
+8 title.
+9 (b) The Attorney General has the same authority to make rules, conduct
+10 civil investigations, enter into assurances of discontinuance, and bring civil
+11 actions as provided under chapter 63, subchapter 1 of this title.
+12 Sec. 2. IMPLEMENTATION
+13 This act applies to medical equipment and parts sold or in use in this State
+14 on or after the effective date of this act.
+15 Sec. 3. EFFECTIVE DATE
+16 This act shall take effect on July 1, 2025.
+VT LEG #380003 v.1
+[DELETED:  H P H I R M R D S S m i d d A I S C S § A ( t]
+[DELETED:  H P t l p m o s ( d c ( s g p e ( d ( d d f]
+[DELETED:  H P ( n o d e b a ( e i t O ( o o p a ( r p r]
+[DELETED:  H P ( s ( m o u t o i ( w ( m ( a t a ( e e]
+[DELETED:  H P ( a r o ( i m p d r u ( § § ( i p f ( m i]
+[DELETED:  H P ( d p ( t O a r a m m § ( i ( i p r p a o]
+[DELETED:  H P ( n p d § ( a t ( c a S T o S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.160
+2025 Page 1 of 7
+1 H.160
+2 Introduced by Representatives Donahue of Northfield, Priestley of Bradford,
+3 Marcotte of Coventry, and Tomlinson of Winooski
+4 Referred to Committee on
+5 Date:
+6 Subject: Commerce and trade; consumer protection; right to repair
+7 Statement of purpose of bill as introduced: This bill proposes to require
+8 manufacturers of medical devices to make available to hospitals and
+9 independent service organizations, on fair and reasonable terms, the
+10 documentation, parts, and tools used to diagnose, maintain, and repair medical
+11 devices.
+12 An act relating to creating a right to repair for medical devices
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 9 V.S.A. chapter 106 is added to read:
+15 CHAPTER 106. RIGHT TO REPAIR
+16 Subchapter 1. Medical Devices
+17 § 4049. DEFINITIONS
+18 As used in this chapter:
+19 (1)(A) “Authorized repair provider” means an individual or business
+20 that has an arrangement with the original equipment manufacturer under which
+VT LEG #380003 v.1
+
+BILL AS INTRODUCED H.160
+2025 Page 2 of 7
+1 the original equipment manufacturer grants to the individual or business a
+2 license to use a trade name, service mark, or other proprietary identifier for the
+3 purposes of offering the services of diagnosis, maintenance, or repair of
+4 medical equipment under the name of the original equipment manufacturer or
+5 other arrangement with the original equipment manufacturer to offer such
+6 services on behalf of the original equipment manufacturer.
+7 (B) An original equipment manufacturer that offers the services of
+8 diagnosis, maintenance, or repair of its own medical equipment shall be
+9 considered an authorized repair provider with respect to such equipment.
+10 (2) “Documentation” means any manual, diagram, reporting output,
+11 service code description, schematic diagram, security code, password, or other
+12 guidance or information, whether in an electronic or tangible format, used to
+13 perform the services of diagnosis, maintenance, or repair of medical
+14 equipment.
+15 (3) “Fair and reasonable terms” means making available parts, tools, or
+16 documentation as follows:
+17 (A) with respect to documentation required for repair, that
+18 documentation is provided by the OEM at no charge, except that, when the
+19 documentation is requested in physical printed form, a charge may be included
+20 for the reasonable actual costs of preparing and sending the copy;
+VT LEG #380003 v.1
+
+BILL AS INTRODUCED H.160
+2025 Page 3 of 7
+1 (B) with respect to tools, that tools are made available by the OEM at
+2 no charge and without requiring authorization or internet access for use or
+3 operation of the tool, or imposing impediments to access or use of the tool to
+4 diagnose, maintain, or repair and enable full functionality of medical
+5 equipment, except that when a tool is requested in physical form, a charge may
+6 be included for the reasonable, actual costs of preparing and sending the tool;
+7 and
+8 (C) with respect to parts, that parts are made available by the OEM,
+9 either directly or indirectly through an authorized repair provider, to
+10 independent repair providers and health care facilities at reasonable costs and
+11 terms that are equivalent to the most favorable costs and terms under which an
+12 OEM offers the part to an authorized repair provider and that:
+13 (i) account for any discount, rebate, convenient and timely means
+14 of delivery, means of enabling fully restored and updated functionality, rights
+15 of use, or other incentive or preference the OEM offers to an authorized repair
+16 provider, or any additional cost, burden, or impediment the OEM imposes on
+17 an independent repair provider or health care facility;
+18 (ii) are not conditioned on or imposing a substantial obligation or
+19 restriction that is not reasonably necessary for enabling the independent repair
+20 provider or health care facility to engage in the diagnosis, maintenance, or
+21 repair of medical equipment made by or on behalf of the OEM; and
+VT LEG #380003 v.1
+
+BILL AS INTRODUCED H.160
+2025 Page 4 of 7
+1 (iii) are not conditioned on an arrangement described in
+2 subdivision (1)(A) of this section.
+3 (4) “Health care facility” means all persons or institutions, including
+4 mobile facilities, whether public or private, proprietary or not for profit, that
+5 offer diagnosis, treatment, inpatient, or ambulatory care to two or more
+6 unrelated persons, and the buildings in which those services are offered. The
+7 term shall not apply to any facility operated by religious groups relying solely
+8 on spiritual means through prayer or healing but includes all institutions
+9 included in 18 V.S.A. § 9432(8), except health maintenance organizations.
+10 (5) “Independent repair provider” means a person operating in this State,
+11 who does not have an arrangement with an OEM as described in subdivision
+12 (1)(A) of this section, and who is engaged in the diagnosis, service,
+13 maintenance, or repair of medical equipment.
+14 (6) “Medical equipment” or “equipment” means any powered device
+15 approved by the United States Food and Drug Administration that is used in
+16 the treatment, monitoring, or diagnosis of a patient, and includes assistive,
+17 adaptive, and rehabilitative devices.
+18 (7) “Original equipment manufacturer” or “OEM” means a business
+19 engaged in the business of selling, leasing, or otherwise supplying new medical
+20 equipment manufactured by or on behalf of itself.
+VT LEG #380003 v.1
+
+BILL AS INTRODUCED H.160
+2025 Page 5 of 7
+1 (8) “Part” means any replacement part, either used or new, made
+2 available by an OEM for purposes of effecting the services of maintenance or
+3 repair of medical equipment manufactured by or on behalf of, sold or
+4 otherwise supplied by, the OEM.
+5 (9) “Tools” means any software program, service key, hardware
+6 implement, or other apparatus used for diagnosis, maintenance, or repair of
+7 medical equipment, including software or other mechanisms that provision,
+8 program, or pair a new part; facilitate access to the equipment’s repair and
+9 diagnostic functions; calibrate functionality; or perform any other function
+10 required to bring the product back to fully functional condition, including any
+11 updates.
+12 (10) “Trade secret” has the same meaning as provided in 18 U.S.C.
+13 § 1839.
+14 § 4050. REQUIREMENTS
+15 (a) General requirements. For medical equipment and parts sold and used
+16 in this State, the OEM of the equipment or parts or an authorized repair
+17 provider shall make available to independent repair providers and health care
+18 facilities, on fair and reasonable terms, any:
+19 (1) documentation, parts, and tools, required for the diagnosis,
+20 maintenance, or repair of medical equipment and parts for medical equipment,
+21 inclusive of any updates to information; and
+VT LEG #380003 v.1
+
+BILL AS INTRODUCED H.160
+2025 Page 6 of 7
+1 (2) training courses and materials on the operation, inspection,
+2 diagnosis, maintenance, and repair of the equipment that the OEM similarly
+3 provides to authorized repair providers.
+4 (b) Security lock access. For medical equipment sold and used in this State
+5 that contains an electronic security lock or other security-related function, the
+6 OEM of the equipment or parts or an authorized repair provider shall make
+7 available to independent repair providers and health care facilities, on fair and
+8 reasonable terms, special documentation, tools, and parts required to access
+9 and reset the lock or function when disabled in the course of diagnosis,
+10 maintenance, or repair of such equipment. The documentation, tools, and parts
+11 may be made available through appropriate secure release systems.
+12 § 4051. LIMITATIONS
+13 (a) This subchapter does not require an OEM to divulge a trade secret to an
+14 independent repair provider or health care facility.
+15 (b) This subchapter does not alter the terms of any arrangement described
+16 in subdivision 4049(1)(A) of this title in force between an authorized repair
+17 provider and an OEM, including the performance or provision of warranty or
+18 recall repair work by an authorized repair provider on behalf of an OEM
+19 pursuant to such arrangement, except that any provision governing such an
+20 arrangement that purports to waive, avoid, restrict, or limit the OEM’s
+21 obligations to comply with this subchapter is void and unenforceable.
+VT LEG #380003 v.1
+
+BILL AS INTRODUCED H.160
+2025 Page 7 of 7
+1 (c) Original equipment manufacturers and authorized repair providers are
+2 not liable for damage caused to any medical equipment by independent repair
+3 providers or health care facilities that occurs during the course of repair,
+4 diagnosis, or maintenance of the equipment.
+5 § 4052. ENFORCEMENT
+6 (a) A person who violates a provision of this subchapter commits an unfair
+7 and deceptive act in trade and commerce in violation of section 2453 of this
+8 title.
+9 (b) The Attorney General has the same authority to make rules, conduct
+10 civil investigations, enter into assurances of discontinuance, and bring civil
+11 actions as provided under chapter 63, subchapter 1 of this title.
+12 Sec. 2. IMPLEMENTATION
+13 This act applies to medical equipment and parts sold or in use in this State
+14 on or after the effective date of this act.
+15 Sec. 3. EFFECTIVE DATE
+16 This act shall take effect on July 1, 2025.
+VT LEG #380003 v.1
+
+[DELETED:  H P H I R M R D S S m i d d A I S C S § A ( t]
+[DELETED:  H P t l p m o s ( d c ( s g p e ( d ( d d f]
+[DELETED:  H P ( n o d e b a ( e i t O ( o o p a ( r p r]
+[DELETED:  H P ( s ( m o u t o i ( w ( m ( a t a ( e e]
+[DELETED:  H P ( a r o ( i m p d r u ( § § ( i p f ( m i]
+[DELETED:  H P ( d p ( t O a r a m m § ( i ( i p r p a o]
+[DELETED:  H P ( n p d § ( a t ( c a S T o S T]

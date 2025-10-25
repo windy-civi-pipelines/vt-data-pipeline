@@ -1,0 +1,902 @@
+Title: BILL AS INTRODUCED H.420
+Official Title: BILL AS INTRODUCED H.420
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 18
+1 H.420
+2 Introduced by Representatives Boutin of Barre City, Bosch of Clarendon,
+3 Casey of Montpelier, Galfetti of Barre Town, and Micklus of
+4 Milton
+5 Referred to Committee on
+6 Date:
+7 Subject: Taxation and finance; education property tax; tax increment financing
+8 districts; municipal and county government; indebtedness; statewide
+9 tax increment financing; TIF
+10 Statement of purpose of bill as introduced: This bill proposes to establish a tax
+11 increment financing project development program, administered by the
+12 Vermont Economic Progress Council, to authorize municipalities in flood-
+13 impacted communities to use statewide education property tax and municipal
+14 property tax increment to pay for improvements.
+15 An act relating to tax increment financing for flood-impacted communities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 24 V.S.A. chapter 53, subchapter 7 is added to read:
+18 Subchapter 7. Project-Based Tax Increment Financing
+19 § 1906. DEFINITIONS
+20 As used in this subchapter:
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 2 of 18
+1 (1) “Affordable housing” has the same meaning as in section 4303 of
+2 this title.
+3 (2) “Brownfield” has the same meaning as in 32 V.S.A.
+4 § 5404a(h)(4)(C).
+5 (3) “Committed” means pledged and appropriated for the purpose of the
+6 current and future payment of financing and related costs.
+7 (4) “Coordinating agency” means a nonmunicipal entity that a
+8 municipality designates to administer and coordinate a project.
+9 (5) “Financing” means debt authorized by a municipality pursuant to
+10 section 1909 of this subchapter, including principal, interest, and any fees or
+11 charges directly related to that debt, to pay for a project.
+12 (6) “Improvements” means:
+13 (A) the installation or construction of infrastructure, including
+14 utilities, transportation, public facilities and amenities, land and property
+15 acquisition and demolition, brownfield remediation, site preparation, and flood
+16 remediation and mitigation; and
+17 (B) the funding of debt service interest payments for a period of up to
+18 two years, beginning on the date on which the first debt is incurred.
+19 (7) “Legislative body” means the mayor and alderboard, the city
+20 council, the selectboard, and the president and trustees of an incorporated
+21 village, as appropriate.
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 3 of 18
+1 (8) “Municipality” means a city, town, or incorporated village.
+2 (9) “Original taxable value” means the total valuation as determined in
+3 accordance with 32 V.S.A. chapter 129 of all taxable real property located
+4 within a project zone as of its creation date, as adjusted pursuant to section
+5 1910 of this subchapter.
+6 (10) “Project” means an improvement or improvements authorized by a
+7 municipality pursuant to section 1907 of this subchapter.
+8 (11) “Related costs” means expenses incurred and paid by a
+9 municipality, exclusive of the actual cost of constructing and financing a
+10 project, that are directly related to the creation and implementation of the
+11 municipality’s project, including reimbursement of sums previously advanced
+12 by the municipality for those purposes and any costs of a coordinating agency.
+13 Related costs may not include direct municipal expenses such as departmental
+14 or personnel costs.
+15 (12) “Project zone” means an area encompassing a project authorized by
+16 a municipality pursuant to section 1907 of this subchapter, provided that no
+17 parcel within the project zone shall be divided or bisected by the project zone
+18 boundary.
+19 § 1907. CREATION OF PROJECT AND PROJECT ZONE
+20 (a) The legislative body of a municipality may create within its jurisdiction
+21 a project, which shall consist of improvements that serve a public purpose, and
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 4 of 18
+1 a project zone, which shall consist of the parcel on which a project is installed
+2 or constructed and any immediately adjoining parcels.
+3 (b) To create a project and project zone, a municipality shall:
+4 (1) develop a project plan, including:
+5 (A) a description of the proposed project and the proposed project
+6 zone;
+7 (B) a development financing plan;
+8 (C) a pro forma projection of expected costs;
+9 (D) a projection of revenues;
+10 (E) a demonstration that the proposed project would not proceed
+11 without the allocation of incremental tax revenues;
+12 (F) evidence that the municipality is actively seeking or has obtained
+13 other sources of funding and investment; and
+14 (G) a development schedule that includes a list, a cost estimate, and a
+15 schedule for the proposed project and projected private development to occur
+16 as a result of the proposed project;
+17 (2) develop a plan describing the project zone by its boundaries and the
+18 properties therein, entitled “Proposed Project Zone (municipal name),
+19 Vermont”;
+20 (3) hold one or more public hearings, after public notice, on the
+21 proposed project, including the plan developed pursuant to subdivision (2) of
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 5 of 18
+1 this subsection; and
+2 (4) adopt by act of the legislative body of the municipality the plan
+3 developed under subdivision (2) of this subsection, which shall be recorded
+4 with the municipal clerk and lister or assessor.
+5 (c) The creation of a project zone shall occur at 12:01 a.m. on April 1 of the
+6 calendar year the Vermont Economic Progress Council approves the use of tax
+7 increment financing for the project pursuant to section 1908 of this subchapter.
+8 § 1908. PROJECT APPLICATION; VERMONT ECONOMIC PROGRESS
+9 COUNCIL
+10 (a) A municipality, upon approval of its legislative body, may apply to the
+11 Vermont Economic Progress Council to use tax increment financing for a
+12 project. The Vermont Economic Progress Council may approve only
+13 applications meeting the standards of this section.
+14 (b) The Vermont Economic Progress Council shall review a municipality’s
+15 project application to determine whether the municipality meets each of the
+16 following criteria:
+17 (1) the municipality is located in a county subject to a major disaster
+18 declaration issued by the Federal Emergency Management Agency in 2023 or
+19 2024;
+20 (2) the municipality has created a project and project zone pursuant to
+21 subsection 1907(b) of this subchapter; and
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 6 of 18
+1 (3) the municipality has approved or pledged to use incremental
+2 municipal tax revenues for the project in the proportion set in subsection
+3 1910a(b) of this subchapter;
+4 (c) The Vermont Economic Progress Council shall review a municipality’s
+5 project application to determine whether the project plan meets any of the
+6 following criteria:
+7 (1) the projected private development includes new or rehabilitated
+8 affordable housing;
+9 (2) the project or projected private development will stimulate the
+10 remediation and redevelopment of a brownfield;
+11 (3) the projected private development includes at least one entirely new
+12 business or business operation or expansion of an existing business within the
+13 project zone, and the business will provide new, quality, full-time jobs that
+14 meet or exceed the prevailing wage for the region as reported by the
+15 Department of Labor;
+16 (4) the project or projected private development will enhance
+17 transportation by creating improved traffic patterns and flow or creating or
+18 improving public transportation systems; or
+19 (5) the project substantially improves flood resiliency or remediates
+20 flood damage.
+21 (d) The Vermont Economic Progress Council shall review a municipality’s
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 7 of 18
+1 project application to determine whether the municipality has demonstrated
+2 each of the following:
+3 (1) the project and projected development are compatible with
+4 confirmed municipal and regional development plans;
+5 (2) the project has clear local and regional significance for employment,
+6 housing, brownfield remediation, transportation improvements, or flood
+7 remediation and mitigation;
+8 (3) the municipality is leveraging sources of revenue from local, State,
+9 or federal programs and requires additional funding to undertake the project;
+10 and
+11 (4) the municipality possesses the requisite experience to manage the
+12 project, which the municipality may demonstrate through use of a coordinating
+13 agency; and
+14 (5) the municipality has developed a plan for fiscal viability.
+15 (e) The Vermont Economic Progress Council shall review a municipality’s
+16 project application to determine that the project and any proposed development
+17 in the project zone would not have occurred as proposed in the application, or
+18 would have occurred in a significantly different and less desirable manner than
+19 as proposed in the application, but for the proposed utilization of incremental
+20 tax revenues, considering:
+21 (1) the amount of additional time needed to complete the project and
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 8 of 18
+1 any projected private development within the project zone and the amount of
+2 additional cost that might be incurred if the project were to proceed without
+3 education property tax increment financing;
+4 (2) how the proposed project or projected private development
+5 components and size, including, if applicable, the number of units of
+6 affordable housing, would differ without education property tax increment
+7 financing; and
+8 (3)(A) the amount of additional revenue expected to be generated as a
+9 result of the project;
+10 (B) the percentage of that revenue that shall be paid to the Education
+11 Fund;
+12 (C) the percentage that shall be paid to the municipality; and
+13 (D) the percentage of that revenue paid to the municipality that shall
+14 be used to pay financing incurred to pay for the project.
+15 (f) The Vermont Economic Progress Council shall review a municipality’s
+16 project application to determine that there is a nexus between the project and
+17 the expected development and outcomes in the project zone.
+18 (g) The Vermont Economic Progress Council shall approve a
+19 municipality’s tax increment financing plan prior to prior to a public vote to
+20 pledge the credit of the municipality under section 1909 of this subchapter.
+21 The tax increment financing plan shall include all information related to the
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 9 of 18
+1 proposed financing necessary for approval by the Council and to ensure its
+2 viability and consistency with the project plan developed pursuant to
+3 subdivision 1907(b)(1) of this subchapter.
+4 § 1909. INDEBTEDNESS
+5 (a) A municipality approved under section 1908 of this subchapter may
+6 incur indebtedness against revenues of the project zone at any time during a
+7 period of up to five years following the creation of the project zone. If no debt
+8 is incurred during this five-year period, the project zone shall terminate.
+9 (b) Notwithstanding any provision of any municipal charter, each instance
+10 of borrowing to finance or otherwise pay for a project shall occur only after the
+11 legal voters of the municipality, by a majority vote of all voters present and
+12 voting on the question at a special or annual municipal meeting duly warned
+13 for the purpose, authorize the legislative body to pledge the credit of the
+14 municipality, borrow, or otherwise secure the debt for the specific purposes so
+15 warned.
+16 (c) Any indebtedness incurred under this section may be retired over any
+17 period authorized by the legislative body of the municipality.
+18 (d) The project zone shall continue until the date and hour the indebtedness
+19 is retired or, if no debt is incurred, five years following the creation of the
+20 project zone.
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 10 of 18
+1 (e) A municipal legislative body shall provide information to the public
+2 prior to the public vote required under subsection (b) of this section. This
+3 information shall include the amount and types of debt and related costs to be
+4 incurred, including principal, interest, and fees; terms of the debt; the project to
+5 be financed; the expected development to occur because of the project; and
+6 notice to the voters that if the tax increment received by the municipality from
+7 any property tax source is insufficient to pay the principal and interest on the
+8 debt in any year, the municipality shall remain liable for the full payment of
+9 the principal and interest for the term of the indebtedness. If interfund loans
+10 within the municipality are used, the information must also include
+11 documentation of the terms and conditions of the loan. If interfund loans
+12 within the municipality are used as the method of financing, no interest shall
+13 be charged.
+14 § 1910. ORIGINAL TAXABLE VALUE; TAX INCREMENT
+15 (a) As of the date the project zone is created, the lister or assessor for the
+16 municipality shall certify the original taxable value and shall certify to the
+17 legislative body in each year thereafter during the life of the project zone the
+18 amount by which the total valuation as determined in accordance with 32
+19 V.S.A. chapter 129 of all taxable real property located within the project zone
+20 has increased or decreased relative to the original taxable value.
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 11 of 18
+1 (b) The original taxable value shall be increased each year by the lesser of
+2 three percent and the property tax growth rate in the municipality.
+3 (c) Throughout the life of the project zone, the lister or assessor shall
+4 include not more than the original taxable value of the real property in the
+5 assessed valuation upon which the treasurer computes the rates of all taxes
+6 levied by the municipality and every other taxing district in which the project
+7 zone is situated, but the treasurer shall extend all rates so determined against
+8 the entire assessed valuation of real property for that year.
+9 (d) Throughout the life of the project zone, a municipality shall remit not
+10 less than the aggregate tax due on the original taxable value to the Education
+11 Fund.
+12 (e) Throughout the life of the project zone, the municipality shall hold
+13 apart, rather than remit to the taxing districts, that proportion of all taxes paid
+14 that year on the real property within the project zone that the excess valuation
+15 bears to the total assessed valuation. The amount held apart each year is the
+16 “tax increment” for that year. The tax increment shall only be used for
+17 financing and related costs.
+18 (f) Not more than the percentages established pursuant to section 1910a of
+19 this subchapter of the municipal and State education tax increments received
+20 with respect to the project zone and committed for the payment for financing
+21 for improvements and related costs shall be segregated by the municipality in a
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 12 of 18
+1 special project account and in its official books and records until all capital
+2 indebtedness of the project has been fully paid. The final payment shall be
+3 reported to the treasurer, who shall thereafter include the entire assessed
+4 valuation of the project in the assessed valuations upon which the municipal
+5 and other tax rates are computed and extended, and thereafter no taxes from
+6 the project zone shall be deposited in the special project account.
+7 (g) Notwithstanding any charter provision or other provision, all property
+8 taxes assessed within a project zone shall be subject to the provisions of this
+9 section. Special assessments levied under 24 V.S.A. chapter 76A or 87 or
+10 under a municipal charter shall not be considered property taxes for the
+11 purpose of this section if the proceeds are used exclusively for operating
+12 expenses related to properties within the project zone and not for
+13 improvements within the project zone.
+14 § 1910a. USE OF TAX INCREMENT; RETENTION PERIOD
+15 (a) Education property tax increment. For only debt incurred within the
+16 period permitted under subsection 1909(a) of this subchapter and related costs,
+17 up to 70 percent of the education property tax increment may be retained for
+18 the period determined by the Vermont Economic Progress Council pursuant to
+19 subsection (c) of this section, beginning the first year in which debt is incurred
+20 for the project. Upon incurring the first debt, a municipality shall notify the
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 13 of 18
+1 Department of Taxes and the Vermont Economic Progress Council of the
+2 beginning of the retention period of the education tax increment.
+3 (b) Municipal property tax increment. For only debt incurred within the
+4 period permitted under subsection 1909(a) of this subchapter and related costs,
+5 not less than 85 percent of the municipal property tax increment may be
+6 retained, beginning the first year in which debt is incurred for the project.
+7 (c) Retention period. The Vermont Economic Progress Council shall
+8 determine the shortest retention period for a project consistent with the project
+9 plan. In no case shall a retention period exceed 20 years.
+10 (d) Excess tax increment.
+11 (1) Of the municipal and education property tax increments received in
+12 any tax year that exceed the amounts committed for the payment of the
+13 financing and related costs for a project, equal portions of each increment may
+14 be retained for the following purposes:
+15 (A) to prepay principal and interest on the financing;
+16 (B) to place in a special project account required pursuant to
+17 subsection 1910(d) of this subchapter and use for future financing payments; or
+18 (C) to use for defeasance of the financing.
+19 (2) Any remaining portion of the excess education property tax
+20 increment shall be distributed to the Education Fund. Any remaining portion
+21 of the excess municipal property tax increment shall be distributed to the city,
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 14 of 18
+1 town, or village budget in the proportion that each budget bears to the
+2 combined total of the budgets unless otherwise negotiated by the city, town, or
+3 village.
+4 § 1910b. INFORMATION REPORTING
+5 (a) A municipality with an active project shall:
+6 (1) develop a system, segregated for the project, to identify, collect, and
+7 maintain all data and information necessary to fulfill the reporting
+8 requirements of this section, including performance measures;
+9 (2) provide timely notification to the Department of Taxes and the
+10 Vermont Economic Progress Council of any project debt, public vote, or vote
+11 by the municipal legislative body immediately following the debt incurrence or
+12 public vote on a form prescribed by the Council, including copies of public
+13 notices, agendas, minutes, vote tally, and a copy of the information provided to
+14 the public pursuant to subsection 1909(e) of this subchapter; and
+15 (3) annually on or before October 15, submit on a form prescribed by
+16 the Vermont Economic Progress Council an annual report to the Council and
+17 the Department of Taxes, including the information required by subdivision (2)
+18 of this subsection if not previously submitted, the information required for
+19 annual audit under section 1910c of this subchapter, and any information
+20 required by the Council or the Department of Taxes for the report required
+21 pursuant to subsection (b) of this section.
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 15 of 18
+1 (b) Annually on or before January 1, the Vermont Economic Progress
+2 Council and the Department of Taxes shall submit a report to the Senate
+3 Committees on Economic Development, Housing and General Affairs and on
+4 Finance and the House Committees on Commerce and Economic Development
+5 and on Ways and Means on projects approved pursuant to this subchapter,
+6 including for each:
+7 (1) the date of approval;
+8 (2) a description of the project;
+9 (3) the original taxable value of the project zone;
+10 (4) the scope and value of projected and actual improvements and
+11 developments in the project zone;
+12 (5) projected and actual incremental revenue amounts;
+13 (6) the allocation of incremental revenue;
+14 (7) projected and actual financing;
+15 (8) performance measures developed by the Vermont Economic
+16 Progress Council; and
+17 (9) the amount of infrastructure work performed by Vermont firms.
+18 § 1910c. AUDITING
+19 Annually on or before April 1 until the year following the end of the period
+20 for retention of education property tax increment, a municipality with a project
+21 approved under this subchapter shall ensure that the project is subject to the
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 16 of 18
+1 annual audit prescribed in 24 V.S.A. § 1681 or 1690 and submit a copy to the
+2 Vermont Economic Progress Council. If a project is subject only to the audit
+3 under 24 V.S.A. § 1681, the Council shall ensure a process is in place to
+4 subject the project to an independent audit. Procedures for the audit must
+5 include verification of the original taxable value and annual and total
+6 municipal and education property tax increments generated, expenditures for
+7 financing and related costs, and current balance.
+8 § 1910d. GUIDANCE
+9 (a) The Secretary of Commerce and Community Development, after
+10 reasonable notice to a municipality and an opportunity for a hearing, may issue
+11 decisions to a municipality on questions and inquiries concerning the
+12 administration of projects, statutes, rules, noncompliance with this subchapter,
+13 and any instances of noncompliance identified in audit reports conducted
+14 pursuant to section 1910c of this subchapter.
+15 (b) The Vermont Economic Progress Council shall prepare
+16 recommendations for the Secretary of Commerce and Community
+17 Development prior to any decision issued pursuant to subsection (a) of this
+18 section. The Council may prepare recommendations in consultation with the
+19 Commissioner of Taxes, the Attorney General, and the State Treasurer. In
+20 preparing recommendations, the Council shall provide a municipality with a
+21 reasonable opportunity to submit written information in support of its position.
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 17 of 18
+1 (c) The Secretary of Commerce and Community Development shall review
+2 the recommendations of the Council and issue a final written decision on each
+3 matter within 60 days following receipt of the recommendations. The
+4 Secretary may permit an appeal to be taken by any party to a Superior Court
+5 for determination of questions of law in the same manner as the Supreme Court
+6 may by rule provide for appeals before final judgment from a Superior Court
+7 before issuing a final decision.
+8 (d) The Vermont Economic Progress Council may adopt policies that are
+9 consistent with the 2015 TIF Rule, as modified by subsequent rulemaking, to
+10 implement this subchapter.
+11 Sec. 2. 32 V.S.A. § 3325 is amended to read:
+12 § 3325. VERMONT ECONOMIC PROGRESS COUNCIL
+13 (a) Creation. The Vermont Economic Progress Council is created to
+14 exercise the authority and perform the duties assigned to it, including its
+15 authority and duties relating to:
+16 (1) the Vermont Employment Growth Incentive Program pursuant to
+17 subchapter 2 of this chapter; and
+18 (2) tax increment financing districts pursuant to 24 V.S.A. chapter 53,
+19 subchapter 5 and section 5404a of this title; and
+20 (3) project-based tax increment financing pursuant to 24 V.S.A. chapter
+21 53, subchapter 7.
+VT LEG #379806 v.4
+BILL AS INTRODUCED H.420
+2025 Page 18 of 18
+1 * * *
+2 (g) Decisions not subject to review. A decision of the Council to approve
+3 or deny an application under subchapter 2 of this chapter, or; to approve or
+4 deny a tax increment financing district pursuant to 24 V.S.A. chapter 53,
+5 subchapter 5 and section 5404a of this title,; or to approve or deny a project
+6 pursuant to 24 V.S.A. chapter 53, subchapter 7 is an administrative decision
+7 that is not subject to the contested case hearing requirements under 3 V.S.A.
+8 chapter 25 and is not subject to judicial review.
+9 Sec. 3. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #379806 v.4
+[DELETED:  H P H I R C M R D S d t S i V i p A I S S § A]
+[DELETED:  H P ( t ( § ( c ( m ( s c ( ( u a r ( t ( c v]
+[DELETED:  H P ( ( a w 1 ( m ( m p m b R o ( a p b § ( a]
+[DELETED:  H P a o ( ( ( z ( ( ( ( w ( o ( s a ( p V ( p]
+[DELETED:  H P t ( d w ( c i §   ( V p a ( p f ( d 2 ( s]
+[DELETED:  H P ( m 1 ( p f ( a ( r ( b p m D ( t i ( f (]
+[DELETED:  H P p e ( c ( h r ( o a ( p a ( ( p i w a t (]
+[DELETED:  H P a a e ( c a f ( r ( F ( ( b ( p t ( m p T]
+[DELETED:  H P p v s § ( i p i ( o l v f m w ( p ( i p]
+[DELETED:  H P ( p i i b n a d t w d w b § ( m l a V h]
+[DELETED:  H P ( t ( i a l z t ( l F ( a t b “ f ( t w f]
+[DELETED:  H P s i r v a t ( t s u p e i § ( p u t s f]
+[DELETED:  H P D b ( p n r ( d p ( ( a f b ( ( s ( ( i o]
+[DELETED:  H P t c v § ( ( m r ( V b p n t ( t t o a r p]
+[DELETED:  H P ( C C F a i ( ( ( ( d ( ( ( ( P ( § A f a]
+[DELETED:  H P a V u s i m f § ( r d a a p ( r D s C p r]
+[DELETED:  H P ( t m S f m b ( c i S § ( e a ( s ( s ( 5]
+[DELETED:  H P * ( o d s p t c S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.420
+2025 Page 1 of 18
+1 H.420
+2 Introduced by Representatives Boutin of Barre City, Bosch of Clarendon,
+3 Casey of Montpelier, Galfetti of Barre Town, and Micklus of
+4 Milton
+5 Referred to Committee on
+6 Date:
+7 Subject: Taxation and finance; education property tax; tax increment financing
+8 districts; municipal and county government; indebtedness; statewide
+9 tax increment financing; TIF
+10 Statement of purpose of bill as introduced: This bill proposes to establish a tax
+11 increment financing project development program, administered by the
+12 Vermont Economic Progress Council, to authorize municipalities in flood-
+13 impacted communities to use statewide education property tax and municipal
+14 property tax increment to pay for improvements.
+15 An act relating to tax increment financing for flood-impacted communities
+16 It is hereby enacted by the General Assembly of the State of Vermont:
+17 Sec. 1. 24 V.S.A. chapter 53, subchapter 7 is added to read:
+18 Subchapter 7. Project-Based Tax Increment Financing
+19 § 1906. DEFINITIONS
+20 As used in this subchapter:
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 2 of 18
+1 (1) “Affordable housing” has the same meaning as in section 4303 of
+2 this title.
+3 (2) “Brownfield” has the same meaning as in 32 V.S.A.
+4 § 5404a(h)(4)(C).
+5 (3) “Committed” means pledged and appropriated for the purpose of the
+6 current and future payment of financing and related costs.
+7 (4) “Coordinating agency” means a nonmunicipal entity that a
+8 municipality designates to administer and coordinate a project.
+9 (5) “Financing” means debt authorized by a municipality pursuant to
+10 section 1909 of this subchapter, including principal, interest, and any fees or
+11 charges directly related to that debt, to pay for a project.
+12 (6) “Improvements” means:
+13 (A) the installation or construction of infrastructure, including
+14 utilities, transportation, public facilities and amenities, land and property
+15 acquisition and demolition, brownfield remediation, site preparation, and flood
+16 remediation and mitigation; and
+17 (B) the funding of debt service interest payments for a period of up to
+18 two years, beginning on the date on which the first debt is incurred.
+19 (7) “Legislative body” means the mayor and alderboard, the city
+20 council, the selectboard, and the president and trustees of an incorporated
+21 village, as appropriate.
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 3 of 18
+1 (8) “Municipality” means a city, town, or incorporated village.
+2 (9) “Original taxable value” means the total valuation as determined in
+3 accordance with 32 V.S.A. chapter 129 of all taxable real property located
+4 within a project zone as of its creation date, as adjusted pursuant to section
+5 1910 of this subchapter.
+6 (10) “Project” means an improvement or improvements authorized by a
+7 municipality pursuant to section 1907 of this subchapter.
+8 (11) “Related costs” means expenses incurred and paid by a
+9 municipality, exclusive of the actual cost of constructing and financing a
+10 project, that are directly related to the creation and implementation of the
+11 municipality’s project, including reimbursement of sums previously advanced
+12 by the municipality for those purposes and any costs of a coordinating agency.
+13 Related costs may not include direct municipal expenses such as departmental
+14 or personnel costs.
+15 (12) “Project zone” means an area encompassing a project authorized by
+16 a municipality pursuant to section 1907 of this subchapter, provided that no
+17 parcel within the project zone shall be divided or bisected by the project zone
+18 boundary.
+19 § 1907. CREATION OF PROJECT AND PROJECT ZONE
+20 (a) The legislative body of a municipality may create within its jurisdiction
+21 a project, which shall consist of improvements that serve a public purpose, and
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 4 of 18
+1 a project zone, which shall consist of the parcel on which a project is installed
+2 or constructed and any immediately adjoining parcels.
+3 (b) To create a project and project zone, a municipality shall:
+4 (1) develop a project plan, including:
+5 (A) a description of the proposed project and the proposed project
+6 zone;
+7 (B) a development financing plan;
+8 (C) a pro forma projection of expected costs;
+9 (D) a projection of revenues;
+10 (E) a demonstration that the proposed project would not proceed
+11 without the allocation of incremental tax revenues;
+12 (F) evidence that the municipality is actively seeking or has obtained
+13 other sources of funding and investment; and
+14 (G) a development schedule that includes a list, a cost estimate, and a
+15 schedule for the proposed project and projected private development to occur
+16 as a result of the proposed project;
+17 (2) develop a plan describing the project zone by its boundaries and the
+18 properties therein, entitled “Proposed Project Zone (municipal name),
+19 Vermont”;
+20 (3) hold one or more public hearings, after public notice, on the
+21 proposed project, including the plan developed pursuant to subdivision (2) of
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 5 of 18
+1 this subsection; and
+2 (4) adopt by act of the legislative body of the municipality the plan
+3 developed under subdivision (2) of this subsection, which shall be recorded
+4 with the municipal clerk and lister or assessor.
+5 (c) The creation of a project zone shall occur at 12:01 a.m. on April 1 of the
+6 calendar year the Vermont Economic Progress Council approves the use of tax
+7 increment financing for the project pursuant to section 1908 of this subchapter.
+8 § 1908. PROJECT APPLICATION; VERMONT ECONOMIC PROGRESS
+9 COUNCIL
+10 (a) A municipality, upon approval of its legislative body, may apply to the
+11 Vermont Economic Progress Council to use tax increment financing for a
+12 project. The Vermont Economic Progress Council may approve only
+13 applications meeting the standards of this section.
+14 (b) The Vermont Economic Progress Council shall review a municipality’s
+15 project application to determine whether the municipality meets each of the
+16 following criteria:
+17 (1) the municipality is located in a county subject to a major disaster
+18 declaration issued by the Federal Emergency Management Agency in 2023 or
+19 2024;
+20 (2) the municipality has created a project and project zone pursuant to
+21 subsection 1907(b) of this subchapter; and
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 6 of 18
+1 (3) the municipality has approved or pledged to use incremental
+2 municipal tax revenues for the project in the proportion set in subsection
+3 1910a(b) of this subchapter;
+4 (c) The Vermont Economic Progress Council shall review a municipality’s
+5 project application to determine whether the project plan meets any of the
+6 following criteria:
+7 (1) the projected private development includes new or rehabilitated
+8 affordable housing;
+9 (2) the project or projected private development will stimulate the
+10 remediation and redevelopment of a brownfield;
+11 (3) the projected private development includes at least one entirely new
+12 business or business operation or expansion of an existing business within the
+13 project zone, and the business will provide new, quality, full-time jobs that
+14 meet or exceed the prevailing wage for the region as reported by the
+15 Department of Labor;
+16 (4) the project or projected private development will enhance
+17 transportation by creating improved traffic patterns and flow or creating or
+18 improving public transportation systems; or
+19 (5) the project substantially improves flood resiliency or remediates
+20 flood damage.
+21 (d) The Vermont Economic Progress Council shall review a municipality’s
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 7 of 18
+1 project application to determine whether the municipality has demonstrated
+2 each of the following:
+3 (1) the project and projected development are compatible with
+4 confirmed municipal and regional development plans;
+5 (2) the project has clear local and regional significance for employment,
+6 housing, brownfield remediation, transportation improvements, or flood
+7 remediation and mitigation;
+8 (3) the municipality is leveraging sources of revenue from local, State,
+9 or federal programs and requires additional funding to undertake the project;
+10 and
+11 (4) the municipality possesses the requisite experience to manage the
+12 project, which the municipality may demonstrate through use of a coordinating
+13 agency; and
+14 (5) the municipality has developed a plan for fiscal viability.
+15 (e) The Vermont Economic Progress Council shall review a municipality’s
+16 project application to determine that the project and any proposed development
+17 in the project zone would not have occurred as proposed in the application, or
+18 would have occurred in a significantly different and less desirable manner than
+19 as proposed in the application, but for the proposed utilization of incremental
+20 tax revenues, considering:
+21 (1) the amount of additional time needed to complete the project and
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 8 of 18
+1 any projected private development within the project zone and the amount of
+2 additional cost that might be incurred if the project were to proceed without
+3 education property tax increment financing;
+4 (2) how the proposed project or projected private development
+5 components and size, including, if applicable, the number of units of
+6 affordable housing, would differ without education property tax increment
+7 financing; and
+8 (3)(A) the amount of additional revenue expected to be generated as a
+9 result of the project;
+10 (B) the percentage of that revenue that shall be paid to the Education
+11 Fund;
+12 (C) the percentage that shall be paid to the municipality; and
+13 (D) the percentage of that revenue paid to the municipality that shall
+14 be used to pay financing incurred to pay for the project.
+15 (f) The Vermont Economic Progress Council shall review a municipality’s
+16 project application to determine that there is a nexus between the project and
+17 the expected development and outcomes in the project zone.
+18 (g) The Vermont Economic Progress Council shall approve a
+19 municipality’s tax increment financing plan prior to prior to a public vote to
+20 pledge the credit of the municipality under section 1909 of this subchapter.
+21 The tax increment financing plan shall include all information related to the
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 9 of 18
+1 proposed financing necessary for approval by the Council and to ensure its
+2 viability and consistency with the project plan developed pursuant to
+3 subdivision 1907(b)(1) of this subchapter.
+4 § 1909. INDEBTEDNESS
+5 (a) A municipality approved under section 1908 of this subchapter may
+6 incur indebtedness against revenues of the project zone at any time during a
+7 period of up to five years following the creation of the project zone. If no debt
+8 is incurred during this five-year period, the project zone shall terminate.
+9 (b) Notwithstanding any provision of any municipal charter, each instance
+10 of borrowing to finance or otherwise pay for a project shall occur only after the
+11 legal voters of the municipality, by a majority vote of all voters present and
+12 voting on the question at a special or annual municipal meeting duly warned
+13 for the purpose, authorize the legislative body to pledge the credit of the
+14 municipality, borrow, or otherwise secure the debt for the specific purposes so
+15 warned.
+16 (c) Any indebtedness incurred under this section may be retired over any
+17 period authorized by the legislative body of the municipality.
+18 (d) The project zone shall continue until the date and hour the indebtedness
+19 is retired or, if no debt is incurred, five years following the creation of the
+20 project zone.
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 10 of 18
+1 (e) A municipal legislative body shall provide information to the public
+2 prior to the public vote required under subsection (b) of this section. This
+3 information shall include the amount and types of debt and related costs to be
+4 incurred, including principal, interest, and fees; terms of the debt; the project to
+5 be financed; the expected development to occur because of the project; and
+6 notice to the voters that if the tax increment received by the municipality from
+7 any property tax source is insufficient to pay the principal and interest on the
+8 debt in any year, the municipality shall remain liable for the full payment of
+9 the principal and interest for the term of the indebtedness. If interfund loans
+10 within the municipality are used, the information must also include
+11 documentation of the terms and conditions of the loan. If interfund loans
+12 within the municipality are used as the method of financing, no interest shall
+13 be charged.
+14 § 1910. ORIGINAL TAXABLE VALUE; TAX INCREMENT
+15 (a) As of the date the project zone is created, the lister or assessor for the
+16 municipality shall certify the original taxable value and shall certify to the
+17 legislative body in each year thereafter during the life of the project zone the
+18 amount by which the total valuation as determined in accordance with 32
+19 V.S.A. chapter 129 of all taxable real property located within the project zone
+20 has increased or decreased relative to the original taxable value.
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 11 of 18
+1 (b) The original taxable value shall be increased each year by the lesser of
+2 three percent and the property tax growth rate in the municipality.
+3 (c) Throughout the life of the project zone, the lister or assessor shall
+4 include not more than the original taxable value of the real property in the
+5 assessed valuation upon which the treasurer computes the rates of all taxes
+6 levied by the municipality and every other taxing district in which the project
+7 zone is situated, but the treasurer shall extend all rates so determined against
+8 the entire assessed valuation of real property for that year.
+9 (d) Throughout the life of the project zone, a municipality shall remit not
+10 less than the aggregate tax due on the original taxable value to the Education
+11 Fund.
+12 (e) Throughout the life of the project zone, the municipality shall hold
+13 apart, rather than remit to the taxing districts, that proportion of all taxes paid
+14 that year on the real property within the project zone that the excess valuation
+15 bears to the total assessed valuation. The amount held apart each year is the
+16 “tax increment” for that year. The tax increment shall only be used for
+17 financing and related costs.
+18 (f) Not more than the percentages established pursuant to section 1910a of
+19 this subchapter of the municipal and State education tax increments received
+20 with respect to the project zone and committed for the payment for financing
+21 for improvements and related costs shall be segregated by the municipality in a
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 12 of 18
+1 special project account and in its official books and records until all capital
+2 indebtedness of the project has been fully paid. The final payment shall be
+3 reported to the treasurer, who shall thereafter include the entire assessed
+4 valuation of the project in the assessed valuations upon which the municipal
+5 and other tax rates are computed and extended, and thereafter no taxes from
+6 the project zone shall be deposited in the special project account.
+7 (g) Notwithstanding any charter provision or other provision, all property
+8 taxes assessed within a project zone shall be subject to the provisions of this
+9 section. Special assessments levied under 24 V.S.A. chapter 76A or 87 or
+10 under a municipal charter shall not be considered property taxes for the
+11 purpose of this section if the proceeds are used exclusively for operating
+12 expenses related to properties within the project zone and not for
+13 improvements within the project zone.
+14 § 1910a. USE OF TAX INCREMENT; RETENTION PERIOD
+15 (a) Education property tax increment. For only debt incurred within the
+16 period permitted under subsection 1909(a) of this subchapter and related costs,
+17 up to 70 percent of the education property tax increment may be retained for
+18 the period determined by the Vermont Economic Progress Council pursuant to
+19 subsection (c) of this section, beginning the first year in which debt is incurred
+20 for the project. Upon incurring the first debt, a municipality shall notify the
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 13 of 18
+1 Department of Taxes and the Vermont Economic Progress Council of the
+2 beginning of the retention period of the education tax increment.
+3 (b) Municipal property tax increment. For only debt incurred within the
+4 period permitted under subsection 1909(a) of this subchapter and related costs,
+5 not less than 85 percent of the municipal property tax increment may be
+6 retained, beginning the first year in which debt is incurred for the project.
+7 (c) Retention period. The Vermont Economic Progress Council shall
+8 determine the shortest retention period for a project consistent with the project
+9 plan. In no case shall a retention period exceed 20 years.
+10 (d) Excess tax increment.
+11 (1) Of the municipal and education property tax increments received in
+12 any tax year that exceed the amounts committed for the payment of the
+13 financing and related costs for a project, equal portions of each increment may
+14 be retained for the following purposes:
+15 (A) to prepay principal and interest on the financing;
+16 (B) to place in a special project account required pursuant to
+17 subsection 1910(d) of this subchapter and use for future financing payments; or
+18 (C) to use for defeasance of the financing.
+19 (2) Any remaining portion of the excess education property tax
+20 increment shall be distributed to the Education Fund. Any remaining portion
+21 of the excess municipal property tax increment shall be distributed to the city,
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 14 of 18
+1 town, or village budget in the proportion that each budget bears to the
+2 combined total of the budgets unless otherwise negotiated by the city, town, or
+3 village.
+4 § 1910b. INFORMATION REPORTING
+5 (a) A municipality with an active project shall:
+6 (1) develop a system, segregated for the project, to identify, collect, and
+7 maintain all data and information necessary to fulfill the reporting
+8 requirements of this section, including performance measures;
+9 (2) provide timely notification to the Department of Taxes and the
+10 Vermont Economic Progress Council of any project debt, public vote, or vote
+11 by the municipal legislative body immediately following the debt incurrence or
+12 public vote on a form prescribed by the Council, including copies of public
+13 notices, agendas, minutes, vote tally, and a copy of the information provided to
+14 the public pursuant to subsection 1909(e) of this subchapter; and
+15 (3) annually on or before October 15, submit on a form prescribed by
+16 the Vermont Economic Progress Council an annual report to the Council and
+17 the Department of Taxes, including the information required by subdivision (2)
+18 of this subsection if not previously submitted, the information required for
+19 annual audit under section 1910c of this subchapter, and any information
+20 required by the Council or the Department of Taxes for the report required
+21 pursuant to subsection (b) of this section.
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 15 of 18
+1 (b) Annually on or before January 1, the Vermont Economic Progress
+2 Council and the Department of Taxes shall submit a report to the Senate
+3 Committees on Economic Development, Housing and General Affairs and on
+4 Finance and the House Committees on Commerce and Economic Development
+5 and on Ways and Means on projects approved pursuant to this subchapter,
+6 including for each:
+7 (1) the date of approval;
+8 (2) a description of the project;
+9 (3) the original taxable value of the project zone;
+10 (4) the scope and value of projected and actual improvements and
+11 developments in the project zone;
+12 (5) projected and actual incremental revenue amounts;
+13 (6) the allocation of incremental revenue;
+14 (7) projected and actual financing;
+15 (8) performance measures developed by the Vermont Economic
+16 Progress Council; and
+17 (9) the amount of infrastructure work performed by Vermont firms.
+18 § 1910c. AUDITING
+19 Annually on or before April 1 until the year following the end of the period
+20 for retention of education property tax increment, a municipality with a project
+21 approved under this subchapter shall ensure that the project is subject to the
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 16 of 18
+1 annual audit prescribed in 24 V.S.A. § 1681 or 1690 and submit a copy to the
+2 Vermont Economic Progress Council. If a project is subject only to the audit
+3 under 24 V.S.A. § 1681, the Council shall ensure a process is in place to
+4 subject the project to an independent audit. Procedures for the audit must
+5 include verification of the original taxable value and annual and total
+6 municipal and education property tax increments generated, expenditures for
+7 financing and related costs, and current balance.
+8 § 1910d. GUIDANCE
+9 (a) The Secretary of Commerce and Community Development, after
+10 reasonable notice to a municipality and an opportunity for a hearing, may issue
+11 decisions to a municipality on questions and inquiries concerning the
+12 administration of projects, statutes, rules, noncompliance with this subchapter,
+13 and any instances of noncompliance identified in audit reports conducted
+14 pursuant to section 1910c of this subchapter.
+15 (b) The Vermont Economic Progress Council shall prepare
+16 recommendations for the Secretary of Commerce and Community
+17 Development prior to any decision issued pursuant to subsection (a) of this
+18 section. The Council may prepare recommendations in consultation with the
+19 Commissioner of Taxes, the Attorney General, and the State Treasurer. In
+20 preparing recommendations, the Council shall provide a municipality with a
+21 reasonable opportunity to submit written information in support of its position.
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 17 of 18
+1 (c) The Secretary of Commerce and Community Development shall review
+2 the recommendations of the Council and issue a final written decision on each
+3 matter within 60 days following receipt of the recommendations. The
+4 Secretary may permit an appeal to be taken by any party to a Superior Court
+5 for determination of questions of law in the same manner as the Supreme Court
+6 may by rule provide for appeals before final judgment from a Superior Court
+7 before issuing a final decision.
+8 (d) The Vermont Economic Progress Council may adopt policies that are
+9 consistent with the 2015 TIF Rule, as modified by subsequent rulemaking, to
+10 implement this subchapter.
+11 Sec. 2. 32 V.S.A. § 3325 is amended to read:
+12 § 3325. VERMONT ECONOMIC PROGRESS COUNCIL
+13 (a) Creation. The Vermont Economic Progress Council is created to
+14 exercise the authority and perform the duties assigned to it, including its
+15 authority and duties relating to:
+16 (1) the Vermont Employment Growth Incentive Program pursuant to
+17 subchapter 2 of this chapter; and
+18 (2) tax increment financing districts pursuant to 24 V.S.A. chapter 53,
+19 subchapter 5 and section 5404a of this title; and
+20 (3) project-based tax increment financing pursuant to 24 V.S.A. chapter
+21 53, subchapter 7.
+VT LEG #379806 v.4
+
+BILL AS INTRODUCED H.420
+2025 Page 18 of 18
+1 * * *
+2 (g) Decisions not subject to review. A decision of the Council to approve
+3 or deny an application under subchapter 2 of this chapter, or; to approve or
+4 deny a tax increment financing district pursuant to 24 V.S.A. chapter 53,
+5 subchapter 5 and section 5404a of this title,; or to approve or deny a project
+6 pursuant to 24 V.S.A. chapter 53, subchapter 7 is an administrative decision
+7 that is not subject to the contested case hearing requirements under 3 V.S.A.
+8 chapter 25 and is not subject to judicial review.
+9 Sec. 3. EFFECTIVE DATE
+10 This act shall take effect on July 1, 2025.
+VT LEG #379806 v.4
+
+[DELETED:  H P H I R C M R D S d t S i V i p A I S S § A]
+[DELETED:  H P ( t ( § ( c ( m ( s c ( ( u a r ( t ( c v]
+[DELETED:  H P ( ( a w 1 ( m ( m p m b R o ( a p b § ( a]
+[DELETED:  H P a o ( ( ( z ( ( ( ( w ( o ( s a ( p V ( p]
+[DELETED:  H P t ( d w ( c i §   ( V p a ( p f ( d 2 ( s]
+[DELETED:  H P ( m 1 ( p f ( a ( r ( b p m D ( t i ( f (]
+[DELETED:  H P p e ( c ( h r ( o a ( p a ( ( p i w a t (]
+[DELETED:  H P a a e ( c a f ( r ( F ( ( b ( p t ( m p T]
+[DELETED:  H P p v s § ( i p i ( o l v f m w ( p ( i p]
+[DELETED:  H P ( p i i b n a d t w d w b § ( m l a V h]
+[DELETED:  H P ( t ( i a l z t ( l F ( a t b “ f ( t w f]
+[DELETED:  H P s i r v a t ( t s u p e i § ( p u t s f]
+[DELETED:  H P D b ( p n r ( d p ( ( a f b ( ( s ( ( i o]
+[DELETED:  H P t c v § ( ( m r ( V b p n t ( t t o a r p]
+[DELETED:  H P ( C C F a i ( ( ( ( d ( ( ( ( P ( § A f a]
+[DELETED:  H P a V u s i m f § ( r d a a p ( r D s C p r]
+[DELETED:  H P ( t m S f m b ( c i S § ( e a ( s ( s ( 5]
+[DELETED:  H P * ( o d s p t c S T]

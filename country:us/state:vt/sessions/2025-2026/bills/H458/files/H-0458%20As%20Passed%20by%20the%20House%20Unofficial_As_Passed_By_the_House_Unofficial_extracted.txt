@@ -1,0 +1,247 @@
+Title: 2 An act relating to the Agency of Digital Services
+Official Title: 2 An act relating to the Agency of Digital Services
+Number of Sections: 1
+Source: versions - As Passed By the House (Unofficial)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+AS PASSED BY HOUSE H.458
+2025 Page 1 of 5
+1 H.458
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. INTENT
+5 The intent of this act is for the Agency of Digital Services to provide the
+6 General Assembly and the public with more transparency about the scope,
+7 budget, and overall status of certain information technology projects being
+8 managed by the Agency. This act requires the Agency to include more details
+9 about information technology projects it manages in its annual reporting as
+10 well as on its publicly available website in the form of a current projects
+11 inventory.
+12 Sec. 2. 3 V.S.A. § 3303 is amended to read:
+13 § 3303. REPORTING, RECORDS, AND REVIEW REQUIREMENTS
+14 (a) Annual report and budget. The Secretary shall submit to the General
+15 Assembly House Committee on Energy and Digital Infrastructure and the
+16 Senate Committee on Institutions, concurrent with the Governor’s annual
+17 budget request required under 32 V.S.A. § 306, an annual report for
+18 information technology and cybersecurity. The report shall reflect the
+19 priorities of the Agency and shall include:
+20 (1) performance metrics and trends, including baseline and annual
+21 measurements, for each division of the Agency;
+VT LEG #381761 v.1
+AS PASSED BY HOUSE H.458
+2025 Page 2 of 5
+1 (2) a financial report of revenues and expenditures to date for the current
+2 fiscal year;
+3 (3) costs avoided or saved as a result of technology optimization for the
+4 previous fiscal year;
+5 (4) an outline summary of information, including scope, schedule,
+6 budget, and status for information technology projects with total costs of
+7 $500,000.00 or greater a summary of each active information technology
+8 project managed by the Agency’s Enterprise Project Management Office,
+9 including each project’s:
+10 (A) scope;
+11 (B) budget;
+12 (C) timeline; and
+13 (D) status, which includes:
+14 (i) project closure details;
+15 (ii) project changes over time; and
+16 (iii) other indicators of the project being on time and on budget;
+17 (5) an annual update to the strategic plan prepared pursuant to
+18 subsection (c) of this section;
+19 (6) a summary of independent reviews as required by subsection (d) of
+20 this section, including any uses of the waiver authority by the Chief
+21 Information Officer pursuant to subdivision (d)(3) of this section;
+VT LEG #381761 v.1
+AS PASSED BY HOUSE H.458
+2025 Page 3 of 5
+1 (7) the Agency budget submission;
+2 (8) an annual update to the inventory required by section 3305 of this
+3 title; and.
+4 (9) a report on the expenditures of the Technology Modernization
+5 Special Fund, a list of projects receiving funding from the Fund in the prior
+6 fiscal year, and a list of prioritized recommendations for projects to be funded
+7 from the Fund in the next fiscal year.
+8 (b) Records. The Agency shall maintain the following records for
+9 information technology projects with a total cost of $500,000.00 or greater
+10 managed by the Agency’s Enterprise Project Management Office:
+11 (1) A business case, including staffing costs, when available to and
+12 provided by the State government business partner, life-cycle costs, and
+13 sources of funds for design, development, and implementation, as well as
+14 maintenance and operations. The business case shall include expected
+15 benefits, including cost savings and service delivery improvements.
+16 * * *
+17 (d) Independent expert review.
+18 (1) The Agency shall obtain independent expert review of any new
+19 information technology projects with a total cost of $1,000,000.00 or greater or
+20 when required by the Chief Information Officer.
+VT LEG #381761 v.1
+AS PASSED BY HOUSE H.458
+2025 Page 4 of 5
+1 (2) The independent review shall include:
+2 (A) an acquisition cost assessment;
+3 (B) a technology architecture and standards review;
+4 (C) an implementation plan assessment;
+5 (D) a cost analysis and a model for benefit analysis;
+6 (E) an analysis of alternatives;
+7 (F) an impact analysis on net operating costs for the agency carrying
+8 out the activity; and
+9 (G) a security assessment.
+10 (3) The requirement to obtain independent expert review described in
+11 subdivision (1) of this subsection (d) may be waived by the Chief Information
+12 Officer if, in his or her the Chief Information Officer’s judgment, such a
+13 review would be duplicative of one or more reviews that have been, or will be,
+14 conducted under a separate federal or State requirement. If waived, such
+15 waiver shall be in writing and in accordance with procedures established by the
+16 Chief Information Officer.
+17 (e) Current projects inventory. The Agency shall maintain a project
+18 inventory on its publicly accessible website that displays the status of all
+19 current information technology projects managed by the Agency’s Enterprise
+20 Project Management Office. The inventory shall be updated at least monthly
+21 and include the:
+VT LEG #381761 v.1
+AS PASSED BY HOUSE H.458
+2025 Page 5 of 5
+1 (1) State government business partner for each project;
+2 (2) name of each project;
+3 (3) start date of each project;
+4 (4) estimated date of completion at the start of the implementation phase
+5 of each project along with an indicator as to whether the project is on time;
+6 (5) estimated project cost at the start of the implementation phase of
+7 each project along with an indicator as to whether the project is on budget;
+8 (6) current estimated date of completion of each project; and
+9 (7) current estimated cost of each project.
+10 Sec. 3. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #381761 v.1
+[DELETED:  H P H A I S T G b m a w i S § ( A S b i p ( m]
+[DELETED:  H P ( f ( p ( b $ p i ( ( ( ( ( ( ( ( s ( t I]
+[DELETED:  H P ( ( t ( S f f ( i m ( p s m b * ( ( i w]
+[DELETED:  H P ( ( ( ( ( ( ( o ( ( s O r c w C ( i c P a]
+[DELETED:  H P ( ( ( ( o ( e ( ( S T]
+
+
+================================================================================
+
+Raw Text:
+AS PASSED BY HOUSE H.458
+2025 Page 1 of 5
+1 H.458
+2 An act relating to the Agency of Digital Services
+3 It is hereby enacted by the General Assembly of the State of Vermont:
+4 Sec. 1. INTENT
+5 The intent of this act is for the Agency of Digital Services to provide the
+6 General Assembly and the public with more transparency about the scope,
+7 budget, and overall status of certain information technology projects being
+8 managed by the Agency. This act requires the Agency to include more details
+9 about information technology projects it manages in its annual reporting as
+10 well as on its publicly available website in the form of a current projects
+11 inventory.
+12 Sec. 2. 3 V.S.A. § 3303 is amended to read:
+13 § 3303. REPORTING, RECORDS, AND REVIEW REQUIREMENTS
+14 (a) Annual report and budget. The Secretary shall submit to the General
+15 Assembly House Committee on Energy and Digital Infrastructure and the
+16 Senate Committee on Institutions, concurrent with the Governor’s annual
+17 budget request required under 32 V.S.A. § 306, an annual report for
+18 information technology and cybersecurity. The report shall reflect the
+19 priorities of the Agency and shall include:
+20 (1) performance metrics and trends, including baseline and annual
+21 measurements, for each division of the Agency;
+VT LEG #381761 v.1
+
+AS PASSED BY HOUSE H.458
+2025 Page 2 of 5
+1 (2) a financial report of revenues and expenditures to date for the current
+2 fiscal year;
+3 (3) costs avoided or saved as a result of technology optimization for the
+4 previous fiscal year;
+5 (4) an outline summary of information, including scope, schedule,
+6 budget, and status for information technology projects with total costs of
+7 $500,000.00 or greater a summary of each active information technology
+8 project managed by the Agency’s Enterprise Project Management Office,
+9 including each project’s:
+10 (A) scope;
+11 (B) budget;
+12 (C) timeline; and
+13 (D) status, which includes:
+14 (i) project closure details;
+15 (ii) project changes over time; and
+16 (iii) other indicators of the project being on time and on budget;
+17 (5) an annual update to the strategic plan prepared pursuant to
+18 subsection (c) of this section;
+19 (6) a summary of independent reviews as required by subsection (d) of
+20 this section, including any uses of the waiver authority by the Chief
+21 Information Officer pursuant to subdivision (d)(3) of this section;
+VT LEG #381761 v.1
+
+AS PASSED BY HOUSE H.458
+2025 Page 3 of 5
+1 (7) the Agency budget submission;
+2 (8) an annual update to the inventory required by section 3305 of this
+3 title; and.
+4 (9) a report on the expenditures of the Technology Modernization
+5 Special Fund, a list of projects receiving funding from the Fund in the prior
+6 fiscal year, and a list of prioritized recommendations for projects to be funded
+7 from the Fund in the next fiscal year.
+8 (b) Records. The Agency shall maintain the following records for
+9 information technology projects with a total cost of $500,000.00 or greater
+10 managed by the Agency’s Enterprise Project Management Office:
+11 (1) A business case, including staffing costs, when available to and
+12 provided by the State government business partner, life-cycle costs, and
+13 sources of funds for design, development, and implementation, as well as
+14 maintenance and operations. The business case shall include expected
+15 benefits, including cost savings and service delivery improvements.
+16 * * *
+17 (d) Independent expert review.
+18 (1) The Agency shall obtain independent expert review of any new
+19 information technology projects with a total cost of $1,000,000.00 or greater or
+20 when required by the Chief Information Officer.
+VT LEG #381761 v.1
+
+AS PASSED BY HOUSE H.458
+2025 Page 4 of 5
+1 (2) The independent review shall include:
+2 (A) an acquisition cost assessment;
+3 (B) a technology architecture and standards review;
+4 (C) an implementation plan assessment;
+5 (D) a cost analysis and a model for benefit analysis;
+6 (E) an analysis of alternatives;
+7 (F) an impact analysis on net operating costs for the agency carrying
+8 out the activity; and
+9 (G) a security assessment.
+10 (3) The requirement to obtain independent expert review described in
+11 subdivision (1) of this subsection (d) may be waived by the Chief Information
+12 Officer if, in his or her the Chief Information Officer’s judgment, such a
+13 review would be duplicative of one or more reviews that have been, or will be,
+14 conducted under a separate federal or State requirement. If waived, such
+15 waiver shall be in writing and in accordance with procedures established by the
+16 Chief Information Officer.
+17 (e) Current projects inventory. The Agency shall maintain a project
+18 inventory on its publicly accessible website that displays the status of all
+19 current information technology projects managed by the Agency’s Enterprise
+20 Project Management Office. The inventory shall be updated at least monthly
+21 and include the:
+VT LEG #381761 v.1
+
+AS PASSED BY HOUSE H.458
+2025 Page 5 of 5
+1 (1) State government business partner for each project;
+2 (2) name of each project;
+3 (3) start date of each project;
+4 (4) estimated date of completion at the start of the implementation phase
+5 of each project along with an indicator as to whether the project is on time;
+6 (5) estimated project cost at the start of the implementation phase of
+7 each project along with an indicator as to whether the project is on budget;
+8 (6) current estimated date of completion of each project; and
+9 (7) current estimated cost of each project.
+10 Sec. 3. EFFECTIVE DATE
+11 This act shall take effect on July 1, 2025.
+VT LEG #381761 v.1
+
+[DELETED:  H P H A I S T G b m a w i S § ( A S b i p ( m]
+[DELETED:  H P ( f ( p ( b $ p i ( ( ( ( ( ( ( ( s ( t I]
+[DELETED:  H P ( ( t ( S f f ( i m ( p s m b * ( ( i w]
+[DELETED:  H P ( ( ( ( ( ( ( o ( ( s O r c w C ( i c P a]
+[DELETED:  H P ( ( ( ( o ( e ( ( S T]

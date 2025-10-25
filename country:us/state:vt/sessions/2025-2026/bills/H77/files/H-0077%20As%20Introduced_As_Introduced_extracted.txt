@@ -1,0 +1,402 @@
+Title: BILL AS INTRODUCED H.77
+Official Title: BILL AS INTRODUCED H.77
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 8
+1 H.77
+2 Introduced by Representatives McCann of Montpelier, Cordes of Bristol,
+3 Dodge of Essex, Goldman of Rockingham, Headrick of
+4 Burlington, Logan of Burlington, Pouech of Hinesburg,
+5 Priestley of Bradford, Tomlinson of Winooski, and Waszazak
+6 of Barre City
+7 Referred to Committee on
+8 Date:
+9 Subject: Taxation; income tax; marginal tax brackets
+10 Statement of purpose of bill as introduced: This bill proposes to create a new
+11 marginal tax bracket to generate revenue for education and transportation.
+12 An act relating to creating a new income tax bracket
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 32 V.S.A. § 5822 is amended to read:
+15 § 5822. TAX ON INCOME OF INDIVIDUALS, ESTATES, AND TRUSTS
+16 (a) A tax is imposed for each taxable year upon the taxable income earned
+17 or received in that year by every individual, estate, and trust, subject to income
+18 taxation under the laws of the United States, in an amount determined by the
+19 following tables, and adjusted as required under this section:
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 2 of 8
+1 (1) Married individuals filing joint returns and surviving spouses:
+2 If taxable income is: The tax is:
+3 Not over $64,600.00 $79,950.00 3.35% of taxable income
+4 Over $64,600.00 $79,950.00 but $2,164.00 $2,678.00 plus 6.6% of the
+5 not over $156,150.00 $193,300.00 amount of taxable income over
+6 $64,600.00 $79,950.00
+7 Over $156,150.00 $193,300.00 but $8,206.00 $10,159.00 plus 7.6% of
+8 not over $237,950.00 $294,600.00 the amount of taxable income over
+9 $156,150.00 $193,300.00
+10 Over $237,950.00 $294,600.00 but $14,423.00 $17,858.00
+11 not over $1,217,350.00 plus 8.75% of the amount of taxable
+12 income over $237,950.00
+13 $294,600.00
+14 Over $1,217,350.00 $98,599.00 plus 12.75% of the
+15 amount over $1,217,350.00
+16 (2) Heads of households:
+17 If taxable income is: The tax is:
+18 Not over $51,850.00 $64,200.00 3.35% of taxable income
+19 Over $51,850.00 $64,200.00 but $1,737.00 $2,151.00 plus 6.6% of the
+20 not over $133,850.00 $165,700.00 amount of taxable income over
+21 $51,850.00 $64,200.00
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 3 of 8
+1 Over $133,850.00 $165,700.00 but $7,149.00 $8,850.00 plus 7.6% of the
+2 not over $216,700.00 $268,350.00 amount of taxable income over
+3 $133,850.00 $165,700.00
+4 Over $216,700.00 $268,300.00 $13,446.00 $16,647.00 plus 8.75% of
+5 but not over $1,108,675.00 the amount of taxable income over
+6 $216,700.00 $268,300.00
+7 Over $1,108,675.00 $90,180.00 plus 12.75% of the
+8 amount of taxable income over
+9 $1,108,675.00
+10 (3) Unmarried individuals (other than surviving spouse or head of
+11 household):
+12 If taxable income is: The tax is:
+13 Not over $38,700.00 $47,900.00 3.35% of taxable income
+14 Over $38,700.00 $47,900.00 but $1,296.00 $1,605.00 plus 6.6% of the
+15 not over $93,700.00 $116,000.00 6.6% of the amount of taxable
+16 income over $38,700.00 $47,900.00
+17 Over $93,700.00 $116,000.00 but $4,926.00 $6,099.00 plus 7.6% of the
+18 not over $195,450.00 $242,000.00 amount of taxable income over
+19 $93,700.00 $116,000.00
+20 Over $195,450.00 $242,000.00 but $12,659.00 $15,675.00 plus 8.75% of
+21 not over $1,000,000.00 the amount of taxable income over
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 4 of 8
+1 $195,450.00 $242,000.00
+2 Over $1,000,000.00 $82,000.00 plus 12.75% of the
+3 amount of taxable income over
+4 $1,000,000.00
+5 (4) Married individuals filing separate returns:
+6 If taxable income is: The tax is:
+7 Not over $32,300.00 $39,975.00 3.35% of taxable income
+8 Over $32,300.00 $39,975.00 but $1,082.00 $1,339.00 plus 6.6% of the
+9 not over $78,075.00 $96,650.00 amount of taxable income over
+10 $32,300.00 $39,975.00
+11 Over $78,075.00 $96,650.00 but $4,103.00 $5,080.00 plus 7.6% of the
+12 not over $118,975.00 $147,300.00 amount of taxable income over
+13 $78,075.00 $96,650.00
+14 Over $118,975.00 $147,300.00 but $7,212.00 $8,929.00 plus 8.75% of
+15 not over $608,675.00 the amount of taxable income over
+16 $118,975.00 $147,300.00
+17 Over $608,675.00 $49,299.00 plus 12.75% of the
+18 amount of taxable income over
+19 $608,675.00
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 5 of 8
+1 (5) Estates and trusts:
+2 If taxable income is: The tax is:
+3 $2,600.00 $3,200.00 or less 3.35% of taxable income
+4 Over $2,600.00 $3,200.00 but $87.00 $107.00 plus 6.6% of the
+5 not over $6,100.00 $7,500.00 amount of taxable income over
+6 $2,600.00 $3,200.00
+7 Over $6,100.00 $7,500.00 but $318.00 $391.00 plus 7.6% of the
+8 not over $9,350.00 $11,550.00 amount of taxable income over
+9 $6,100.00 $7,500.00
+10 Over $9,350.00 $11,550.00 $565.00 $699.00 plus 8.75% of the
+11 amount of taxable income over
+12 $9,350.00 $11,550.00
+13 (6) If the federal adjusted gross income of the taxpayer exceeds
+14 $150,000.00, then the tax calculated under this subsection shall be the greater
+15 of the tax calculated under subdivisions (1)–(5) of this subsection or three
+16 percent of the taxpayer’s federal adjusted gross income.
+17 (b) As used in this section:
+18 (1) “Married individuals,” “surviving spouse,” “head of household,”
+19 “unmarried individual,” “estate,” and “trust” have the same meaning as under
+20 the Internal Revenue Code.
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 6 of 8
+1 (2) The amounts of taxable income shown in the tables in this section
+2 shall be adjusted annually for inflation by the Commissioner of Taxes using
+3 the Consumer Price Index adjustment percentage, in the manner prescribed for
+4 inflation adjustment of federal income tax tables for the taxable year by the
+5 Commissioner of Internal Revenue, beginning with taxable year 2003 2025;
+6 provided, however, notwithstanding 26 U.S.C. § 1(f)(3), that as used in this
+7 subdivision, “consumer price index” means the last Consumer Price Index for
+8 All Urban Consumers published by the U.S. Department of Labor.
+9 * * *
+10 (f) The revenue generated by individual income taxes levied pursuant to
+11 this chapter shall be deposited in the General Fund, except as follows:
+12 (1) An amount equal to two percent of the taxable income taxed at the
+13 highest marginal tax rate under subdivisions (1)–(4) of this section shall be
+14 deposited in the Education Fund established under 16 V.S.A. § 4025.
+15 (2) An amount equal to one percent of the taxable income taxed at the
+16 highest marginal tax rate under subdivisions (1)–(4) of this section shall be
+17 deposited in the Transportation Fund established under 19 V.S.A. § 11 for use
+18 in the repair and maintenance of roads and bridges and for public
+19 transportation.
+20 (3) An amount equal to one percent of the taxable income taxed at the
+21 highest marginal tax rate under subdivisions (1)–(4) of this section shall be
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 7 of 8
+1 deposited in the Vermont Higher Education Endowment Trust Fund
+2 established under 16 V.S.A. § 2885.
+3 Sec. 3. 32 V.S.A. § 435 is amended to read:
+4 § 435. GENERAL FUND
+5 (a) There is established the General Fund, which shall be the basic
+6 operating fund of the State. The General Fund shall be used to finance all
+7 expenditures for which no special revenues have otherwise been provided by
+8 law.
+9 (b) The General Fund shall be composed of revenues from the following
+10 sources:
+11 * * *
+12 (5) individual income taxes levied pursuant to chapter 151 of this title,
+13 except as otherwise deposited pursuant to subsection 5822(f) of this title;
+14 * * *
+15 Sec. 4. 16 V.S.A. § 4025 is amended to read:
+16 § 4025. EDUCATION FUND
+17 (a) The Education Fund is established to comprise the following:
+18 * * *
+19 (10) wind-powered electric generating facilities tax deposited pursuant
+20 to 32 V.S.A. § 5402c; and
+VT LEG #379088 v.1
+BILL AS INTRODUCED H.77
+2025 Page 8 of 8
+1 (11) revenues from the short-term rental surcharge under 32 V.S.A.
+2 § 9301; and
+3 (12) income tax revenue deposited pursuant to 32 V.S.A. § 5822(f).
+4 * * *
+5 Sec. 5. 19 V.S.A. § 11 is amended to read:
+6 § 11. TRANSPORTATION FUND
+7 The Transportation Fund shall comprise the following:
+8 * * *
+9 (8) other miscellaneous sources including the sale of maps, plans, and
+10 reports, fees collected by the Travel Information Council, leases for property at
+11 State-owned airports and railroads, proceeds from the sale of State surplus
+12 property under the provisions of 29 V.S.A. §§ 1556 and 1557, and proceeds
+13 from the sale of recycled materials; and
+14 (9) income tax revenue deposited pursuant to 32 V.S.A. § 5822(f).
+15 Sec. 6. EFFECTIVE DATE
+16 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+17 January 1, 2025 and apply to taxable years on and after January 1, 2025.
+VT LEG #379088 v.1
+[DELETED:  H P H I R D B P o R D S S m A I S § ( o t f]
+[DELETED:  H P ( I T N 3 O $ n a         $ O $ n t        $ O $ n p        i        $ O $        a ( I T N 3 O $ n a        $]
+[DELETED:  H P O $ n a        $ O $ b t        $ O $        a        $ ( h I T N 3 O $ n 6        i O $ n a        $ O $ n t]
+[DELETED:  H P        $ O $        a        $ ( I T N 3 O $ n a        $ O $ n a        $ O $ n t        $ O $        a        $]
+[DELETED:  H P ( I T $ 3 O $ n a        $ O $ n a         $ O $         a         $ ( $ o p ( ( “ t]
+[DELETED:  H P ( s t i C p s A * ( t ( h d ( h d i t ( h]
+[DELETED:  H P d e S § ( o e l ( s * ( e * S § ( * ( t]
+[DELETED:  H P ( § ( * S § T * ( r S p f ( S N J]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.77
+2025 Page 1 of 8
+1 H.77
+2 Introduced by Representatives McCann of Montpelier, Cordes of Bristol,
+3 Dodge of Essex, Goldman of Rockingham, Headrick of
+4 Burlington, Logan of Burlington, Pouech of Hinesburg,
+5 Priestley of Bradford, Tomlinson of Winooski, and Waszazak
+6 of Barre City
+7 Referred to Committee on
+8 Date:
+9 Subject: Taxation; income tax; marginal tax brackets
+10 Statement of purpose of bill as introduced: This bill proposes to create a new
+11 marginal tax bracket to generate revenue for education and transportation.
+12 An act relating to creating a new income tax bracket
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 32 V.S.A. § 5822 is amended to read:
+15 § 5822. TAX ON INCOME OF INDIVIDUALS, ESTATES, AND TRUSTS
+16 (a) A tax is imposed for each taxable year upon the taxable income earned
+17 or received in that year by every individual, estate, and trust, subject to income
+18 taxation under the laws of the United States, in an amount determined by the
+19 following tables, and adjusted as required under this section:
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 2 of 8
+1 (1) Married individuals filing joint returns and surviving spouses:
+2 If taxable income is: The tax is:
+3 Not over $64,600.00 $79,950.00 3.35% of taxable income
+4 Over $64,600.00 $79,950.00 but $2,164.00 $2,678.00 plus 6.6% of the
+5 not over $156,150.00 $193,300.00 amount of taxable income over
+6 $64,600.00 $79,950.00
+7 Over $156,150.00 $193,300.00 but $8,206.00 $10,159.00 plus 7.6% of
+8 not over $237,950.00 $294,600.00 the amount of taxable income over
+9 $156,150.00 $193,300.00
+10 Over $237,950.00 $294,600.00 but $14,423.00 $17,858.00
+11 not over $1,217,350.00 plus 8.75% of the amount of taxable
+12 income over $237,950.00
+13 $294,600.00
+14 Over $1,217,350.00 $98,599.00 plus 12.75% of the
+15 amount over $1,217,350.00
+16 (2) Heads of households:
+17 If taxable income is: The tax is:
+18 Not over $51,850.00 $64,200.00 3.35% of taxable income
+19 Over $51,850.00 $64,200.00 but $1,737.00 $2,151.00 plus 6.6% of the
+20 not over $133,850.00 $165,700.00 amount of taxable income over
+21 $51,850.00 $64,200.00
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 3 of 8
+1 Over $133,850.00 $165,700.00 but $7,149.00 $8,850.00 plus 7.6% of the
+2 not over $216,700.00 $268,350.00 amount of taxable income over
+3 $133,850.00 $165,700.00
+4 Over $216,700.00 $268,300.00 $13,446.00 $16,647.00 plus 8.75% of
+5 but not over $1,108,675.00 the amount of taxable income over
+6 $216,700.00 $268,300.00
+7 Over $1,108,675.00 $90,180.00 plus 12.75% of the
+8 amount of taxable income over
+9 $1,108,675.00
+10 (3) Unmarried individuals (other than surviving spouse or head of
+11 household):
+12 If taxable income is: The tax is:
+13 Not over $38,700.00 $47,900.00 3.35% of taxable income
+14 Over $38,700.00 $47,900.00 but $1,296.00 $1,605.00 plus 6.6% of the
+15 not over $93,700.00 $116,000.00 6.6% of the amount of taxable
+16 income over $38,700.00 $47,900.00
+17 Over $93,700.00 $116,000.00 but $4,926.00 $6,099.00 plus 7.6% of the
+18 not over $195,450.00 $242,000.00 amount of taxable income over
+19 $93,700.00 $116,000.00
+20 Over $195,450.00 $242,000.00 but $12,659.00 $15,675.00 plus 8.75% of
+21 not over $1,000,000.00 the amount of taxable income over
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 4 of 8
+1 $195,450.00 $242,000.00
+2 Over $1,000,000.00 $82,000.00 plus 12.75% of the
+3 amount of taxable income over
+4 $1,000,000.00
+5 (4) Married individuals filing separate returns:
+6 If taxable income is: The tax is:
+7 Not over $32,300.00 $39,975.00 3.35% of taxable income
+8 Over $32,300.00 $39,975.00 but $1,082.00 $1,339.00 plus 6.6% of the
+9 not over $78,075.00 $96,650.00 amount of taxable income over
+10 $32,300.00 $39,975.00
+11 Over $78,075.00 $96,650.00 but $4,103.00 $5,080.00 plus 7.6% of the
+12 not over $118,975.00 $147,300.00 amount of taxable income over
+13 $78,075.00 $96,650.00
+14 Over $118,975.00 $147,300.00 but $7,212.00 $8,929.00 plus 8.75% of
+15 not over $608,675.00 the amount of taxable income over
+16 $118,975.00 $147,300.00
+17 Over $608,675.00 $49,299.00 plus 12.75% of the
+18 amount of taxable income over
+19 $608,675.00
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 5 of 8
+1 (5) Estates and trusts:
+2 If taxable income is: The tax is:
+3 $2,600.00 $3,200.00 or less 3.35% of taxable income
+4 Over $2,600.00 $3,200.00 but $87.00 $107.00 plus 6.6% of the
+5 not over $6,100.00 $7,500.00 amount of taxable income over
+6 $2,600.00 $3,200.00
+7 Over $6,100.00 $7,500.00 but $318.00 $391.00 plus 7.6% of the
+8 not over $9,350.00 $11,550.00 amount of taxable income over
+9 $6,100.00 $7,500.00
+10 Over $9,350.00 $11,550.00 $565.00 $699.00 plus 8.75% of the
+11 amount of taxable income over
+12 $9,350.00 $11,550.00
+13 (6) If the federal adjusted gross income of the taxpayer exceeds
+14 $150,000.00, then the tax calculated under this subsection shall be the greater
+15 of the tax calculated under subdivisions (1)–(5) of this subsection or three
+16 percent of the taxpayer’s federal adjusted gross income.
+17 (b) As used in this section:
+18 (1) “Married individuals,” “surviving spouse,” “head of household,”
+19 “unmarried individual,” “estate,” and “trust” have the same meaning as under
+20 the Internal Revenue Code.
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 6 of 8
+1 (2) The amounts of taxable income shown in the tables in this section
+2 shall be adjusted annually for inflation by the Commissioner of Taxes using
+3 the Consumer Price Index adjustment percentage, in the manner prescribed for
+4 inflation adjustment of federal income tax tables for the taxable year by the
+5 Commissioner of Internal Revenue, beginning with taxable year 2003 2025;
+6 provided, however, notwithstanding 26 U.S.C. § 1(f)(3), that as used in this
+7 subdivision, “consumer price index” means the last Consumer Price Index for
+8 All Urban Consumers published by the U.S. Department of Labor.
+9 * * *
+10 (f) The revenue generated by individual income taxes levied pursuant to
+11 this chapter shall be deposited in the General Fund, except as follows:
+12 (1) An amount equal to two percent of the taxable income taxed at the
+13 highest marginal tax rate under subdivisions (1)–(4) of this section shall be
+14 deposited in the Education Fund established under 16 V.S.A. § 4025.
+15 (2) An amount equal to one percent of the taxable income taxed at the
+16 highest marginal tax rate under subdivisions (1)–(4) of this section shall be
+17 deposited in the Transportation Fund established under 19 V.S.A. § 11 for use
+18 in the repair and maintenance of roads and bridges and for public
+19 transportation.
+20 (3) An amount equal to one percent of the taxable income taxed at the
+21 highest marginal tax rate under subdivisions (1)–(4) of this section shall be
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 7 of 8
+1 deposited in the Vermont Higher Education Endowment Trust Fund
+2 established under 16 V.S.A. § 2885.
+3 Sec. 3. 32 V.S.A. § 435 is amended to read:
+4 § 435. GENERAL FUND
+5 (a) There is established the General Fund, which shall be the basic
+6 operating fund of the State. The General Fund shall be used to finance all
+7 expenditures for which no special revenues have otherwise been provided by
+8 law.
+9 (b) The General Fund shall be composed of revenues from the following
+10 sources:
+11 * * *
+12 (5) individual income taxes levied pursuant to chapter 151 of this title,
+13 except as otherwise deposited pursuant to subsection 5822(f) of this title;
+14 * * *
+15 Sec. 4. 16 V.S.A. § 4025 is amended to read:
+16 § 4025. EDUCATION FUND
+17 (a) The Education Fund is established to comprise the following:
+18 * * *
+19 (10) wind-powered electric generating facilities tax deposited pursuant
+20 to 32 V.S.A. § 5402c; and
+VT LEG #379088 v.1
+
+BILL AS INTRODUCED H.77
+2025 Page 8 of 8
+1 (11) revenues from the short-term rental surcharge under 32 V.S.A.
+2 § 9301; and
+3 (12) income tax revenue deposited pursuant to 32 V.S.A. § 5822(f).
+4 * * *
+5 Sec. 5. 19 V.S.A. § 11 is amended to read:
+6 § 11. TRANSPORTATION FUND
+7 The Transportation Fund shall comprise the following:
+8 * * *
+9 (8) other miscellaneous sources including the sale of maps, plans, and
+10 reports, fees collected by the Travel Information Council, leases for property at
+11 State-owned airports and railroads, proceeds from the sale of State surplus
+12 property under the provisions of 29 V.S.A. §§ 1556 and 1557, and proceeds
+13 from the sale of recycled materials; and
+14 (9) income tax revenue deposited pursuant to 32 V.S.A. § 5822(f).
+15 Sec. 6. EFFECTIVE DATE
+16 Notwithstanding 1 V.S.A. § 214, this act shall take effect retroactively on
+17 January 1, 2025 and apply to taxable years on and after January 1, 2025.
+VT LEG #379088 v.1
+
+[DELETED:  H P H I R D B P o R D S S m A I S § ( o t f]
+[DELETED:  H P ( I T N 3 O $ n a         $ O $ n t        $ O $ n p        i        $ O $        a ( I T N 3 O $ n a        $]
+[DELETED:  H P O $ n a        $ O $ b t        $ O $        a        $ ( h I T N 3 O $ n 6        i O $ n a        $ O $ n t]
+[DELETED:  H P        $ O $        a        $ ( I T N 3 O $ n a        $ O $ n a        $ O $ n t        $ O $        a        $]
+[DELETED:  H P ( I T $ 3 O $ n a        $ O $ n a         $ O $         a         $ ( $ o p ( ( “ t]
+[DELETED:  H P ( s t i C p s A * ( t ( h d ( h d i t ( h]
+[DELETED:  H P d e S § ( o e l ( s * ( e * S § ( * ( t]
+[DELETED:  H P ( § ( * S § T * ( r S p f ( S N J]

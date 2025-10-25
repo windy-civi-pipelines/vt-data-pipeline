@@ -1,0 +1,102 @@
+Title: BILL AS INTRODUCED S.68
+Official Title: BILL AS INTRODUCED S.68
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 2
+1 S.68
+2 Introduced by Senator Williams
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; heating fuel; Clean Heat Standard; Affordable
+6 Heat Act
+7 Statement of purpose of bill as introduced: This bill proposes to repeal the
+8 Affordable Heat Act.
+9 An act relating to repealing the Affordable Heat Act
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. REPEAL
+12 30 V.S.A. chapter 94 is repealed.
+13 Sec. 2. 32 V.S.A. § 3102 is amended to read:
+14 § 3102. CONFIDENTIALITY OF TAX RECORDS
+15 * * *
+16 (e) The Commissioner may, in the Commissioner’s discretion and subject
+17 to such conditions and requirements as the Commissioner may provide,
+18 including any confidentiality requirements of the Internal Revenue Service,
+19 disclose a return or return information:
+20 * * *
+VT LEG #380793 v.1
+BILL AS INTRODUCED S.68
+2025 Page 2 of 2
+1 (23) To the Public Utility Commission and the Department of Public
+2 Service, provided the disclosure relates to the fuel tax under 33 V.S.A. chapter
+3 25 and is used for the purposes of auditing compliance with the Clean Heat
+4 Standard under 30 V.S.A. chapter 94. The Commissioner shall, at a minimum,
+5 provide the names of any new businesses selling heating fuel in any given year
+6 and the names of any businesses that are no longer selling heating fuel.
+7 [Repealed.]
+8 * * *
+9 Sec. 3. ABOLISHMENT OF CLEAN HEAT STANDARD POSITIONS
+10 For fiscal year 2025, as of January 1, 2026, the positions created in 2023
+11 Acts and Resolves No. 18, Sec. 7(a) (Public Utility Commission) and (c)
+12 (Department of Public Service) that support the Clean Heat Standard program
+13 are eliminated.
+14 Sec. 4. EFFECTIVE DATE
+15 This act shall take effect on passage.
+VT LEG #380793 v.1
+[DELETED:  S P S I S R D S H S A A I S 3 S § * ( t i d *]
+[DELETED:  S P ( S 2 S p a [ * S F A ( a S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.68
+2025 Page 1 of 2
+1 S.68
+2 Introduced by Senator Williams
+3 Referred to Committee on
+4 Date:
+5 Subject: Public service; energy; heating fuel; Clean Heat Standard; Affordable
+6 Heat Act
+7 Statement of purpose of bill as introduced: This bill proposes to repeal the
+8 Affordable Heat Act.
+9 An act relating to repealing the Affordable Heat Act
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. REPEAL
+12 30 V.S.A. chapter 94 is repealed.
+13 Sec. 2. 32 V.S.A. § 3102 is amended to read:
+14 § 3102. CONFIDENTIALITY OF TAX RECORDS
+15 * * *
+16 (e) The Commissioner may, in the Commissioner’s discretion and subject
+17 to such conditions and requirements as the Commissioner may provide,
+18 including any confidentiality requirements of the Internal Revenue Service,
+19 disclose a return or return information:
+20 * * *
+VT LEG #380793 v.1
+
+BILL AS INTRODUCED S.68
+2025 Page 2 of 2
+1 (23) To the Public Utility Commission and the Department of Public
+2 Service, provided the disclosure relates to the fuel tax under 33 V.S.A. chapter
+3 25 and is used for the purposes of auditing compliance with the Clean Heat
+4 Standard under 30 V.S.A. chapter 94. The Commissioner shall, at a minimum,
+5 provide the names of any new businesses selling heating fuel in any given year
+6 and the names of any businesses that are no longer selling heating fuel.
+7 [Repealed.]
+8 * * *
+9 Sec. 3. ABOLISHMENT OF CLEAN HEAT STANDARD POSITIONS
+10 For fiscal year 2025, as of January 1, 2026, the positions created in 2023
+11 Acts and Resolves No. 18, Sec. 7(a) (Public Utility Commission) and (c)
+12 (Department of Public Service) that support the Clean Heat Standard program
+13 are eliminated.
+14 Sec. 4. EFFECTIVE DATE
+15 This act shall take effect on passage.
+VT LEG #380793 v.1
+
+[DELETED:  S P S I S R D S H S A A I S 3 S § * ( t i d *]
+[DELETED:  S P ( S 2 S p a [ * S F A ( a S T]

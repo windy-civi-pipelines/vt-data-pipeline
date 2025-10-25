@@ -1,0 +1,410 @@
+Title: BILL AS INTRODUCED S.90
+Official Title: BILL AS INTRODUCED S.90
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 8
+1 S.90
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; employment practices; criminal history checks; credit checks;
+6 drug testing
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit
+8 employers from conducting criminal history checks, credit checks, and drug
+9 testing in relation to employees and prospective employees unless there is a
+10 direct relationship between the information sought and the employee or
+11 prospective employee’s job.
+12 An act relating to employee privacy protections
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 21 V.S.A. § 495i is amended to read:
+15 § 495i. EMPLOYMENT BASED ON CREDIT INFORMATION;
+16 PROHIBITIONS
+17 * * *
+18 (b) An employer shall not:
+19 (1) fail or refuse to hire or recruit, discharge, or otherwise discriminate
+20 against an individual with respect to employment; compensation; or a term,
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 2 of 8
+1 condition, or privilege of employment because of the individual’s credit report
+2 or credit history; or
+3 (2) inquire about an applicant’s or employee’s credit report or credit
+4 history.
+5 (c)(1) An employer is exempt from the provisions of subsection (b) of this
+6 section if one or more of the following conditions are met:
+7 (A) The information is required by State or federal law or regulation.
+8 (B) The position of employment involves access to confidential
+9 financial information.
+10 (C) The employer is a financial institution as defined in 8 V.S.A.
+11 § 11101(32) or a credit union as defined in 8 V.S.A. § 30101(5) and the
+12 employer can demonstrate that the information has a direct relationship to the
+13 job duties of the specific position of employment.
+14 (D) The position of employment is that of a law enforcement officer
+15 as defined in 20 V.S.A. § 2351a, emergency medical personnel as defined in
+16 24 V.S.A. § 2651(6), or a firefighter as defined in 20 V.S.A. § 3151(3).
+17 (E) The position of employment requires a financial fiduciary
+18 responsibility to the employer or a client of the employer, including the
+19 authority to issue payments, collect debts, transfer money, or enter into
+20 contracts.
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 3 of 8
+1 (F) The employer can demonstrate that the information is a valid and
+2 reliable predictor of employee performance in the specific position of
+3 employment and has a direct relationship to the job duties of the specific
+4 position of employment.
+5 (G) The position of employment involves access to an employer’s
+6 payroll information and the employer can demonstrate that the information has
+7 a direct relationship to the job duties of the specific position of employment.
+8 (2) An employer that is exempt from the provisions of subsection (b) of
+9 this section may not use an employee’s or applicant’s credit report or history as
+10 the sole factor in decisions regarding employment; compensation; or a term,
+11 condition, or privilege of employment.
+12 * * *
+13 (e) An employer shall not discharge or in any other manner discriminate
+14 against an employee or applicant who has filed a complaint of unlawful
+15 employment practices in violation of this section or who has cooperated with
+16 the Attorney General or a State’s Attorney in an investigation of such practices
+17 or who is about to lodge a complaint or cooperate in an investigation or
+18 because the employer believes that the employee or applicant may lodge a
+19 complaint or cooperate in an investigation The provisions against retaliation in
+20 subdivision 495(a)(8) of this subchapter shall apply to this section.
+21 * * *
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 4 of 8
+1 Sec. 2. 21 V.S.A. § 495j is amended to read:
+2 § 495j. CRIMINAL HISTORY RECORDS; EMPLOYMENT
+3 APPLICATIONS
+4 (a) Except as provided in subsection (b) of this section, an employer shall
+5 not request criminal history record information on its initial employee
+6 application form nor inquire about an applicant’s criminal history during a job
+7 interview. An employer may only inquire about a prospective employee’s
+8 criminal history record during an interview or convictions or recent arrests that
+9 have not yet been judicially adjudicated under this subsection once the
+10 prospective employee has been deemed otherwise qualified for the position
+11 receives a conditional offer of employment and the inquiry has a direct
+12 relationship to the job duties of the specific position. If the information
+13 provided has a direct relationship to the job duties of the specific position, the
+14 employer may withdraw the conditional offer of employment. In considering
+15 whether the provided information has a direct relationship to the job duties of
+16 the specific position, the employer shall consider:
+17 (1) the job duties of the specific position;
+18 (2) the nature and gravity of the offense;
+19 (3) the passage of time since the offense occurred or the prospective
+20 employee completed a prison sentence;
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 5 of 8
+1 (4) the age of the prospective employee at the time the offense occurred;
+2 and
+3 (5) the legitimate interest of the employer in protecting the property and
+4 safety and welfare of specific individuals or the general public.
+5 (b)(1) An employer may inquire about criminal convictions on an initial
+6 employee application form if the following conditions are met:
+7 (A)(i) the prospective employee is applying for a position for which
+8 any federal or State law or regulation creates a mandatory or presumptive
+9 disqualification based on a conviction for one or more types of criminal
+10 offenses; or
+11 (ii) the employer or an affiliate of the employer is subject to an
+12 obligation imposed by any federal or State law or regulation not to employ an
+13 individual, in either one or more positions, who has been convicted of one or
+14 more types of criminal offenses; and
+15 (B) the questions on the application form are limited to the types of
+16 criminal offenses creating the disqualification or obligation.
+17 * * *
+18 (c) If an employer inquires about a prospective employee’s criminal history
+19 record information, the prospective employee, if still eligible for the position
+20 under applicable federal or State law, must be afforded an opportunity to
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 6 of 8
+1 explain the information and the circumstances regarding any convictions,
+2 including postconviction rehabilitation.
+3 (d) An employer who violates the provisions of this section shall be
+4 assessed a civil penalty of up to $100.00 $1,000.00 for each violation.
+5 (e) As used in this section:
+6 (1) “Criminal history record” has the same meaning as set forth in 20
+7 V.S.A. § 2056a. [Repealed.]
+8 (2) “Employee” has the same meaning as set forth in section 495d of
+9 this chapter.
+10 (3) “Employer” has the same meaning as set forth in section 495d of this
+11 chapter.
+12 Sec. 3. 21 V.S.A. § 512 is amended to read:
+13 § 512. DRUG TESTING OF APPLICANTS; PROHIBITIONS;
+14 EXCEPTIONS
+15 * * *
+16 (b) Exception. An employer may require an applicant for employment to
+17 submit to a drug test only if all of the following conditions are met:
+18 (1) Conditional offer of employment. The applicant has been given an
+19 offer of employment conditioned on the applicant receiving a negative test
+20 result.
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 7 of 8
+1 (2) Notice. The applicant received written notice of the drug testing
+2 procedure and a list of the drugs to be tested. The notice shall also state that a
+3 positive test for therapeutic levels of medically prescribed drugs tested,
+4 including cannabis for symptom relief, will not be reported. The notice
+5 required under this subdivision may shall not be waived by the applicant.
+6 (3) Administration. The drug test is administered in accordance with
+7 section 514 of this title.
+8 (4) Relationship to job duties. Information relating to the applicant’s
+9 possible use of drugs has a direct relationship to the applicant’s ability to
+10 perform the job duties of the specific position that has been offered.
+11 Sec. 4. 21 V.S.A. § 513 is amended to read:
+12 § 513. DRUG TESTING OF EMPLOYEES; PROHIBITIONS;
+13 EXCEPTIONS
+14 * * *
+15 (c) Exception. Notwithstanding the prohibition in subsection (a) of this
+16 section, an employer may require an individual employee to submit to a drug
+17 test if all the following conditions are met:
+18 (1) Probable cause. The employer or an agent of the employer has
+19 probable cause to believe the employee is using or is under the influence of a
+20 drug on the job.
+VT LEG #379374 v.1
+BILL AS INTRODUCED S.90
+2025 Page 8 of 8
+1 (2) Employee assistance program. The employer has available for the
+2 employee tested a bona fide rehabilitation program for alcohol or drug abuse
+3 and such program is provided by the employer or is available to the extent
+4 provided by a policy of health insurance or under contract by a nonprofit
+5 hospital service corporation.
+6 (3) Employee may not be terminated. The employee may shall not be
+7 terminated if the test result is positive and the employee agrees to participate in
+8 and then successfully completes the employee assistance program; however,
+9 the employee may be suspended only for the period of time necessary to
+10 complete the program, but in no event longer than three months. The
+11 employee may be terminated if, after completion of an employee assistance
+12 program, the employer subsequently administers a drug test in compliance with
+13 subdivisions (1) and, (4), and (5) of this subsection and the test result is
+14 positive.
+15 (4) Administration of test. The drug test is administered in accordance
+16 with section 514 of this title.
+17 (5) Relationship to job duties. Information relating to whether the
+18 employee is using or is under the influence of a drug on the job has a direct
+19 relationship to the employee’s ability to perform the employee’s job duties.
+20 Sec. 5. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #379374 v.1
+[DELETED:  S P S I S R D S d S e t d p A I S §   * ( ( a]
+[DELETED:  S P c o ( h ( s ( ( f ( § e j ( a 2 ( r a c]
+[DELETED:  S P ( r e p ( p a ( t t c * ( a e t o b c s *]
+[DELETED:  S P S §   ( n a i c h p r r p e w t ( ( ( e]
+[DELETED:  S P ( a ( s ( e ( a d o ( o i m ( c * ( r u]
+[DELETED:  S P e i ( a ( ( V ( t ( c S §   * ( s ( o r]
+[DELETED:  S P ( p p i r ( s ( p p S §   * ( s t ( p d]
+[DELETED:  S P ( e a p h ( t a t c e p s p ( w ( e r S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.90
+2025 Page 1 of 8
+1 S.90
+2 Introduced by Senator Vyhovsky
+3 Referred to Committee on
+4 Date:
+5 Subject: Labor; employment practices; criminal history checks; credit checks;
+6 drug testing
+7 Statement of purpose of bill as introduced: This bill proposes to prohibit
+8 employers from conducting criminal history checks, credit checks, and drug
+9 testing in relation to employees and prospective employees unless there is a
+10 direct relationship between the information sought and the employee or
+11 prospective employee’s job.
+12 An act relating to employee privacy protections
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. 21 V.S.A. § 495i is amended to read:
+15 § 495i. EMPLOYMENT BASED ON CREDIT INFORMATION;
+16 PROHIBITIONS
+17 * * *
+18 (b) An employer shall not:
+19 (1) fail or refuse to hire or recruit, discharge, or otherwise discriminate
+20 against an individual with respect to employment; compensation; or a term,
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 2 of 8
+1 condition, or privilege of employment because of the individual’s credit report
+2 or credit history; or
+3 (2) inquire about an applicant’s or employee’s credit report or credit
+4 history.
+5 (c)(1) An employer is exempt from the provisions of subsection (b) of this
+6 section if one or more of the following conditions are met:
+7 (A) The information is required by State or federal law or regulation.
+8 (B) The position of employment involves access to confidential
+9 financial information.
+10 (C) The employer is a financial institution as defined in 8 V.S.A.
+11 § 11101(32) or a credit union as defined in 8 V.S.A. § 30101(5) and the
+12 employer can demonstrate that the information has a direct relationship to the
+13 job duties of the specific position of employment.
+14 (D) The position of employment is that of a law enforcement officer
+15 as defined in 20 V.S.A. § 2351a, emergency medical personnel as defined in
+16 24 V.S.A. § 2651(6), or a firefighter as defined in 20 V.S.A. § 3151(3).
+17 (E) The position of employment requires a financial fiduciary
+18 responsibility to the employer or a client of the employer, including the
+19 authority to issue payments, collect debts, transfer money, or enter into
+20 contracts.
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 3 of 8
+1 (F) The employer can demonstrate that the information is a valid and
+2 reliable predictor of employee performance in the specific position of
+3 employment and has a direct relationship to the job duties of the specific
+4 position of employment.
+5 (G) The position of employment involves access to an employer’s
+6 payroll information and the employer can demonstrate that the information has
+7 a direct relationship to the job duties of the specific position of employment.
+8 (2) An employer that is exempt from the provisions of subsection (b) of
+9 this section may not use an employee’s or applicant’s credit report or history as
+10 the sole factor in decisions regarding employment; compensation; or a term,
+11 condition, or privilege of employment.
+12 * * *
+13 (e) An employer shall not discharge or in any other manner discriminate
+14 against an employee or applicant who has filed a complaint of unlawful
+15 employment practices in violation of this section or who has cooperated with
+16 the Attorney General or a State’s Attorney in an investigation of such practices
+17 or who is about to lodge a complaint or cooperate in an investigation or
+18 because the employer believes that the employee or applicant may lodge a
+19 complaint or cooperate in an investigation The provisions against retaliation in
+20 subdivision 495(a)(8) of this subchapter shall apply to this section.
+21 * * *
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 4 of 8
+1 Sec. 2. 21 V.S.A. § 495j is amended to read:
+2 § 495j. CRIMINAL HISTORY RECORDS; EMPLOYMENT
+3 APPLICATIONS
+4 (a) Except as provided in subsection (b) of this section, an employer shall
+5 not request criminal history record information on its initial employee
+6 application form nor inquire about an applicant’s criminal history during a job
+7 interview. An employer may only inquire about a prospective employee’s
+8 criminal history record during an interview or convictions or recent arrests that
+9 have not yet been judicially adjudicated under this subsection once the
+10 prospective employee has been deemed otherwise qualified for the position
+11 receives a conditional offer of employment and the inquiry has a direct
+12 relationship to the job duties of the specific position. If the information
+13 provided has a direct relationship to the job duties of the specific position, the
+14 employer may withdraw the conditional offer of employment. In considering
+15 whether the provided information has a direct relationship to the job duties of
+16 the specific position, the employer shall consider:
+17 (1) the job duties of the specific position;
+18 (2) the nature and gravity of the offense;
+19 (3) the passage of time since the offense occurred or the prospective
+20 employee completed a prison sentence;
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 5 of 8
+1 (4) the age of the prospective employee at the time the offense occurred;
+2 and
+3 (5) the legitimate interest of the employer in protecting the property and
+4 safety and welfare of specific individuals or the general public.
+5 (b)(1) An employer may inquire about criminal convictions on an initial
+6 employee application form if the following conditions are met:
+7 (A)(i) the prospective employee is applying for a position for which
+8 any federal or State law or regulation creates a mandatory or presumptive
+9 disqualification based on a conviction for one or more types of criminal
+10 offenses; or
+11 (ii) the employer or an affiliate of the employer is subject to an
+12 obligation imposed by any federal or State law or regulation not to employ an
+13 individual, in either one or more positions, who has been convicted of one or
+14 more types of criminal offenses; and
+15 (B) the questions on the application form are limited to the types of
+16 criminal offenses creating the disqualification or obligation.
+17 * * *
+18 (c) If an employer inquires about a prospective employee’s criminal history
+19 record information, the prospective employee, if still eligible for the position
+20 under applicable federal or State law, must be afforded an opportunity to
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 6 of 8
+1 explain the information and the circumstances regarding any convictions,
+2 including postconviction rehabilitation.
+3 (d) An employer who violates the provisions of this section shall be
+4 assessed a civil penalty of up to $100.00 $1,000.00 for each violation.
+5 (e) As used in this section:
+6 (1) “Criminal history record” has the same meaning as set forth in 20
+7 V.S.A. § 2056a. [Repealed.]
+8 (2) “Employee” has the same meaning as set forth in section 495d of
+9 this chapter.
+10 (3) “Employer” has the same meaning as set forth in section 495d of this
+11 chapter.
+12 Sec. 3. 21 V.S.A. § 512 is amended to read:
+13 § 512. DRUG TESTING OF APPLICANTS; PROHIBITIONS;
+14 EXCEPTIONS
+15 * * *
+16 (b) Exception. An employer may require an applicant for employment to
+17 submit to a drug test only if all of the following conditions are met:
+18 (1) Conditional offer of employment. The applicant has been given an
+19 offer of employment conditioned on the applicant receiving a negative test
+20 result.
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 7 of 8
+1 (2) Notice. The applicant received written notice of the drug testing
+2 procedure and a list of the drugs to be tested. The notice shall also state that a
+3 positive test for therapeutic levels of medically prescribed drugs tested,
+4 including cannabis for symptom relief, will not be reported. The notice
+5 required under this subdivision may shall not be waived by the applicant.
+6 (3) Administration. The drug test is administered in accordance with
+7 section 514 of this title.
+8 (4) Relationship to job duties. Information relating to the applicant’s
+9 possible use of drugs has a direct relationship to the applicant’s ability to
+10 perform the job duties of the specific position that has been offered.
+11 Sec. 4. 21 V.S.A. § 513 is amended to read:
+12 § 513. DRUG TESTING OF EMPLOYEES; PROHIBITIONS;
+13 EXCEPTIONS
+14 * * *
+15 (c) Exception. Notwithstanding the prohibition in subsection (a) of this
+16 section, an employer may require an individual employee to submit to a drug
+17 test if all the following conditions are met:
+18 (1) Probable cause. The employer or an agent of the employer has
+19 probable cause to believe the employee is using or is under the influence of a
+20 drug on the job.
+VT LEG #379374 v.1
+
+BILL AS INTRODUCED S.90
+2025 Page 8 of 8
+1 (2) Employee assistance program. The employer has available for the
+2 employee tested a bona fide rehabilitation program for alcohol or drug abuse
+3 and such program is provided by the employer or is available to the extent
+4 provided by a policy of health insurance or under contract by a nonprofit
+5 hospital service corporation.
+6 (3) Employee may not be terminated. The employee may shall not be
+7 terminated if the test result is positive and the employee agrees to participate in
+8 and then successfully completes the employee assistance program; however,
+9 the employee may be suspended only for the period of time necessary to
+10 complete the program, but in no event longer than three months. The
+11 employee may be terminated if, after completion of an employee assistance
+12 program, the employer subsequently administers a drug test in compliance with
+13 subdivisions (1) and, (4), and (5) of this subsection and the test result is
+14 positive.
+15 (4) Administration of test. The drug test is administered in accordance
+16 with section 514 of this title.
+17 (5) Relationship to job duties. Information relating to whether the
+18 employee is using or is under the influence of a drug on the job has a direct
+19 relationship to the employee’s ability to perform the employee’s job duties.
+20 Sec. 5. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+VT LEG #379374 v.1
+
+[DELETED:  S P S I S R D S d S e t d p A I S §   * ( ( a]
+[DELETED:  S P c o ( h ( s ( ( f ( § e j ( a 2 ( r a c]
+[DELETED:  S P ( r e p ( p a ( t t c * ( a e t o b c s *]
+[DELETED:  S P S §   ( n a i c h p r r p e w t ( ( ( e]
+[DELETED:  S P ( a ( s ( e ( a d o ( o i m ( c * ( r u]
+[DELETED:  S P e i ( a ( ( V ( t ( c S §   * ( s ( o r]
+[DELETED:  S P ( p p i r ( s ( p p S §   * ( s t ( p d]
+[DELETED:  S P ( e a p h ( t a t c e p s p ( w ( e r S T]

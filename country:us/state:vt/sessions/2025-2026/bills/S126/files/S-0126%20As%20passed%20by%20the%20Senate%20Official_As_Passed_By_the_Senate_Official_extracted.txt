@@ -1,0 +1,1554 @@
+Title: BILLAS INTRODUCED AND PASSED BY SENATE S.126
+Official Title: BILLAS INTRODUCED AND PASSED BY SENATE S.126
+Number of Sections: 1
+Source: versions - As Passed By the Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 32
+1 S.126
+2 Introduced by Committee on Health and Welfare
+3 Date: March 18, 2025
+4 Subject: Health; health care reform; Green Mountain Care Board; Agency of
+5 Human Services; Statewide Health Care Delivery Plan; health
+6 information technology; hospitals
+7 Statement of purpose of bill as introduced: This bill proposes to enact certain
+8 health care payment and delivery system reforms.
+9 An act relating to health care payment and delivery system reform
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 * * * Purpose of the Act; Goals * * *
+12 Sec. 1. PURPOSE; GOALS
+13 The purpose of this act is to promote the transformation of Vermont’s
+14 health care system. In enacting this legislation, the General Assembly intends
+15 to advance the following goals:
+16 (1) improvements in health outcomes, quality of care, and regional
+17 access to services;
+18 (2) an integrated system of care, with robust care coordination and
+19 increased investments in primary care, home health care, and long-term care;
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 2 of 32
+1 (3) stabilizing health care providers, reducing commercial health
+2 insurance premiums, and managing hospital costs based on the total cost of
+3 care, beginning with reference-based pricing and continuing on to global
+4 hospital budgets; and
+5 (4) improving population health and increasing access to health
+6 insurance coverage.
+7 * * * Hospital Budgets and Payment Reform * * *
+8 Sec. 2. 18 V.S.A. § 9375 is amended to read:
+9 § 9375. DUTIES
+10 (a) The Board shall execute its duties consistent with the principles
+11 expressed in section 9371 of this title.
+12 (b) The Board shall have the following duties:
+13 (1) Oversee the development and implementation, and evaluate the
+14 effectiveness, of health care payment and delivery system reforms designed to
+15 control the rate of growth in health care costs; promote seamless care,
+16 administration, and service delivery; and maintain health care quality in
+17 Vermont, including ensuring that the payment reform pilot projects set forth in
+18 this chapter are consistent with such reforms.
+19 (A) Implement by rule, pursuant to 3 V.S.A. chapter 25,
+20 methodologies for achieving payment reform and containing costs that may
+21 include the participation of Medicare and Medicaid, which may include the
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 3 of 32
+1 creation of health care professional cost-containment targets, reference-based
+2 pricing, global payments, bundled payments, global budgets, risk-adjusted
+3 capitated payments, or other uniform payment methods and amounts for
+4 integrated delivery systems, health care professionals, or other provider
+5 arrangements.
+6 * * *
+7 (5) Set rates for health care professionals pursuant to section 9376 of
+8 this title, to be implemented over time beginning with reference-based pricing
+9 as soon as practicable, but not later than 2027, and make adjustments to the
+10 rules on reimbursement methodologies as needed.
+11 (6) Approve, modify, or disapprove requests for health insurance rates
+12 pursuant to 8 V.S.A. § 4062, taking into consideration the requirements in the
+13 underlying statutes,; changes in health care delivery,; changes in payment
+14 methods and amounts, including implementation of reference-based pricing;
+15 protecting insurer solvency,; and other issues at the discretion of the Board.
+16 (7) Review and establish hospital budgets pursuant to chapter 221,
+17 subchapter 7 of this title, including establishing standards for global hospital
+18 budgets that reflect the implementation of reference-based pricing and the total
+19 cost of care targets determined in collaboration with federal partners and other
+20 stakeholders or as set by the Statewide Health Care Delivery Plan developed
+21 pursuant to section 9403 of this title, once established. Beginning not later
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 4 of 32
+1 than hospital fiscal year 2028, the Board shall establish global hospital budgets
+2 for one or more Vermont hospitals that are not critical access hospitals. By
+3 hospital fiscal year 2030, the Board shall establish global hospital budgets for
+4 all Vermont hospitals.
+5 * * *
+6 Sec. 3. 18 V.S.A. § 9376 is amended to read:
+7 § 9376. PAYMENT AMOUNTS; METHODS
+8 (a) Intent. It is the intent of the General Assembly to ensure payments to
+9 health care professionals that are consistent with efficiency, economy, and
+10 quality of care and will permit them to provide, on a solvent basis, effective
+11 and efficient health services that are in the public interest. It is also the intent
+12 of the General Assembly to eliminate the shift of costs between the payers of
+13 health services to ensure that the amount paid to health care professionals is
+14 sufficient to enlist enough providers to ensure that health services are available
+15 to all Vermonters and are distributed equitably.
+16 (b) Rate-setting.
+17 (1) The Board shall set reasonable rates for health care professionals,
+18 health care provider bargaining groups created pursuant to section 9409 of this
+19 title, manufacturers of prescribed products, medical supply companies, and
+20 other companies providing health services or health supplies based on
+21 methodologies pursuant to section 9375 of this title, in order to have a
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 5 of 32
+1 consistent reimbursement amount accepted by these persons. In its discretion,
+2 the Board may implement rate-setting for different groups of health care
+3 professionals over time and need not set rates for all types of health care
+4 professionals. In establishing rates, the Board may consider legitimate
+5 differences in costs among health care professionals, such as the cost of
+6 providing a specific necessary service or services that may not be available
+7 elsewhere in the State, and the need for health care professionals in particular
+8 areas of the State, particularly in underserved geographic or practice shortage
+9 areas.
+10 (2) Nothing in this subsection shall be construed to:
+11 (A) limit the ability of a health care professional to accept less than
+12 the rate established in subdivision (1) of this subsection (b) from a patient
+13 without health insurance or other coverage for the service or services received;
+14 or
+15 (B) reduce or limit the covered services offered by Medicare or
+16 Medicaid.
+17 (c) Methodologies. The Board shall approve payment methodologies that
+18 encourage cost-containment; provision of high-quality, evidence-based health
+19 services in an integrated setting; patient self-management; access to primary
+20 care health services for underserved individuals, populations, and areas; and
+21 healthy lifestyles. Such methodologies shall be consistent with payment
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 6 of 32
+1 reform and with evidence-based practices, and may include fee-for-service
+2 payments if the Board determines such payments to be appropriate.
+3 (d) Supervision. To the extent required to avoid federal antitrust violations
+4 and in furtherance of the policy identified in subsection (a) of this section, the
+5 Board shall facilitate and supervise the participation of health care
+6 professionals and health care provider bargaining groups in the process
+7 described in subsection (b) of this section.
+8 (e) Reference-based pricing.
+9 (1) The Board shall establish reference-based prices that represent the
+10 amounts that health insurers in this State shall pay to hospitals for items
+11 provided and services delivered in Vermont. The purposes of reference-based
+12 pricing are to contain costs and to move health care professionals toward a
+13 site-neutral pricing structure while also allowing the Board to differentiate
+14 prices among health care professionals based on factors such as demographics,
+15 population health in a given hospital service area, payer mix, acuity, social risk
+16 factors, and a specific health care professional’s role in Vermont’s health care
+17 system. The Board shall consult with health insurers, hospitals, other health
+18 care professionals as applicable, the Office of the Health Care Advocate, and
+19 the Agency of Human Services on ways to approach reference-based pricing in
+20 an effort to achieve all-payer alignment on design and implementation of the
+21 program.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 7 of 32
+1 (2)(A) Reference-based prices established pursuant to this subsection (e)
+2 shall be based on a percentage of the Medicare reimbursement rate for the
+3 same or a similar item or service, provided that after the Board establishes
+4 initial prices that are referenced to Medicare, the Board may opt to update the
+5 prices in the future based on a reasonable rate of growth that is separate from
+6 Medicare rates, such as the Medicare Economic Indexmeasure of inflation, in
+7 order to provide predictability and consistency for health care professionals
+8 and payers and to protect against federal funding pressures that may impact
+9 Medicare rates in an unpredictable manner.
+10 (B) In establishing reference-based prices pursuant to this subsection
+11 (e), the Board shall consider the composition of the communities served by the
+12 hospital, including the health of the population, demographic characteristics,
+13 acuity, payer mix, labor costs, social risk factors, and other factors that may
+14 affect the costs of providing care in the hospital service area.
+15 (3)(A) The Board shall begin implementing reference-based pricing by
+16 establishing the amounts that health insurers in this State shall pay to Vermont
+17 hospitals for items provided and services delivered to individuals covered by
+18 the health insurer’s plans as soon as practicable but not later than hospital
+19 fiscal year 2027.
+20 (B) The Board shall implement reference-based pricing in a manner
+21 that does not allow hospitals to charge or collect from patients any amount in
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 8 of 32
+1 excess of the reference-based amount established by the Board for the item
+2 provided or service delivered.
+3 (C) The Board, in collaboration with the Department of Financial
+4 Regulation, shall monitor the implementation of reference-based pricing to
+5 ensure that any decreased prices paid to hospitals result in commensurate
+6 decreases in health insurance premiums. The Board shall post its findings
+7 regarding the alignment between price decreases and premium decreases
+8 annually on its website.
+9 (4) The Board shall identify factors that would necessitate terminating
+10 the use of reference-based pricing in one or more hospitals, such as a reduction
+11 in access to or quality of care.
+12 (5) The Agency of Human Services, in consultation with the Green
+13 Mountain Care Board, may implement reference-based pricing for services
+14 delivered outside a hospital, such as primary care services, and may increase or
+15 decrease the percentage of Medicare or another benchmark as appropriate, first
+16 to enhance access to primary care and later for alignment with the Statewide
+17 Health Care Delivery Plan established pursuant to section 9403 of this title,
+18 once established.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 9 of 32
+1 Sec. 4. 18 V.S.A. § 9454 is amended to read:
+2 § 9454. HOSPITALS; DUTIES
+3 (a) Hospitals shall file the following information at the time and place and
+4 in the manner established by the Board:
+5 * * *
+6 (6) known depreciation schedules on existing buildings, a four-year
+7 capital expenditure projection, and a one-year capital expenditure plan; and
+8 (7) the number of employees of the hospital whose duties are primarily
+9 administrative in nature, as defined by the Board, and the number of
+10 employees whose duties primarily involve delivering health care services
+11 directly to hospital patients;
+12 (8) information regarding base salaries and total compensation for the
+13 hospital’s executive and clinical leadership and for its employees who deliver
+14 health care services directly to hospital patients;
+15 (9) proposals for ways in which the hospital can support community-
+16 based, independent, and nonhospital providers, including mental health and
+17 substance use disorder treatment providers, primary care providers, long-term
+18 care providers, and physical therapists; services provided through the Blueprint
+19 for Health, Choices for Care, and Support and Services at Home (SASH);
+20 investments in the health care workforce; and other nonhospital aspects of
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 10 of 32
+1 Vermont’s health and human services systems that affect population health
+2 outcomes, including the social drivers of health; and
+3 (10) such other information as the Board may require.
+4 (b) Hospitals shall submit information as directed by the Board in order to
+5 maximize hospital budget data standardization and allow the Board to make
+6 direct comparisons of hospital expenses across the health care system.
+7 (c) Hospitals shall adopt a fiscal year that shall begin on October 1.
+8 Sec. 5. 18 V.S.A. § 9456 is amended to read:
+9 § 9456. BUDGET REVIEW
+10 (a) The Board shall conduct reviews of each hospital’s proposed budget
+11 based on the information provided pursuant to this subchapter and in
+12 accordance with a schedule established by the Board.
+13 (b) In conjunction with budget reviews, the Board shall:
+14 (1) review utilization information;
+15 (2) consider the Statewide Health Care Delivery Plan developed
+16 pursuant to section 9403 of this title, once established, including the total cost
+17 of care targets, and consult with the Agency of Human Services to ensure
+18 compliance with federal requirements regarding Medicare and Medicaid;
+19 (3) consider the Health Resource Allocation Plan identifying Vermont’s
+20 critical health needs, goods, services, and resources developed pursuant to
+21 section 9405 of this title;
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 11 of 32
+1 (3)(4) consider the expenditure analysis for the previous year and the
+2 proposed expenditure analysis for the year under review;
+3 (4)(5) consider any reports from professional review organizations;
+4 (6) for a hospital that operates within a hospital network, review the
+5 hospital network’s financial operations as they relate to the budget of the
+6 individual hospital;
+7 (7) exclude revenue derived from primary care, mental health care, and
+8 substance use disorder treatment services when determining a hospital’s net
+9 patient revenue and any total cost of care targets;
+10 (5)(8) solicit public comment on all aspects of hospital costs and use
+11 and on the budgets proposed by individual hospitals;
+12 (6)(9) meet with hospitals to review and discuss hospital budgets for the
+13 forthcoming fiscal year;
+14 (7)(10) give public notice of the meetings with hospitals, and invite the
+15 public to attend and to comment on the proposed budgets;
+16 (8)(11) consider the extent to which costs incurred by the hospital in
+17 connection with services provided to Medicaid beneficiaries are being charged
+18 to non-Medicaid health benefit plans and other non-Medicaid payers;
+19 (9)(12) require each hospital to file an analysis that reflects a reduction
+20 in net revenue needs from non-Medicaid payers equal to any anticipated
+21 increase in Medicaid, Medicare, or another public health care program
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 12 of 32
+1 reimbursements, and to any reduction in bad debt or charity care due to an
+2 increase in the number of insured individuals;
+3 (10)(13) require each hospital to provide information on administrative
+4 costs, as defined by the Board, including specific information on the amounts
+5 spent on marketing and advertising costs;
+6 (11)(14) require each hospital to create or maintain connectivity to the
+7 State’s Health Information Exchange Network in accordance with the criteria
+8 established by the Vermont Information Technology Leaders, Inc., pursuant to
+9 subsection 9352(i) of this title, provided that the Board shall not require a
+10 hospital to create a level of connectivity that the State’s Exchange is unable to
+11 support;
+12 (12)(15) review the hospital’s investments in workforce development
+13 initiatives, including nursing workforce pipeline collaborations with nursing
+14 schools and compensation and other support for nurse preceptors; and
+15 (13)(16) consider the salaries for the hospital’s executive and clinical
+16 leadership, including variable payments and incentive plans, and the hospital’s
+17 salary spread, including a comparison of median salaries to the medians of
+18 northern New England states and a comparison of the base salaries and total
+19 compensation for the hospital’s executive and clinic leadership with those of
+20 the hospital’s lowest-paid employees who deliver health care services directly
+21 to hospital patients; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 13 of 32
+1 (17) consider the number of employees of the hospital whose duties are
+2 primarily administrative in nature, as defined by the Board, compared with the
+3 number of employees whose duties primarily involve delivering health care
+4 services directly to hospital patients.
+5 (c) Individual hospital budgets established under this section shall:
+6 (1) be consistent, to the extent practicable, with the Statewide Health
+7 Care Delivery Plan, once established, including the total cost of care targets,
+8 and with the Health Resource Allocation Plan;
+9 (2) reflect the reference-based prices established by the Board pursuant
+10 to section 9376 of this title;
+11 (3) take into consideration national, regional, or in-state peer group
+12 norms, according to indicators, ratios, and statistics established by the Board;
+13 (3)(4) promote efficient and economic operation of the hospital;
+14 (4)(5) reflect budget performances for prior years;
+15 (5)(6) include a finding that the analysis provided in subdivision (b)(9)
+16 (b)(12) of this section is a reasonable methodology for reflecting a reduction in
+17 net revenues for non-Medicaid payers; and
+18 (6)(7) demonstrate that they support equal access to appropriate mental
+19 health care that meets standards of quality, access, and affordability equivalent
+20 to other components of health care as part of an integrated, holistic system of
+21 care; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 14 of 32
+1 (8) include meaningful variable payments and incentive plans for
+2 hospitals that are consistent with this section and with the principles for health
+3 care reform expressed in section 9371 of this title.
+4 (d)(1)(A) Annually, the Board shall establish a budget for each hospital on
+5 or before September 15, followed by a written decision by October 1. Each
+6 hospital shall operate within the budget established under this section.
+7 (B)(i) Beginning not later than hospital fiscal year 2028, the Board
+8 shall establish global hospital budgets for one or more Vermont hospitals that
+9 are not critical access hospitals. Not later than hospital fiscal year 2030, the
+10 Board shall establish global hospital budgets for all Vermont hospitals.
+11 (ii) Global hospital budgets established pursuant to this section
+12 shall include Medicare to the extent permitted under federal law but shall not
+13 include Medicaid.
+14 * * *
+15 (e)(1) The Board, in consultation with the Vermont Program for Quality in
+16 Health Care, shall utilize mechanisms to measure hospital costs, quality, and
+17 access and alignment with the Statewide Health Care Delivery Plan, once
+18 established.
+19 (2)(A) Except as provided in subdivision (D) of this subdivision (2), a
+20 hospital that proposes to reduce or eliminate any service in order to comply
+21 with a budget established under this section shall provide a notice of intent to
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 15 of 32
+1 the Board, the Agency of Human Services, the Office of the Health Care
+2 Advocate, and the members of the General Assembly who represent the
+3 hospital service area not less than 90 days prior to the proposed reduction or
+4 elimination.
+5 (B) The notice shall explain the rationale for the proposed reduction
+6 or elimination and describe how it is consistent with the Statewide Health Care
+7 Delivery Plan, once established, and the hospital’s most recent community
+8 health needs assessment conducted pursuant to section 9405a of this title and
+9 26 U.S.C. § 501(r)(3).
+10 (C) The Board may evaluate the proposed reduction or elimination
+11 for consistency with the Statewide Health Care Delivery Plan, once established
+12 and the community health needs assessment, and may modify the hospital’s
+13 budget or take such additional actions as the Board deems appropriate to
+14 preserve access to necessary services.
+15 (D) A service that has been identified for reduction or elimination in
+16 connection with the transformation efforts undertaken by the Board and the
+17 Agency of Human Services pursuant to 2022 Acts and Resolves No. 167 does
+18 not need to comply with subdivisions (A)–(C) of this subdivision (2).
+19 (3) The Board, in collaboration with the Department of Financial
+20 Regulation, shall monitor the implementation of any authorized decrease in
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 16 of 32
+1 hospital services to determine its benefits to Vermonters or to Vermont’s health
+2 care system, or both.
+3 (4) The Board may establish a process to define, on an annual basis,
+4 criteria for hospitals to meet, such as utilization and inflation benchmarks.
+5 (5) The Board may waive one or more of the review processes listed in
+6 subsection (b) of this section.
+7 * * *
+8 Sec. 6. 18 V.S.A. § 9458 is added to read:
+9 § 9458. HOSPITALNETWORKS; STRUCTURE; FINANCIAL
+10 OPERATIONS
+11 (a) As used in this section, “hospital network” means a system comprising
+12 two or more affiliated hospitals, and may include other health care
+13 professionals and facilities, that derives 50 percent or more of its operating
+14 revenue, at the consolidated network level, from Vermont hospitals and in
+15 which the affiliated hospitals deliver health care services in a coordinated
+16 manner using an integrated financial and governance structure.
+17 (b) The Board may review and evaluate the structure of a hospital network
+18 to determine:
+19 (1) whether any network operations should be organized and operated
+20 out of a hospital instead of at the network; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 17 of 32
+1 (2) whether the existence and operation of a network provides value to
+2 Vermonters, is in the public interest, and is consistent with the principles for
+3 health care reform expressed in section 9371 of this title and with the
+4 Statewide Health Care Delivery Plan, once established.
+5 (c) In order to protect the public interest, the Board may, on its own
+6 initiative, investigate the financial operations of a hospital network, including
+7 compensation of the network’s employees and executive leadership.
+8 (d) The Board may recommend or take appropriate action as necessary to
+9 correct any aspect of the structure of a hospital network or its financial
+10 operations that are inconsistent with the principles for health care reform
+11 expressed in section 9371 of this title or with the Statewide Health Care
+12 Delivery Plan, once established.
+13 (e) Any final action, order, or other determination by the Board pursuant to
+14 this section shall be subject to appeal in accordance with the provisions of
+15 section 9381 of this title.
+16 * * * Health Care Contracts * * *
+17 Sec. 7. 18 V.S.A. § 9418c is amended to read:
+18 § 9418c. FAIR CONTRACT STANDARDS
+19 * * *
+20 (e) The requirements of subdivision (b)(5) of this section do not prohibit a
+21 contracting entity from requiring a reasonable confidentiality agreement
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 18 of 32
+1 between the provider and the contracting entity regarding the terms of the
+2 proposed health care contract. Upon request, a contracting entity or provider
+3 shall provide an unredacted copy of an executed or proposed health care
+4 contract to the Department of Financial Regulation or the Green Mountain
+5 Care Board, or both.
+6 * * * Statewide Health Care Delivery Plan; Health Care Delivery
+7 Advisory Committee * * *
+8 Sec. 8. 18 V.S.A. § 9403 is added to read:
+9 § 9403. STATEWIDE HEALTH CARE DELIVERY PLAN
+10 (a) The Agency of Human Services, in collaboration with the Green
+11 Mountain Care Board, the Department of Financial Regulation, the Vermont
+12 Program for Quality in Health Care, the Office of the Health Care Advocate,
+13 the Health Care Delivery Advisory Committee established in section 9403a of
+14 this title, and other interested stakeholders, shall lead development of an
+15 integrated Statewide Health Care Delivery Plan as set forth in this section.
+16 (b) The Plan shall:
+17 (1) Align with the principles for health care reform expressed in section
+18 9371 of this title.
+19 (2) Promote access to high-quality, cost-effective acute care, primary
+20 care, chronic care, long-term care, and hospital-based, independent, and
+21 community-based services across Vermont.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 19 of 32
+1 (3) Strive to make mental health services, substance use disorder
+2 treatment services, emergency medical services, nonemergency medical
+3 services, and nonmedical services and supports available in each region of
+4 Vermont.
+5 (4) Provide annual targets for the total cost of care across Vermont’s
+6 health care system and include reasonable annual cost growth rates while
+7 excluding from hospital total cost of care targets all revenue derived from a
+8 hospital’s investments in primary care, mental health care, and substance use
+9 disorder treatment services. Using these total cost of care targets, the Plan
+10 shall identify appropriate allocations of health care resources and services
+11 across the State that balance quality, access, and cost containment. The Plan
+12 shall also establish targets for the percentages of overall health care spending
+13 that should reflect spending on primary care services, including mental health
+14 services, and preventive care services, which targets shall be aligned with the
+15 total cost of care targets.
+16 (5) Build on data and information from:
+17 (A) the transformation planning resulting from 2022 Acts and
+18 Resolves No. 167, Secs. 1 and 2;
+19 (B) the expenditure analysis and health care spending estimate
+20 developed pursuant to section 9383 of this title;
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 20 of 32
+1 (C) the State Health Improvement Plan adopted pursuant to
+2 subsection 9405(a) of this title;
+3 (D) the Health Resource Allocation Plan published by the Green
+4 Mountain Care Board in accordance with subsection 9405(b) of this title;
+5 (E) hospitals’ community health needs assessments and strategic
+6 planning conducted in accordance with section 9405a of this title;
+7 (F) hospital and ambulatory surgical center quality information
+8 published by the Department of Health pursuant to section 9405b of this title;
+9 (G) the statewide quality assurance program maintained by the
+10 Vermont Program for Quality in Health Care pursuant to section 9416 of this
+11 title; and
+12 (H) such additional sources of data and information as the Board,
+13 Agency, and Department deem appropriate.
+14 (6) Identify:
+15 (A) gaps in access to care, as well as circumstances in which service
+16 closures or consolidations could result in improvements in quality, access, and
+17 affordability;
+18 (B) opportunities to reduce administrative burdens, such as
+19 complexities in contracting and payment terms and duplicative quality
+20 reporting requirements; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 21 of 32
+1 (C) federal, State, and other barriers to achieving the Plan’s goals
+2 and, to the extent feasible, how those barriers can be removed or mitigated.
+3 (c) The Green Mountain Care Board shall contribute data and expertise
+4 related to its regulatory duties and its efforts pursuant to 2022 Acts and
+5 Resolves No. 167. The Agency of Human Services shall contribute data and
+6 expertise related to its role as the State Medicaid agency, its work with
+7 community-based providers, and its efforts pursuant to 2022 Acts and
+8 Resolves No. 167.
+9 (d)(1) From 2025 through 2027, the Agency of Human Services shall
+10 engage with stakeholders; collect and analyze data; gather information
+11 obtained through the processes established in 2022 Acts and Resolves No. 167,
+12 Secs. 1 and 2; and solicit input from the public.
+13 (2) In 2028, the Agency shall prepare the Plan.
+14 (3) On or before January 15, 2029, the Agency shall present the Plan to
+15 the House Committees on Health Care and on Human Services and the Senate
+16 Committee on Health and Welfare.
+17 (4) The Agency shall prepare an updated Plan every three years and
+18 shall present it to the General Assembly on or before January 15 every third
+19 year after 2029.
+20 Sec. 9. 18 V.S.A. § 9403a is added to read:
+21 § 9403a. HEALTH CARE DELIVERY ADVISORY COMMITTEE
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 22 of 32
+1 (a) There is created the Health Care Delivery Advisory Committee to:
+2 (1) establish affordability benchmarks, including for affordability of
+3 commercial health insurance;
+4 (2) evaluate and monitor the performance of Vermont’s health care
+5 system and its impacts on population health outcomes;
+6 (3) collaborate with the Green Mountain Care Board, the Agency of
+7 Human Services, the Department of Financial Regulation, and other interested
+8 stakeholders in the development and maintenance of the Statewide Health Care
+9 Delivery Plan developed pursuant to section 9403 of this title;
+10 (4) advise the Green Mountain Care Board on the design and
+11 implementation of an ongoing evaluation process to continuously monitor
+12 current performance in the health care delivery system; and
+13 (5) provide coordinated and consensus recommendations to the General
+14 Assembly on issues related to health care delivery and population health.
+15 (b)(1) The Advisory Committee shall be composed of the following 14
+16 members:
+17 (A) the Secretary of Human Services or designee;
+18 (B) the Chair of the Green Mountain Care Board or designee;
+19 (C) the Chief Health Care Advocate from the Office of the Health
+20 Care Advocate or designee;
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 23 of 32
+1 (D) one representative of commercial health insurers offering major
+2 medical health insurance plans in Vermont, selected by the Commissioner of
+3 Financial Regulation;
+4 (E) two representatives of Vermont hospitals, selected by the
+5 Vermont Association of Hospitals and Health Systems, who shall represent
+6 hospitals that are located in different regions of the State and that face different
+7 levels of financial stability;
+8 (F) one representative of Vermont’s federally qualified health
+9 centers, selected by Bi-State Primary Care Association;
+10 (G) one representative of independent physician practices, selected
+11 jointly by the Vermont Medical Society and HealthFirst;
+12 (H) one representative of Vermont’s free clinic programs, selected by
+13 Vermont’s Free & Referral Clinics;
+14 (I) one representative of Vermont’s designated and specialized
+15 service agencies, selected by Vermont Care Partners;
+16 (J) one preferred provider from outside the designated and
+17 specialized service agency system, selected by the Commissioner of Health;
+18 (K) one Vermont-licensed mental health professional from an
+19 independent practice, selected by the Commissioner of Mental Health;
+20 (L) one representative of Vermont’s home health agencies, selected
+21 jointly by the VNAs of Vermont and Bayada Home Health Care; and
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 24 of 32
+1 (M) one representative of long-term care facilities, selected by the
+2 Vermont Health Care Association.
+3 (2) The Secretary of Human Services or designee shall be the Chair of
+4 the Advisory Committee.
+5 (3) The Agency of Human Services shall provide administrative and
+6 technical assistance to the Advisory Committee.
+7 * * * Data Integration; Data Sharing * * *
+8 Sec. 10. 18 V.S.A. § 9353 is added to read:
+9 § 9353. INTEGRATION OF HEALTH CARE DATA
+10 (a) The Agency of Human Services shall collaborate with the Health
+11 Information Exchange Steering Committee in the development of an integrated
+12 system of clinical and claims data in order to improve patient, provider, and
+13 payer access to relevant information and reduce administrative burdens on
+14 providers.
+15 (b) The Agency’s process shall:
+16 (1) align with the statewide Health Information Technology Plan
+17 established pursuant to section 9351 of this title;
+18 (2) utilize the expertise of the Health Information Exchange Steering
+19 Committee;
+20 (3) incorporate appropriate privacy and security standards;
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 25 of 32
+1 (4) determine how best to integrate clinical data, claims data, and data
+2 regarding social drivers of health and health-related social needs;
+3 (5) ensure interoperability among contributing data sources and
+4 applications to enable a Unified Health Data Space that is usable by all
+5 stakeholders;
+6 (6) identify the resources necessary to complete data linkages for
+7 clinical and research usage;
+8 (7) establish a timeline for setup and access to the integrated system;
+9 (8) develop and implement a system that ensures rapid access for
+10 patients, providers, and payers; and
+11 (9) identify additional opportunities for future development, including
+12 incorporating new data types and larger populations.
+13 (c) Health insurers, as defined in section 9402 of this title, shall provide
+14 clinical and claims data to the Agency of Human Services as directed by the
+15 Agency in order to facilitate the integrated system of clinical and claims data
+16 as set forth in this section.
+17 (d) The Agency shall provide access to data to State agencies and health
+18 care providers as needed to support the goals of the Statewide Health Care
+19 Delivery Plan established pursuant to section 9403 of this title, once
+20 established, to the extent permitted by the data use agreements in place for
+21 each data set.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 26 of 32
+1 (e) On or before January 15 annually, the Agency of Human Services shall
+2 provide an update to the House Committees on Health Care and on Human
+3 Services and the Senate Committee on Health and Welfare regarding the
+4 development and implementation of the integrated system of clinical and
+5 claims data in accordance with this section.
+6 Sec. 11. 18 V.S.A. § 9374 is amended to read:
+7 § 9374. BOARD MEMBERSHIP; AUTHORITY
+8 * * *
+9 (i)(1) In addition to any other penalties and in order to enforce the
+10 provisions of this chapter and empower the Board to perform its duties, the
+11 Chair of the Board may issue subpoenas, examine persons, administer oaths,
+12 and require production of papers and records. Any subpoena or notice to
+13 produce may be served by registered or certified mail or in person by an agent
+14 of the Chair. Service by registered or certified mail shall be effective three
+15 business days after mailing. Any subpoena or notice to produce shall provide
+16 at least sixbusiness days’ time from service within which to comply, except
+17 that the Chair may shorten the time for compliance for good cause shown.
+18 Any subpoena or notice to produce sent by registered or certified mail, postage
+19 prepaid, shall constitute service on the person to whom it is addressed.
+20 (2) Each witness who appears before the Chair under subpoena shall
+21 receive a fee and mileage as provided for witnesses in civil cases in Superior
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 27 of 32
+1 Courts; provided, however, any person subject to the Board’s authority shall
+2 not be eligible to receive fees or mileage under this section.
+3 (3) The Board may share any information, papers, or records it receives
+4 pursuant to a subpoena or notice to produce issued under this section with
+5 another State agency as appropriate to the work of that agency, provided that
+6 the receiving agency agrees to maintain the confidentiality of any information,
+7 papers, or records that are exempt from public inspection and copying under
+8 the Public Records Act.
+9 * * *
+10 * * * Retaining Accountable Care Organization Capabilities * * *
+11 Sec. 12. RETAINING ACCOUNTABLE CARE ORGANIZATION
+12 CAPABILITIES; GREEN MOUNTAIN CARE BOARD;
+13 BLUEPRINT FOR HEALTH; REPORT
+14 The Agency of Human Services shall explore opportunities to retain
+15 capabilities developed by or on behalf of a certified accountable care
+16 organization that were funded in whole or in part using State or federal
+17 monies, or both, and that have the potential to make beneficial contributions to
+18 Vermont’s health care system, such as capabilities related to comprehensive
+19 payment reform and quality data measurement and reporting. On or before
+20 November 1, 2025, the Agency of Human Services shall report its findings and
+21 recommendations to the Health Reform Oversight Committee.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 28 of 32
+1 * * * Implementation Updates * * *
+2 Sec. 13. AGENCY OF HUMAN SERVICES; IMPLEMENTATION;
+3 REPORT
+4 On or before November 15, 2025, the Agency of Human Services shall
+5 provide an update to the Health Reform Oversight Committee regarding the
+6 Agency’s implementation of this act, including the status of its efforts to
+7 develop the Statewide Health Care Delivery Plan, advance health care data
+8 integration, and explore opportunities to retain accountable care organization
+9 capabilities, as well as on its hospital transformation activities pursuant to
+10 2022 Acts and Resolves No. 167 and the effects of these efforts and activities
+11 on Vermonters and on Vermont’s health care system.
+12 Sec. 14. GREEN MOUNTAIN CARE BOARD; IMPLEMENTATION;
+13 REPORT
+14 On or before February 15, 2026, the Green Mountain Care Board shall
+15 provide an update to the House Committee on Health Care and the Senate
+16 Committee on Health and Welfare regarding the Board’s implementation of
+17 this act, including the status of its efforts to establish methodologies for and
+18 begin implementation of reference-based pricing and development of global
+19 hospital budgets, and the effects of these efforts and activities on Vermonters
+20 and on Vermont’s health care system.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 29 of 32
+1 Sec. 15. 3 V.S.A. § 3027 is amended to read:
+2 § 3027. HEALTH CARE SYSTEM REFORM; IMPROVING QUALITY
+3 AND AFFORDABILITY; REPORT
+4 (a) The Director of Health Care Reform in the Agency of Human Services
+5 shall be responsible for the coordination of health care system reform efforts
+6 among Executive Branch agencies, departments, and offices, and for
+7 coordinating with the Green Mountain Care Board established in 18 V.S.A.
+8 chapter 220.
+9 (b) On or before February 15 annually, the Agency of Human Services
+10 shall provide an update to the House Committee on Health Care and the Senate
+11 Committee on Health and Welfare regarding the status of its efforts to develop
+12 and maintain the Statewide Health Care Delivery Plan in accordance with 18
+13 V.S.A. § 9403, advance health care data integration as set forth in 18 V.S.A.
+14 § 9353, and coordinate hospital transformation activities pursuant to 2022
+15 Acts and Resolves No. 167, and the effects of these efforts and activities on
+16 Vermonters and on Vermont’s health care system.
+17 Sec. 16. 18 V.S.A. § 9375(d) is amended to read:
+18 (d) Annually on or before January 15, the Board shall submit a report of its
+19 activities for the preceding calendar year to the House Committee on Health
+20 Care and the Senate Committee on Health and Welfare.
+21 (1) The report shall include:
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 30 of 32
+1 * * *
+2 (G) the status of its efforts to establish methodologies for and begin
+3 implementation of reference-based pricing and development of global hospital
+4 budgets, and the effects of these efforts and activities on Vermonters and on
+5 Vermont’s health care system;
+6 (H) any recommendations for modifications to Vermont statutes; and
+7 (H)(I) any actual or anticipated impacts on the work of the Board as
+8 a result of modifications to federal laws, regulations, or programs.
+9 * * *
+10 * * * Positions; Appropriations * * *
+11 Sec. 17. GREEN MOUNTAIN CARE BOARD; AGENCY OF HUMAN
+12 SERVICES; POSITIONS
+13 (a)(1) The establishment of the following five new permanent classified
+14 positions is authorized at the Green Mountain Care Board in fiscal year 2026:
+15 (A) one Director, Global Budgets;
+16 (B) one Project Manager, Global Budgets;
+17 (C) one Director, Reference-Based Pricing;
+18 (D) one Project Manager, Reference-Based Pricing; and
+19 (E) one Staff Attorney.
+20 (2) The establishment of the following two classified limited-service
+21 positions is authorized at the Agency of Human Services in fiscal year 2026:
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 31 of 32
+1 (A) one Health Care Reform (HCR) Integration Manager; and
+2 (B) one Administrative Services Director II.
+3 (3) These positions shall be transferred and converted from existing
+4 vacant positions in the Executive Branch.
+5 (b) It is the intent of the General Assembly to authorize the establishment
+6 of an additional five new permanent positions at the Green Mountain Care
+7 Board in fiscal year 2027 and another five new permanent positions in fiscal
+8 year 2028.
+9 Sec. 18. APPROPRIATIONS
+10 (a) The sum of $1,525,000.00 is appropriated from the General Fund to the
+11 Agency of Human Services in fiscal year 2026 for use as follows:
+12 (1) $250,000.00 for grants to hospitals as needed for transformation
+13 efforts initiated pursuant to 2022 Acts and Resolves No. 167 and to transition
+14 their systems to implement reference-based pricing;
+15 (2) $100,000.00 for expenses associated with development of the
+16 Statewide Health Care Delivery Plan;
+17 (3) $1,000,000.00 for contracts for consultants and other expenses
+18 associated with implementation of this act; and
+19 (4) $175,000.00 for the positions authorized in Sec. 17(a)(2) of this act.
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 32 of 32
+1 (b) The sum of $250,000.00 is appropriated from the Health IT-Fund to the
+2 Agency of Human Services in fiscal year 2026 for grants to health care
+3 providers for data integration in accordance with Sec. 10 of this act.
+4 (c) The sum of $1,350,000.00 is appropriated from the General Fund to the
+5 Green Mountain Care Board in fiscal year 2026 for use as follows:
+6 (1) $850,000.00 for the positions authorized in Sec. 17(a)(1) of this act;
+7 and
+8 (2) $500,000.00 for contracts, including contracts for assistance with
+9 implementing reference-based pricing in accordance with this act.
+10 (d) Notwithstanding any provision of 32 V.S.A. § 10301 to the contrary,
+11 the sum of $150,000.00 is appropriated from the Health IT-Fund to the Green
+12 Mountain Care Board in fiscal year 2026 for expenses associated with
+13 increased standardization of electronic hospital budget data submissions in
+14 accordance with Sec. 4 of this act.
+15 * * * Effective Dates * * *
+16 Sec. 19. EFFECTIVE DATES
+17 (a) Secs. 17 (positions) and 18 (appropriations) shall take effect on July 1,
+18 2025.
+19 (b) The remaining sections shall take effect on passage.
+* * * Effective Date * * *
+Sec. 17. EFFECTIVE DATE
+This act shall take effect on passage.
+[DELETED: LASIDADPDBYSES5Pe1of3SIdbyCeonHhadWD:Mh1,2S:H;hhcer;GnMnCeB;AyoHnS;SeHhCeDyP;hint;hStofpeofblasi:TsblpstoetchhceptaddysmrAnatrgtohhceptaddysmr0ItishyedbyteGlAyofteSeofV1***PeofteA;Gs**2S.1.P;G3TepeoftsatistopetetnofV4hhces.Inegtsl,teGlAyi5toaetefgg6()isinhho,qyofc,adr7astos8()anidsmofc,whrtcecna9idisinpyc,hehhc,adlmc]
+[DELETED: LASIDADPDBYSES5Pe2of3()sghhcep,rgclhiep,admghlcsbdontetlctoc,bgwhrdpgadcgontoghlb;a()igpnhhadigastohiec***HlBsadPtRm**S.2.18V.§5isadtor§9.D0()TeBdsleeisdsctwhtep1edinsn91oftst2()TeBdslhetefgd3()Oetedtadi,adeet4e,ofhhceptaddysmrsddt5cltereofghinhhcec;pessc6a,adsed;admnhhceqyi7V,igegttteptrmptpsstfhi8tscraectwhshr9()Itbyr,ptto3V.cr20msfragptrmadcgcsttm1ietepnofMeadM,whmyiet]
+[DELETED: LASIDADPDBYSES5Pe3of3cnofhhceplctt,rp,glp,bdp,glb,rcdp,ororumptmsadasfiddys,hhcep,ororpa**()Strsfrhhcepspttosn96otst,tobeidortebgwhrdpassnasp,btntlrtn2,admeastot0rsonrtmsasn1()A,m,ordersfrhhier2ptto8V.§4,tgiocntersint3ugs;csinhhced;csinp4msada,iginofrdp5pgirs;adorisattednofteB6()Rwadehhlbspttocr27sr7oftst,igegssfrglh8bsttrtteinofrdpgadtet9ctofcetsddincnwhflpsado0ssorasstbyteSeHhCeDyPnd1pttosn93oftst,oee.Bgntl]
+[DELETED: LASIDADPDBYSES5Pe4of3tnhlflyr2,teBdslehglhlbfroeormeVthsttaentclash.Bhlflyr2,teBdslehglhlbsfalVth**S.3.18V.§6isadtor§9.PTA;M()I.ItisteitofteGlAytoeepsthhcepsttaectwhe,e,a0qyofceadwlpttmtop,onastb,e1adethhssttaeintepci.Itisaotei2ofteGlAytoeetestofcsbntepso3hhsstoeettteatpdtohhcepsi4sttoetehpstoeetthhssaea5toalVsadaedde6()R7()TeBdslstrersfrhhcep8hhceprbggscdpttosn99oft9t,msofpdp,mlsyc,a0orcspghhssorhhssbdo1mspttosn95oftst,inortohe]
+[DELETED: LASIDADPDBYSES5Pe5of3ctrtatadbytep.InisdteBdmyitrgfrdtgsofhhcpsorteadndntstrsfraltsofhhcp.Inegr,teBdmycrldsincsaghhcep,shastectopgascnyseorssttmyntbeaeeinteS,adtendfrhhcepsinpasofteS,pyinudgcorpesa0()Ngintssnslbecdt1()ltteayofahhcepltoatlst2tereedinsn()oftssn()fmap3wthhieororcefrteseorssr4o5()reorlttecdssodbyMeo6M7()M.TeBdslaeptmst8eec;pnofh,edh9ssinanids;pts;astop0cehhssfrudi,p,ada;a1hyl.Shmsslbectwhp]
+[DELETED: LASIDADPDBYSES5Pe6of3rmadwhedp,admyiefpsifteBddsshpstobea()S.Toteetrdtoadflatvadinfeoftepyidinsn()oftss,tBdslfeadsetepnofhhcpsadhhceprbggsintepddinsn()oftss()Rdp()TeBdslehrdpsttrtt0astthhisintsSeslpytohsfri1pdadssddinV.Tepsofr2pgaetocncsadtomehhcepstd3slpgseweaoagteBdtod4psaghhcepsbdonfsshasd5pnhhinagnhlsea,prm,a,slr6f,adaschhcepsreinVshhc7s.TeBdslctwhhhi,h,orh8cepsasa,teOeofteHhCeA,a9teAyofHnSsonwstoahrdpgi0anettoaearatondnadinoft1p]
+[DELETED: LASIDADPDBYSES5Pe7of3()Rdpsedpttotssn(slbebdonapeofteMertrefrtseorasrimors,pdttarteBdeilpsttaerdtoM,teBdmyottouetpsintefebdonarereofghttissefMer,shasteMeEcIxmeofi,iortopepyadcyfrhhcepadpsadtoptatflfgpsttmyiMersinanuem0()Inegrdpspttotss1(,teBdslcrtecnoftecssdbyt2h,igtehhoftep,dcc3a,prm,lrc,slrkf,adorfsttm4attecsofpgceintehlsea5()TeBdslbnigrdpgb6egteastthhisintsSeslpytoV7hsfrispdadssddtoiscdb8tehhispsassnaspebtntlrtnh9flyr20()TeBdslitrdpginam1ttdsntawhstoceorctfmpsayati]
+[DELETED: LASIDADPDBYSES5Pe8of3esofterdatedbyteBdfrteipdorsed()TeB,incnwhteDtofFR,slmrteinofrdpgteettayddpspdtohsrtincdsinhhiep.TeBdslptisfrgteatbnpedsadpmdayonisw()TeBdsliyfsttwdnet0teueofrdpginoeormeh,shasar1inastoorqyofc2()TeAyofHnS,incnwhteG3MnCeB,myitrdpgfrs4ddoeah,shaspyces,admyieo5detepeofMeorarbkasa,f6toeeastopyceadlrfratwhteS7HhCeDyPnedpttosn93oftst8oee]
+[DELETED: LASIDADPDBYSES5Pe9of3S.4.18V.§4isadtor§9.H;D()HsslfetefginatteteadpeaintemredbyteB**()kndnssonegb,afcleep,adaorcleep;a()tenrofesoftehlwedsaepaeinn,asddbyteB,adtenro0eswedspyiedghhces1dytohlp2()inrgbessadtlcnfrt3hseeadcllpadfriseswod4hhcessdytohlp5()psfrwsinwhtehlcnstc6b,i,adnlp,igmlhha7seuedrttp,pycep,l8cep,adplt;sspdthteB9frH,CsfrC,adStadSsatHe(0isintehhcew;adornlaso]
+[DELETED: LASIDADPDBYSES5Pe10of3Vshhadhnssssttatpnho,igtesldsofh;a()shorinasteBdmyr()HsslstinasddbyteBdinortmehlbtdasnadawteBdtomdtcsofhlesastehhces()HsslataflyrttslbnonOr1S.5.18V.§6isadtor§9.BTR0()TeBdslctrsofehhspdb1bdonteinpdpttotssradi2aewhaseedbyteB3()Incnwhbtr,teBds4()rwuni5()crteSeHhCeDyPnd6pttosn93oftst,oee,igtetlc7ofcet,adctwhteAyofHnSstoe8cewhflrsrgMeadM9()crteHhReAnPnigV0clhhn,g,s,adrsddptt1sn95oftst]
+[DELETED: LASIDADPDBYSES5Pe11of3()crteeeasfrtepsyradtpdeeasfrteyrurr()crayrsfmplrwo()frahlttoswnahln,rwthlnsflosastyretotebtoftilh()eereddfmpyc,mlhhc,aseuedrttsswndgahsnptreadaytlctofcet0()stpcctonalasofhlcsadu1adontebspdbyilh2()mtwhhstorwaddshlbsfrt3fgfly4()gepcneoftemswhh,adiet5pctoadadtoctontepdb6()crteettowhcsidbytehli7cnwhsspdtoMdbsaebgc8tondhhbtpsadorndp9()reehhltofeanasttrsar0inntrensfmndpseltoaya1ieinM,M,orarpchhcep]
+[DELETED: LASIDADPDBYSES5Pe12of3r,adtoayrninbddtorcycedetoaieintenrofidi()reehhltopeinonac,asddbyteB,igscinonteastonmgadagc()reehhltoceormncytotSsHhInEeNkinaewhtecedbyteVtInTyL,I,pttsn9)oftst,pdttteBdslntre0hltoceallofcyttteSsEeisuet1s2()rwtehsisinwed3i,igngwepecswhn4ssadcnadorstfrnep;a5()crtessfrtehseeadc6l,igvepsadiep,adteh7sys,igacnofmnsstotemso8nnNwEdssadacnoftebessadt9cnfrtehseeadcclpwhteo0tehsldeswodrhhcessd1tohlp;a]
+[DELETED: LASIDADPDBYSES5Pe13of3()crtenrofesoftehlwedsapyaeinn,asddbyteB,cdwhtnrofeswedspyiedghhcssdytohlp()Ilhlbsedurtssns()bec,toteetp,whteSeHCeDyP,oee,igtetlctofcetadwhteHhReAnP()rtterdpsedbyteBdp0tosn96oftst1()teiocnn,r,orieprg2n,agtoi,r,adssedbyteB3()peetadeconofteh4()rtbtpsfrpry5()ieafgttteaspdinsn(6()oftssnisaremyfrrgarni7ntrsfrndp;a8()detttystelastoaem9hhcettmsssofq,a,adaye0toorcsofhhceasptofani,hcsmo1c;a]
+[DELETED: LASIDADPDBYSES5Pe14of3()iemlvepsadiepsfhsttaectwhtssnadwhtepsfrhcermedinsn91oftst()A,teBdslehabtfrehhloorbeSr1,fdbyawndnbyOr1.Ehlsloewntebtedurtss()Bgntlrtnhlflyr2,teBslehglhlbsfroeormeVthstaentclash.Ntlrtnhlflyr2,t0BdslehglhlbsfralVth1()Glhlbsedpttotss2slieMetoteetpdurfllwbtsln3ieM4**5()TeB,incnwhteVtPmfrQyi6HhC,sluemstomehlc,q,a7asadatwhteSeHhCeDyP,o8e9()Etaspdinsn()oftssn(,0hlttpstoreoreeayseinortoc1whabtedurtssnslpeaneofitt]
+[DELETED: LASIDADPDBYSES5Pe15of3teB,teAyofHnS,teOeofteHhCA,adtemsofteGlAywortthlseaantlstn90dsprtotepdrnoe()TeneslenterefrtepdrorenaddehwitisctwhteSeHhCDyP,oee,adtehsmtrtchhnsatcdpttosn9aoftstea26U.§0()TeBdmyeetepdrnore1frcywhteSeHhCeDyP,oee2adtecyhhnsa,admymyteh3btorteshalasasteBddsaet4peastonys5()Asetthsbnidfrrnoreni6cnwhtetnesunbyteBdadt7AyofHnSsptto22AsadRsN.17d8ntndtocywhss()oftssn(9()TeB,incnwhteDtofF0R,slmrteinofayaddei]
+[DELETED: LASIDADPDBYSES5Pe16of3hlsstodeisbstoVsortoVshces,orb()TeBdmyehapstod,onanalbcafrhstom,shasunadinb()TeBdmyweoeormeofterwpsldisn()oftss**S.6.18V.§8isadtor§.HLN;S;F0O1()Asudintss,“ln”msasmc2toormeadh,admyieorhhc3psadf,ttds50ptormeofiso4r,attecdnkl,fmVthsadi5whteadhsdrhhcessinac6mruganidfladges7()TeBdmyrwadeeteseofahln8tod9()wraynkossdbeodado0otofahlidofatten;a]
+[DELETED: LASIDADPDBYSES5Pe17of3()wrteeeadonofankpsvetV,isintepci,adisctwhtepsfhhcermedinsn91oftsteadwhtSeHhCeDyP,oee()Inortopttepci,teBdm,onisoi,ieteflosofahln,icnoftensesadeel()TeBdmyrdorteaeanasnytctayatofteseofahlnkorisf0osttaeitwhtepsfrhhcer1edinsn91oftsteorwhteSeHhC2DyP,oee3()Ayfla,o,orordnbyteBdptt4tssnslbesttoalinaewhtepso5sn91oftst6***HhCeCs**7S.7.18V.§cisadtor8§9.FRCTS9**0()Tersofsn()oftssndontpt1cgeyfmrgarecya]
+[DELETED: LASIDADPDBYSES5Pe18of3bntepradtecgeyrgtetsoftpdhhcec.Unr,acgeyorpslpeanudcyofanedorpdhhccttoteDtofFlRnorteGnMCeB,orb***SeHhCeDyP;HhCeDAyCe**S.8.18V.§3isadtor§.SEHHCEDYP0()TeAyofHnS,incnwhteG1MnCeB,teDtofFlR,teV2PmfrQyinHhC,teOeofteHhCeA3teHhCeDyAyCeedinsn9ao4tst,adorids,sllddtofa5idSeHhCeDyPnasstfhintss6()TePns7()Anwhtepsfrhhcermedins891oftst9()Peastoh,ceaec,p0c,ccc,lmc,adh,i,a1cdssasV]
+[DELETED: LASIDADPDBYSES5Pe19of3()Setomemlhhs,seuedtts,eymls,nyms,adnlssadssaeinehrnoV()PealtsfrtetlctofceasVhhcesmadierealctghrswegfmhltlctofcetsalreddfmhsisinpyc,mlhhc,adseudrtts.Ugtetlctofcet,teP0sliyaeasofhhcersads1asteSettbeq,a,adctc.TeP2slaoehtsfrtepsofolhhces3ttsdrtsgonpyces,igmlh4s,adpeces,whtsslbeadwht5tlctofcet6()Bdondaadinf7()tetnpgrgfm22Asa8RsN.1,S.1ad29()teeeasadhhcesge0ddpttosn93oftst]
+[DELETED: LASIDADPDBYSES5Pe20of3()teSeHhItPnadpttsn9)oftst()teHhReAnPnpdbyteGMnCeBdinaewhsn9)oftst()h’cyhhnsasadspgcdinaewhsn9aoftst()hladayslcrqyipdbyteDtofHhpttosn9boftst()teseqyaepmmdbyt0VtPmfrQyinHhCepttosn96oft1t;a2()shalssofdaadinasteB3A,adDtdma4()I5()gsinastoc,aswlascsinwhs6csorcscdrtinisinq,a,a7a8()ostoreaeb,sha9csincgadpttsaddeq0rgr;a]
+[DELETED: LASIDADPDBYSES5Pe21of3()f,S,adorbstoagtePsga,toteetf,hwtebscnberdorm()TeGnMnCeBdslcedaaderdtoisrydsadisesptto22AsaRsN.1.TeAyofHnSsslcedaaeerdtoisreasteSeMda,iswkwcdp,adisesptto22AsaRsN.1()Fm25th2,teAyofHnSss0eewhs;ctadaed;gri1odthtepsedin22AsadRsN.12S.1ad2;adstitfmtep3()In2,teAyslpeteP4()OnorbeJy1,2,teAyslpttePnt5teHeCsonHhCeadonHnSsadteS6CeonHhadW7()TeAyslpeanudPneyteysa8slptittoteGlAyonorbeJy15eyt9yrar20S.9.18V.§aisadtor1§.HHCEDYAYC]
+[DELETED: LASIDADPDBYSES5Pe22of3()TeiscdteHhCeDyAyCet()ehayb,igfrayoclhhi()eeadmrtepeofVshhcsmadisisonpnhho()cewhteGnMnCeB,teAyoHnS,teDtofFlR,adorissintedtadmeofteSeHhCDyPnddpttosn93oftst0()aeteGnMnCeBdontedna1inofanogenpstocym2ctpeintehhcedys;a3()pecdadcsrstoteG4Ayonisrdtohhcedyadpnh5()TeAyCeslbecdoftefg16m7()teSyofHnSsord8()teCrofteGnMnCeBdord9()teCfHhCeAefmteOeofteH0CeAeord]
+[DELETED: LASIDADPDBYSES5Pe23of3()oereofclhhisogmmlhhiepsinV,sdbyteCroFlR()torsofVth,sdbytVtAnofHsadHhS,woslrhsttaeldindtrsofteSeadttfedlsoffls()oereofVsfyqdhc,sdbyBePyCeA0()oereofitpnp,s1jybyteVtMlSyadH2()oereofVsfeccp,sdb3VsFe&RlC4()oereofVsddads5sea,sdbyVtCeP6()oepdprfmoetedda7sdseays,sdbyteCrofH8()oeVdmlhhplfma9itp,sdbyteCrofMlH0()oereofVshehha,s1jybyteVsofVtadBaHeHhC;a]
+[DELETED: LASIDADPDBYSES5Pe24of3()oereoflmcef,sdbytVtHhCeA()TeSyofHnSsordeslbeteCroteAyC()TeAyofHnSsslpeaeatlaetoteAyC***DaI;DaSg**S.1.18V.§3isadtor§.INOFHHCED0()TeAyofHnSsslcewhteH1InEeSgCeintedtofani2smofcladcsdainortoiep,p,a3prastortinadreaebso4p5()TeAspss6()anwhteseHhInTyP7edpttosn91oftst8()ueteeeofteHhInEeS9C0()ieaepyadsys]
+[DELETED: LASIDADPDBYSES5Pe25of3()dehwbttoiecld,csd,addrgsldsofhhadhdsln()eeiyagcgdassaastoeeaUdHhDaSettisuebyas()iytersnytocedalsfcladrhu()ehatefrspadastoteids()dpaditasmttesrdasf0p,p,adp;a1()iyalosfrfed,i2ignwdatsadlrp3()Hhi,asddinsn92oftst,slp4cladcsdatoteAyofHnSsasddbyt5Ayinortofeteidsmofcladcsd6asstfhintss7()TeAyslpeastodatoSeasadh8cepsasndtosttegsofteSeHhC9DyPnedpttosn93oftst,o0e,toteetpdbytedaueasinpef1ehdas]
+[DELETED: LASIDADPDBYSES5Pe26of3()OnorbeJy15a,teAyofHnSsspeanuetoteHeCsonHhCeadonHSsadteSeCeonHhadWergtdtadinofteidsmofclacsdainaewhtssS.1.18V.§4isadtor§9.BDM;A**()Inantoayorpsadinortoeet0psoftscraderteBdtopmisd,t1CrofteBdmyies,eep,aro2adrepnofpsadr.Aysaornet3pemybesdbyrdorcdmlorinpnbyana4ofteC.Sebyrdorcdmlslbeeet5bsdsarm.Aysaornetopeslp6atltsxbsd’tefmsewnwhtoc,e7ttteCrmysntetefrcefrgdces8Aysaornetopestbyrdorcdm,p9p,slceseontepntowmitisa0()EhwswoasbeteCrursas1reafeadmeaspdfrwsinclcsinS]
+[DELETED: LASIDADPDBYSES5Pe27of3C;p,h,aypnsttoteBsaysntbeeetorefsormeurtss()TeBdmyseayi,p,orrsitrpttoasaornetopeidurtssnwarSeayasaetotewkoftta,pdttergayastomntecyofayip,orrsttaeetfmpcinadcgutePcRsA**0***RgAeCeOnCs**1S.1.RGAECEO2C;GNMNCEB3BTFRH;R4TeAyofHnSssleeostor5csddbyoronbfofacdaec6onttwefdinweorinptugSeorf7m,orb,adtthetepltomeblcst8Vshhces,shascsrdtoc9ptrmadqydamtadr.Onorb0Nr1,2,teAyofHnSsslrtisfsa1rstoteHhRmOtC]
+[DELETED: LASIDADPDBYSES5Pe28of3***InUs**S.1.AYOFHNS;IROnorbeNr1,2,teAyofHnSsspeanuetoteHhRmOtCergtAsinoftsa,igtessofisestdpteSeHhCeDyP,aehhcedi,adeeostornaeceoc,aswlasonishltnasptt022AsadRsN.17adteesofteesada1onVsadonVshhces2S.1.GNMNCEB;I3R4OnorbeFy1,2,teGnMnCeBds5peanuetoteHeCeonHhCeadteS6CeonHhadWergteBsino7tsa,igtessofisestoehmsfra8bninofrdpgaddtofg9hlb,adteesofteesadasonV0adonVshhces]
+[DELETED: LASIDADPDBYSES5Pe29of3S.1.3V.§7isadtor§3.HHCESMR;IGQADA;R()TeDrofHhCeRminteAyofHnSslberefrtecnofhhcesmrmeagEeBha,d,ado,adfcgwhteGnMnCeBdedin18Vcr2()OnorbeFy15a,teAyofHnS0slpeanuetoteHeCeonHhCeadteS1CeonHhadWergtessofisestod2admnteSeHhCeDyPninaewh13V.§,aehhcedainasstfhin18V4§,adcehltnasptto25AsadRsN.1,adteesofteesadaso6VsadonVshhces7S.1.18V.§)isadtor8()AyonorbeJy1,teBdslstartofi9asfrtepgcryrtoteHeCeonH0CeadteSeCeonHhadW1()Tertsli]
+[DELETED: LASIDADPDBYSES5Pe30of3**()tessofisestoehmsfradbinofrdpgaddtofglhb,adteesofteesadasonVsadoVshhces()ayrsfrmstoVts;a()ayaloradisontewkofteBdaartofmstofll,r,orp**0***P;As**1S.1.GNMNCEB;AYOFH2S;P3()Teetoftefgfenwptc4psisadatteGnMnCeBdinflyr25()oeD,GlB6()oePtM,GlB7()oeD,RdP8()oePtM,RdP;a9()oeSfA0()Teetoftefgtocdl1psisadatteAyofHnSsinflyr2]
+[DELETED: LASIDADPDBYSES5Pe31of3()oeHhCeRm()InM;a()oeAeSsDrI()TepsslbetdadcdfmevtpsinteEeB()ItisteitofteGlAytoaeteeofanalfenwptpsatteGnMnCBdinflyr27adarfenwptpsinfyr2S.1.A0()Tesmof$0isadfmteGlFdtot1AyofHnSsinflyr26frueasf2()$0frgstohsasndfrt3esidptto22AsadRsN.17adtot4trsstoitrdp5()$0fresadwhdtoft6SeHhCeDyP7()$0frcsfrcsadore8adwhinoftsa;a9()$0frtepsadinS.1)oftsa]
+[DELETED: LASIDADPDBYSES5Pe32of3()Tesmof$0isadfmteHhIdtotAyofHnSsinflyr26frgstohhcpsfrdaininaewhS.10oftsa()Tesmof$0isadfmteGlFdtotGnMnCeBdinflyr26frueasf()$0frtepsadinS.1)oftsaa()$0frc,igcsfraewigrdpginaewhtsa0()Ngaypnof32V.§1totec1tesmof$0isadfmteHhIdtoteG2MnCeBdinflyr26fresadw3idsnofechlbtdassi4aewhS.4oftsa5***EeDs**6S.1.EED7()S.17()ad18()slteetonJy1829()Tergssslteetonp**EeDe**.1.EEDsatslteetonp]
+
+
+================================================================================
+
+Raw Text:
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 1 of 32
+1 S.126
+2 Introduced by Committee on Health and Welfare
+3 Date: March 18, 2025
+4 Subject: Health; health care reform; Green Mountain Care Board; Agency of
+5 Human Services; Statewide Health Care Delivery Plan; health
+6 information technology; hospitals
+7 Statement of purpose of bill as introduced: This bill proposes to enact certain
+8 health care payment and delivery system reforms.
+9 An act relating to health care payment and delivery system reform
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 * * * Purpose of the Act; Goals * * *
+12 Sec. 1. PURPOSE; GOALS
+13 The purpose of this act is to promote the transformation of Vermont’s
+14 health care system. In enacting this legislation, the General Assembly intends
+15 to advance the following goals:
+16 (1) improvements in health outcomes, quality of care, and regional
+17 access to services;
+18 (2) an integrated system of care, with robust care coordination and
+19 increased investments in primary care, home health care, and long-term care;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 2 of 32
+1 (3) stabilizing health care providers, reducing commercial health
+2 insurance premiums, and managing hospital costs based on the total cost of
+3 care, beginning with reference-based pricing and continuing on to global
+4 hospital budgets; and
+5 (4) improving population health and increasing access to health
+6 insurance coverage.
+7 * * * Hospital Budgets and Payment Reform * * *
+8 Sec. 2. 18 V.S.A. § 9375 is amended to read:
+9 § 9375. DUTIES
+10 (a) The Board shall execute its duties consistent with the principles
+11 expressed in section 9371 of this title.
+12 (b) The Board shall have the following duties:
+13 (1) Oversee the development and implementation, and evaluate the
+14 effectiveness, of health care payment and delivery system reforms designed to
+15 control the rate of growth in health care costs; promote seamless care,
+16 administration, and service delivery; and maintain health care quality in
+17 Vermont, including ensuring that the payment reform pilot projects set forth in
+18 this chapter are consistent with such reforms.
+19 (A) Implement by rule, pursuant to 3 V.S.A. chapter 25,
+20 methodologies for achieving payment reform and containing costs that may
+21 include the participation of Medicare and Medicaid, which may include the
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 3 of 32
+1 creation of health care professional cost-containment targets, reference-based
+2 pricing, global payments, bundled payments, global budgets, risk-adjusted
+3 capitated payments, or other uniform payment methods and amounts for
+4 integrated delivery systems, health care professionals, or other provider
+5 arrangements.
+6 * * *
+7 (5) Set rates for health care professionals pursuant to section 9376 of
+8 this title, to be implemented over time beginning with reference-based pricing
+9 as soon as practicable, but not later than 2027, and make adjustments to the
+10 rules on reimbursement methodologies as needed.
+11 (6) Approve, modify, or disapprove requests for health insurance rates
+12 pursuant to 8 V.S.A. § 4062, taking into consideration the requirements in the
+13 underlying statutes,; changes in health care delivery,; changes in payment
+14 methods and amounts, including implementation of reference-based pricing;
+15 protecting insurer solvency,; and other issues at the discretion of the Board.
+16 (7) Review and establish hospital budgets pursuant to chapter 221,
+17 subchapter 7 of this title, including establishing standards for global hospital
+18 budgets that reflect the implementation of reference-based pricing and the total
+19 cost of care targets determined in collaboration with federal partners and other
+20 stakeholders or as set by the Statewide Health Care Delivery Plan developed
+21 pursuant to section 9403 of this title, once established. Beginning not later
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 4 of 32
+1 than hospital fiscal year 2028, the Board shall establish global hospital budgets
+2 for one or more Vermont hospitals that are not critical access hospitals. By
+3 hospital fiscal year 2030, the Board shall establish global hospital budgets for
+4 all Vermont hospitals.
+5 * * *
+6 Sec. 3. 18 V.S.A. § 9376 is amended to read:
+7 § 9376. PAYMENT AMOUNTS; METHODS
+8 (a) Intent. It is the intent of the General Assembly to ensure payments to
+9 health care professionals that are consistent with efficiency, economy, and
+10 quality of care and will permit them to provide, on a solvent basis, effective
+11 and efficient health services that are in the public interest. It is also the intent
+12 of the General Assembly to eliminate the shift of costs between the payers of
+13 health services to ensure that the amount paid to health care professionals is
+14 sufficient to enlist enough providers to ensure that health services are available
+15 to all Vermonters and are distributed equitably.
+16 (b) Rate-setting.
+17 (1) The Board shall set reasonable rates for health care professionals,
+18 health care provider bargaining groups created pursuant to section 9409 of this
+19 title, manufacturers of prescribed products, medical supply companies, and
+20 other companies providing health services or health supplies based on
+21 methodologies pursuant to section 9375 of this title, in order to have a
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 5 of 32
+1 consistent reimbursement amount accepted by these persons. In its discretion,
+2 the Board may implement rate-setting for different groups of health care
+3 professionals over time and need not set rates for all types of health care
+4 professionals. In establishing rates, the Board may consider legitimate
+5 differences in costs among health care professionals, such as the cost of
+6 providing a specific necessary service or services that may not be available
+7 elsewhere in the State, and the need for health care professionals in particular
+8 areas of the State, particularly in underserved geographic or practice shortage
+9 areas.
+10 (2) Nothing in this subsection shall be construed to:
+11 (A) limit the ability of a health care professional to accept less than
+12 the rate established in subdivision (1) of this subsection (b) from a patient
+13 without health insurance or other coverage for the service or services received;
+14 or
+15 (B) reduce or limit the covered services offered by Medicare or
+16 Medicaid.
+17 (c) Methodologies. The Board shall approve payment methodologies that
+18 encourage cost-containment; provision of high-quality, evidence-based health
+19 services in an integrated setting; patient self-management; access to primary
+20 care health services for underserved individuals, populations, and areas; and
+21 healthy lifestyles. Such methodologies shall be consistent with payment
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 6 of 32
+1 reform and with evidence-based practices, and may include fee-for-service
+2 payments if the Board determines such payments to be appropriate.
+3 (d) Supervision. To the extent required to avoid federal antitrust violations
+4 and in furtherance of the policy identified in subsection (a) of this section, the
+5 Board shall facilitate and supervise the participation of health care
+6 professionals and health care provider bargaining groups in the process
+7 described in subsection (b) of this section.
+8 (e) Reference-based pricing.
+9 (1) The Board shall establish reference-based prices that represent the
+10 amounts that health insurers in this State shall pay to hospitals for items
+11 provided and services delivered in Vermont. The purposes of reference-based
+12 pricing are to contain costs and to move health care professionals toward a
+13 site-neutral pricing structure while also allowing the Board to differentiate
+14 prices among health care professionals based on factors such as demographics,
+15 population health in a given hospital service area, payer mix, acuity, social risk
+16 factors, and a specific health care professional’s role in Vermont’s health care
+17 system. The Board shall consult with health insurers, hospitals, other health
+18 care professionals as applicable, the Office of the Health Care Advocate, and
+19 the Agency of Human Services on ways to approach reference-based pricing in
+20 an effort to achieve all-payer alignment on design and implementation of the
+21 program.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 7 of 32
+1 (2)(A) Reference-based prices established pursuant to this subsection (e)
+2 shall be based on a percentage of the Medicare reimbursement rate for the
+3 same or a similar item or service, provided that after the Board establishes
+4 initial prices that are referenced to Medicare, the Board may opt to update the
+5 prices in the future based on a reasonable rate of growth that is separate from
+6 Medicare rates, such as the Medicare Economic Indexmeasure of inflation, in
+7 order to provide predictability and consistency for health care professionals
+8 and payers and to protect against federal funding pressures that may impact
+9 Medicare rates in an unpredictable manner.
+10 (B) In establishing reference-based prices pursuant to this subsection
+11 (e), the Board shall consider the composition of the communities served by the
+12 hospital, including the health of the population, demographic characteristics,
+13 acuity, payer mix, labor costs, social risk factors, and other factors that may
+14 affect the costs of providing care in the hospital service area.
+15 (3)(A) The Board shall begin implementing reference-based pricing by
+16 establishing the amounts that health insurers in this State shall pay to Vermont
+17 hospitals for items provided and services delivered to individuals covered by
+18 the health insurer’s plans as soon as practicable but not later than hospital
+19 fiscal year 2027.
+20 (B) The Board shall implement reference-based pricing in a manner
+21 that does not allow hospitals to charge or collect from patients any amount in
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 8 of 32
+1 excess of the reference-based amount established by the Board for the item
+2 provided or service delivered.
+3 (C) The Board, in collaboration with the Department of Financial
+4 Regulation, shall monitor the implementation of reference-based pricing to
+5 ensure that any decreased prices paid to hospitals result in commensurate
+6 decreases in health insurance premiums. The Board shall post its findings
+7 regarding the alignment between price decreases and premium decreases
+8 annually on its website.
+9 (4) The Board shall identify factors that would necessitate terminating
+10 the use of reference-based pricing in one or more hospitals, such as a reduction
+11 in access to or quality of care.
+12 (5) The Agency of Human Services, in consultation with the Green
+13 Mountain Care Board, may implement reference-based pricing for services
+14 delivered outside a hospital, such as primary care services, and may increase or
+15 decrease the percentage of Medicare or another benchmark as appropriate, first
+16 to enhance access to primary care and later for alignment with the Statewide
+17 Health Care Delivery Plan established pursuant to section 9403 of this title,
+18 once established.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 9 of 32
+1 Sec. 4. 18 V.S.A. § 9454 is amended to read:
+2 § 9454. HOSPITALS; DUTIES
+3 (a) Hospitals shall file the following information at the time and place and
+4 in the manner established by the Board:
+5 * * *
+6 (6) known depreciation schedules on existing buildings, a four-year
+7 capital expenditure projection, and a one-year capital expenditure plan; and
+8 (7) the number of employees of the hospital whose duties are primarily
+9 administrative in nature, as defined by the Board, and the number of
+10 employees whose duties primarily involve delivering health care services
+11 directly to hospital patients;
+12 (8) information regarding base salaries and total compensation for the
+13 hospital’s executive and clinical leadership and for its employees who deliver
+14 health care services directly to hospital patients;
+15 (9) proposals for ways in which the hospital can support community-
+16 based, independent, and nonhospital providers, including mental health and
+17 substance use disorder treatment providers, primary care providers, long-term
+18 care providers, and physical therapists; services provided through the Blueprint
+19 for Health, Choices for Care, and Support and Services at Home (SASH);
+20 investments in the health care workforce; and other nonhospital aspects of
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 10 of 32
+1 Vermont’s health and human services systems that affect population health
+2 outcomes, including the social drivers of health; and
+3 (10) such other information as the Board may require.
+4 (b) Hospitals shall submit information as directed by the Board in order to
+5 maximize hospital budget data standardization and allow the Board to make
+6 direct comparisons of hospital expenses across the health care system.
+7 (c) Hospitals shall adopt a fiscal year that shall begin on October 1.
+8 Sec. 5. 18 V.S.A. § 9456 is amended to read:
+9 § 9456. BUDGET REVIEW
+10 (a) The Board shall conduct reviews of each hospital’s proposed budget
+11 based on the information provided pursuant to this subchapter and in
+12 accordance with a schedule established by the Board.
+13 (b) In conjunction with budget reviews, the Board shall:
+14 (1) review utilization information;
+15 (2) consider the Statewide Health Care Delivery Plan developed
+16 pursuant to section 9403 of this title, once established, including the total cost
+17 of care targets, and consult with the Agency of Human Services to ensure
+18 compliance with federal requirements regarding Medicare and Medicaid;
+19 (3) consider the Health Resource Allocation Plan identifying Vermont’s
+20 critical health needs, goods, services, and resources developed pursuant to
+21 section 9405 of this title;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 11 of 32
+1 (3)(4) consider the expenditure analysis for the previous year and the
+2 proposed expenditure analysis for the year under review;
+3 (4)(5) consider any reports from professional review organizations;
+4 (6) for a hospital that operates within a hospital network, review the
+5 hospital network’s financial operations as they relate to the budget of the
+6 individual hospital;
+7 (7) exclude revenue derived from primary care, mental health care, and
+8 substance use disorder treatment services when determining a hospital’s net
+9 patient revenue and any total cost of care targets;
+10 (5)(8) solicit public comment on all aspects of hospital costs and use
+11 and on the budgets proposed by individual hospitals;
+12 (6)(9) meet with hospitals to review and discuss hospital budgets for the
+13 forthcoming fiscal year;
+14 (7)(10) give public notice of the meetings with hospitals, and invite the
+15 public to attend and to comment on the proposed budgets;
+16 (8)(11) consider the extent to which costs incurred by the hospital in
+17 connection with services provided to Medicaid beneficiaries are being charged
+18 to non-Medicaid health benefit plans and other non-Medicaid payers;
+19 (9)(12) require each hospital to file an analysis that reflects a reduction
+20 in net revenue needs from non-Medicaid payers equal to any anticipated
+21 increase in Medicaid, Medicare, or another public health care program
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 12 of 32
+1 reimbursements, and to any reduction in bad debt or charity care due to an
+2 increase in the number of insured individuals;
+3 (10)(13) require each hospital to provide information on administrative
+4 costs, as defined by the Board, including specific information on the amounts
+5 spent on marketing and advertising costs;
+6 (11)(14) require each hospital to create or maintain connectivity to the
+7 State’s Health Information Exchange Network in accordance with the criteria
+8 established by the Vermont Information Technology Leaders, Inc., pursuant to
+9 subsection 9352(i) of this title, provided that the Board shall not require a
+10 hospital to create a level of connectivity that the State’s Exchange is unable to
+11 support;
+12 (12)(15) review the hospital’s investments in workforce development
+13 initiatives, including nursing workforce pipeline collaborations with nursing
+14 schools and compensation and other support for nurse preceptors; and
+15 (13)(16) consider the salaries for the hospital’s executive and clinical
+16 leadership, including variable payments and incentive plans, and the hospital’s
+17 salary spread, including a comparison of median salaries to the medians of
+18 northern New England states and a comparison of the base salaries and total
+19 compensation for the hospital’s executive and clinic leadership with those of
+20 the hospital’s lowest-paid employees who deliver health care services directly
+21 to hospital patients; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 13 of 32
+1 (17) consider the number of employees of the hospital whose duties are
+2 primarily administrative in nature, as defined by the Board, compared with the
+3 number of employees whose duties primarily involve delivering health care
+4 services directly to hospital patients.
+5 (c) Individual hospital budgets established under this section shall:
+6 (1) be consistent, to the extent practicable, with the Statewide Health
+7 Care Delivery Plan, once established, including the total cost of care targets,
+8 and with the Health Resource Allocation Plan;
+9 (2) reflect the reference-based prices established by the Board pursuant
+10 to section 9376 of this title;
+11 (3) take into consideration national, regional, or in-state peer group
+12 norms, according to indicators, ratios, and statistics established by the Board;
+13 (3)(4) promote efficient and economic operation of the hospital;
+14 (4)(5) reflect budget performances for prior years;
+15 (5)(6) include a finding that the analysis provided in subdivision (b)(9)
+16 (b)(12) of this section is a reasonable methodology for reflecting a reduction in
+17 net revenues for non-Medicaid payers; and
+18 (6)(7) demonstrate that they support equal access to appropriate mental
+19 health care that meets standards of quality, access, and affordability equivalent
+20 to other components of health care as part of an integrated, holistic system of
+21 care; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 14 of 32
+1 (8) include meaningful variable payments and incentive plans for
+2 hospitals that are consistent with this section and with the principles for health
+3 care reform expressed in section 9371 of this title.
+4 (d)(1)(A) Annually, the Board shall establish a budget for each hospital on
+5 or before September 15, followed by a written decision by October 1. Each
+6 hospital shall operate within the budget established under this section.
+7 (B)(i) Beginning not later than hospital fiscal year 2028, the Board
+8 shall establish global hospital budgets for one or more Vermont hospitals that
+9 are not critical access hospitals. Not later than hospital fiscal year 2030, the
+10 Board shall establish global hospital budgets for all Vermont hospitals.
+11 (ii) Global hospital budgets established pursuant to this section
+12 shall include Medicare to the extent permitted under federal law but shall not
+13 include Medicaid.
+14 * * *
+15 (e)(1) The Board, in consultation with the Vermont Program for Quality in
+16 Health Care, shall utilize mechanisms to measure hospital costs, quality, and
+17 access and alignment with the Statewide Health Care Delivery Plan, once
+18 established.
+19 (2)(A) Except as provided in subdivision (D) of this subdivision (2), a
+20 hospital that proposes to reduce or eliminate any service in order to comply
+21 with a budget established under this section shall provide a notice of intent to
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 15 of 32
+1 the Board, the Agency of Human Services, the Office of the Health Care
+2 Advocate, and the members of the General Assembly who represent the
+3 hospital service area not less than 90 days prior to the proposed reduction or
+4 elimination.
+5 (B) The notice shall explain the rationale for the proposed reduction
+6 or elimination and describe how it is consistent with the Statewide Health Care
+7 Delivery Plan, once established, and the hospital’s most recent community
+8 health needs assessment conducted pursuant to section 9405a of this title and
+9 26 U.S.C. § 501(r)(3).
+10 (C) The Board may evaluate the proposed reduction or elimination
+11 for consistency with the Statewide Health Care Delivery Plan, once established
+12 and the community health needs assessment, and may modify the hospital’s
+13 budget or take such additional actions as the Board deems appropriate to
+14 preserve access to necessary services.
+15 (D) A service that has been identified for reduction or elimination in
+16 connection with the transformation efforts undertaken by the Board and the
+17 Agency of Human Services pursuant to 2022 Acts and Resolves No. 167 does
+18 not need to comply with subdivisions (A)–(C) of this subdivision (2).
+19 (3) The Board, in collaboration with the Department of Financial
+20 Regulation, shall monitor the implementation of any authorized decrease in
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 16 of 32
+1 hospital services to determine its benefits to Vermonters or to Vermont’s health
+2 care system, or both.
+3 (4) The Board may establish a process to define, on an annual basis,
+4 criteria for hospitals to meet, such as utilization and inflation benchmarks.
+5 (5) The Board may waive one or more of the review processes listed in
+6 subsection (b) of this section.
+7 * * *
+8 Sec. 6. 18 V.S.A. § 9458 is added to read:
+9 § 9458. HOSPITALNETWORKS; STRUCTURE; FINANCIAL
+10 OPERATIONS
+11 (a) As used in this section, “hospital network” means a system comprising
+12 two or more affiliated hospitals, and may include other health care
+13 professionals and facilities, that derives 50 percent or more of its operating
+14 revenue, at the consolidated network level, from Vermont hospitals and in
+15 which the affiliated hospitals deliver health care services in a coordinated
+16 manner using an integrated financial and governance structure.
+17 (b) The Board may review and evaluate the structure of a hospital network
+18 to determine:
+19 (1) whether any network operations should be organized and operated
+20 out of a hospital instead of at the network; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 17 of 32
+1 (2) whether the existence and operation of a network provides value to
+2 Vermonters, is in the public interest, and is consistent with the principles for
+3 health care reform expressed in section 9371 of this title and with the
+4 Statewide Health Care Delivery Plan, once established.
+5 (c) In order to protect the public interest, the Board may, on its own
+6 initiative, investigate the financial operations of a hospital network, including
+7 compensation of the network’s employees and executive leadership.
+8 (d) The Board may recommend or take appropriate action as necessary to
+9 correct any aspect of the structure of a hospital network or its financial
+10 operations that are inconsistent with the principles for health care reform
+11 expressed in section 9371 of this title or with the Statewide Health Care
+12 Delivery Plan, once established.
+13 (e) Any final action, order, or other determination by the Board pursuant to
+14 this section shall be subject to appeal in accordance with the provisions of
+15 section 9381 of this title.
+16 * * * Health Care Contracts * * *
+17 Sec. 7. 18 V.S.A. § 9418c is amended to read:
+18 § 9418c. FAIR CONTRACT STANDARDS
+19 * * *
+20 (e) The requirements of subdivision (b)(5) of this section do not prohibit a
+21 contracting entity from requiring a reasonable confidentiality agreement
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 18 of 32
+1 between the provider and the contracting entity regarding the terms of the
+2 proposed health care contract. Upon request, a contracting entity or provider
+3 shall provide an unredacted copy of an executed or proposed health care
+4 contract to the Department of Financial Regulation or the Green Mountain
+5 Care Board, or both.
+6 * * * Statewide Health Care Delivery Plan; Health Care Delivery
+7 Advisory Committee * * *
+8 Sec. 8. 18 V.S.A. § 9403 is added to read:
+9 § 9403. STATEWIDE HEALTH CARE DELIVERY PLAN
+10 (a) The Agency of Human Services, in collaboration with the Green
+11 Mountain Care Board, the Department of Financial Regulation, the Vermont
+12 Program for Quality in Health Care, the Office of the Health Care Advocate,
+13 the Health Care Delivery Advisory Committee established in section 9403a of
+14 this title, and other interested stakeholders, shall lead development of an
+15 integrated Statewide Health Care Delivery Plan as set forth in this section.
+16 (b) The Plan shall:
+17 (1) Align with the principles for health care reform expressed in section
+18 9371 of this title.
+19 (2) Promote access to high-quality, cost-effective acute care, primary
+20 care, chronic care, long-term care, and hospital-based, independent, and
+21 community-based services across Vermont.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 19 of 32
+1 (3) Strive to make mental health services, substance use disorder
+2 treatment services, emergency medical services, nonemergency medical
+3 services, and nonmedical services and supports available in each region of
+4 Vermont.
+5 (4) Provide annual targets for the total cost of care across Vermont’s
+6 health care system and include reasonable annual cost growth rates while
+7 excluding from hospital total cost of care targets all revenue derived from a
+8 hospital’s investments in primary care, mental health care, and substance use
+9 disorder treatment services. Using these total cost of care targets, the Plan
+10 shall identify appropriate allocations of health care resources and services
+11 across the State that balance quality, access, and cost containment. The Plan
+12 shall also establish targets for the percentages of overall health care spending
+13 that should reflect spending on primary care services, including mental health
+14 services, and preventive care services, which targets shall be aligned with the
+15 total cost of care targets.
+16 (5) Build on data and information from:
+17 (A) the transformation planning resulting from 2022 Acts and
+18 Resolves No. 167, Secs. 1 and 2;
+19 (B) the expenditure analysis and health care spending estimate
+20 developed pursuant to section 9383 of this title;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 20 of 32
+1 (C) the State Health Improvement Plan adopted pursuant to
+2 subsection 9405(a) of this title;
+3 (D) the Health Resource Allocation Plan published by the Green
+4 Mountain Care Board in accordance with subsection 9405(b) of this title;
+5 (E) hospitals’ community health needs assessments and strategic
+6 planning conducted in accordance with section 9405a of this title;
+7 (F) hospital and ambulatory surgical center quality information
+8 published by the Department of Health pursuant to section 9405b of this title;
+9 (G) the statewide quality assurance program maintained by the
+10 Vermont Program for Quality in Health Care pursuant to section 9416 of this
+11 title; and
+12 (H) such additional sources of data and information as the Board,
+13 Agency, and Department deem appropriate.
+14 (6) Identify:
+15 (A) gaps in access to care, as well as circumstances in which service
+16 closures or consolidations could result in improvements in quality, access, and
+17 affordability;
+18 (B) opportunities to reduce administrative burdens, such as
+19 complexities in contracting and payment terms and duplicative quality
+20 reporting requirements; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 21 of 32
+1 (C) federal, State, and other barriers to achieving the Plan’s goals
+2 and, to the extent feasible, how those barriers can be removed or mitigated.
+3 (c) The Green Mountain Care Board shall contribute data and expertise
+4 related to its regulatory duties and its efforts pursuant to 2022 Acts and
+5 Resolves No. 167. The Agency of Human Services shall contribute data and
+6 expertise related to its role as the State Medicaid agency, its work with
+7 community-based providers, and its efforts pursuant to 2022 Acts and
+8 Resolves No. 167.
+9 (d)(1) From 2025 through 2027, the Agency of Human Services shall
+10 engage with stakeholders; collect and analyze data; gather information
+11 obtained through the processes established in 2022 Acts and Resolves No. 167,
+12 Secs. 1 and 2; and solicit input from the public.
+13 (2) In 2028, the Agency shall prepare the Plan.
+14 (3) On or before January 15, 2029, the Agency shall present the Plan to
+15 the House Committees on Health Care and on Human Services and the Senate
+16 Committee on Health and Welfare.
+17 (4) The Agency shall prepare an updated Plan every three years and
+18 shall present it to the General Assembly on or before January 15 every third
+19 year after 2029.
+20 Sec. 9. 18 V.S.A. § 9403a is added to read:
+21 § 9403a. HEALTH CARE DELIVERY ADVISORY COMMITTEE
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 22 of 32
+1 (a) There is created the Health Care Delivery Advisory Committee to:
+2 (1) establish affordability benchmarks, including for affordability of
+3 commercial health insurance;
+4 (2) evaluate and monitor the performance of Vermont’s health care
+5 system and its impacts on population health outcomes;
+6 (3) collaborate with the Green Mountain Care Board, the Agency of
+7 Human Services, the Department of Financial Regulation, and other interested
+8 stakeholders in the development and maintenance of the Statewide Health Care
+9 Delivery Plan developed pursuant to section 9403 of this title;
+10 (4) advise the Green Mountain Care Board on the design and
+11 implementation of an ongoing evaluation process to continuously monitor
+12 current performance in the health care delivery system; and
+13 (5) provide coordinated and consensus recommendations to the General
+14 Assembly on issues related to health care delivery and population health.
+15 (b)(1) The Advisory Committee shall be composed of the following 14
+16 members:
+17 (A) the Secretary of Human Services or designee;
+18 (B) the Chair of the Green Mountain Care Board or designee;
+19 (C) the Chief Health Care Advocate from the Office of the Health
+20 Care Advocate or designee;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 23 of 32
+1 (D) one representative of commercial health insurers offering major
+2 medical health insurance plans in Vermont, selected by the Commissioner of
+3 Financial Regulation;
+4 (E) two representatives of Vermont hospitals, selected by the
+5 Vermont Association of Hospitals and Health Systems, who shall represent
+6 hospitals that are located in different regions of the State and that face different
+7 levels of financial stability;
+8 (F) one representative of Vermont’s federally qualified health
+9 centers, selected by Bi-State Primary Care Association;
+10 (G) one representative of independent physician practices, selected
+11 jointly by the Vermont Medical Society and HealthFirst;
+12 (H) one representative of Vermont’s free clinic programs, selected by
+13 Vermont’s Free & Referral Clinics;
+14 (I) one representative of Vermont’s designated and specialized
+15 service agencies, selected by Vermont Care Partners;
+16 (J) one preferred provider from outside the designated and
+17 specialized service agency system, selected by the Commissioner of Health;
+18 (K) one Vermont-licensed mental health professional from an
+19 independent practice, selected by the Commissioner of Mental Health;
+20 (L) one representative of Vermont’s home health agencies, selected
+21 jointly by the VNAs of Vermont and Bayada Home Health Care; and
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 24 of 32
+1 (M) one representative of long-term care facilities, selected by the
+2 Vermont Health Care Association.
+3 (2) The Secretary of Human Services or designee shall be the Chair of
+4 the Advisory Committee.
+5 (3) The Agency of Human Services shall provide administrative and
+6 technical assistance to the Advisory Committee.
+7 * * * Data Integration; Data Sharing * * *
+8 Sec. 10. 18 V.S.A. § 9353 is added to read:
+9 § 9353. INTEGRATION OF HEALTH CARE DATA
+10 (a) The Agency of Human Services shall collaborate with the Health
+11 Information Exchange Steering Committee in the development of an integrated
+12 system of clinical and claims data in order to improve patient, provider, and
+13 payer access to relevant information and reduce administrative burdens on
+14 providers.
+15 (b) The Agency’s process shall:
+16 (1) align with the statewide Health Information Technology Plan
+17 established pursuant to section 9351 of this title;
+18 (2) utilize the expertise of the Health Information Exchange Steering
+19 Committee;
+20 (3) incorporate appropriate privacy and security standards;
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 25 of 32
+1 (4) determine how best to integrate clinical data, claims data, and data
+2 regarding social drivers of health and health-related social needs;
+3 (5) ensure interoperability among contributing data sources and
+4 applications to enable a Unified Health Data Space that is usable by all
+5 stakeholders;
+6 (6) identify the resources necessary to complete data linkages for
+7 clinical and research usage;
+8 (7) establish a timeline for setup and access to the integrated system;
+9 (8) develop and implement a system that ensures rapid access for
+10 patients, providers, and payers; and
+11 (9) identify additional opportunities for future development, including
+12 incorporating new data types and larger populations.
+13 (c) Health insurers, as defined in section 9402 of this title, shall provide
+14 clinical and claims data to the Agency of Human Services as directed by the
+15 Agency in order to facilitate the integrated system of clinical and claims data
+16 as set forth in this section.
+17 (d) The Agency shall provide access to data to State agencies and health
+18 care providers as needed to support the goals of the Statewide Health Care
+19 Delivery Plan established pursuant to section 9403 of this title, once
+20 established, to the extent permitted by the data use agreements in place for
+21 each data set.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 26 of 32
+1 (e) On or before January 15 annually, the Agency of Human Services shall
+2 provide an update to the House Committees on Health Care and on Human
+3 Services and the Senate Committee on Health and Welfare regarding the
+4 development and implementation of the integrated system of clinical and
+5 claims data in accordance with this section.
+6 Sec. 11. 18 V.S.A. § 9374 is amended to read:
+7 § 9374. BOARD MEMBERSHIP; AUTHORITY
+8 * * *
+9 (i)(1) In addition to any other penalties and in order to enforce the
+10 provisions of this chapter and empower the Board to perform its duties, the
+11 Chair of the Board may issue subpoenas, examine persons, administer oaths,
+12 and require production of papers and records. Any subpoena or notice to
+13 produce may be served by registered or certified mail or in person by an agent
+14 of the Chair. Service by registered or certified mail shall be effective three
+15 business days after mailing. Any subpoena or notice to produce shall provide
+16 at least sixbusiness days’ time from service within which to comply, except
+17 that the Chair may shorten the time for compliance for good cause shown.
+18 Any subpoena or notice to produce sent by registered or certified mail, postage
+19 prepaid, shall constitute service on the person to whom it is addressed.
+20 (2) Each witness who appears before the Chair under subpoena shall
+21 receive a fee and mileage as provided for witnesses in civil cases in Superior
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 27 of 32
+1 Courts; provided, however, any person subject to the Board’s authority shall
+2 not be eligible to receive fees or mileage under this section.
+3 (3) The Board may share any information, papers, or records it receives
+4 pursuant to a subpoena or notice to produce issued under this section with
+5 another State agency as appropriate to the work of that agency, provided that
+6 the receiving agency agrees to maintain the confidentiality of any information,
+7 papers, or records that are exempt from public inspection and copying under
+8 the Public Records Act.
+9 * * *
+10 * * * Retaining Accountable Care Organization Capabilities * * *
+11 Sec. 12. RETAINING ACCOUNTABLE CARE ORGANIZATION
+12 CAPABILITIES; GREEN MOUNTAIN CARE BOARD;
+13 BLUEPRINT FOR HEALTH; REPORT
+14 The Agency of Human Services shall explore opportunities to retain
+15 capabilities developed by or on behalf of a certified accountable care
+16 organization that were funded in whole or in part using State or federal
+17 monies, or both, and that have the potential to make beneficial contributions to
+18 Vermont’s health care system, such as capabilities related to comprehensive
+19 payment reform and quality data measurement and reporting. On or before
+20 November 1, 2025, the Agency of Human Services shall report its findings and
+21 recommendations to the Health Reform Oversight Committee.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 28 of 32
+1 * * * Implementation Updates * * *
+2 Sec. 13. AGENCY OF HUMAN SERVICES; IMPLEMENTATION;
+3 REPORT
+4 On or before November 15, 2025, the Agency of Human Services shall
+5 provide an update to the Health Reform Oversight Committee regarding the
+6 Agency’s implementation of this act, including the status of its efforts to
+7 develop the Statewide Health Care Delivery Plan, advance health care data
+8 integration, and explore opportunities to retain accountable care organization
+9 capabilities, as well as on its hospital transformation activities pursuant to
+10 2022 Acts and Resolves No. 167 and the effects of these efforts and activities
+11 on Vermonters and on Vermont’s health care system.
+12 Sec. 14. GREEN MOUNTAIN CARE BOARD; IMPLEMENTATION;
+13 REPORT
+14 On or before February 15, 2026, the Green Mountain Care Board shall
+15 provide an update to the House Committee on Health Care and the Senate
+16 Committee on Health and Welfare regarding the Board’s implementation of
+17 this act, including the status of its efforts to establish methodologies for and
+18 begin implementation of reference-based pricing and development of global
+19 hospital budgets, and the effects of these efforts and activities on Vermonters
+20 and on Vermont’s health care system.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 29 of 32
+1 Sec. 15. 3 V.S.A. § 3027 is amended to read:
+2 § 3027. HEALTH CARE SYSTEM REFORM; IMPROVING QUALITY
+3 AND AFFORDABILITY; REPORT
+4 (a) The Director of Health Care Reform in the Agency of Human Services
+5 shall be responsible for the coordination of health care system reform efforts
+6 among Executive Branch agencies, departments, and offices, and for
+7 coordinating with the Green Mountain Care Board established in 18 V.S.A.
+8 chapter 220.
+9 (b) On or before February 15 annually, the Agency of Human Services
+10 shall provide an update to the House Committee on Health Care and the Senate
+11 Committee on Health and Welfare regarding the status of its efforts to develop
+12 and maintain the Statewide Health Care Delivery Plan in accordance with 18
+13 V.S.A. § 9403, advance health care data integration as set forth in 18 V.S.A.
+14 § 9353, and coordinate hospital transformation activities pursuant to 2022
+15 Acts and Resolves No. 167, and the effects of these efforts and activities on
+16 Vermonters and on Vermont’s health care system.
+17 Sec. 16. 18 V.S.A. § 9375(d) is amended to read:
+18 (d) Annually on or before January 15, the Board shall submit a report of its
+19 activities for the preceding calendar year to the House Committee on Health
+20 Care and the Senate Committee on Health and Welfare.
+21 (1) The report shall include:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 30 of 32
+1 * * *
+2 (G) the status of its efforts to establish methodologies for and begin
+3 implementation of reference-based pricing and development of global hospital
+4 budgets, and the effects of these efforts and activities on Vermonters and on
+5 Vermont’s health care system;
+6 (H) any recommendations for modifications to Vermont statutes; and
+7 (H)(I) any actual or anticipated impacts on the work of the Board as
+8 a result of modifications to federal laws, regulations, or programs.
+9 * * *
+10 * * * Positions; Appropriations * * *
+11 Sec. 17. GREEN MOUNTAIN CARE BOARD; AGENCY OF HUMAN
+12 SERVICES; POSITIONS
+13 (a)(1) The establishment of the following five new permanent classified
+14 positions is authorized at the Green Mountain Care Board in fiscal year 2026:
+15 (A) one Director, Global Budgets;
+16 (B) one Project Manager, Global Budgets;
+17 (C) one Director, Reference-Based Pricing;
+18 (D) one Project Manager, Reference-Based Pricing; and
+19 (E) one Staff Attorney.
+20 (2) The establishment of the following two classified limited-service
+21 positions is authorized at the Agency of Human Services in fiscal year 2026:
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 31 of 32
+1 (A) one Health Care Reform (HCR) Integration Manager; and
+2 (B) one Administrative Services Director II.
+3 (3) These positions shall be transferred and converted from existing
+4 vacant positions in the Executive Branch.
+5 (b) It is the intent of the General Assembly to authorize the establishment
+6 of an additional five new permanent positions at the Green Mountain Care
+7 Board in fiscal year 2027 and another five new permanent positions in fiscal
+8 year 2028.
+9 Sec. 18. APPROPRIATIONS
+10 (a) The sum of $1,525,000.00 is appropriated from the General Fund to the
+11 Agency of Human Services in fiscal year 2026 for use as follows:
+12 (1) $250,000.00 for grants to hospitals as needed for transformation
+13 efforts initiated pursuant to 2022 Acts and Resolves No. 167 and to transition
+14 their systems to implement reference-based pricing;
+15 (2) $100,000.00 for expenses associated with development of the
+16 Statewide Health Care Delivery Plan;
+17 (3) $1,000,000.00 for contracts for consultants and other expenses
+18 associated with implementation of this act; and
+19 (4) $175,000.00 for the positions authorized in Sec. 17(a)(2) of this act.
+
+BILLAS INTRODUCED AND PASSED BY SENATE S.126
+2025 Page 32 of 32
+1 (b) The sum of $250,000.00 is appropriated from the Health IT-Fund to the
+2 Agency of Human Services in fiscal year 2026 for grants to health care
+3 providers for data integration in accordance with Sec. 10 of this act.
+4 (c) The sum of $1,350,000.00 is appropriated from the General Fund to the
+5 Green Mountain Care Board in fiscal year 2026 for use as follows:
+6 (1) $850,000.00 for the positions authorized in Sec. 17(a)(1) of this act;
+7 and
+8 (2) $500,000.00 for contracts, including contracts for assistance with
+9 implementing reference-based pricing in accordance with this act.
+10 (d) Notwithstanding any provision of 32 V.S.A. § 10301 to the contrary,
+11 the sum of $150,000.00 is appropriated from the Health IT-Fund to the Green
+12 Mountain Care Board in fiscal year 2026 for expenses associated with
+13 increased standardization of electronic hospital budget data submissions in
+14 accordance with Sec. 4 of this act.
+15 * * * Effective Dates * * *
+16 Sec. 19. EFFECTIVE DATES
+17 (a) Secs. 17 (positions) and 18 (appropriations) shall take effect on July 1,
+18 2025.
+19 (b) The remaining sections shall take effect on passage.
+* * * Effective Date * * *
+Sec. 17. EFFECTIVE DATE
+This act shall take effect on passage.
+
+[DELETED: LASIDADPDBYSES5Pe1of3SIdbyCeonHhadWD:Mh1,2S:H;hhcer;GnMnCeB;AyoHnS;SeHhCeDyP;hint;hStofpeofblasi:TsblpstoetchhceptaddysmrAnatrgtohhceptaddysmr0ItishyedbyteGlAyofteSeofV1***PeofteA;Gs**2S.1.P;G3TepeoftsatistopetetnofV4hhces.Inegtsl,teGlAyi5toaetefgg6()isinhho,qyofc,adr7astos8()anidsmofc,whrtcecna9idisinpyc,hehhc,adlmc]
+[DELETED: LASIDADPDBYSES5Pe2of3()sghhcep,rgclhiep,admghlcsbdontetlctoc,bgwhrdpgadcgontoghlb;a()igpnhhadigastohiec***HlBsadPtRm**S.2.18V.§5isadtor§9.D0()TeBdsleeisdsctwhtep1edinsn91oftst2()TeBdslhetefgd3()Oetedtadi,adeet4e,ofhhceptaddysmrsddt5cltereofghinhhcec;pessc6a,adsed;admnhhceqyi7V,igegttteptrmptpsstfhi8tscraectwhshr9()Itbyr,ptto3V.cr20msfragptrmadcgcsttm1ietepnofMeadM,whmyiet]
+[DELETED: LASIDADPDBYSES5Pe3of3cnofhhceplctt,rp,glp,bdp,glb,rcdp,ororumptmsadasfiddys,hhcep,ororpa**()Strsfrhhcepspttosn96otst,tobeidortebgwhrdpassnasp,btntlrtn2,admeastot0rsonrtmsasn1()A,m,ordersfrhhier2ptto8V.§4,tgiocntersint3ugs;csinhhced;csinp4msada,iginofrdp5pgirs;adorisattednofteB6()Rwadehhlbspttocr27sr7oftst,igegssfrglh8bsttrtteinofrdpgadtet9ctofcetsddincnwhflpsado0ssorasstbyteSeHhCeDyPnd1pttosn93oftst,oee.Bgntl]
+[DELETED: LASIDADPDBYSES5Pe4of3tnhlflyr2,teBdslehglhlbfroeormeVthsttaentclash.Bhlflyr2,teBdslehglhlbsfalVth**S.3.18V.§6isadtor§9.PTA;M()I.ItisteitofteGlAytoeepsthhcepsttaectwhe,e,a0qyofceadwlpttmtop,onastb,e1adethhssttaeintepci.Itisaotei2ofteGlAytoeetestofcsbntepso3hhsstoeettteatpdtohhcepsi4sttoetehpstoeetthhssaea5toalVsadaedde6()R7()TeBdslstrersfrhhcep8hhceprbggscdpttosn99oft9t,msofpdp,mlsyc,a0orcspghhssorhhssbdo1mspttosn95oftst,inortohe]
+[DELETED: LASIDADPDBYSES5Pe5of3ctrtatadbytep.InisdteBdmyitrgfrdtgsofhhcpsorteadndntstrsfraltsofhhcp.Inegr,teBdmycrldsincsaghhcep,shastectopgascnyseorssttmyntbeaeeinteS,adtendfrhhcepsinpasofteS,pyinudgcorpesa0()Ngintssnslbecdt1()ltteayofahhcepltoatlst2tereedinsn()oftssn()fmap3wthhieororcefrteseorssr4o5()reorlttecdssodbyMeo6M7()M.TeBdslaeptmst8eec;pnofh,edh9ssinanids;pts;astop0cehhssfrudi,p,ada;a1hyl.Shmsslbectwhp]
+[DELETED: LASIDADPDBYSES5Pe6of3rmadwhedp,admyiefpsifteBddsshpstobea()S.Toteetrdtoadflatvadinfeoftepyidinsn()oftss,tBdslfeadsetepnofhhcpsadhhceprbggsintepddinsn()oftss()Rdp()TeBdslehrdpsttrtt0astthhisintsSeslpytohsfri1pdadssddinV.Tepsofr2pgaetocncsadtomehhcepstd3slpgseweaoagteBdtod4psaghhcepsbdonfsshasd5pnhhinagnhlsea,prm,a,slr6f,adaschhcepsreinVshhc7s.TeBdslctwhhhi,h,orh8cepsasa,teOeofteHhCeA,a9teAyofHnSsonwstoahrdpgi0anettoaearatondnadinoft1p]
+[DELETED: LASIDADPDBYSES5Pe7of3()Rdpsedpttotssn(slbebdonapeofteMertrefrtseorasrimors,pdttarteBdeilpsttaerdtoM,teBdmyottouetpsintefebdonarereofghttissefMer,shasteMeEcIxmeofi,iortopepyadcyfrhhcepadpsadtoptatflfgpsttmyiMersinanuem0()Inegrdpspttotss1(,teBdslcrtecnoftecssdbyt2h,igtehhoftep,dcc3a,prm,lrc,slrkf,adorfsttm4attecsofpgceintehlsea5()TeBdslbnigrdpgb6egteastthhisintsSeslpytoV7hsfrispdadssddtoiscdb8tehhispsassnaspebtntlrtnh9flyr20()TeBdslitrdpginam1ttdsntawhstoceorctfmpsayati]
+[DELETED: LASIDADPDBYSES5Pe8of3esofterdatedbyteBdfrteipdorsed()TeB,incnwhteDtofFR,slmrteinofrdpgteettayddpspdtohsrtincdsinhhiep.TeBdslptisfrgteatbnpedsadpmdayonisw()TeBdsliyfsttwdnet0teueofrdpginoeormeh,shasar1inastoorqyofc2()TeAyofHnS,incnwhteG3MnCeB,myitrdpgfrs4ddoeah,shaspyces,admyieo5detepeofMeorarbkasa,f6toeeastopyceadlrfratwhteS7HhCeDyPnedpttosn93oftst8oee]
+[DELETED: LASIDADPDBYSES5Pe9of3S.4.18V.§4isadtor§9.H;D()HsslfetefginatteteadpeaintemredbyteB**()kndnssonegb,afcleep,adaorcleep;a()tenrofesoftehlwedsaepaeinn,asddbyteB,adtenro0eswedspyiedghhces1dytohlp2()inrgbessadtlcnfrt3hseeadcllpadfriseswod4hhcessdytohlp5()psfrwsinwhtehlcnstc6b,i,adnlp,igmlhha7seuedrttp,pycep,l8cep,adplt;sspdthteB9frH,CsfrC,adStadSsatHe(0isintehhcew;adornlaso]
+[DELETED: LASIDADPDBYSES5Pe10of3Vshhadhnssssttatpnho,igtesldsofh;a()shorinasteBdmyr()HsslstinasddbyteBdinortmehlbtdasnadawteBdtomdtcsofhlesastehhces()HsslataflyrttslbnonOr1S.5.18V.§6isadtor§9.BTR0()TeBdslctrsofehhspdb1bdonteinpdpttotssradi2aewhaseedbyteB3()Incnwhbtr,teBds4()rwuni5()crteSeHhCeDyPnd6pttosn93oftst,oee,igtetlc7ofcet,adctwhteAyofHnSstoe8cewhflrsrgMeadM9()crteHhReAnPnigV0clhhn,g,s,adrsddptt1sn95oftst]
+[DELETED: LASIDADPDBYSES5Pe11of3()crteeeasfrtepsyradtpdeeasfrteyrurr()crayrsfmplrwo()frahlttoswnahln,rwthlnsflosastyretotebtoftilh()eereddfmpyc,mlhhc,aseuedrttsswndgahsnptreadaytlctofcet0()stpcctonalasofhlcsadu1adontebspdbyilh2()mtwhhstorwaddshlbsfrt3fgfly4()gepcneoftemswhh,adiet5pctoadadtoctontepdb6()crteettowhcsidbytehli7cnwhsspdtoMdbsaebgc8tondhhbtpsadorndp9()reehhltofeanasttrsar0inntrensfmndpseltoaya1ieinM,M,orarpchhcep]
+[DELETED: LASIDADPDBYSES5Pe12of3r,adtoayrninbddtorcycedetoaieintenrofidi()reehhltopeinonac,asddbyteB,igscinonteastonmgadagc()reehhltoceormncytotSsHhInEeNkinaewhtecedbyteVtInTyL,I,pttsn9)oftst,pdttteBdslntre0hltoceallofcyttteSsEeisuet1s2()rwtehsisinwed3i,igngwepecswhn4ssadcnadorstfrnep;a5()crtessfrtehseeadc6l,igvepsadiep,adteh7sys,igacnofmnsstotemso8nnNwEdssadacnoftebessadt9cnfrtehseeadcclpwhteo0tehsldeswodrhhcessd1tohlp;a]
+[DELETED: LASIDADPDBYSES5Pe13of3()crtenrofesoftehlwedsapyaeinn,asddbyteB,cdwhtnrofeswedspyiedghhcssdytohlp()Ilhlbsedurtssns()bec,toteetp,whteSeHCeDyP,oee,igtetlctofcetadwhteHhReAnP()rtterdpsedbyteBdp0tosn96oftst1()teiocnn,r,orieprg2n,agtoi,r,adssedbyteB3()peetadeconofteh4()rtbtpsfrpry5()ieafgttteaspdinsn(6()oftssnisaremyfrrgarni7ntrsfrndp;a8()detttystelastoaem9hhcettmsssofq,a,adaye0toorcsofhhceasptofani,hcsmo1c;a]
+[DELETED: LASIDADPDBYSES5Pe14of3()iemlvepsadiepsfhsttaectwhtssnadwhtepsfrhcermedinsn91oftst()A,teBdslehabtfrehhloorbeSr1,fdbyawndnbyOr1.Ehlsloewntebtedurtss()Bgntlrtnhlflyr2,teBslehglhlbsfroeormeVthstaentclash.Ntlrtnhlflyr2,t0BdslehglhlbsfralVth1()Glhlbsedpttotss2slieMetoteetpdurfllwbtsln3ieM4**5()TeB,incnwhteVtPmfrQyi6HhC,sluemstomehlc,q,a7asadatwhteSeHhCeDyP,o8e9()Etaspdinsn()oftssn(,0hlttpstoreoreeayseinortoc1whabtedurtssnslpeaneofitt]
+[DELETED: LASIDADPDBYSES5Pe15of3teB,teAyofHnS,teOeofteHhCA,adtemsofteGlAywortthlseaantlstn90dsprtotepdrnoe()TeneslenterefrtepdrorenaddehwitisctwhteSeHhCDyP,oee,adtehsmtrtchhnsatcdpttosn9aoftstea26U.§0()TeBdmyeetepdrnore1frcywhteSeHhCeDyP,oee2adtecyhhnsa,admymyteh3btorteshalasasteBddsaet4peastonys5()Asetthsbnidfrrnoreni6cnwhtetnesunbyteBdadt7AyofHnSsptto22AsadRsN.17d8ntndtocywhss()oftssn(9()TeB,incnwhteDtofF0R,slmrteinofayaddei]
+[DELETED: LASIDADPDBYSES5Pe16of3hlsstodeisbstoVsortoVshces,orb()TeBdmyehapstod,onanalbcafrhstom,shasunadinb()TeBdmyweoeormeofterwpsldisn()oftss**S.6.18V.§8isadtor§.HLN;S;F0O1()Asudintss,“ln”msasmc2toormeadh,admyieorhhc3psadf,ttds50ptormeofiso4r,attecdnkl,fmVthsadi5whteadhsdrhhcessinac6mruganidfladges7()TeBdmyrwadeeteseofahln8tod9()wraynkossdbeodado0otofahlidofatten;a]
+[DELETED: LASIDADPDBYSES5Pe17of3()wrteeeadonofankpsvetV,isintepci,adisctwhtepsfhhcermedinsn91oftsteadwhtSeHhCeDyP,oee()Inortopttepci,teBdm,onisoi,ieteflosofahln,icnoftensesadeel()TeBdmyrdorteaeanasnytctayatofteseofahlnkorisf0osttaeitwhtepsfrhhcer1edinsn91oftsteorwhteSeHhC2DyP,oee3()Ayfla,o,orordnbyteBdptt4tssnslbesttoalinaewhtepso5sn91oftst6***HhCeCs**7S.7.18V.§cisadtor8§9.FRCTS9**0()Tersofsn()oftssndontpt1cgeyfmrgarecya]
+[DELETED: LASIDADPDBYSES5Pe18of3bntepradtecgeyrgtetsoftpdhhcec.Unr,acgeyorpslpeanudcyofanedorpdhhccttoteDtofFlRnorteGnMCeB,orb***SeHhCeDyP;HhCeDAyCe**S.8.18V.§3isadtor§.SEHHCEDYP0()TeAyofHnS,incnwhteG1MnCeB,teDtofFlR,teV2PmfrQyinHhC,teOeofteHhCeA3teHhCeDyAyCeedinsn9ao4tst,adorids,sllddtofa5idSeHhCeDyPnasstfhintss6()TePns7()Anwhtepsfrhhcermedins891oftst9()Peastoh,ceaec,p0c,ccc,lmc,adh,i,a1cdssasV]
+[DELETED: LASIDADPDBYSES5Pe19of3()Setomemlhhs,seuedtts,eymls,nyms,adnlssadssaeinehrnoV()PealtsfrtetlctofceasVhhcesmadierealctghrswegfmhltlctofcetsalreddfmhsisinpyc,mlhhc,adseudrtts.Ugtetlctofcet,teP0sliyaeasofhhcersads1asteSettbeq,a,adctc.TeP2slaoehtsfrtepsofolhhces3ttsdrtsgonpyces,igmlh4s,adpeces,whtsslbeadwht5tlctofcet6()Bdondaadinf7()tetnpgrgfm22Asa8RsN.1,S.1ad29()teeeasadhhcesge0ddpttosn93oftst]
+[DELETED: LASIDADPDBYSES5Pe20of3()teSeHhItPnadpttsn9)oftst()teHhReAnPnpdbyteGMnCeBdinaewhsn9)oftst()h’cyhhnsasadspgcdinaewhsn9aoftst()hladayslcrqyipdbyteDtofHhpttosn9boftst()teseqyaepmmdbyt0VtPmfrQyinHhCepttosn96oft1t;a2()shalssofdaadinasteB3A,adDtdma4()I5()gsinastoc,aswlascsinwhs6csorcscdrtinisinq,a,a7a8()ostoreaeb,sha9csincgadpttsaddeq0rgr;a]
+[DELETED: LASIDADPDBYSES5Pe21of3()f,S,adorbstoagtePsga,toteetf,hwtebscnberdorm()TeGnMnCeBdslcedaaderdtoisrydsadisesptto22AsaRsN.1.TeAyofHnSsslcedaaeerdtoisreasteSeMda,iswkwcdp,adisesptto22AsaRsN.1()Fm25th2,teAyofHnSss0eewhs;ctadaed;gri1odthtepsedin22AsadRsN.12S.1ad2;adstitfmtep3()In2,teAyslpeteP4()OnorbeJy1,2,teAyslpttePnt5teHeCsonHhCeadonHnSsadteS6CeonHhadW7()TeAyslpeanudPneyteysa8slptittoteGlAyonorbeJy15eyt9yrar20S.9.18V.§aisadtor1§.HHCEDYAYC]
+[DELETED: LASIDADPDBYSES5Pe22of3()TeiscdteHhCeDyAyCet()ehayb,igfrayoclhhi()eeadmrtepeofVshhcsmadisisonpnhho()cewhteGnMnCeB,teAyoHnS,teDtofFlR,adorissintedtadmeofteSeHhCDyPnddpttosn93oftst0()aeteGnMnCeBdontedna1inofanogenpstocym2ctpeintehhcedys;a3()pecdadcsrstoteG4Ayonisrdtohhcedyadpnh5()TeAyCeslbecdoftefg16m7()teSyofHnSsord8()teCrofteGnMnCeBdord9()teCfHhCeAefmteOeofteH0CeAeord]
+[DELETED: LASIDADPDBYSES5Pe23of3()oereofclhhisogmmlhhiepsinV,sdbyteCroFlR()torsofVth,sdbytVtAnofHsadHhS,woslrhsttaeldindtrsofteSeadttfedlsoffls()oereofVsfyqdhc,sdbyBePyCeA0()oereofitpnp,s1jybyteVtMlSyadH2()oereofVsfeccp,sdb3VsFe&RlC4()oereofVsddads5sea,sdbyVtCeP6()oepdprfmoetedda7sdseays,sdbyteCrofH8()oeVdmlhhplfma9itp,sdbyteCrofMlH0()oereofVshehha,s1jybyteVsofVtadBaHeHhC;a]
+[DELETED: LASIDADPDBYSES5Pe24of3()oereoflmcef,sdbytVtHhCeA()TeSyofHnSsordeslbeteCroteAyC()TeAyofHnSsslpeaeatlaetoteAyC***DaI;DaSg**S.1.18V.§3isadtor§.INOFHHCED0()TeAyofHnSsslcewhteH1InEeSgCeintedtofani2smofcladcsdainortoiep,p,a3prastortinadreaebso4p5()TeAspss6()anwhteseHhInTyP7edpttosn91oftst8()ueteeeofteHhInEeS9C0()ieaepyadsys]
+[DELETED: LASIDADPDBYSES5Pe25of3()dehwbttoiecld,csd,addrgsldsofhhadhdsln()eeiyagcgdassaastoeeaUdHhDaSettisuebyas()iytersnytocedalsfcladrhu()ehatefrspadastoteids()dpaditasmttesrdasf0p,p,adp;a1()iyalosfrfed,i2ignwdatsadlrp3()Hhi,asddinsn92oftst,slp4cladcsdatoteAyofHnSsasddbyt5Ayinortofeteidsmofcladcsd6asstfhintss7()TeAyslpeastodatoSeasadh8cepsasndtosttegsofteSeHhC9DyPnedpttosn93oftst,o0e,toteetpdbytedaueasinpef1ehdas]
+[DELETED: LASIDADPDBYSES5Pe26of3()OnorbeJy15a,teAyofHnSsspeanuetoteHeCsonHhCeadonHSsadteSeCeonHhadWergtdtadinofteidsmofclacsdainaewhtssS.1.18V.§4isadtor§9.BDM;A**()Inantoayorpsadinortoeet0psoftscraderteBdtopmisd,t1CrofteBdmyies,eep,aro2adrepnofpsadr.Aysaornet3pemybesdbyrdorcdmlorinpnbyana4ofteC.Sebyrdorcdmlslbeeet5bsdsarm.Aysaornetopeslp6atltsxbsd’tefmsewnwhtoc,e7ttteCrmysntetefrcefrgdces8Aysaornetopestbyrdorcdm,p9p,slceseontepntowmitisa0()EhwswoasbeteCrursas1reafeadmeaspdfrwsinclcsinS]
+[DELETED: LASIDADPDBYSES5Pe27of3C;p,h,aypnsttoteBsaysntbeeetorefsormeurtss()TeBdmyseayi,p,orrsitrpttoasaornetopeidurtssnwarSeayasaetotewkoftta,pdttergayastomntecyofayip,orrsttaeetfmpcinadcgutePcRsA**0***RgAeCeOnCs**1S.1.RGAECEO2C;GNMNCEB3BTFRH;R4TeAyofHnSssleeostor5csddbyoronbfofacdaec6onttwefdinweorinptugSeorf7m,orb,adtthetepltomeblcst8Vshhces,shascsrdtoc9ptrmadqydamtadr.Onorb0Nr1,2,teAyofHnSsslrtisfsa1rstoteHhRmOtC]
+[DELETED: LASIDADPDBYSES5Pe28of3***InUs**S.1.AYOFHNS;IROnorbeNr1,2,teAyofHnSsspeanuetoteHhRmOtCergtAsinoftsa,igtessofisestdpteSeHhCeDyP,aehhcedi,adeeostornaeceoc,aswlasonishltnasptt022AsadRsN.17adteesofteesada1onVsadonVshhces2S.1.GNMNCEB;I3R4OnorbeFy1,2,teGnMnCeBds5peanuetoteHeCeonHhCeadteS6CeonHhadWergteBsino7tsa,igtessofisestoehmsfra8bninofrdpgaddtofg9hlb,adteesofteesadasonV0adonVshhces]
+[DELETED: LASIDADPDBYSES5Pe29of3S.1.3V.§7isadtor§3.HHCESMR;IGQADA;R()TeDrofHhCeRminteAyofHnSslberefrtecnofhhcesmrmeagEeBha,d,ado,adfcgwhteGnMnCeBdedin18Vcr2()OnorbeFy15a,teAyofHnS0slpeanuetoteHeCeonHhCeadteS1CeonHhadWergtessofisestod2admnteSeHhCeDyPninaewh13V.§,aehhcedainasstfhin18V4§,adcehltnasptto25AsadRsN.1,adteesofteesadaso6VsadonVshhces7S.1.18V.§)isadtor8()AyonorbeJy1,teBdslstartofi9asfrtepgcryrtoteHeCeonH0CeadteSeCeonHhadW1()Tertsli]
+[DELETED: LASIDADPDBYSES5Pe30of3**()tessofisestoehmsfradbinofrdpgaddtofglhb,adteesofteesadasonVsadoVshhces()ayrsfrmstoVts;a()ayaloradisontewkofteBdaartofmstofll,r,orp**0***P;As**1S.1.GNMNCEB;AYOFH2S;P3()Teetoftefgfenwptc4psisadatteGnMnCeBdinflyr25()oeD,GlB6()oePtM,GlB7()oeD,RdP8()oePtM,RdP;a9()oeSfA0()Teetoftefgtocdl1psisadatteAyofHnSsinflyr2]
+[DELETED: LASIDADPDBYSES5Pe31of3()oeHhCeRm()InM;a()oeAeSsDrI()TepsslbetdadcdfmevtpsinteEeB()ItisteitofteGlAytoaeteeofanalfenwptpsatteGnMnCBdinflyr27adarfenwptpsinfyr2S.1.A0()Tesmof$0isadfmteGlFdtot1AyofHnSsinflyr26frueasf2()$0frgstohsasndfrt3esidptto22AsadRsN.17adtot4trsstoitrdp5()$0fresadwhdtoft6SeHhCeDyP7()$0frcsfrcsadore8adwhinoftsa;a9()$0frtepsadinS.1)oftsa]
+[DELETED: LASIDADPDBYSES5Pe32of3()Tesmof$0isadfmteHhIdtotAyofHnSsinflyr26frgstohhcpsfrdaininaewhS.10oftsa()Tesmof$0isadfmteGlFdtotGnMnCeBdinflyr26frueasf()$0frtepsadinS.1)oftsaa()$0frc,igcsfraewigrdpginaewhtsa0()Ngaypnof32V.§1totec1tesmof$0isadfmteHhIdtoteG2MnCeBdinflyr26fresadw3idsnofechlbtdassi4aewhS.4oftsa5***EeDs**6S.1.EED7()S.17()ad18()slteetonJy1829()Tergssslteetonp**EeDe**.1.EEDsatslteetonp]

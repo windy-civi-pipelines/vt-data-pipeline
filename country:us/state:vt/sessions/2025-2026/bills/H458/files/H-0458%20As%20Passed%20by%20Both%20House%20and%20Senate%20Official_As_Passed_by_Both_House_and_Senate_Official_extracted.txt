@@ -1,0 +1,251 @@
+Title: BILLAS PASSED BY THE HOUSE AND SENATE H.458
+Official Title: BILLAS PASSED BY THE HOUSE AND SENATE H.458
+Number of Sections: 1
+Source: versions - As Passed by Both House and Senate (Official)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 5
+1 H.458
+2 Introduced by Committee on Energy and Digital Infrastructure
+3 Date:
+4 Subject: Executive; Agency of Digital Services
+5 Statement of purpose of bill as introduced: This bill proposes to revise the
+6 reporting requirements required of the Agency of Digital Services and to
+7 require the Agency to provide publicly available information containing details
+8 regarding information technology projects.
+9 An act relating to the Agency of Digital Services
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. INTENT
+12 The intent of this act is for the Agency of Digital Services to provide the
+13 General Assembly and the public with more transparency about the scope,
+14 budget, and overall status of certain information technology projects being
+15 managed by the Agency. This act requires the Agency to include more details
+16 about information technology projects it manages in its annual reporting as
+17 well as on its publicly available website in the form of a current projects
+18 inventory.
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 2 of 5
+1 Sec. 2. 3 V.S.A. § 3303 is amended to read:
+2 § 3303. REPORTING, RECORDS, AND REVIEW REQUIREMENTS
+3 (a) Annual report and budget. The Secretary shall submit to the General
+4 Assembly House Committee on Energy and Digital Infrastructure and the
+5 Senate Committee on Institutions, concurrent with the Governor’s annual
+6 budget request required under 32 V.S.A. § 306, an annual report for
+7 information technology and cybersecurity. The report shall reflect the
+8 priorities of the Agency and shall include:
+9 (1) performance metrics and trends, including baseline and annual
+10 measurements, for each division of the Agency;
+11 (2) a financial report of revenues and expenditures to date for the
+12 current fiscal year;
+13 (3) costs avoided or saved as a result of technology optimization for the
+14 previous fiscal year;
+15 (4) an outline summary of information, including scope, schedule,
+16 budget, and status for information technology projects with total costs of
+17 $500,000.00 or greater a summary of each active information technology
+18 project managed by the Agency’s Enterprise Project Management Office,
+19 including each project’s:
+20 (A) scope;
+21 (B) budget;
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 3 of 5
+1 (C) timeline; and
+2 (D) status, which includes:
+3 (i) project closure details;
+4 (ii) project changes over time; and
+5 (iii) other indicators of the project being on time and on budget;
+6 (5) an annual update to the strategic plan prepared pursuant to
+7 subsection (c) of this section;
+8 (6) a summary of independent reviews as required by subsection (d) of
+9 this section, including any uses of the waiver authority by the Chief
+10 Information Officer pursuant to subdivision (d)(3) of this section;
+11 (7) the Agency budget submission;
+12 (8) an annual update to the inventory required by section 3305 of this
+13 title; and.
+14 (9) a report on the expenditures of the Technology Modernization
+15 Special Fund, a list of projects receiving funding from the Fund in the prior
+16 fiscal year, and a list of prioritized recommendations for projects to be funded
+17 from the Fund in the next fiscal year.
+18 (b) Records. The Agency shall maintain the following records for
+19 information technology projects with a total cost of $500,000.00 or greater
+20 managed by the Agency’s Enterprise Project Management Office:
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 4 of 5
+1 (1) A business case, including staffing costs, when available to and
+2 provided by the State government business partner, life-cycle costs, and
+3 sources of funds for design, development, and implementation, as well as
+4 maintenance and operations. The business case shall include expected
+5 benefits, including cost savings and service delivery improvements.
+6 * * *
+7 (d) Independent expert review.
+8 (1) The Agency shall obtain independent expert review of any new
+9 information technology projects with a total cost of $1,000,000.00 or greater
+10 or when required by the Chief Information Officer.
+11 (2) The independent review shall include:
+12 (A) an acquisition cost assessment;
+13 (B) a technology architecture and standards review;
+14 (C) an implementation plan assessment;
+15 (D) a cost analysis and a model for benefit analysis;
+16 (E) an analysis of alternatives;
+17 (F) an impact analysis on net operating costs for the agency carrying
+18 out the activity; and
+19 (G) a security assessment.
+20 (3) The requirement to obtain independent expert review described in
+21 subdivision (1) of this subsection (d) may be waived by the Chief Information
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 5 of 5
+1 Officer if, in his or her the Chief Information Officer’s judgment, such a
+2 review would be duplicative of one or more reviews that have been, or will be,
+3 conducted under a separate federal or State requirement. If waived, such
+4 waiver shall be in writing and in accordance with procedures established by
+5 the Chief Information Officer.
+6 (e) Current projects inventory. The Agency shall maintain a project
+7 inventory on its publicly accessible website that displays the status of all
+8 current information technology projects managed by the Agency’s Enterprise
+9 Project Management Office. The inventory shall be updated at least monthly
+10 and include the:
+11 (1) State government business partner for each project;
+12 (2) name of each project;
+13 (3) start date of each project;
+14 (4) estimated date of completion at the start of the implementation phase
+15 of each project along with an indicator as to whether the project is on time;
+16 (5) estimated project cost at the start of the implementation phase of
+17 each project along with an indicator as to whether the project is on budget;
+18 (6) current estimated date of completion of each project; and
+19 (7) current estimated cost of each project.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+[DELETED: LASPDBYTEHEADSEH5Pe1ofHIdbyCeonEyadDlIDS:E;AyofDlSStofpeofblasi:TsblpstoretrgrsrdofteAyofDlSsadtreteAytopepyaeincgdrgintypAnatrgtoteAyofDlS0ItishyedbyteGlAyofteSeofV1S.1.I2TeitoftsatisfrteAyofDlSstopet3GlAyadtepcwhmetyattes4b,adolssofcnintypsb5mdbyteA.TsatrsteAytoiemed6atintypsitmsinisalrga7wlasonispyaeweintefmofactp8i]
+[DELETED: LASPDBYTEHEADSEH5Pe2ofS.2.3V.§3isadtor§3.R,R,ADRWR()Alrtadb.TeSyslsttoteGAyHeCeonEyadDlIeadtSeCeonI,ctwhteGsabtrtrdur32V.§3,analrtfintyadc.TertslrttpsofteAyadsli()pemsadt,igbeada0m,frehdnofteA1()aflrtofrsadestodefrt2ctfly3()csadorsdasartoftyonfrt4psfly5()anoesyofi,igs,s6b,adssfrintypswhtlcso7$0orgrasyofehaeint8ptmdbyteAsEePtMtO9igehp0()s1()b]
+[DELETED: LASPDBYTEHEADSEH5Pe3of()t;a()s,whi()ptced()ptcsort;a()orisofteptbgonteadonb()analuetotescpnpdpttsn()oftss()asyofitrsasrdbysn()otss,igayusoftewraybyteC0InOrpttosn()oftss1()teAybts2()analuetoteiyrdbysn35oft3t;a4()artonteesofteTyM5SlF,altofpsrgfgfmteFdintep6fly,adaltofpdrsfrpstobef7fmteFdintentfly8()R.TeAyslmntefgrsf9intypswhatlctof$0org0mdbyteAsEePtMtO]
+[DELETED: LASPDBYTEHEADSEH5Pe4of()Absc,igsgc,wnaetoapdbyteSegtbsp,lec,assoffsfrd,d,adi,aswlameado.Tebsceslieeb,igctssadsedyi**()Itetr()TeAyslonitetrwofaynintypswhatlctof$0org0orwnrdbyteCfInO1()Teitrwsli2()anancta3()atyaeadssr4()aninpna5()actasadamlfrbta6()anasofa7()anitasonntogcsfrteayc8ottea;a9()asya0()Terttoonitetrwddi1sn()oftssn()mybewdbyteCfI]
+[DELETED: LASPDBYTEHEADSEH5Pe5ofOri,inhsorhrteCfInOsj,shrwwdbedeofoeormersttheb,orwlbcduraseflorSer.Ifw,swrslbeinwgadinaewhpsedbteCfInO()Ctpsi.TeAyslmnapiyonispyaewettdstessofactintypsmdbyteAsEPtMtO.Teiyslbeudatltm0adiet1()Segtbsprfrehp2()neofehp3()stdeofehp4()eddeofcnattestofteinp5ofehptagwhanirastowrteptisont6()edptctattestofteinpeo7ehptagwhanirastowrteptisonb8()cteddeofcnofehp;a9()ctedctofehp0S.3.EED1TsatslteetonJy1,2]
+
+
+================================================================================
+
+Raw Text:
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 1 of 5
+1 H.458
+2 Introduced by Committee on Energy and Digital Infrastructure
+3 Date:
+4 Subject: Executive; Agency of Digital Services
+5 Statement of purpose of bill as introduced: This bill proposes to revise the
+6 reporting requirements required of the Agency of Digital Services and to
+7 require the Agency to provide publicly available information containing details
+8 regarding information technology projects.
+9 An act relating to the Agency of Digital Services
+10 It is hereby enacted by the General Assembly of the State of Vermont:
+11 Sec. 1. INTENT
+12 The intent of this act is for the Agency of Digital Services to provide the
+13 General Assembly and the public with more transparency about the scope,
+14 budget, and overall status of certain information technology projects being
+15 managed by the Agency. This act requires the Agency to include more details
+16 about information technology projects it manages in its annual reporting as
+17 well as on its publicly available website in the form of a current projects
+18 inventory.
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 2 of 5
+1 Sec. 2. 3 V.S.A. § 3303 is amended to read:
+2 § 3303. REPORTING, RECORDS, AND REVIEW REQUIREMENTS
+3 (a) Annual report and budget. The Secretary shall submit to the General
+4 Assembly House Committee on Energy and Digital Infrastructure and the
+5 Senate Committee on Institutions, concurrent with the Governor’s annual
+6 budget request required under 32 V.S.A. § 306, an annual report for
+7 information technology and cybersecurity. The report shall reflect the
+8 priorities of the Agency and shall include:
+9 (1) performance metrics and trends, including baseline and annual
+10 measurements, for each division of the Agency;
+11 (2) a financial report of revenues and expenditures to date for the
+12 current fiscal year;
+13 (3) costs avoided or saved as a result of technology optimization for the
+14 previous fiscal year;
+15 (4) an outline summary of information, including scope, schedule,
+16 budget, and status for information technology projects with total costs of
+17 $500,000.00 or greater a summary of each active information technology
+18 project managed by the Agency’s Enterprise Project Management Office,
+19 including each project’s:
+20 (A) scope;
+21 (B) budget;
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 3 of 5
+1 (C) timeline; and
+2 (D) status, which includes:
+3 (i) project closure details;
+4 (ii) project changes over time; and
+5 (iii) other indicators of the project being on time and on budget;
+6 (5) an annual update to the strategic plan prepared pursuant to
+7 subsection (c) of this section;
+8 (6) a summary of independent reviews as required by subsection (d) of
+9 this section, including any uses of the waiver authority by the Chief
+10 Information Officer pursuant to subdivision (d)(3) of this section;
+11 (7) the Agency budget submission;
+12 (8) an annual update to the inventory required by section 3305 of this
+13 title; and.
+14 (9) a report on the expenditures of the Technology Modernization
+15 Special Fund, a list of projects receiving funding from the Fund in the prior
+16 fiscal year, and a list of prioritized recommendations for projects to be funded
+17 from the Fund in the next fiscal year.
+18 (b) Records. The Agency shall maintain the following records for
+19 information technology projects with a total cost of $500,000.00 or greater
+20 managed by the Agency’s Enterprise Project Management Office:
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 4 of 5
+1 (1) A business case, including staffing costs, when available to and
+2 provided by the State government business partner, life-cycle costs, and
+3 sources of funds for design, development, and implementation, as well as
+4 maintenance and operations. The business case shall include expected
+5 benefits, including cost savings and service delivery improvements.
+6 * * *
+7 (d) Independent expert review.
+8 (1) The Agency shall obtain independent expert review of any new
+9 information technology projects with a total cost of $1,000,000.00 or greater
+10 or when required by the Chief Information Officer.
+11 (2) The independent review shall include:
+12 (A) an acquisition cost assessment;
+13 (B) a technology architecture and standards review;
+14 (C) an implementation plan assessment;
+15 (D) a cost analysis and a model for benefit analysis;
+16 (E) an analysis of alternatives;
+17 (F) an impact analysis on net operating costs for the agency carrying
+18 out the activity; and
+19 (G) a security assessment.
+20 (3) The requirement to obtain independent expert review described in
+21 subdivision (1) of this subsection (d) may be waived by the Chief Information
+
+BILLAS PASSED BY THE HOUSE AND SENATE H.458
+2025 Page 5 of 5
+1 Officer if, in his or her the Chief Information Officer’s judgment, such a
+2 review would be duplicative of one or more reviews that have been, or will be,
+3 conducted under a separate federal or State requirement. If waived, such
+4 waiver shall be in writing and in accordance with procedures established by
+5 the Chief Information Officer.
+6 (e) Current projects inventory. The Agency shall maintain a project
+7 inventory on its publicly accessible website that displays the status of all
+8 current information technology projects managed by the Agency’s Enterprise
+9 Project Management Office. The inventory shall be updated at least monthly
+10 and include the:
+11 (1) State government business partner for each project;
+12 (2) name of each project;
+13 (3) start date of each project;
+14 (4) estimated date of completion at the start of the implementation phase
+15 of each project along with an indicator as to whether the project is on time;
+16 (5) estimated project cost at the start of the implementation phase of
+17 each project along with an indicator as to whether the project is on budget;
+18 (6) current estimated date of completion of each project; and
+19 (7) current estimated cost of each project.
+20 Sec. 3. EFFECTIVE DATE
+21 This act shall take effect on July 1, 2025.
+
+[DELETED: LASPDBYTEHEADSEH5Pe1ofHIdbyCeonEyadDlIDS:E;AyofDlSStofpeofblasi:TsblpstoretrgrsrdofteAyofDlSsadtreteAytopepyaeincgdrgintypAnatrgtoteAyofDlS0ItishyedbyteGlAyofteSeofV1S.1.I2TeitoftsatisfrteAyofDlSstopet3GlAyadtepcwhmetyattes4b,adolssofcnintypsb5mdbyteA.TsatrsteAytoiemed6atintypsitmsinisalrga7wlasonispyaeweintefmofactp8i]
+[DELETED: LASPDBYTEHEADSEH5Pe2ofS.2.3V.§3isadtor§3.R,R,ADRWR()Alrtadb.TeSyslsttoteGAyHeCeonEyadDlIeadtSeCeonI,ctwhteGsabtrtrdur32V.§3,analrtfintyadc.TertslrttpsofteAyadsli()pemsadt,igbeada0m,frehdnofteA1()aflrtofrsadestodefrt2ctfly3()csadorsdasartoftyonfrt4psfly5()anoesyofi,igs,s6b,adssfrintypswhtlcso7$0orgrasyofehaeint8ptmdbyteAsEePtMtO9igehp0()s1()b]
+[DELETED: LASPDBYTEHEADSEH5Pe3of()t;a()s,whi()ptced()ptcsort;a()orisofteptbgonteadonb()analuetotescpnpdpttsn()oftss()asyofitrsasrdbysn()otss,igayusoftewraybyteC0InOrpttosn()oftss1()teAybts2()analuetoteiyrdbysn35oft3t;a4()artonteesofteTyM5SlF,altofpsrgfgfmteFdintep6fly,adaltofpdrsfrpstobef7fmteFdintentfly8()R.TeAyslmntefgrsf9intypswhatlctof$0org0mdbyteAsEePtMtO]
+[DELETED: LASPDBYTEHEADSEH5Pe4of()Absc,igsgc,wnaetoapdbyteSegtbsp,lec,assoffsfrd,d,adi,aswlameado.Tebsceslieeb,igctssadsedyi**()Itetr()TeAyslonitetrwofaynintypswhatlctof$0org0orwnrdbyteCfInO1()Teitrwsli2()anancta3()atyaeadssr4()aninpna5()actasadamlfrbta6()anasofa7()anitasonntogcsfrteayc8ottea;a9()asya0()Terttoonitetrwddi1sn()oftssn()mybewdbyteCfI]
+[DELETED: LASPDBYTEHEADSEH5Pe5ofOri,inhsorhrteCfInOsj,shrwwdbedeofoeormersttheb,orwlbcduraseflorSer.Ifw,swrslbeinwgadinaewhpsedbteCfInO()Ctpsi.TeAyslmnapiyonispyaewettdstessofactintypsmdbyteAsEPtMtO.Teiyslbeudatltm0adiet1()Segtbsprfrehp2()neofehp3()stdeofehp4()eddeofcnattestofteinp5ofehptagwhanirastowrteptisont6()edptctattestofteinpeo7ehptagwhanirastowrteptisonb8()cteddeofcnofehp;a9()ctedctofehp0S.3.EED1TsatslteetonJy1,2]

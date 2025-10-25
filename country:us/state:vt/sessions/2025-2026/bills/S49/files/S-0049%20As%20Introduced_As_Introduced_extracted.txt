@@ -1,0 +1,229 @@
+Title: BILL AS INTRODUCED S.49
+Official Title: BILL AS INTRODUCED S.49
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 5
+1 S.49
+2 Introduced by Senators Gulick, Hardy, Vyhovsky and White
+3 Referred to Committee on
+4 Date:
+5 Subject: Health care privacy; reproductive health care services
+6 Statement of purpose of bill as introduced: This bill proposes to restrict the
+7 ability to establish geofences around health care facilities offering reproductive
+8 health care services and to prevent law enforcement from obtaining reverse
+9 keyword warrants for individuals who search for reproductive health care
+10 services.
+11 An act relating to protecting the privacy of individuals seeking reproductive
+12 health care services
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. PURPOSE
+15 The purpose of this act is to protect the privacy of individuals receiving
+16 reproductive health care services by prohibiting persons, including law
+17 enforcement officials, from using a geofence, or acquiring data gained from a
+18 geofence, to identify or track those individuals or to send messages or
+19 notifications to those individuals. It also prohibits a government entity from
+20 seeking or obtaining a warrant that would target individuals who searched
+VT LEG #379102 v.1
+BILL AS INTRODUCED S.49
+2025 Page 2 of 5
+1 electronically for reproductive health services. This act is supported by
+2 Chapter I, Article 22 of the Vermont Constitution, which protects an
+3 individual’s right to personal reproductive autonomy.
+4 Sec. 2. 18 V.S.A. chapter 42B is amended to read:
+5 42B. HEALTH CARE PRIVACY
+6 Subchapter 1. Disclosure of Protected Health Information
+7 § 1881. DISCLOSURE OF PROTECTED HEALTH INFORMATION
+8 PROHIBITED
+9 * * *
+10 Subchapter 2. Geofencing of Health Care Facilities
+11 § 1891. PROHIBITION OF GEOFENCING;
+12 (a) Definitions. As used in this subchapter:
+13 (1) “Device” means a cell phone, a computer, a tablet, and any other
+14 device that is capable of transmitting, receiving, or recording messages,
+15 images, sounds, data, or other information by electronic means or that, in
+16 appearance, purports to be a cell phone, computer, tablet, or other such device.
+17 (2) “Geofence” means any technology that uses global positioning
+18 coordinates, cell tower connectivity, cellular data, radio frequency
+19 identification, wireless fidelity technology data, or any other form of location
+20 detection, or any combination of such coordinates, connectivity, data,
+21 identification, or other form of location detection, to establish a virtual
+VT LEG #379102 v.1
+BILL AS INTRODUCED S.49
+2025 Page 3 of 5
+1 boundary. It shall also mean the process of identifying whether a device
+2 enters, exits, or is present within a geographic area through the use of any
+3 information stored, transmitted, or received by the device.
+4 (3) “Health care facility” means a hospital, ambulatory surgical center,
+5 health center, clinic, health care provider’s office, or other facility that
+6 provides reproductive health care services and includes the building or
+7 structure in which the facility is located.
+8 (4) “Reproductive health care services” has the same meaning as in
+9 1 V.S.A. § 150.
+10 (b) Prohibitions. No person shall:
+11 (1) use or establish a geofence, or similar virtual boundary, that is within
+12 1,850 feet of any health care facility, other than a person’s own health care
+13 facility, for the purpose of:
+14 (A) identifying or tracking an individual seeking reproductive health
+15 care services; or
+16 (B) sending a notification, message, or advertisement to an
+17 individual’s device that is related to an individual’s reproductive health care
+18 services; or
+19 (2) acquire data of an individual that it knows, or reasonably should
+20 have known, was obtained through the use of a geofence as set forth in
+21 subdivision (1)(A) of this subsection.
+VT LEG #379102 v.1
+BILL AS INTRODUCED S.49
+2025 Page 4 of 5
+1 (c) Penalty. A person who violates this section shall be assessed a civil
+2 penalty of not more than $500.00 per violation.
+3 Subchapter 3. Reverse Keyword Warrants
+4 § 1893. PROHIBITION OF REVERSE KEYWORD WARRANTS
+5 (a) Definitions. As used in this subchapter:
+6 (1) “Reproductive health care services” has the same meaning as in
+7 1 V.S.A. § 150.
+8 (2) “Reverse keyword court order” means any court order, including a
+9 search warrant, compelling the disclosure of records or information identifying
+10 any unnamed individuals, by name or other unique identifier, who
+11 electronically searched for particular words, phrases, character strings, or
+12 websites related to reproductive health care services, or who visited a
+13 particular website through a link generated by such a search, regardless of
+14 whether or not the order is limited to a specific geographic area or time frame.
+15 (b) Prohibition. No government entity shall seek or obtain:
+16 (1) a reverse keyword court order;
+17 (2) the assistance in obtaining a reverse keyword court order from any:
+18 (A) nongovernmental entity;
+19 (B) agency of the federal government; or
+20 (C) agency of the government of any other state or subdivision
+21 thereof.
+VT LEG #379102 v.1
+BILL AS INTRODUCED S.49
+2025 Page 5 of 5
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2025.
+VT LEG #379102 v.1
+[DELETED:  S P S I S R D S S a h k s A h I S T r e g n s]
+[DELETED:  S P e C i S 4 S §   * S § ( ( d i a ( c i d i]
+[DELETED:  S P b e i ( h p s ( 1 ( ( 1 f ( c ( i s ( h s]
+[DELETED:  S P ( p S § ( ( 1 ( s a e w p w ( ( ( ( ( ( t]
+[DELETED:  S P S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.49
+2025 Page 1 of 5
+1 S.49
+2 Introduced by Senators Gulick, Hardy, Vyhovsky and White
+3 Referred to Committee on
+4 Date:
+5 Subject: Health care privacy; reproductive health care services
+6 Statement of purpose of bill as introduced: This bill proposes to restrict the
+7 ability to establish geofences around health care facilities offering reproductive
+8 health care services and to prevent law enforcement from obtaining reverse
+9 keyword warrants for individuals who search for reproductive health care
+10 services.
+11 An act relating to protecting the privacy of individuals seeking reproductive
+12 health care services
+13 It is hereby enacted by the General Assembly of the State of Vermont:
+14 Sec. 1. PURPOSE
+15 The purpose of this act is to protect the privacy of individuals receiving
+16 reproductive health care services by prohibiting persons, including law
+17 enforcement officials, from using a geofence, or acquiring data gained from a
+18 geofence, to identify or track those individuals or to send messages or
+19 notifications to those individuals. It also prohibits a government entity from
+20 seeking or obtaining a warrant that would target individuals who searched
+VT LEG #379102 v.1
+
+BILL AS INTRODUCED S.49
+2025 Page 2 of 5
+1 electronically for reproductive health services. This act is supported by
+2 Chapter I, Article 22 of the Vermont Constitution, which protects an
+3 individual’s right to personal reproductive autonomy.
+4 Sec. 2. 18 V.S.A. chapter 42B is amended to read:
+5 42B. HEALTH CARE PRIVACY
+6 Subchapter 1. Disclosure of Protected Health Information
+7 § 1881. DISCLOSURE OF PROTECTED HEALTH INFORMATION
+8 PROHIBITED
+9 * * *
+10 Subchapter 2. Geofencing of Health Care Facilities
+11 § 1891. PROHIBITION OF GEOFENCING;
+12 (a) Definitions. As used in this subchapter:
+13 (1) “Device” means a cell phone, a computer, a tablet, and any other
+14 device that is capable of transmitting, receiving, or recording messages,
+15 images, sounds, data, or other information by electronic means or that, in
+16 appearance, purports to be a cell phone, computer, tablet, or other such device.
+17 (2) “Geofence” means any technology that uses global positioning
+18 coordinates, cell tower connectivity, cellular data, radio frequency
+19 identification, wireless fidelity technology data, or any other form of location
+20 detection, or any combination of such coordinates, connectivity, data,
+21 identification, or other form of location detection, to establish a virtual
+VT LEG #379102 v.1
+
+BILL AS INTRODUCED S.49
+2025 Page 3 of 5
+1 boundary. It shall also mean the process of identifying whether a device
+2 enters, exits, or is present within a geographic area through the use of any
+3 information stored, transmitted, or received by the device.
+4 (3) “Health care facility” means a hospital, ambulatory surgical center,
+5 health center, clinic, health care provider’s office, or other facility that
+6 provides reproductive health care services and includes the building or
+7 structure in which the facility is located.
+8 (4) “Reproductive health care services” has the same meaning as in
+9 1 V.S.A. § 150.
+10 (b) Prohibitions. No person shall:
+11 (1) use or establish a geofence, or similar virtual boundary, that is within
+12 1,850 feet of any health care facility, other than a person’s own health care
+13 facility, for the purpose of:
+14 (A) identifying or tracking an individual seeking reproductive health
+15 care services; or
+16 (B) sending a notification, message, or advertisement to an
+17 individual’s device that is related to an individual’s reproductive health care
+18 services; or
+19 (2) acquire data of an individual that it knows, or reasonably should
+20 have known, was obtained through the use of a geofence as set forth in
+21 subdivision (1)(A) of this subsection.
+VT LEG #379102 v.1
+
+BILL AS INTRODUCED S.49
+2025 Page 4 of 5
+1 (c) Penalty. A person who violates this section shall be assessed a civil
+2 penalty of not more than $500.00 per violation.
+3 Subchapter 3. Reverse Keyword Warrants
+4 § 1893. PROHIBITION OF REVERSE KEYWORD WARRANTS
+5 (a) Definitions. As used in this subchapter:
+6 (1) “Reproductive health care services” has the same meaning as in
+7 1 V.S.A. § 150.
+8 (2) “Reverse keyword court order” means any court order, including a
+9 search warrant, compelling the disclosure of records or information identifying
+10 any unnamed individuals, by name or other unique identifier, who
+11 electronically searched for particular words, phrases, character strings, or
+12 websites related to reproductive health care services, or who visited a
+13 particular website through a link generated by such a search, regardless of
+14 whether or not the order is limited to a specific geographic area or time frame.
+15 (b) Prohibition. No government entity shall seek or obtain:
+16 (1) a reverse keyword court order;
+17 (2) the assistance in obtaining a reverse keyword court order from any:
+18 (A) nongovernmental entity;
+19 (B) agency of the federal government; or
+20 (C) agency of the government of any other state or subdivision
+21 thereof.
+VT LEG #379102 v.1
+
+BILL AS INTRODUCED S.49
+2025 Page 5 of 5
+1 Sec. 3. EFFECTIVE DATE
+2 This act shall take effect on July 1, 2025.
+VT LEG #379102 v.1
+
+[DELETED:  S P S I S R D S S a h k s A h I S T r e g n s]
+[DELETED:  S P e C i S 4 S §   * S § ( ( d i a ( c i d i]
+[DELETED:  S P b e i ( h p s ( 1 ( ( 1 f ( c ( i s ( h s]
+[DELETED:  S P ( p S § ( ( 1 ( s a e w p w ( ( ( ( ( ( t]
+[DELETED:  S P S T]

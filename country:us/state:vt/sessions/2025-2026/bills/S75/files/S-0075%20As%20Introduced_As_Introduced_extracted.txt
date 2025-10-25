@@ -1,0 +1,2610 @@
+Title: BILL AS INTRODUCED S.75
+Official Title: BILL AS INTRODUCED S.75
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 52 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 52
+1 S.75
+2 Introduced by Senators White, Clarkson, Gulick, Major and Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; vehicle incentive programs; public transit; retail
+6 delivery fees; efficiency fees; efficiency rebates; feebates; electric
+7 vehicles; eBikes; vehicle miles traveled; electric vehicle supply
+8 equipment; local highway aid; complete streets; Vermont State
+9 Standards; traffic signals; bicycles; first-time car buyers
+10 Statement of purpose of bill as introduced: This bill proposes to do the
+11 following: (1) appropriate funds for the Incentive Program for New Plug-in
+12 Electric Vehicles; the MileageSmart Incentive Program, the Replace Your
+13 Ride Program, and the eBike Incentive Program; (2) provide additional State
+14 funding for local public transit agencies in fiscal year 2026 to ensure that
+15 agencies maintain the existing level of service; (3) impose a fee on retail
+16 deliveries that are subject to the sales and use tax; (4) create a revenue-neutral
+17 system of motor vehicle efficiency fees and motor vehicle efficiency rebates;
+18 (5) require the Agency of Transportation to implement public outreach
+19 campaigns related to public transportation, active transportation, electric
+20 vehicles, idling, and safe passing distances; (6) provide funding to the Agency
+21 of Transportation to enhance public-private partnerships promoting electric
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 2 of 52
+1 vehicles and eBikes; (7) require the Agency of Transportation to consider
+2 reductions in vehicle miles traveled and greenhouse gas emissions reductions
+3 when evaluating projects; (8) reduce the local share due from smaller
+4 municipalities seeking State funding for projects; (9) direct the Agency of
+5 Transportation to provide technical assistance to municipalities in relation to
+6 implementation of complete streets; (10) require the updated Vermont State
+7 Standards to incorporate complete streets principles and consideration of green
+8 infrastructure; (11) establish right-to-charge laws to permit property owners
+9 and tenants to install electric vehicle supply equipment (EVSE); (12) require
+10 EVSE that is available for public use to accept credit cards for payment; (13)
+11 require the Agency of Transportation to examine the possibility of generating
+12 revenue from utilities located in State-owned rights of way, to permit parking
+13 in State-owned rights of way in downtowns, and to identify locations for
+14 collocating EVSE and on-street parking in State-owned rights of way; (14)
+15 amend the traffic-control signals a bicycle operator must follow; (15) provide
+16 additional funding and support for projects to improve resiliency of municipal
+17 highways; (16) study potential cost savings for education-related
+18 transportation; and (17) provide funding for first-time car buyer classes.
+19 An act relating to transportation initiatives to improve equity and
+20 infrastructure, increase resiliency, and reduce emissions
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 3 of 52
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Short Title * * *
+3 Sec. 1. SHORT TITLE
+4 This act may be cited as “An Act Relating to Creating a Unified Resilient
+5 Transportation System” or “Curt’s Act.”
+6 * * * Efficient Vehicle Incentive Program Funding * * *
+7 Sec. 2. APPROPRIATIONS FOR VEHICLE INCENTIVE PROGRAMS
+8 (a) The sum of $3,000,000.00 is appropriated from the General Fund to the
+9 Agency of Transportation in fiscal year 2026 for the purpose of funding the
+10 MileageSmart Program established pursuant to 19 V.S.A. § 2902.
+11 (b) The sum of $10,000,000.00 is appropriated from the General Fund to
+12 the Agency of Transportation in fiscal year 2026 for the purpose of funding the
+13 Incentive Program for New Plug-In Electric Vehicles established pursuant to
+14 19 V.S.A. § 2901.
+15 (c) The sum of $1,000,000.00 is appropriated from the General Fund to the
+16 Agency of Transportation in fiscal year 2026 for the purpose of funding the
+17 Replace Your Ride program established pursuant to 19 V.S.A. § 2904.
+18 (d) The sum of $150,000.00 is appropriated from the General Fund to the
+19 Agency of Transportation in fiscal year 2026 for the purpose of funding the
+20 eBike Incentive Program established pursuant to 2021 Acts and Resolves No.
+21 55, Sec. 28, as amended by 2022 Acts and Resolves No. 184, Sec. 23.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 4 of 52
+1 Sec. 3. ONE-TIME PUBLIC TRANSIT MONIES
+2 (a) Project addition. The following project is added to the Agency of
+3 Transportation’s Proposed Fiscal Year 2026 Transportation Program:
+4 Increased One-Time Monies for Public Transit for Fiscal Year 2026.
+5 (b) Authorization. Spending authority for Increased One-Time Monies for
+6 Public Transit for Fiscal Year 2025 is authorized as follows:
+7 FY25 As Proposed As Amended Change
+8 Other $0.00 $1,280,000.00 $1,280,000.00
+9 Total $0.00 $1,280,000.00 $1,280,000.00
+10 Sources of funds
+11 State $0.00 $1,280,000.00 $1,280,000.00
+12 Total $0.00 $1,280,000.00 $1,280,000.00
+13 (c) Federal monies. The Agency of Transportation shall utilize available
+14 federal monies in lieu of the authorization in subsection (b) of this section to
+15 the greatest extent practicable, provided that there is no negative impact on any
+16 local public transit providers.
+17 (d) Implementation. The Agency shall distribute the authorization in
+18 subsection (b) of this section to local transit agencies as one-time bridge
+19 funding for fiscal year 2026 to ensure that local transit agencies are able to
+20 maintain the existing level of service and make planned capital investments in
+21 fiscal year 2026.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 5 of 52
+1 * * * Retail Delivery Fee * * *
+2 Sec. 4. 23 V.S.A. chapter 26 is added to read:
+3 CHAPTER 26. RETAIL DELIVERY FEE
+4 § 2551. DEFINITIONS
+5 As used in this chapter:
+6 (1) “Commissioner” means the Commissioner of Taxes.
+7 (2) “Persons required to collect tax” has the same meaning as in
+8 32 V.S.A. § 9701.
+9 (3) “Retail delivery” means a delivery of tangible personal property to a
+10 person located in Vermont as part of a retail sale by a vendor. Retail delivery
+11 does not include pickup of tangible personal property at a vendor’s place of
+12 business, including curbside pickup.
+13 (4) “Tangible personal property” has the same meaning as in 32 V.S.A.
+14 § 9701, except that it shall not include electricity, water, gas, steam, and
+15 prewritten computer software.
+16 (5) “Vendor” has the same meaning as in 32 V.S.A. § 9701.
+17 § 2552. FEE ON RETAIL DELIVERIES
+18 (a)(1) All retail deliveries by persons required to collect tax pursuant to
+19 32 V.S.A. chapter 233 shall be subject to a delivery fee of $0.30.
+20 (2) A vendor may elect to collect the fee imposed pursuant to this
+21 section from the purchaser.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 6 of 52
+1 (3) For purposes of 32 V.S.A. chapter 233, the delivery fee imposed
+2 pursuant to this section shall not be included in the sales price of the tangible
+3 personal property sold as part of a retail sale and shall be separately stated on
+4 any invoice, bill or sale, or similar document given to the purchaser.
+5 (b) If the vendor collects the delivery fee from the purchaser, the delivery
+6 fee must be charged in addition to any other delivery fee.
+7 (c) The delivery fee imposed pursuant to this section shall only be charged
+8 once per retail transaction regardless of the number of:
+9 (1) items of tangible personal property purchased; or
+10 (2) shipments needed to deliver the items of tangible personal property
+11 purchased.
+12 (d)(1) The delivery fee imposed pursuant to this section shall be
+13 nonrefundable if any or all items of tangible personal property that were
+14 purchased are returned to the vendor or the vendor provides a refund or credit
+15 in an amount that is equal to or less than the purchase price of the items.
+16 (2) The delivery fee imposed pursuant to this section shall be refunded
+17 to the purchaser if the retail delivery is canceled by the purchaser, vendor, or
+18 the delivery provider.
+19 § 2553. RETURNS; PAYMENT OF RETAIL DELIVERY FEES
+20 (a) A vendor shall report the amount of fees collected on a return
+21 prescribed by the Commissioner. The return shall include any other
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 7 of 52
+1 information that the Commissioner deems necessary for the administration of
+2 this chapter.
+3 (b) Returns required pursuant to this section shall be submitted to the
+4 Commissioner on the same schedule as the vendor is required to submit sales
+5 tax returns pursuant to 32 V.S.A. § 9775.
+6 (c) All fees collected by a vendor for the time period covered by a return
+7 shall be remitted to the Commissioner at the same time the vendor submits the
+8 return.
+9 § 2554. ADMINISTRATION; OVERPAYMENTS; REFUNDS;
+10 ENFORCEMENT; PENALTIES
+11 The provisions of 32 V.S.A. chapter 233 relating to administration, refunds
+12 of overpayments, enforcement, penalties, and appeals shall apply to this
+13 chapter.
+14 § 2555. DEPOSIT AND USE OF FEES
+15 Retail delivery fees collected pursuant to this chapter shall be deposited into
+16 the Transportation Fund and used to support public transit services in the State.
+17 * * * Efficiency Fees and Rebates * * *
+18 Sec. 5. 23 V.S.A. § 383 is added to read:
+19 § 383. EFFICIENCY FEESf AND REBATES
+20 (a) As used in this section:
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 8 of 52
+1 (1) “Covered vehicles” includes new light trucks, new passenger
+2 automobiles, and new sport utility vehicles.
+3 (2) “Light truck” means a motor vehicle, without regard to whether the
+4 motor vehicle could be categorized as a special purpose vehicle, that would be
+5 categorized as a small pickup truck, standard pickup truck, van, or minivan by
+6 the Administrator of the Environmental Protection Agency or authorized
+7 representative for purposes of fuel economy labeling pursuant to 40 C.F.R.
+8 § 600.315-08.
+9 (3) “Motor vehicle” has the same meaning as in subdivision 4(21) of
+10 this title.
+11 (4) “Motor vehicle type” means a light duty truck, passenger
+12 automobile, or sport utility vehicle.
+13 (5) “New motor vehicle” has the same meaning as in subdivision 4(62)
+14 of this title.
+15 (6) “Passenger automobile” means a motor vehicle, without regard to
+16 whether the motor vehicle could be categorized as a special purpose vehicle,
+17 that would be categorized as a two seater, minicompact car, subcompact car,
+18 compact car, midsize car, large car, small station wagon, midsize station
+19 wagon, or large station wagon by the Administrator of the Environmental
+20 Protection Agency or authorized representative for purposes of fuel economy
+21 labeling pursuant to 40 C.F.R. § 600.315-08.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 9 of 52
+1 (7) “Sport utility vehicle” means a motor vehicle, without regard to
+2 whether the motor vehicle could be categorized as a special purpose vehicle,
+3 that would be categorized as a small sport utility vehicle or standard sport
+4 utility vehicle by the Administrator of the Environmental Protection Agency or
+5 authorized representative for purposes of fuel economy labeling pursuant to
+6 40 C.F.R. § 600.315-08.
+7 (8) “Vehicle efficiency” means the combined fuel economy in miles per
+8 gallon or miles per gallon equivalent (MPGe) of the motor vehicle as rated by
+9 the Environmental Protection Agency.
+10 (b) All covered vehicles shall, at the time of initial registration in the State,
+11 be subject to an efficiency fee or entitled to an efficiency rebate under a system
+12 that:
+13 (1) is designed to provide a rebate for motor vehicles within each motor
+14 vehicle type that have a high vehicle efficiency as compared to the average
+15 vehicle efficiency for motor vehicles of that motor vehicle type in the State and
+16 collect a fee for motor vehicles within each motor vehicle type that have a low
+17 vehicle efficiency as compared to the average vehicle efficiency for motor
+18 vehicles of that motor vehicle type in the State;
+19 (2) is divided into at least four tiers, not including a tier that is not
+20 subject to an efficiency fee or rebate, for each motor vehicle type;
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 10 of 52
+1 (3) is designed to be revenue neutral to the State within each motor
+2 vehicle type;
+3 (4) is recalculated on an annual basis for the subsequent fiscal year
+4 based on actual new motor vehicle registration data for the prior fiscal year and
+5 adjusted as necessary to maintain revenue neutrality;
+6 (5) applies to the purchase and lease of new covered vehicles; and
+7 (6) may differ between a purchased and a leased covered vehicle.
+8 (c) The efficiency fees and rebates applicable for a fiscal year shall be
+9 prominently displayed on the website for the Department of Motor Vehicles
+10 and at all dealership locations and on the websites for all dealers registered
+11 pursuant to chapter 7, subchapter 4 of this title.
+12 Sec. 6. EFFICIENCY FEES AND REBATES TASK FORCE
+13 (a) Creation. There is created the Efficiency Fees and Rebates Task Force
+14 to formulate a method for calculating the initial and recalculating the
+15 subsequent efficiency fees and rebates to be collected and distributed under
+16 23 V.S.A. § 383 as added by Sec. 5 of this act.
+17 (b) Membership. The Task Force shall be composed of the following
+18 members:
+19 (1) one current member of the House of Representatives, who shall be
+20 appointed by the Speaker of the House;
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 11 of 52
+1 (2) one current member of the Senate, who shall be appointed by the
+2 Committee on Committees;
+3 (3) the Commissioner of Financial Regulation or designee;
+4 (4) the Commissioner of Motor Vehicles or designee;
+5 (5) the Secretary of Transportation or designee;
+6 (6) one member, who shall be an economist and appointed by the
+7 Speaker of the House; and
+8 (7) one member, who shall be a member of the Vermont Vehicle and
+9 Automotive Distributors Association and appointed by the Committee on
+10 Committees.
+11 (c) Duties.
+12 (1) The Task Force shall make recommendations that are consistent with
+13 the Climate Action Plan about:
+14 (A) efficiency fees and rebates to be collected and distributed under
+15 23 V.S.A. § 383 as added by Sec. 5 of this act in fiscal year 2027;
+16 (B) a formula or method for calculating efficiency fees and rebates to
+17 be collected and distributed under 23 V.S.A. § 383 as added by Sec. 5 of this
+18 act in fiscal years subsequent to fiscal year 2027;
+19 (C) any modifications to 23 V.S.A. § 383 as added by Sec. 5 of this
+20 act that are necessary for implementation of a revenue-neutral system of
+21 efficiency fees and rebates; and
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 12 of 52
+1 (D) best practices, policies, and guidelines for successful
+2 implementation of a revenue-neutral system of efficiency fees and rebates.
+3 (2) The Task Force shall prepare a report containing its
+4 recommendations and proposed legislation based upon its recommendations.
+5 (d) Assistance. The Task Force shall have:
+6 (1) drafting assistance from the Office of Legislative Counsel; and
+7 (2) other assistance, including the writing of the report containing
+8 recommendations, fiscal assistance, and committee support services, from the
+9 Agency of Transportation.
+10 (e) Report. On or before January 15, 2026, the Task Force shall submit a
+11 report to the House and Senate Committees on Transportation with its
+12 recommendations and proposed legislation.
+13 (f) Meetings.
+14 (1) The Secretary of Transportation or designee shall call the first
+15 meeting of the Task Force to occur on or before July 1, 2025.
+16 (2) The Secretary of Transportation or designee shall be the Chair.
+17 (3) A majority of the membership shall constitute a quorum.
+18 (4) The Task Force shall cease to exist on February 15, 2026.
+19 (g) Compensation and reimbursement.
+20 (1) For attendance at meetings during adjournment of the General
+21 Assembly, a legislative member of the Task Force serving in that capacity shall
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 13 of 52
+1 be entitled to per diem compensation and reimbursement of expenses pursuant
+2 to 2 V.S.A. § 23 for not more than eight meetings. These payments shall be
+3 made from monies appropriated to the General Assembly.
+4 (2) Other members of the Task Force who are not State employees shall
+5 be entitled to per diem compensation and reimbursement of expenses as
+6 permitted under 32 V.S.A. § 1010 for not more than eight meetings. These
+7 payments shall be made from monies appropriated to the Agency of
+8 Transportation.
+9 Sec. 7. 23 V.S.A. § 383 is amended to read:
+10 § 383. EFFICIENCY FEES AND REBATES
+11 * * *
+12 (d)(1) Light trucks.
+13 (A) The efficiency fees for light trucks shall be:
+14 (i) $500.00 if the vehicle efficiency is less than 16 MPGe; and
+15 (ii) $170.00 if the vehicle efficiency is 16 MPGe or more and less
+16 than 20 MPGe.
+17 (B) The efficiency rebates for light trucks shall be:
+18 (i) $925.00 if the vehicle efficiency is 26 MPGe or more and less
+19 than 28 MPGe; and
+20 (ii) $1,500.00 if the vehicle efficiency is 28 MPGe or more.
+21 (2) Passenger automobiles.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 14 of 52
+1 (A) The efficiency fees for passenger automobiles shall be:
+2 (i) $750.00 if the vehicle efficiency is less than 21 MPGe; and
+3 (ii) $400.00 if the vehicle efficiency is 21 MPGe or more and less
+4 than 24 MPGe.
+5 (B) The efficiency rebates for passenger automobiles shall be:
+6 (i) $700.00 if the vehicle efficiency is 30 MPGe or more and less
+7 than 35 MPGe; and
+8 (ii) $1,000.00 if the vehicle efficiency is 35 MPGe or more.
+9 (3) Sport utility vehicles.
+10 (A) The efficiency fees for sport utility vehicles shall be:
+11 (i) $500.00 if the vehicle efficiency is less than 16 MPGe; and
+12 (ii) $250.00 if the vehicle efficiency is 16 MPGe or more and less
+13 than 20 MPGe.
+14 (B) The efficiency rebates for sport utility vehicles shall be:
+15 (i) $1,000.00 if the vehicle efficiency is 26 MPGe or more and
+16 less than 30 MPGe; and
+17 (ii) $1,500.00 if the vehicle efficiency is more than 30 MPGe.
+18 Sec. 8. OUTREACH ON EFFICIENCY FEES AND REBATES;
+19 APPROPRIATION
+20 The sum of $20,000.00 is appropriated from the Transportation Fund to the
+21 Agency of Transportation in fiscal year 2026 to expand the Agency’s public-
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 15 of 52
+1 private partnership with Drive Electric Vermont to provide marketing and
+2 outreach efforts on motor vehicle efficiency fees and rebates in the fourth
+3 quarter of fiscal year 2026 in advance of 23 V.S.A. § 383, as added by Secs. 5
+4 and 7 of this act, taking effect.
+5 Sec. 9. ANNUAL FEEBATE REPORT
+6 (a) The Agency of Transportation shall annually submit a report to the
+7 House and Senate Committees on Transportation that evaluates the
+8 implementation and effectiveness of 23 V.S.A. § 383. The report shall be
+9 submitted not later than January 15 each year starting in 2028 and continuing
+10 to 2033.
+11 (b) At a minimum, the report shall contain:
+12 (1) the rates of all efficiency fees and rebates for the prior fiscal year;
+13 (2) the total amount collected in efficiency fees for each motor vehicle
+14 type and the total amount distributed in efficiency rebates for each motor
+15 vehicle type in the prior fiscal year;
+16 (3) an estimate of the costs to administer the system of efficiency fees
+17 and rebates during the prior fiscal year; and
+18 (4) recommendations on changes to the system of efficiency fees and
+19 rebates.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 16 of 52
+1 * * * Transit; Active Transportation; Electric Vehicles; Idling; Safe Passing;
+2 Outreach * * *
+3 Sec. 10. PUBLIC TRANPORTATION; ACTIVE TRANSPORTATION;
+4 ELECTRIC VEHICLES; IDLING; SAFE PASSING; OUTREACH
+5 (a) On or before January 1, 2026, the Agency of Transportation, in
+6 consultation with the Departments of Environmental Conservation and of
+7 Public Safety and with Drive Electric Vermont, shall implement public
+8 outreach campaigns related to public transportation, active transportation,
+9 electric vehicles, idling, and safe passing distances.
+10 (b) The public outreach campaigns shall include, at a minimum,
+11 information related to:
+12 (1) for the public outreach campaign related to public transportation:
+13 (A) ways to access public transportation;
+14 (B) modes of public transportation available; and
+15 (C) economic and environmental benefits of utilizing public
+16 transportation;
+17 (2) for the public outreach campaign related to active transportation:
+18 (A) forms of active transportation;
+19 (B) methods for utilizing active transportation for commuting and
+20 running errands;
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 17 of 52
+1 (C) infrastructure and public amenities that are available to facilitate
+2 active transportation; and
+3 (D) economic, environmental, and health benefits of utilizing active
+4 transportation;
+5 (3) for the public outreach campaign related to electric vehicles:
+6 (A) incentive programs for the purchase of electric vehicles and the
+7 installation of electrical vehicle supply equipment that are available through
+8 the State, the federal government, and utilities; and
+9 (B) economic and environmental benefits of utilizing an electric
+10 vehicle for transportation in place of a vehicle with an internal combustion
+11 engine;
+12 (4) for the public outreach campaign related to idling:
+13 (A) the instances when idling violates Vermont law;
+14 (B) the impact of idling on the environment and health;
+15 (C) the estimated amount of fuel that is wasted each year because of
+16 motor vehicles idling in Vermont and the estimated cost of the wasted fuel;
+17 (D) the estimated savings in fuel and fuel costs that would result from
+18 reducing idling by just one minute per day; and
+19 (E) the estimated reduction in greenhouse gas emissions and air
+20 pollution that would result from reducing idling by just one minute per day;
+21 and
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 18 of 52
+1 (5) for the public outreach campaign related to safe passing distances:
+2 (A) the requirement in Vermont law to reduce speed and provide at
+3 least four feet of space to vulnerable users when passing; and
+4 (B) information on the potential to reduce accidents, injuries, and
+5 fatalities by following Vermont’s law relating to motor vehicles passing
+6 vulnerable users.
+7 (c) The public outreach campaigns required pursuant to this section shall
+8 disseminate information through email; dedicated web pages that are linked
+9 through the websites for the Departments of Motor Vehicles, of Environmental
+10 Conservation, and of Public Safety; social media platforms; community
+11 posting websites; radio; television; and printed written materials.
+12 * * * Expansion of PEV and eBike Market * * *
+13 Sec. 11. EXPANSION OF PEV AND EBIKE MARKET
+14 (a) The sum of $100,000.00 is appropriated from the General Fund to the
+15 Agency of Transportation in fiscal year 2026 to expand the Agency’s public-
+16 private partnership with Drive Electric Vermont. The amounts appropriated
+17 pursuant to this subsection shall be used to support the expansion of the PEV
+18 market in Vermont through events that offer members of the public
+19 opportunities to drive PEVs or learn about PEVs or EVSE, or both.
+20 (b) The sum of $250,000.00 is appropriated from the General Fund to the
+21 Agency of Transportation in fiscal year 2026 to enter into and expand public-
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 19 of 52
+1 private partnerships with Vermont organizations promoting the use of eBikes
+2 for transportation.
+3 * * * Consideration of Vehicle Miles Traveled in Project Planning * * *
+4 Sec. 12. 19 V.S.A. § 1 is amended to read:
+5 § 1. DEFINITIONS
+6 As used in this title:
+7 * * *
+8 (26) “Vehicle miles traveled” means the estimated sum of the miles
+9 traveled by all motor vehicle trips within a specific area during a calendar year.
+10 Sec. 13. 19 V.S.A. § 10b is amended to read:
+11 § 10b. STATEMENT OF POLICY; GENERAL
+12 (a) The Agency shall be the responsible agency of the State for the
+13 development of transportation policy. It shall develop a mission statement to
+14 reflect:
+15 (1) that State transportation policy shall be to encompass, coordinate,
+16 and integrate all modes of transportation and to consider complete streets, as
+17 defined in section 2401 of this title, principles; and
+18 (2) the need for transportation projects that will improve the State’s
+19 economic infrastructure,; as well as the use of resources in efficient,
+20 coordinated, integrated, cost-effective, and environmentally sound ways,;
+21 reduce vehicle miles traveled within the State; and that will be consistent with
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 20 of 52
+1 the recommendations of the Comprehensive Energy Plan (CEP) issued under
+2 30 V.S.A. § 202b.
+3 * * *
+4 (c) In developing the State’s annual Transportation Program, the Agency
+5 shall, consistent with the planning goals listed in 24 V.S.A. § 4302 and with
+6 appropriate consideration to local, regional, and State agency plans:
+7 (1) develop or incorporate designs that provide integrated, safe, and
+8 efficient transportation; that reduce vehicle miles traveled in the State; and that
+9 are consistent with the recommendations of the CEP;
+10 * * *
+11 (d) The Agency of Transportation, in developing each of the program
+12 prioritization systems schedules for all modes of transportation, shall include
+13 the following throughout the process:
+14 * * *
+15 (2) Each year, the Agency shall provide in the front of the
+16 Transportation Program book a detailed explanation describing the factors in
+17 the prioritization system that creates each project list, which shall include a
+18 reduction in vehicle miles traveled in the State.
+19 Sec. 14. 19 V.S.A. § 10c is amended to read:
+20 § 10c. STATEMENT OF POLICY; HIGHWAYS AND BRIDGES
+21 * * *
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 21 of 52
+1 (c) In choosing between the improvement of an existing highway and
+2 complete reconstruction, the Agency shall weigh the following factors:
+3 * * *
+4 (9) the impact on the historic, scenic, and aesthetic values of the
+5 municipality, as interpreted by the municipality, in which the highway is
+6 located; and
+7 (10) if it is a forest highway under federal jurisdiction; and
+8 (11) opportunities to reduce vehicle miles traveled or otherwise reduce
+9 greenhouse gas emissions related to the highway.
+10 * * *
+11 (k) It shall be the policy of the State to develop plans for the improvement
+12 and reconstruction of highways and bridges in a manner that reduces vehicle
+13 miles traveled or otherwise reduces greenhouse gas emissions related to the
+14 highway or bridge.
+15 Sec. 15. 19 V.S.A. § 10i is amended to read:
+16 § 10i. TRANSPORTATION PLANNING PROCESS
+17 * * *
+18 (c) Transportation Program. The Transportation Program shall be
+19 developed in a fiscally responsible manner to accomplish the following
+20 objectives:
+21 * * *
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 22 of 52
+1 (3) strengthening the economy, protecting the quality of the natural
+2 environment, and improving Vermonters’ quality of life; and
+3 (4) achieving the recommendations of the CEP; and
+4 (5) reducing vehicle miles traveled or otherwise reducing greenhouse
+5 gas emissions.
+6 * * *
+7 * * * Increased Highway Funding for Rural Towns * * *
+8 Sec. 16. 19 V.S.A. § 306 is amended to read:
+9 § 306. APPROPRIATION; STATE AID FOR TOWN HIGHWAYS
+10 * * *
+11 (d) State aid for nonfederal disasters.
+12 (1) There shall be an annual appropriation for emergency aid in
+13 repairing, building, or reconstructing class 1, 2, or 3 town highways and for
+14 repairing or replacing drainage structures including bridges on class 1, 2, 3,
+15 and 4 town highways damaged by natural or man-made disasters. Eligibility
+16 for use of emergency aid under this appropriation shall be subject to the
+17 following criteria:
+18 (1)(A) The Secretary of Transportation shall determine that the disaster
+19 is of such magnitude that State aid is both reasonable and necessary to preserve
+20 the public good. If total cumulative damages to town highways and drainage
+21 structures are less than the value of 10 percent of the town’s overall total
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 23 of 52
+1 highway budget excluding the town’s winter maintenance budget, the disaster
+2 shall not qualify for assistance under this subsection.
+3 (2)(B) The disaster shall not qualify for major disaster assistance from
+4 the Federal Emergency Management Agency (FEMA) under the Robert T.
+5 Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. §§ 5121 et
+6 seq., or from the Federal Highway Administration (FHWA) under the 23
+7 C.F.R. Part 668 Emergency Relief Program for federal-aid highways.
+8 (C) Additional criteria established by the Secretary through
+9 rulemaking under 3 V.S.A. chapter 25.
+10 (3)(2)(A) Towns Except as otherwise provided in subdivision (B) of this
+11 subdivision (d)(2), towns shall be eligible for reimbursement for repair or
+12 replacement costs of either up to 90 percent of the eligible repair or
+13 replacement costs or the eligible repair or replacement costs, minus an amount
+14 equal to 10 percent of the overall total highway budget, minus the town’s
+15 winter maintenance budget, whichever is greater.
+16 (B) Rural towns, as that term is defined in 24 V.S.A. § 4303, shall be
+17 eligible for reimbursement for repair or replacement costs of either up to 95
+18 percent of the eligible repair or replacement costs or the eligible repair or
+19 replacement costs, minus an amount equal to 5 percent of the overall total
+20 highway budget, minus the rural town’s winter maintenance budget, whichever
+21 is greater.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 24 of 52
+1 (4)(3) For towns that have adopted road and bridge standards, eligibility
+2 for reimbursement for repair or replacement of infrastructure shall be to those
+3 standards. For towns that have not adopted these standards, eligibility for
+4 reimbursement for repair or replacement of infrastructure shall be limited to
+5 the specifications of the infrastructure that preexisted the emergency event;
+6 however, the repair or replacement shall be to standards approved by the
+7 Agency of Transportation.
+8 (5)(4) For a drainage structure on a class 4 town highway to be eligible
+9 for repair or replacement under this subsection, the town must document that it
+10 maintained the structure prior to the nonfederal disaster.
+11 (6) Such additional criteria as may be adopted by the Agency of
+12 Transportation through rulemaking under 3 V.S.A. chapter 25.
+13 * * *
+14 (f) State aid for federal disasters.
+15 (1) Towns receiving assistance under the Federal Highway
+16 Administration’s Emergency Relief Program for federal-aid highways shall be
+17 eligible for State aid when a nonfederal match is required. Eligibility for aid
+18 under this subsection shall be subject to the following criteria:
+19 (A)(i) Towns Except as otherwise provided in subdivision (ii) of this
+20 subdivision (f)(1)(A), towns shall be responsible for up to not more than 10
+21 percent of the total eligible project costs.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 25 of 52
+1 (ii) Rural towns, as that term is defined pursuant to 24 V.S.A.
+2 § 4303, shall be responsible for not more than five percent of the total eligible
+3 project costs.
+4 * * *
+5 (C) Such additional Additional criteria as may be adopted established
+6 by the Agency Secretary through rulemaking under 3 V.S.A. chapter 25.
+7 * * *
+8 (i) Municipal Mitigation Assistance Program.
+9 (1) The Agency shall administer the Municipal Mitigation Assistance
+10 Program. Through the Program, the Agency shall provide assistance and
+11 grants to municipalities for environmental mitigation projects related to
+12 stormwater and highways and for the establishment and operation of
+13 stormwater utilities. Municipalities
+14 (2)(A) Except as otherwise provided pursuant to subdivisions (B) and
+15 (C) of this subdivision (i)(2), municipalities shall match grants with local funds
+16 sufficient to cover 20 percent of the project costs, except that the.
+17 (B) Rural towns, as that term is defined pursuant to 24 V.S.A.
+18 § 4303, shall match grants with local funds sufficient to cover 10 percent of the
+19 project costs.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 26 of 52
+1 (C) Notwithstanding subdivisions (A) and (B) of this subdivision
+2 (i)(2), the Agency may issue grants for the establishment or operation of
+3 stormwater utilities without requiring a local match.
+4 (3) From the operating expenses appropriated for the Program, the
+5 Agency is authorized to pay costs billed to the Agency by municipal
+6 stormwater utilities.
+7 * * *
+8 (k) As used in this section, “town” includes a “rural town” as defined
+9 pursuant to 24 V.S.A. § 4303 unless otherwise expressly provided.
+10 Sec. 17. 19 V.S.A. § 309a is amended to read:
+11 § 309a. LOCAL HIGHWAY WORK UNIFORM LOCAL SHARE;
+12 EXCEPTIONS
+13 (a) Except as provided in subsection (b) or (c) of this section or in sections
+14 309b and 309c of this title, in any case of highway or bridge construction in
+15 which a federal/State/local or State/local funding match is authorized, the
+16 municipality’s share shall be ten percent of the project costs.
+17 (b) This The provisions of subsection (a) of this section shall not apply to:
+18 * * *
+19 (6) any project where, by the mutual agreement of the municipality and
+20 Agency, rehabilitation of an existing bridge is the preferred alternative, in
+21 which case the Agency shall use the appropriate combination of State and
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 27 of 52
+1 federal funding to pay either 95 percent of the cost of rehabilitation, or 97.5
+2 percent if the municipality closes the bridge and does not construct a
+3 temporary bridge for the duration of the project; or
+4 (7) any project or portion of a project involving a structure that is part of
+5 the Historic Bridge Program, where the Agency shall use the appropriate
+6 combination of State and federal funding to pay 100 percent of the cost of
+7 rehabilitation; or
+8 (8) any project in a rural town, as that term is defined pursuant to
+9 24 V.S.A. § 4303, in which case the municipal share shall be 2.5 percent of the
+10 project costs or a lesser amount authorized by statute or the General Assembly.
+11 * * *
+12 Sec. 18. 19 V.S.A. § 309b is amended to read:
+13 § 309b. LOCAL MATCH; CERTAIN TOWN HIGHWAY PROGRAMS
+14 (a)(1) Notwithstanding subsection 309a(a) of this title and except as
+15 provided in subdivision (2) of this subsection, grants provided to towns under
+16 the Town Highway Structures Program shall be matched by local funds
+17 sufficient to cover 20 percent of the project costs, unless the town has adopted
+18 road and bridge standards, has completed a network inventory, and has
+19 submitted an annual certification of compliance for town road and bridge
+20 standards to the Secretary, in which event the local match shall be sufficient to
+21 cover 10 percent of the project costs.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 28 of 52
+1 (2) Grants provided to rural towns, as that term is defined pursuant to
+2 24 V.S.A. § 4303, under the Town Highway Structures Program shall be
+3 matched by local funds sufficient to cover 10 percent of the project costs,
+4 unless the rural town has adopted road and bridge standards, has completed a
+5 network inventory, and has submitted an annual certification of compliance for
+6 town road and bridge standards to the Secretary, in which event the local
+7 match shall be sufficient to cover 5 percent of the project costs.
+8 (3) The Secretary may adopt rules to implement the Town Highway
+9 Structures Program. Town highway structures projects receiving funds
+10 pursuant to this subsection shall be the responsibility of the applicant
+11 municipality.
+12 (b)(1) Notwithstanding subsection 309a(a) of this title and except as
+13 provided pursuant to subdivision (2) of this subsection, grants provided to
+14 towns under the Class 2 Town Highway Roadway Program shall be matched
+15 by local funds sufficient to cover 30 percent of the project costs, unless the
+16 town has adopted road and bridge standards, has completed a network
+17 inventory, and has submitted an annual certification of compliance for town
+18 road and bridge standards to the Secretary, in which event the local match shall
+19 be sufficient to cover 20 percent of the project costs.
+20 (2) Grants provided to rural towns, as that term is defined pursuant to
+21 24 V.S.A. § 4303, under the Class 2 Town Highway Roadway Program shall
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 29 of 52
+1 be matched by local funds sufficient to cover 15 percent of the project costs,
+2 unless the rural town has adopted road and bridge standards, has completed a
+3 network inventory, and has submitted an annual certification of compliance for
+4 town road and bridge standards to the Secretary, in which event the local
+5 match shall be sufficient to cover 10 percent of the project costs.
+6 (3) The Secretary may adopt rules to implement the Class 2 Town
+7 Highway Roadway Program. Class 2 town highway roadway projects
+8 receiving funds pursuant to this subsection shall be the responsibility of the
+9 applicant municipality, and a municipality shall not receive a grant in excess of
+10 $200,000.00.
+11 * * *
+12 * * * Complete Streets * * *
+13 Sec. 19. 19 V.S.A. § 2405 is added to read:
+14 § 2405. TECHNICAL ASSISTANCE FOR MUNICIPALITIES
+15 The Agency shall provide technical and planning assistance to
+16 municipalities to assist with the incorporation of complete streets principles
+17 into municipal projects and compliance with the provisions of this chapter.
+18 Sec. 20. 2024 Acts and Resolves No. 148, Sec. 31 is amended to read:
+19 Sec. 31. REPLACEMENT FOR THE VERMONT STATE DESIGN
+20 STANDARDS
+21 * * *
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 30 of 52
+1 (c) The Agency of Transportation shall ensure that the replacement for the
+2 Vermont State Design Standards incorporates provisions addressing the
+3 following:
+4 (1) prioritization of reducing vehicle miles traveled in downtown and
+5 village centers identified by a regional planning commission pursuant to
+6 24 V.S.A. § 4348a;
+7 (2) alignment of eligible transportation improvements with future land
+8 use in downtown and village centers identified by a regional planning
+9 commission pursuant to 24 V.S.A. § 4348a through the use of transect maps;
+10 (3) context sensitive design standards for downtown and village centers
+11 identified by a regional planning commission pursuant to 24 V.S.A. § 4348a to
+12 ensure that:
+13 (A) standards are compatible with the existing size of the community
+14 and intensity of activity within the community as well as the settlement scale
+15 for the community depicted on future land use maps;
+16 (B) investments are directed to the development of a comprehensive
+17 pedestrian network consistent with existing and future land use; and
+18 (C) design engineering standards provide for ease of understanding
+19 and implementation of:
+20 (i) narrowed travel lanes;
+21 (ii) slow zones for motor vehicle traffic;
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 31 of 52
+1 (iii) crosswalks;
+2 (iv) enhanced shoulders to accommodate travel by bicycles or
+3 pedestrians, or both;
+4 (v) sidewalks; and
+5 (vi) public transit services;
+6 (4) identification of standards for reducing vehicle travel lane widths
+7 and other traffic calming methods that can be incorporated by regional
+8 planning commissions into downtown and village centers identified pursuant
+9 to 24 V.S.A. § 4348a;
+10 (5) requirements that reconstructed bridges and upsized culverts within
+11 downtown and village centers identified pursuant to 24 V.S.A. § 4348a shall
+12 incorporate pedestrian facilities; and
+13 (6) consideration of guidance from the Department of Forests, Parks and
+14 Recreation’s Vermont Urban & Community Forestry Program Green Streets
+15 Guide into the design of State highways in downtown and village centers.
+16 * * * National Historic Preservation Act Review; Report * * *
+17 Sec. 21. AMENDMENTS TO AGREEMENT RELATED TO REVIEW
+18 UNDER THE NATIONAL HISTORIC PRESERVATION ACT
+19 (a) The Agency of Transportation, in consultation with the Vermont State
+20 Historic Preservation Officer and the Advisory Council on Historic
+21 Preservation, shall seek to amend the Programmatic Agreement Among the
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 32 of 52
+1 Federal Highway Administration, the Vermont State Historic Preservation
+2 Officer, the Advisory Council on Historic Preservation, and the Vermont
+3 Agency of Transportation Regarding the Federal-Aid Highway Program in
+4 Vermont to categorize the creation of new bicycle and pedestrian facilities as
+5 either exempt activities, listed in Appendix A, or screened activities, listed in
+6 Appendix B.
+7 (b) The Agency of Transportation shall provide a written update on its
+8 efforts pursuant to subsection (a) of this section to the House and Senate
+9 Committees on Transportation not later than November 15, 2025.
+10 * * * Local Speed Limits * * *
+11 Sec. 22. 23 V.S.A. § 1007 is amended to read:
+12 § 1007. LOCAL SPEED LIMITS
+13 (a)(1) The legislative body of a municipality may establish, on the basis of
+14 an engineering and traffic investigation, a speed limit on all or a part of any
+15 city, town, or village highway within its jurisdiction, which:
+16 (A) is not more than 50 miles per hour; however, after considering
+17 neighborhood character, abutting land use, bicycle and pedestrian use, and
+18 physical characteristics of the highways, the legislative body of a municipality
+19 may vote to set the maximum speed limit, without an engineering and traffic
+20 investigation, at is not more than 50 miles per hour nor less than 35 miles per
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 33 of 52
+1 hour, on all or a portion of unpaved town highways within its boundaries,
+2 unless otherwise posted in accordance with the provisions of this section; or
+3 (B) is not less than 25 miles per hour.
+4 * * *
+5 (b) The legislative body of a city may establish, on the basis of an
+6 engineering and traffic investigation, a speed limit on all or a part of any State
+7 highway, other than a limited access highway, within its jurisdiction, which:
+8 (1) that is not more than 50 miles per hour; or
+9 (2) is not nor less than 25 miles per hour.
+10 * * *
+11 (e) Lack of evidence of a traffic and engineering study will not invalidate a
+12 local speed limit ordinance as adopted or amended under this section after five
+13 years following the day on which the speed limit ordinance took effect.
+14 [Repealed.]
+15 (f) Notwithstanding the procedure outlined in this section for enacting a
+16 local speed limit, a town or village may adopt a local speed ordinance on a
+17 State highway, other than on limited access highways, provided the ordinance
+18 duplicates the speed limit established under section 1003 of this title.
+19 (g) Notwithstanding any requirements of section 1025 of this title,
+20 downtown development districts, village centers, and new town center
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 34 of 52
+1 development districts designated under 24 V.S.A. chapter 76A may have
+2 posted speed limits of less than 25 miles per hour.
+3 * * * Regional Planning Commissions * * *
+4 Sec. 23. 24 V.S.A. § 4345a is amended to read:
+5 § 4345a. DUTIES OF REGIONAL PLANNING COMMISSIONS
+6 A regional planning commission created under this chapter shall:
+7 * * *
+8 (21) Coordinate regional transportation projects with affected
+9 municipalities to enhance transportation resilience and implementation of the
+10 Climate Action Plan adopted pursuant to 10 V.S.A. § 5902.
+11 Sec. 24. REGIONAL PLANNING COMMISSIONS; REGIONAL
+12 TRANSPORTATION PROJECT COORDINATION; TECHNICAL
+13 ASSISTANCE; GRANTS
+14 The sum of $500,000.00 is appropriated from the Transportation Fund to
+15 the Agency of Transportation to provide technical assistance and grants to
+16 regional planning commissions to assist with the coordination of regional
+17 transportation projects pursuant to 24 V.S.A. § 4345a(21).
+18 * * * Electrical Vehicle Supply Equipment * * *
+19 Sec. 25. 9 V.S.A. § 4468b is added to read:
+20 § 4468b. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+21 (a) As used in this section:
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 35 of 52
+1 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+2 system designed and used specifically to transfer electrical energy to a plug-in
+3 electric vehicle.
+4 (2) “EVSE time-of-use (TOU) meter” means an electric meter supplied
+5 and installed by an electric distribution utility that is separate from, and in
+6 addition to, any other electric meter and is devoted exclusively to the charging
+7 of plug-in electric vehicles and that tracks the TOU when charging occurs. An
+8 EVSE TOU meter includes any wiring or conduit necessary to connect the
+9 meter to an EVSE, regardless of whether it is supplied or installed by an
+10 electric utility.
+11 (b) For any rental agreement executed, extended, or renewed on and after
+12 January 1, 2026, a landlord shall approve a written request of a tenant to install
+13 EVSE at a parking space allotted for the tenant that meets the requirements of
+14 this section and complies with the landlord’s procedural approval process for
+15 modification to the property.
+16 (c) This section does not apply to residential rental properties where:
+17 (1) EVSE already exist for tenants in a ratio that is equal to or greater
+18 than 10 percent of the designated parking spaces;
+19 (2) parking is not provided as part of the lease agreement; or
+20 (3) there are fewer than five parking spaces.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 36 of 52
+1 (d) A landlord shall not be obligated to provide an additional parking space
+2 to a tenant in order to accommodate EVSE.
+3 (e) If the EVSE has the effect of providing the tenant with a reserved
+4 parking space, the landlord may charge a monthly rental amount for that
+5 parking space.
+6 (f) The EVSE or EVSE TOU meter, or both, and all modifications and
+7 improvements to the property shall comply with federal, State, and local law,
+8 and all applicable zoning requirements, land use requirements, and covenants,
+9 conditions, and restrictions.
+10 (g) A tenant’s written request to make a modification to the property in
+11 order to install and use EVSE shall include the tenant’s consent to enter into a
+12 written agreement that includes the following:
+13 (1) Compliance with the landlord’s requirements for the installation,
+14 use, maintenance, and removal of the EVSE or both the EVSE and EVSE TOU
+15 meter and installation, use, and maintenance of the infrastructure for the EVSE
+16 or both the EVSE and EVSE TOU meter.
+17 (2) Compliance with the landlord’s requirements for the tenant to
+18 provide a complete financial analysis and scope of work regarding the
+19 installation of the EVSE or both the EVSE and EVSE TOU meter and its
+20 infrastructure.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 37 of 52
+1 (3) Obligation of the tenant to pay the landlord all costs associated with
+2 the landlord’s installation of the EVSE or both the EVSE and EVSE TOU
+3 meter and related infrastructure prior to any modification or improvement
+4 being made to the leased property. The costs associated with modifications
+5 and improvements shall include the cost of permits, supervision, construction,
+6 and, solely if required by the contractor and consistent with its past
+7 performance of work for the landlord, performance bonds.
+8 (4) Obligation of the tenant to pay as part of rent for the costs associated
+9 with the electrical usage, whether or not through an EVSE TOU meter, of the
+10 EVSE; and costs for damage, maintenance, repair, removal, and replacement
+11 of the EVSE or both the EVSE and EVSE TOU meter; and modifications or
+12 improvements made to the property associated with the EVSE or both the
+13 EVSE and EVSE TOU meter.
+14 (h) The tenant and each successor tenant shall obtain personal liability
+15 coverage in an amount not to exceed 10 times the annual rent charged for the
+16 dwelling unit covering property damage and personal injury proximately
+17 caused by the installation or operation of the EVSE or both the EVSE and
+18 EVSE TOU meter. The policy shall be maintained in full force and effect from
+19 the time of installation of the EVSE or both the EVSE and EVSE TOU meter
+20 until the EVSE or the EVSE and EVSE TOU meter is removed or the tenant
+21 forfeits possession of the dwelling unit to the landlord.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 38 of 52
+1 (i) Notwithstanding subsection (h) of this section, no insurance shall be
+2 required of a tenant installing an EVSE or both an EVSE and EVSE TOU
+3 meter if the following are satisfied:
+4 (1) the EVSE has been certified by a Nationally Recognized Testing
+5 Laboratory that is approved by the Occupational Safety and Health
+6 Administration of the U.S. Department of Labor; and
+7 (2) the EVSE and any associated alterations to the dwelling’s electrical
+8 system are performed by a licensed electrician and the EVSE TOU meter, if
+9 applicable, is installed by the electric distribution utility providing service.
+10 (j) A landlord that intentionally violates this section shall be liable to the
+11 tenant or other party for actual damages and shall pay a civil penalty to the
+12 tenant or other party in an amount not to exceed $1,000.00.
+13 (k) In any action by a tenant requesting to have an EVSE installed and
+14 seeking to enforce compliance with this section, the prevailing plaintiff shall
+15 be awarded reasonable attorney’s fees.
+16 Sec. 26. 27A V.S.A. § 1-204 is amended to read:
+17 § 1-204. PREEXISTING COMMON INTEREST COMMUNITIES
+18 (a)(1) Unless excepted under section 1-203 of this title, the following
+19 sections and subdivisions of this title apply to a common interest community
+20 created in this State before January 1, 1999: sections 1-103, 1-105, 1-106, 1-
+21 107, 2-103, 2-104, and 2-121, subdivisions 3-102(a)(1) through (6) and (11)
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 39 of 52
+1 through (16), and sections 3-111, 3-116, 3-118, 4-109, and 4-117 to the extent
+2 necessary to construe the applicable sections. The sections and subdivisions
+3 described in this subdivision apply only to events and circumstances occurring
+4 after December 31, 1998 and do not invalidate existing provisions of the
+5 declarations, bylaws, plats, or plans of those common interest communities.
+6 * * *
+7 (3) Unless excepted under section 1-203 of this title, section 3-125 of
+8 this title shall apply to a common interest community created in this State
+9 before January 1, 1999. Section 3-125 applies only to events and
+10 circumstances occurring after June 30, 2025 and does not invalidate existing
+11 provisions of the declarations, bylaws, plats, or plans of those common interest
+12 communities.
+13 * * *
+14 Sec. 27. 27A V.S.A. § 3-125 is added to read:
+15 § 3-125. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+16 (a) Definitions. As used in this section:
+17 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+18 system designed and used specifically to transfer electrical energy to a plug-in
+19 electric vehicle.
+20 (2) “EVSE owner” means the unit owner who applies to install an EVSE
+21 and each successive unit owner associated with the initial application to install
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 40 of 52
+1 the EVSE unless there is a specific change in ownership of the EVSE, in which
+2 case the EVSE owner shall be the owner specified in a conveying document
+3 memorializing the change in ownership of the EVSE.
+4 (3) “EVSE time-of-use (TOU) meter” means an electric meter supplied
+5 and installed by an electric distribution utility that is separate from, and in
+6 addition to, any other electric meter and is devoted exclusively to the charging
+7 of plug-in electric vehicles and that tracks the TOU when charging occurs. An
+8 EVSE TOU meter includes any wiring or conduit necessary to connect the
+9 meter to an EVSE, regardless of whether it is supplied or installed by an
+10 electric utility.
+11 (4) “Plug-in electric vehicles” has the same meaning as in 23 V.S.A.
+12 § 4(85).
+13 (5) “Reasonable restrictions” are restrictions that do not significantly
+14 increase the cost of the EVSE or EVSE TOU meter, or both, or significantly
+15 decrease the efficiency or specified performance of the EVSE or EVSE TOU
+16 meter, or both.
+17 (b) Protected uses.
+18 (1) Any covenant, restriction, or condition contained in any deed,
+19 contract, security instrument, or other instrument affecting the transfer or sale
+20 of any interest in a common interest community, and any provision of a
+21 governing document associated with a common interest community, such as a
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 41 of 52
+1 declaration or bylaws, that either effectively prohibits or unreasonably restricts
+2 the installation or use of EVSE or an EVSE TOU meter, or both, within a unit
+3 owner’s unit or in a designated parking space, including a deeded parking
+4 space, a parking space in a unit owner’s exclusive use common element, or a
+5 parking space that is specifically designated for use by a particular unit owner,
+6 or is in conflict with this section is void and unenforceable.
+7 (2) This subsection (b) shall not apply to provisions that impose
+8 reasonable restrictions on EVSE or EVSE TOU meters, or both. However, it is
+9 the policy of the State to promote, encourage, and remove obstacles to the use
+10 of plug-in electric vehicles, including access to EVSE at home.
+11 (3) The EVSE or EVSE TOU meter, or both, and all modifications and
+12 improvements to the common interest community shall comply with federal,
+13 State, and local law, and all applicable zoning requirements, land use
+14 requirements, and covenants, conditions, and restrictions.
+15 (4) If approval is required for the installation or use of EVSE or EVSE
+16 TOU meters, or both, the application for approval shall be processed and
+17 approved by the association in the same manner as an application for approval
+18 of an architectural modification to the common interest community and shall
+19 not be intentionally avoided or delayed. The approval or denial of an
+20 application shall be in writing. If an application is not denied in writing within
+21 60 days from the date of receipt of the application, the application shall be
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 42 of 52
+1 deemed approved, unless that delay is the result of a reasonable request for
+2 additional information.
+3 (5) If the EVSE or EVSE TOU meter, or both, is to be placed in a
+4 common element or a limited common element, as designated in the common
+5 interest community’s declaration, the following provisions apply:
+6 (A) The unit owner first shall obtain approval from the association to
+7 install the EVSE or EVSE TOU meter, or both, and the association shall
+8 approve the installation if the unit owner agrees in writing to do all of the
+9 following:
+10 (i) comply with the association’s architectural standards for the
+11 installation of the EVSE or EVSE TOU meter, or both;
+12 (ii) engage a licensed contractor to install the EVSE and, if
+13 necessary, to install wiring or conduit necessary to connect the EVSE to an
+14 EVSE TOU meter;
+15 (iii) engage the electric distribution utility providing service to
+16 install the EVSE TOU meter, if applicable;
+17 (iv) provide a certificate of insurance that names the association as
+18 an additional insured under the unit owner’s insurance policy within 14 days
+19 after approval; and
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 43 of 52
+1 (v) pay for both the costs associated with the installation of the
+2 EVSE or both the EVSE and EVSE TOU meter and the electricity usage
+3 associated with the EVSE.
+4 (B) The unit owner and each successive owner of the EVSE or both
+5 the EVSE and EVSE TOU meter shall be responsible for all of the following:
+6 (i) costs for damage to the EVSE or EVSE TOU meter, or both; a
+7 common element; or a limited common element resulting from the installation,
+8 maintenance, repair, removal, or replacement of the EVSE or EVSE TOU
+9 meter, or both;
+10 (ii) costs for the maintenance, repair, and replacement of the
+11 EVSE or EVSE TOU meter, or both, until the EVSE has been removed and for
+12 the restoration of the common element or limited common element after
+13 removal;
+14 (iii) cost of electricity associated with the EVSE; and
+15 (iv) disclosing to prospective buyers of the unit the existence of
+16 any EVSE or EVSE TOU meters, or both, and the related responsibilities of
+17 the unit owner under this section.
+18 (C) The owner of EVSE, whether the EVSE is located within a unit
+19 or within a common element or a limited common element, shall, at all times,
+20 maintain a liability coverage policy that names the association as an additional
+21 insured. The unit owner that submitted the application to install the EVSE or
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 44 of 52
+1 EVSE TOU meter, or both, shall provide the association with the
+2 corresponding certificate of insurance within 14 days following approval of the
+3 application. That unit owner and each successor EVSE owner shall annually
+4 provide the association with the certificate of insurance.
+5 (D) An EVSE owner shall not be required to maintain a homeowner
+6 liability coverage policy for an existing National Electrical Manufacturers
+7 Association standard alternating current power plug.
+8 (6) Installation of EVSE or both EVSE and an EVSE TOU meter for the
+9 exclusive use of a unit owner in a common element or limited common
+10 element shall be authorized by the association only if installation in the unit
+11 owner’s unit or designated parking space is impossible or unreasonably
+12 expensive. In such cases, the association shall enter into a license agreement
+13 with the unit owner for the use of the space in a common element or limited
+14 common element and the unit owner shall comply with all of the requirements
+15 in subdivision (5) of this subsection.
+16 (7) The association may install EVSE or both EVSE and an EVSE TOU
+17 meter in the common element or limited common element for the use of all
+18 unit owners in the association and, in that case, the association shall develop
+19 appropriate terms of use for the EVSE.
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 45 of 52
+1 (8) Subject to subdivision (3) of this subsection, an association may
+2 create a new parking space where one did not previously exist to facilitate the
+3 installation of an EVSE.
+4 (9) An association that intentionally violates this subsection shall be
+5 liable to the applicant unit owner or other party for actual damages and shall
+6 pay a civil penalty to the applicant unit owner or other party in an amount not
+7 to exceed $1,000.00.
+8 (10) In any action by a unit owner requesting to have an EVSE installed
+9 and seeking to enforce compliance with this section, the prevailing plaintiff
+10 shall be awarded reasonable attorney’s fees.
+11 Sec. 28. 19 V.S.A. § 2908 is added to read:
+12 § 2908. PUBLIC EVSE; REQUIRED FORMS OF PAYMENT
+13 All EVSE available to the public that requires payment for use shall accept
+14 credit cards for payment of all applicable charges and fees in addition to any
+15 other form of payment accepted by the EVSE.
+16 * * * State Rights of Way * * *
+17 Sec. 29. USE OF STATE-OWNED RIGHTS-OF-WAY; REVENUE
+18 GENERATION; PARKING; EVSE
+19 (a)(1) The Secretary of Transportation shall develop a comprehensive map
+20 of utilities located within State-owned rights-of-way in Vermont and determine
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 46 of 52
+1 whether the State is receiving compensation for the location of utilities within
+2 State-owned rights-of-way.
+3 (2) The Secretary of Transportation shall develop a plan for the State to
+4 begin receiving compensation for the ongoing location of utilities within State-
+5 owned rights-of-way and for increasing the amount of compensation received
+6 in relation to utilities located in State-owned rights-of-way for which the State
+7 is already receiving compensation.
+8 (3) On or before January 15, 2026, the Secretary shall submit a written
+9 report detailing the Secretary’s findings pursuant to subdivision (1) of this
+10 subsection and plan pursuant to subdivision (2) of this subsection to the House
+11 and Senate Committees on Transportation, the House Committee on Ways and
+12 Means, and the Senate Committee on Finance.
+13 (b)(1) The Agency of Transportation shall, if adequate space exists within a
+14 State-owned right-of-way that is located within a downtown and village center
+15 identified by the regional planning commission pursuant to 24 V.S.A. § 4348a,
+16 permit the creation of on-street parking within that right-of-way.
+17 (2) The Agency of Transportation shall identify locations for the
+18 colocation of electrical vehicle supply equipment and on-street parking for all
+19 State-owned rights-of-way that:
+20 (A) are located within a downtown and village center identified by a
+21 regional planning commission pursuant to 24 V.S.A. § 4348a;
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 47 of 52
+1 (B) either have existing on-street parking or are sufficiently wide to
+2 accommodate on-street parking; and
+3 (C) have three-phase power located within or adjacent to the State-
+4 owned right-of-way.
+5 * * * Bicycles * * *
+6 Sec. 30. 23 V.S.A. § 1139 is amended to read:
+7 § 1139. RIDING ON ROADWAYS AND BICYCLE PATHS
+8 (a) A person Due care and riding on the right. An individual operating a
+9 bicycle upon a roadway shall exercise due care when passing a standing
+10 vehicle or one proceeding in the same direction. Bicyclists generally shall ride
+11 as near to the right side of the improved area of the highway right-of-way as is
+12 safe, except that a bicyclist:
+13 (1) Shall ride to the left or in a left lane when:
+14 (A) preparing for a left turn at an intersection or into a private
+15 roadway or driveway;
+16 (B) approaching an intersection with a right-turn lane if not turning
+17 right at the intersection; or
+18 (C) overtaking another vulnerable user.
+19 (2) May ride to the left or in a left lane when taking reasonably
+20 necessary precautions to avoid hazards or road conditions. Examples include
+21 objects on the road, parked or moving vehicles, pedestrians, animals, surface
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 48 of 52
+1 conditions that may impair the bicyclist’s stability, or safety hazards caused by
+2 a narrow road or steep embankment, road geometry, or unfavorable
+3 atmospheric conditions.
+4 (b) Persons riding Riding two abreast. Individuals operating bicycles upon
+5 a roadway may not ride more than two abreast except on paths or parts of
+6 roadways set aside for the exclusive use of bicycles or except as otherwise
+7 permitted by the Commissioner of Public Safety in connection with a public
+8 sporting event in which case the Commissioner shall be authorized to adopt
+9 such rules as the public good requires. Persons Individuals riding two abreast
+10 shall not impede the normal and reasonable movement of traffic and, on a
+11 laned roadway, shall ride within a single lane.
+12 (c) Obedience to traffic-control devices and traffic-control signals. An
+13 individual operating a bicycle shall follow all traffic-control devices and
+14 traffic-control signals governing motor vehicles with the following exceptions:
+15 (1) Stop sign or flashing red signal.
+16 (A) An individual operating a bicycle approaching a stop sign or a
+17 traffic-control signal where a red lens is illuminated with rapid intermittent
+18 flashes shall:
+19 (i) slow down;
+20 (ii) if required to avoid an immediate hazard, stop pursuant to
+21 subsection 1048(b) of this title; and
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 49 of 52
+1 (iii) yield the right-of-way to any vehicle in the intersection or
+2 approaching on another intersecting highway so closely as to constitute an
+3 immediate hazard during the time the bicyclist will be within the intersection.
+4 (B) If an individual operating a bicycle meets the requirements of
+5 subdivision (A) of this subdivision (c)(1), the individual may cautiously make
+6 a turn or proceed through the intersection without stopping.
+7 (2) Pedestrian-control devices and pedestrian-control signals. An
+8 individual operating a bicycle while crossing an intersection may follow
+9 pedestrian-control devices and pedestrian-control signals when present except
+10 where otherwise indicated by traffic-control devices and traffic-control signals
+11 and provided that the bicyclist shall yield to pedestrians in the crosswalk.
+12 (d) Riding on a partially controlled access highway. Bicycles may be
+13 operated on the shoulders of partially controlled access highways, which are
+14 those highways where access is controlled by public authority but where there
+15 are some connections with selected public highways, some crossings at grade,
+16 and some private driveway connections. The Traffic Committee may
+17 determine that any portion of these highways is unsafe and therefore closed to
+18 bicycle operation.
+19 * * * Municipal Resiliency Funding and Assistance * * *
+20 Sec. 31. MUNICIPAL HIGHWAY AND STORMWATER MITIGATION
+21 PROGRAM; ADDITIONAL FUNDING
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 50 of 52
+1 The sum of $1,500,000.00 is appropriated from the Transportation Fund to
+2 the Municipal Highway and Stormwater Mitigation Program in fiscal year
+3 2026 to support the provision of additional grants for projects designed to
+4 improve flood resiliency, including culvert resizing, culvert replacement, and
+5 stormwater management.
+6 * * * Education Transportation * * *
+7 Sec. 32. EDUCATION TRANSPORTATION COST; STUDY; REPORT
+8 (a) The Secretary of Transportation, in consultation with the Secretary of
+9 Education, school districts, and supervisory unions, shall examine the actual
+10 costs and the cost-efficiency of providing school-related transportation to
+11 Vermont public school students.
+12 (b) The Secretary of Transportation shall specifically examine:
+13 (1) to the extent data is available, the total cost, the cost per mile, the
+14 cost per passenger, and the cost per passenger mile for school-related
+15 transportation on a district or supervisory union basis, as well as on a regional
+16 and statewide basis;
+17 (2) if data related to the information required under subdivision (1) of
+18 this subsection is not available, the Secretary shall select three school districts
+19 or supervisory unions that are diverse with respect to their location, size, and
+20 population density and determine the total cost, the cost per mile, the cost per
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 51 of 52
+1 passenger, and the cost per passenger mile of the school-related transportation
+2 provided in each of the districts or supervisory unions;
+3 (3) potential opportunities to utilize public transit to reduce the total
+4 cost, the cost per mile, the cost per passenger, and the cost per passenger mile
+5 of education-related transportation in Vermont;
+6 (4) potential issues that could prevent the utilization of public transit to
+7 reduce the cost of education-related transportation in Vermont, including
+8 restrictions on federal funding, capital expenses, and requirements of State or
+9 federal law; and
+10 (5) anticipated advantages and disadvantages of utilizing public transit
+11 to reduce the cost of education-related transportation in Vermont.
+12 (c) On or before January 15, 2026, the Secretary of Transportation shall
+13 submit a written report to the House and Senate Committees on Education and
+14 on Transportation regarding the Secretary’s findings pursuant to subsection (b)
+15 of this section and any recommendations for legislative action.
+16 * * * First Time Car Buyer Workshops * * *
+17 Sec. 33. FIRST TIME CAR BUYER WORKSHOPS
+18 The sum of $15,000.00 is appropriated to the Agency of Transportation for
+19 the provision, in cooperation with community action agencies, of first-time car
+20 buyer workshops to educate new Americans and disadvantaged Vermonters
+VT LEG #380106 v.1
+BILL AS INTRODUCED S.75
+2025 Page 52 of 52
+1 about the process for buying a motor vehicle and incentives that are available
+2 to assist with the purchase of a motor vehicle.
+3 * * * Effective Dates * * *
+4 Sec. 34. EFFECTIVE DATES
+5 (a) This section and Secs. 6, 8, and 9 shall take effect on passage.
+6 (b) Sec. 5 (efficiency fees and rebates; 23 V.S.A. § 383) shall take effect on
+7 July 1, 2026.
+8 (c) Sec. 7 (efficiency fees and rebates; 23 V.S.A. § 383(d)) shall take effect
+9 on July 1, 2028, provided that the General Assembly has not enacted
+10 legislation providing for alternative efficiency fees and rebates based in whole
+11 or in part on the recommendations of the Efficiency Fees and Rebates Task
+12 Force.
+13 (d) The remaining sections shall take effect on July 1, 2025.
+VT LEG #380106 v.1
+[DELETED:  S P S I S R D S d v e S S f E R f a d s ( c v o]
+[DELETED:  S P v r w m T i S i a E r r i c a a h t A i]
+[DELETED:  S P I * S T T * S ( A M ( t I 1 ( A R ( A e 5]
+[DELETED:  S P S ( T I ( P F A A C O $ $ $ T $ $ $ S S $ $ $ T $ $ $ ( f t l ( s f m f]
+[DELETED:  S P * S C § A ( ( 3 ( p d b ( § p ( § ( 3 ( s]
+[DELETED:  S P ( p p a ( f ( o ( ( p ( n p i ( t t § ( p]
+[DELETED:  S P i t ( C t ( s r §   T o c § R t * S § (]
+[DELETED:  S P ( a ( m c t r § ( t ( a ( o ( w t c w P l]
+[DELETED:  S P ( w t u a 4 ( g t ( b t ( v v c v v ( s]
+[DELETED:  S P ( v ( b a ( ( ( p a p S ( t s 2 ( m ( a]
+[DELETED:  S P ( C ( ( ( ( S ( A C ( ( t ( 2 ( b a ( a e]
+[DELETED:  S P ( i ( r ( ( ( r A ( r r ( ( m ( ( ( ( ( A]
+[DELETED:  S P b t m ( b p p T S § * ( ( ( ( t ( ( t ( (]
+[DELETED:  S P ( ( ( t ( ( t ( ( ( ( ( t ( ( l ( S   T A]
+[DELETED:  S P p o q a S ( H i s t ( ( ( t v ( a ( r]
+[DELETED:  S P * O S   ( c P o e ( i ( ( ( ( t ( ( ( r]
+[DELETED:  S P ( a ( t ( ( i t ( v e ( ( ( ( m ( r ( p a]
+[DELETED:  S P ( ( l ( f v ( d t C p * S ( A p p m o ( A]
+[DELETED:  S P p f * S § A * ( t S § ( d r ( a d ( e c r]
+[DELETED:  S P t 3 * ( s a ( e a * ( p t * ( T t r S § *]
+[DELETED:  S P ( c * ( m l ( ( g * ( a m h S § * ( d o *]
+[DELETED:  S P ( e ( ( g * * S § * ( ( r r a f f ( i t s]
+[DELETED:  S P h s ( t S s C ( r ( s r r e w ( e p r h i]
+[DELETED:  S P ( f s r t h A ( f m ( T * ( ( A e u ( s p]
+[DELETED:  S P ( § p * ( b * ( ( P g s s ( ( s ( § p]
+[DELETED:  S P ( ( s ( A s * ( p S §   ( 3 w m ( * ( A w]
+[DELETED:  S P f p t ( t c r ( 2 p * S § ( p t s r s s c]
+[DELETED:  S P ( 2 m u n t m ( S p m ( p t b t i r b ( 2]
+[DELETED:  S P b u n t m ( H r a $ * * S § T m i S S   *]
+[DELETED:  S P ( V f ( v 2 ( u c ( i e ( a f ( p ( a ( (]
+[DELETED:  S P ( ( p ( ( ( a p t ( d i ( R G * S   ( H P]
+[DELETED:  S P F O A V e A ( e C * S § ( a c ( n p m i]
+[DELETED:  S P h u ( * ( e h ( ( * ( l y [ ( l S d ( d]
+[DELETED:  S P d p * S § A * ( m C S     T t r t * S § (]
+[DELETED:  S P ( s e ( a a o E m e ( J E t m ( ( t ( (]
+[DELETED:  S P ( t ( p p ( i a c ( o w ( u m o ( p i i]
+[DELETED:  S P ( t m b a a p ( w E o i E ( c d c E t u f]
+[DELETED:  S P ( r m ( L A ( s a ( t t ( s b S § ( s c 1]
+[DELETED:  S P t n d a d * ( t b c p c * S § ( ( s e ( a]
+[DELETED:  S P t c m ( a a o E m e ( § ( i d m ( ( c o g]
+[DELETED:  S P d t o s p o ( r t o ( i S r ( T a o n a 6]
+[DELETED:  S P d a ( c i ( i a f ( i ( n E ( i ( a a]
+[DELETED:  S P ( E a ( t ( c m m ( E t r ( ( a t ( o m i]
+[DELETED:  S P E c a p ( l A ( e e o e w c i ( m u a]
+[DELETED:  S P ( c i ( l p t ( a s S § A c o * S   ( o]
+[DELETED:  S P w S ( b o i i ( r s a M ( S i p ( c S ( r]
+[DELETED:  S P ( a ( o * S § ( b v a s ( ( r ( r ( ( n o]
+[DELETED:  S P c a a ( a r p s s s l ( i t ( ( t f ( ( s]
+[DELETED:  S P ( a i ( s a ( i p w a ( o t a a d b * S  ]
+[DELETED:  S P T t 2 i s * S ( E c V ( ( c t a ( t o p]
+[DELETED:  S P p p ( c o ( r r f ( t ( s o o * S T t b]
+[DELETED:  S P a t * S ( ( J ( o l o F (]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED S.75
+2025 Page 1 of 52
+1 S.75
+2 Introduced by Senators White, Clarkson, Gulick, Major and Watson
+3 Referred to Committee on
+4 Date:
+5 Subject: Motor vehicles; vehicle incentive programs; public transit; retail
+6 delivery fees; efficiency fees; efficiency rebates; feebates; electric
+7 vehicles; eBikes; vehicle miles traveled; electric vehicle supply
+8 equipment; local highway aid; complete streets; Vermont State
+9 Standards; traffic signals; bicycles; first-time car buyers
+10 Statement of purpose of bill as introduced: This bill proposes to do the
+11 following: (1) appropriate funds for the Incentive Program for New Plug-in
+12 Electric Vehicles; the MileageSmart Incentive Program, the Replace Your
+13 Ride Program, and the eBike Incentive Program; (2) provide additional State
+14 funding for local public transit agencies in fiscal year 2026 to ensure that
+15 agencies maintain the existing level of service; (3) impose a fee on retail
+16 deliveries that are subject to the sales and use tax; (4) create a revenue-neutral
+17 system of motor vehicle efficiency fees and motor vehicle efficiency rebates;
+18 (5) require the Agency of Transportation to implement public outreach
+19 campaigns related to public transportation, active transportation, electric
+20 vehicles, idling, and safe passing distances; (6) provide funding to the Agency
+21 of Transportation to enhance public-private partnerships promoting electric
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 2 of 52
+1 vehicles and eBikes; (7) require the Agency of Transportation to consider
+2 reductions in vehicle miles traveled and greenhouse gas emissions reductions
+3 when evaluating projects; (8) reduce the local share due from smaller
+4 municipalities seeking State funding for projects; (9) direct the Agency of
+5 Transportation to provide technical assistance to municipalities in relation to
+6 implementation of complete streets; (10) require the updated Vermont State
+7 Standards to incorporate complete streets principles and consideration of green
+8 infrastructure; (11) establish right-to-charge laws to permit property owners
+9 and tenants to install electric vehicle supply equipment (EVSE); (12) require
+10 EVSE that is available for public use to accept credit cards for payment; (13)
+11 require the Agency of Transportation to examine the possibility of generating
+12 revenue from utilities located in State-owned rights of way, to permit parking
+13 in State-owned rights of way in downtowns, and to identify locations for
+14 collocating EVSE and on-street parking in State-owned rights of way; (14)
+15 amend the traffic-control signals a bicycle operator must follow; (15) provide
+16 additional funding and support for projects to improve resiliency of municipal
+17 highways; (16) study potential cost savings for education-related
+18 transportation; and (17) provide funding for first-time car buyer classes.
+19 An act relating to transportation initiatives to improve equity and
+20 infrastructure, increase resiliency, and reduce emissions
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 3 of 52
+1 It is hereby enacted by the General Assembly of the State of Vermont:
+2 * * * Short Title * * *
+3 Sec. 1. SHORT TITLE
+4 This act may be cited as “An Act Relating to Creating a Unified Resilient
+5 Transportation System” or “Curt’s Act.”
+6 * * * Efficient Vehicle Incentive Program Funding * * *
+7 Sec. 2. APPROPRIATIONS FOR VEHICLE INCENTIVE PROGRAMS
+8 (a) The sum of $3,000,000.00 is appropriated from the General Fund to the
+9 Agency of Transportation in fiscal year 2026 for the purpose of funding the
+10 MileageSmart Program established pursuant to 19 V.S.A. § 2902.
+11 (b) The sum of $10,000,000.00 is appropriated from the General Fund to
+12 the Agency of Transportation in fiscal year 2026 for the purpose of funding the
+13 Incentive Program for New Plug-In Electric Vehicles established pursuant to
+14 19 V.S.A. § 2901.
+15 (c) The sum of $1,000,000.00 is appropriated from the General Fund to the
+16 Agency of Transportation in fiscal year 2026 for the purpose of funding the
+17 Replace Your Ride program established pursuant to 19 V.S.A. § 2904.
+18 (d) The sum of $150,000.00 is appropriated from the General Fund to the
+19 Agency of Transportation in fiscal year 2026 for the purpose of funding the
+20 eBike Incentive Program established pursuant to 2021 Acts and Resolves No.
+21 55, Sec. 28, as amended by 2022 Acts and Resolves No. 184, Sec. 23.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 4 of 52
+1 Sec. 3. ONE-TIME PUBLIC TRANSIT MONIES
+2 (a) Project addition. The following project is added to the Agency of
+3 Transportation’s Proposed Fiscal Year 2026 Transportation Program:
+4 Increased One-Time Monies for Public Transit for Fiscal Year 2026.
+5 (b) Authorization. Spending authority for Increased One-Time Monies for
+6 Public Transit for Fiscal Year 2025 is authorized as follows:
+7 FY25 As Proposed As Amended Change
+8 Other $0.00 $1,280,000.00 $1,280,000.00
+9 Total $0.00 $1,280,000.00 $1,280,000.00
+10 Sources of funds
+11 State $0.00 $1,280,000.00 $1,280,000.00
+12 Total $0.00 $1,280,000.00 $1,280,000.00
+13 (c) Federal monies. The Agency of Transportation shall utilize available
+14 federal monies in lieu of the authorization in subsection (b) of this section to
+15 the greatest extent practicable, provided that there is no negative impact on any
+16 local public transit providers.
+17 (d) Implementation. The Agency shall distribute the authorization in
+18 subsection (b) of this section to local transit agencies as one-time bridge
+19 funding for fiscal year 2026 to ensure that local transit agencies are able to
+20 maintain the existing level of service and make planned capital investments in
+21 fiscal year 2026.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 5 of 52
+1 * * * Retail Delivery Fee * * *
+2 Sec. 4. 23 V.S.A. chapter 26 is added to read:
+3 CHAPTER 26. RETAIL DELIVERY FEE
+4 § 2551. DEFINITIONS
+5 As used in this chapter:
+6 (1) “Commissioner” means the Commissioner of Taxes.
+7 (2) “Persons required to collect tax” has the same meaning as in
+8 32 V.S.A. § 9701.
+9 (3) “Retail delivery” means a delivery of tangible personal property to a
+10 person located in Vermont as part of a retail sale by a vendor. Retail delivery
+11 does not include pickup of tangible personal property at a vendor’s place of
+12 business, including curbside pickup.
+13 (4) “Tangible personal property” has the same meaning as in 32 V.S.A.
+14 § 9701, except that it shall not include electricity, water, gas, steam, and
+15 prewritten computer software.
+16 (5) “Vendor” has the same meaning as in 32 V.S.A. § 9701.
+17 § 2552. FEE ON RETAIL DELIVERIES
+18 (a)(1) All retail deliveries by persons required to collect tax pursuant to
+19 32 V.S.A. chapter 233 shall be subject to a delivery fee of $0.30.
+20 (2) A vendor may elect to collect the fee imposed pursuant to this
+21 section from the purchaser.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 6 of 52
+1 (3) For purposes of 32 V.S.A. chapter 233, the delivery fee imposed
+2 pursuant to this section shall not be included in the sales price of the tangible
+3 personal property sold as part of a retail sale and shall be separately stated on
+4 any invoice, bill or sale, or similar document given to the purchaser.
+5 (b) If the vendor collects the delivery fee from the purchaser, the delivery
+6 fee must be charged in addition to any other delivery fee.
+7 (c) The delivery fee imposed pursuant to this section shall only be charged
+8 once per retail transaction regardless of the number of:
+9 (1) items of tangible personal property purchased; or
+10 (2) shipments needed to deliver the items of tangible personal property
+11 purchased.
+12 (d)(1) The delivery fee imposed pursuant to this section shall be
+13 nonrefundable if any or all items of tangible personal property that were
+14 purchased are returned to the vendor or the vendor provides a refund or credit
+15 in an amount that is equal to or less than the purchase price of the items.
+16 (2) The delivery fee imposed pursuant to this section shall be refunded
+17 to the purchaser if the retail delivery is canceled by the purchaser, vendor, or
+18 the delivery provider.
+19 § 2553. RETURNS; PAYMENT OF RETAIL DELIVERY FEES
+20 (a) A vendor shall report the amount of fees collected on a return
+21 prescribed by the Commissioner. The return shall include any other
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 7 of 52
+1 information that the Commissioner deems necessary for the administration of
+2 this chapter.
+3 (b) Returns required pursuant to this section shall be submitted to the
+4 Commissioner on the same schedule as the vendor is required to submit sales
+5 tax returns pursuant to 32 V.S.A. § 9775.
+6 (c) All fees collected by a vendor for the time period covered by a return
+7 shall be remitted to the Commissioner at the same time the vendor submits the
+8 return.
+9 § 2554. ADMINISTRATION; OVERPAYMENTS; REFUNDS;
+10 ENFORCEMENT; PENALTIES
+11 The provisions of 32 V.S.A. chapter 233 relating to administration, refunds
+12 of overpayments, enforcement, penalties, and appeals shall apply to this
+13 chapter.
+14 § 2555. DEPOSIT AND USE OF FEES
+15 Retail delivery fees collected pursuant to this chapter shall be deposited into
+16 the Transportation Fund and used to support public transit services in the State.
+17 * * * Efficiency Fees and Rebates * * *
+18 Sec. 5. 23 V.S.A. § 383 is added to read:
+19 § 383. EFFICIENCY FEESf AND REBATES
+20 (a) As used in this section:
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 8 of 52
+1 (1) “Covered vehicles” includes new light trucks, new passenger
+2 automobiles, and new sport utility vehicles.
+3 (2) “Light truck” means a motor vehicle, without regard to whether the
+4 motor vehicle could be categorized as a special purpose vehicle, that would be
+5 categorized as a small pickup truck, standard pickup truck, van, or minivan by
+6 the Administrator of the Environmental Protection Agency or authorized
+7 representative for purposes of fuel economy labeling pursuant to 40 C.F.R.
+8 § 600.315-08.
+9 (3) “Motor vehicle” has the same meaning as in subdivision 4(21) of
+10 this title.
+11 (4) “Motor vehicle type” means a light duty truck, passenger
+12 automobile, or sport utility vehicle.
+13 (5) “New motor vehicle” has the same meaning as in subdivision 4(62)
+14 of this title.
+15 (6) “Passenger automobile” means a motor vehicle, without regard to
+16 whether the motor vehicle could be categorized as a special purpose vehicle,
+17 that would be categorized as a two seater, minicompact car, subcompact car,
+18 compact car, midsize car, large car, small station wagon, midsize station
+19 wagon, or large station wagon by the Administrator of the Environmental
+20 Protection Agency or authorized representative for purposes of fuel economy
+21 labeling pursuant to 40 C.F.R. § 600.315-08.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 9 of 52
+1 (7) “Sport utility vehicle” means a motor vehicle, without regard to
+2 whether the motor vehicle could be categorized as a special purpose vehicle,
+3 that would be categorized as a small sport utility vehicle or standard sport
+4 utility vehicle by the Administrator of the Environmental Protection Agency or
+5 authorized representative for purposes of fuel economy labeling pursuant to
+6 40 C.F.R. § 600.315-08.
+7 (8) “Vehicle efficiency” means the combined fuel economy in miles per
+8 gallon or miles per gallon equivalent (MPGe) of the motor vehicle as rated by
+9 the Environmental Protection Agency.
+10 (b) All covered vehicles shall, at the time of initial registration in the State,
+11 be subject to an efficiency fee or entitled to an efficiency rebate under a system
+12 that:
+13 (1) is designed to provide a rebate for motor vehicles within each motor
+14 vehicle type that have a high vehicle efficiency as compared to the average
+15 vehicle efficiency for motor vehicles of that motor vehicle type in the State and
+16 collect a fee for motor vehicles within each motor vehicle type that have a low
+17 vehicle efficiency as compared to the average vehicle efficiency for motor
+18 vehicles of that motor vehicle type in the State;
+19 (2) is divided into at least four tiers, not including a tier that is not
+20 subject to an efficiency fee or rebate, for each motor vehicle type;
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 10 of 52
+1 (3) is designed to be revenue neutral to the State within each motor
+2 vehicle type;
+3 (4) is recalculated on an annual basis for the subsequent fiscal year
+4 based on actual new motor vehicle registration data for the prior fiscal year and
+5 adjusted as necessary to maintain revenue neutrality;
+6 (5) applies to the purchase and lease of new covered vehicles; and
+7 (6) may differ between a purchased and a leased covered vehicle.
+8 (c) The efficiency fees and rebates applicable for a fiscal year shall be
+9 prominently displayed on the website for the Department of Motor Vehicles
+10 and at all dealership locations and on the websites for all dealers registered
+11 pursuant to chapter 7, subchapter 4 of this title.
+12 Sec. 6. EFFICIENCY FEES AND REBATES TASK FORCE
+13 (a) Creation. There is created the Efficiency Fees and Rebates Task Force
+14 to formulate a method for calculating the initial and recalculating the
+15 subsequent efficiency fees and rebates to be collected and distributed under
+16 23 V.S.A. § 383 as added by Sec. 5 of this act.
+17 (b) Membership. The Task Force shall be composed of the following
+18 members:
+19 (1) one current member of the House of Representatives, who shall be
+20 appointed by the Speaker of the House;
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 11 of 52
+1 (2) one current member of the Senate, who shall be appointed by the
+2 Committee on Committees;
+3 (3) the Commissioner of Financial Regulation or designee;
+4 (4) the Commissioner of Motor Vehicles or designee;
+5 (5) the Secretary of Transportation or designee;
+6 (6) one member, who shall be an economist and appointed by the
+7 Speaker of the House; and
+8 (7) one member, who shall be a member of the Vermont Vehicle and
+9 Automotive Distributors Association and appointed by the Committee on
+10 Committees.
+11 (c) Duties.
+12 (1) The Task Force shall make recommendations that are consistent with
+13 the Climate Action Plan about:
+14 (A) efficiency fees and rebates to be collected and distributed under
+15 23 V.S.A. § 383 as added by Sec. 5 of this act in fiscal year 2027;
+16 (B) a formula or method for calculating efficiency fees and rebates to
+17 be collected and distributed under 23 V.S.A. § 383 as added by Sec. 5 of this
+18 act in fiscal years subsequent to fiscal year 2027;
+19 (C) any modifications to 23 V.S.A. § 383 as added by Sec. 5 of this
+20 act that are necessary for implementation of a revenue-neutral system of
+21 efficiency fees and rebates; and
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 12 of 52
+1 (D) best practices, policies, and guidelines for successful
+2 implementation of a revenue-neutral system of efficiency fees and rebates.
+3 (2) The Task Force shall prepare a report containing its
+4 recommendations and proposed legislation based upon its recommendations.
+5 (d) Assistance. The Task Force shall have:
+6 (1) drafting assistance from the Office of Legislative Counsel; and
+7 (2) other assistance, including the writing of the report containing
+8 recommendations, fiscal assistance, and committee support services, from the
+9 Agency of Transportation.
+10 (e) Report. On or before January 15, 2026, the Task Force shall submit a
+11 report to the House and Senate Committees on Transportation with its
+12 recommendations and proposed legislation.
+13 (f) Meetings.
+14 (1) The Secretary of Transportation or designee shall call the first
+15 meeting of the Task Force to occur on or before July 1, 2025.
+16 (2) The Secretary of Transportation or designee shall be the Chair.
+17 (3) A majority of the membership shall constitute a quorum.
+18 (4) The Task Force shall cease to exist on February 15, 2026.
+19 (g) Compensation and reimbursement.
+20 (1) For attendance at meetings during adjournment of the General
+21 Assembly, a legislative member of the Task Force serving in that capacity shall
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 13 of 52
+1 be entitled to per diem compensation and reimbursement of expenses pursuant
+2 to 2 V.S.A. § 23 for not more than eight meetings. These payments shall be
+3 made from monies appropriated to the General Assembly.
+4 (2) Other members of the Task Force who are not State employees shall
+5 be entitled to per diem compensation and reimbursement of expenses as
+6 permitted under 32 V.S.A. § 1010 for not more than eight meetings. These
+7 payments shall be made from monies appropriated to the Agency of
+8 Transportation.
+9 Sec. 7. 23 V.S.A. § 383 is amended to read:
+10 § 383. EFFICIENCY FEES AND REBATES
+11 * * *
+12 (d)(1) Light trucks.
+13 (A) The efficiency fees for light trucks shall be:
+14 (i) $500.00 if the vehicle efficiency is less than 16 MPGe; and
+15 (ii) $170.00 if the vehicle efficiency is 16 MPGe or more and less
+16 than 20 MPGe.
+17 (B) The efficiency rebates for light trucks shall be:
+18 (i) $925.00 if the vehicle efficiency is 26 MPGe or more and less
+19 than 28 MPGe; and
+20 (ii) $1,500.00 if the vehicle efficiency is 28 MPGe or more.
+21 (2) Passenger automobiles.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 14 of 52
+1 (A) The efficiency fees for passenger automobiles shall be:
+2 (i) $750.00 if the vehicle efficiency is less than 21 MPGe; and
+3 (ii) $400.00 if the vehicle efficiency is 21 MPGe or more and less
+4 than 24 MPGe.
+5 (B) The efficiency rebates for passenger automobiles shall be:
+6 (i) $700.00 if the vehicle efficiency is 30 MPGe or more and less
+7 than 35 MPGe; and
+8 (ii) $1,000.00 if the vehicle efficiency is 35 MPGe or more.
+9 (3) Sport utility vehicles.
+10 (A) The efficiency fees for sport utility vehicles shall be:
+11 (i) $500.00 if the vehicle efficiency is less than 16 MPGe; and
+12 (ii) $250.00 if the vehicle efficiency is 16 MPGe or more and less
+13 than 20 MPGe.
+14 (B) The efficiency rebates for sport utility vehicles shall be:
+15 (i) $1,000.00 if the vehicle efficiency is 26 MPGe or more and
+16 less than 30 MPGe; and
+17 (ii) $1,500.00 if the vehicle efficiency is more than 30 MPGe.
+18 Sec. 8. OUTREACH ON EFFICIENCY FEES AND REBATES;
+19 APPROPRIATION
+20 The sum of $20,000.00 is appropriated from the Transportation Fund to the
+21 Agency of Transportation in fiscal year 2026 to expand the Agency’s public-
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 15 of 52
+1 private partnership with Drive Electric Vermont to provide marketing and
+2 outreach efforts on motor vehicle efficiency fees and rebates in the fourth
+3 quarter of fiscal year 2026 in advance of 23 V.S.A. § 383, as added by Secs. 5
+4 and 7 of this act, taking effect.
+5 Sec. 9. ANNUAL FEEBATE REPORT
+6 (a) The Agency of Transportation shall annually submit a report to the
+7 House and Senate Committees on Transportation that evaluates the
+8 implementation and effectiveness of 23 V.S.A. § 383. The report shall be
+9 submitted not later than January 15 each year starting in 2028 and continuing
+10 to 2033.
+11 (b) At a minimum, the report shall contain:
+12 (1) the rates of all efficiency fees and rebates for the prior fiscal year;
+13 (2) the total amount collected in efficiency fees for each motor vehicle
+14 type and the total amount distributed in efficiency rebates for each motor
+15 vehicle type in the prior fiscal year;
+16 (3) an estimate of the costs to administer the system of efficiency fees
+17 and rebates during the prior fiscal year; and
+18 (4) recommendations on changes to the system of efficiency fees and
+19 rebates.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 16 of 52
+1 * * * Transit; Active Transportation; Electric Vehicles; Idling; Safe Passing;
+2 Outreach * * *
+3 Sec. 10. PUBLIC TRANPORTATION; ACTIVE TRANSPORTATION;
+4 ELECTRIC VEHICLES; IDLING; SAFE PASSING; OUTREACH
+5 (a) On or before January 1, 2026, the Agency of Transportation, in
+6 consultation with the Departments of Environmental Conservation and of
+7 Public Safety and with Drive Electric Vermont, shall implement public
+8 outreach campaigns related to public transportation, active transportation,
+9 electric vehicles, idling, and safe passing distances.
+10 (b) The public outreach campaigns shall include, at a minimum,
+11 information related to:
+12 (1) for the public outreach campaign related to public transportation:
+13 (A) ways to access public transportation;
+14 (B) modes of public transportation available; and
+15 (C) economic and environmental benefits of utilizing public
+16 transportation;
+17 (2) for the public outreach campaign related to active transportation:
+18 (A) forms of active transportation;
+19 (B) methods for utilizing active transportation for commuting and
+20 running errands;
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 17 of 52
+1 (C) infrastructure and public amenities that are available to facilitate
+2 active transportation; and
+3 (D) economic, environmental, and health benefits of utilizing active
+4 transportation;
+5 (3) for the public outreach campaign related to electric vehicles:
+6 (A) incentive programs for the purchase of electric vehicles and the
+7 installation of electrical vehicle supply equipment that are available through
+8 the State, the federal government, and utilities; and
+9 (B) economic and environmental benefits of utilizing an electric
+10 vehicle for transportation in place of a vehicle with an internal combustion
+11 engine;
+12 (4) for the public outreach campaign related to idling:
+13 (A) the instances when idling violates Vermont law;
+14 (B) the impact of idling on the environment and health;
+15 (C) the estimated amount of fuel that is wasted each year because of
+16 motor vehicles idling in Vermont and the estimated cost of the wasted fuel;
+17 (D) the estimated savings in fuel and fuel costs that would result from
+18 reducing idling by just one minute per day; and
+19 (E) the estimated reduction in greenhouse gas emissions and air
+20 pollution that would result from reducing idling by just one minute per day;
+21 and
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 18 of 52
+1 (5) for the public outreach campaign related to safe passing distances:
+2 (A) the requirement in Vermont law to reduce speed and provide at
+3 least four feet of space to vulnerable users when passing; and
+4 (B) information on the potential to reduce accidents, injuries, and
+5 fatalities by following Vermont’s law relating to motor vehicles passing
+6 vulnerable users.
+7 (c) The public outreach campaigns required pursuant to this section shall
+8 disseminate information through email; dedicated web pages that are linked
+9 through the websites for the Departments of Motor Vehicles, of Environmental
+10 Conservation, and of Public Safety; social media platforms; community
+11 posting websites; radio; television; and printed written materials.
+12 * * * Expansion of PEV and eBike Market * * *
+13 Sec. 11. EXPANSION OF PEV AND EBIKE MARKET
+14 (a) The sum of $100,000.00 is appropriated from the General Fund to the
+15 Agency of Transportation in fiscal year 2026 to expand the Agency’s public-
+16 private partnership with Drive Electric Vermont. The amounts appropriated
+17 pursuant to this subsection shall be used to support the expansion of the PEV
+18 market in Vermont through events that offer members of the public
+19 opportunities to drive PEVs or learn about PEVs or EVSE, or both.
+20 (b) The sum of $250,000.00 is appropriated from the General Fund to the
+21 Agency of Transportation in fiscal year 2026 to enter into and expand public-
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 19 of 52
+1 private partnerships with Vermont organizations promoting the use of eBikes
+2 for transportation.
+3 * * * Consideration of Vehicle Miles Traveled in Project Planning * * *
+4 Sec. 12. 19 V.S.A. § 1 is amended to read:
+5 § 1. DEFINITIONS
+6 As used in this title:
+7 * * *
+8 (26) “Vehicle miles traveled” means the estimated sum of the miles
+9 traveled by all motor vehicle trips within a specific area during a calendar year.
+10 Sec. 13. 19 V.S.A. § 10b is amended to read:
+11 § 10b. STATEMENT OF POLICY; GENERAL
+12 (a) The Agency shall be the responsible agency of the State for the
+13 development of transportation policy. It shall develop a mission statement to
+14 reflect:
+15 (1) that State transportation policy shall be to encompass, coordinate,
+16 and integrate all modes of transportation and to consider complete streets, as
+17 defined in section 2401 of this title, principles; and
+18 (2) the need for transportation projects that will improve the State’s
+19 economic infrastructure,; as well as the use of resources in efficient,
+20 coordinated, integrated, cost-effective, and environmentally sound ways,;
+21 reduce vehicle miles traveled within the State; and that will be consistent with
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 20 of 52
+1 the recommendations of the Comprehensive Energy Plan (CEP) issued under
+2 30 V.S.A. § 202b.
+3 * * *
+4 (c) In developing the State’s annual Transportation Program, the Agency
+5 shall, consistent with the planning goals listed in 24 V.S.A. § 4302 and with
+6 appropriate consideration to local, regional, and State agency plans:
+7 (1) develop or incorporate designs that provide integrated, safe, and
+8 efficient transportation; that reduce vehicle miles traveled in the State; and that
+9 are consistent with the recommendations of the CEP;
+10 * * *
+11 (d) The Agency of Transportation, in developing each of the program
+12 prioritization systems schedules for all modes of transportation, shall include
+13 the following throughout the process:
+14 * * *
+15 (2) Each year, the Agency shall provide in the front of the
+16 Transportation Program book a detailed explanation describing the factors in
+17 the prioritization system that creates each project list, which shall include a
+18 reduction in vehicle miles traveled in the State.
+19 Sec. 14. 19 V.S.A. § 10c is amended to read:
+20 § 10c. STATEMENT OF POLICY; HIGHWAYS AND BRIDGES
+21 * * *
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 21 of 52
+1 (c) In choosing between the improvement of an existing highway and
+2 complete reconstruction, the Agency shall weigh the following factors:
+3 * * *
+4 (9) the impact on the historic, scenic, and aesthetic values of the
+5 municipality, as interpreted by the municipality, in which the highway is
+6 located; and
+7 (10) if it is a forest highway under federal jurisdiction; and
+8 (11) opportunities to reduce vehicle miles traveled or otherwise reduce
+9 greenhouse gas emissions related to the highway.
+10 * * *
+11 (k) It shall be the policy of the State to develop plans for the improvement
+12 and reconstruction of highways and bridges in a manner that reduces vehicle
+13 miles traveled or otherwise reduces greenhouse gas emissions related to the
+14 highway or bridge.
+15 Sec. 15. 19 V.S.A. § 10i is amended to read:
+16 § 10i. TRANSPORTATION PLANNING PROCESS
+17 * * *
+18 (c) Transportation Program. The Transportation Program shall be
+19 developed in a fiscally responsible manner to accomplish the following
+20 objectives:
+21 * * *
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 22 of 52
+1 (3) strengthening the economy, protecting the quality of the natural
+2 environment, and improving Vermonters’ quality of life; and
+3 (4) achieving the recommendations of the CEP; and
+4 (5) reducing vehicle miles traveled or otherwise reducing greenhouse
+5 gas emissions.
+6 * * *
+7 * * * Increased Highway Funding for Rural Towns * * *
+8 Sec. 16. 19 V.S.A. § 306 is amended to read:
+9 § 306. APPROPRIATION; STATE AID FOR TOWN HIGHWAYS
+10 * * *
+11 (d) State aid for nonfederal disasters.
+12 (1) There shall be an annual appropriation for emergency aid in
+13 repairing, building, or reconstructing class 1, 2, or 3 town highways and for
+14 repairing or replacing drainage structures including bridges on class 1, 2, 3,
+15 and 4 town highways damaged by natural or man-made disasters. Eligibility
+16 for use of emergency aid under this appropriation shall be subject to the
+17 following criteria:
+18 (1)(A) The Secretary of Transportation shall determine that the disaster
+19 is of such magnitude that State aid is both reasonable and necessary to preserve
+20 the public good. If total cumulative damages to town highways and drainage
+21 structures are less than the value of 10 percent of the town’s overall total
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 23 of 52
+1 highway budget excluding the town’s winter maintenance budget, the disaster
+2 shall not qualify for assistance under this subsection.
+3 (2)(B) The disaster shall not qualify for major disaster assistance from
+4 the Federal Emergency Management Agency (FEMA) under the Robert T.
+5 Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. §§ 5121 et
+6 seq., or from the Federal Highway Administration (FHWA) under the 23
+7 C.F.R. Part 668 Emergency Relief Program for federal-aid highways.
+8 (C) Additional criteria established by the Secretary through
+9 rulemaking under 3 V.S.A. chapter 25.
+10 (3)(2)(A) Towns Except as otherwise provided in subdivision (B) of this
+11 subdivision (d)(2), towns shall be eligible for reimbursement for repair or
+12 replacement costs of either up to 90 percent of the eligible repair or
+13 replacement costs or the eligible repair or replacement costs, minus an amount
+14 equal to 10 percent of the overall total highway budget, minus the town’s
+15 winter maintenance budget, whichever is greater.
+16 (B) Rural towns, as that term is defined in 24 V.S.A. § 4303, shall be
+17 eligible for reimbursement for repair or replacement costs of either up to 95
+18 percent of the eligible repair or replacement costs or the eligible repair or
+19 replacement costs, minus an amount equal to 5 percent of the overall total
+20 highway budget, minus the rural town’s winter maintenance budget, whichever
+21 is greater.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 24 of 52
+1 (4)(3) For towns that have adopted road and bridge standards, eligibility
+2 for reimbursement for repair or replacement of infrastructure shall be to those
+3 standards. For towns that have not adopted these standards, eligibility for
+4 reimbursement for repair or replacement of infrastructure shall be limited to
+5 the specifications of the infrastructure that preexisted the emergency event;
+6 however, the repair or replacement shall be to standards approved by the
+7 Agency of Transportation.
+8 (5)(4) For a drainage structure on a class 4 town highway to be eligible
+9 for repair or replacement under this subsection, the town must document that it
+10 maintained the structure prior to the nonfederal disaster.
+11 (6) Such additional criteria as may be adopted by the Agency of
+12 Transportation through rulemaking under 3 V.S.A. chapter 25.
+13 * * *
+14 (f) State aid for federal disasters.
+15 (1) Towns receiving assistance under the Federal Highway
+16 Administration’s Emergency Relief Program for federal-aid highways shall be
+17 eligible for State aid when a nonfederal match is required. Eligibility for aid
+18 under this subsection shall be subject to the following criteria:
+19 (A)(i) Towns Except as otherwise provided in subdivision (ii) of this
+20 subdivision (f)(1)(A), towns shall be responsible for up to not more than 10
+21 percent of the total eligible project costs.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 25 of 52
+1 (ii) Rural towns, as that term is defined pursuant to 24 V.S.A.
+2 § 4303, shall be responsible for not more than five percent of the total eligible
+3 project costs.
+4 * * *
+5 (C) Such additional Additional criteria as may be adopted established
+6 by the Agency Secretary through rulemaking under 3 V.S.A. chapter 25.
+7 * * *
+8 (i) Municipal Mitigation Assistance Program.
+9 (1) The Agency shall administer the Municipal Mitigation Assistance
+10 Program. Through the Program, the Agency shall provide assistance and
+11 grants to municipalities for environmental mitigation projects related to
+12 stormwater and highways and for the establishment and operation of
+13 stormwater utilities. Municipalities
+14 (2)(A) Except as otherwise provided pursuant to subdivisions (B) and
+15 (C) of this subdivision (i)(2), municipalities shall match grants with local funds
+16 sufficient to cover 20 percent of the project costs, except that the.
+17 (B) Rural towns, as that term is defined pursuant to 24 V.S.A.
+18 § 4303, shall match grants with local funds sufficient to cover 10 percent of the
+19 project costs.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 26 of 52
+1 (C) Notwithstanding subdivisions (A) and (B) of this subdivision
+2 (i)(2), the Agency may issue grants for the establishment or operation of
+3 stormwater utilities without requiring a local match.
+4 (3) From the operating expenses appropriated for the Program, the
+5 Agency is authorized to pay costs billed to the Agency by municipal
+6 stormwater utilities.
+7 * * *
+8 (k) As used in this section, “town” includes a “rural town” as defined
+9 pursuant to 24 V.S.A. § 4303 unless otherwise expressly provided.
+10 Sec. 17. 19 V.S.A. § 309a is amended to read:
+11 § 309a. LOCAL HIGHWAY WORK UNIFORM LOCAL SHARE;
+12 EXCEPTIONS
+13 (a) Except as provided in subsection (b) or (c) of this section or in sections
+14 309b and 309c of this title, in any case of highway or bridge construction in
+15 which a federal/State/local or State/local funding match is authorized, the
+16 municipality’s share shall be ten percent of the project costs.
+17 (b) This The provisions of subsection (a) of this section shall not apply to:
+18 * * *
+19 (6) any project where, by the mutual agreement of the municipality and
+20 Agency, rehabilitation of an existing bridge is the preferred alternative, in
+21 which case the Agency shall use the appropriate combination of State and
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 27 of 52
+1 federal funding to pay either 95 percent of the cost of rehabilitation, or 97.5
+2 percent if the municipality closes the bridge and does not construct a
+3 temporary bridge for the duration of the project; or
+4 (7) any project or portion of a project involving a structure that is part of
+5 the Historic Bridge Program, where the Agency shall use the appropriate
+6 combination of State and federal funding to pay 100 percent of the cost of
+7 rehabilitation; or
+8 (8) any project in a rural town, as that term is defined pursuant to
+9 24 V.S.A. § 4303, in which case the municipal share shall be 2.5 percent of the
+10 project costs or a lesser amount authorized by statute or the General Assembly.
+11 * * *
+12 Sec. 18. 19 V.S.A. § 309b is amended to read:
+13 § 309b. LOCAL MATCH; CERTAIN TOWN HIGHWAY PROGRAMS
+14 (a)(1) Notwithstanding subsection 309a(a) of this title and except as
+15 provided in subdivision (2) of this subsection, grants provided to towns under
+16 the Town Highway Structures Program shall be matched by local funds
+17 sufficient to cover 20 percent of the project costs, unless the town has adopted
+18 road and bridge standards, has completed a network inventory, and has
+19 submitted an annual certification of compliance for town road and bridge
+20 standards to the Secretary, in which event the local match shall be sufficient to
+21 cover 10 percent of the project costs.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 28 of 52
+1 (2) Grants provided to rural towns, as that term is defined pursuant to
+2 24 V.S.A. § 4303, under the Town Highway Structures Program shall be
+3 matched by local funds sufficient to cover 10 percent of the project costs,
+4 unless the rural town has adopted road and bridge standards, has completed a
+5 network inventory, and has submitted an annual certification of compliance for
+6 town road and bridge standards to the Secretary, in which event the local
+7 match shall be sufficient to cover 5 percent of the project costs.
+8 (3) The Secretary may adopt rules to implement the Town Highway
+9 Structures Program. Town highway structures projects receiving funds
+10 pursuant to this subsection shall be the responsibility of the applicant
+11 municipality.
+12 (b)(1) Notwithstanding subsection 309a(a) of this title and except as
+13 provided pursuant to subdivision (2) of this subsection, grants provided to
+14 towns under the Class 2 Town Highway Roadway Program shall be matched
+15 by local funds sufficient to cover 30 percent of the project costs, unless the
+16 town has adopted road and bridge standards, has completed a network
+17 inventory, and has submitted an annual certification of compliance for town
+18 road and bridge standards to the Secretary, in which event the local match shall
+19 be sufficient to cover 20 percent of the project costs.
+20 (2) Grants provided to rural towns, as that term is defined pursuant to
+21 24 V.S.A. § 4303, under the Class 2 Town Highway Roadway Program shall
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 29 of 52
+1 be matched by local funds sufficient to cover 15 percent of the project costs,
+2 unless the rural town has adopted road and bridge standards, has completed a
+3 network inventory, and has submitted an annual certification of compliance for
+4 town road and bridge standards to the Secretary, in which event the local
+5 match shall be sufficient to cover 10 percent of the project costs.
+6 (3) The Secretary may adopt rules to implement the Class 2 Town
+7 Highway Roadway Program. Class 2 town highway roadway projects
+8 receiving funds pursuant to this subsection shall be the responsibility of the
+9 applicant municipality, and a municipality shall not receive a grant in excess of
+10 $200,000.00.
+11 * * *
+12 * * * Complete Streets * * *
+13 Sec. 19. 19 V.S.A. § 2405 is added to read:
+14 § 2405. TECHNICAL ASSISTANCE FOR MUNICIPALITIES
+15 The Agency shall provide technical and planning assistance to
+16 municipalities to assist with the incorporation of complete streets principles
+17 into municipal projects and compliance with the provisions of this chapter.
+18 Sec. 20. 2024 Acts and Resolves No. 148, Sec. 31 is amended to read:
+19 Sec. 31. REPLACEMENT FOR THE VERMONT STATE DESIGN
+20 STANDARDS
+21 * * *
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 30 of 52
+1 (c) The Agency of Transportation shall ensure that the replacement for the
+2 Vermont State Design Standards incorporates provisions addressing the
+3 following:
+4 (1) prioritization of reducing vehicle miles traveled in downtown and
+5 village centers identified by a regional planning commission pursuant to
+6 24 V.S.A. § 4348a;
+7 (2) alignment of eligible transportation improvements with future land
+8 use in downtown and village centers identified by a regional planning
+9 commission pursuant to 24 V.S.A. § 4348a through the use of transect maps;
+10 (3) context sensitive design standards for downtown and village centers
+11 identified by a regional planning commission pursuant to 24 V.S.A. § 4348a to
+12 ensure that:
+13 (A) standards are compatible with the existing size of the community
+14 and intensity of activity within the community as well as the settlement scale
+15 for the community depicted on future land use maps;
+16 (B) investments are directed to the development of a comprehensive
+17 pedestrian network consistent with existing and future land use; and
+18 (C) design engineering standards provide for ease of understanding
+19 and implementation of:
+20 (i) narrowed travel lanes;
+21 (ii) slow zones for motor vehicle traffic;
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 31 of 52
+1 (iii) crosswalks;
+2 (iv) enhanced shoulders to accommodate travel by bicycles or
+3 pedestrians, or both;
+4 (v) sidewalks; and
+5 (vi) public transit services;
+6 (4) identification of standards for reducing vehicle travel lane widths
+7 and other traffic calming methods that can be incorporated by regional
+8 planning commissions into downtown and village centers identified pursuant
+9 to 24 V.S.A. § 4348a;
+10 (5) requirements that reconstructed bridges and upsized culverts within
+11 downtown and village centers identified pursuant to 24 V.S.A. § 4348a shall
+12 incorporate pedestrian facilities; and
+13 (6) consideration of guidance from the Department of Forests, Parks and
+14 Recreation’s Vermont Urban & Community Forestry Program Green Streets
+15 Guide into the design of State highways in downtown and village centers.
+16 * * * National Historic Preservation Act Review; Report * * *
+17 Sec. 21. AMENDMENTS TO AGREEMENT RELATED TO REVIEW
+18 UNDER THE NATIONAL HISTORIC PRESERVATION ACT
+19 (a) The Agency of Transportation, in consultation with the Vermont State
+20 Historic Preservation Officer and the Advisory Council on Historic
+21 Preservation, shall seek to amend the Programmatic Agreement Among the
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 32 of 52
+1 Federal Highway Administration, the Vermont State Historic Preservation
+2 Officer, the Advisory Council on Historic Preservation, and the Vermont
+3 Agency of Transportation Regarding the Federal-Aid Highway Program in
+4 Vermont to categorize the creation of new bicycle and pedestrian facilities as
+5 either exempt activities, listed in Appendix A, or screened activities, listed in
+6 Appendix B.
+7 (b) The Agency of Transportation shall provide a written update on its
+8 efforts pursuant to subsection (a) of this section to the House and Senate
+9 Committees on Transportation not later than November 15, 2025.
+10 * * * Local Speed Limits * * *
+11 Sec. 22. 23 V.S.A. § 1007 is amended to read:
+12 § 1007. LOCAL SPEED LIMITS
+13 (a)(1) The legislative body of a municipality may establish, on the basis of
+14 an engineering and traffic investigation, a speed limit on all or a part of any
+15 city, town, or village highway within its jurisdiction, which:
+16 (A) is not more than 50 miles per hour; however, after considering
+17 neighborhood character, abutting land use, bicycle and pedestrian use, and
+18 physical characteristics of the highways, the legislative body of a municipality
+19 may vote to set the maximum speed limit, without an engineering and traffic
+20 investigation, at is not more than 50 miles per hour nor less than 35 miles per
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 33 of 52
+1 hour, on all or a portion of unpaved town highways within its boundaries,
+2 unless otherwise posted in accordance with the provisions of this section; or
+3 (B) is not less than 25 miles per hour.
+4 * * *
+5 (b) The legislative body of a city may establish, on the basis of an
+6 engineering and traffic investigation, a speed limit on all or a part of any State
+7 highway, other than a limited access highway, within its jurisdiction, which:
+8 (1) that is not more than 50 miles per hour; or
+9 (2) is not nor less than 25 miles per hour.
+10 * * *
+11 (e) Lack of evidence of a traffic and engineering study will not invalidate a
+12 local speed limit ordinance as adopted or amended under this section after five
+13 years following the day on which the speed limit ordinance took effect.
+14 [Repealed.]
+15 (f) Notwithstanding the procedure outlined in this section for enacting a
+16 local speed limit, a town or village may adopt a local speed ordinance on a
+17 State highway, other than on limited access highways, provided the ordinance
+18 duplicates the speed limit established under section 1003 of this title.
+19 (g) Notwithstanding any requirements of section 1025 of this title,
+20 downtown development districts, village centers, and new town center
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 34 of 52
+1 development districts designated under 24 V.S.A. chapter 76A may have
+2 posted speed limits of less than 25 miles per hour.
+3 * * * Regional Planning Commissions * * *
+4 Sec. 23. 24 V.S.A. § 4345a is amended to read:
+5 § 4345a. DUTIES OF REGIONAL PLANNING COMMISSIONS
+6 A regional planning commission created under this chapter shall:
+7 * * *
+8 (21) Coordinate regional transportation projects with affected
+9 municipalities to enhance transportation resilience and implementation of the
+10 Climate Action Plan adopted pursuant to 10 V.S.A. § 5902.
+11 Sec. 24. REGIONAL PLANNING COMMISSIONS; REGIONAL
+12 TRANSPORTATION PROJECT COORDINATION; TECHNICAL
+13 ASSISTANCE; GRANTS
+14 The sum of $500,000.00 is appropriated from the Transportation Fund to
+15 the Agency of Transportation to provide technical assistance and grants to
+16 regional planning commissions to assist with the coordination of regional
+17 transportation projects pursuant to 24 V.S.A. § 4345a(21).
+18 * * * Electrical Vehicle Supply Equipment * * *
+19 Sec. 25. 9 V.S.A. § 4468b is added to read:
+20 § 4468b. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+21 (a) As used in this section:
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 35 of 52
+1 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+2 system designed and used specifically to transfer electrical energy to a plug-in
+3 electric vehicle.
+4 (2) “EVSE time-of-use (TOU) meter” means an electric meter supplied
+5 and installed by an electric distribution utility that is separate from, and in
+6 addition to, any other electric meter and is devoted exclusively to the charging
+7 of plug-in electric vehicles and that tracks the TOU when charging occurs. An
+8 EVSE TOU meter includes any wiring or conduit necessary to connect the
+9 meter to an EVSE, regardless of whether it is supplied or installed by an
+10 electric utility.
+11 (b) For any rental agreement executed, extended, or renewed on and after
+12 January 1, 2026, a landlord shall approve a written request of a tenant to install
+13 EVSE at a parking space allotted for the tenant that meets the requirements of
+14 this section and complies with the landlord’s procedural approval process for
+15 modification to the property.
+16 (c) This section does not apply to residential rental properties where:
+17 (1) EVSE already exist for tenants in a ratio that is equal to or greater
+18 than 10 percent of the designated parking spaces;
+19 (2) parking is not provided as part of the lease agreement; or
+20 (3) there are fewer than five parking spaces.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 36 of 52
+1 (d) A landlord shall not be obligated to provide an additional parking space
+2 to a tenant in order to accommodate EVSE.
+3 (e) If the EVSE has the effect of providing the tenant with a reserved
+4 parking space, the landlord may charge a monthly rental amount for that
+5 parking space.
+6 (f) The EVSE or EVSE TOU meter, or both, and all modifications and
+7 improvements to the property shall comply with federal, State, and local law,
+8 and all applicable zoning requirements, land use requirements, and covenants,
+9 conditions, and restrictions.
+10 (g) A tenant’s written request to make a modification to the property in
+11 order to install and use EVSE shall include the tenant’s consent to enter into a
+12 written agreement that includes the following:
+13 (1) Compliance with the landlord’s requirements for the installation,
+14 use, maintenance, and removal of the EVSE or both the EVSE and EVSE TOU
+15 meter and installation, use, and maintenance of the infrastructure for the EVSE
+16 or both the EVSE and EVSE TOU meter.
+17 (2) Compliance with the landlord’s requirements for the tenant to
+18 provide a complete financial analysis and scope of work regarding the
+19 installation of the EVSE or both the EVSE and EVSE TOU meter and its
+20 infrastructure.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 37 of 52
+1 (3) Obligation of the tenant to pay the landlord all costs associated with
+2 the landlord’s installation of the EVSE or both the EVSE and EVSE TOU
+3 meter and related infrastructure prior to any modification or improvement
+4 being made to the leased property. The costs associated with modifications
+5 and improvements shall include the cost of permits, supervision, construction,
+6 and, solely if required by the contractor and consistent with its past
+7 performance of work for the landlord, performance bonds.
+8 (4) Obligation of the tenant to pay as part of rent for the costs associated
+9 with the electrical usage, whether or not through an EVSE TOU meter, of the
+10 EVSE; and costs for damage, maintenance, repair, removal, and replacement
+11 of the EVSE or both the EVSE and EVSE TOU meter; and modifications or
+12 improvements made to the property associated with the EVSE or both the
+13 EVSE and EVSE TOU meter.
+14 (h) The tenant and each successor tenant shall obtain personal liability
+15 coverage in an amount not to exceed 10 times the annual rent charged for the
+16 dwelling unit covering property damage and personal injury proximately
+17 caused by the installation or operation of the EVSE or both the EVSE and
+18 EVSE TOU meter. The policy shall be maintained in full force and effect from
+19 the time of installation of the EVSE or both the EVSE and EVSE TOU meter
+20 until the EVSE or the EVSE and EVSE TOU meter is removed or the tenant
+21 forfeits possession of the dwelling unit to the landlord.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 38 of 52
+1 (i) Notwithstanding subsection (h) of this section, no insurance shall be
+2 required of a tenant installing an EVSE or both an EVSE and EVSE TOU
+3 meter if the following are satisfied:
+4 (1) the EVSE has been certified by a Nationally Recognized Testing
+5 Laboratory that is approved by the Occupational Safety and Health
+6 Administration of the U.S. Department of Labor; and
+7 (2) the EVSE and any associated alterations to the dwelling’s electrical
+8 system are performed by a licensed electrician and the EVSE TOU meter, if
+9 applicable, is installed by the electric distribution utility providing service.
+10 (j) A landlord that intentionally violates this section shall be liable to the
+11 tenant or other party for actual damages and shall pay a civil penalty to the
+12 tenant or other party in an amount not to exceed $1,000.00.
+13 (k) In any action by a tenant requesting to have an EVSE installed and
+14 seeking to enforce compliance with this section, the prevailing plaintiff shall
+15 be awarded reasonable attorney’s fees.
+16 Sec. 26. 27A V.S.A. § 1-204 is amended to read:
+17 § 1-204. PREEXISTING COMMON INTEREST COMMUNITIES
+18 (a)(1) Unless excepted under section 1-203 of this title, the following
+19 sections and subdivisions of this title apply to a common interest community
+20 created in this State before January 1, 1999: sections 1-103, 1-105, 1-106, 1-
+21 107, 2-103, 2-104, and 2-121, subdivisions 3-102(a)(1) through (6) and (11)
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 39 of 52
+1 through (16), and sections 3-111, 3-116, 3-118, 4-109, and 4-117 to the extent
+2 necessary to construe the applicable sections. The sections and subdivisions
+3 described in this subdivision apply only to events and circumstances occurring
+4 after December 31, 1998 and do not invalidate existing provisions of the
+5 declarations, bylaws, plats, or plans of those common interest communities.
+6 * * *
+7 (3) Unless excepted under section 1-203 of this title, section 3-125 of
+8 this title shall apply to a common interest community created in this State
+9 before January 1, 1999. Section 3-125 applies only to events and
+10 circumstances occurring after June 30, 2025 and does not invalidate existing
+11 provisions of the declarations, bylaws, plats, or plans of those common interest
+12 communities.
+13 * * *
+14 Sec. 27. 27A V.S.A. § 3-125 is added to read:
+15 § 3-125. ELECTRIC VEHICLE SUPPLY EQUIPMENT
+16 (a) Definitions. As used in this section:
+17 (1) “Electric vehicle supply equipment (EVSE)” means a device or
+18 system designed and used specifically to transfer electrical energy to a plug-in
+19 electric vehicle.
+20 (2) “EVSE owner” means the unit owner who applies to install an EVSE
+21 and each successive unit owner associated with the initial application to install
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 40 of 52
+1 the EVSE unless there is a specific change in ownership of the EVSE, in which
+2 case the EVSE owner shall be the owner specified in a conveying document
+3 memorializing the change in ownership of the EVSE.
+4 (3) “EVSE time-of-use (TOU) meter” means an electric meter supplied
+5 and installed by an electric distribution utility that is separate from, and in
+6 addition to, any other electric meter and is devoted exclusively to the charging
+7 of plug-in electric vehicles and that tracks the TOU when charging occurs. An
+8 EVSE TOU meter includes any wiring or conduit necessary to connect the
+9 meter to an EVSE, regardless of whether it is supplied or installed by an
+10 electric utility.
+11 (4) “Plug-in electric vehicles” has the same meaning as in 23 V.S.A.
+12 § 4(85).
+13 (5) “Reasonable restrictions” are restrictions that do not significantly
+14 increase the cost of the EVSE or EVSE TOU meter, or both, or significantly
+15 decrease the efficiency or specified performance of the EVSE or EVSE TOU
+16 meter, or both.
+17 (b) Protected uses.
+18 (1) Any covenant, restriction, or condition contained in any deed,
+19 contract, security instrument, or other instrument affecting the transfer or sale
+20 of any interest in a common interest community, and any provision of a
+21 governing document associated with a common interest community, such as a
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 41 of 52
+1 declaration or bylaws, that either effectively prohibits or unreasonably restricts
+2 the installation or use of EVSE or an EVSE TOU meter, or both, within a unit
+3 owner’s unit or in a designated parking space, including a deeded parking
+4 space, a parking space in a unit owner’s exclusive use common element, or a
+5 parking space that is specifically designated for use by a particular unit owner,
+6 or is in conflict with this section is void and unenforceable.
+7 (2) This subsection (b) shall not apply to provisions that impose
+8 reasonable restrictions on EVSE or EVSE TOU meters, or both. However, it is
+9 the policy of the State to promote, encourage, and remove obstacles to the use
+10 of plug-in electric vehicles, including access to EVSE at home.
+11 (3) The EVSE or EVSE TOU meter, or both, and all modifications and
+12 improvements to the common interest community shall comply with federal,
+13 State, and local law, and all applicable zoning requirements, land use
+14 requirements, and covenants, conditions, and restrictions.
+15 (4) If approval is required for the installation or use of EVSE or EVSE
+16 TOU meters, or both, the application for approval shall be processed and
+17 approved by the association in the same manner as an application for approval
+18 of an architectural modification to the common interest community and shall
+19 not be intentionally avoided or delayed. The approval or denial of an
+20 application shall be in writing. If an application is not denied in writing within
+21 60 days from the date of receipt of the application, the application shall be
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 42 of 52
+1 deemed approved, unless that delay is the result of a reasonable request for
+2 additional information.
+3 (5) If the EVSE or EVSE TOU meter, or both, is to be placed in a
+4 common element or a limited common element, as designated in the common
+5 interest community’s declaration, the following provisions apply:
+6 (A) The unit owner first shall obtain approval from the association to
+7 install the EVSE or EVSE TOU meter, or both, and the association shall
+8 approve the installation if the unit owner agrees in writing to do all of the
+9 following:
+10 (i) comply with the association’s architectural standards for the
+11 installation of the EVSE or EVSE TOU meter, or both;
+12 (ii) engage a licensed contractor to install the EVSE and, if
+13 necessary, to install wiring or conduit necessary to connect the EVSE to an
+14 EVSE TOU meter;
+15 (iii) engage the electric distribution utility providing service to
+16 install the EVSE TOU meter, if applicable;
+17 (iv) provide a certificate of insurance that names the association as
+18 an additional insured under the unit owner’s insurance policy within 14 days
+19 after approval; and
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 43 of 52
+1 (v) pay for both the costs associated with the installation of the
+2 EVSE or both the EVSE and EVSE TOU meter and the electricity usage
+3 associated with the EVSE.
+4 (B) The unit owner and each successive owner of the EVSE or both
+5 the EVSE and EVSE TOU meter shall be responsible for all of the following:
+6 (i) costs for damage to the EVSE or EVSE TOU meter, or both; a
+7 common element; or a limited common element resulting from the installation,
+8 maintenance, repair, removal, or replacement of the EVSE or EVSE TOU
+9 meter, or both;
+10 (ii) costs for the maintenance, repair, and replacement of the
+11 EVSE or EVSE TOU meter, or both, until the EVSE has been removed and for
+12 the restoration of the common element or limited common element after
+13 removal;
+14 (iii) cost of electricity associated with the EVSE; and
+15 (iv) disclosing to prospective buyers of the unit the existence of
+16 any EVSE or EVSE TOU meters, or both, and the related responsibilities of
+17 the unit owner under this section.
+18 (C) The owner of EVSE, whether the EVSE is located within a unit
+19 or within a common element or a limited common element, shall, at all times,
+20 maintain a liability coverage policy that names the association as an additional
+21 insured. The unit owner that submitted the application to install the EVSE or
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 44 of 52
+1 EVSE TOU meter, or both, shall provide the association with the
+2 corresponding certificate of insurance within 14 days following approval of the
+3 application. That unit owner and each successor EVSE owner shall annually
+4 provide the association with the certificate of insurance.
+5 (D) An EVSE owner shall not be required to maintain a homeowner
+6 liability coverage policy for an existing National Electrical Manufacturers
+7 Association standard alternating current power plug.
+8 (6) Installation of EVSE or both EVSE and an EVSE TOU meter for the
+9 exclusive use of a unit owner in a common element or limited common
+10 element shall be authorized by the association only if installation in the unit
+11 owner’s unit or designated parking space is impossible or unreasonably
+12 expensive. In such cases, the association shall enter into a license agreement
+13 with the unit owner for the use of the space in a common element or limited
+14 common element and the unit owner shall comply with all of the requirements
+15 in subdivision (5) of this subsection.
+16 (7) The association may install EVSE or both EVSE and an EVSE TOU
+17 meter in the common element or limited common element for the use of all
+18 unit owners in the association and, in that case, the association shall develop
+19 appropriate terms of use for the EVSE.
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 45 of 52
+1 (8) Subject to subdivision (3) of this subsection, an association may
+2 create a new parking space where one did not previously exist to facilitate the
+3 installation of an EVSE.
+4 (9) An association that intentionally violates this subsection shall be
+5 liable to the applicant unit owner or other party for actual damages and shall
+6 pay a civil penalty to the applicant unit owner or other party in an amount not
+7 to exceed $1,000.00.
+8 (10) In any action by a unit owner requesting to have an EVSE installed
+9 and seeking to enforce compliance with this section, the prevailing plaintiff
+10 shall be awarded reasonable attorney’s fees.
+11 Sec. 28. 19 V.S.A. § 2908 is added to read:
+12 § 2908. PUBLIC EVSE; REQUIRED FORMS OF PAYMENT
+13 All EVSE available to the public that requires payment for use shall accept
+14 credit cards for payment of all applicable charges and fees in addition to any
+15 other form of payment accepted by the EVSE.
+16 * * * State Rights of Way * * *
+17 Sec. 29. USE OF STATE-OWNED RIGHTS-OF-WAY; REVENUE
+18 GENERATION; PARKING; EVSE
+19 (a)(1) The Secretary of Transportation shall develop a comprehensive map
+20 of utilities located within State-owned rights-of-way in Vermont and determine
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 46 of 52
+1 whether the State is receiving compensation for the location of utilities within
+2 State-owned rights-of-way.
+3 (2) The Secretary of Transportation shall develop a plan for the State to
+4 begin receiving compensation for the ongoing location of utilities within State-
+5 owned rights-of-way and for increasing the amount of compensation received
+6 in relation to utilities located in State-owned rights-of-way for which the State
+7 is already receiving compensation.
+8 (3) On or before January 15, 2026, the Secretary shall submit a written
+9 report detailing the Secretary’s findings pursuant to subdivision (1) of this
+10 subsection and plan pursuant to subdivision (2) of this subsection to the House
+11 and Senate Committees on Transportation, the House Committee on Ways and
+12 Means, and the Senate Committee on Finance.
+13 (b)(1) The Agency of Transportation shall, if adequate space exists within a
+14 State-owned right-of-way that is located within a downtown and village center
+15 identified by the regional planning commission pursuant to 24 V.S.A. § 4348a,
+16 permit the creation of on-street parking within that right-of-way.
+17 (2) The Agency of Transportation shall identify locations for the
+18 colocation of electrical vehicle supply equipment and on-street parking for all
+19 State-owned rights-of-way that:
+20 (A) are located within a downtown and village center identified by a
+21 regional planning commission pursuant to 24 V.S.A. § 4348a;
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 47 of 52
+1 (B) either have existing on-street parking or are sufficiently wide to
+2 accommodate on-street parking; and
+3 (C) have three-phase power located within or adjacent to the State-
+4 owned right-of-way.
+5 * * * Bicycles * * *
+6 Sec. 30. 23 V.S.A. § 1139 is amended to read:
+7 § 1139. RIDING ON ROADWAYS AND BICYCLE PATHS
+8 (a) A person Due care and riding on the right. An individual operating a
+9 bicycle upon a roadway shall exercise due care when passing a standing
+10 vehicle or one proceeding in the same direction. Bicyclists generally shall ride
+11 as near to the right side of the improved area of the highway right-of-way as is
+12 safe, except that a bicyclist:
+13 (1) Shall ride to the left or in a left lane when:
+14 (A) preparing for a left turn at an intersection or into a private
+15 roadway or driveway;
+16 (B) approaching an intersection with a right-turn lane if not turning
+17 right at the intersection; or
+18 (C) overtaking another vulnerable user.
+19 (2) May ride to the left or in a left lane when taking reasonably
+20 necessary precautions to avoid hazards or road conditions. Examples include
+21 objects on the road, parked or moving vehicles, pedestrians, animals, surface
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 48 of 52
+1 conditions that may impair the bicyclist’s stability, or safety hazards caused by
+2 a narrow road or steep embankment, road geometry, or unfavorable
+3 atmospheric conditions.
+4 (b) Persons riding Riding two abreast. Individuals operating bicycles upon
+5 a roadway may not ride more than two abreast except on paths or parts of
+6 roadways set aside for the exclusive use of bicycles or except as otherwise
+7 permitted by the Commissioner of Public Safety in connection with a public
+8 sporting event in which case the Commissioner shall be authorized to adopt
+9 such rules as the public good requires. Persons Individuals riding two abreast
+10 shall not impede the normal and reasonable movement of traffic and, on a
+11 laned roadway, shall ride within a single lane.
+12 (c) Obedience to traffic-control devices and traffic-control signals. An
+13 individual operating a bicycle shall follow all traffic-control devices and
+14 traffic-control signals governing motor vehicles with the following exceptions:
+15 (1) Stop sign or flashing red signal.
+16 (A) An individual operating a bicycle approaching a stop sign or a
+17 traffic-control signal where a red lens is illuminated with rapid intermittent
+18 flashes shall:
+19 (i) slow down;
+20 (ii) if required to avoid an immediate hazard, stop pursuant to
+21 subsection 1048(b) of this title; and
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 49 of 52
+1 (iii) yield the right-of-way to any vehicle in the intersection or
+2 approaching on another intersecting highway so closely as to constitute an
+3 immediate hazard during the time the bicyclist will be within the intersection.
+4 (B) If an individual operating a bicycle meets the requirements of
+5 subdivision (A) of this subdivision (c)(1), the individual may cautiously make
+6 a turn or proceed through the intersection without stopping.
+7 (2) Pedestrian-control devices and pedestrian-control signals. An
+8 individual operating a bicycle while crossing an intersection may follow
+9 pedestrian-control devices and pedestrian-control signals when present except
+10 where otherwise indicated by traffic-control devices and traffic-control signals
+11 and provided that the bicyclist shall yield to pedestrians in the crosswalk.
+12 (d) Riding on a partially controlled access highway. Bicycles may be
+13 operated on the shoulders of partially controlled access highways, which are
+14 those highways where access is controlled by public authority but where there
+15 are some connections with selected public highways, some crossings at grade,
+16 and some private driveway connections. The Traffic Committee may
+17 determine that any portion of these highways is unsafe and therefore closed to
+18 bicycle operation.
+19 * * * Municipal Resiliency Funding and Assistance * * *
+20 Sec. 31. MUNICIPAL HIGHWAY AND STORMWATER MITIGATION
+21 PROGRAM; ADDITIONAL FUNDING
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 50 of 52
+1 The sum of $1,500,000.00 is appropriated from the Transportation Fund to
+2 the Municipal Highway and Stormwater Mitigation Program in fiscal year
+3 2026 to support the provision of additional grants for projects designed to
+4 improve flood resiliency, including culvert resizing, culvert replacement, and
+5 stormwater management.
+6 * * * Education Transportation * * *
+7 Sec. 32. EDUCATION TRANSPORTATION COST; STUDY; REPORT
+8 (a) The Secretary of Transportation, in consultation with the Secretary of
+9 Education, school districts, and supervisory unions, shall examine the actual
+10 costs and the cost-efficiency of providing school-related transportation to
+11 Vermont public school students.
+12 (b) The Secretary of Transportation shall specifically examine:
+13 (1) to the extent data is available, the total cost, the cost per mile, the
+14 cost per passenger, and the cost per passenger mile for school-related
+15 transportation on a district or supervisory union basis, as well as on a regional
+16 and statewide basis;
+17 (2) if data related to the information required under subdivision (1) of
+18 this subsection is not available, the Secretary shall select three school districts
+19 or supervisory unions that are diverse with respect to their location, size, and
+20 population density and determine the total cost, the cost per mile, the cost per
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 51 of 52
+1 passenger, and the cost per passenger mile of the school-related transportation
+2 provided in each of the districts or supervisory unions;
+3 (3) potential opportunities to utilize public transit to reduce the total
+4 cost, the cost per mile, the cost per passenger, and the cost per passenger mile
+5 of education-related transportation in Vermont;
+6 (4) potential issues that could prevent the utilization of public transit to
+7 reduce the cost of education-related transportation in Vermont, including
+8 restrictions on federal funding, capital expenses, and requirements of State or
+9 federal law; and
+10 (5) anticipated advantages and disadvantages of utilizing public transit
+11 to reduce the cost of education-related transportation in Vermont.
+12 (c) On or before January 15, 2026, the Secretary of Transportation shall
+13 submit a written report to the House and Senate Committees on Education and
+14 on Transportation regarding the Secretary’s findings pursuant to subsection (b)
+15 of this section and any recommendations for legislative action.
+16 * * * First Time Car Buyer Workshops * * *
+17 Sec. 33. FIRST TIME CAR BUYER WORKSHOPS
+18 The sum of $15,000.00 is appropriated to the Agency of Transportation for
+19 the provision, in cooperation with community action agencies, of first-time car
+20 buyer workshops to educate new Americans and disadvantaged Vermonters
+VT LEG #380106 v.1
+
+BILL AS INTRODUCED S.75
+2025 Page 52 of 52
+1 about the process for buying a motor vehicle and incentives that are available
+2 to assist with the purchase of a motor vehicle.
+3 * * * Effective Dates * * *
+4 Sec. 34. EFFECTIVE DATES
+5 (a) This section and Secs. 6, 8, and 9 shall take effect on passage.
+6 (b) Sec. 5 (efficiency fees and rebates; 23 V.S.A. § 383) shall take effect on
+7 July 1, 2026.
+8 (c) Sec. 7 (efficiency fees and rebates; 23 V.S.A. § 383(d)) shall take effect
+9 on July 1, 2028, provided that the General Assembly has not enacted
+10 legislation providing for alternative efficiency fees and rebates based in whole
+11 or in part on the recommendations of the Efficiency Fees and Rebates Task
+12 Force.
+13 (d) The remaining sections shall take effect on July 1, 2025.
+VT LEG #380106 v.1
+
+[DELETED:  S P S I S R D S d v e S S f E R f a d s ( c v o]
+[DELETED:  S P v r w m T i S i a E r r i c a a h t A i]
+[DELETED:  S P I * S T T * S ( A M ( t I 1 ( A R ( A e 5]
+[DELETED:  S P S ( T I ( P F A A C O $ $ $ T $ $ $ S S $ $ $ T $ $ $ ( f t l ( s f m f]
+[DELETED:  S P * S C § A ( ( 3 ( p d b ( § p ( § ( 3 ( s]
+[DELETED:  S P ( p p a ( f ( o ( ( p ( n p i ( t t § ( p]
+[DELETED:  S P i t ( C t ( s r §   T o c § R t * S § (]
+[DELETED:  S P ( a ( m c t r § ( t ( a ( o ( w t c w P l]
+[DELETED:  S P ( w t u a 4 ( g t ( b t ( v v c v v ( s]
+[DELETED:  S P ( v ( b a ( ( ( p a p S ( t s 2 ( m ( a]
+[DELETED:  S P ( C ( ( ( ( S ( A C ( ( t ( 2 ( b a ( a e]
+[DELETED:  S P ( i ( r ( ( ( r A ( r r ( ( m ( ( ( ( ( A]
+[DELETED:  S P b t m ( b p p T S § * ( ( ( ( t ( ( t ( (]
+[DELETED:  S P ( ( ( t ( ( t ( ( ( ( ( t ( ( l ( S   T A]
+[DELETED:  S P p o q a S ( H i s t ( ( ( t v ( a ( r]
+[DELETED:  S P * O S   ( c P o e ( i ( ( ( ( t ( ( ( r]
+[DELETED:  S P ( a ( t ( ( i t ( v e ( ( ( ( m ( r ( p a]
+[DELETED:  S P ( ( l ( f v ( d t C p * S ( A p p m o ( A]
+[DELETED:  S P p f * S § A * ( t S § ( d r ( a d ( e c r]
+[DELETED:  S P t 3 * ( s a ( e a * ( p t * ( T t r S § *]
+[DELETED:  S P ( c * ( m l ( ( g * ( a m h S § * ( d o *]
+[DELETED:  S P ( e ( ( g * * S § * ( ( r r a f f ( i t s]
+[DELETED:  S P h s ( t S s C ( r ( s r r e w ( e p r h i]
+[DELETED:  S P ( f s r t h A ( f m ( T * ( ( A e u ( s p]
+[DELETED:  S P ( § p * ( b * ( ( P g s s ( ( s ( § p]
+[DELETED:  S P ( ( s ( A s * ( p S §   ( 3 w m ( * ( A w]
+[DELETED:  S P f p t ( t c r ( 2 p * S § ( p t s r s s c]
+[DELETED:  S P ( 2 m u n t m ( S p m ( p t b t i r b ( 2]
+[DELETED:  S P b u n t m ( H r a $ * * S § T m i S S   *]
+[DELETED:  S P ( V f ( v 2 ( u c ( i e ( a f ( p ( a ( (]
+[DELETED:  S P ( ( p ( ( ( a p t ( d i ( R G * S   ( H P]
+[DELETED:  S P F O A V e A ( e C * S § ( a c ( n p m i]
+[DELETED:  S P h u ( * ( e h ( ( * ( l y [ ( l S d ( d]
+[DELETED:  S P d p * S § A * ( m C S     T t r t * S § (]
+[DELETED:  S P ( s e ( a a o E m e ( J E t m ( ( t ( (]
+[DELETED:  S P ( t ( p p ( i a c ( o w ( u m o ( p i i]
+[DELETED:  S P ( t m b a a p ( w E o i E ( c d c E t u f]
+[DELETED:  S P ( r m ( L A ( s a ( t t ( s b S § ( s c 1]
+[DELETED:  S P t n d a d * ( t b c p c * S § ( ( s e ( a]
+[DELETED:  S P t c m ( a a o E m e ( § ( i d m ( ( c o g]
+[DELETED:  S P d t o s p o ( r t o ( i S r ( T a o n a 6]
+[DELETED:  S P d a ( c i ( i a f ( i ( n E ( i ( a a]
+[DELETED:  S P ( E a ( t ( c m m ( E t r ( ( a t ( o m i]
+[DELETED:  S P E c a p ( l A ( e e o e w c i ( m u a]
+[DELETED:  S P ( c i ( l p t ( a s S § A c o * S   ( o]
+[DELETED:  S P w S ( b o i i ( r s a M ( S i p ( c S ( r]
+[DELETED:  S P ( a ( o * S § ( b v a s ( ( r ( r ( ( n o]
+[DELETED:  S P c a a ( a r p s s s l ( i t ( ( t f ( ( s]
+[DELETED:  S P ( a i ( s a ( i p w a ( o t a a d b * S  ]
+[DELETED:  S P T t 2 i s * S ( E c V ( ( c t a ( t o p]
+[DELETED:  S P p p ( c o ( r r f ( t ( s o o * S T t b]
+[DELETED:  S P a t * S ( ( J ( o l o F (]

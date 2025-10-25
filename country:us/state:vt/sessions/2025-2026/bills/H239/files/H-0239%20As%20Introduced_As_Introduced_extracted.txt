@@ -1,0 +1,233 @@
+Title: BILL AS INTRODUCED H.239
+Official Title: BILL AS INTRODUCED H.239
+Number of Sections: 1
+Source: versions - As Introduced
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+2025 Page 1 of 5
+1 H.239
+2 Introduced by Representatives McCann of Montpelier, Casey of Montpelier,
+3 Cordes of Bristol, Hooper of Burlington, Logan of Burlington,
+4 McGill of Bridport, Pouech of Hinesburg, and Priestley of
+5 Bradford
+6 Referred to Committee on
+7 Date:
+8 Subject: Executive; classification of State personnel; State Employees Labor
+9 Relations Act; Judiciary Employees Labor Relations Act; temporary
+10 State employees
+11 Statement of purpose of bill as introduced: This bill proposes to establish
+12 certain rights for temporary State employees and to permit long-term
+13 temporary State employees to collectively bargain.
+14 An act relating to temporary State employees
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 3 V.S.A. § 331 is amended to read:
+17 § 331. TEMPORARY EMPLOYEES
+18 * * *
+19 (f)(1) An individual employed in a temporary or seasonal capacity shall
+VT LEG #380681 v.1
+BILL AS INTRODUCED H.239
+2025 Page 2 of 5
+1 (A) be entitled to the whistleblower protections, rights, and remedies
+2 provided to State employees pursuant to sections 971-978 of this title;
+3 (B) be paid in accordance with the job classification and pay plan for
+4 classified State employees that is most closely applicable to the work
+5 performed by the individual; and
+6 (C) receive paid and unpaid leave, including sick and annual leave,
+7 parental and family leave, holidays, and other leave benefits provided to
+8 comparable classified State employees.
+9 (2) An individual employed in a temporary or seasonal capacity shall
+10 not be terminated without good cause.
+11 (3) The State shall provide an individual who has been employed in a
+12 temporary capacity for a period of six months with health insurance benefits
+13 that, at a minimum, satisfy the affordable minimum essential coverage
+14 standards of the Affordable Care Act and provide coverage for the individual’s
+15 dependents.
+16 Sec. 2. 3 V.S.A. § 902 is amended to read:
+17 § 902. DEFINITIONS
+18 As used in this chapter:
+19 * * *
+20 (5) “State employee” means any individual employed on a permanent or
+21 limited-status basis by the State of Vermont, the Vermont State Colleges, the
+VT LEG #380681 v.1
+BILL AS INTRODUCED H.239
+2025 Page 3 of 5
+1 University of Vermont, the State’s Attorneys’ offices, or as a full-time deputy
+2 sheriff paid by the State pursuant to 24 V.S.A. § 290(b), including permanent
+3 part-time employees, and an individual whose work has ceased as a
+4 consequence of, or in connection with, any current labor dispute or because of
+5 any unfair labor practice, but excluding an individual:
+6 (A) exempt or excluded from the State classified service under the
+7 provisions of section 311 of this title, except that the following types of
+8 employees are included within the meaning of “State employee”:
+9 (i) State Police in the Department of Public Safety;
+10 (ii) employees of the Defender General, excluding attorneys
+11 employed directly by the Defender General and attorneys contracted to provide
+12 legal services;
+13 (iii) deputy State’s Attorneys;
+14 (iv) employees of State’s Attorneys’ offices; and
+15 (v) full-time deputy sheriffs paid by the State pursuant to 24
+16 V.S.A. § 290(b) are included within the meaning of “State employee”; and
+17 (vi) individuals employed in temporary or intermittent positions
+18 who work more than 1,280 hours per year in one or more such positions for a
+19 period of two years, or who are designated as temporary employees but whose
+20 employment does not comply with the requirements of subsection 331(b) of
+21 this title;
+VT LEG #380681 v.1
+BILL AS INTRODUCED H.239
+2025 Page 4 of 5
+1 * * *
+2 Sec. 3. 3 V.S.A. § 1011 is amended to read:
+3 § 1011. DEFINITIONS
+4 As used in this chapter:
+5 * * *
+6 (8) “Employee,” means any individual employed and compensated on a
+7 permanent or limited status basis by the Judiciary Department, including
+8 permanent part-time employees and any individual whose employment has
+9 ceased as a consequence of, or in connection with, any current labor dispute or
+10 because of an unfair labor practice. “Employee” does not include any of the
+11 following:
+12 * * *
+13 (E) an individual employed on a temporary, contractual, seasonal, or
+14 on-call basis, including an intern, provided that:
+15 (i) the individual was hired to:
+16 (I) temporarily replace an employee on vacation, medical leave,
+17 or another leave of absence;
+18 (II) accommodate peak or increased workloads; or
+19 (III) replace or supplement permanent employees working on
+20 special assignments or projects not normally included in the duties of
+21 permanent employees; and
+VT LEG #380681 v.1
+BILL AS INTRODUCED H.239
+2025 Page 5 of 5
+1 (ii) the individual has not worked more than 1,280 hours per year
+2 in one or more such positions for a period of two years;
+3 * * *
+4 Sec. 4. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2025.
+VT LEG #380681 v.1
+[DELETED:  H P H I R C M B R D S R S S c t A I S § * (]
+[DELETED:  H P ( p ( c p ( p c ( n ( t t s d S § A * ( l]
+[DELETED:  H P U s p c a ( p e ( ( e l ( ( ( V ( w p e t]
+[DELETED:  H P * S § A * ( p p c b f * ( o ( ( o ( ( s p]
+[DELETED:  H P ( i * S T]
+
+
+================================================================================
+
+Raw Text:
+BILL AS INTRODUCED H.239
+2025 Page 1 of 5
+1 H.239
+2 Introduced by Representatives McCann of Montpelier, Casey of Montpelier,
+3 Cordes of Bristol, Hooper of Burlington, Logan of Burlington,
+4 McGill of Bridport, Pouech of Hinesburg, and Priestley of
+5 Bradford
+6 Referred to Committee on
+7 Date:
+8 Subject: Executive; classification of State personnel; State Employees Labor
+9 Relations Act; Judiciary Employees Labor Relations Act; temporary
+10 State employees
+11 Statement of purpose of bill as introduced: This bill proposes to establish
+12 certain rights for temporary State employees and to permit long-term
+13 temporary State employees to collectively bargain.
+14 An act relating to temporary State employees
+15 It is hereby enacted by the General Assembly of the State of Vermont:
+16 Sec. 1. 3 V.S.A. § 331 is amended to read:
+17 § 331. TEMPORARY EMPLOYEES
+18 * * *
+19 (f)(1) An individual employed in a temporary or seasonal capacity shall
+VT LEG #380681 v.1
+
+BILL AS INTRODUCED H.239
+2025 Page 2 of 5
+1 (A) be entitled to the whistleblower protections, rights, and remedies
+2 provided to State employees pursuant to sections 971-978 of this title;
+3 (B) be paid in accordance with the job classification and pay plan for
+4 classified State employees that is most closely applicable to the work
+5 performed by the individual; and
+6 (C) receive paid and unpaid leave, including sick and annual leave,
+7 parental and family leave, holidays, and other leave benefits provided to
+8 comparable classified State employees.
+9 (2) An individual employed in a temporary or seasonal capacity shall
+10 not be terminated without good cause.
+11 (3) The State shall provide an individual who has been employed in a
+12 temporary capacity for a period of six months with health insurance benefits
+13 that, at a minimum, satisfy the affordable minimum essential coverage
+14 standards of the Affordable Care Act and provide coverage for the individual’s
+15 dependents.
+16 Sec. 2. 3 V.S.A. § 902 is amended to read:
+17 § 902. DEFINITIONS
+18 As used in this chapter:
+19 * * *
+20 (5) “State employee” means any individual employed on a permanent or
+21 limited-status basis by the State of Vermont, the Vermont State Colleges, the
+VT LEG #380681 v.1
+
+BILL AS INTRODUCED H.239
+2025 Page 3 of 5
+1 University of Vermont, the State’s Attorneys’ offices, or as a full-time deputy
+2 sheriff paid by the State pursuant to 24 V.S.A. § 290(b), including permanent
+3 part-time employees, and an individual whose work has ceased as a
+4 consequence of, or in connection with, any current labor dispute or because of
+5 any unfair labor practice, but excluding an individual:
+6 (A) exempt or excluded from the State classified service under the
+7 provisions of section 311 of this title, except that the following types of
+8 employees are included within the meaning of “State employee”:
+9 (i) State Police in the Department of Public Safety;
+10 (ii) employees of the Defender General, excluding attorneys
+11 employed directly by the Defender General and attorneys contracted to provide
+12 legal services;
+13 (iii) deputy State’s Attorneys;
+14 (iv) employees of State’s Attorneys’ offices; and
+15 (v) full-time deputy sheriffs paid by the State pursuant to 24
+16 V.S.A. § 290(b) are included within the meaning of “State employee”; and
+17 (vi) individuals employed in temporary or intermittent positions
+18 who work more than 1,280 hours per year in one or more such positions for a
+19 period of two years, or who are designated as temporary employees but whose
+20 employment does not comply with the requirements of subsection 331(b) of
+21 this title;
+VT LEG #380681 v.1
+
+BILL AS INTRODUCED H.239
+2025 Page 4 of 5
+1 * * *
+2 Sec. 3. 3 V.S.A. § 1011 is amended to read:
+3 § 1011. DEFINITIONS
+4 As used in this chapter:
+5 * * *
+6 (8) “Employee,” means any individual employed and compensated on a
+7 permanent or limited status basis by the Judiciary Department, including
+8 permanent part-time employees and any individual whose employment has
+9 ceased as a consequence of, or in connection with, any current labor dispute or
+10 because of an unfair labor practice. “Employee” does not include any of the
+11 following:
+12 * * *
+13 (E) an individual employed on a temporary, contractual, seasonal, or
+14 on-call basis, including an intern, provided that:
+15 (i) the individual was hired to:
+16 (I) temporarily replace an employee on vacation, medical leave,
+17 or another leave of absence;
+18 (II) accommodate peak or increased workloads; or
+19 (III) replace or supplement permanent employees working on
+20 special assignments or projects not normally included in the duties of
+21 permanent employees; and
+VT LEG #380681 v.1
+
+BILL AS INTRODUCED H.239
+2025 Page 5 of 5
+1 (ii) the individual has not worked more than 1,280 hours per year
+2 in one or more such positions for a period of two years;
+3 * * *
+4 Sec. 4. EFFECTIVE DATE
+5 This act shall take effect on July 1, 2025.
+VT LEG #380681 v.1
+
+[DELETED:  H P H I R C M B R D S R S S c t A I S § * (]
+[DELETED:  H P ( p ( c p ( p c ( n ( t t s d S § A * ( l]
+[DELETED:  H P U s p c a ( p e ( ( e l ( ( ( V ( w p e t]
+[DELETED:  H P * S § A * ( p p c b f * ( o ( ( o ( ( s p]
+[DELETED:  H P ( i * S T]

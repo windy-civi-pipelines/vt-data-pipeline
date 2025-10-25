@@ -1,0 +1,101 @@
+Title: This act summary is provided for the convenience of the public and members of the General Assembly. It
+Official Title: This act summary is provided for the convenience of the public and members of the General Assembly. It
+Number of Sections: 1
+Source: versions - Act Summary
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+Act No. 23 Page 1 of 1
+2025
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 23 (H.137). An act relating to the regulation of insurance products and services
+Subjects: Insurance; captive insurance; property and casualty insurance; money
+transmission licenses; interest rate caps; banking transaction holds; coerced debt;
+genetic privacy; Medigap rates; virtual-currency kiosks; mutual savings bank
+governance
+This act makes numerous amendments to Vermont law as it pertains to insurance,
+banking, and money transmission. In addition to numerous housekeeping amendments,
+the insurance provisions concern the following subjects: property and casualty rate
+regulation in competitive markets; unfair insurance trade practices related to affordable
+housing; capitalization, formation, merger, reinsurance, and governance requirements
+applicable to captive insurance companies and risk retention groups; and regulatory
+requirements applicable to Medicare supplement insurance rates.
+In addition, the act exempts certain payroll processors from having to obtain a money
+transmission license; expands the scope of “permitted charges” not subject to statutory
+interest rate caps to include “discount points,” (i.e., prepaid interest), and requires
+enhanced protections for depositors of mutual savings banks, particularly with respect to
+governance and the fiduciary duties of corporators.
+Regarding the regulation of virtual-currency kiosks, the act extends by one additional
+year the moratorium on new virtual-currency kiosks in Vermont, which was set to expire
+on July 1, 2025. It also imposes additional consumer protections applicable to the
+existing virtual-currency kiosks currently operating in Vermont. These consumer
+protections include the following: enhanced consumer disclosures and warnings;
+customer identification requirements; live customer support; mandatory live screenings
+for certain customers; blockchain analytics to detect and prevent fraudulent transactions;
+and full refunds for new customers and fee refunds for existing customers in the event of
+fraudulent activity. Also, the act increases the daily transaction limits for new customers
+and existing customers and increases the statutory transaction fee cap that a virtual-
+currency kiosk operator may impose.
+Finally, the act requires the Commissioner of Financial Regulation to conduct three in-
+house studies related to the following topics: enhanced authority for banks to protect
+account holders from suspected fraudulent activity by imposing transaction holds;
+protections for victims of coerce debt; and genetic privacy in the insurance context,
+particularly regarding genetic data obtained by direct-to-consumer companies, such as
+those that conduct ancestry DNA testing.
+Multiple effective dates, beginning on July 1, 2025
+VT LEG #383693 v.2
+[DELETED:  P]
+
+
+================================================================================
+
+Raw Text:
+Act No. 23 Page 1 of 1
+2025
+This act summary is provided for the convenience of the public and members of the General Assembly. It
+is intended to provide a general summary of the act and may not be exhaustive. It has been prepared by the
+staff of the Office of Legislative Counsel without input from members of the General Assembly. It is not
+intended to aid in the interpretation of legislation or to serve as a source of legislative intent.
+Act No. 23 (H.137). An act relating to the regulation of insurance products and services
+Subjects: Insurance; captive insurance; property and casualty insurance; money
+transmission licenses; interest rate caps; banking transaction holds; coerced debt;
+genetic privacy; Medigap rates; virtual-currency kiosks; mutual savings bank
+governance
+This act makes numerous amendments to Vermont law as it pertains to insurance,
+banking, and money transmission. In addition to numerous housekeeping amendments,
+the insurance provisions concern the following subjects: property and casualty rate
+regulation in competitive markets; unfair insurance trade practices related to affordable
+housing; capitalization, formation, merger, reinsurance, and governance requirements
+applicable to captive insurance companies and risk retention groups; and regulatory
+requirements applicable to Medicare supplement insurance rates.
+In addition, the act exempts certain payroll processors from having to obtain a money
+transmission license; expands the scope of “permitted charges” not subject to statutory
+interest rate caps to include “discount points,” (i.e., prepaid interest), and requires
+enhanced protections for depositors of mutual savings banks, particularly with respect to
+governance and the fiduciary duties of corporators.
+Regarding the regulation of virtual-currency kiosks, the act extends by one additional
+year the moratorium on new virtual-currency kiosks in Vermont, which was set to expire
+on July 1, 2025. It also imposes additional consumer protections applicable to the
+existing virtual-currency kiosks currently operating in Vermont. These consumer
+protections include the following: enhanced consumer disclosures and warnings;
+customer identification requirements; live customer support; mandatory live screenings
+for certain customers; blockchain analytics to detect and prevent fraudulent transactions;
+and full refunds for new customers and fee refunds for existing customers in the event of
+fraudulent activity. Also, the act increases the daily transaction limits for new customers
+and existing customers and increases the statutory transaction fee cap that a virtual-
+currency kiosk operator may impose.
+Finally, the act requires the Commissioner of Financial Regulation to conduct three in-
+house studies related to the following topics: enhanced authority for banks to protect
+account holders from suspected fraudulent activity by imposing transaction holds;
+protections for victims of coerce debt; and genetic privacy in the insurance context,
+particularly regarding genetic data obtained by direct-to-consumer companies, such as
+those that conduct ancestry DNA testing.
+Multiple effective dates, beginning on July 1, 2025
+VT LEG #383693 v.2
+
+[DELETED:  P]
